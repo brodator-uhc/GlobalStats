@@ -18,10 +18,14 @@ List<String> seasons = new List<String>();
 List<DateTime> dates = new List<DateTime>();
 List<List<String>> rosterslist = new List<List<String>>();
 List<String> rosters = new List<String>();
-List<List<String>> victimslist = new List<List<String>>();
-List<List<String>> killerslist = new List<List<String>>();
+List<String> victims = new List<String>();
+List<String> methods = new List<String>();
 List<String> killers = new List<String>();
 List<int> numberPlayers = new List<int>();
+
+List<String> kl_rounds = new List<String>();
+List<String> kl_seasons = new List<String>();
+List<DateTime> kl_dates = new List<DateTime>();
 
 using var workbook = new XLWorkbook(filePath);
 for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
@@ -42,6 +46,8 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
         int lastDataColumn = season+3;
         int lastDataRow = rangeUsed.LastRowUsed().RowNumber();
+        int middleDataColumn = season+2;
+        int rosterSize = 0;
 
         //Get values for the round list
         rounds.Add(worksheet.Name);
@@ -54,21 +60,31 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         {
         string value = cell.GetString(); 
         rosters.Add(value);
+        victims.Add(value);
         }
-        victimslist.Add(new List<String>(rosters));
+        rosterSize = rosters.Count();
         rosters.Sort();
         rosterslist.Add(new List<String>(rosters));
         rosters = new List<String>();
 
         //Get the killers for the season
-        IXLRange killerRange = worksheet.Range(firstDataRow,lastDataColumn,lastDataRow,lastDataColumn);
+        IXLRange killerRange = worksheet.Range(firstDataRow,lastDataColumn,firstDataRow+(rosterSize-1),lastDataColumn);
         foreach (IXLCell cell in killerRange.Cells())
         {
         string value = cell.GetString(); 
         killers.Add(value);
+        kl_rounds.Add(worksheet.Name);
+        kl_seasons.Add(worksheet.Cell(1,firstDataColumn).GetString());
+        kl_dates.Add(worksheet.Cell(2,firstDataColumn).GetDateTime());
         }
-        killerslist.Add(new List<String>(killers));
-        killers = new List<String>();
+
+        //Get the methods for the season
+        IXLRange methodRange = worksheet.Range(firstDataRow,middleDataColumn,firstDataRow+(rosterSize-1),middleDataColumn);
+        foreach (IXLCell cell in methodRange.Cells())
+        {
+        string value = cell.GetString(); 
+        methods.Add(value);
+        }
     }
 }
 
@@ -90,29 +106,19 @@ allrosters.Cell("C1").InsertData(dates);
 allrosters.Cell("D1").InsertData(rosterslist);
 allrosters.Sort(3);
 
-//Making Victims Page
-var allvictims = statscompiled.AddWorksheet("All Victims");
-allvictims.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-allvictims.Column("A").Width = 34; 
-allvictims.Column("B").Width = 6; 
-allvictims.Column("C").Width = 20; 
-allvictims.Cell("A1").InsertData(rounds);
-allvictims.Cell("B1").InsertData(seasons);
-allvictims.Cell("C1").InsertData(dates);
-allvictims.Cell("D1").InsertData(victimslist);
-allvictims.Sort(3);
-
-//Making Killers Page
-var allkillers = statscompiled.AddWorksheet("All Killers");
-allkillers.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-allkillers.Column("A").Width = 34; 
-allkillers.Column("B").Width = 6; 
-allkillers.Column("C").Width = 20; 
-allkillers.Cell("A1").InsertData(rounds);
-allkillers.Cell("B1").InsertData(seasons);
-allkillers.Cell("C1").InsertData(dates);
-allkillers.Cell("D1").InsertData(killerslist);
-allkillers.Sort(3);
+//Making Kills Page
+var allkills = statscompiled.AddWorksheet("All Victims");
+allkills.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
+allkills.Column("A").Width = 34; 
+allkills.Column("B").Width = 6; 
+allkills.Column("C").Width = 20; 
+allkills.Cell("A1").InsertData(kl_rounds);
+allkills.Cell("B1").InsertData(kl_seasons);
+allkills.Cell("C1").InsertData(kl_dates);
+allkills.Cell("D1").InsertData(victims);
+allkills.Cell("E1").InsertData(methods);
+allkills.Cell("F1").InsertData(killers);
+allkills.Sort(3);
 
 statscompiled.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\StatsCompiled.xlsx");
 Console.WriteLine("Stats are now compiled!");
