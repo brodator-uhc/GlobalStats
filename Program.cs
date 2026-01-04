@@ -52,7 +52,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         int lastDataColumn = season+3;
         int lastDataRow = rangeUsed.LastRowUsed().RowNumber();
         int middleDataColumn = season+2;
-        int rosterSize = 0;
+        int seasonSize = 0;
 
         //Get values for the round list
         rounds.Add(worksheet.Name);
@@ -60,12 +60,17 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         dates.Add(worksheet.Cell(2,firstDataColumn).GetDateTime());
 
         //Get the roster/victims for the season
-        IXLRange victimRange = worksheet.Range(firstDataRow,firstDataColumn,lastDataRow,firstDataColumn); 
+        IXLRange victimRange = worksheet.Range(firstDataRow,firstDataColumn,lastDataRow,firstDataColumn);
+        seasonSize = victimRange.RowsUsed().Count();
         foreach (IXLCell cell in victimRange.CellsUsed())
         {
         string value = cell.GetString(); 
-        rosters.Add(value);
         victims.Add(value);
+
+        if (!rosters.Contains(value))
+            {
+                rosters.Add(value);
+            }
 
         if (!test_players.Contains(value))
             {
@@ -77,13 +82,12 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 rs_players.Add(value); 
             }
         }
-        rosterSize = rosters.Count();
         rosters.Sort();
         rosterslist.Add(rosters);
         rosters = new List<String>();
 
         //Get the killers for the season
-        IXLRange killerRange = worksheet.Range(firstDataRow,lastDataColumn,firstDataRow+(rosterSize-1),lastDataColumn);
+        IXLRange killerRange = worksheet.Range(firstDataRow,lastDataColumn,firstDataRow+(seasonSize-1),lastDataColumn);
         foreach (IXLCell cell in killerRange.Cells())
         {
         string value = cell.GetString(); 
@@ -94,7 +98,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         }
 
         //Get the methods for the season
-        IXLRange methodRange = worksheet.Range(firstDataRow,middleDataColumn,firstDataRow+(rosterSize-1),middleDataColumn);
+        IXLRange methodRange = worksheet.Range(firstDataRow,middleDataColumn,firstDataRow+(seasonSize-1),middleDataColumn);
         foreach (IXLCell cell in methodRange.Cells())
         {
         string value = cell.GetString(); 
@@ -119,7 +123,7 @@ roundlist.Cell("B1").InsertData(total_seasons);
 roundlist.Cell("C1").InsertData(roster_sizes);
 roundlist.Cell("D1").InsertData(round_debuts);
 roundlist.Cell("E1").InsertData(test_players);
-//roundlist.Sort(4);
+roundlist.Sort(4);
 
 //Making All Rosters Page
 var allrosters = statscompiled.AddWorksheet("All Rosters");
