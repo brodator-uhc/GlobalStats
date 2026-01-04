@@ -10,6 +10,13 @@ if (!File.Exists(filePath))
     return;
 }
 
+//TO ADD
+//Seasons analysed, rounds analysed, unique players
+//Largets roster,Smallest roster, Smallest roster (1+ season)
+//Global stats
+//Debutant list
+//Kill Records
+
 //Statistics to collect
 List<String> global_rounds = new List<String>();
 List<String> rounds = new List<String>();
