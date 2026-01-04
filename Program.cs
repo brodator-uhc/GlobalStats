@@ -14,10 +14,13 @@ if (!File.Exists(filePath))
 List<String> global_rounds = new List<String>();
 List<String> rounds = new List<String>();
 List<int> total_seasons = new List<int>();
+List<DateTime> round_debuts = new List<DateTime>();
 List<String> seasons = new List<String>();
 List<DateTime> dates = new List<DateTime>();
 List<List<String>> rosterslist = new List<List<String>>();
 List<String> rosters = new List<String>();
+List<String> rs_players = new List<String>();
+List<int> roster_sizes = new List<int>();
 List<String> victims = new List<String>();
 List<String> methods = new List<String>();
 List<String> killers = new List<String>();
@@ -26,6 +29,7 @@ List<int> numberPlayers = new List<int>();
 List<String> kl_rounds = new List<String>();
 List<String> kl_seasons = new List<String>();
 List<DateTime> kl_dates = new List<DateTime>();
+List<String> test_players = new List<String>();
 
 using var workbook = new XLWorkbook(filePath);
 for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
@@ -35,6 +39,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     //Name of round + seasons
     global_rounds.Add(worksheet.Name);
     total_seasons.Add((worksheet.Columns().Count() - 1) / 3);
+    round_debuts.Add(worksheet.Cell(2,2).GetDateTime());
     Console.WriteLine("Working on " + worksheet.Name);
     Console.WriteLine(((worksheet.Columns().Count() - 1) / 3).ToString( ) + " Seasons!");
 
@@ -61,10 +66,20 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         string value = cell.GetString(); 
         rosters.Add(value);
         victims.Add(value);
+
+        if (!test_players.Contains(value))
+            {
+                test_players.Add(value);
+            }
+
+        if (!rs_players.Contains(value))
+            {
+                rs_players.Add(value); 
+            }
         }
         rosterSize = rosters.Count();
         rosters.Sort();
-        rosterslist.Add(new List<String>(rosters));
+        rosterslist.Add(rosters);
         rosters = new List<String>();
 
         //Get the killers for the season
@@ -86,13 +101,25 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         methods.Add(value);
         }
     }
+
+    roster_sizes.Add(rs_players.Count);
+    rs_players = new List<String>();
 }
 
 var statscompiled = new XLWorkbook();
 //Making Round List Page
 var roundlist = statscompiled.AddWorksheet("Round List");
+roundlist.Column("D").Style.NumberFormat.Format = "dd mmm, yyyy";
+roundlist.Column("A").Width = 34; 
+roundlist.Column("B").Width = 6; 
+roundlist.Column("C").Width = 6; 
+roundlist.Column("D").Width = 20; 
 roundlist.Cell("A1").InsertData(global_rounds);
 roundlist.Cell("B1").InsertData(total_seasons);
+roundlist.Cell("C1").InsertData(roster_sizes);
+roundlist.Cell("D1").InsertData(round_debuts);
+roundlist.Cell("E1").InsertData(test_players);
+//roundlist.Sort(4);
 
 //Making All Rosters Page
 var allrosters = statscompiled.AddWorksheet("All Rosters");
