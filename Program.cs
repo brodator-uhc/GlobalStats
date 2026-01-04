@@ -30,12 +30,16 @@ List<String> rs_players = new List<String>();
 List<int> roster_sizes = new List<int>();
 List<String> victims = new List<String>();
 List<String> methods = new List<String>();
+List<String> teams = new List<String>();
 List<String> killers = new List<String>();
 List<int> numberPlayers = new List<int>();
 
 List<String> kl_rounds = new List<String>();
 List<String> kl_seasons = new List<String>();
 List<DateTime> kl_dates = new List<DateTime>();
+List<String> tl_rounds = new List<String>();
+List<String> tl_seasons = new List<String>();
+List<DateTime> tl_dates = new List<DateTime>();
 List<String> test_players = new List<String>();
 
 using var workbook = new XLWorkbook(filePath);
@@ -111,6 +115,17 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         string value = cell.GetString(); 
         methods.Add(value);
         }
+
+        //Get the teams for the season
+        IXLRange teamRange = worksheet.Range(9,firstDataColumn,firstDataRow-2,firstDataColumn);
+        foreach (IXLCell cell in teamRange.CellsUsed())
+        {
+        string value = cell.GetString(); 
+        teams.Add(value);
+        tl_rounds.Add(worksheet.Name);
+        tl_seasons.Add(worksheet.Cell(1,firstDataColumn).GetString());
+        tl_dates.Add(worksheet.Cell(2,firstDataColumn).GetDateTime());
+        }
     }
 
     roster_sizes.Add(rs_players.Count);
@@ -145,7 +160,7 @@ allrosters.Cell("D1").InsertData(rosterslist);
 allrosters.Sort(3);
 
 //Making Kills Page
-var allkills = statscompiled.AddWorksheet("All Victims");
+var allkills = statscompiled.AddWorksheet("All Kills");
 allkills.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
 allkills.Column("A").Width = 34; 
 allkills.Column("B").Width = 6; 
@@ -157,6 +172,18 @@ allkills.Cell("D1").InsertData(victims);
 allkills.Cell("E1").InsertData(methods);
 allkills.Cell("F1").InsertData(killers);
 allkills.Sort(3);
+
+//Making Teams Page
+var allteams = statscompiled.AddWorksheet("All Teams");
+allteams.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
+allteams.Column("A").Width = 34; 
+allteams.Column("B").Width = 6; 
+allteams.Column("C").Width = 20; 
+allteams.Cell("A1").InsertData(tl_rounds);
+allteams.Cell("B1").InsertData(tl_seasons);
+allteams.Cell("C1").InsertData(tl_dates);
+allteams.Cell("D1").InsertData(teams);
+allteams.Sort(3);
 
 statscompiled.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\StatsCompiled.xlsx");
 Console.WriteLine("Stats are now compiled!");
