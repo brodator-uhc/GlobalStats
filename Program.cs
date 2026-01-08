@@ -2,7 +2,7 @@
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-string filePath = "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\Global RR Stats Community Document.xlsx";
+string filePath = "..\\..\\..\\Global RR Stats Community Document.xlsx";
 
 if (!File.Exists(filePath))
 {
@@ -537,8 +537,8 @@ globalstats.Cell("O1").InsertData(gs_kdr.Values);
 globalstats.Cell("P1").InsertData(gs_kpr.Values);
 globalstats.Sort(1);
 
-rrdebut.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\RR_Debuts.xlsx");
-roundstats.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\Round_Stats.xlsx");
-statscompiled.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\Stats_Compiled.xlsx");
-globalrrstats.SaveAs("C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\Global_Stats.xlsx");
+rrdebut.SaveAs("..\\..\\..\\RR_Debuts.xlsx");
+roundstats.SaveAs("..\\..\\..\\Round_Stats.xlsx");
+statscompiled.SaveAs("..\\..\\..\\Stats_Compiled.xlsx");
+globalrrstats.SaveAs("..\\..\\..\\Global_Stats.xlsx");
 Console.WriteLine("Stats are now compiled!");
