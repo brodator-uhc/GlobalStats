@@ -17,6 +17,7 @@ if (!File.Exists(filePath))
 //Kill Records
 
 //Statistics to collect
+char separator = ',';
 List<String> global_rounds = new List<String>();
 List<String> rounds = new List<String>();
 List<String> NRrounds = new List<String>();
@@ -81,6 +82,9 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     for (int season = 1; season <= (worksheet.Columns().Count() - 1); season+=3)
     {
         IXLCell victimsStart = worksheet.Search("Kill List (include alive)").First();
+        IXLCell winnerCell = worksheet.Cell(1,1);
+        Dictionary<String, int> killcounts = new Dictionary<String, int>();
+        String winningTeam = "";
         var rangeUsed = worksheet.RangeUsed();
         int firstDataColumn = season+1;
         int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
@@ -89,6 +93,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         int middleDataColumn = season+2;
         int seasonSize = 0;
         int teamSize = 0;
+        int fbfind = 0;
 
         //Get values for the round list
         rounds.Add(worksheet.Name);
@@ -254,6 +259,21 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     gs_kdr[value] = Convert.ToDouble(gs_kills[value])/Convert.ToDouble(gs_deaths[value]);
                 }
                 gs_kpr[value] = Convert.ToDouble(gs_kills[value])/Convert.ToDouble(gs_seasonsplayed[value]); 
+
+                if (killcounts.ContainsKey(value))
+                {
+                    killcounts[value] += 1;
+                }
+                else
+                {
+                    killcounts.Add(value,1);
+                }
+
+                if (fbfind == 0)
+                {
+                    gs_firstblood[value] += 1;
+                    fbfind += 1;
+                }
             } else
             {
                 if (!value.Equals("Nothing"))
@@ -261,6 +281,18 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     gs_pve[worksheet.Cell(cell.WorksheetRow().RowNumber(),firstDataColumn).GetString()] += 1;
                 }
             }
+        }
+
+        if (!worksheet.Name.Equals("PolyCraft Egg Hunt"))
+        {
+            int topFragAmount = killcounts.Values.Max();
+            foreach (String killer in killcounts.Keys)
+            {
+                if (killcounts[killer] == topFragAmount)
+                {
+                    gs_topfrags[killer] += 1;
+                }
+            } 
         }
 
         //Get the methods for the season
@@ -274,12 +306,14 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         //Get the teams for the season
         IXLRange teamRange = worksheet.Range(9,firstDataColumn,firstDataRow-2,firstDataColumn);
         teamSize = teamRange.RowsUsed().Count();
+        List<String> seasonTeams = new List<String>();
 
         if (!worksheet.Cell(3,middleDataColumn).GetString().Equals("FFA")){
             foreach (IXLCell cell in teamRange.CellsUsed())
             {
                 string value = cell.GetString(); 
                 teams.Add(value);
+                seasonTeams.Add(value);
                 tl_rounds.Add(worksheet.Name);
                 tl_seasons.Add(worksheet.Cell(1,firstDataColumn).GetString());
                 tl_dates.Add(worksheet.Cell(2,firstDataColumn).GetDateTime());
@@ -290,6 +324,99 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             {
                 string value = cell.GetString(); 
                 teamcolors.Add(value);
+            }
+        }
+
+        //Get the winners
+
+        if (worksheet.Cell(firstDataRow + (seasonSize - 1), lastDataColumn).GetString().Equals("Nothing"))
+        {
+            String seasonWinner = worksheet.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
+            winnerCell = worksheet.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
+            if (worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            {
+                if (gs_wins.ContainsKey(seasonWinner))
+                {
+                    gs_wins[seasonWinner] += 1;
+                }
+            } else
+            {
+                foreach (String wteam in seasonTeams)
+                {
+                    if (wteam.Contains(seasonWinner))
+                    {
+                        winningTeam = wteam;
+                        String[] winners = wteam.Split(separator);
+                        foreach (String winner in winners)
+                        {
+                            if (gs_wins.ContainsKey(winner))
+                            {
+                                gs_wins[winner] += 1;
+                            }
+                        }
+                    }
+                }
+            }
+        } else
+        {
+            // TO FIX LATER
+            String seasonWinner = worksheet.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
+            winnerCell = worksheet.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
+            if (worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            {
+                if (gs_wins.ContainsKey(seasonWinner))
+                {
+                    gs_wins[seasonWinner] += 1;
+                }
+            } else
+            {
+                foreach (String wteam in seasonTeams)
+                {
+                    if (wteam.Contains(seasonWinner))
+                    {
+                        winningTeam = wteam;
+                        String[] winners = wteam.Split(separator);
+                        foreach (String winner in winners)
+                        {
+                            if (gs_wins.ContainsKey(winner))
+                            {
+                                gs_wins[winner] += 1;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        //Get the runner ups
+
+        if (worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+        {
+            if (gs_runnerup.ContainsKey(winnerCell.CellAbove().GetString()))
+            {
+                gs_runnerup[winnerCell.CellAbove().GetString()] += 1;
+            }
+        } else
+        {
+            while (winningTeam.Contains(winnerCell.CellAbove().GetString()))
+            {
+                winnerCell = winnerCell.CellAbove();
+            }
+
+            String seasonRunnerUp = winnerCell.CellAbove().GetString();
+            foreach (String ruteam in seasonTeams)
+            {
+                if (ruteam.Contains(seasonRunnerUp))
+                {
+                    String[] runnerups = ruteam.Split(separator);
+                    foreach (String runnerup in runnerups)
+                    {
+                        if (gs_runnerup.ContainsKey(runnerup))
+                        {
+                            gs_runnerup[runnerup] += 1;
+                        }
+                    }
+                }
             }
         }
     }
@@ -394,13 +521,13 @@ rrdebutsnonr.Sort(3);
 var globalstats = globalrrstats.AddWorksheet("Global Stats");
 globalstats.Cell("A1").InsertData(gs_seasonsplayed.Keys);
 globalstats.Cell("B1").InsertData(gs_seasonsplayed.Values);
-//globalstats.Cell("C1").InsertData(gs_wins.Values);
+globalstats.Cell("C1").InsertData(gs_wins.Values);
 globalstats.Cell("D1").InsertData(gs_alive.Values);
-//globalstats.Cell("E1").InsertData(gs_runnerup.Values);
+globalstats.Cell("E1").InsertData(gs_runnerup.Values);
 globalstats.Cell("F1").InsertData(gs_kills.Values);
-//globalstats.Cell("G1").InsertData(gs_topfrags.Values);
+globalstats.Cell("G1").InsertData(gs_topfrags.Values);
 globalstats.Cell("H1").InsertData(gs_pve.Values);
-//globalstats.Cell("I1").InsertData(gs_firstblood.Values);
+globalstats.Cell("I1").InsertData(gs_firstblood.Values);
 globalstats.Cell("J1").InsertData(gs_firstdeath.Values);
 globalstats.Cell("K1").InsertData(gs_ironman.Values);
 globalstats.Cell("L1").InsertData(gs_firstdamage.Values);
