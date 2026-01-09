@@ -1,4 +1,5 @@
-﻿using ClosedXML.Excel;
+﻿using System.Reflection.PortableExecutable;
+using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 
 string filePath = "..\\..\\..\\Global RR Stats Community Document.xlsx";
@@ -11,10 +12,6 @@ if (!File.Exists(filePath))
 
 //TO ADD
 //Stats Verification
-//Add Pve/Alive list
-//Add deaths list with kill list
-//Check dragonrush winner at bottom
-//Exceptions
 
 //Big list of variables that are saved at the end
 //Variables for the rounds list
@@ -55,6 +52,11 @@ List<String> il_rounds = new List<String>();
 List<String> il_seasons = new List<String>();
 List<DateTime> il_dates = new List<DateTime>();
 List<String> il_players = new List<String>();
+//Variables for the pve death list
+List<String> pvel_rounds = new List<String>();
+List<String> pvel_seasons = new List<String>();
+List<DateTime> pvel_dates = new List<DateTime>();
+List<String> pvel_players = new List<String>();
 //Variables for the first death list
 List<String> fdl_rounds = new List<String>();
 List<String> fdl_seasons = new List<String>();
@@ -75,6 +77,11 @@ List<String> rul_rounds = new List<String>();
 List<String> rul_seasons = new List<String>();
 List<DateTime> rul_dates = new List<DateTime>();
 List<String> rul_players = new List<String>();
+//Variables for the alive list
+List<String> al_rounds = new List<String>();
+List<String> al_seasons = new List<String>();
+List<DateTime> al_dates = new List<DateTime>();
+List<String> al_players = new List<String>();
 //Variables for the wins list
 List<String> wl_rounds = new List<String>();
 List<String> wl_seasons = new List<String>();
@@ -262,6 +269,12 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     if (worksheet.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals("Nothing"))
                     {
                         gs_alive[value] += 1;
+
+                        //Add to ironman list
+                        al_rounds.Add(worksheet.Name);
+                        al_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                        al_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                        al_players.Add(value);
                     }
                     else
                     {
@@ -328,6 +341,19 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 fdl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
                 fdl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
                 fdl_players.Add(worksheet.Cell(firstDataRow, firstDataColumn).GetString());
+
+                //Double the stats for round exception
+                if (worksheet.Name.Equals("Game Changer")
+                    && worksheet.Cell(1, firstDataColumn).GetString().Equals("5"))
+                {
+                    gs_firstdeath[worksheet.Cell(firstDataRow, firstDataColumn).CellBelow().GetString()] += 1;
+
+                    //Add to first death list
+                    fdl_rounds.Add(worksheet.Name);
+                    fdl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                    fdl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                    fdl_players.Add(worksheet.Cell(firstDataRow, firstDataColumn).CellBelow().GetString());
+                }
             }
 
             //Gets ironman for the season
@@ -456,6 +482,19 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             fbl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
                             fbl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
                             fbl_players.Add(value);
+
+                            //Double the stats for round exception
+                            if (worksheet.Name.Equals("Game Changer")
+                                && worksheet.Cell(1, firstDataColumn).GetString().Equals("5"))
+                            {
+                                gs_firstblood[cell.CellBelow().GetString()] += 1;
+
+                                //Add to first blood list
+                                fbl_rounds.Add(worksheet.Name);
+                                fbl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                                fbl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                                fbl_players.Add(cell.CellBelow().GetString());
+                            }
                         }
                     }
                 }
@@ -465,6 +504,202 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     if (!value.Equals("Nothing"))
                     {
                         gs_pve[worksheet.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString()] += 1;
+
+                        //Add to pve list
+                        pvel_rounds.Add(worksheet.Name);
+                        pvel_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                        pvel_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                        pvel_players.Add(worksheet.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString());
+
+                        //Filters all the unique pve deaths
+                        if (value.Equals(""))
+                        {
+                            String pvedeath = "";
+
+                            if (cell.CellLeft().GetString().Contains("lava")
+                            && !cell.CellLeft().GetString().Contains("discovered"))//Lava
+                            {
+                                pvedeath = "Lava";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("discovered"))//Magma
+                            {
+                                pvedeath = "Magma";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("ground") 
+                                    || cell.CellLeft().GetString().Contains("doomed") 
+                                    || cell.CellLeft().GetString().Contains("fell") 
+                                    && !cell.CellLeft().GetString().Contains("world"))//Fall
+                            {
+                                pvedeath = "Fall";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("world"))//Void
+                            {
+                                pvedeath = "Void";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("drowned"))//Drowned
+                            {
+                                pvedeath = "Drowning";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("suffocated"))//Suffocation
+                            {
+                                pvedeath = "Suffocation";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("burnt")
+                                    || cell.CellLeft().GetString().Contains("burned"))//Burn
+                            {
+                                pvedeath = "Burning";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("starved"))//Starved
+                            {
+                                pvedeath = "Starvation";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("fallout"))//Fallout
+                            {
+                                pvedeath = "Fallout";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("swords"))//Krenzinator
+                            {
+                                pvedeath = "Diamond Sword";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("water"))//Water
+                            {
+                                pvedeath = "Water";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("disqualified"))//Disqualified
+                            {
+                                pvedeath = "Disqualified";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("bats"))//Bats
+                            {
+                                pvedeath = "Bats";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("extra"))//Extra Damage
+                            {
+                                pvedeath = "Extra Damage";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("diamonds"))//Blood Diamonds
+                            {
+                                pvedeath = "Blood Diamonds";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("gambled"))//Gamble
+                            {
+                                pvedeath = "Gambling";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("button"))//Push The Button
+                            {
+                                pvedeath = "Push The Button";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("hell"))//Go To Hell
+                            {
+                                pvedeath = "Go To Hell";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("comply"))//Comply
+                            {
+                                pvedeath = "Comply";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("learned"))//Newton's Third Law
+                            {
+                                pvedeath = "Newtons Third Law";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("infiltrator"))//Infiltrators
+                            {
+                                pvedeath = "Infiltrator";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("love"))//Love
+                            {
+                                pvedeath = "Love";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("Design"))//Bed
+                            {
+                                pvedeath = "Bed";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("blew"))//Explosion
+                            {
+                                pvedeath = "Explosion";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("sneaked"))//Sneaking
+                            {
+                                pvedeath = "Sneaking";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("withered"))//Withered
+                            {
+                                pvedeath = "Withered";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("timed")
+                                    || cell.CellLeft().GetString().Contains("disconnected")
+                                    || cell.CellLeft().GetString().Contains("offline"))//Timed Out
+                            {
+                                pvedeath = "Left";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("stalagmite")
+                                    || cell.CellLeft().GetString().Contains("stalactite"))//Dripstone
+                            {
+                                pvedeath = "Dripstone";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("anvil"))//Anvil
+                            {
+                                pvedeath = "Anvil";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("pricked"))//Cactus
+                            {
+                                pvedeath = "Cactus";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("poked"))//Berry
+                            {
+                                pvedeath = "Sweet Berry Bush";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("kinetic"))//Elytra
+                            {
+                                pvedeath = "Elytra";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("bang"))//Firework
+                            {
+                                pvedeath = "Firework";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("died"))//Death
+                            {
+                                pvedeath = "Death";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("flames"))//Fire
+                            {
+                                pvedeath = "Fire";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("pummeled"))//Pummeled
+                            {
+                                pvedeath = "Pummeled";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("magic"))//Magic
+                            {
+                                pvedeath = "Potion";
+                            }
+                            else if (cell.CellLeft().GetString().Contains("shot"))//Arrow
+                            {
+                                pvedeath = "Arrow";
+                            }
+                            else
+                            {
+                                pvedeath = "N/A";
+                            }
+
+                            //Sets values for the kill list
+                            kl_rounds.Add(worksheet.Name);
+                            kl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                            kl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                            kl_victims.Add(cell.CellLeft().CellLeft().GetString());
+                            kl_methods.Add(cell.CellLeft().GetString());
+                            kl_killers.Add(pvedeath);
+                        }
+                        else
+                        {
+                            //Sets values for the kill list
+                            kl_rounds.Add(worksheet.Name);
+                            kl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                            kl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                            kl_victims.Add(cell.CellLeft().CellLeft().GetString());
+                            kl_methods.Add(cell.CellLeft().GetString());
+                            kl_killers.Add(value);
+                        }
+
                     }
                 }
             }
@@ -551,7 +786,14 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
                     if (cell.CellLeft().CellLeft().GetString().Contains(","))
                     {
-                        tl_teamcolors.Add(value);
+                        if (value.Equals(""))
+                        {
+                            tl_teamcolors.Add("N/A");
+                        }
+                        else
+                        {
+                            tl_teamcolors.Add(value);
+                        }
                     }
                 }
             }
@@ -575,6 +817,10 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     worksheet.Cell(4, firstDataColumn).GetString().Contains("Hydra Rush"))
                 {
                     IXLCell dragonRushCell = worksheet.Cell(firstDataRow + (seasonSize - 1), lastDataColumn);
+                    if (!dragonRushCell.CellLeft().GetString().Equals("Winner"))
+                    {
+                        Console.WriteLine("ERROR: Winner is not the last line of Dragon Rush");
+                    }
 
                     while (dragonRushCell.GetString().Equals("Nothing"))
                     {
@@ -1081,6 +1327,18 @@ ironman.Cell("C1").InsertData(il_dates);
 ironman.Cell("D1").InsertData(il_players);
 ironman.Sort(3);
 
+//PvE Death list
+var pve_death = statscompiled.AddWorksheet("PvE Deaths");
+pve_death.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
+pve_death.Column("A").Width = 34;
+pve_death.Column("B").Width = 6;
+pve_death.Column("C").Width = 20;
+pve_death.Cell("A1").InsertData(pvel_rounds);
+pve_death.Cell("B1").InsertData(pvel_seasons);
+pve_death.Cell("C1").InsertData(pvel_dates);
+pve_death.Cell("D1").InsertData(pvel_players);
+pve_death.Sort(3);
+
 //First Death list
 var firstdeath = statscompiled.AddWorksheet("First Death");
 firstdeath.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
@@ -1128,6 +1386,18 @@ runnerup.Cell("B1").InsertData(rul_seasons);
 runnerup.Cell("C1").InsertData(rul_dates);
 runnerup.Cell("D1").InsertData(rul_players);
 runnerup.Sort(3);
+
+//Alive list
+var alive = statscompiled.AddWorksheet("Alive");
+alive.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
+alive.Column("A").Width = 34;
+alive.Column("B").Width = 6;
+alive.Column("C").Width = 20;
+alive.Cell("A1").InsertData(al_rounds);
+alive.Cell("B1").InsertData(al_seasons);
+alive.Cell("C1").InsertData(al_dates);
+alive.Cell("D1").InsertData(al_players);
+alive.Sort(3);
 
 //Win list
 var win = statscompiled.AddWorksheet("Wins");
