@@ -392,7 +392,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             //Gets first damage for the season
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
             IXLRange fdRange = worksheet.Range(7, firstDataColumn, 7, lastDataColumn);
-            IXLRange POOfdRange = worksheet.Range(7, firstDataColumn, 7, lastDataColumn);
+            IXLRange POOfdRange = worksheet.Range(11, firstDataColumn, 11, lastDataColumn);
             if (worksheet.Name.Equals("Party of One"))
             {
                 foreach (IXLCell cell in POOfdRange.CellsUsed())
