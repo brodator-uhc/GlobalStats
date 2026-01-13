@@ -3,15 +3,15 @@ using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 
 string filePath = "..\\..\\..\\Global RR Stats Community Document.xlsx";
+//string filePath = "..\\..\\..\\Non-Reddit Stats Community Document.xlsx";
+//string filePath = "..\\..\\..\\Global Live Round Stats Community Document.xlsx";
 
 if (!File.Exists(filePath))
 {
+    Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine($"Error: File not found at {filePath}");
     return;
 }
-
-//TO ADD
-//Stats Verification
 
 //Big list of variables that are saved at the end
 //Variables for the rounds list
@@ -116,6 +116,8 @@ Dictionary<String, int> kr_killrecord = new Dictionary<String, int>();
 Dictionary<String, String> kr_round = new Dictionary<String, String>();
 Dictionary<String, String> kr_season = new Dictionary<String, String>();
 Dictionary<String, DateTime> kr_date = new Dictionary<String, DateTime>();
+//Unique PvE Deaths
+Dictionary<String, int> unique_pve_deaths = new Dictionary<String, int>();
 
 //Goes through every stats tabs on the doc
 using var workbook = new XLWorkbook(filePath);
@@ -127,6 +129,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     rl_rounds.Add(worksheet.Name);
     rl_seasons.Add((worksheet.Columns().Count() - 1) / 3);
     rl_rounddebuts.Add(worksheet.Cell(2, 2).GetDateTime());
+    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Working on " + worksheet.Name);
     Console.WriteLine(((worksheet.Columns().Count() - 1) / 3).ToString() + " Seasons!");
 
@@ -196,6 +199,50 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 nr_rounds.Add(worksheet.Name);
                 nr_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
                 nr_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+            }
+
+            //Get the teams for the season
+            //Skips FFA seasons since no teams
+            IXLRange teamRange = worksheet.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
+            teamSize = teamRange.RowsUsed().Count();
+            if (!worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            {
+                //Loops the Cells in the team list
+                foreach (IXLCell cell in teamRange.CellsUsed())
+                {
+                    string value = cell.GetString();
+
+                    //Adds the team to the list of the season
+                    seasonTeams.Add(value);
+
+                    //Adds the team info the to team list, skips if player is a solo
+                    if (value.Contains(","))
+                    {
+                        tl_teams.Add(value);
+                        tl_rounds.Add(worksheet.Name);
+                        tl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
+                        tl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
+                    }
+                }
+
+                //Get the team color and adds it to the team list, skips if player is a solo
+                IXLRange teamColorsRange = worksheet.Range(9, lastDataColumn, 9 + (teamSize - 1), lastDataColumn);
+                foreach (IXLCell cell in teamColorsRange.Cells())
+                {
+                    string value = cell.GetString();
+
+                    if (cell.CellLeft().CellLeft().GetString().Contains(","))
+                    {
+                        if (value.Equals(""))
+                        {
+                            tl_teamcolors.Add("N/A");
+                        }
+                        else
+                        {
+                            tl_teamcolors.Add(value);
+                        }
+                    }
+                }
             }
 
             //Loops through all the victim cells
@@ -313,6 +360,59 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             if (!worksheet.Cell(1, lastDataColumn).GetString().Equals("NR"))
             {
                 nr_rosters.Add(seasonRoster);
+            }
+
+            if (!worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            {
+                //Verify if player is misspelled or missing in teams
+                int playercheck = 0;
+                foreach (String player in seasonRoster)
+                {
+                    foreach (String team in seasonTeams)
+                    {
+                        if (team.Contains(player))
+                        {
+                            playercheck += 1;
+                        }
+                    }
+
+                    if (playercheck == 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + worksheet.Name + " " + worksheet.Cell(1, firstDataColumn).GetString());
+                    }
+
+                    if (playercheck > 1)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + worksheet.Name + " " + worksheet.Cell(1, firstDataColumn).GetString());
+                    }
+
+                    playercheck = 0;
+                }
+
+                //Verify if player is misspelled or missing in victims
+                int teamcheck = 0;
+                foreach (String team in seasonTeams)
+                {
+                    String[] teamplayers = team.Split(separator);
+
+                    foreach (String teamplayer in teamplayers)
+                    {
+                        if (seasonRoster.Contains(teamplayer))
+                        {
+                            teamcheck += 1;
+                        }
+
+                        if (teamcheck == 0)
+                        {
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + worksheet.Name + " " + worksheet.Cell(1, firstDataColumn).GetString());
+                        }
+
+                        teamcheck = 0;
+                    }
+                }
             }
 
             //Figures out if there is a double kill for first death, otherwise add +1 to the first death
@@ -525,9 +625,9 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             {
                                 pvedeath = "Magma";
                             }
-                            else if (cell.CellLeft().GetString().Contains("ground") 
-                                    || cell.CellLeft().GetString().Contains("doomed") 
-                                    || cell.CellLeft().GetString().Contains("fell") 
+                            else if (cell.CellLeft().GetString().Contains("ground")
+                                    || cell.CellLeft().GetString().Contains("doomed")
+                                    || cell.CellLeft().GetString().Contains("fell")
                                     && !cell.CellLeft().GetString().Contains("world"))//Fall
                             {
                                 pvedeath = "Fall";
@@ -688,6 +788,14 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             kl_victims.Add(cell.CellLeft().CellLeft().GetString());
                             kl_methods.Add(cell.CellLeft().GetString());
                             kl_killers.Add(pvedeath);
+
+                            if (unique_pve_deaths.ContainsKey(pvedeath))
+                            {
+                                unique_pve_deaths[pvedeath] += 1;
+                            } else
+                            {
+                                unique_pve_deaths.Add(pvedeath,1);
+                            }
                         }
                         else
                         {
@@ -698,6 +806,14 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             kl_victims.Add(cell.CellLeft().CellLeft().GetString());
                             kl_methods.Add(cell.CellLeft().GetString());
                             kl_killers.Add(value);
+
+                            if (unique_pve_deaths.ContainsKey(value))
+                            {
+                                unique_pve_deaths[value] += 1;
+                            } else
+                            {
+                                unique_pve_deaths.Add(value,1);
+                            }
                         }
 
                     }
@@ -706,7 +822,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
             //Gets top frags for the season
             //Skips PolyCraft Egg Hunt since no one got kills in that
-            if (!worksheet.Name.Equals("PolyCraft Egg Hunt"))
+            if (killboard.Count > 0)
             {
                 int topFragAmount = killboard.Values.Max();
                 foreach (String killer in killboard.Keys)
@@ -754,50 +870,6 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 }
             }
 
-            //Get the teams for the season
-            //Skips FFA seasons since no teams
-            IXLRange teamRange = worksheet.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
-            teamSize = teamRange.RowsUsed().Count();
-            if (!worksheet.Cell(3, middleDataColumn).GetString().Equals("FFA"))
-            {
-                //Loops the Cells in the team list
-                foreach (IXLCell cell in teamRange.CellsUsed())
-                {
-                    string value = cell.GetString();
-
-                    //Adds the team to the list of the season
-                    seasonTeams.Add(value);
-
-                    //Adds the team info the to team list, skips if player is a solo
-                    if (value.Contains(","))
-                    {
-                        tl_teams.Add(value);
-                        tl_rounds.Add(worksheet.Name);
-                        tl_seasons.Add(worksheet.Cell(1, firstDataColumn).GetString());
-                        tl_dates.Add(worksheet.Cell(2, firstDataColumn).GetDateTime());
-                    }
-                }
-
-                //Get the team color and adds it to the team list, skips if player is a solo
-                IXLRange teamColorsRange = worksheet.Range(9, lastDataColumn, 9 + (teamSize - 1), lastDataColumn);
-                foreach (IXLCell cell in teamColorsRange.Cells())
-                {
-                    string value = cell.GetString();
-
-                    if (cell.CellLeft().CellLeft().GetString().Contains(","))
-                    {
-                        if (value.Equals(""))
-                        {
-                            tl_teamcolors.Add("N/A");
-                        }
-                        else
-                        {
-                            tl_teamcolors.Add(value);
-                        }
-                    }
-                }
-            }
-
             //Get the winners of the season
             //If Nothing is a regular season ending and gives the win to the last player on the list
             //Else is either a double kill win or no wins and is figured out to give the wins needed
@@ -819,6 +891,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     IXLCell dragonRushCell = worksheet.Cell(firstDataRow + (seasonSize - 1), lastDataColumn);
                     if (!dragonRushCell.CellLeft().GetString().Equals("Winner"))
                     {
+                        Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("ERROR: Winner is not the last line of Dragon Rush");
                     }
 
@@ -1252,6 +1325,13 @@ round_list.Cell("C1").InsertData(rl_rostersizes);
 round_list.Cell("D1").InsertData(rl_rounddebuts);
 round_list.Sort(4);
 
+//Making PvE List Page
+var pve_list = roundlist.AddWorksheet("PvE List");
+pve_list.Column("A").Width = 34;
+pve_list.Column("B").Width = 6;
+pve_list.Cell("A1").InsertData(unique_pve_deaths.Keys);
+pve_list.Cell("B1").InsertData(unique_pve_deaths.Values);
+
 //Making All Rosters Page
 var allrosters = roundlist.AddWorksheet("All Rosters");
 allrosters.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
@@ -1475,4 +1555,5 @@ roundlist.SaveAs("..\\..\\..\\Round_List.xlsx");
 statscompiled.SaveAs("..\\..\\..\\Stats_Compiled.xlsx");
 globalstats.SaveAs("..\\..\\..\\Global_Stats.xlsx");
 rrdebut.SaveAs("..\\..\\..\\RR_Debuts.xlsx");
+Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("Stats are now compiled!");
