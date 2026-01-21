@@ -118,6 +118,19 @@ Dictionary<String, String> kr_season = new Dictionary<String, String>();
 Dictionary<String, DateTime> kr_date = new Dictionary<String, DateTime>();
 //Unique PvE Deaths
 Dictionary<String, int> unique_pve_deaths = new Dictionary<String, int>();
+//Variables for the reddit posts
+List<String> rp_winners = new List<String>();
+List<String> rp_runnerups = new List<String>();
+List<String> rp_mostkills = new List<String>();
+List<String> rp_mostkillsteam = new List<String>();
+List<String> rp_firstdamage = new List<String>();
+List<String> rp_ironman = new List<String>();
+List<String> rp_firstblood = new List<String>();
+List<String> rp_firstdeath = new List<String>();
+List<String> rp_kills = new List<String>();
+List<String> rp_pvedeaths = new List<String>();
+List<String> rp_participations = new List<String>();
+List<String> rp_debutants = new List<String>();
 
 //Goes through every stats tabs on the doc
 using var workbook = new XLWorkbook(filePath);
@@ -149,6 +162,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         int firstDataColumn = season + 1;
         int middleDataColumn = season + 2;
         int lastDataColumn = season + 3;
+        String season_debutant = "";
 
         //Sets round named to be changed for crossovers and ??? to not be called Sheet
         round_name = worksheet.Name;
@@ -192,7 +206,19 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     roundRoster.Add(value);
 
                     gs_totaluniques[value] += 1;
+
+                    season_debutant += value + ", ";
                 }
+            }
+
+            //Formats the debutants for reddit posts
+            if (season_debutant.Length > 0)
+            {
+                season_debutant = season_debutant.Remove(season_debutant.Length - 2);
+                rp_debutants.Add("**S" + season_number + " (" + (season_debutant.Count(c => c == ',')+1) + "):** " + season_debutant + Environment.NewLine);
+            } else
+            {
+                rp_debutants.Add("**S" + season_number + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
             }
         }
         else
@@ -375,8 +401,21 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     roundRoster.Add(value);
 
                     gs_totaluniques[value] += 1;
+
+                    season_debutant += value + ", ";
                 }
             }
+            
+            //Formats the debutants for reddit posts
+            if (season_debutant.Length > 0)
+            {
+                season_debutant = season_debutant.Remove(season_debutant.Length - 2);
+                rp_debutants.Add("**S" + season_number + " (" + (season_debutant.Count(c => c == ',')+1) + "):** " + season_debutant + Environment.NewLine);
+            } else
+            {
+                rp_debutants.Add("**S" + season_number + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
+            }
+            
             //Adds rosters to a list for the sheet, skips non-reddit for the alternate page
             seasonRoster.Sort();
             ar_rosters.Add(seasonRoster);
@@ -1284,6 +1323,20 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     }
 
     rl_rostersizes.Add(roundRoster.Count);
+    String rppath = "..\\..\\..\\Reddit Posts\\" + worksheet.Name + ".txt";
+
+    File.WriteAllText(rppath, "## " + worksheet.Name + " Statistics" + Environment.NewLine);
+    File.AppendAllText(rppath, Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Winners" + Environment.NewLine);
+    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Debutants" + Environment.NewLine + Environment.NewLine);
+    foreach (String debutants in rp_debutants)
+    {
+        File.AppendAllText(rppath, debutants + Environment.NewLine);
+    }
+    File.AppendAllText(rppath, "---");
+
+    rp_debutants.Clear();
 }
 
 //Updates KDR & KPR of player
