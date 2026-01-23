@@ -11,6 +11,17 @@
 ---
 ### Most Kills
 
+**S1:** Sten_Stone, TastyBaconZ (3)
+
+**S2:** nFang (5)
+
+**S3:** Pat_N, TastyBaconZ, Zeiyuri (2)
+
+**S4:** Dj8ninja, Zeiyuri (3)
+
+**S5:** chloesad, Jordtim, tiffaroni (2)
+
+**S6:** Dj8ninja (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +30,32 @@
 ---
 ### First Damage
 
+**S1:** rippersteveM5 (0:3:38)
+
+**S2:** Aschilon (0:10:56)
+
+**S3:** Dj8ninja (0:0:46)
+
+**S4:** Dj8ninja (0:0:38)
+
+**S5:** Dj8ninja (0:1:42)
+
+**S6:** MajesticV (0:5:45)
 
 ---
 ### Ironman
 
+**S1:** SofaSeven (2:11:37)
+
+**S2:** OwlTin (1:49:14)
+
+**S3:** Sten_Stone (2:11:30)
+
+**S4:** rippersteveM5 (2:0:11)
+
+**S5:** TheSonicJoey (2:16:52)
+
+**S6:** Aschilon (1:51:6)
 
 ---
 ### First Blood

@@ -11,6 +11,17 @@
 ---
 ### Most Kills
 
+**S1:** brinkwhy, Enroh (3)
+
+**S2:** Fcrm (10)
+
+**S3:** Lsnce, MaxEvasion (4)
+
+**S4:** CipherKai, Fcrm (6)
+
+**S5:** Captinn, Fcrm (3)
+
+**S6:** omchris (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +30,32 @@
 ---
 ### First Damage
 
+**S1:** Cristehn (0:2:37)
+
+**S2:** egl_ (0:1:19)
+
+**S3:** ObsidianFractal (0:0:22)
+
+**S4:** 4EyedSlime (0:1:19)
+
+**S5:** Kaismartypants (0:1:36)
+
+**S6:** Kaismartypants (0:1:14)
 
 ---
 ### Ironman
 
+**S1:** lilygant (0:55:59)
+
+**S2:** Axeslayer (0:54:33)
+
+**S3:** Lsnce (1:7:53)
+
+**S4:** Evzenitable (1:5:22)
+
+**S5:** brinkwhy (1:16:50)
+
+**S6:** Evzenitable (2:9:39)
 
 ---
 ### First Blood

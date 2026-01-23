@@ -11,6 +11,27 @@
 ---
 ### Most Kills
 
+**S1:** hazel_doe (5)
+
+**S2:** Bandias (7)
+
+**S3:** Radical24, Randehh (3)
+
+**S4:** lexicuhl, wibbol (5)
+
+**S5:** centraleric (7)
+
+**S6:** centraleric (4)
+
+**S7:** centraleric, wibbol (3)
+
+**S8:** Blarkslol, Chasmic, discoczibi, H_L_llama, JaeHasNoMaidens, MajorWoof (2)
+
+**S9:** buttergolem1, centraleric, lexicuhl (3)
+
+**S10:** centraleric (4)
+
+**S11:** Blarkslol, CrowJRC (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +40,52 @@
 ---
 ### First Damage
 
+**S1:** TerryNL (0:2:47)
+
+**S2:** discoczibi (0:2:14)
+
+**S3:** JaeHasNoMaidens (0:0:57)
+
+**S4:** Potsie (0:1:30)
+
+**S5:** Chasmic (0:5:36)
+
+**S6:** Eluniel (0:10:6)
+
+**S7:** starlxghtmoon (0:0:48)
+
+**S8:** Potsie (0:0:22)
+
+**S9:** Randehh (0:5:33)
+
+**S10:** MaxEvasion (0:6:4)
+
+**S11:** Codwhy (0:0:32)
 
 ---
 ### Ironman
 
+**S1:** 016Nojr (1:19:29)
+
+**S2:** MajorWoof (1:11:36)
+
+**S3:** Klickacat (1:18:45)
+
+**S4:** lottebunny (1:14:25)
+
+**S5:** Jahrod (1:33:22)
+
+**S6:** Emerric (1:48:5)
+
+**S7:** Blarkslol (0:51:30)
+
+**S8:** H_L_llama (1:27:5)
+
+**S9:** MajorWoof (1:33:51)
+
+**S10:** Eluniel (1:56:36)
+
+**S11:** Emylyl (1:10:17)
 
 ---
 ### First Blood

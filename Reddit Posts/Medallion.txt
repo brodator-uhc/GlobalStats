@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** SamAGaming (6)
+
+**S2:** Qyet, Sanderson (3)
+
+**S3:** DrWonkenstein (5)
+
+**S4:** Jakekub (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** Builder999 (0:9:43)
+
+**S2:** HoneyFromHell (0:7:43)
+
+**S3:** Ruari (0:0:42)
+
+**S4:** Jakekub (0:0:1)
 
 ---
 ### Ironman
 
+**S1:** FSP_Ninja (0:51:3)
+
+**S2:** thegrombmx11 (1:23:56)
+
+**S3:** thegrombmx11 (1:15:22)
+
+**S4:** Kiinako_ (1:10:30)
 
 ---
 ### First Blood

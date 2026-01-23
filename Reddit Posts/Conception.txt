@@ -11,6 +11,19 @@
 ---
 ### Most Kills
 
+**S1:** I_is_cheesecake (6)
+
+**S2:** DrJamezz (6)
+
+**S3:** Bradzi (6)
+
+**S4:** Bradzi, GeeSam (3)
+
+**S5:** SoulRawr (7)
+
+**S6:** oworca, SoulRawr (3)
+
+**S7:** Lucityy, Potsie (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +32,36 @@
 ---
 ### First Damage
 
+**S1:** PaperVinnie (0:1:1)
+
+**S2:** DrJamezz (0:1:15)
+
+**S3:** chloesad (0:1:24)
+
+**S4:** CountryCutie (0:0:46)
+
+**S5:** ShyGus (0:1:28)
+
+**S6:** ShyGus (0:0:57)
+
+**S7:** Dj8ninja (0:0:34)
 
 ---
 ### Ironman
 
+**S1:** LordLaelaps (1:43:42)
+
+**S2:** SoulRawr (1:44:40)
+
+**S3:** CountryCutie (0:58:48)
+
+**S4:** ShyGus (1:44:1)
+
+**S5:** QuilJ1 (1:25:49)
+
+**S6:** QuilJ1 (1:25:2)
+
+**S7:** oworca (1:53:48)
 
 ---
 ### First Blood

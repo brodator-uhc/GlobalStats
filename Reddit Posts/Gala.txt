@@ -11,6 +11,25 @@
 ---
 ### Most Kills
 
+**S1:** Bradzi, jvevo, Omertosa (2)
+
+**S2:** Maxwellfifty (5)
+
+**S3:** brodioh, ElementalYT (3)
+
+**S4:** Digdude (4)
+
+**S5:** brodioh (6)
+
+**S6:** I_is_cheesecake (6)
+
+**S7:** jvevo (7)
+
+**S8:** Bobbytheturtle (6)
+
+**S9:** Kelawesome (6)
+
+**S10:** DJoee (8)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +38,48 @@
 ---
 ### First Damage
 
+**S1:** Tanceo (0:4:31)
+
+**S2:** InsertDotJpeg (0:4:33)
+
+**S3:** Singlish (0:2:23)
+
+**S4:** ShAydenelley (0:1:21)
+
+**S5:** Singlish (0:0:30)
+
+**S6:** M19Simpson (0:7:44)
+
+**S7:** wibbol (0:0:8)
+
+**S8:** flameorb (0:1:37)
+
+**S9:** Kelawesome (0:3:22)
+
+**S10:** BardMain2 (0:6:43)
 
 ---
 ### Ironman
 
+**S1:** Singlish (0:32:22)
+
+**S2:** lsperlo (1:25:0)
+
+**S3:** LordLaelaps (2:9:44)
+
+**S4:** Bradzi (1:13:7)
+
+**S5:** Emerric (2:31:13)
+
+**S6:** brodioh (1:25:38)
+
+**S7:** Omertosa (1:27:47)
+
+**S8:** Omertosa (1:47:4)
+
+**S9:** I_is_cheesecake (1:43:53)
+
+**S10:** Jordtim (1:27:24)
 
 ---
 ### First Blood

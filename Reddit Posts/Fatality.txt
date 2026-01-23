@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** CipherKai (7)
+
+**S2:** Captinn, DJoee, Glarza, SiahStone (5)
+
+**S3:** JaqOnCraq (3)
+
+**S4:** wizarde (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** Zevulpes (0:3:50)
+
+**S2:** broccoliar (0:0:20)
+
+**S3:** broccoliar (0:0:20)
+
+**S4:** broccoliar (0:0:26)
 
 ---
 ### Ironman
 
+**S1:** Karliffu (1:4:14)
+
+**S2:** JaqOnCraq (1:25:45)
+
+**S3:** SpaceFenix (0:57:55)
+
+**S4:** Kaddyn (1:6:34)
 
 ---
 ### First Blood

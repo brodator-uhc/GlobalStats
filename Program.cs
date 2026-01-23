@@ -229,6 +229,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             //Sets variables for stats logic
             List<String> seasonRoster = new List<String>();
             List<String> seasonDebutant = new List<String>();
+            List<String> seasonTopKills = new List<String>();
             List<String> seasonTeams = new List<String>();
             Dictionary<String, int> killboard = new Dictionary<String, int>();
             IXLCell winnerCell = worksheet.Cell(1, 1);
@@ -545,8 +546,11 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
             IXLRange ironmanRange = worksheet.Range(5, firstDataColumn, 5, lastDataColumn);
             IXLRange POOironmanRange = worksheet.Range(5, firstDataColumn, 9, lastDataColumn);
+            String ironman_post = "";
+            String ironman_time = "";
             if (round_name.Equals("Party of One"))
             {
+                ironman_post = "**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOironmanRange.CellsUsed())
                 {
                     string value = cell.GetString();
@@ -557,10 +561,23 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     il_seasons.Add(season_number);
                     il_dates.Add(season_date);
                     il_players.Add(value);
+
+                    ironman_post = ironman_post + value + ", ";
                 }
+                ironman_post = ironman_post.Remove(ironman_post.Length - 2);
+                if (worksheet.Cell(10,firstDataColumn).GetString().Equals(""))
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
+                } else
+                {
+                    ironman_time = " (" + worksheet.Cell(10,firstDataColumn).GetString() + ":" + worksheet.Cell(10,middleDataColumn).GetString() + ":" + worksheet.Cell(10,lastDataColumn).GetString() + ")";
+                }
+                rp_ironman.Add(ironman_post + ironman_time + Environment.NewLine);
             }
             else
             {
+                ironman_post = "**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in ironmanRange.CellsUsed())
                 {
                     string value = cell.GetString();
@@ -571,15 +588,30 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     il_seasons.Add(season_number);
                     il_dates.Add(season_date);
                     il_players.Add(value);
+
+                    ironman_post = ironman_post + value + ", ";
                 }
+                ironman_post = ironman_post.Remove(ironman_post.Length - 2);
+                if (worksheet.Cell(6,firstDataColumn).GetString().Equals(""))
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
+                } else
+                {
+                    ironman_time = " (" + worksheet.Cell(6,firstDataColumn).GetString() + ":" + worksheet.Cell(6,middleDataColumn).GetString() + ":" + worksheet.Cell(6,lastDataColumn).GetString() + ")";
+                }
+                rp_ironman.Add(ironman_post + ironman_time + Environment.NewLine);
             }
 
             //Gets first damage for the season
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
             IXLRange fdRange = worksheet.Range(7, firstDataColumn, 7, lastDataColumn);
             IXLRange POOfdRange = worksheet.Range(11, firstDataColumn, 11, lastDataColumn);
+            String fd_post = "";
+            String fd_time = "";
             if (round_name.Equals("Party of One"))
             {
+                fd_post = "**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOfdRange.CellsUsed())
                 {
                     string value = cell.GetString();
@@ -590,10 +622,24 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     dl_seasons.Add(season_number);
                     dl_dates.Add(season_date);
                     dl_players.Add(value);
+
+                    fd_post = fd_post + value + ", ";
                 }
+
+                fd_post = fd_post.Remove(fd_post.Length - 2);
+                if (worksheet.Cell(12,firstDataColumn).GetString().Equals(""))
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
+                } else
+                {
+                    fd_time = " (" + worksheet.Cell(12,firstDataColumn).GetString() + ":" + worksheet.Cell(12,middleDataColumn).GetString() + ":" + worksheet.Cell(12,lastDataColumn).GetString() + ")";
+                }
+                rp_firstdamage.Add(fd_post + fd_time + Environment.NewLine);
             }
             else
             {
+                fd_post = "**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in fdRange.CellsUsed())
                 {
                     string value = cell.GetString();
@@ -604,7 +650,20 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     dl_seasons.Add(season_number);
                     dl_dates.Add(season_date);
                     dl_players.Add(value);
+
+                    fd_post = fd_post + value + ", ";
                 }
+
+                fd_post = fd_post.Remove(fd_post.Length - 2);
+                if (worksheet.Cell(8, firstDataColumn).GetString().Equals(""))
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
+                } else
+                {
+                    fd_time = " (" + worksheet.Cell(8,firstDataColumn).GetString() + ":" + worksheet.Cell(8,middleDataColumn).GetString() + ":" + worksheet.Cell(8,lastDataColumn).GetString() + ")";
+                }
+                rp_firstdamage.Add(fd_post + fd_time + Environment.NewLine);
             }
 
             //Loops through all the kiler cells
@@ -792,6 +851,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     if (killboard[killer] == topFragAmount)
                     {
                         gs_topfrags[killer] += 1;
+                        seasonTopKills.Add(killer);
 
                         //Add to top frag list
                         tfl_rounds.Add(round_name);
@@ -830,6 +890,14 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                         kr_date.Add(killer, season_date);
                     }
                 }
+                seasonTopKills.Sort();
+                String topkills = "";
+                foreach (String topkiller in seasonTopKills)
+                {
+                    topkills = topkills + topkiller + ", ";
+                }
+                topkills = topkills.Remove(topkills.Length - 2);
+                rp_mostkills.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + topkills + " (" + topFragAmount + ")" + Environment.NewLine);
             }
 
             //Get the winners of the season
@@ -1255,14 +1323,26 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Runner Ups" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### Most Kills" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Most Kills" + Environment.NewLine + Environment.NewLine);
+        foreach (String topkiller in rp_mostkills)
+    {
+        File.AppendAllText(rppath, topkiller + Environment.NewLine);
+    }
+    File.AppendAllText(rppath, "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Most Kills (Team)" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### First Damage" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### Ironman" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### First Damage" + Environment.NewLine + Environment.NewLine);
+    foreach (String firstdamages in rp_firstdamage)
+    {
+        File.AppendAllText(rppath, firstdamages + Environment.NewLine);
+    }
+    File.AppendAllText(rppath, "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Ironman" + Environment.NewLine + Environment.NewLine);
+    foreach (String ironmans in rp_ironman)
+    {
+        File.AppendAllText(rppath, ironmans + Environment.NewLine);
+    }
+    File.AppendAllText(rppath, "---");
     File.AppendAllText(rppath, Environment.NewLine + "### First Blood" + Environment.NewLine + Environment.NewLine);
     foreach (String firstbloods in rp_firstblood)
     {
@@ -1321,6 +1401,9 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     }
     File.AppendAllText(rppath, "---");
 
+    rp_mostkills.Clear();
+    rp_firstdamage.Clear();
+    rp_ironman.Clear();
     rp_firstblood.Clear();
     rp_firstdeath.Clear();
     rp_kills.Clear();

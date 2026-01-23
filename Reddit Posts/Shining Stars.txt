@@ -11,6 +11,25 @@
 ---
 ### Most Kills
 
+**S1:** Dredex (7)
+
+**S2:** Bulbexe (5)
+
+**S3:** broccoliar (5)
+
+**S4:** DevoyTTV (5)
+
+**S5:** Pelycosaur (6)
+
+**S6:** _1mmortal_ (4)
+
+**S7:** brinkwhy, broccoliar, Bulbexe, xDiversity (3)
+
+**S8:** broccoliar (4)
+
+**S9:** brinkwhy (7)
+
+**S10:** brinkwhy (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +38,48 @@
 ---
 ### First Damage
 
+**S1:** KyusJ (0:0:18)
+
+**S2:** broccoliar (0:0:22)
+
+**S3:** broccoliar (0:0:23)
+
+**S4:** Dredex (0:20:22)
+
+**S5:** Jaceon02 (0:20:0)
+
+**S6:** broccoliar (0:0:23)
+
+**S7:** poWpaH (0:20:34)
+
+**S8:** Stravilight (0:0:44)
+
+**S9:** broccoliar (0:0:27)
+
+**S10:** Kaismartypants (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** darkexe (0:33:12)
+
+**S2:** poWpaH (0:28:52)
+
+**S3:** ItsShqky (1:6:44)
+
+**S4:** brinkwhy (1:28:37)
+
+**S5:** Lsnce (1:6:41)
+
+**S6:** xDiversity (0:52:19)
+
+**S7:** Forgot_N (1:39:49)
+
+**S8:** AvyleZ (1:32:22)
+
+**S9:** Flcnt (0:48:34)
+
+**S10:** ArcticSeagull (1:27:23)
 
 ---
 ### First Blood

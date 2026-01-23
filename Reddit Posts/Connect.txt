@@ -11,6 +11,29 @@
 ---
 ### Most Kills
 
+**S1:** Discombobulated_, TwistedGoose (3)
+
+**S2:** scrup (6)
+
+**S3:** TwistedGoose (7)
+
+**S4:** TwistedGoose (5)
+
+**S5:** _Gamenight888_ (6)
+
+**S6:** kirbey, Lqgan (3)
+
+**S7:** TwistedGoose (4)
+
+**S8:** _Gamenight888_ (3)
+
+**S9:** Archqrr (6)
+
+**S10:** FishManIsPotato (5)
+
+**S11:** carterwarterbear, CHAINGE, LightingMC, skyzfy (2)
+
+**S12:** sgouche (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +42,56 @@
 ---
 ### First Damage
 
+**S1:** Akichu (0:2:49)
+
+**S2:** FunAuto7590 (0:9:36)
+
+**S3:** JustAntartica (0:15:10)
+
+**S4:** JustAntartica (0:10:7)
+
+**S5:** sgouche (0:2:14)
+
+**S6:** Hendysaurus (0:0:58)
+
+**S7:** TwistedGoose (0:0:50)
+
+**S8:** LightingMC (0:7:33)
+
+**S9:** Archqrr (0:2:44)
+
+**S10:** sgouche (0:0:22)
+
+**S11:** LightingMC (0:2:50)
+
+**S12:** skyzfy (0:0:49)
 
 ---
 ### Ironman
 
+**S1:** warper (1:11:21)
+
+**S2:** Lampone (1:14:53)
+
+**S3:** LightingMC (1:16:49)
+
+**S4:** Hxrl (1:23:52)
+
+**S5:** Archqrr (1:17:46)
+
+**S6:** Bulbexe (1:8:51)
+
+**S7:** Bulbexe (0:51:17)
+
+**S8:** IdkKiller (1:21:7)
+
+**S9:** HUQTER (0:38:54)
+
+**S10:** Hendysaurus (1:6:21)
+
+**S11:** CHAINGE (0:59:45)
+
+**S12:** RollRealQuick (1:2:0)
 
 ---
 ### First Blood

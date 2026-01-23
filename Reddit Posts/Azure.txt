@@ -11,6 +11,43 @@
 ---
 ### Most Kills
 
+**S1:** Fictional (5)
+
+**S2:** Zudoia (5)
+
+**S3:** Centrios (5)
+
+**S4:** JasonBPE (5)
+
+**S5:** babyhiccups, cherryblawsom, Coward (3)
+
+**S6:** ConBeanJones, Potsie (5)
+
+**S7:** JasonBPE, MercuryParadox (3)
+
+**S8:** SoulRawr (5)
+
+**S9:** Zudoia (4)
+
+**S10:** ItsColinn (6)
+
+**S11:** Zahkari (5)
+
+**S12a:** ItsColinn, JustNolan (3)
+
+**S12b:** azoof (5)
+
+**S13:** DJoee (5)
+
+**S14:** colbay, fruitberries (5)
+
+**S15:** CipherKai (6)
+
+**S16:** JustNolan (6)
+
+**S17:** CipherKai, ItsColinn (8)
+
+**S18:** Blarkslol, ChainingVermin2 (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +56,84 @@
 ---
 ### First Damage
 
+**S1:** DerkThePig (0:1:14)
+
+**S2:** Sorvent (0:3:34)
+
+**S3:** Zahkari (0:0:33)
+
+**S4:** JRjoos (0:0:2)
+
+**S5:** Sorvent (0:2:17)
+
+**S6:** SpheaI (0:3:50)
+
+**S7:** chloesad (0:4:53)
+
+**S8:** FrostBros (0:0:25)
+
+**S9:** HshSlinginSlashr (0:0:4)
+
+**S10:** Sorvent (0:0:33)
+
+**S11:** ShyGus (0:0:24)
+
+**S12a:** Kaismartypants (0:0:30)
+
+**S12b:** Kaismartypants (0:0:20)
+
+**S13:** kirbey (0:0:12)
+
+**S14:** ChainingVermin2 (0:3:3)
+
+**S15:** Kaismartypants (0:5:7)
+
+**S16:** braidenOW (0:1:17)
+
+**S17:** ChainingVermin2 (0:3:29)
+
+**S18:** xCand (0:18:48)
 
 ---
 ### Ironman
 
+**S1:** Fictional (1:19:19)
+
+**S2:** smellay (1:4:53)
+
+**S3:** ConBeanJones (1:15:20)
+
+**S4:** Triazale (0:44:37)
+
+**S5:** JahMuis (1:14:2)
+
+**S6:** Fictional (2:10:41)
+
+**S7:** Fictional (1:14:34)
+
+**S8:** SoulRawr (0:48:56)
+
+**S9:** SrTortuga (1:19:10)
+
+**S10:** Fictional (1:13:50)
+
+**S11:** MaxEvasion (2:5:28)
+
+**S12a:** Kelawesome (1:53:32)
+
+**S12b:** lexicuhl (1:34:37)
+
+**S13:** Charrlottie (1:39:18)
+
+**S14:** Kaismartypants (1:35:45)
+
+**S15:** ChainingVermin2 (0:24:47)
+
+**S16:** ColdBac (1:31:29)
+
+**S17:** cherryblawsom (1:55:9)
+
+**S18:** GamerNthn (0:57:43)
 
 ---
 ### First Blood

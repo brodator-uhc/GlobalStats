@@ -11,6 +11,41 @@
 ---
 ### Most Kills
 
+**S1:** _Glen, MajorWoof (4)
+
+**S2:** Austronomical, chloesad (3)
+
+**S3:** AvaCos, Phoraxe, tilargo (4)
+
+**S4:** Phoraxe (10)
+
+**S5:** Potsie, vynil (5)
+
+**S6:** Austronomical (9)
+
+**S7:** Bradzi (5)
+
+**S8:** ChrisCD (6)
+
+**S9:** Jakekub (4)
+
+**S10:** Jayzize (5)
+
+**S11:** vynil (9)
+
+**S12:** Austronomical (8)
+
+**S13:** CHANGA (5)
+
+**S14:** natsuvi (4)
+
+**S15:** Omertosa (4)
+
+**S16:** CipherKai (4)
+
+**S17:** Fcrm (6)
+
+**S18:** swishduck, zCent (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +54,80 @@
 ---
 ### First Damage
 
+**S1:** SD_UHC (0:2:11)
+
+**S2:** Cyndic (0:4:23)
+
+**S3:** JaeHasNoMaidens (0:1:27)
+
+**S4:** Potsie (0:3:57)
+
+**S5:** Fra49 (0:0:39)
+
+**S6:** frogsella (0:0:58)
+
+**S7:** Zachf01 (0:8:53)
+
+**S8:** Fra49 (0:1:37)
+
+**S9:** ShyGus (0:0:23)
+
+**S10:** Fra49 (0:0:38)
+
+**S11:** kirbey (0:0:22)
+
+**S12:** Austronomical (0:7:45)
+
+**S13:** cherryblawsom (0:0:54)
+
+**S14:** ohh_lia (0:2:52)
+
+**S15:** _Dieter (0:2:39)
+
+**S16:** acadiangel (0:0:27)
+
+**S17:** kirbey (0:0:34)
+
+**S18:** kirbey (0:0:26)
 
 ---
 ### Ironman
 
+**S1:** thebbers (0:50:43)
+
+**S2:** AnUncreativeCat (1:10:4)
+
+**S3:** tagggz (1:22:41)
+
+**S4:** Phoraxe (1:4:32)
+
+**S5:** Bobbytheturtle (1:14:22)
+
+**S6:** Bobbytheturtle (1:48:52)
+
+**S7:** automavic (1:31:7)
+
+**S8:** JaeHasNoMaidens (1:35:57)
+
+**S9:** wibbol (0:54:6)
+
+**S10:** flameorb (1:54:56)
+
+**S11:** AJSteel (1:36:34)
+
+**S12:** automavic (1:40:21)
+
+**S13:** Bobbytheturtle (1:31:34)
+
+**S14:** MercuryParadox (1:8:30)
+
+**S15:** automavic (0:52:51)
+
+**S16:** MercuryParadox (0:47:0)
+
+**S17:** Fcrm (0:58:0)
+
+**S18:** automavic (1:25:38)
 
 ---
 ### First Blood

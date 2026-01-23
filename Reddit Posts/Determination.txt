@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** AvaCos, Fukano, slowpr0 (4)
+
+**S2:** MarcC5M, Regifloat (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** slowpr0 (0:0:58)
+
+**S2:** BushieHalf (0:0:7)
 
 ---
 ### Ironman
 
+**S1:** Fukano (1:43:1)
+
+**S2:** Regifloat (0:41:18)
 
 ---
 ### First Blood

@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** Dyoza, FrostBros, SpaceFenix (3)
+
+**S2:** SpaceFenix (4)
+
+**S3:** benidk, Caydone (4)
+
+**S4:** DJoee (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** wizarde (0:1:1)
+
+**S2:** Coward (0:0:34)
+
+**S3:** ItsShqky (0:0:43)
+
+**S4:** natsuvi (0:0:31)
 
 ---
 ### Ironman
 
+**S1:** Charrlottie (0:29:41)
+
+**S2:** 123SteveBob (0:59:26)
+
+**S3:** wizarde (1:18:24)
+
+**S4:** Biwitch (1:10:29)
 
 ---
 ### First Blood

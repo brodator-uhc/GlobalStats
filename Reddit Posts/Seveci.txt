@@ -11,6 +11,17 @@
 ---
 ### Most Kills
 
+**S1:** CipherKai (6)
+
+**S2:** CipherKai, Cubic44, Kelawesome (4)
+
+**S3:** LightingMC (5)
+
+**S4:** CipherKai (5)
+
+**S5:** colbay (6)
+
+**S6:** Bornyo, xDiversity (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +30,32 @@
 ---
 ### First Damage
 
+**S1:** eliexists (0:2:55)
+
+**S2:** Coward (0:0:8)
+
+**S3:** swishduck (0:0:28)
+
+**S4:** solnyki (0:1:37)
+
+**S5:** DevoyTTV (0:6:50)
+
+**S6:** SiahStone (0:4:15)
 
 ---
 ### Ironman
 
+**S1:** ItsColinn (1:19:58)
+
+**S2:** cherryblawsom (1:7:58)
+
+**S3:** Bulbexe (0:41:16)
+
+**S4:** _carn (0:33:26)
+
+**S5:** benidk (1:7:34)
+
+**S6:** Fcrm (0:34:33)
 
 ---
 ### First Blood

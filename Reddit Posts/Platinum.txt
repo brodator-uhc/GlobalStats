@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** ChainingVermin2 (4)
+
+**S2:** ColdBac (7)
+
+**S3:** pigghetti (8)
+
+**S4:** Boomblade60 (11)
+
+**S5:** cherryblawsom (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** SpaceFenix (0:6:27)
+
+**S2:** acadiangel (0:0:21)
+
+**S3:** acadiangel (0:0:22)
+
+**S4:** MCmattFTW (0:0:54)
+
+**S5:** ColdBac (0:2:36)
 
 ---
 ### Ironman
 
+**S1:** MercuryParadox (2:1:25)
+
+**S2:** Gorgerous (0:50:44)
+
+**S3:** SpaceFenix (1:39:37)
+
+**S4:** MercuryParadox (1:31:18)
+
+**S5:** Kaimaxon (0:38:23)
 
 ---
 ### First Blood

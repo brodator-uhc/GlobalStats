@@ -11,6 +11,7 @@
 ---
 ### Most Kills
 
+**S1:** Dark_rust (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +20,12 @@
 ---
 ### First Damage
 
+**S1:** Eluniel (0:7:0)
 
 ---
 ### Ironman
 
+**S1:** Fawful55 (1:0:7)
 
 ---
 ### First Blood

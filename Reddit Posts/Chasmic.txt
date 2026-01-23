@@ -11,6 +11,7 @@
 ---
 ### Most Kills
 
+**S1:** Sten_Stone (2)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +20,12 @@
 ---
 ### First Damage
 
+**S1:** Pat_N (0:5:39)
 
 ---
 ### Ironman
 
+**S1:** 3Dspoders (0:25:53)
 
 ---
 ### First Blood

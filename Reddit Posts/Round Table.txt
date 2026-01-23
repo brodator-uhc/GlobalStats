@@ -11,6 +11,7 @@
 ---
 ### Most Kills
 
+**S1:** CipherKai (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +20,12 @@
 ---
 ### First Damage
 
+**S1:** MaxEvasion (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** ItsTrubby (1:53:43)
 
 ---
 ### First Blood

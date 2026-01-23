@@ -11,6 +11,11 @@
 ---
 ### Most Kills
 
+**S1:** ItsShqky (5)
+
+**S2:** omchris (7)
+
+**S3:** Fcrm (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +24,20 @@
 ---
 ### First Damage
 
+**S1:** MercuryParadox (0:1:19)
+
+**S2:** ChainingVermin2 (0:20:3)
+
+**S3:** ItsShqky (0:2:51)
 
 ---
 ### Ironman
 
+**S1:** Brodator (1:24:58)
+
+**S2:** _1mmortal_ (0:38:58)
+
+**S3:** MichaelPlayMC (0:50:0)
 
 ---
 ### First Blood

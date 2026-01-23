@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Klobb, lexicuhl (3)
+
+**S2:** lexicuhl (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** Flouzemaker (0:2:40)
+
+**S2:** H_L_llama (0:4:46)
 
 ---
 ### Ironman
 
+**S1:** I_is_cheesecake (1:45:33)
+
+**S2:** Brodator (0:50:13)
 
 ---
 ### First Blood

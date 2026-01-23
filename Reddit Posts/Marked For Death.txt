@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** tuxpeng (5)
+
+**S2:** CH0CK (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** Fire_Factor (0:1:7)
+
+**S2:** jvevo (0:3:23)
 
 ---
 ### Ironman
 
+**S1:** Do_You_Minecraft (1:31:24)
+
+**S2:** oDogLFC (1:55:7)
 
 ---
 ### First Blood

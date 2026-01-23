@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** DoctorTP_ (3)
+
+**S2:** CrazyRusher (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** ImMist (0:2:25)
+
+**S2:** TheKappaNation (0:6:58)
 
 ---
 ### Ironman
 
+**S1:** GRLH (0:44:48)
+
+**S2:** Mini_Maxy (0:59:7)
 
 ---
 ### First Blood

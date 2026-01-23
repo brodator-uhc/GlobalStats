@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** swishduck (6)
+
+**S2:** tuxpeng (6)
+
+**S3:** ColdBac, Daffz (4)
+
+**S4:** Spongey (8)
+
+**S5:** AvaCos, tuxpeng (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** Spongey (0:1:1)
+
+**S2:** OhBehave (0:1:14)
+
+**S3:** Spongey (0:2:59)
+
+**S4:** Qenis (0:1:38)
+
+**S5:** Spongey (0:0:36)
 
 ---
 ### Ironman
 
+**S1:** warriorcat (2:3:20)
+
+**S2:** thebbers (1:53:58)
+
+**S3:** Maxwellfifty (1:35:30)
+
+**S4:** Spongey (1:23:34)
+
+**S5:** lexicuhl (0:58:8)
 
 ---
 ### First Blood

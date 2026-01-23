@@ -11,6 +11,35 @@
 ---
 ### Most Kills
 
+**S1:** IceshardEleven (3)
+
+**S2:** KingsGaming (4)
+
+**S3:** GoldenNs (4)
+
+**S4:** tuxpeng (4)
+
+**S5:** tuxpeng (9)
+
+**S6:** Bobbytheturtle, SoulRawr (4)
+
+**S7a:** ColdBac (4)
+
+**S7b:** Austronomical, Broseph, Wilsonkong (3)
+
+**S8:** GoldenNs, Ryfri (3)
+
+**S9:** GoldenNs (4)
+
+**S10:** TheRealHagrid (5)
+
+**S11:** Fensua (5)
+
+**S12:** Bobbytheturtle (7)
+
+**S13:** Andronify (7)
+
+**S14:** Kelawesome (9)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +48,68 @@
 ---
 ### First Damage
 
+**S1:** ConBeanJones (0:7:58)
+
+**S2:** Fensua (0:1:7)
+
+**S3:** Austronomical (0:0:4)
+
+**S4:** Broseph (0:2:46)
+
+**S5:** Spongey (0:3:14)
+
+**S6:** Sluggyg (0:2:25)
+
+**S7a:** dRawry (0:0:40)
+
+**S7b:** Spongey (0:0:16)
+
+**S8:** Spongey (0:0:48)
+
+**S9:** Potsie (0:9:19)
+
+**S10:** Ryfri (0:1:3)
+
+**S11:** Just_Gerald (0:0:30)
+
+**S12:** Austronomical (0:0:31)
+
+**S13:** omchris (0:29:13)
+
+**S14:** Kaismartypants (0:0:27)
 
 ---
 ### Ironman
 
+**S1:** Wilsonkong (0:57:0)
+
+**S2:** Ryfri (0:32:12)
+
+**S3:** Regifloat (1:12:14)
+
+**S4:** TheRealHagrid (1:8:8)
+
+**S5:** lexicuhl (1:16:27)
+
+**S6:** lexicuhl (1:8:22)
+
+**S7a:** DaPenguin19 (1:24:52)
+
+**S7b:** tilargo (1:30:56)
+
+**S8:** MercuryParadox (1:23:45)
+
+**S9:** JamestheDouglas (1:28:56)
+
+**S10:** MajorWoof (1:46:37)
+
+**S11:** Brodator (1:15:41)
+
+**S12:** Kiinako_ (1:26:48)
+
+**S13:** Flouzemaker (1:30:14)
+
+**S14:** QuilJ1 (1:19:37)
 
 ---
 ### First Blood

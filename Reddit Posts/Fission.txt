@@ -11,6 +11,41 @@
 ---
 ### Most Kills
 
+**S1:** Purpdan (4)
+
+**S2:** 1eeg, Purpdan (5)
+
+**S3:** ShyGus (5)
+
+**S4:** SimplySam (7)
+
+**S5:** OnlyCosmia (5)
+
+**S6:** Purpdan (6)
+
+**S7:** Coolust (5)
+
+**S8:** jamertxn, SoulRawr (5)
+
+**S9:** Purpdan (5)
+
+**S10:** Gabey (8)
+
+**S11:** Bobbytheturtle (5)
+
+**S12:** Austronomical (9)
+
+**S13:** Cyndic, vynil (5)
+
+**S14:** vishs (4)
+
+**S15:** Bobbytheturtle (4)
+
+**S16:** lexicuhl (5)
+
+**S17:** Arich, Awticon, Kelawesome (5)
+
+**S18:** vynil (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +54,80 @@
 ---
 ### First Damage
 
+**S1:** abateur (0:0:4)
+
+**S2:** MajorWoof (0:3:14)
+
+**S3:** BENYN (0:1:5)
+
+**S4:** ShyGus (0:0:49)
+
+**S5:** ShyGus (0:0:3)
+
+**S6:** ColdBac (0:2:4)
+
+**S7:** SmoothieGod (0:3:55)
+
+**S8:** Fensua (0:1:15)
+
+**S9:** Purpdan (0:0:49)
+
+**S10:** Gabey (0:0:22)
+
+**S11:** ShyGus (0:0:36)
+
+**S12:** ShyGus (0:0:20)
+
+**S13:** AvaCos (0:0:57)
+
+**S14:** frogsella (0:3:30)
+
+**S15:** warriorcat (0:0:29)
+
+**S16:** ShyGus (0:1:13)
+
+**S17:** frogsella (0:1:10)
+
+**S18:** Potsie (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** powermc (1:48:50)
+
+**S2:** 016Nojr (1:39:42)
+
+**S3:** lexicuhl (1:0:25)
+
+**S4:** Hecticity (1:16:26)
+
+**S5:** 016Nojr (1:17:20)
+
+**S6:** MercuryParadox (1:22:0)
+
+**S7:** ThePeridotKnight (1:28:49)
+
+**S8:** 5kylord (1:16:1)
+
+**S9:** I_is_cheesecake (1:50:28)
+
+**S10:** MajorWoof (1:41:19)
+
+**S11:** Chessa (1:59:12)
+
+**S12:** Bobbytheturtle (1:3:2)
+
+**S13:** Faqunn (1:22:41)
+
+**S14:** 5kylord (0:38:40)
+
+**S15:** 5hup (1:34:41)
+
+**S16:** Ratchet6859 (1:27:55)
+
+**S17:** 016Nojr (1:30:12)
+
+**S18:** silh (1:37:1)
 
 ---
 ### First Blood

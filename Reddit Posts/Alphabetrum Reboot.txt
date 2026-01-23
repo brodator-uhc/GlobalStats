@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** _carn (9)
+
+**S2:** skyzfy (7)
+
+**S3:** CurdledDrip, skyzfy (6)
+
+**S4:** alexnv (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** ArcticSeagull (0:20:39)
+
+**S2:** broccoliar (0:0:32)
+
+**S3:** Kaismartypants (0:18:55)
+
+**S4:** Kaismartypants (0:19:19)
 
 ---
 ### Ironman
 
+**S1:** SpaceFenix (0:51:38)
+
+**S2:** SpaceFenix (0:52:1)
+
+**S3:** AvyleZ (0:47:29)
+
+**S4:** vynil (1:0:36)
 
 ---
 ### First Blood

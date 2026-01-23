@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Emerric (5)
+
+**S2:** bobjomac (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** Andyboyonalert (0:3:16)
+
+**S2:** Just_Gerald (0:3:35)
 
 ---
 ### Ironman
 
+**S1:** sonmica (1:29:58)
+
+**S2:** QuilJ1 (2:8:47)
 
 ---
 ### First Blood

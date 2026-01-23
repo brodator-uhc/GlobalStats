@@ -11,6 +11,17 @@
 ---
 ### Most Kills
 
+**S1:** FrostBros, WackoFlipper (3)
+
+**S2:** MajorWoof (4)
+
+**S3:** chloesad (5)
+
+**S4:** strategy (9)
+
+**S5:** CipherKai (8)
+
+**S6:** Fcrm, wizarde (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +30,32 @@
 ---
 ### First Damage
 
+**S1:** _ChrisMS (0:0:19)
+
+**S2:** ShyGus (0:3:13)
+
+**S3:** _ChrisMS (0:0:3)
+
+**S4:** alexnv (0:0:25)
+
+**S5:** BardMain2 (0:0:21)
+
+**S6:** Kaismartypants (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** wibbol (1:43:55)
+
+**S2:** QuilJ1 (1:32:24)
+
+**S3:** chloesad (1:23:15)
+
+**S4:** flameorb (1:37:30)
+
+**S5:** Bobbytheturtle (1:10:1)
+
+**S6:** Tharve (1:10:12)
 
 ---
 ### First Blood

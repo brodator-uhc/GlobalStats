@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** Wilsonkong (6)
+
+**S2:** Wilsonkong (4)
+
+**S3:** Wilsonkong (6)
+
+**S4:** JaeHasNoMaidens (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** Greeples (0:4:11)
+
+**S2:** dRawry (0:1:17)
+
+**S3:** dRawry (0:1:8)
+
+**S4:** Kaismartypants (0:0:16)
 
 ---
 ### Ironman
 
+**S1:** Flouzemaker (1:10:35)
+
+**S2:** TheSonicJoey (1:10:49)
+
+**S3:** LotusLily (1:19:27)
+
+**S4:** dRawry (1:40:26)
 
 ---
 ### First Blood

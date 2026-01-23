@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Oyubook (4)
+
+**S2:** MrPolzerino (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** Praulis (0:3:21)
+
+**S2:** Kidfo (0:0:7)
 
 ---
 ### Ironman
 
+**S1:** Havenhand (1:20:51)
+
+**S2:** Dark_rust (1:27:12)
 
 ---
 ### First Blood

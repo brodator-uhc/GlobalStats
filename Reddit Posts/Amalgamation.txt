@@ -11,6 +11,23 @@
 ---
 ### Most Kills
 
+**S1:** Bornyo, m4ku (4)
+
+**S2:** wizarde (5)
+
+**S3:** brinkwhy (5)
+
+**S4:** ItsColinn (4)
+
+**S5:** ItsColinn (4)
+
+**S6:** Glarza (6)
+
+**S7:** natsuvi (7)
+
+**S8:** ChainingVermin2, cherryblawsom, MaxEvasion, Rebelghost (3)
+
+**S9:** ChainingVermin2 (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +36,44 @@
 ---
 ### First Damage
 
+**S1:** FrostBros (0:0:30)
+
+**S2:** _Fost_ (0:4:21)
+
+**S3:** ghostblurr (0:8:26)
+
+**S4:** Rebelghost (0:0:4)
+
+**S5:** FrostBros (0:3:2)
+
+**S6:** Kaismartypants (0:0:20)
+
+**S7:** Kaismartypants (0:0:20)
+
+**S8:** MaxEvasion (0:3:22)
+
+**S9:** Kaismartypants (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** Bottiken (1:4:33)
+
+**S2:** natsuvi (1:18:12)
+
+**S3:** Brodator (0:55:39)
+
+**S4:** Jahrod (1:12:14)
+
+**S5:** Rohcket (1:26:28)
+
+**S6:** Jahrod (1:4:17)
+
+**S7:** DarrenBGP (1:12:35)
+
+**S8:** ToucanTom (1:25:50)
+
+**S9:** ShootingGoats (0:37:43)
 
 ---
 ### First Blood

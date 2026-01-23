@@ -11,6 +11,21 @@
 ---
 ### Most Kills
 
+**S1:** bobjomac, Greeples, Lazmark, OmniShade (3)
+
+**S2:** TheSonicJoey (5)
+
+**S3a:** centraleric, CrowJRC, Jahrod (4)
+
+**S3b:** Brodator (5)
+
+**S3c:** Lighte (8)
+
+**S4:** Emerric (7)
+
+**S5:** Dj8ninja (8)
+
+**S6:** Maxwellfifty (9)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +34,40 @@
 ---
 ### First Damage
 
+**S1:** SoberBartender (0:5:38)
+
+**S2:** QuilJ1 (0:4:1)
+
+**S3a:** Dj8ninja (0:0:32)
+
+**S3b:** K0REDRAG0N (0:0:10)
+
+**S3c:** Kaismartypants (0:0:21)
+
+**S4:** Dj8ninja (0:0:22)
+
+**S5:** Fell_Umbra (0:0:57)
+
+**S6:** Compieuter (0:1:51)
 
 ---
 ### Ironman
 
+**S1:** MegaGran (2:12:34)
+
+**S2:** Sten_Stone (1:59:37)
+
+**S3a:** Hariboe (1:56:27)
+
+**S3b:** Sten_Stone (1:51:50)
+
+**S3c:** jamertxn (1:51:17)
+
+**S4:** trillibytes (2:1:46)
+
+**S5:** Bekerson (1:57:53)
+
+**S6:** Flouzemaker (1:55:34)
 
 ---
 ### First Blood

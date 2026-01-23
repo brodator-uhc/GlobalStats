@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** Fcrm (4)
+
+**S2:** RqDix (5)
+
+**S3:** Glarza, natsuvi (5)
+
+**S4:** Spongey (4)
+
+**S5:** RemyChingling (9)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** RemyChingling (0:1:23)
+
+**S2:** RqDix (0:4:21)
+
+**S3:** Kaismartypants (0:0:20)
+
+**S4:** benidk (0:1:40)
+
+**S5:** Lighte (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** MercuryParadox (1:11:8)
+
+**S2:** MercuryParadox (1:14:54)
+
+**S3:** MercuryParadox (1:5:7)
+
+**S4:** Fensua (0:52:23)
+
+**S5:** _1mmortal_ (1:15:15)
 
 ---
 ### First Blood

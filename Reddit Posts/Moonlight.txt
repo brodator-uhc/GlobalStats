@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** JustStefqn (3)
+
+**S2:** Fcrm (7)
+
+**S3:** Fcrm (7)
+
+**S4:** kawaiibunri (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** Dreamfall (0:0:21)
+
+**S2:** broccoliar (0:0:21)
+
+**S3:** broccoliar (0:0:23)
+
+**S4:** broccoliar (0:0:24)
 
 ---
 ### Ironman
 
+**S1:** grantfaker (0:37:51)
+
+**S2:** DogOfKrondor (0:50:33)
+
+**S3:** AirInAirOut (0:30:52)
+
+**S4:** DogOfKrondor (0:59:5)
 
 ---
 ### First Blood

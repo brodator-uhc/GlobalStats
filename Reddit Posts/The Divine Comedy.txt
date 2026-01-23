@@ -11,6 +11,17 @@
 ---
 ### Most Kills
 
+**S1:** Grantonic (5)
+
+**S2:** OnlyCosmia, TheSonicJoey (5)
+
+**S3:** NukedNukem (6)
+
+**S4:** lottebunny (5)
+
+**S5a:** Emerric (6)
+
+**S5b:** 5hup, Captinn, Milen, Randehh (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +30,32 @@
 ---
 ### First Damage
 
+**S1:** rippersteveM5 (0:4:2)
+
+**S2:** tilargo (0:1:18)
+
+**S3:** AxeyGM (0:1:44)
+
+**S4:** Chasmic (0:1:38)
+
+**S5a:** Rohcket (0:3:54)
+
+**S5b:** Phyrrus (0:1:33)
 
 ---
 ### Ironman
 
+**S1:** Emerric (1:44:14)
+
+**S2:** RedAjayDaBunny (1:43:55)
+
+**S3:** TheSonicJoey (1:50:50)
+
+**S4:** lottebunny (1:41:19)
+
+**S5a:** Brodator (1:32:38)
+
+**S5b:** Emerric (1:25:33)
 
 ---
 ### First Blood

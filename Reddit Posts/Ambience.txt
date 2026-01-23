@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** NetherrRush (8)
+
+**S2:** MaxEvasion (5)
+
+**S3:** Spikemc (3)
+
+**S4:** AJSteel (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** xXMaximusMC (0:1:38)
+
+**S2:** Abdalain (0:6:11)
+
+**S3:** Katshkee (0:5:52)
+
+**S4:** HoneyFromHell (0:2:49)
 
 ---
 ### Ironman
 
+**S1:** TheRealHagrid (1:9:3)
+
+**S2:** EighteenQs (2:1:37)
+
+**S3:** TheRealHagrid (1:24:13)
+
+**S4:** AJSteel (0:52:37)
 
 ---
 ### First Blood

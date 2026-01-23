@@ -11,6 +11,57 @@
 ---
 ### Most Kills
 
+**S1:** BoltsInCharge (10)
+
+**S2:** Brodator (7)
+
+**S3:** Brodator, CameronJacob00, Flouzemaker (4)
+
+**S4:** 4EyedSlime, Flouzemaker (4)
+
+**S5:** 1ime (6)
+
+**S6:** _ChrisMS (6)
+
+**S7:** _ChrisMS (5)
+
+**S8:** draylor09, egl_ (3)
+
+**S9:** 1ime (7)
+
+**S10:** JaeHasNoMaidens (5)
+
+**S11:** 4EyedSlime (6)
+
+**S12:** 4EyedSlime (7)
+
+**S13:** CrowJRC (6)
+
+**S14:** AlesandroDeMoor, Jahrod (3)
+
+**S15:** CrowJRC (6)
+
+**S16:** Zeiyuri (4)
+
+**S17:** CrowJRC (4)
+
+**S18:** Chasmic, ItsShqky, TheCatMurgatroyd (3)
+
+**S19:** Rohcket (4)
+
+**S20:** QuilJ1 (8)
+
+**S21:** JaeHasNoMaidens (6)
+
+**S22:** ShootingGoats (6)
+
+**S23:** Jahrod (4)
+
+**S24:** Brodator (4)
+
+**S25:** Maxwellfifty, SiahStone (3)
+
+**S26:** fruitlogic (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +70,112 @@
 ---
 ### First Damage
 
+**S1:** Lusa (0:0:27)
+
+**S2:** Magnam_Indie (0:0:58)
+
+**S3:** motherofmermaids (0:1:39)
+
+**S4:** ArrowsofCara (0:0:9)
+
+**S5:** draylor09 (0:0:9)
+
+**S6:** whitetimewolf (0:0:21)
+
+**S7:** ghostblurr (0:2:56)
+
+**S8:** GReimer (0:9:17)
+
+**S9:** _ChrisMS (0:0:31)
+
+**S10:** Flishko (0:1:30)
+
+**S11:** Bofishkix (0:0:2)
+
+**S12:** ArcticSeagull (0:11:28)
+
+**S13:** Sparky_Taz (0:5:56)
+
+**S14:** Kaismartypants (0:0:26)
+
+**S15:** _ChrisMS (0:0:22)
+
+**S16:** Sten_Stone (0:1:32)
+
+**S17:** Kaismartypants (0:0:23)
+
+**S18:** _Fost_ (0:1:28)
+
+**S19:** Kaismartypants (0:0:22)
+
+**S20:** Kaismartypants (0:0:22)
+
+**S21:** egl_ (0:1:37)
+
+**S22:** Sten_Stone (0:9:48)
+
+**S23:** Jalapinecone (0:9:39)
+
+**S24:** CodeJoshua (0:1:2)
+
+**S25:** Kaismartypants (0:5:7)
+
+**S26:** WackoFlipper (0:22:13)
 
 ---
 ### Ironman
 
+**S1:** Fnassau (1:18:28)
+
+**S2:** Lazmark (1:23:30)
+
+**S3:** 1ime (1:24:4)
+
+**S4:** trillibytes (1:35:5)
+
+**S5:** Ancient_Bunny (1:48:36)
+
+**S6:** MegaGran (1:17:34)
+
+**S7:** GReimer (1:54:47)
+
+**S8:** nFang (1:53:25)
+
+**S9:** Sparky_Taz (1:46:9)
+
+**S10:** MegaGran (1:41:8)
+
+**S11:** Zeiyuri (1:49:57)
+
+**S12:** Zeiyuri (1:43:5)
+
+**S13:** Jahrod (1:32:56)
+
+**S14:** Jahrod (1:31:33)
+
+**S15:** Ancient_Bunny (1:56:50)
+
+**S16:** NickPlaysGames15 (1:19:26)
+
+**S17:** Ancient_Bunny (0:9:47)
+
+**S18:** nFang (1:52:41)
+
+**S19:** Blackbelt244 (1:55:26)
+
+**S20:** Xzeaulor (2:3:0)
+
+**S21:** MarcC5M (1:35:7)
+
+**S22:** AirInAirOut (1:40:59)
+
+**S23:** Ninetals38 (1:48:6)
+
+**S24:** TheSonicJoey (1:55:5)
+
+**S25:** Blackbelt244 (1:52:46)
+
+**S26:** Rohcket (1:53:47)
 
 ---
 ### First Blood

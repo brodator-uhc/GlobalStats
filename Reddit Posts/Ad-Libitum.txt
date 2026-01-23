@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** 5kylord (5)
+
+**S2:** strategy (4)
+
+**S3:** marcusmtm (4)
+
+**S4:** Kaismartypants (4)
+
+**S5:** Phoraxe (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** ShyGus (0:0:21)
+
+**S2:** Normoh (0:2:11)
+
+**S3:** Kaismartypants (0:0:18)
+
+**S4:** Kubaslov (0:7:28)
+
+**S5:** Austronomical (0:0:9)
 
 ---
 ### Ironman
 
+**S1:** flameorb (0:58:0)
+
+**S2:** cherryblawsom (1:31:49)
+
+**S3:** buttergolem1 (1:26:23)
+
+**S4:** buttergolem1 (1:22:5)
+
+**S5:** Smeshi (0:38:16)
 
 ---
 ### First Blood

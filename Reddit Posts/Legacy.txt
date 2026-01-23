@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** ColdBac (6)
+
+**S2:** Greeples, SpaceFenix, swishduck, TheSlimeBrother, Westcraft00 (2)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** ThisIsHab (0:0:26)
+
+**S2:** JustNolan (0:0:46)
 
 ---
 ### Ironman
 
+**S1:** AirInAirOut (1:22:54)
+
+**S2:** MCmattFTW (1:0:59)
 
 ---
 ### First Blood

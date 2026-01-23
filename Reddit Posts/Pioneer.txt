@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Canman (5)
+
+**S2:** BardMain2 (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** SiahStone (0:2:57)
+
+**S2:** Dj8ninja (0:0:40)
 
 ---
 ### Ironman
 
+**S1:** IceshardEleven (1:12:1)
+
+**S2:** Professer_TNT (0:58:18)
 
 ---
 ### First Blood

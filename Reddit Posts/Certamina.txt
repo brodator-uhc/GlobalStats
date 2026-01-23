@@ -11,6 +11,25 @@
 ---
 ### Most Kills
 
+**S1:** Scurry_, TheSonicJoey (3)
+
+**S2:** Scurry_ (7)
+
+**S3:** MrPolzerino (5)
+
+**S4:** AttackZach_, ScottPirie, ShyGus (3)
+
+**S5:** Eluniel (5)
+
+**S6:** Hecticity (6)
+
+**S7:** Maxwellfifty (4)
+
+**S8:** tuxpeng (5)
+
+**S9:** Maxwellfifty (6)
+
+**S10:** ChainingVermin2, fruitlogic (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +38,48 @@
 ---
 ### First Damage
 
+**S1:** WirdDirectioner (0:1:36)
+
+**S2:** KatyLawson (0:4:11)
+
+**S3:** ChocoTaco622 (0:1:9)
+
+**S4:** ShyGus (0:2:22)
+
+**S5:** numdegased (0:0:33)
+
+**S6:** PaperVinnie (0:12:28)
+
+**S7:** lottebunny (0:3:6)
+
+**S8:** miles1baseball (0:12:45)
+
+**S9:** Nintendoshi (0:0:22)
+
+**S10:** TheSonicJoey (0:3:59)
 
 ---
 ### Ironman
 
+**S1:** TheSonicJoey (0:57:11)
+
+**S2:** TheSonicJoey (1:10:5)
+
+**S3:** ShyGus (1:26:8)
+
+**S4:** TheKevGuy (1:34:14)
+
+**S5:** ShyGus (1:48:32)
+
+**S6:** ShyGus (2:14:50)
+
+**S7:** Chasmic (1:59:7)
+
+**S8:** tuxpeng (1:2:56)
+
+**S9:** MercuryParadox (0:55:48)
+
+**S10:** Jakekub (1:9:30)
 
 ---
 ### First Blood

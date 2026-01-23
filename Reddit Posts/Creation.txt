@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** FrostBros, Jorgeeay (4)
+
+**S2:** brinkwhy (5)
+
+**S3:** Prisma (5)
+
+**S4:** xMisha (7)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** Dj8ninja (0:1:0)
+
+**S2:** Jorgeeay (0:2:6)
+
+**S3:** Dj8ninja (0:0:9)
+
+**S4:** Dj8ninja (0:0:30)
 
 ---
 ### Ironman
 
+**S1:** Bofishkix (0:45:12)
+
+**S2:** Espik (1:40:52)
+
+**S3:** xMisha (1:49:50)
+
+**S4:** Digdude (1:28:12)
 
 ---
 ### First Blood

@@ -11,6 +11,51 @@
 ---
 ### Most Kills
 
+**S1:** _ChrisMS (4)
+
+**S2:** Brocko (5)
+
+**S3:** AHSOKATANOSTAN (8)
+
+**S4:** St0rmplayz (5)
+
+**S5:** CHAINGE, egl_, St0rmplayz (4)
+
+**S6:** natsuvi (3)
+
+**S7:** TheSlimeBrother (4)
+
+**S8:** Captinn (4)
+
+**S9:** Mikemino321 (6)
+
+**S10:** Karliffu (6)
+
+**S11:** Captinn, Vetmire (4)
+
+**S12:** natsuvi, Stravilight, Supersun_ (3)
+
+**S13:** RohanSmashBro (5)
+
+**S14:** Kaismartypants, lasdarling (4)
+
+**S15:** Fcrm (7)
+
+**S16:** ArcticSeagull, MaxEvasion (4)
+
+**S17:** broccoliar, Kaddyn (2)
+
+**S18:** brinkwhy (5)
+
+**S19:** DatGuyAdam, natsuvi (7)
+
+**S20:** Fcrm (7)
+
+**S21:** RohanSmashBro (4)
+
+**S22:** Karliffu (4)
+
+**S23:** BoltsInCharge (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +64,100 @@
 ---
 ### First Damage
 
+**S1:** OddishThoughts (0:0:38)
+
+**S2:** OddishThoughts (0:0:20)
+
+**S3:** NickPlaysGames15 (0:0:2)
+
+**S4:** Pelycosaur (0:3:10)
+
+**S5:** CHAINGE (0:2:36)
+
+**S6:** ArcticSeagull (0:5:19)
+
+**S7:** kirbey (0:1:7)
+
+**S8:** Pelycosaur (0:3:23)
+
+**S9:** CodeJoshua (0:1:46)
+
+**S10:** _ChrisMS (0:0:31)
+
+**S11:** Kaismartypants (0:0:30)
+
+**S12:** Mikemino321 (0:2:24)
+
+**S13:** kirbey (0:0:31)
+
+**S14:** Kaismartypants (0:0:20)
+
+**S15:** Kaismartypants (0:0:31)
+
+**S16:** Kaismartypants (0:0:31)
+
+**S17:** Kaismartypants (0:0:20)
+
+**S18:** Kaismartypants (0:0:20)
+
+**S19:** Karasu994 (0:0:42)
+
+**S20:** Rebelghost (0:0:24)
+
+**S21:** broccoliar (0:0:20)
+
+**S22:** broccoliar (0:0:25)
+
+**S23:** Rebelghost (0:0:21)
 
 ---
 ### Ironman
 
+**S1:** PikachuNumbers (0:42:21)
+
+**S2:** TastyBaconZ (1:28:9)
+
+**S3:** Caydone (0:41:53)
+
+**S4:** egl_ (1:7:33)
+
+**S5:** Cubic44 (1:16:29)
+
+**S6:** St0rmplayz (1:27:14)
+
+**S7:** DatGuyAdam (1:33:58)
+
+**S8:** Captinn (1:31:30)
+
+**S9:** Kaddyn (1:5:48)
+
+**S10:** TastyBaconZ (1:31:32)
+
+**S11:** Evzenitable (0:52:21)
+
+**S12:** Kaismartypants (1:18:58)
+
+**S13:** poWpaH (1:6:54)
+
+**S14:** nug17 (1:23:56)
+
+**S15:** TastyBaconZ (1:29:33)
+
+**S16:** sr8611 (1:24:34)
+
+**S17:** nug17 (1:29:51)
+
+**S18:** Ninetals38 (1:2:22)
+
+**S19:** Vetmire (1:27:43)
+
+**S20:** Karliffu (1:17:41)
+
+**S21:** BoltsInCharge (0:46:55)
+
+**S22:** TheSlimeBrother (0:55:37)
+
+**S23:** CodeJoshua (1:22:3)
 
 ---
 ### First Blood

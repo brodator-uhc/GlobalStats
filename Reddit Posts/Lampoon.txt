@@ -11,6 +11,21 @@
 ---
 ### Most Kills
 
+**S1:** 5hup (5)
+
+**S2:** tuxpeng (8)
+
+**S3:** Spacepod_ (5)
+
+**S4:** Dylanthesnake (5)
+
+**S5:** swishduck (6)
+
+**S6:** 5hup, ShyGus (4)
+
+**S7:** ColdBac (8)
+
+**S8:** I_is_cheesecake (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +34,40 @@
 ---
 ### First Damage
 
+**S1:** CH0CK (0:0:51)
+
+**S2:** ThePeridotKnight (0:4:28)
+
+**S3:** CH0CK (0:3:43)
+
+**S4:** friigiid (0:1:12)
+
+**S5:** ShyGus (0:0:21)
+
+**S6:** 20thPrestigeNoob (0:4:16)
+
+**S7:** frogsella (0:2:18)
+
+**S8:** Kidfo (0:0:26)
 
 ---
 ### Ironman
 
+**S1:** Do_You_Minecraft (1:49:24)
+
+**S2:** Do_You_Minecraft (1:30:44)
+
+**S3:** luxime (1:22:51)
+
+**S4:** I_is_cheesecake (1:10:26)
+
+**S5:** LulzitsMatty (1:19:37)
+
+**S6:** flameorb (1:14:17)
+
+**S7:** Gabey (1:28:48)
+
+**S8:** sirples (0:54:50)
 
 ---
 ### First Blood

@@ -11,6 +11,33 @@
 ---
 ### Most Kills
 
+**S1:** Karliffu (5)
+
+**S2:** Caydone, Karliffu, natsuvi (4)
+
+**S3:** _Fost_, egl_ (4)
+
+**S4:** Codwhy, Rebelghost (3)
+
+**S5:** _ChrisMS, Caydone (4)
+
+**S6:** Cubic44, Vetmire (3)
+
+**S7:** Pelycosaur (4)
+
+**S8:** Rebelghost (5)
+
+**S9:** 4EyedSlime (7)
+
+**S10:** broccoliar (4)
+
+**S11:** Captinn (5)
+
+**S12:** SpaceFenix (3)
+
+**S13:** CHAINGE (4)
+
+**S14:** Brodator, Fcrm (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +46,64 @@
 ---
 ### First Damage
 
+**S1:** alexnv (0:1:53)
+
+**S2:** ghostblurr (0:0:25)
+
+**S3:** ghostblurr (0:5:6)
+
+**S4:** Pelycosaur (0:1:5)
+
+**S5:** Slooshyy (0:1:40)
+
+**S6:** CodeJoshua (0:0:36)
+
+**S7:** poWpaH (0:1:9)
+
+**S8:** _ChrisMS (0:0:20)
+
+**S9:** Dawncy (0:1:8)
+
+**S10:** Rebelghost (0:0:29)
+
+**S11:** Captinn (0:0:34)
+
+**S12:** Dawncy (0:0:28)
+
+**S13:** Kaismartypants (0:0:20)
+
+**S14:** Kaismartypants (0:0:29)
 
 ---
 ### Ironman
 
+**S1:** xRaltz (1:2:22)
+
+**S2:** natsuvi (1:2:19)
+
+**S3:** NickPlaysGames15 (1:10:7)
+
+**S4:** NickPlaysGames15 (1:49:32)
+
+**S5:** Rebelghost (1:28:19)
+
+**S6:** Glarza (1:13:54)
+
+**S7:** Dawncy (1:25:5)
+
+**S8:** poWpaH (1:8:35)
+
+**S9:** TayUHC (1:2:10)
+
+**S10:** SiahStone (1:52:19)
+
+**S11:** TehBaconBrawlerZ (0:51:1)
+
+**S12:** broccoliar, Evzenitable (1:1:9)
+
+**S13:** CHAINGE (1:46:23)
+
+**S14:** Cubic44 (1:55:11)
 
 ---
 ### First Blood

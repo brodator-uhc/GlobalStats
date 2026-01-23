@@ -11,6 +11,7 @@
 ---
 ### Most Kills
 
+**S1:** Fcrm (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +20,12 @@
 ---
 ### First Damage
 
+**S1:** Klanke (0:1:54)
 
 ---
 ### Ironman
 
+**S1:** OddishThoughts (1:1:1)
 
 ---
 ### First Blood

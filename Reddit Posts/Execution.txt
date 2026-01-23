@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** SammyR2D2 (5)
+
+**S2:** ToxLock (6)
+
+**S3:** JasKnightWing (4)
+
+**S4:** DomTheBadKing (6)
+
+**S5:** _mrcool, Pehnk (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** AbbeCrafter (0:5:58)
+
+**S2:** 4um_For_Rose (0:6:20)
+
+**S3:** Cryptio (0:4:32)
+
+**S4:** DKeri (0:2:44)
+
+**S5:** Long_Journey (0:0:33)
 
 ---
 ### Ironman
 
+**S1:** ToucanTom (0:56:1)
+
+**S2:** SanicCraftsMC (1:1:11)
+
+**S3:** Just_Gerald (1:22:56)
+
+**S4:** dRawry (0:31:53)
+
+**S5:** starwebs1 (1:50:4)
 
 ---
 ### First Blood

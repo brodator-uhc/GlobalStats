@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** RohanSmashBro (6)
+
+**S2:** benidk (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** broccoliar (0:0:20)
+
+**S2:** _1mmortal_ (0:10:30)
 
 ---
 ### Ironman
 
+**S1:** goompah (0:45:24)
+
+**S2:** Kaddyn (0:28:24)
 
 ---
 ### First Blood

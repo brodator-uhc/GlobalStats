@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** AdobeNerd, AtomicCrossbow, JaqOnCraq (3)
+
+**S2:** Jorgeeay (3)
+
+**S3:** InProper (5)
+
+**S4:** Fcrm, FerreMC (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** krangxd (0:2:9)
+
+**S2:** Codwhy (0:0:28)
+
+**S3:** LexTank (0:0:22)
+
+**S4:** ItzRealMe (0:3:56)
 
 ---
 ### Ironman
 
+**S1:** Wilsonkong (0:28:48)
+
+**S2:** Fcrm (0:59:49)
+
+**S3:** natsuvi (0:43:32)
+
+**S4:** natsuvi (0:44:37)
 
 ---
 ### First Blood

@@ -11,6 +11,43 @@
 ---
 ### Most Kills
 
+**S1:** CrowJRC (6)
+
+**S2:** CrowJRC (6)
+
+**S3:** c1n (6)
+
+**S4:** SmolHatChild (5)
+
+**S5:** buttergolem1 (4)
+
+**S6:** ethodog, TehBaconBrawlerZ (5)
+
+**S7:** SmearBear (3)
+
+**S8:** lexicuhl (5)
+
+**S9:** TheSonicJoey, ToucanTom (6)
+
+**S10:** CrowJRC (7)
+
+**S11:** ethodog (7)
+
+**S12:** Kaddyn (7)
+
+**S13:** Kaddyn (5)
+
+**S14:** SmolHatChild, TehBaconBrawlerZ (4)
+
+**S15:** Kaddyn (4)
+
+**S16:** MarcC5M (4)
+
+**S17:** AirInAirOut (4)
+
+**S18a:** AirInAirOut, TehBaconBrawlerZ (4)
+
+**S18b:** AirInAirOut, Brodator, SmolHatChild (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +56,84 @@
 ---
 ### First Damage
 
+**S1:** Dj8ninja (0:4:51)
+
+**S2:** Dj8ninja (0:0:12)
+
+**S3:** TehBaconBrawlerZ (0:5:1)
+
+**S4:** Dj8ninja (0:0:19)
+
+**S5:** Dj8ninja (0:0:35)
+
+**S6:** Dj8ninja (0:0:31)
+
+**S7:** buttergolem1 (0:3:53)
+
+**S8:** PrinceSix (0:0:30)
+
+**S9:** Dj8ninja (0:0:52)
+
+**S10:** SiahStone (0:0:36)
+
+**S11:** Keelando (0:2:18)
+
+**S12:** _Fost_ (0:1:11)
+
+**S13:** Dj8ninja (0:0:24)
+
+**S14:** Nyxbee (0:3:55)
+
+**S15:** c1n (0:4:56)
+
+**S16:** PatrickTN_ (0:4:8)
+
+**S17:** Dj8ninja (0:0:25)
+
+**S18a:** zoeywithawhy (0:1:29)
+
+**S18b:** _Fost_ (0:5:15)
 
 ---
 ### Ironman
 
+**S1:** rippersteveM5 (2:8:54)
+
+**S2:** kalleina (1:30:49)
+
+**S3:** wibbol (1:16:9)
+
+**S4:** kalleina (2:6:55)
+
+**S5:** buttergolem1 (1:20:17)
+
+**S6:** rippersteveM5 (2:4:52)
+
+**S7:** rippersteveM5 (0:45:49)
+
+**S8:** rippersteveM5 (0:58:14)
+
+**S9:** MaxEvasion (0:55:59)
+
+**S10:** MarcC5M (1:9:0)
+
+**S11:** QuilJ1 (1:22:40)
+
+**S12:** MaxEvasion (1:40:32)
+
+**S13:** _Fost_, aalaan, Brodator, c1n, Dawncy, fruitlogic, Greeples, lexicuhl, LocSen, Markedbooboy, TaylorLive, TehBaconBrawlerZ, TommySuX, WaXmAn24 (0:10:52)
+
+**S14:** DogOfKrondor (1:15:0)
+
+**S15:** TehBaconBrawlerZ (2:27:6)
+
+**S16:** MarcC5M (1:50:27)
+
+**S17:** AirInAirOut (1:3:59)
+
+**S18a:** MercuryParadox (1:27:27)
+
+**S18b:** MercuryParadox (2:43:55)
 
 ---
 ### First Blood

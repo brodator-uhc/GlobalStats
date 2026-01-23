@@ -11,6 +11,25 @@
 ---
 ### Most Kills
 
+**S1:** OwlTin, Pat_N (1)
+
+**S2:** DBird (3)
+
+**S3:** Pat_N (2)
+
+**S4:** Balone (4)
+
+**S5:** JamestheDouglas, QuilJ1 (2)
+
+**S6:** JamestheDouglas (3)
+
+**S7:** Pat_N (4)
+
+**S8:** JamestheDouglas, mickae (2)
+
+**S9:** Krimm (1)
+
+**S10:** JamestheDouglas, Krimm (2)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +38,48 @@
 ---
 ### First Damage
 
+**S1:** Pat_N (0:3:19)
+
+**S2:** Chasmic (0:16:55)
+
+**S3:** _Infernum_ (0:4:48)
+
+**S4:** JamestheDouglas (0:10:37)
+
+**S5:** JamestheDouglas (0:3:10)
+
+**S6:** OwlTin (0:0:23)
+
+**S7:** Sten_Stone (0:0:40)
+
+**S8:** JoshC2 (0:0:1)
+
+**S9:** DBird (0:3:7)
+
+**S10:** Pat_N (0:3:59)
 
 ---
 ### Ironman
 
+**S1:** OwlTin (0:50:40)
+
+**S2:** OwlTin (1:10:39)
+
+**S3:** Sten_Stone (1:46:45)
+
+**S4:** OwlTin (1:5:9)
+
+**S5:** OwlTin (1:23:45)
+
+**S6:** TheSonicJoey (1:46:1)
+
+**S7:** Greeples (0:57:23)
+
+**S8:** 3Dspoders (0:39:42)
+
+**S9:** Sten_Stone (0:41:36)
+
+**S10:** BadMur (0:45:48)
 
 ---
 ### First Blood

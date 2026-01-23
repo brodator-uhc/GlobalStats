@@ -11,6 +11,41 @@
 ---
 ### Most Kills
 
+**S1:** Randehh (3)
+
+**S2:** fruitlogic, TheSlimeBrother (3)
+
+**S3:** Eluniel, kirbey (4)
+
+**S4:** azoof (6)
+
+**S5:** lexicuhl (5)
+
+**S6:** fruitlogic (4)
+
+**S7:** Jahrod (5)
+
+**S8:** Kaismartypants (4)
+
+**S9:** CAMKART100, fruitlogic (3)
+
+**S10:** Klobb (7)
+
+**S11:** Randehh (5)
+
+**S12:** BoltsInCharge (4)
+
+**S13:** AirInAirOut, SiahStone (5)
+
+**S14:** azoof, ChainingVermin2, ColdBac (5)
+
+**S15:** Gorgerous (6)
+
+**S16:** Exee (5)
+
+**S17:** azoof, Brodator, ChainingVermin2, ProGirlGamer (4)
+
+**S18:** Brodator, TheSonicJoey (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +54,80 @@
 ---
 ### First Damage
 
+**S1:** JoshC2 (0:6:11)
+
+**S2:** Eluniel (0:8:35)
+
+**S3:** MeadowMoos (0:4:34)
+
+**S4:** SpyroJ (0:0:35)
+
+**S5:** Kaismartypants (0:0:24)
+
+**S6:** Ninetals38 (0:0:24)
+
+**S7:** DancersTalon (0:1:46)
+
+**S8:** Kaismartypants (0:1:7)
+
+**S9:** Kaismartypants (0:10:4)
+
+**S10:** Kaismartypants (0:0:20)
+
+**S11:** Greeples (0:14:31)
+
+**S12:** Kaismartypants (0:0:20)
+
+**S13:** starlxghtmoon (0:1:31)
+
+**S14:** Brodator (0:3:49)
+
+**S15:** kirbey (0:3:17)
+
+**S16:** Greeples (0:11:43)
+
+**S17:** ProGirlGamer (0:12:28)
+
+**S18:** CAMKART100 (0:1:55)
 
 ---
 ### Ironman
 
+**S1:** Ninetals38 (1:33:2)
+
+**S2:** Ninetals38 (1:48:59)
+
+**S3:** Ninetals38 (0:54:21)
+
+**S4:** MeadowMoos (1:49:39)
+
+**S5:** Ninetals38 (2:1:24)
+
+**S6:** DogOfKrondor (1:35:33)
+
+**S7:** Ninetals38 (0:59:49)
+
+**S8:** ZebraTonic (1:47:40)
+
+**S9:** CaptainRichy (1:33:57)
+
+**S10:** brodioh (1:55:34)
+
+**S11:** Westcraft00 (0:52:53)
+
+**S12:** rippersteveM5 (1:51:1)
+
+**S13:** ColdBac (1:3:10)
+
+**S14:** Maxwellfifty (1:44:1)
+
+**S15:** Rohcket (1:46:46)
+
+**S16:** Buzzy_Bee_120 (1:24:50)
+
+**S17:** SpaceFenix (1:31:16)
+
+**S18:** TheSonicJoey (0:57:9)
 
 ---
 ### First Blood

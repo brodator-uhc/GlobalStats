@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** lottebunny (6)
+
+**S2:** Broseph, BSBrent, flameorb, lottebunny, silh, tagggz (2)
+
+**S3:** ColdBac (5)
+
+**S4:** lottebunny (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** FazedMC (0:5:30)
+
+**S2:** SiahStone (0:0:30)
+
+**S3:** flameorb (0:1:40)
+
+**S4:** Greeples (0:9:21)
 
 ---
 ### Ironman
 
+**S1:** BSBrent (1:21:3)
+
+**S2:** PhenomCloud (1:4:55)
+
+**S3:** Do_You_Minecraft (1:27:52)
+
+**S4:** Brodator (1:29:36)
 
 ---
 ### First Blood

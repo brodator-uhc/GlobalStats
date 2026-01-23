@@ -11,6 +11,35 @@
 ---
 ### Most Kills
 
+**S1:** CipherKai, SOAKLE (4)
+
+**S2:** _carn (6)
+
+**S3:** dahii (7)
+
+**S4:** dahii (5)
+
+**S5:** CipherKai, SOAKLE (6)
+
+**S6:** benidk (9)
+
+**S7:** sgouche (5)
+
+**S8:** broccoliar, sgouche (6)
+
+**S9:** zCent (6)
+
+**S10:** ArcticSeagull (5)
+
+**S11:** kawaiibunri (8)
+
+**S12:** SAYNAR (6)
+
+**S13:** Bobbytheturtle, CurdledDrip (6)
+
+**S14:** SOAKLE (6)
+
+**S15:** Bobbytheturtle (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +48,68 @@
 ---
 ### First Damage
 
+**S1:** checog (0:0:34)
+
+**S2:** broccoliar (0:0:24)
+
+**S3:** Batusko (0:0:32)
+
+**S4:** Kaismartypants (0:0:20)
+
+**S5:** Kaismartypants (0:0:20)
+
+**S6:** Kaismartypants (0:0:22)
+
+**S7:** broccoliar (0:0:20)
+
+**S8:** broccoliar (0:0:20)
+
+**S9:** Ryfri (0:5:6)
+
+**S10:** broccoliar (0:0:20)
+
+**S11:** Plushy33 (0:0:21)
+
+**S12:** CommanderK22_ (0:0:28)
+
+**S13:** Kaismartypants (0:0:22)
+
+**S14:** TehBaconBrawlerZ (0:10:36)
+
+**S15:** SOAKLE (0:0:39)
 
 ---
 ### Ironman
 
+**S1:** broccoliar (0:55:1)
+
+**S2:** MercuryParadox (0:32:25)
+
+**S3:** MercuryParadox (1:4:32)
+
+**S4:** MercuryParadox (0:41:6)
+
+**S5:** BoltsInCharge (1:21:13)
+
+**S6:** LightingMC (0:43:49)
+
+**S7:** wizarde (1:19:0)
+
+**S8:** CharizOVO (1:0:26)
+
+**S9:** ChrisCD (0:59:17)
+
+**S10:** SpaceFenix (1:19:12)
+
+**S11:** ShootingGoats (1:3:55)
+
+**S12:** EndestroyerEpic (0:53:32)
+
+**S13:** cat6376 (0:49:7)
+
+**S14:** Karliffu (1:16:14)
+
+**S15:** Bobbytheturtle (1:13:42)
 
 ---
 ### First Blood

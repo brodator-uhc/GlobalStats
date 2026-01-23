@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** Andyboyonalert (5)
+
+**S2:** SiahStone (8)
+
+**S3:** TicedUp (8)
+
+**S4:** Andyboyonalert (6)
+
+**S5:** Vulkarr (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** MrGetowned (0:3:49)
+
+**S2:** ToucanTom (0:0:33)
+
+**S3:** TommySuX (0:0:46)
+
+**S4:** CH0CK (0:7:22)
+
+**S5:** SiahStone (0:0:26)
 
 ---
 ### Ironman
 
+**S1:** Havenhand (1:19:20)
+
+**S2:** Marky_Ross (0:49:15)
+
+**S3:** MarcC5M (1:43:30)
+
+**S4:** Havenhand (0:53:19)
+
+**S5:** nihontiger (1:49:22)
 
 ---
 ### First Blood

@@ -11,6 +11,19 @@
 ---
 ### Most Kills
 
+**S1:** YaojaDzn (3)
+
+**S2:** xTranslucenTx (9)
+
+**S3:** YaojaDzn (3)
+
+**S4:** xTranslucenTx (3)
+
+**S5:** GamesToJump (5)
+
+**S6:** Jinko42 (4)
+
+**S7:** xTranslucenTx (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +32,36 @@
 ---
 ### First Damage
 
+**S1:** Deniere (0:3:51)
+
+**S2:** FlightVapeHacker (0:3:30)
+
+**S3:** Lunarashi (0:1:13)
+
+**S4:** xBitFusion (0:0:46)
+
+**S5:** xBitFusion (0:3:23)
+
+**S6:** StandingFuture (0:1:50)
+
+**S7:** tmb0 (0:8:48)
 
 ---
 ### Ironman
 
+**S1:** BrickMeistr (1:44:28)
+
+**S2:** Gabemessi (1:2:20)
+
+**S3:** Kaismartypants (1:46:14)
+
+**S4:** YepItsJustDirt (1:8:24)
+
+**S5:** Apex_Twinkie (1:15:21)
+
+**S6:** JahMuis (1:24:48)
+
+**S7:** Zyphalopagus (2:18:34)
 
 ---
 ### First Blood

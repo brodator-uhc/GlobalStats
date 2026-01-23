@@ -11,6 +11,51 @@
 ---
 ### Most Kills
 
+**S1:** TheChrisD (2)
+
+**S2:** Ubermarklar (3)
+
+**S3:** CanusAlbinus (2)
+
+**S4:** Ubermarklar (4)
+
+**S5:** GrimVek, MadDjinn, TheChrisD (3)
+
+**S6:** Eag (5)
+
+**S7:** Eag (3)
+
+**S8:** CanusAlbinus (4)
+
+**S9:** Eag (3)
+
+**S10:** GrimVek (2)
+
+**S11:** TheChrisD (2)
+
+**S12:** MadDjinn (3)
+
+**S13:** Aschilon (1)
+
+**S14:** Eag (4)
+
+**S15:** Aschilon, Davelions, MadDjinn (1)
+
+**S16:** DanQ_CC (1)
+
+**S17:** Aschilon (3)
+
+**S18:** TheChrisD (5)
+
+**S19:** TheChrisD (3)
+
+**S20:** Balone (3)
+
+**S21:** Gameslayer989 (2)
+
+**S22:** TheChrisD (3)
+
+**S23:** TheChrisD (2)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +64,100 @@
 ---
 ### First Damage
 
+**S1:** TheChrisD (0:1:0)
+
+**S2:** Makahlua (0:0:6)
+
+**S3:** Makahlua (0:0:1)
+
+**S4:** fuzzyfractal42 (0:1:11)
+
+**S5:** AlphaShard (0:17:1)
+
+**S6:** MadDjinn (0:8:27)
+
+**S7:** AlphaShard (0:14:33)
+
+**S8:** GrimVek (0:1:58)
+
+**S9:** MLS (0:1:46)
+
+**S10:** Aschilon (0:0:55)
+
+**S11:** MadDjinn (0:7:28)
+
+**S12:** Makahlua (0:12:48)
+
+**S13:** MadDjinn (0:8:9)
+
+**S14:** MadDjinn (0:2:9)
+
+**S15:** MadDjinn (0:0:57)
+
+**S16:** MadDjinn (0:6:7)
+
+**S17:** GrimVek (0:0:8)
+
+**S18:** KirbyMD (0:8:1)
+
+**S19:** DanQ_CC (0:1:16)
+
+**S20:** Gameslayer989 (0:0:25)
+
+**S21:** Balone (0:0:32)
+
+**S22:** Balone (0:18:28)
+
+**S23:** TheChrisD (0:0:6)
 
 ---
 ### Ironman
 
+**S1:** AlphaShard (0:44:1)
+
+**S2:** DanQ_CC (0:43:28)
+
+**S3:** Eag (0:55:34)
+
+**S4:** Makahlua (1:6:21)
+
+**S5:** Makahlua (1:26:58)
+
+**S6:** TheChrisD (2:8:32)
+
+**S7:** CanusAlbinus (1:6:26)
+
+**S8:** fuzzyfractal42 (2:24:24)
+
+**S9:** Ubermarklar (2:12:35)
+
+**S10:** TheChrisD (1:17:36)
+
+**S11:** DanQ_CC (1:57:13)
+
+**S12:** MadDjinn (0:48:15)
+
+**S13:** Makahlua (2:9:36)
+
+**S14:** Aschilon (0:47:31)
+
+**S15:** zosh127 (0:58:59)
+
+**S16:** DanQ_CC (1:19:17)
+
+**S17:** kalleina (1:53:39)
+
+**S18:** DanQ_CC (1:49:14)
+
+**S19:** elKingMorgan (2:11:23)
+
+**S20:** zosh127 (1:8:58)
+
+**S21:** Aschilon (0:38:34)
+
+**S22:** TheChrisD (1:25:6)
+
+**S23:** DanQ_CC (0:47:49)
 
 ---
 ### First Blood

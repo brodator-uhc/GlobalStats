@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** MajorWoof (5)
+
+**S2:** CocoBenja (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** ohh_lia (0:0:17)
+
+**S2:** Pelycosaur (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** CocoBenja (1:6:18)
+
+**S2:** nsket (1:20:50)
 
 ---
 ### First Blood

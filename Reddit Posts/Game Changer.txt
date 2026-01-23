@@ -11,6 +11,15 @@
 ---
 ### Most Kills
 
+**S1:** Austronomical, Erferno (4)
+
+**S2:** I_is_cheesecake (8)
+
+**S3:** Austronomical, azoof, ChrisCD (3)
+
+**S4:** Hecticity (3)
+
+**S5:** gartbak, Thimburrr (8)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +28,28 @@
 ---
 ### First Damage
 
+**S1:** LeonTG (0:2:3)
+
+**S2:** _ChrisMS (0:2:24)
+
+**S3:** azoof (0:4:45)
+
+**S4:** strategy (0:0:29)
+
+**S5:** gartbak, Thimburrr (0:3:2)
 
 ---
 ### Ironman
 
+**S1:** _ChrisMS (1:24:35)
+
+**S2:** MercuryParadox (1:40:47)
+
+**S3:** MercuryParadox (1:17:30)
+
+**S4:** MercuryParadox (0:58:4)
+
+**S5:** Havenhand, MercuryParadox (1:9:51)
 
 ---
 ### First Blood

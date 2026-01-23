@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Oyubook (4)
+
+**S2:** jordanleevan (3)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** jordanleevan (0:4:50)
+
+**S2:** TheKevGuy (0:12:19)
 
 ---
 ### Ironman
 
+**S1:** Doornbread (0:42:19)
+
+**S2:** numdegased (0:57:53)
 
 ---
 ### First Blood

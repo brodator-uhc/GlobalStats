@@ -11,6 +11,41 @@
 ---
 ### Most Kills
 
+**S1:** HigmanFreud (5)
+
+**S2:** PauloSSB (6)
+
+**S3:** CipherKai, JustNolan, omchris (3)
+
+**S4:** cherryblawsom (6)
+
+**S5:** CipherKai (9)
+
+**S6:** JustNolan (10)
+
+**S7:** JustNolan (5)
+
+**S8:** Fcrm (6)
+
+**S9:** Fcrm, Kelawesome (4)
+
+**S10:** CrowJRC, RqDix (5)
+
+**S11:** ItsColinn (6)
+
+**S12:** natsuvi (4)
+
+**S13:** Fcrm, Glarza (6)
+
+**S14:** CipherKai, Kelawesome (4)
+
+**S15:** Cyndic (5)
+
+**S16:** zCent (6)
+
+**S17:** zCent (6)
+
+**S18:** Kelawesome (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +54,80 @@
 ---
 ### First Damage
 
+**S1:** strategy (0:0:22)
+
+**S2:** colbay (0:0:24)
+
+**S3:** strategy (0:0:19)
+
+**S4:** Codwhy (0:0:48)
+
+**S5:** JaeHasNoMaidens (0:9:27)
+
+**S6:** _ChrisMS (0:0:30)
+
+**S7:** _ChrisMS (0:0:21)
+
+**S8:** xCand (0:0:21)
+
+**S9:** _ChrisMS (0:0:21)
+
+**S10:** Coward (0:0:32)
+
+**S11:** ERHDude (0:0:33)
+
+**S12:** Glarza (0:0:29)
+
+**S13:** Broseph (0:0:32)
+
+**S14:** ArcticSeagull (0:8:14)
+
+**S15:** Glarza (0:2:9)
+
+**S16:** zCent (0:0:24)
+
+**S17:** zCent (0:2:7)
+
+**S18:** kirbey (0:8:33)
 
 ---
 ### Ironman
 
+**S1:** Drkrai (1:15:4)
+
+**S2:** Brodator (1:2:36)
+
+**S3:** Kelawesome (0:53:14)
+
+**S4:** Wilsonkong (1:20:13)
+
+**S5:** wibbol (1:38:38)
+
+**S6:** Kelawesome (0:47:1)
+
+**S7:** Kiinako_ (1:39:35)
+
+**S8:** natsuvi (0:53:23)
+
+**S9:** ToontownOnline (1:11:43)
+
+**S10:** CrowJRC (1:45:28)
+
+**S11:** Eluniel (1:20:41)
+
+**S12:** Cyndic (1:26:24)
+
+**S13:** MercuryParadox (1:31:6)
+
+**S14:** ItsColinn (1:30:31)
+
+**S15:** lexicuhl (1:27:25)
+
+**S16:** MercuryParadox (1:31:45)
+
+**S17:** Fcrm (0:56:35)
+
+**S18:** silverteeth (1:27:27)
 
 ---
 ### First Blood

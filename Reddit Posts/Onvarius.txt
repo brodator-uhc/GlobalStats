@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Kelawesome, Zakkeagle (4)
+
+**S2:** Xenox (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** Union (0:4:56)
+
+**S2:** Bilboo (0:3:18)
 
 ---
 ### Ironman
 
+**S1:** Kelawesome (0:49:9)
+
+**S2:** NukedNukem (0:43:32)
 
 ---
 ### First Blood

@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** Fcrm, strategy (4)
+
+**S2:** DJoee (12)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** strategy (0:5:14)
+
+**S2:** Demomaker (0:16:45)
 
 ---
 ### Ironman
 
+**S1:** poWpaH (1:10:42)
+
+**S2:** CodeJoshua (1:12:41)
 
 ---
 ### First Blood

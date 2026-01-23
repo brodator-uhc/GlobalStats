@@ -11,6 +11,45 @@
 ---
 ### Most Kills
 
+**S1:** ThisIsHab (5)
+
+**S2:** HigmanFreud (8)
+
+**S3:** CipherKai (6)
+
+**S4:** HigmanFreud (8)
+
+**S5:** DevoyTTV (6)
+
+**S6:** Caydone, Fcrm, wizarde (4)
+
+**S7:** Fcrm, Pelycosaur (5)
+
+**S8:** Fcrm, ghostblurr (4)
+
+**S9:** Caydone (6)
+
+**S10:** _ChrisMS, Fcrm, HigmanFreud, Sten_Stone (4)
+
+**S11:** Fcrm (6)
+
+**S12:** Andronify, Fcrm, TheRealHagrid, ZebraPantz (3)
+
+**S13:** HigmanFreud (6)
+
+**S14:** broccoliar, Gorgerous (4)
+
+**S15:** natsuvi (8)
+
+**S16:** broccoliar, natsuvi (5)
+
+**S17:** ZebraPantz (5)
+
+**S18:** natsuvi (6)
+
+**S19:** ZebraPantz (7)
+
+**S20:** ThisIsHab (6)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +58,88 @@
 ---
 ### First Damage
 
+**S1:** DatGuyAdam, GRLH (0:0:1)
+
+**S2:** PoofessorP (0:0:37)
+
+**S3:** Fra49 (0:0:8)
+
+**S4:** Fra49 (0:0:6)
+
+**S5:** mickae (0:0:27)
+
+**S6:** Phyrrus (0:4:52)
+
+**S7:** 4EyedSlime (0:1:13)
+
+**S8:** Fra49 (0:1:38)
+
+**S9:** Ninetals38 (0:0:24)
+
+**S10:** Fra49 (0:2:35)
+
+**S11:** _ChrisMS (0:0:21)
+
+**S12:** Kaismartypants (0:0:25)
+
+**S13:** Kaismartypants (0:14:23)
+
+**S14:** Kaismartypants (0:0:21)
+
+**S15:** Andronify (0:1:19)
+
+**S16:** Kaismartypants (0:0:22)
+
+**S17:** Fra49 (0:11:58)
+
+**S18:** Andronify (0:20:6)
+
+**S19:** Greeples (0:10:19)
+
+**S20:** natsuvi (0:13:3)
 
 ---
 ### Ironman
 
+**S1:** Brodator (0:56:8)
+
+**S2:** Flouzemaker (1:21:47)
+
+**S3:** Sten_Stone (0:32:15)
+
+**S4:** lilygant (1:50:30)
+
+**S5:** nFang (1:18:4)
+
+**S6:** Sten_Stone (1:18:5)
+
+**S7:** Markedbooboy (1:47:41)
+
+**S8:** Sparky_Taz (1:34:15)
+
+**S9:** Fancyyy (2:2:53)
+
+**S10:** nFang (1:51:1)
+
+**S11:** Rohcket (1:28:28)
+
+**S12:** Fcrm (1:27:48)
+
+**S13:** Brodator (1:12:27)
+
+**S14:** JaqOnCraq (1:11:19)
+
+**S15:** jimmyjegs (1:40:8)
+
+**S16:** DogOfKrondor (1:5:14)
+
+**S17:** jimmyjegs (1:36:38)
+
+**S18:** Eagris (1:15:30)
+
+**S19:** Caydone (1:4:6)
+
+**S20:** Rohcket (1:34:35)
 
 ---
 ### First Blood

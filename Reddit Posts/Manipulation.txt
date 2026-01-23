@@ -11,6 +11,9 @@
 ---
 ### Most Kills
 
+**S1:** neonpoop (6)
+
+**S2:** AvaCos (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +22,16 @@
 ---
 ### First Damage
 
+**S1:** oworca (0:0:2)
+
+**S2:** Kakintse (0:2:1)
 
 ---
 ### Ironman
 
+**S1:** Chasmic (1:13:46)
+
+**S2:** patpat44patrick (2:13:33)
 
 ---
 ### First Blood

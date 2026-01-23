@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** AirInAirOut (6)
+
+**S2:** BoltsInCharge (4)
+
+**S3:** cherryblawsom (5)
+
+**S4:** Brodator (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** ShootingGoats (0:5:11)
+
+**S2:** Ryfri (0:5:25)
+
+**S3:** ProGirlGamer (0:5:31)
+
+**S4:** CommanderK22_ (0:7:18)
 
 ---
 ### Ironman
 
+**S1:** TheSonicJoey (1:22:8)
+
+**S2:** silh (1:15:11)
+
+**S3:** ShootingGoats (0:46:8)
+
+**S4:** fruitlogic (1:23:31)
 
 ---
 ### First Blood

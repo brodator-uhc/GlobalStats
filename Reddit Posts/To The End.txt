@@ -11,6 +11,57 @@
 ---
 ### Most Kills
 
+**S1:** Lilla98 (3)
+
+**S2:** Havenhand (3)
+
+**S3:** ShutUpBrick (4)
+
+**S4:** Havenhand (5)
+
+**S5:** PythonRrR (5)
+
+**S6:** GlowingNeon, NiFear (7)
+
+**S7:** Dark_rust (5)
+
+**S8:** Maj0r_Min3r_98 (6)
+
+**S9:** hammer_fan (4)
+
+**S10:** CedGhoss (4)
+
+**S11:** CedGhoss (7)
+
+**S12:** CedGhoss (5)
+
+**S13:** bjr201111, Jakekub, SimplySam (3)
+
+**S14:** bjr201111, Jakekub (5)
+
+**S15:** oworca (4)
+
+**S16:** hammer_fan (6)
+
+**S17:** TheSonicJoey (5)
+
+**S18:** Chasmic (6)
+
+**S19:** BBR_ (4)
+
+**S20:** CedGhoss (8)
+
+**S21:** BBR_, Emerric, Hecticity (3)
+
+**S22:** 5kylord (5)
+
+**S23:** lottebunny (7)
+
+**S24:** MrPolzerino (5)
+
+**S25:** ColdBac, jamertxn, lottebunny (2)
+
+**S26:** Kubaslov (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +70,112 @@
 ---
 ### First Damage
 
+**S1:** MrPolzerino (0:6:43)
+
+**S2:** VeniiiD (0:4:56)
+
+**S3:** Incipiens (0:11:50)
+
+**S4:** LukiGg (0:1:42)
+
+**S5:** Havenhand (0:2:32)
+
+**S6:** Dark_rust (0:3:45)
+
+**S7:** VeryNice (0:1:18)
+
+**S8:** NiFear (0:3:30)
+
+**S9:** MrTeamRaven (0:0:36)
+
+**S10:** Coolust (0:5:23)
+
+**S11:** GlowingNeon (0:4:42)
+
+**S12:** Kidfo (0:2:17)
+
+**S13:** Fairyjuice (0:6:16)
+
+**S14:** bjr201111 (0:3:4)
+
+**S15:** Maj0r_Min3r_98 (0:1:51)
+
+**S16:** Kieranborn (0:1:27)
+
+**S17:** VeniiiD (0:2:19)
+
+**S18:** dRawry (0:1:28)
+
+**S19:** dRawry (0:0:20)
+
+**S20:** BBR_ (0:0:19)
+
+**S21:** Kiinako_ (0:3:39)
+
+**S22:** BSBrent (0:1:39)
+
+**S23:** Goldcap (0:2:8)
+
+**S24:** WackoFlipper (0:2:12)
+
+**S25:** VeniiiD (0:0:35)
+
+**S26:** Rohcket (0:0:20)
 
 ---
 ### Ironman
 
+**S1:** Schmeon (1:5:42)
+
+**S2:** KacTheRedPanda (1:17:35)
+
+**S3:** Timonscholte (1:16:25)
+
+**S4:** Lilla98 (0:51:17)
+
+**S5:** Stooof (1:19:29)
+
+**S6:** PythonRrR (0:59:51)
+
+**S7:** Stooof (1:16:9)
+
+**S8:** PythonRrR (1:3:59)
+
+**S9:** PythonRrR (1:25:24)
+
+**S10:** TheSonicJoey (1:41:29)
+
+**S11:** Tootikins (1:45:45)
+
+**S12:** Chasmic (1:11:17)
+
+**S13:** bjr201111 (1:41:59)
+
+**S14:** Kiinako_ (1:4:57)
+
+**S15:** SimplySam (1:58:37)
+
+**S16:** Fairyjuice (1:55:43)
+
+**S17:** Chasmic (1:48:17)
+
+**S18:** CedGhoss (0:59:33)
+
+**S19:** Kiinako_ (1:26:33)
+
+**S20:** CarlyRaeJepsen (1:11:55)
+
+**S21:** TheSonicJoey (1:44:36)
+
+**S22:** TheSonicJoey (1:48:0)
+
+**S23:** Havenhand (0:40:57)
+
+**S24:** lexicuhl (1:51:7)
+
+**S25:** GetNicked (1:43:14)
+
+**S26:** VeniiiD (1:30:45)
 
 ---
 ### First Blood

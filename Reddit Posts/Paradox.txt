@@ -11,6 +11,25 @@
 ---
 ### Most Kills
 
+**S1:** Zcka (7)
+
+**S2:** DKPMatt, JustNolan (6)
+
+**S3:** Awticon (6)
+
+**S4:** Phoraxe (5)
+
+**S5:** PauloSSB (9)
+
+**S6:** CrowJRC (5)
+
+**S7:** CrowJRC (7)
+
+**S8:** Fygedew (7)
+
+**S9:** Kubaslov, Phoraxe (5)
+
+**S10:** Cyndic (4)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +38,48 @@
 ---
 ### First Damage
 
+**S1:** Fensua (0:0:22)
+
+**S2:** ShyGus (0:0:19)
+
+**S3:** Hecticity (0:2:25)
+
+**S4:** Livin423 (0:2:24)
+
+**S5:** Fra49 (0:0:28)
+
+**S6:** ShyGus (0:0:28)
+
+**S7:** Ninjajaja (0:3:14)
+
+**S8:** Fra49 (0:0:37)
+
+**S9:** Ninjajaja (0:0:31)
+
+**S10:** dahii (0:0:25)
 
 ---
 ### Ironman
 
+**S1:** Livin423 (1:6:32)
+
+**S2:** PauloSSB (1:48:10)
+
+**S3:** Ninjajaja (1:36:36)
+
+**S4:** Drake132667596 (1:1:14)
+
+**S5:** silverteeth (1:53:46)
+
+**S6:** MarcC5M (1:18:58)
+
+**S7:** Livin423 (1:44:22)
+
+**S8:** Klickacat (0:59:1)
+
+**S9:** Espik (1:49:21)
+
+**S10:** PotaTomas (0:58:0)
 
 ---
 ### First Blood

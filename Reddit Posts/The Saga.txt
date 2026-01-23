@@ -11,6 +11,13 @@
 ---
 ### Most Kills
 
+**S1:** WackoFlipper (5)
+
+**S2:** Kelawesome (6)
+
+**S3:** ERHDude (4)
+
+**S4:** lexicuhl (5)
 
 ---
 ### Most Kills (Team)
@@ -19,10 +26,24 @@
 ---
 ### First Damage
 
+**S1:** CHAINGE (0:0:25)
+
+**S2:** ArcticSeagull (0:0:30)
+
+**S3:** Eluniel (0:3:26)
+
+**S4:** DJoee (0:0:29)
 
 ---
 ### Ironman
 
+**S1:** Fcrm (0:53:26)
+
+**S2:** QuilJ1 (1:34:13)
+
+**S3:** GetNicked (1:45:50)
+
+**S4:** GetNicked (2:30:39)
 
 ---
 ### First Blood
