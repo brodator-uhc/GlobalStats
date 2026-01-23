@@ -204,6 +204,31 @@
 ---
 ### PvE Deaths
 
+**Creeper (14):** benidk (S1), CAMKART100 (S2), lasdarling (S2), wizarde (S2), Fcrm (S3), DJoee (S4), TacoDab (S5), Blarkslol (S6), Scringus (S6), Sharkbob94349 (S6), DevoyTTV (S8), 78ford (S9), LipGlossica (S9), Foxily (S12)
+
+**Fall (9):** Spongey (S2), Codwhy (S4), DJoee (S8), kirbey (S8), Ryfri (S8), nug17 (S10), ColdBac (S10), Westcraft00 (S11), Caydone (S12)
+
+**Burning (3):** Cooooldude (S10), omchris (S10), _1mmortal_ (S10)
+
+**Dripstone (3):** ItsShqky (S5), ItsShqky (S10), Brodator (S12)
+
+**Left (2):** Spongey (S10), CodeJoshua (S12)
+
+**Skeleton (2):** bayweafs (S2), turicake (S4)
+
+**Drowning (1):** RuneTactics (S3)
+
+**Lava (1):** Cooooldude (S6)
+
+**Stray (1):** turicake (S8)
+
+**Void (1):** Kaismartypants (S5)
+
+**Witch (1):** Rohcket (S10)
+
+**Wither Skeleton (1):** LipGlossica (S6)
+
+**Zombie (1):** stupidsylvia (S1)
 
 ---
 ### Participation

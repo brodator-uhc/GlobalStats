@@ -244,6 +244,13 @@
 ---
 ### PvE Deaths
 
+**Lava (2):** Entity_Error (S1), jommyappleseed (S4)
+
+**Burning (1):** Glarza (S5)
+
+**Fall (1):** MercuryParadox (S2)
+
+**Zombie (1):** floobel (S1)
 
 ---
 ### Participation

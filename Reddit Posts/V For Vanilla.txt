@@ -124,6 +124,21 @@
 ---
 ### PvE Deaths
 
+**Creeper (6):** Digimazter (S3), Donth8urfate (S6), DaDoza (S8), CryinMo (S9), TheFrickinPOPE (S9), Aylad (S9)
+
+**Zombie (5):** Xotixz (S1), OBEYthePIMP (S1), DaDoza (S4), DaDoza (S7), mattexile (S9)
+
+**Lava (4):** Original_Phrase (S2), PhD_Phil (S3), TrickyPiston (S5), DefyingPeace (S9)
+
+**Fall (3):** _Zryder (S1), _Paperclip (S2), Flouzemaker (S9)
+
+**Suffocation (3):** PhD_Phil (S4), 1042Harley (S4), TrickyPiston (S4)
+
+**Skeleton (2):** ThexBuilder (S1), odalisca (S8)
+
+**Ghast (1):** Digimazter (S2)
+
+**Spider (1):** ZerohSkill (S1)
 
 ---
 ### Participation

@@ -340,6 +340,43 @@
 ---
 ### PvE Deaths
 
+**Creeper (16):** MPMG (S1), ScottishNutcase (S1), MPMG (S2), oworca (S3), Marky_Ross (S5), MarcC5M (S10), oworca (S10), VeniiiD (S14), Kassiie (S14), Chasmic (S20), Flouzemaker (S20), ToucanTom (S20), BBR_ (S21), Pehnk (S24), TorinFBF (S25), VeniiiD (S27)
+
+**Fall (14):** GeistBuster7 (S1), OddyC (S1), Doornbread (S2), Mjora (S7), bytexal (S11), MrTeamRaven (S11), scriblur (S15), ElGavinoSupremo (S19), Ninjajaja (S19), TicedUp (S19), Regifloat (S19), Kidfo (S21), MarcC5M (S21), Greeples (S22)
+
+**Burning (12):** MrTeamRaven (S3), Bagpipehero (S4), CMattznes (S5), MrCraftinator (S10), ShutUpBrick (S10), Micale (S10), AndrizzlePC (S10), VeniiiD (S11), LongaVita (S13), fruitlogic (S24), Kidfo (S26), Flouzemaker (S26)
+
+**Skeleton (9):** beastboyrolf (S2), ElGavinoSupremo (S15), KatyLawson (S16), Doornbread (S17), KatyLawson (S20), ElGavinoSupremo (S20), SidGarcia (S20), boyceterous (S20), Bergasms (S20)
+
+**Void (5):** VeniiiD (S13), beastboyrolf (S13), MrCraftinator (S13), EighteenQs (S13), scriblur (S13)
+
+**Zombie (3):** Neoscys (S3), Neoscys (S4), NTBama (S20)
+
+**Cave Spider (2):** Kakintse (S8), Kubaslov (S20)
+
+**Drowning (2):** SidGarcia (S11), DianaB (S12)
+
+**Explosion (2):** TommySuX (S5), DarkCrystalFlame (S5)
+
+**Guardian (2):** Zarky (S11), DianaB (S11)
+
+**Left (2):** Marky_Ross (S2), AnUncreativeCat (S16)
+
+**Silverfish (2):** jamertxn (S15), Marky_Ross (S22)
+
+**Spider (2):** TommySuX (S8), ElGavinoSupremo (S22)
+
+**Vindicator (2):** Brodator (S21), DianaB (S26)
+
+**Drowned (1):** Bacan (S21)
+
+**Enderman (1):** DancersTalon (S27)
+
+**Go To Hell (1):** wibbol (S26)
+
+**Lava (1):** Bacan (S18)
+
+**Suffocation (1):** MrTeamRaven (S2)
 
 ---
 ### Participation

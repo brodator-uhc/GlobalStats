@@ -180,6 +180,35 @@
 ---
 ### PvE Deaths
 
+**Skeleton (6):** ANintendoFan (S1), blurrp (S1), XeddIsntHere (S2), iSophes (S2), NikoAnimation (S2), AdonisGaming (S15)
+
+**Fall (4):** Omarmu (S3), Champario (S3), Mario_Man632 (S13), noktime (S13)
+
+**Suffocation (4):** Champario (S6), AlesandroDeMoor (S6), Mario_Man632 (S9), bradchadington10 (S13)
+
+**Zombie (4):** NikoAnimation (S1), Champario (S2), NotObsidian (S2), NotObsidian (S3)
+
+**Burning (3):** ToeKun (S5), The_Glaceon (S5), Mario_Man632 (S11)
+
+**Lava (3):** KingSwiper (S1), kirbey (S3), Mario_Man632 (S5)
+
+**Creeper (2):** MangoPlayz (S3), XenoxPlus (S3)
+
+**Anvil (1):** poWpaH (S3)
+
+**Blaze (1):** Mario_Man632 (S10)
+
+**Drowning (1):** The_Glaceon (S3)
+
+**Ender Dragon (1):** Mae_Kappa (S10)
+
+**Explosion (1):** DogOfKrondor (S12)
+
+**Left (1):** iSophes (S4)
+
+**Piglin Brute (1):** Champario (S9)
+
+**Silverfish (1):** Jaceon02 (S3)
 
 ---
 ### Participation

@@ -322,6 +322,43 @@
 ---
 ### PvE Deaths
 
+**Creeper (18):** Mentalmad (S2), Bayfish (S3), DevoyTTV (S4), trillibytes (S4), 4EyedSlime (S5), JaeHasNoMaidens (S5), ElGavinoSupremo (S7), SofaSeven (S7), TheCatMurgatroyd (S9), Magnam_Indie (S10), Pelycosaur (S11), NickPlaysGames15 (S12), Eagris (S12), Ullti (S14), Jordtim (S15), Rohcket (S17), ArcticSeagull (S24), Codwhy (S26)
+
+**Zombie (11):** ThatGuyTony909 (S1), Kayker (S1), Trinan6918 (S3), Lazmark (S3), MegaGran (S3), ILIKECAKEMAN (S7), Eagris (S10), Charrlottie (S12), Codwhy (S22), Eagris (S24), Klickacat (S25)
+
+**Fall (10):** Lord_Rainbowman (S1), HappierUpHere (S10), Plushy33 (S12), ArcticSeagull (S13), Jahrod (S13), ElGavinoSupremo (S18), CaptainRichy (S20), Karliffu (S20), ShootingGoats (S24), fruitlogic (S25)
+
+**Lava (7):** BannedEnergy (S2), Ancient_Bunny (S2), Charrlottie (S16), DogOfKrondor (S16), ItsShqky (S23), Blackbelt244 (S23), Jalapinecone (S24)
+
+**Skeleton (6):** Lazmark (S1), Wolfheart738 (S3), Psykl0ne (S8), AWhivenGuy (S11), ElGavinoSupremo (S11), Jalapinecone (S25)
+
+**Burning (3):** SpyroJ (S15), BoltsInCharge (S23), Charrlottie (S23)
+
+**Enderman (3):** Eagris (S4), Espik (S17), FullRunThrough (S23)
+
+**Drowning (2):** whitetimewolf (S5), Ghaosty (S20)
+
+**Warden (2):** Klickacat (S20), ItsShqky (S20)
+
+**Wither Skeleton (2):** Jalapinecone (S16), draylor09 (S16)
+
+**Arrow (1):** Krimm (S4)
+
+**Blaze (1):** HappierUpHere (S3)
+
+**Cave Spider (1):** CaptainRichy (S2)
+
+**Dripstone (1):** Treyyyl_ (S25)
+
+**Drowned (1):** Kaismartypants (S17)
+
+**Piglin (1):** CrowJRC (S23)
+
+**Piglin Brute (1):** CaptainRichy (S23)
+
+**Vindicator (1):** SiahStone (S12)
+
+**Void (1):** TheCatMurgatroyd (S18)
 
 ---
 ### Participation

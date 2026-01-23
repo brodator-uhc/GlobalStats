@@ -262,6 +262,33 @@
 ---
 ### PvE Deaths
 
+**Fall (8):** TheSlimeBrother (S1), Flouzemaker (S5), Fazz2 (S8), MeadowMoos (S9), CrowJRC (S14), Kubaslov (S15), Kubaslov (S16), 4EyedSlime (S18)
+
+**Zombie (7):** DogOfKrondor (S1), Greeples (S7), lasdarling (S10), ZenonX_ (S15), fruitlogic (S16), zoeywithawhy (S18), Buzzy_Bee_120 (S18)
+
+**Skeleton (5):** WackoFlipper (S1), DancersTalon (S5), Codwhy (S7), Klickacat (S18), TorinFBF (S18)
+
+**Creeper (3):** KatyLawson (S1), Codwhy (S3), Greeples (S14)
+
+**Void (3):** AirInAirOut (S14), TehBaconBrawlerZ (S15), MCmattFTW (S17)
+
+**Lava (2):** Gorgerous (S12), CAMKART100 (S14)
+
+**Breeze (1):** zoeywithawhy (S13)
+
+**Burning (1):** Applepie78 (S12)
+
+**Cave Spider (1):** DogOfKrondor (S4)
+
+**Drowning (1):** Brodator (S13)
+
+**Enderman (1):** ZebraTonic (S5)
+
+**Iron Golem (1):** Kubaslov (S11)
+
+**Magma (1):** Paxtona (S12)
+
+**Warden (1):** Guardaxion (S18)
 
 ---
 ### Participation

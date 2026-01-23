@@ -84,6 +84,13 @@
 ---
 ### PvE Deaths
 
+**Fall (3):** xCand (S1), AtomicCrossbow (S2), wizarde (S3)
+
+**Explosion (2):** Bonneh (S3), Andronify (S3)
+
+**Burning (1):** SiahStone (S2)
+
+**Creeper (1):** ChainingVermin2 (S1)
 
 ---
 ### Participation

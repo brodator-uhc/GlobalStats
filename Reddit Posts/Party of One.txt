@@ -214,6 +214,51 @@
 ---
 ### PvE Deaths
 
+**Skeleton (11):** QuilJ1 (S2), ElGavinoSupremo (S5), Dawncy (S7), TehBaconBrawlerZ (S7), Broseph (S7), Zevulpes (S7), ToucanTom (S7), c1n (S7), _Fost_ (S12), ElGavinoSupremo (S13), JoshC2 (S16)
+
+**Fall (10):** Psykl0ne (S2), Psykl0ne (S6), Psykl0ne (S7), ethodog (S7), 78ford (S7), SmolHatChild (S9), SmolHatChild (S13), Brodator (S14), Keelando (S15), ElGavinoSupremo (S16)
+
+**Zombie (9):** aalaan (S2), TehBaconBrawlerZ (S5), ElGavinoSupremo (S7), WaXmAn24 (S7), DogOfKrondor (S8), Microus (S9), NikoAnimation (S12), JoshC2 (S14), ElGavinoSupremo (S14)
+
+**Creeper (7):** whitetimewolf (S1), Brodator (S7), Charrlottie (S7), DogOfKrondor (S11), Dawncy (S14), Klobb (S14), Demomaker (S18a)
+
+**Enderman (4):** Greeples (S7), rippersteveM5 (S7), 78ford (S12), MercuryParadox (S15)
+
+**Blaze (3):** c1n (S6), ToucanTom (S10), Dj8ninja (S17)
+
+**Burning (3):** Dj8ninja (S1), Sluggyg (S2), chloesad (S8)
+
+**Drowning (3):** Microus (S7), Jahrod (S7), ToucanTom (S9)
+
+**Explosion (3):** ethodog (S8), Brodator (S15), zoeywithawhy (S18a)
+
+**Infiltrator (3):** DogOfKrondor (S15), Jahrod (S15), InsertDotJpeg (S15)
+
+**Lava (2):** SmolHatChild (S2), c1n (S13)
+
+**Piglin Brute (2):** lexicuhl (S15), ElGavinoSupremo (S17)
+
+**Suffocation (2):** Espik (S11), kirbey (S15)
+
+**Void (2):** BreakSalad (S11), aalaan (S18b)
+
+**Armor Stand (1):** Fourbitplayer (S11)
+
+**Bed (1):** Jordtim (S9)
+
+**Cave Spider (1):** zoeywithawhy (S17)
+
+**Chicken (1):** Brodator (S10)
+
+**Ender Dragon (1):** buttergolem1 (S7)
+
+**Sweet Berry Bush (1):** Brodator (S17)
+
+**Vindicator (1):** Nyxbee (S14)
+
+**Wither Skeleton (1):** TaylorLive (S13)
+
+**Wolf (1):** buttergolem1 (S10)
 
 ---
 ### Participation

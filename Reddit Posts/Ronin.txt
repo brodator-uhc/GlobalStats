@@ -84,6 +84,7 @@
 ---
 ### PvE Deaths
 
+**Enderman (1):** MaxEvasion (S3)
 
 ---
 ### Participation

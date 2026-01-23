@@ -284,6 +284,35 @@
 ---
 ### PvE Deaths
 
+**Fall (20):** Stooof (S1), tweetabix (S1), VeniiiD (S2), VeniiiD (S3), ScottishNutcase (S5), ShutUpBrick (S5), Maj0r_Min3r_98 (S6), Frostbreath (S7), Timonscholte (S7), TommySuX (S10), VeniiiD (S18), ScottPirie (S19), jamertxn (S20), TheSonicJoey (S21), ShutUpBrick (S23), bjr201111 (S23), TheSonicJoey (S24), Randehh (S25), lottebunny (S26), wibbol (S26)
+
+**Creeper (13):** MeadowMoos (S1), MeadowMoos (S2), Stooof (S2), MrTeamRaven (S7), Schmeon (S7), jamietheelite (S10), Frostbreath (S11), Frostbreath (S12), SidGarcia (S13), Kidfo (S14), wibbol (S15), BBR_ (S20), chloesad (S25)
+
+**Burning (6):** Havenhand (S1), hammer_fan (S7), NiFear (S7), Micale (S12), Schmeon (S20), TheSonicJoey (S25)
+
+**Ender Dragon (5):** discoczibi (S5), GlowingNeon (S10), TheSonicJoey (S10), Jakekub (S15), bjr201111 (S20)
+
+**Enderman (5):** Frostbreath (S5), Schmeon (S10), PythonRrR (S10), SpikeWinn (S20), LongaVita (S25)
+
+**Zombie (4):** SolarLiner (S5), BSBrent (S21), chloesad (S21), SpikeWinn (S21)
+
+**Lava (3):** Stooof (S4), bytexal (S7), Kakintse (S8)
+
+**Skeleton (3):** XFROSTXFIREX (S5), ScottPirie (S20), MrPolzerino (S23)
+
+**Suffocation (3):** Frostbreath (S2), wibbol (S13), chloesad (S24)
+
+**Arrow (1):** VeniiiD (S8)
+
+**Drowning (1):** LeonTG (S25)
+
+**Ghast (1):** GlowingNeon (S5)
+
+**Left (1):** Maj0r_Min3r_98 (S15)
+
+**Silverfish (1):** KatyLawson (S3)
+
+**Zombified Piglin (1):** jamertxn (S17)
 
 ---
 ### Participation

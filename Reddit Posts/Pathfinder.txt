@@ -262,6 +262,33 @@
 ---
 ### PvE Deaths
 
+**Fall (15):** KatyLawson (S1), Maxwellfifty (S1), SidGarcia (S3), Dida (S3), FazedMC (S3), Frostbreath (S6), Chasmic (S6), VeryNice (S7), TheKevGuy (S7), Jakekub (S8), BurningT (S10), TheKevGuy (S11), _Frankie (S11), MistaUnicorn (S12), Sten_Stone (S14)
+
+**Creeper (8):** EighteenQs (S3), CountryCutie (S3), Maxwellfifty (S4), Osha (S8), BJPlays (S9), beastboyrolf (S12), TheBP (S18), VeniiiD (S21)
+
+**Lava (5):** DaPenguin19 (S12), LordLaelaps (S12), LordLaelaps (S14), TheSonicJoey (S18), TorinFBF (S19)
+
+**Zombie (4):** firefoxvulpix (S4), TommySuX (S4), oDogLFC (S8), Fancyyy (S22)
+
+**Explosion (2):** JamestheDouglas (S12), TheSonicJoey (S12)
+
+**Skeleton (2):** Klickacat (S18), 3Dspoders (S22)
+
+**Witch (2):** Frostbreath (S9), jamertxn (S19)
+
+**Blaze (1):** Flouzemaker (S21)
+
+**Drowning (1):** rippersteveM5 (S16)
+
+**Enderman (1):** Zevulpes (S20)
+
+**Firework (1):** firefoxvulpix (S18)
+
+**Piglin (1):** ElGavinoSupremo (S18)
+
+**Spider (1):** SidGarcia (S22)
+
+**Stray (1):** jamertxn (S22)
 
 ---
 ### Participation

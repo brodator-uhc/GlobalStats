@@ -96,6 +96,11 @@
 ---
 ### PvE Deaths
 
+**Fall (3):** MaxEvasion (S2), elitemaster2 (S3), MaxEvasion (S4)
+
+**Left (2):** elitemaster2 (S1), MushroomStalker (S2)
+
+**Enderman (1):** HoneyFromHell (S4)
 
 ---
 ### Participation

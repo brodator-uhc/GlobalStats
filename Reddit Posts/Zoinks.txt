@@ -120,6 +120,31 @@
 ---
 ### PvE Deaths
 
+**Fall (3):** TalonBX (S3), omchris (S6), ShootingGoats (S7)
+
+**Skeleton (3):** ChainingVermin2 (S8a), omchris (S8a), Codwhy (S8a)
+
+**Pummeled (2):** SpaceFenix (S7), ChainingVermin2 (S7)
+
+**Chicken (1):** Brodator (S1)
+
+**Creeper (1):** Flohp (S7)
+
+**Drowning (1):** fruitlogic (S7)
+
+**Explosion (1):** omchris (S1)
+
+**Fire (1):** _Fost_ (S1)
+
+**Husk (1):** Buzzy_Bee_120 (S7)
+
+**Left (1):** Klickacat (S8a)
+
+**Sneaking (1):** _Fost_ (S2)
+
+**Spider (1):** Jahrod (S7)
+
+**Void (1):** Mjora (S6)
 
 ---
 ### Participation

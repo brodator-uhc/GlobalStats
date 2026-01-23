@@ -188,6 +188,15 @@
 ---
 ### PvE Deaths
 
+**Creeper (5):** BaneOfSmite (S4), Brodator (S6), MaxEvasion (S7), SiahStone (S7), Brodator (S7)
+
+**Fall (3):** Broseph (S4), Brodator (S5), MajorWoof (S6)
+
+**Burning (2):** Zahkari (S7), Kaismartypants (S8)
+
+**Left (2):** AaronLoves (S10), MajorWoof (S10)
+
+**Suffocation (2):** NajaOxiana (S7), DancersTalon (S8)
 
 ---
 ### Participation

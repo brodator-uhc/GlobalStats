@@ -280,6 +280,43 @@
 ---
 ### PvE Deaths
 
+**Creeper (23):** BJPlays (S1), BJPlays (S2), WaXmAn24 (S2), KingCynare (S3), Antigrate (S3), Kampel125 (S3), Kampel125 (S5), Bandias (S6), SandraStorm (S10), Kampel125 (S10), Gillieeeee (S10), bytexal (S11a), BJPlays (S11a), PoshNPie (S11a), Soshikun (S17), Phoebe (S18), bjr201111 (S18), Phoebe (S19), Applepie78 (S19), QuilJ1 (S19), bjr201111 (S20), SidGarcia (S20), SiahStone (S21)
+
+**Fall (17):** gnty (S2), Obicount (S4), LinkOcarinaTime (S5), Theawesomehi (S6), Omertosa (S6), gnty (S7), dans1988 (S8), TicedUp (S8), Kidfo (S9), ElementalYT (S11b), Soshikun (S12), KingCynare (S18), SiahStone (S18), brodioh (S18), SiahStone (S19), brodioh (S19), Omertosa (S19)
+
+**Burning (7):** gnty (S4), WaXmAn24 (S7), Soshikun (S11b), GlitchyRainbow (S12), Kidfo (S14), BJPlays (S15), Maxwellfifty (S20)
+
+**Skeleton (6):** Bandias (S1), Jordtim (S1), miccx (S4), miles1baseball (S19), miles1baseball (S20), sonmica (S21)
+
+**Zombie (6):** gnty (S3), OnlyShero (S3), Mjora (S4), SandraStorm (S11b), Phoebe (S16), KingCynare (S20)
+
+**Spider (4):** ThirteenCurry (S1), 2NZ (S2), BJPlays (S14), 5hup (S21)
+
+**Blaze (2):** JimmyF69 (S8), Mjora (S21)
+
+**Suffocation (2):** Jordtim (S2), GlitchyRainbow (S7)
+
+**Witch (2):** LordLaelaps (S11b), MadSainter (S11b)
+
+**Drowning (1):** AvaCos (S21)
+
+**Elytra (1):** BJPlays (S18)
+
+**Ghast (1):** scriblur (S17)
+
+**Guardian (1):** sonmica (S18)
+
+**Lava (1):** Mjora (S12)
+
+**Left (1):** Jakekub (S12)
+
+**Piglin (1):** Harmen (S18)
+
+**Piglin Brute (1):** Bandias (S19)
+
+**Wither Skeleton (1):** LordLaelaps (S10)
+
+**Wolf (1):** LordLaelaps (S11a)
 
 ---
 ### Participation

@@ -322,6 +322,31 @@
 ---
 ### PvE Deaths
 
+**Creeper (27):** Fcrm (S1), DatGuyAdam (S1), DevoyTTV (S1), Caydone (S1), TastyBaconZ (S1), JoshC2 (S2), Nek0r_ (S3), Fcrm (S3), Microus (S3), JaeHasNoMaidens (S4), TaylorLive (S5), CameronJacob00 (S5), DevoyTTV (S6), Greeples (S6), TorinFBF (S6), Jahrod (S6), JamestheDouglas (S6), nFang (S6), Andronify (S8), Brodator (S8), MaxEvasion (S10), SummerBqsh (S10), LoafOZ (S11), FrostBros (S11), Flouzemaker (S11), Greeples (S11), Fra49 (S19)
+
+**Zombie (8):** Zenithu (S1), TastyBaconZ (S2), Andronify (S4), Eagris (S6), Sten_Stone (S6), TheRealHagrid (S7), PresidentFleb (S19), Sharkbob94349 (S19)
+
+**Fall (7):** wizarde (S4), TastyBaconZ (S5), Karliffu (S6), wizarde (S10), Rohcket (S16), ColdBac (S18), PresidentFleb (S20)
+
+**Skeleton (7):** honestlyhunter (S3), 123SteveBob (S3), DevoyTTV (S4), Phyrrus (S6), ohh_lia (S6), DJoee (S16), starlxghtmoon (S19)
+
+**Shulker (3):** CipherKai (S7), Sparky_Taz (S7), ChainingVermin2 (S20)
+
+**Void (2):** Eagris (S18), Andronify (S18)
+
+**Creaking (1):** Brodator (S18)
+
+**Drowning (1):** Markedbooboy (S15)
+
+**Enderman (1):** Yveltql (S8)
+
+**Lava (1):** DogOfKrondor (S10)
+
+**Stray (1):** Eagris (S14)
+
+**Suffocation (1):** Yveltql (S5)
+
+**Warden (1):** TheSlimeBrother (S15)
 
 ---
 ### Participation

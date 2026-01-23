@@ -252,6 +252,35 @@
 ---
 ### PvE Deaths
 
+**Creeper (16):** Wolfheart738 (S1), Hefaistros (S1), SILSKY (S1), wickedreine (S2), TheRedHuldra (S2), DrJimJim (S3), TheFuzzyMole (S3), 1ime (S4), CameronJacob00 (S5), neocrypter (S7), Eagris (S7), draylor09 (S8), whitetimewolf (S13), sosillytoo1971 (S15), DogOfKrondor (S16), CaptainRichy (S20)
+
+**Skeleton (15):** boemboom (S1), FalingDutchman (S1), Wolfheart738 (S2), WriteEscape (S2), ClassicChad (S3), MegaGran (S4), TheCatMurgatroyd (S6), whitetimewolf (S7), TheCatMurgatroyd (S7), C8sun (S8), C8sun (S9), Brodator (S10), Angue (S10), BuildingBard300 (S19), DogOfKrondor (S19)
+
+**Zombie (11):** MinecraftBabe007 (S1), Banji3000 (S1), Hefaistros (S2), trillibytes (S2), TheCatMurgatroyd (S3), Kayker (S3), van98 (S6), TinytheT_Rex (S7), DogOfKrondor (S12), RoseCuycuy (S15), Eagris (S21)
+
+**Fall (9):** Blugy (S1), CaptainRichy (S2), MartyBoy392 (S4), Brodator (S7), Angue (S9), TinytheT_Rex (S9), TheCatMurgatroyd (S19), jimmyjegs (S20), RoseCuycuy (S21)
+
+**Burning (4):** Lazmark (S1), HappierUpHere (S3), Lazmark (S3), CAMKART100 (S21)
+
+**Left (4):** Tallone55 (S2), ghostblurr (S5), Bofishkix (S8), ClassicChad (S13)
+
+**Drowning (3):** trillibytes (S6), TheCatMurgatroyd (S18), MadamGiggles (S19)
+
+**Ender Dragon (3):** Magnam_Indie (S18), DogOfKrondor (S18), ClassicChad (S18)
+
+**Enderman (3):** CCRascal (S2), trillibytes (S8), RoseCuycuy (S13)
+
+**Lava (3):** Magnam_Indie (S6), DogOfKrondor (S11), ClassicChad (S20)
+
+**Suffocation (3):** TheCatMurgatroyd (S1), Kayker (S1), RoseCuycuy (S14)
+
+**Cave Spider (2):** Magnam_Indie (S3), ClassicChad (S21)
+
+**Spider (2):** ClassicChad (S2), Magnam_Indie (S2)
+
+**Witch (1):** Trinan6918 (S5)
+
+**Zombified Piglin (1):** Eagris (S3)
 
 ---
 ### Participation

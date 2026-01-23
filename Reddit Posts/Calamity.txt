@@ -456,6 +456,41 @@
 ---
 ### PvE Deaths
 
+**Fall (32):** sr8611 (S1), EdgyWaffle (S1), lay1aa (S1), kirbey (S1), deccop (S2), silent_spriicket (S3), Cqson (S4), advy (S4), KennyEatsGlue (S4), zhub (S5), Rougero (S6), Ullti (S6), deccop (S7), Rebelghost (S10), silent_spriicket (S11), natsuvi (S12), hazel_doe (S12), Hxmmy (S13), wizarde (S16), PresidentFleb (S17), deccop (S18), deccop (S19), WackoFlipper (S21), ItsShqky (S22), pufferfish_lite (S22), SS_Scythe (S25), CrashDummy420 (S25), stupidsylvia (S25), Ghosteyy (S29), 1gmhorton (S29), HalfLechuga (S31), dsjaks (S35)
+
+**Lava (15):** Cqson (S1), Lsnce (S8), EdgyWaffle (S9), deccop (S10), Ghosteyy (S16), Kaismartypants (S23), Karasu994 (S24), Hrray (S24), Gorgerous (S24), SS_Scythe (S29), LlamaBoss373 (S29), LocSen (S30), SS_Scythe (S30), _Kreddit_ (S32), JamieDolores (S32)
+
+**Burning (11):** BreakfastBacon (S1), ghost_ttv (S1), KelloBello (S2), Cqson (S3), KennyEatsGlue (S3), Lcln (S4), Aloysius14 (S6), emi1iano (S7), CrashDummy420 (S27), bayweafs (S29), SoggyHotdogMaker (S30)
+
+**Void (11):** sr8611 (S5), Kaismartypants (S5), ArcticSeagull (S9), David63 (S9), emi1iano (S9), Karasu994 (S9), SS_Scythe (S22), Nalgo (S22), turicake (S25), MrHook1010101010 (S35), Lsnce (S35)
+
+**Suffocation (9):** KennyEatsGlue (S1), CynicalCor (S4), kirbey (S5), Fen_Real (S7), Broseph (S9), LocSen (S17), Men2 (S24), Duke_of_Seattle (S35), Hyperdrone56 (S35)
+
+**Creeper (8):** sr8611 (S4), Sluggyg (S12), silent_spriicket (S12), ItsShqky (S19), Jordtim (S20), SS_Scythe (S23), Kaismartypants (S24), BreakfastBacon (S30)
+
+**Left (6):** ArcticSeagull (S4), droopylace (S10), Hxmmy (S14), droopylace (S20), Blarkslol (S24), Cheetah_16 (S28)
+
+**Explosion (4):** HeroGolem5 (S3), OddishThoughts (S3), Flqmey (S12), Karasu994 (S12)
+
+**Skeleton (4):** Aloysius14 (S1), Abracassandra (S4), EdgyWaffle (S4), 1gmhorton (S30)
+
+**Wither Skeleton (4):** ghost_ttv (S3), Lcln (S3), KelloBello (S3), Suleiman_II (S3)
+
+**Zombie (4):** silent_spriicket (S4), SummerBqsh (S5), silent_spriicket (S6), TehBaconBrawlerZ (S18)
+
+**Ender Dragon (3):** Rebelghost (S3), sr8611 (S3), stupidsylvia (S28)
+
+**Cave Spider (2):** LocSen (S16), dsjaks (S29)
+
+**Fallout (1):** droopylace (S32)
+
+**Spider (1):** ghost_ttv (S5)
+
+**Witch (1):** zhub (S1)
+
+**Wither (1):** natsuvi (S28)
+
+**Wolf (1):** Rogue_Batman (S12)
 
 ---
 ### Participation

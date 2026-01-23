@@ -129,7 +129,8 @@ List<String> rp_firstblood = new List<String>();
 List<String> rp_firstdeath = new List<String>();
 Dictionary<String, int> rp_kills = new Dictionary<String, int>();
 Dictionary<String, String> rp_kills_list = new Dictionary<String, String>();
-List<String> rp_pvedeaths = new List<String>();
+Dictionary<String, int> rp_pvedeaths = new Dictionary<String, int>();
+Dictionary<String, String> rp_pvedeaths_list = new Dictionary<String, String>();
 List<String> rp_participations = new List<String>();
 List<String> rp_debutants = new List<String>();
 
@@ -531,8 +532,9 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     {
                         String pvedeath = getPvEDeath(worksheet.Cell(firstDataRow, firstDataColumn).CellRight().CellRight());
                         rp_firstdeath.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + worksheet.Cell(firstDataRow, firstDataColumn).GetString() + " (" + pvedeath + ")" + Environment.NewLine);
-                        
-                    } else
+
+                    }
+                    else
                     {
                         rp_firstdeath.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + worksheet.Cell(firstDataRow, firstDataColumn).GetString() + " (" + worksheet.Cell(firstDataRow, firstDataColumn).CellRight().CellRight().GetString() + ")" + Environment.NewLine);
                     }
@@ -629,9 +631,10 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                     {
                         rp_kills[value] += 1;
                         rp_kills_list[value] = rp_kills_list[value] + cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ";
-                    } else
+                    }
+                    else
                     {
-                        rp_kills.Add(value,1);
+                        rp_kills.Add(value, 1);
                         rp_kills_list.Add(value, cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ");
                     }
 
@@ -690,10 +693,11 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                                 fbl_seasons.Add(season_number);
                                 fbl_dates.Add(season_date);
                                 fbl_players.Add(cell.CellBelow().GetString());
-                            } else
-                    {
-                        rp_firstblood.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + value + " (" + cell.CellLeft().CellLeft().GetString() + ")" + Environment.NewLine);
-                    }
+                            }
+                            else
+                            {
+                                rp_firstblood.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + value + " (" + cell.CellLeft().CellLeft().GetString() + ")" + Environment.NewLine);
+                            }
                         }
                     }
                 }
@@ -731,6 +735,17 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             {
                                 unique_pve_deaths.Add(pvedeath, 1);
                             }
+
+                            if (rp_pvedeaths.ContainsKey(pvedeath))
+                            {
+                                rp_pvedeaths[pvedeath] += 1;
+                                rp_pvedeaths_list[pvedeath] = rp_pvedeaths_list[pvedeath] + cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ";
+                            }
+                            else
+                            {
+                                rp_pvedeaths.Add(pvedeath, 1);
+                                rp_pvedeaths_list.Add(pvedeath, cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ");
+                            }
                         }
                         else
                         {
@@ -749,6 +764,17 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             else
                             {
                                 unique_pve_deaths.Add(value, 1);
+                            }
+
+                            if (rp_pvedeaths.ContainsKey(value))
+                            {
+                                rp_pvedeaths[value] += 1;
+                                rp_pvedeaths_list[value] = rp_pvedeaths_list[value] + cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ";
+                            }
+                            else
+                            {
+                                rp_pvedeaths.Add(value, 1);
+                                rp_pvedeaths_list.Add(value, cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ");
                             }
                         }
 
@@ -1199,7 +1225,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
     rl_rostersizes.Add(roundRoster.Count);
     String rppath = "..\\..\\..\\Reddit Posts\\" + worksheet.Name + ".txt";
-    String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th", 
+    String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th",
                             "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th",
                             "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th",
                             "31st", "32nd", "33rd", "34th", "35th", "36th", "37th", "38th", "39th", "40th",
@@ -1258,11 +1284,13 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     rp_kills = rp_kills.OrderByDescending(key => key.Value).ToDictionary(keyValuePair => keyValuePair.Key, keyValuePair => keyValuePair.Value);
     foreach (String kills in rp_kills.Keys)
     {
-        if (currentkill > 0){
+        if (currentkill > 0)
+        {
             if (rp_kills[kills] == currentkill)
             {
                 ties += 1;
-            } else
+            }
+            else
             {
                 ranking += ties;
                 ties = 1;
@@ -1272,8 +1300,18 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         currentkill = rp_kills[kills];
     }
     File.AppendAllText(rppath, "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### PvE Deaths" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### PvE Deaths" + Environment.NewLine + Environment.NewLine);
+    foreach (String pvedeaths in rp_pvedeaths_list.Keys)
+    {
+        rp_pvedeaths_list[pvedeaths] = rp_pvedeaths_list[pvedeaths].Remove(rp_pvedeaths_list[pvedeaths].Length - 2);
+    }
+    rp_pvedeaths = rp_pvedeaths.OrderBy(kvp => kvp.Key).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+    rp_pvedeaths = rp_pvedeaths.OrderByDescending(key => key.Value).ToDictionary(keyValuePair => keyValuePair.Key, keyValuePair => keyValuePair.Value);
+    foreach (String pvedeaths in rp_pvedeaths.Keys)
+    {
+        File.AppendAllText(rppath, "**" + pvedeaths + " (" + rp_pvedeaths[pvedeaths] + "):** " + rp_pvedeaths_list[pvedeaths] + Environment.NewLine + Environment.NewLine);
+    }
+    File.AppendAllText(rppath, "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Debutants" + Environment.NewLine + Environment.NewLine);
@@ -1287,6 +1325,8 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     rp_firstdeath.Clear();
     rp_kills.Clear();
     rp_kills_list.Clear();
+    rp_pvedeaths.Clear();
+    rp_pvedeaths_list.Clear();
     rp_debutants.Clear();
 }
 

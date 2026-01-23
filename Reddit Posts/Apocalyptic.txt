@@ -390,6 +390,37 @@
 ---
 ### PvE Deaths
 
+**Creeper (11):** FrowardSnake (S2), Klanke (S8), _Fost_ (S9), poWpaH (S9), Moonlitess (S9), Lsnce (S12), Lsnce (S13), BigJedo (S13), Kaismartypants (S16), Gorgerous (S17), _Fost_ (S19)
+
+**Fall (8):** Kaiea (S1), AdonisGaming (S3), ElGavinoSupremo (S6), ItsShqky (S6), egl_ (S7), Plushy33 (S7), ImChile (S7), TayUHC (S9)
+
+**Lava (8):** Slooshyy (S3), Mattzia (S10), strategy (S11), kirbey (S11), BreakfastBacon (S11), broccoliar (S12), Plushy33 (S12), FrostBros (S19)
+
+**Zombie (6):** CelestialReira (S1), AdonisGaming (S4), AdonisGaming (S6), Klanke (S9), Captinn (S12), kirbey (S16)
+
+**Suffocation (5):** azoof (S8), BreakfastBacon (S9), Stravilight (S17), Lnrdo (S19), Nuclearsugar (S20)
+
+**Void (5):** _ChrisMS (S7), CipherKai (S7), ADinoPlayingMC (S7), TonyEatWorld (S7), BlackPants (S14)
+
+**Burning (4):** Plushy33 (S11), TheSlimeBrother (S12), TehBaconBrawlerZ (S12), AvyleZ (S15)
+
+**Newtons Third Law (3):** Pelycosaur (S9), ItsShqky (S9), BigJedo (S9)
+
+**Explosion (2):** Jahrod (S10), DevoyTTV (S15)
+
+**Left (2):** Sneaky26 (S6), PikachuNumbers (S11)
+
+**Skeleton (2):** Markedbooboy (S6), kirbey (S12)
+
+**Cactus (1):** kirbey (S20)
+
+**Cave Spider (1):** LoafOZ (S11)
+
+**Fire (1):** ArcticSeagull (S11)
+
+**Spider (1):** poWpaH (S7)
+
+**Wither Skeleton (1):** JamestheDouglas (S2)
 
 ---
 ### Participation

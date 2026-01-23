@@ -322,6 +322,21 @@
 ---
 ### PvE Deaths
 
+**Fall (9):** MannyDM (S2), Fcrm (S7), BardMain2 (S10), HigmanFreud (S11), Broseph (S11), Fcrm (S11), vynil (S11), azoof (S11), Codwhy (S13)
+
+**Creeper (8):** colbay (S1), Tneesh (S2), Microus (S3), Cyndic (S4), xCand (S8), Psykl0ne (S14), 78ford (S14), vynil (S15)
+
+**Burning (2):** Aqualox (S3), Greeples (S11)
+
+**Lava (2):** CHAINGE (S16), ArcticSeagull (S18)
+
+**Drowning (1):** ArcticSeagull (S14)
+
+**Left (1):** Normoh (S4)
+
+**Suffocation (1):** MannyDM (S1)
+
+**Void (1):** PresidentFleb (S8)
 
 ---
 ### Participation

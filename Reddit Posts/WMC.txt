@@ -312,6 +312,43 @@
 ---
 ### PvE Deaths
 
+**Creeper (19):** IX10510IX (S2), BreakSalad (S4), CMattznes (S4), DeRockProject (S11), WintherMaw (S13), IX10510IX (S16), CMattznes (S17), AndrizzlePC (S17), TommySuX (S19), AndrizzlePC (S20), beastboyrolf (S20), silverteeth (S20), MrTeamRaven (S21), IX10510IX (S21), Mop19 (S22), SidGarcia (S22), LongaVita (S23), wibbol (S25), Kiinako_ (S28)
+
+**Skeleton (13):** Heralen (S9), tweetabix (S10), Mop19 (S18), Frostbreath (S21), Mop19 (S25), BurningT (S25), SidGarcia (S25), tweetabix (S32), Flohp (S32), Micale (S32), Kiinako_ (S32), Bergasms (S32), SidGarcia (S32)
+
+**Shared Health (10):** WintherMaw (S6), Pizzadudes7 (S6), TicedUp (S6), EighteenQs (S6), Costanza (S6), Verzuh (S6), Bergasms (S6), munchmo (S6), EddCase (S6), Mop19 (S6)
+
+**Zombie (10):** DeRockProject (S1), sonmica (S9), CMattznes (S13), dans1988 (S13), EighteenQs (S13), DeRockProject (S13), Mop19 (S13), sonmica (S13), LongaVita (S25), Ratchet6859 (S28)
+
+**Burning (6):** DeRockProject (S10), No0neAtAll (S11), JakeAladarSmith (S14), MrTeamRaven (S16), Frostbreath (S23), KOKeowner (S31)
+
+**Lava (6):** Kiwisauce (S2), firefoxvulpix (S8), DeRockProject (S12), Gilzor (S13), beastboyrolf (S13), NTBama (S32)
+
+**Blaze (3):** munchmo (S1), Kiinako_ (S21), TommySuX (S32)
+
+**Enderman (3):** rippersteveM5 (S21), ShutUpBrick (S21), Fairyjuice (S25)
+
+**Fall (3):** beastboyrolf (S10), iiQuakezz (S15), SidGarcia (S20)
+
+**Explosion (2):** LongaVita (S19), Zarky (S19)
+
+**Comply (1):** QuilJ1 (S31)
+
+**Drowning (1):** Zarky (S13)
+
+**Ender Dragon (1):** TicedUp (S21)
+
+**Ghast (1):** IX10510IX (S3)
+
+**Left (1):** MarcC5M (S27)
+
+**Magma Cube (1):** SidGarcia (S12)
+
+**Panda (1):** Chasmic (S32)
+
+**Witch (1):** zachlip98 (S11)
+
+**Wither Skeleton (1):** Bergasms (S9)
 
 ---
 ### Participation

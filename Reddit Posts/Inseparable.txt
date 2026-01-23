@@ -108,6 +108,15 @@
 ---
 ### PvE Deaths
 
+**Shared Health (10):** ShutUpBrick (S1), Zenniker (S1), Ricardo_A (S1), Kelt78 (S1), iDanzah (S1), TicedUp (S1), GlitchyRainbow (S1), xNestorio (S1), Hadders (S1), MrTeamRaven (S1)
+
+**Zombie (4):** Fairyjuice (S1), SidGarcia (S2), annbadison (S2), Heralen (S2)
+
+**Creeper (3):** Kelt78 (S2), TheCaveman (S2), BlakeCraft (S2)
+
+**Enderman (1):** BJPlays (S1)
+
+**Skeleton (1):** Bergasms (S1)
 
 ---
 ### Participation

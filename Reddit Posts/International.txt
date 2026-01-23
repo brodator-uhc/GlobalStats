@@ -276,6 +276,31 @@
 ---
 ### PvE Deaths
 
+**Creeper (10):** flxnwolf (S1), __Scott (S5), Jillamy (S8), Kieranborn (S12), Long_Journey (S12), TommySuX (S15), 5kylord (S16), Just_Gerald (S16), ColdBac (S23), Phyrrus (S26)
+
+**Fall (7):** lightmaster1 (S1), Long_Journey (S2), Mat_HD (S6), Just_Gerald (S10), Charrlottie (S19), Kubaslov (S21), TheSlimeBrother (S26)
+
+**Zombie (7):** BatBlade (S1), RedValour (S1), Just_Gerald (S12), Ullti (S21), DogOfKrondor (S23), DogOfKrondor (S25), Ullti (S25)
+
+**Skeleton (5):** DlN0SAUR (S1), DlN0SAUR (S2), TheBP (S16), TheBP (S23), pandaelf (S23)
+
+**Lava (3):** bigmishap (S3), Space_Face87 (S4), Just_Gerald (S14)
+
+**Blaze (2):** __Yoyo (S5), flxnwolf (S7)
+
+**Burning (2):** RedValour (S2), Jillamy (S9)
+
+**Left (2):** xIsaacG (S9), thaunking (S14)
+
+**Spider (2):** ToucanTom (S1), Lickety_Split (S2)
+
+**Suffocation (1):** Long_Journey (S9)
+
+**Void (1):** Lickety_Split (S8)
+
+**Witch (1):** robfred2011 (S5)
+
+**Wither Skeleton (1):** ElGavinoSupremo (S25)
 
 ---
 ### Participation

@@ -162,6 +162,11 @@
 ---
 ### PvE Deaths
 
+**Fall (4):** strategy (S1), MajorWoof (S2), Omertosa (S6), Eluniel (S6)
+
+**Creeper (1):** Ryfri (S2)
+
+**Lava (1):** Broseph (S4)
 
 ---
 ### Participation

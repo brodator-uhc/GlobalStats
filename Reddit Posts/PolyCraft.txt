@@ -170,6 +170,37 @@
 ---
 ### PvE Deaths
 
+**Skeleton (24):** Makahlua (S1), TheMeInTeam (S2), Duskey (S6), AlphaShard (S8), Izmir_Stinger (S10), Eag (S10), TheMeInTeam (S10), AlphaShard (S10), elKingMorgan (S11), elKingMorgan (S13), MLS (S14), TheMeInTeam (S15), Eag (S15), MLS (S15), AlphaShard (S15), TheChrisD (S15), CanusAlbinus (S15), MadDjinn (S16), zosh127 (S16), DanQ_CC (S17), MadDjinn (S19), Makahlua (S22), MadDjinn (S22), Makahlua (S23)
+
+**Zombie (20):** Eag (S1), ekat2468 (S1), MadDjinn (S1), AlphaShard (S2), AlphaShard (S3), NNannasin (S3), DanQ_CC (S9), AlphaShard (S9), MadDjinn (S10), elKingMorgan (S12), DanQ_CC (S13), qqqnl (S15), elKingMorgan (S15), AlphaShard (S16), elKingMorgan (S17), MadDjinn (S17), Makahlua (S17), Gameslayer989 (S17), TheMeInTeam (S21), Gameslayer989 (S23)
+
+**Creeper (16):** CanusAlbinus (S1), fuzzyfractal42 (S1), Makahlua (S2), CanusAlbinus (S3), ekat2468 (S4), MLS (S8), GrimVek (S12), MadDjinn (S13), zosh127 (S13), DanQ_CC (S14), Makahlua (S14), TheChrisD (S16), 78ford (S17), 78ford (S19), elKingMorgan (S20), TheChrisD (S21)
+
+**Blaze (6):** MadDjinn (S2), MLS (S6), MLS (S13), Davelions (S16), MadDjinn (S21), Gameslayer989 (S22)
+
+**Fall (5):** ixias0 (S4), ekat2468 (S6), MLS (S9), DanQ_CC (S10), CanusAlbinus (S13)
+
+**Enderman (4):** AlphaShard (S6), AlphaShard (S13), TheMeInTeam (S14), elKingMorgan (S16)
+
+**Spider (3):** MadDjinn (S15), 78ford (S18), MadDjinn (S23)
+
+**Suffocation (3):** Aschilon (S9), GrimVek (S13), KirbyMD (S22)
+
+**Void (3):** MadDjinn (S9), GrimVek (S9), DanQ_CC (S23)
+
+**Cave Spider (2):** Balone (S21), Makahlua (S21)
+
+**Drowning (2):** Makahlua (S3), GrimVek (S5)
+
+**Wither Skeleton (2):** Gameslayer989 (S18), Makahlua (S20)
+
+**Zombified Piglin (2):** GrimVek (S11), Makahlua (S11)
+
+**Burning (1):** TheMeInTeam (S13)
+
+**Lava (1):** MLS (S7)
+
+**Witch (1):** DanQ_CC (S3)
 
 ---
 ### Participation

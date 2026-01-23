@@ -106,6 +106,21 @@
 ---
 ### PvE Deaths
 
+**Wither Skeleton (5):** Randehh (S1), Codwhy (S1), ohh_lia (S3), CrowJRC (S4), SiahStone (S4)
+
+**Skeleton (4):** ArcticSeagull (S2), Eluniel (S2), ohh_lia (S2), 4EyedSlime (S4)
+
+**Zombie (4):** awesomemacD (S1), MBeaar (S1), PresidentFleb (S3), Randehh (S3)
+
+**Blaze (2):** chloesad (S1), Captinn (S3)
+
+**Explosion (2):** Eluniel (S4), DJoee (S4)
+
+**Fall (2):** MaxEvasion (S2), WackoFlipper (S4)
+
+**Endermite (1):** ArcticSeagull (S3)
+
+**Wither (1):** MaxEvasion (S1)
 
 ---
 ### Participation

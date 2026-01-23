@@ -210,6 +210,25 @@
 ---
 ### PvE Deaths
 
+**Fall (7):** Entity_Error (S4), Zamario (S5), BJPlays (S5), jommyappleseed (S8), ShAydenelley (S8), Potsie (S8), vynil (S10)
+
+**Zombie (3):** Ben1_1 (S2), jvevo (S3), ShimamuraUzuki (S4)
+
+**Ender Dragon (2):** Digdude (S5), jvevo (S5)
+
+**Lava (2):** jvevo (S8), ScaryPumpkinFace (S9)
+
+**Burning (1):** Nintendoshi (S8)
+
+**Disqualified (1):** WaXmAn24 (S7)
+
+**Drowning (1):** PaperVinnie (S8)
+
+**Left (1):** 5hup (S6)
+
+**Skeleton (1):** TheKevGuy (S6)
+
+**Wither Skeleton (1):** Creeper2Danknee (S2)
 
 ---
 ### Participation

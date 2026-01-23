@@ -108,6 +108,27 @@
 ---
 ### PvE Deaths
 
+**Creeper (10):** Pat_N (S1), JamestheDouglas (S4), JoshC2 (S5), 3Dspoders (S5), Chasmic (S6), DevoyTTV (S8), 343Kento (S9), BadMur (S9), JoshC2 (S9), JamestheDouglas (S9)
+
+**Skeleton (4):** nin10dojoe (S2), _Infernum_ (S3), Pat_N (S4), Balone (S5)
+
+**Enderman (3):** Mr_Bombastic_ (S1), OwlTin (S5), Sten_Stone (S9)
+
+**Fall (3):** ACommonKiwi (S1), DBird (S3), Krimm (S5)
+
+**Blaze (2):** Krimm (S9), 3Dspoders (S10)
+
+**Burning (2):** DBird (S9), Pat_N (S9)
+
+**Ender Dragon (2):** JamestheDouglas (S5), Maxwellfifty (S5)
+
+**Lava (2):** BadMur (S8), Mr_Bombastic_ (S10)
+
+**Zombie (2):** Pat_N (S8), 3Dspoders (S9)
+
+**Spider (1):** Krimm (S6)
+
+**Void (1):** Flouzemaker (S6)
 
 ---
 ### Participation

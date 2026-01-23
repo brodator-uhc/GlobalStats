@@ -532,6 +532,47 @@
 ---
 ### PvE Deaths
 
+**Fall (37):** Treyten (S1), Prisma (S2), a_b_c_d_e (S3), MickeyDEC (S3), GmacLad (S5), Sinuar (S5), Andraea (S9), Bubblezzz (S9), Aupho (S9), TheChemicalSiren (S12), Apextarget (S12), SlowATSV (S13), coolarabella (S13), Wqbbit (S13), Scyles (S13), bevey (S13), Bill_isnt_Chill (S13), ChaseOwO (S19), Kaismartypants (S20), SlowATSV (S21), braidenOW (S21), Bornyo (S23), Fearx_ (S26), pierce981 (S27), Strqfe_ (S28), Strqfe_ (S30), vDyre (S30), kirkomode (S31), GraceC2_ (S32), Prisma (S33), JaydenFrBruh (S34), Kaismartypants (S34), TheJavaHacker (S36), GraceC2_ (S41), Freaknock (S41), Krimm (S42), AvyleZ (S42)
+
+**Zombie (23):** DEREKAST (S1), TheJavaHacker (S1), UltimateVillager (S2), SlowATSV (S2), TheJavaHacker (S2), bevey (S2), Pandie674 (S3), DiarWolfe (S5), Canadian_Mitch (S6), TheJavaHacker (S6), yoshiguy19 (S6), YepItsJustDirt (S8), TheJavaHacker (S10), Sinuar (S12), chugmitchell (S17), Dragon_Vapes (S17), Sinuar (S20), BreakfastBacon (S20), Krimm (S21), Krimm (S28), piggy218 (S28), CyKrez (S34), Pengulink (S34)
+
+**Lava (17):** Thanalox (S3), SlowATSV (S5), TheBhav (S7), GavinGamer10 (S10), Caligators (S11), LadyNarwhal (S11), HeyitsDan (S13), TheChemicalSiren (S17), Scyles (S18), Bornyo (S19), Envified_ (S20), chugmitchell (S20), Ahzora (S20), braidenOW (S22), Strqfe_ (S27), brinkwhy (S27), Cordinei (S41)
+
+**Left (17):** a_b_c_d_e (S2), Treyten (S5), SeanZipper (S6), Supercrafter724 (S6), BornKyle (S6), Actionjack2012 (S9), Krimm (S9), Muffinman16 (S10), TheMuffinDoge (S14), walkerstalker48 (S15), iQuick_ (S17), Txmp (S17), Arnqv (S18), Jwillnot (S20), reverse094 (S21), CanadianWafflez (S23), Prisma (S32)
+
+**Creeper (15):** TellyKing (S1), MickeyDEC (S2), Krimm (S6), RavenJD (S10), Krimm (S11), BluiesReborn (S18), Fearx_ (S23), TheJavaHacker (S26), Centrios (S30), Broseph (S30), Cristehn (S32), JaydenFrBruh (S32), Blakeeze (S33), TheJavaHacker (S35), Truzoi (S41)
+
+**Skeleton (13):** Ferno_the_Knight (S2), Fishbutt307 (S3), Jasonvac (S5), RubiksPlaysMC (S11), bevey (S16), xNerd (S17), Avarca (S22), Sinuar (S25), Archibold (S25), 66Sixela_ (S25), ProGirlGamer (S26), 66Sixela_ (S33), Krimm (S34)
+
+**Burning (8):** PickaxeLoverFTW (S7), Lunarashi (S8), Txmp (S11), Auburn (S14), DBoss (S19), Kaismartypants (S25), Broseph (S28), TheJavaHacker (S30)
+
+**Arrow (5):** Spencerdood (S19), 360NoSc0p3_F4Z3d (S23), Perzano (S23), kirkomode (S26), brinkwhy (S32)
+
+**Suffocation (5):** Desire_Z (S4), RCDominance (S4), Kaismartypants (S6), allen_ (S29), BluiesReborn (S29)
+
+**Ender Dragon (4):** Krimm (S36), Wqbbit (S36), Pengulink (S36), Kaismartypants (S36)
+
+**Void (4):** Sinuar (S3), Prisma (S3), PandaLogic (S30), Ahzora (S30)
+
+**Cave Spider (3):** DrJamezz (S25), TheJavaHacker (S32), hashtagmat (S41)
+
+**Drowning (3):** RCDominance (S7), TheJavaHacker (S9), bevey (S15)
+
+**Ghast (2):** Kaismartypants (S2), GavinGamer10 (S30)
+
+**Spider (2):** SlowATSV (S1), TheJavaHacker (S5)
+
+**Witch (2):** Slaybate (S31), Avarca (S33)
+
+**Blaze (1):** ChoiBoii (S30)
+
+**Dripstone (1):** ArcticSeagull (S42)
+
+**Explosion (1):** Codzyy (S2)
+
+**Fire (1):** Envified_ (S24)
+
+**Silverfish (1):** RCDominance (S6)
 
 ---
 ### Participation

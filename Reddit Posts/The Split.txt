@@ -160,6 +160,25 @@
 ---
 ### PvE Deaths
 
+**Shared Health (9):** _mrcool (S4), AttackZach_ (S4), Zermbeeh (S4), Maniacmagee (S4), Verxity (S4), T0n35 (S4), DoughnutDoctor (S4), ShyGus (S4), Bobbytheturtle (S4)
+
+**Fall (6):** NajaOxiana (S5), UhBrady (S5), DoughnutDoctor (S6), dj0322 (S6), AttackZach_ (S7), Zachf01 (S8)
+
+**Creeper (2):** NajaOxiana (S4), jvevo (S8)
+
+**Enderman (2):** SirQuackens (S4), Hollymatman (S4)
+
+**Skeleton (2):** Chief_Paco (S1), jordanleevan (S1)
+
+**Blaze (1):** DoughnutDoctor (S5)
+
+**Fire (1):** warriorcat (S7)
+
+**Left (1):** BlazeThePolymath (S5)
+
+**Spider (1):** Jcalm (S1)
+
+**Zombie (1):** Jcalm (S2)
 
 ---
 ### Participation

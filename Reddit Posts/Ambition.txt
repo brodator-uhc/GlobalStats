@@ -396,6 +396,43 @@
 ---
 ### PvE Deaths
 
+**Creeper (16):** miles1baseball (S2), Zaenith (S4), Edviin_ (S10), Zaenith (S10), Flohp (S11), EPICSACKVILLE (S11), LegoBeast (S14), Ricardo_A (S14), Flohp (S14), Bobbytheturtle (S16), Nie200 (S18), MercuryParadox (S23), CH0CK (S30), LegoBeast (S30), oworca (S30), Micale (S35)
+
+**Fall (16):** MPMG (S4), Doornbread (S4), Fortwerth (S7), Scott_XD (S8), Chickeeeen (S13), EPICSACKVILLE (S19), Rawkeyy (S28), Fortwerth (S31), brodioh (S31), tiffaroni (S32), c1n (S32), LegoBeast (S32), Micale (S32), Blindedgamer (S32), Rawkeyy (S35), Plushy33 (S35)
+
+**Lava (8):** Doornbread (S2), weeuy (S3), caseyjones223 (S9), txbill (S9), antbound (S11), TommySuX (S12), kloosman (S13), sirples (S17)
+
+**Burning (6):** Kaleeka (S5), iDanzah (S5), Heralen (S8), miles1baseball (S18), Fensua (S23), MercuryParadox (S28)
+
+**Skeleton (4):** Learning (S5), Rawkeyy (S22), CH0CK (S23), friigiid (S35)
+
+**Zombie (3):** xNestorio (S3), Aceman1998 (S16), MercuryParadox (S27)
+
+**Enderman (2):** JonnyFairplay (S27), BushieHalf (S32)
+
+**Void (2):** Blindedgamer (S35), TicedUp (S35)
+
+**Wither Skeleton (2):** 4D_Pixel (S19), MercuryParadox (S33)
+
+**Blaze (1):** sirples (S27)
+
+**Drowning (1):** antbound (S33)
+
+**Fire (1):** Yerru (S8)
+
+**Left (1):** Kakintse (S15)
+
+**Piglin Brute (1):** Micale (S28)
+
+**Silverfish (1):** Zarky (S3)
+
+**Spider (1):** Flohp (S16)
+
+**Suffocation (1):** miles1baseball (S28)
+
+**Vex (1):** sirples (S28)
+
+**Vindicator (1):** KOKeowner (S28)
 
 ---
 ### Participation

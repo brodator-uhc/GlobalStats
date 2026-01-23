@@ -392,6 +392,43 @@
 ---
 ### PvE Deaths
 
+**Fall (9):** Lefo_ (S5), 5hup (S5), Microus (S9), OblivionTU (S10), Kelawesome (S13), cherryblawsom (S18), automavic (S19), eurasianlynx (S20), MajorWoof (S22)
+
+**Creeper (4):** PaperVinnie (S2), ShyGus (S3), YellowVitt (S21), Kelawesome (S21)
+
+**Blaze (2):** eurasianlynx (S3), flameorb (S21)
+
+**Burning (2):** _pbo (S21), Aybel (S23)
+
+**Drowning (2):** CHANGA (S20), Fra49 (S22)
+
+**Void (2):** Kaismartypants (S24), SiahStone (S24)
+
+**Arrow (1):** PaperVinnie (S3)
+
+**Bee (1):** 5kylord (S21)
+
+**Cave Spider (1):** ThePeridotKnight (S20)
+
+**Explosion (1):** buttergolem1 (S22)
+
+**Lava (1):** miles1baseball (S14)
+
+**Left (1):** lottebunny (S11)
+
+**Piglin (1):** Ozzyowo (S21)
+
+**Skeleton (1):** Pie212_123 (S21)
+
+**Suffocation (1):** YellowVitt (S13)
+
+**Vex (1):** Kaismartypants (S23)
+
+**Vindicator (1):** hazel_doe (S23)
+
+**Warden (1):** zachattack416 (S23)
+
+**Zombie (1):** NajaOxiana (S10)
 
 ---
 ### Participation

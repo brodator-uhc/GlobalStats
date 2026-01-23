@@ -174,6 +174,27 @@
 ---
 ### PvE Deaths
 
+**Fall (6):** Krimm (S1), automavic (S1), Andrew512 (S3), guugs (S5), centraleric (S6), MajorWoof (S8)
+
+**Creeper (4):** Topspinpiggles (S2), InsertDotJpeg (S3), Kaismartypants (S7), SmolHatChild (S7)
+
+**Lava (3):** EyeBlack (S3), SiahStone (S7), Broseph (S7)
+
+**Skeleton (2):** SiahStone (S3), Dj8ninja (S7)
+
+**Vex (2):** xMisha (S7), Prisma (S7)
+
+**Zombie (2):** IceshardEleven (S1), Harryb2k (S7)
+
+**Burning (1):** IceshardEleven (S4)
+
+**Ender Dragon (1):** Spongey (S6)
+
+**Silverfish (1):** Bofishkix (S7)
+
+**Suffocation (1):** centraleric (S4)
+
+**Wither Skeleton (1):** JaeHasNoMaidens (S3)
 
 ---
 ### Participation
