@@ -3,10 +3,100 @@
 ---
 ### Winners
 
+**S1: DanQ_CC (1), TheChrisD (2), Ubermarklar (0)**
+
+**S2: Ubermarklar (3)**, *MadDjinn (0)*
+
+**S3: Eag (0), MLS (0)**
+
+**S4: Ubermarklar (4)**, *Makahlua (0)*
+
+**S5: MadDjinn (3), Makahlua (0)**
+
+**S6: Eag (5), GrimVek (2)**
+
+**S7: DanQ_CC (1), Eag (3)**
+
+**S8: fuzzyfractal42 (0), Ubermarklar (1)**
+
+**S9: Eag (3)**, *CanusAlbinus (2)*
+
+**S10: Aschilon (0), fuzzyfractal42 (0), TheChrisD (1)**, *GrimVek (2)*
+
+**S11: Izmir_Stinger (1), TheChrisD (2)**
+
+**S12: Aschilon (2)**, *elKingMorgan (0)*
+
+**S13: Aschilon (1), Makahlua (0)**
+
+**S14: Eag (4), MadDjinn (2)**
+
+**S15: Aschilon (1), Davelions (1)**
+
+**S16: Aschilon (0), DanQ_CC (1)**
+
+**S17: Aschilon (3)**, *78ford (0), Makahlua (0)*
+
+**S18: TheChrisD (5)**, *78ford (1)*
+
+**S19: Davelions (0), TheChrisD (3), zosh127 (1)**
+
+**S20: Aschilon (1), Balone (3)**
+
+**S21: Gameslayer989 (2)**, *Aschilon (1)*
+
+**S22: BBR_ (2), TheChrisD (3)**
+
+**S23: TheChrisD (2), TheMeInTeam (0)**
 
 ---
 ### Runner Ups
 
+**S1:** AlphaShard (0), fuzzyfractal42 (0), GrimVek (0)
+
+**S2:** DanQ_CC (0), GrimVek (1)
+
+**S3:** CanusAlbinus (2), Makahlua (1)
+
+**S4:** CanusAlbinus (0), TheMeInTeam (0)
+
+**S5:** ekat2468 (0), TheChrisD (3)
+
+**S6:** AlphaShard (0), Ubermarklar (1)
+
+**S7:** CanusAlbinus (1), TheChrisD (0)
+
+**S8:** GrimVek (0), TheMeInTeam (1)
+
+**S9:** Aschilon (0), fuzzyfractal42 (1)
+
+**S10:** CanusAlbinus (0), Makahlua (0), MLS (1)
+
+**S11:** Aschilon (1), TheMeInTeam (1)
+
+**S12:** DanQ_CC (0)
+
+**S13:** TheChrisD (0), zosh127 (0)
+
+**S14:** AlphaShard (0), Aschilon (0)
+
+**S15:** Makahlua (0), TheMeInTeam (0)
+
+**S16:** Makahlua (0), TheChrisD (0)
+
+**S17:** elKingMorgan (0), GrimVek (1), KirbyMD (1)
+
+**S18:** Aschilon (0), KirbyMD (0)
+
+**S19:** Aschilon (1), DanQ_CC (1), KirbyMD (1)
+
+**S20:** elKingMorgan (0), TheChrisD (0)
+
+**S21:** MadDjinn (0), TheChrisD (0)
+
+**S22:** Aschilon (0)
+
+**S23:** Aschilon (0), zosh127 (0)
 
 ---
 ### Most Kills
@@ -60,6 +150,51 @@
 ---
 ### Most Kills (Team)
 
+**S1:** DanQ_CC (1), TheChrisD (2), Ubermarklar(0)
+
+**S2:** Ubermarklar (3), MadDjinn(0)
+
+**S3:** CanusAlbinus (2), Makahlua (1)
+
+**S4:** Makahlua(0), Ubermarklar (4)
+
+**S5:** GrimVek (3), MLS (1)
+
+**S6:** Eag (5), GrimVek (2)
+
+**S7:** DanQ_CC (1), Eag (3)
+
+**S8:** CanusAlbinus (4), MLS(0)
+
+**S9:** CanusAlbinus (2), Eag (3)
+
+**S10:** GrimVek (2), TheChrisD (1), Aschilon(0), fuzzyfractal42(0)
+
+**S11:** Izmir_Stinger (1), TheChrisD (2)
+
+**S12:** CanusAlbinus (2), MadDjinn (3)
+
+**S13:** Aschilon (1), Makahlua(0)
+
+**S14:** Eag (4), MadDjinn (2)
+
+**S15:** Davelions (1), Aschilon (1)
+
+**S16:** DanQ_CC (1), Aschilon(0)
+
+**S17:** 78ford(0), Aschilon (3), Makahlua(0)
+
+**S18:** 78ford (1), TheChrisD (5)
+
+**S19:** Davelions(0), TheChrisD (3), zosh127 (1)
+
+**S20:** Balone (3), Aschilon (1) & KirbyMD (2), MadDjinn (2)
+
+**S21:** Aschilon (1), Gameslayer989 (2)
+
+**S22:** BBR_ (2), TheChrisD (3)
+
+**S23:** TheChrisD (2), TheMeInTeam(0)
 
 ---
 ### First Damage

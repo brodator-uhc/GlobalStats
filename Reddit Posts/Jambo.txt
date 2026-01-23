@@ -3,10 +3,52 @@
 ---
 ### Winners
 
+**S1: _ChrisMS (0), AtomicCrossbow (1), Brodator (1), brodioh (0), CodeJoshua (1), Dj8ninja (4), pigghetti (1), SpaceFenix (0), zac083 (0)**, *123SteveBob (0), AirInAirOut (0), Guardaxion (0), natsuvi (1), noktime (0), rippersteveM5 (0), Westcraft00 (0)*
+
+**S2: ChainingVermin2 (2), pigghetti (2)**, *AirInAirOut (0), AtomicCrossbow (0), Brodator (0), ColdBac (0), Fcrm (1), natsuvi (0), noktime (1), ohh_lia (0), Sharkbob94349 (0), TehBaconBrawlerZ (0), Westcraft00 (0)*
+
+**S3: cherryblawsom (5)**
+
+**S4: cherryblawsom (2), ColdBac (0), Fcrm (4), Jahrod (1), noktime (1), pigghetti (1), SpaceFenix (0), TehBaconBrawlerZ (0), TheSlimeBrother (2)**, *123SteveBob (0), GuyGojo (0), MercuryParadox (0), natsuvi (0), Rawkeyy (0), Ullti (0), Westcraft00 (0), WinnerSkye (0)*
+
+**S5: AirInAirOut (1), Andronify (0), Bobbytheturtle (1), Brodator (1), Klobb (0), MercuryParadox (2), TehBaconBrawlerZ (1)**, *AtomicCrossbow (0), GuyGojo (1), Jahrod (0), pigghetti (1), ShootingGoats (1), SiahStone (0), Westcraft00 (0), WinnerSkye (0)*
+
+**S6: Bobbytheturtle (2), ChainingVermin2 (0), Codwhy (1), Fcrm (3), Gorgerous (0), lexicuhl (0), TheSlimeBrother (0)**, *Caydone (0), MercuryParadox (0), WinnerSkye (0)*
+
+**S7: Fcrm (5), natsuvi (3), wizarde (6)**
+
+**S8: Bobbytheturtle (2), CodeJoshua (5), Klobb (1), natsuvi (6)**, *MaxEvasion (0)*
+
+**S9: _Fost_ (0), ChainingVermin2 (4), Maxwellfifty (4), noktime (0)**, *Caydone (0), Codwhy (0), Kelawesome (0), Klobb (0), Normoh (1), ShootingGoats (0), Ullti (0), Westcraft00 (0)*
+
+**S10: Bobbytheturtle (7)**, *Codwhy (1), Maxwellfifty (0), Westcraft00 (0), wizarde (0)*
+
+**S11: _Fost_ (0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu (0), Kelawesome (3), Normoh (0)**, *Maxwellfifty (0), MercuryParadox (0), Sharkbob94349 (1), SpaceFenix (0), TheSlimeBrother (0), Westcraft00 (0), wizarde (0)*
 
 ---
 ### Runner Ups
 
+**S1:** ChainingVermin2 (3)
+
+**S2:** Bobbytheturtle (3)
+
+**S3:** ColdBac (3)
+
+**S4:** AirInAirOut (1)
+
+**S5:** brodioh (1), natsuvi (1), noktime (2)
+
+**S6:** Klobb (2), PresidentFleb (1), Ullti (0)
+
+**S7:** Bizzlebub (0), Bobbytheturtle (0), Brodator (0), Caydone (0), ChainingVermin2 (0), cherryblawsom (1), Jahrod (0), Klobb (0), LoafOZ (0), Maxwellfifty (1), Normoh (0), Sharkbob94349 (0), TehBaconBrawlerZ (0)
+
+**S8:** Sharkbob94349 (3)
+
+**S9:** Bobbytheturtle (2), Brodator (0), ColdBac (3), Guardaxion (0), MercuryParadox (0)
+
+**S10:** Brodator (0), ChainingVermin2 (0), cherryblawsom (0), Greeples (2), Kaddyn (0), Kelawesome (2), natsuvi (2), noktime (0), Normoh (1), ShootingGoats (1), SpaceFenix (0), TehBaconBrawlerZ (2), Ullti (0)
+
+**S11:** Caydone (2), ColdBac (0), Psykl0ne (0)
 
 ---
 ### Most Kills
@@ -36,6 +78,27 @@
 ---
 ### Most Kills (Team)
 
+**S1:** 123SteveBob(0), _ChrisMS(0), AirInAirOut(0), AtomicCrossbow (1), Brodator (1), brodioh(0), CodeJoshua (1), Dj8ninja (4), Guardaxion(0), natsuvi (1), noktime(0), pigghetti (1), rippersteveM5(0), SpaceFenix(0), Westcraft00(0), zac083(0)
+
+**S2:** Andronify(0), CodeJoshua(0), Kaddyn (2), lexicuhl (2), dennnz (4)
+
+**S3:** ChainingVermin2(0), dennnz (5), lexicuhl (1), natsuvi (5), noktime(0), pigghetti (3)
+
+**S4:** 123SteveBob(0), cherryblawsom (2), ColdBac(0), Fcrm (4), GuyGojo(0), Jahrod (1), MercuryParadox(0), natsuvi(0), noktime (1), pigghetti (1), Rawkeyy(0), SpaceFenix(0), TehBaconBrawlerZ(0), TheSlimeBrother (2), Ullti(0), Westcraft00(0), WinnerSkye(0)
+
+**S5:** AirInAirOut (1), Andronify(0), AtomicCrossbow(0), Bobbytheturtle (1), Brodator (1), GuyGojo (1), Jahrod(0), Klobb(0), MercuryParadox (2), pigghetti (1), ShootingGoats (1), SiahStone(0), TehBaconBrawlerZ (1), Westcraft00(0), WinnerSkye(0)
+
+**S6:** Bobbytheturtle (2), Caydone(0), Gorgerous(0), ChainingVermin2(0), Codwhy (1), Fcrm (3), lexicuhl(0), MercuryParadox(0), TheSlimeBrother(0), WinnerSkye(0)
+
+**S7:** Fcrm (5), natsuvi (3), wizarde (6)
+
+**S8:** Bobbytheturtle (2), CodeJoshua (5), Klobb (1), MaxEvasion(0), natsuvi (6)
+
+**S9:** _Fost_(0), Caydone(0), ChainingVermin2 (4), Codwhy(0), Kelawesome(0), Klobb(0), Maxwellfifty (4), noktime(0), Normoh (1), ShootingGoats(0), Ullti(0), Westcraft00(0)
+
+**S10:** Brodator(0), ChainingVermin2(0), cherryblawsom(0), Greeples (2), Kaddyn(0), Kelawesome (2), natsuvi (2), noktime(0), Normoh (1), ShootingGoats (1), SpaceFenix(0), TehBaconBrawlerZ (2), Ullti(0)
+
+**S11:** _Fost_(0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu(0), Kelawesome (3), Maxwellfifty(0), MercuryParadox(0), Normoh(0), Sharkbob94349 (1), SpaceFenix(0), TheSlimeBrother(0), Westcraft00(0), wizarde(0)
 
 ---
 ### First Damage
