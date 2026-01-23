@@ -53,6 +53,69 @@
 ---
 ### Kills
 
+**1st - _Glen (6):** XFROSTXFIREX (S2), flameh (S2), tilargo (S2), MBeaar (S2), WALRUS_TIME (S2), T0n35 (S2)
+
+**1st - 5kylord (6):** Haama_ (S4), dahii (S5), Captureee (S5), naseemXBT (S5), tescobagforlife (S5), _Cleg (S5)
+
+**1st - whoshaze (6):** jamertxn (S3), MBeaar (S3), NTBama (S4), flameh (S4), spoood (S4), Jargh0I3 (S4)
+
+**4th - _Cleg (5):** MBeaar (S1), Jargh0I3 (S1), Jorge_58 (S1), ShyGus (S5), Fra49 (S5)
+
+**4th - MBeaar (5):** XFROSTXFIREX (S1), LeonTG (S2), IsaacMT (S3), flameh (S3), underscorebaed (S3)
+
+**6th - flameh (4):** EwanMcE (S5), strategy (S5), spittoon (S5), 5kylord (S5)
+
+**6th - spittoon (4):** AnUncreativeCat (S4), BSBrent (S4), lottebunny (S5), fruitberries (S5)
+
+**8th - dahii (3):** EwanMcE (S4), WackoFlipper (S4), MajorWoof (S4)
+
+**8th - galaxychickens (3):** okthxbye (S3), typhlo0o (S3), spoood (S3)
+
+**8th - ScottPirie (3):** T0n35 (S3), poempedoempoex (S4), 5kylord (S4)
+
+**8th - spoood (3):** WALRUS_TIME (S3), whoshaze (S3), ScottPirie (S4)
+
+**8th - Swedish_ (3):** typhlo0o (S1), LukiGg (S1), _Cleg (S1)
+
+**8th - T0n35 (3):** Pandana7 (S2), hammer_fan (S2), chickyc12 (S2)
+
+**14th - Jorge_58 (2):** awesomemacD (S1), dahii (S4)
+
+**14th - PLENT (2):** Hacn35 (S5), wizarde (S5)
+
+**14th - WackoFlipper (2):** tagggz (S4), flameorb (S4)
+
+**14th - XFROSTXFIREX (2):** CaesarOctavius (S1), Eluniel (S2)
+
+**14th - xPhinehas (2):** SWEKoala (S1), _Glen (S1)
+
+**19th - Eluniel (1):** Ryboh (S2)
+
+**19th - EwanMcE (1):** Spacepod_ (S5)
+
+**19th - GetNicked (1):** Jorge_58 (S4)
+
+**19th - hammer_fan (1):** galaxychickens (S2)
+
+**19th - MajorWoof (1):** spittoon (S4)
+
+**19th - naseemXBT (1):** spoood (S5)
+
+**19th - Pandana7 (1):** Skymeagle (S2)
+
+**19th - SimplySam (1):** awesomemacD (S3)
+
+**19th - Spacepod_ (1):** MBeaar (S5)
+
+**19th - typhlo0o (1):** ScottPirie (S3)
+
+**19th - underscorebaed (1):** SimplySam (S3)
+
+**19th - vynil (1):** whoshaze (S4)
+
+**19th - WALRUS_TIME (1):** _Glen (S3)
+
+**19th - wizarde (1):** automavic (S4)
 
 ---
 ### PvE Deaths
@@ -65,14 +128,14 @@
 ---
 ### Debutants
 
-**S1 (16):** spoood, Skymeagle, LeonTG, awesomemacD, CaesarOctavius, XFROSTXFIREX, MBeaar, Jargh0I3, Jorge_58, typhlo0o, LukiGg, SWEKoala, _Glen, _Cleg, Swedish_, xPhinehas
+**S1 (16):** _Cleg, _Glen, awesomemacD, CaesarOctavius, Jargh0I3, Jorge_58, LeonTG, LukiGg, MBeaar, Skymeagle, spoood, Swedish_, SWEKoala, typhlo0o, XFROSTXFIREX, xPhinehas
 
-**S2 (11):** galaxychickens, Ryboh, ScottPirie, Pandana7, Eluniel, hammer_fan, flameh, tilargo, WALRUS_TIME, chickyc12, T0n35
+**S2 (11):** chickyc12, Eluniel, flameh, galaxychickens, hammer_fan, Pandana7, Ryboh, ScottPirie, T0n35, tilargo, WALRUS_TIME
 
-**S3 (7):** chloesad, jamertxn, SimplySam, okthxbye, IsaacMT, underscorebaed, whoshaze
+**S3 (7):** chloesad, IsaacMT, jamertxn, okthxbye, SimplySam, underscorebaed, whoshaze
 
-**S4 (20):** poempedoempoex, wibbol, AnUncreativeCat, BSBrent, Psykl0ne, NTBama, Haama_, NotMyLights, spittoon, tagggz, flameorb, EwanMcE, WackoFlipper, 5kylord, MajorWoof, dahii, automavic, GetNicked, vynil, wizarde
+**S4 (20):** 5kylord, AnUncreativeCat, automavic, BSBrent, dahii, EwanMcE, flameorb, GetNicked, Haama_, MajorWoof, NotMyLights, NTBama, poempedoempoex, Psykl0ne, spittoon, tagggz, vynil, WackoFlipper, wibbol, wizarde
 
-**S5 (11):** ShyGus, Spacepod_, Hacn35, Fra49, Captureee, naseemXBT, lottebunny, fruitberries, strategy, tescobagforlife, PLENT
+**S5 (11):** Captureee, Fra49, fruitberries, Hacn35, lottebunny, naseemXBT, PLENT, ShyGus, Spacepod_, strategy, tescobagforlife
 
 ---

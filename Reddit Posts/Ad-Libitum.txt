@@ -53,6 +53,89 @@
 ---
 ### Kills
 
+**1st - Austronomical (12):** CHAINGE (S1), Kelawesome (S2), WackoFlipper (S2), Normoh (S2), _Dieter (S3), Rohcket (S3), MajorWoof (S3), kirbey (S4), Kelawesome (S4), Emerric (S5), centraleric (S5), cherryblawsom (S5)
+
+**2nd - Phoraxe (9):** Beastaxel (S2), buttergolem1 (S2), wibbol (S5), Rohcket (S5), CHAINGE (S5), Eluniel (S5), Greeples (S5), 5kylord (S5), Austronomical (S5)
+
+**3rd - cherryblawsom (8):** Austronomical (S2), wizarde (S2), automavic (S2), 4EyedSlime (S3), wizarde (S3), Beastaxel (S5), SmolHatChild (S5), ColdBac (S5)
+
+**4th - Normoh (6):** Jahrod (S2), hazel_doe (S2), QuilJ1 (S2), Broseph (S3), strategy (S3), kirbey (S3)
+
+**4th - ohh_lia (6):** Brodator (S1), wizarde (S1), MaxEvasion (S3), Brodator (S4), xDiversity (S4), Greeples (S4)
+
+**4th - strategy (6):** SiahStone (S1), Ryfri (S1), ScottPirie (S2), MaxEvasion (S2), Charrlottie (S2), MajorWoof (S2)
+
+**7th - 5kylord (5):** Kubaslov (S1), ColdBac (S1), Phoraxe (S1), natsuvi (S1), ohh_lia (S1)
+
+**7th - Beastaxel (5):** strategy (S2), Psykl0ne (S3), buttergolem1 (S3), flameorb (S3), Charrlottie (S5)
+
+**7th - Kaismartypants (5):** CHAINGE (S3), Ryfri (S4), Austronomical (S4), ohh_lia (S4), Kubaslov (S4)
+
+**10th - buttergolem1 (4):** Rohcket (S2), ToucanTom (S3), Keelando (S3), Eluniel (S4)
+
+**10th - Greeples (4):** chloesad (S4), _Fost_ (S4), Smeshi (S5), azoof (S5)
+
+**10th - marcusmtm (4):** Austronomical (S3), xDiversity (S3), Brodator (S3), Bofishkix (S3)
+
+**10th - ShyGus (4):** aalaan (S1), Austronomical (S1), Arich (S1), DevoyTTV (S1)
+
+**14th - flameorb (3):** Spacepod_ (S1), Psykl0ne (S1), Charrlottie (S3)
+
+**14th - Kelawesome (3):** awesomemacD (S3), Eluniel (S3), Potsie (S4)
+
+**16th - Brodator (2):** olivieh (S3), Jrose (S4)
+
+**16th - centraleric (2):** Keelando (S5), buttergolem1 (S5)
+
+**16th - CHAINGE (2):** SiahStone (S3), Normoh (S3)
+
+**16th - CHANGA (2):** aalaan (S5), Ryfri (S5)
+
+**16th - ColdBac (2):** strategy (S1), strategy (S5)
+
+**16th - Emerric (2):** MaxEvasion (S5), hazel_doe (S5)
+
+**16th - ItsColinn (2):** ohh_lia (S3), Jrose (S3)
+
+**16th - kirbey (2):** Beastaxel (S3), flameorb (S4)
+
+**16th - Kubaslov (2):** flameorb (S1), buttergolem1 (S4)
+
+**16th - Spacepod_ (2):** tagggz (S1), fruitberries (S1)
+
+**16th - WackoFlipper (2):** nFang (S2), chloesad (S5)
+
+**27th - 4EyedSlime (1):** chloesad (S3)
+
+**27th - automavic (1):** Potsie (S2)
+
+**27th - azoof (1):** CHANGA (S5)
+
+**27th - Bofishkix (1):** marcusmtm (S3)
+
+**27th - Fra49 (1):** Kaismartypants (S3)
+
+**27th - Keelando (1):** Kelawesome (S3)
+
+**27th - MajorWoof (1):** Jrose (S1)
+
+**27th - MaxEvasion (1):** wizarde (S4)
+
+**27th - natsuvi (1):** ShyGus (S1)
+
+**27th - Potsie (1):** MaxEvasion (S4)
+
+**27th - ScottPirie (1):** flameorb (S2)
+
+**27th - SiahStone (1):** Fra49 (S2)
+
+**27th - Smeshi (1):** Gorgerous (S5)
+
+**27th - tagggz (1):** MajorWoof (S1)
+
+**27th - wizarde (1):** SiahStone (S2)
+
+**27th - xDiversity (1):** ItsColinn (S3)
 
 ---
 ### PvE Deaths
@@ -65,14 +148,14 @@
 ---
 ### Debutants
 
-**S1 (26):** Kelawesome, DianaB, Brodator, wizarde, SiahStone, Jrose, Ryfri, strategy, MajorWoof, CHAINGE, aalaan, Austronomical, tagggz, Arich, DevoyTTV, fruitberries, Spacepod_, Psykl0ne, ShyGus, flameorb, Kubaslov, ColdBac, Phoraxe, natsuvi, ohh_lia, 5kylord
+**S1 (26):** 5kylord, aalaan, Arich, Austronomical, Brodator, CHAINGE, ColdBac, DevoyTTV, DianaB, flameorb, fruitberries, Jrose, Kelawesome, Kubaslov, MajorWoof, natsuvi, ohh_lia, Phoraxe, Psykl0ne, Ryfri, ShyGus, SiahStone, Spacepod_, strategy, tagggz, wizarde
 
-**S2 (16):** ScottPirie, Rohcket, MaxEvasion, Jahrod, Potsie, Charrlottie, nFang, WackoFlipper, Fra49, hazel_doe, QuilJ1, Beastaxel, Normoh, buttergolem1, automavic, cherryblawsom
+**S2 (16):** automavic, Beastaxel, buttergolem1, Charrlottie, cherryblawsom, Fra49, hazel_doe, Jahrod, MaxEvasion, nFang, Normoh, Potsie, QuilJ1, Rohcket, ScottPirie, WackoFlipper
 
-**S3 (16):** _Dieter, olivieh, awesomemacD, Eluniel, ItsColinn, xDiversity, chloesad, Bofishkix, marcusmtm, ToucanTom, Keelando, Broseph, 4EyedSlime, kirbey, Kaismartypants, 78ford
+**S3 (16):** _Dieter, 4EyedSlime, 78ford, awesomemacD, Bofishkix, Broseph, chloesad, Eluniel, ItsColinn, Kaismartypants, Keelando, kirbey, marcusmtm, olivieh, ToucanTom, xDiversity
 
 **S4 (2):** _Fost_, Greeples
 
-**S5 (8):** Gorgerous, CHANGA, wibbol, SmolHatChild, Emerric, centraleric, Smeshi, azoof
+**S5 (8):** azoof, centraleric, CHANGA, Emerric, Gorgerous, Smeshi, SmolHatChild, wibbol
 
 ---

@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - ColdBac (5):** Randehh (S1), _Dieter (S1), lasdarling (S1), Jahrod (S1), Ullti (S1)
+
+**2nd - NickPlaysGames15 (3):** pigghetti (S1), Potsie (S1), Fra49 (S1)
+
+**3rd - Brodator (2):** ColdBac (S1), Jordtim (S1)
+
+**3rd - Potsie (2):** Gorgerous (S1), silent_spriicket (S1)
+
+**5th - Jordtim (1):** Klickacat (S1)
+
+**5th - lasdarling (1):** _Fost_ (S1)
+
+**5th - Randehh (1):** NickPlaysGames15 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (17):** kirbey, Gorgerous, pigghetti, silent_spriicket, Potsie, Fra49, NickPlaysGames15, Randehh, _Fost_, _Dieter, lasdarling, Jahrod, Ullti, Klickacat, ColdBac, Jordtim, Brodator
+**S1 (17):** _Dieter, _Fost_, Brodator, ColdBac, Fra49, Gorgerous, Jahrod, Jordtim, kirbey, Klickacat, lasdarling, NickPlaysGames15, pigghetti, Potsie, Randehh, silent_spriicket, Ullti
 
 ---

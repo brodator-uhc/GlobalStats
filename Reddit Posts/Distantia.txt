@@ -53,6 +53,75 @@
 ---
 ### Kills
 
+**1st - Edviin_ (6):** brodioh (S3), jamietheelite (S3), CedGhoss (S3), Bergasms (S3), CopperWalrus (S3), TommySuX (S3)
+
+**2nd - 5hup (5):** AvaCos (S5), oworca (S5), brodioh (S5), Apex_Twinkie (S5), Chasmic (S5)
+
+**2nd - jamietheelite (5):** ShutUpBrick (S1), FDeath (S2), ShutUpBrick (S2), lsperlo (S4), neonpoop (S4)
+
+**4th - AvaCos (4):** Kidfo (S3), Cryptic (S3), LordLaelaps (S4), Cryptic (S4)
+
+**4th - bigfoot_ (4):** Zydoxe (S2), BJPlays (S2), lsperlo (S2), Fairyjuice (S2)
+
+**4th - Kidfo (4):** Thebestcandy (S2), Gillieeeee (S2), Micale (S2), Flohp (S3)
+
+**4th - LinkOcarinaTime (4):** iLifting (S1), BlazeThePolymath (S1), BreakSalad (S1), BJPlays (S1)
+
+**4th - neonpoop (4):** AvaCos (S3), rippersteveM5 (S3), MadSainter (S4), Fairyjuice (S5)
+
+**4th - ShutUpBrick (4):** bigfoot_ (S1), neonpoop (S1), rippersteveM5 (S2), Kiinako_ (S2)
+
+**4th - SmooveManeuver (4):** bjr201111 (S5), Phoebe (S5), DjTalica (S5), ColdBac (S5)
+
+**11th - Bergasms (3):** MrPolzerino (S2), Kiinako_ (S3), Kampel125 (S3)
+
+**11th - ColdBac (3):** BreakSalad (S5), 5hup (S5), neonpoop (S5)
+
+**11th - Learning (3):** Fairyjuice (S1), Bergasms (S1), jamietheelite (S1)
+
+**11th - Micale (3):** jamietheelite (S2), jamietheelite (S4), CedGhoss (S4)
+
+**11th - oworca (3):** Gillieeeee (S3), TheSonicJoey (S3), 5hup (S4)
+
+**11th - upriserryker (3):** PhenomCloud (S5), jamietheelite (S5), Bergasms (S5)
+
+**17th - CedGhoss (2):** MrCraftinator (S3), Chasmic (S4)
+
+**17th - Gillieeeee (2):** Mathyy (S3), 5hup (S3)
+
+**17th - Kurtit (2):** sorlite (S1), TheSonicJoey (S1)
+
+**17th - Phoebe (2):** rippersteveM5 (S5), VeniiiD (S5)
+
+**17th - TommySuX (2):** QuilJ1 (S3), neonpoop (S3)
+
+**22nd - Apex_Twinkie (1):** Fukano (S5)
+
+**22nd - BJPlays (1):** sorlite (S2)
+
+**22nd - BlazeThePolymath (1):** nolyd (S1)
+
+**22nd - brodioh (1):** upriserryker (S5)
+
+**22nd - Chasmic (1):** Tanceo (S5)
+
+**22nd - Cryptic (1):** rippersteveM5 (S4)
+
+**22nd - Fairyjuice (1):** oworca (S1)
+
+**22nd - LordLaelaps (1):** Edviin_ (S3)
+
+**22nd - lsperlo (1):** MadSainter (S2)
+
+**22nd - MadSainter (1):** slowpr0 (S4)
+
+**22nd - slowpr0 (1):** Jinko42 (S4)
+
+**22nd - TheSonicJoey (1):** yjite (S1)
+
+**22nd - VeniiiD (1):** CedGhoss (S5)
+
+**22nd - yjite (1):** Kaleeka (S1)
 
 ---
 ### PvE Deaths
@@ -65,14 +134,14 @@
 ---
 ### Debutants
 
-**S1 (20):** Thebestcandy, nolyd, oworca, Kaleeka, sorlite, yjite, TheSonicJoey, iLifting, BlazeThePolymath, bigfoot_, neonpoop, BreakSalad, ShutUpBrick, Fairyjuice, Bergasms, Kurtit, BJPlays, jamietheelite, Learning, LinkOcarinaTime
+**S1 (20):** Bergasms, bigfoot_, BJPlays, BlazeThePolymath, BreakSalad, Fairyjuice, iLifting, jamietheelite, Kaleeka, Kurtit, Learning, LinkOcarinaTime, neonpoop, nolyd, oworca, ShutUpBrick, sorlite, Thebestcandy, TheSonicJoey, yjite
 
-**S2 (11):** FDeath, rippersteveM5, Kiinako_, Gillieeeee, Zydoxe, MrPolzerino, MadSainter, lsperlo, Micale, TicedUp, Kidfo
+**S2 (11):** FDeath, Gillieeeee, Kidfo, Kiinako_, lsperlo, MadSainter, Micale, MrPolzerino, rippersteveM5, TicedUp, Zydoxe
 
-**S3 (15):** QuilJ1, Kampel125, MrCraftinator, brodioh, Mathyy, CedGhoss, Flohp, Cryptic, 5hup, CopperWalrus, AvaCos, TommySuX, Edviin_, Chasmic, LordLaelaps
+**S3 (15):** 5hup, AvaCos, brodioh, CedGhoss, Chasmic, CopperWalrus, Cryptic, Edviin_, Flohp, Kampel125, LordLaelaps, Mathyy, MrCraftinator, QuilJ1, TommySuX
 
-**S4 (3):** Jinko42, slowpr0, BushieHalf
+**S4 (3):** BushieHalf, Jinko42, slowpr0
 
-**S5 (12):** LeonTG, PhenomCloud, Fukano, Tanceo, upriserryker, VeniiiD, bjr201111, Phoebe, Apex_Twinkie, DjTalica, ColdBac, SmooveManeuver
+**S5 (12):** Apex_Twinkie, bjr201111, ColdBac, DjTalica, Fukano, LeonTG, PhenomCloud, Phoebe, SmooveManeuver, Tanceo, upriserryker, VeniiiD
 
 ---

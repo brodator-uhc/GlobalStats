@@ -49,6 +49,89 @@
 ---
 ### Kills
 
+**1st - benidk (9):** ohh_lia (S2), Spacepod_ (S2), Dyoza (S2), Jordtim (S3), Charrlottie (S3), Normoh (S3), Bobbytheturtle (S3), 123SteveBob (S4), ColdBac (S4)
+
+**2nd - SpaceFenix (7):** Drkrai (S1), Gorgerous (S1), Livin423 (S1), Captinn (S2), Gorgerous (S2), Pie212_123 (S2), BardMain2 (S2)
+
+**3rd - DJoee (6):** lilygant (S4), MajorWoof (S4), automavic (S4), Biwitch (S4), Dyoza (S4), Cloversss (S4)
+
+**3rd - nsket (6):** Kaddyn (S2), Charrlottie (S4), Bobbytheturtle (S4), benidk (S4), Normoh (S4), cherryblawsom (S4)
+
+**5th - natsuvi (5):** wizarde (S1), FrostBros (S1), Bradzi (S3), ArcticSeagull (S3), azoof (S3)
+
+**6th - Caydone (4):** natsuvi (S3), lexicuhl (S3), BardMain2 (S3), wizarde (S3)
+
+**6th - ItsShqky (4):** Jordtim (S1), ohh_lia (S1), vynil (S2), kawaiibunri (S4)
+
+**8th - Aybel (3):** Dyoza (S3), WackoFlipper (S3), strategy (S4)
+
+**8th - BardMain2 (3):** Eluniel (S2), benidk (S2), AHSOKATANOSTAN (S3)
+
+**8th - Bobbytheturtle (3):** natsuvi (S2), FrostBros (S2), alexnv (S3)
+
+**8th - cherryblawsom (3):** DarrenBGP (S4), omchris (S4), TehBaconBrawlerZ (S4)
+
+**8th - Coward (3):** Bradzi (S2), Bobbytheturtle (S2), wizarde (S2)
+
+**8th - Dyoza (3):** automavic (S1), CodeJoshua (S1), natsuvi (S1)
+
+**8th - FrostBros (3):** SpaceFenix (S1), Karliffu (S1), Eluniel (S1)
+
+**8th - MaxEvasion (3):** DungusFluffy (S2), 123SteveBob (S2), ColdBac (S3)
+
+**8th - omchris (3):** Randehh (S2), 4EyedSlime (S2), ColdBac (S2)
+
+**8th - wizarde (3):** IyaIsMad (S2), omchris (S2), benidk (S3)
+
+**18th - alexnv (2):** Spongey (S3), Kaddyn (S3)
+
+**18th - azoof (2):** MajorWoof (S3), Davidsid (S3)
+
+**18th - CodeJoshua (2):** SpyroJ (S1), ItsShqky (S1)
+
+**18th - Eluniel (2):** Randehh (S1), Glarza (S2)
+
+**18th - Glarza (2):** SpyroJ (S2), ohh_lia (S3)
+
+**18th - Kaddyn (2):** nsket (S2), CodeJoshua (S3)
+
+**18th - lexicuhl (2):** MaxEvasion (S3), omchris (S3)
+
+**18th - MajorWoof (2):** IyaIsMad (S3), Aybel (S4)
+
+**18th - Spongey (2):** wizarde (S4), ItsShqky (S4)
+
+**18th - TehBaconBrawlerZ (2):** Davidsid (S4), natsuvi (S4)
+
+**28th - 4EyedSlime (1):** CodeJoshua (S2)
+
+**28th - AHSOKATANOSTAN (1):** Aybel (S3)
+
+**28th - Biwitch (1):** ItsShqky (S3)
+
+**28th - Cloversss (1):** Spongey (S4)
+
+**28th - ColdBac (1):** ItsShqky (S2)
+
+**28th - Greeples (1):** ShyGus (S1)
+
+**28th - Karliffu (1):** benidk (S1)
+
+**28th - Livin423 (1):** Greeples (S1)
+
+**28th - Normoh (1):** Biwitch (S3)
+
+**28th - ohh_lia (1):** Glarza (S3)
+
+**28th - Pie212_123 (1):** Jordtim (S2)
+
+**28th - Randehh (1):** Charrlottie (S1)
+
+**28th - Spacepod_ (1):** MaxEvasion (S2)
+
+**28th - strategy (1):** Karliffu (S4)
+
+**28th - WackoFlipper (1):** DogOfKrondor (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +144,12 @@
 ---
 ### Debutants
 
-**S1 (24):** IyaIsMad, DevoyTTV, ToontownOnline, ShyGus, Drkrai, Greeples, Charrlottie, Gorgerous, Jordtim, Livin423, SpaceFenix, automavic, benidk, SpyroJ, ohh_lia, ItsShqky, CodeJoshua, Karliffu, Randehh, wizarde, Eluniel, FrostBros, natsuvi, Dyoza
+**S1 (24):** automavic, benidk, Charrlottie, CodeJoshua, DevoyTTV, Drkrai, Dyoza, Eluniel, FrostBros, Gorgerous, Greeples, ItsShqky, IyaIsMad, Jordtim, Karliffu, Livin423, natsuvi, ohh_lia, Randehh, ShyGus, SpaceFenix, SpyroJ, ToontownOnline, wizarde
 
-**S2 (17):** Bradzi, nsket, Kaddyn, Captinn, DungusFluffy, 123SteveBob, MaxEvasion, Spacepod_, 4EyedSlime, vynil, ColdBac, omchris, Glarza, Pie212_123, Bobbytheturtle, BardMain2, Coward
+**S2 (17):** 123SteveBob, 4EyedSlime, BardMain2, Bobbytheturtle, Bradzi, Captinn, ColdBac, Coward, DungusFluffy, Glarza, Kaddyn, MaxEvasion, nsket, omchris, Pie212_123, Spacepod_, vynil
 
-**S3 (14):** MajorWoof, Davidsid, DogOfKrondor, WackoFlipper, ArcticSeagull, azoof, Aybel, Biwitch, Spongey, lexicuhl, alexnv, AHSOKATANOSTAN, Normoh, Caydone
+**S3 (14):** AHSOKATANOSTAN, alexnv, ArcticSeagull, Aybel, azoof, Biwitch, Caydone, Davidsid, DogOfKrondor, lexicuhl, MajorWoof, Normoh, Spongey, WackoFlipper
 
-**S4 (8):** lilygant, strategy, kawaiibunri, DarrenBGP, Cloversss, TehBaconBrawlerZ, cherryblawsom, DJoee
+**S4 (8):** cherryblawsom, Cloversss, DarrenBGP, DJoee, kawaiibunri, lilygant, strategy, TehBaconBrawlerZ
 
 ---

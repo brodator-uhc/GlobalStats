@@ -49,6 +49,59 @@
 ---
 ### Kills
 
+**1st - MajorWoof (8):** SWEKoala (S1), GRLH (S1), crazy_monkey7531 (S1), RwDragon (S1), LeonTG (S3), RwDragon (S3), FazedMC (S3), TheRealHagrid (S3)
+
+**1st - spoood (8):** HoneyFromHell (S1), CrazyCallum (S1), flameh (S1), 016Nojr (S1), FSP_Ninja (S1), crazy_monkey7531 (S2), xXMaximusMC (S2), spoocS_ (S2)
+
+**3rd - crazy_monkey7531 (7):** LimitDTW (S1), spoood (S1), Boscheh (S3), GRLH (S3), BlewXwReid (S3), _Glen (S3), 016Nojr (S3)
+
+**3rd - flameh (7):** Davidsid (S1), TheRealHagrid (S2), M3T4L_Y3J (S2), GRLH (S2), Xert12 (S2), NetherrRush (S2), CallumPace (S2)
+
+**5th - FazedMC (4):** ConBeanJones (S3), Infiniti_x (S4), Odennn (S4), CrazyCallum (S4)
+
+**6th - _mrcool (3):** pierce981 (S4), Davidsid (S4), Spongey (S4)
+
+**6th - 016Nojr (3):** HoneyFromHell (S2), pupperfish (S3), CrazyCallum (S3)
+
+**6th - ConBeanJones (3):** MajorWoof (S2), Abdalain (S2), spoocS_ (S4)
+
+**9th - _Glen (2):** _itslennard14 (S3), CallumPace (S3)
+
+**9th - BlewXwReid (2):** FSP_Ninja (S3), HoneyFromHell (S3)
+
+**9th - HoneyFromHell (2):** ConBeanJones (S2), Skymeagle (S3)
+
+**9th - Odennn (2):** WolfCastGaming (S4), jamertxn (S4)
+
+**9th - oDogLFC (2):** Abdalain (S1), Boscheh (S1)
+
+**9th - SWEKoala (2):** FearlessRedHawk (S2), DingaPRO99 (S2)
+
+**9th - Xert12 (2):** PolarBunk (S2), _Glen (S2)
+
+**16th - FSP_Ninja (1):** oDogLFC (S1)
+
+**16th - GRLH (1):** 016Nojr (S2)
+
+**16th - LimitDTW (1):** Incipiens (S1)
+
+**16th - M3T4L_Y3J (1):** Boscheh (S2)
+
+**16th - pierce981 (1):** Dj8ninja (S4)
+
+**16th - QuilJ1 (1):** Chipzzy (S4)
+
+**16th - Reeppm (1):** _mrcool (S4)
+
+**16th - RwDragon (1):** SRGamingLucas (S1)
+
+**16th - Spongey (1):** taperturtle (S4)
+
+**16th - spoocS_ (1):** QuilJ1 (S4)
+
+**16th - taperturtle (1):** LordLaelaps (S4)
+
+**16th - TheRealHagrid (1):** NajaOxiana (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +114,12 @@
 ---
 ### Debutants
 
-**S1 (20):** HoneyFromHell, Abdalain, Incipiens, Davidsid, CrazyCallum, Boscheh, LimitDTW, flameh, SWEKoala, GRLH, xXMaximusMC, 016Nojr, oDogLFC, FSP_Ninja, spoood, SRGamingLucas, crazy_monkey7531, RwDragon, Eluniel, MajorWoof
+**S1 (20):** 016Nojr, Abdalain, Boscheh, crazy_monkey7531, CrazyCallum, Davidsid, Eluniel, flameh, FSP_Ninja, GRLH, HoneyFromHell, Incipiens, LimitDTW, MajorWoof, oDogLFC, RwDragon, spoood, SRGamingLucas, SWEKoala, xXMaximusMC
 
-**S2 (12):** WaffleBee, PolarBunk, _Glen, ConBeanJones, TheRealHagrid, M3T4L_Y3J, FearlessRedHawk, Xert12, spoocS_, NetherrRush, CallumPace, DingaPRO99
+**S2 (12):** _Glen, CallumPace, ConBeanJones, DingaPRO99, FearlessRedHawk, M3T4L_Y3J, NetherrRush, PolarBunk, spoocS_, TheRealHagrid, WaffleBee, Xert12
 
-**S3 (9):** LiveScream, _itslennard14, NajaOxiana, LeonTG, Skymeagle, pupperfish, xRyan98, FazedMC, BlewXwReid
+**S3 (9):** _itslennard14, BlewXwReid, FazedMC, LeonTG, LiveScream, NajaOxiana, pupperfish, Skymeagle, xRyan98
 
-**S4 (15):** IsaacMT, Chipzzy, LordLaelaps, QuilJ1, taperturtle, Dj8ninja, pierce981, Spongey, WolfCastGaming, Infiniti_x, Odennn, jamertxn, _mrcool, CakeBrick, Reeppm
+**S4 (15):** _mrcool, CakeBrick, Chipzzy, Dj8ninja, Infiniti_x, IsaacMT, jamertxn, LordLaelaps, Odennn, pierce981, QuilJ1, Reeppm, Spongey, taperturtle, WolfCastGaming
 
 ---

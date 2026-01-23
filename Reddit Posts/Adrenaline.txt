@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - PaperVinnie (3):** SimplyCantBuild (S2), Daukk (S2), xMisha (S2)
+
+**1st - Salsarico (3):** jrules101 (S1), Norox_ (S1), Mordon (S2)
+
+**3rd - a1oove (2):** zZekkenN (S2), SD_UHC (S2)
+
+**3rd - Groom__ (2):** iEnderz (S1), Kryonate (S1)
+
+**3rd - rhioker (2):** zMoTo (S1), Daukk (S1)
+
+**3rd - TheKevGuy (2):** ScottPirie (S2), Salsarico (S2)
+
+**3rd - xenon__54 (2):** numdegased (S1), Groom__ (S1)
+
+**8th - 6dayna6 (1):** rhioker (S2)
+
+**8th - Archer_ (1):** Livin423 (S1)
+
+**8th - Daukk (1):** Salsarico (S1)
+
+**8th - DECTHEELITE (1):** Archer_ (S1)
+
+**8th - iEnderz (1):** rhioker (S1)
+
+**8th - swishduck (1):** a1oove (S2)
+
+**8th - xMisha (1):** swishduck (S2)
+
+**8th - zMoTo (1):** DECTHEELITE (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (15):** Chief_Paco, Livin423, Archer_, DECTHEELITE, numdegased, jrules101, Norox_, Salsarico, zMoTo, Daukk, rhioker, iEnderz, Kryonate, Groom__, xenon__54
+**S1 (15):** Archer_, Chief_Paco, Daukk, DECTHEELITE, Groom__, iEnderz, jrules101, Kryonate, Livin423, Norox_, numdegased, rhioker, Salsarico, xenon__54, zMoTo
 
-**S2 (12):** Supah_Matt, zZekkenN, Mordon, SD_UHC, a1oove, SimplyCantBuild, swishduck, ScottPirie, xMisha, 6dayna6, PaperVinnie, TheKevGuy
+**S2 (12):** 6dayna6, a1oove, Mordon, PaperVinnie, ScottPirie, SD_UHC, SimplyCantBuild, Supah_Matt, swishduck, TheKevGuy, xMisha, zZekkenN
 
 ---

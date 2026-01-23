@@ -37,6 +37,35 @@
 ---
 ### Kills
 
+**1st - Cloversss (7):** BoltsInCharge (S1), Kelawesome (S1), nsket (S1), GrassPiece (S1), Shu_MCSG (S1), skyzfy (S1), SAYNAR (S1)
+
+**2nd - SAYNAR (4):** QuilJ1 (S1), Bobbytheturtle (S1), DevoyTTV (S1), SOAKLE (S1)
+
+**3rd - Kaismartypants (3):** MercuryParadox (S1), bayweafs (S1), Glarza (S1)
+
+**4th - bayweafs (2):** Stravilight (S1), kirbey (S1)
+
+**4th - benidk (2):** 4EyedSlime (S1), natsuvi (S1)
+
+**4th - Bobbytheturtle (2):** Kaddyn (S1), SiahStone (S1)
+
+**4th - ChainingVermin2 (2):** TalonBX (S1), HalfLechuga (S1)
+
+**4th - GrassPiece (2):** kawaiibunri (S1), benidk (S1)
+
+**9th - DevoyTTV (1):** Kaismartypants (S1)
+
+**9th - Glarza (1):** ChainingVermin2 (S1)
+
+**9th - Kaddyn (1):** ItsColinn (S1)
+
+**9th - ohh_lia (1):** Evzenitable (S1)
+
+**9th - SiahStone (1):** Greeples (S1)
+
+**9th - skyzfy (1):** brinkwhy (S1)
+
+**9th - SOAKLE (1):** ohh_lia (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +78,6 @@
 ---
 ### Debutants
 
-**S1 (33):** Evzenitable, BoltsInCharge, TalonBX, ItsColinn, Kaddyn, HalfLechuga, MercuryParadox, kawaiibunri, QuilJ1, Kelawesome, 4EyedSlime, Stravilight, ChainingVermin2, Greeples, natsuvi, kirbey, nsket, benidk, ohh_lia, bayweafs, brinkwhy, SiahStone, GrassPiece, Glarza, Kaismartypants, omchris, Bobbytheturtle, Shu_MCSG, DevoyTTV, skyzfy, SOAKLE, SAYNAR, Cloversss
+**S1 (33):** 4EyedSlime, bayweafs, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, ChainingVermin2, Cloversss, DevoyTTV, Evzenitable, Glarza, GrassPiece, Greeples, HalfLechuga, ItsColinn, Kaddyn, Kaismartypants, kawaiibunri, Kelawesome, kirbey, MercuryParadox, natsuvi, nsket, ohh_lia, omchris, QuilJ1, SAYNAR, Shu_MCSG, SiahStone, skyzfy, SOAKLE, Stravilight, TalonBX
 
 ---

@@ -37,6 +37,33 @@
 ---
 ### Kills
 
+**1st - DJoee (6):** Glarza (S1), hazel_doe (S1), Livin423 (S1), DevoyTTV (S1), _pbo (S1), lexicuhl (S1)
+
+**1st - Lighte (6):** tagggz (S1), MercuryParadox (S1), Awticon (S1), Broseph (S1), Applepie78 (S1), benidk (S1)
+
+**3rd - Awticon (3):** dw0w (S1), Kaismartypants (S1), jommyappleseed (S1)
+
+**3rd - benidk (3):** PresidentFleb (S1), Normoh (S1), natsuvi (S1)
+
+**5th - Applepie78 (1):** TheSlimeBrother (S1)
+
+**5th - Bobbytheturtle (1):** flameorb (S1)
+
+**5th - DevoyTTV (1):** Fcrm (S1)
+
+**5th - Fazz2 (1):** Bobbytheturtle (S1)
+
+**5th - Glarza (1):** Fazz2 (S1)
+
+**5th - hazel_doe (1):** SpyroJ (S1)
+
+**5th - MercuryParadox (1):** DJoee (S1)
+
+**5th - natsuvi (1):** ColdBac (S1)
+
+**5th - PresidentFleb (1):** Randehh (S1)
+
+**5th - tagggz (1):** Eluniel (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +76,6 @@
 ---
 ### Debutants
 
-**S1 (30):** Fcrm, dw0w, SpyroJ, BardMain2, Randehh, Kaismartypants, flameorb, Bobbytheturtle, jommyappleseed, Fazz2, Glarza, hazel_doe, Livin423, DevoyTTV, PresidentFleb, Eluniel, _pbo, Normoh, ColdBac, TheSlimeBrother, lexicuhl, tagggz, DJoee, MercuryParadox, Awticon, natsuvi, Broseph, Applepie78, benidk, Lighte
+**S1 (30):** _pbo, Applepie78, Awticon, BardMain2, benidk, Bobbytheturtle, Broseph, ColdBac, DevoyTTV, DJoee, dw0w, Eluniel, Fazz2, Fcrm, flameorb, Glarza, hazel_doe, jommyappleseed, Kaismartypants, lexicuhl, Lighte, Livin423, MercuryParadox, natsuvi, Normoh, PresidentFleb, Randehh, SpyroJ, tagggz, TheSlimeBrother
 
 ---

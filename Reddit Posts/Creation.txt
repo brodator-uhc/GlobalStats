@@ -49,6 +49,59 @@
 ---
 ### Kills
 
+**1st - xMisha (12):** FrostBros (S2), _itslennard14 (S2), Plushy33 (S2), zac083 (S3), SiahStone (S3), Dj8ninja (S4), ElGavinoSupremo (S4), WackoFlipper (S4), rippersteveM5 (S4), brinkwhy (S4), 5idekick (S4), Jayzize (S4)
+
+**2nd - brinkwhy (10):** ElGavinoSupremo (S1), Thermql (S2), _mrcool (S2), 4EyedSlime (S2), QuilJ1 (S2), SiahStone (S2), Dj8ninja (S3), xMisha (S3), Bradzi (S4), Jordtim (S4)
+
+**2nd - Jorgeeay (10):** Abdalain (S1), Bofishkix (S1), Davidsid (S1), InsertDotJpeg (S1), Espik (S2), Davidsid (S2), Digdude (S2), ScottPirie (S2), ElGavinoSupremo (S3), Bradzi (S3)
+
+**4th - FrostBros (5):** ghostblurr (S1), SmolHatChild (S1), QuilJ1 (S1), Digdude (S1), ArcticSeagull (S3)
+
+**4th - Prisma (5):** Brodator (S3), SmolHatChild (S3), MaxEvasion (S3), wizarde (S3), ghostblurr (S3)
+
+**6th - MaxEvasion (4):** JoshC2 (S4), 4EyedSlime (S4), Ryfri (S4), ghostblurr (S4)
+
+**6th - Potsie (4):** Espik (S3), Bofishkix (S3), Plushy33 (S3), Jorgeeay (S3)
+
+**8th - Ryfri (3):** InsertDotJpeg (S4), Digdude (S4), zac083 (S4)
+
+**8th - wizarde (3):** InsertDotJpeg (S3), JoshC2 (S3), FrostBros (S3)
+
+**10th - _mrcool (2):** TheRealHagrid (S2), ghostblurr (S2)
+
+**10th - Abdalain (2):** SummerBqsh (S2), ElGavinoSupremo (S2)
+
+**10th - Digdude (2):** jommyappleseed (S1), TheRealHagrid (S3)
+
+**10th - ghostblurr (2):** Digdude (S3), xMisha (S4)
+
+**10th - SummerBqsh (2):** Potsie (S3), Prisma (S3)
+
+**15th - 4EyedSlime (1):** xMisha (S2)
+
+**15th - 5idekick (1):** SiahStone (S4)
+
+**15th - Brodator (1):** Abdalain (S2)
+
+**15th - Davidsid (1):** Dj8ninja (S1)
+
+**15th - Espik (1):** Bofishkix (S2)
+
+**15th - Paxtona (1):** FieryFate (S4)
+
+**15th - QuilJ1 (1):** Bradzi (S1)
+
+**15th - rippersteveM5 (1):** 78ford (S4)
+
+**15th - ScottPirie (1):** JamestheDouglas (S2)
+
+**15th - SiahStone (1):** Brodator (S2)
+
+**15th - TheRealHagrid (1):** Mincrooft (S2)
+
+**15th - WackoFlipper (1):** Paxtona (S4)
+
+**15th - zac083 (1):** ThwipThwip (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +114,12 @@
 ---
 ### Debutants
 
-**S1 (16):** TorinFBF, Bradzi, ghostblurr, Dj8ninja, jommyappleseed, Abdalain, Bofishkix, ElGavinoSupremo, Davidsid, InsertDotJpeg, brinkwhy, SmolHatChild, QuilJ1, Digdude, FrostBros, Jorgeeay
+**S1 (16):** Abdalain, Bofishkix, Bradzi, brinkwhy, Davidsid, Digdude, Dj8ninja, ElGavinoSupremo, FrostBros, ghostblurr, InsertDotJpeg, jommyappleseed, Jorgeeay, QuilJ1, SmolHatChild, TorinFBF
 
-**S2 (14):** _itslennard14, JamestheDouglas, SummerBqsh, Mincrooft, TheRealHagrid, Espik, Thermql, _mrcool, Brodator, ScottPirie, Plushy33, xMisha, 4EyedSlime, SiahStone
+**S2 (14):** _itslennard14, _mrcool, 4EyedSlime, Brodator, Espik, JamestheDouglas, Mincrooft, Plushy33, ScottPirie, SiahStone, SummerBqsh, TheRealHagrid, Thermql, xMisha
 
-**S3 (8):** ArcticSeagull, JoshC2, MaxEvasion, wizarde, ThwipThwip, zac083, Potsie, Prisma
+**S3 (8):** ArcticSeagull, JoshC2, MaxEvasion, Potsie, Prisma, ThwipThwip, wizarde, zac083
 
-**S4 (10):** FieryFate, Paxtona, Jordtim, Topspinpiggles, WackoFlipper, 78ford, rippersteveM5, 5idekick, Jayzize, Ryfri
+**S4 (10):** 5idekick, 78ford, FieryFate, Jayzize, Jordtim, Paxtona, rippersteveM5, Ryfri, Topspinpiggles, WackoFlipper
 
 ---

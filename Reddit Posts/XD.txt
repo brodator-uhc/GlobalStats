@@ -45,6 +45,41 @@
 ---
 ### Kills
 
+**1st - 4EyedSlime (8):** ohh_lia (S2), acadiangel (S2), RassL (S2), natsuvi (S2), Chessa (S2), _ChrisMS (S2), Bonneh (S2), Bluests (S2)
+
+**2nd - acadiangel (7):** Jayzize (S1), ThePeridotKnight (S1), SmolHatChild (S1), ToontownOnline (S2), AtomicCrossbow (S3), RassL (S3), Kaddyn (S3)
+
+**3rd - Codwhy (3):** Bofishkix (S1), Gorgerous (S2), Aybel (S2)
+
+**4th - AtomicCrossbow (2):** jakeyx3 (S2), natsuvi (S3)
+
+**4th - azoof (2):** 6BU (S2), Normoh (S2)
+
+**4th - Bluests (2):** jakeyx3 (S1), ConBeanJones (S1)
+
+**4th - Bofishkix (2):** nh177O13 (S1), BardMain2 (S1)
+
+**4th - ConBeanJones (2):** _ChrisMS (S1), Codwhy (S1)
+
+**9th - _ChrisMS (1):** Hoookey (S1)
+
+**9th - _JJL (1):** acadiangel (S1)
+
+**9th - Alacan (1):** xRosss (S1)
+
+**9th - jakeyx3 (1):** HigmanFreud (S2)
+
+**9th - Jayzize (1):** SpaceFenix (S1)
+
+**9th - RassL (1):** jakeyx3 (S3)
+
+**9th - SpaceFenix (1):** nsket (S1)
+
+**9th - ThePeridotKnight (1):** DevoyTTV (S1)
+
+**9th - ToontownOnline (1):** Jayzize (S2)
+
+**9th - xRosss (1):** Alacan (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +92,10 @@
 ---
 ### Debutants
 
-**S1 (21):** ChainingVermin2, Hoookey, nh177O13, nsket, BardMain2, SpaceFenix, Jayzize, DevoyTTV, ThePeridotKnight, SmolHatChild, xRosss, Alacan, jakeyx3, Bofishkix, _ChrisMS, Codwhy, acadiangel, ConBeanJones, xCand, _JJL, Bluests
+**S1 (21):** _ChrisMS, _JJL, acadiangel, Alacan, BardMain2, Bluests, Bofishkix, ChainingVermin2, Codwhy, ConBeanJones, DevoyTTV, Hoookey, jakeyx3, Jayzize, nh177O13, nsket, SmolHatChild, SpaceFenix, ThePeridotKnight, xCand, xRosss
 
-**S2 (15):** SiahStone, HigmanFreud, AtomicCrossbow, ToontownOnline, ohh_lia, RassL, natsuvi, Gorgerous, Aybel, 6BU, Chessa, Normoh, Bonneh, 4EyedSlime, azoof
+**S2 (15):** 4EyedSlime, 6BU, AtomicCrossbow, Aybel, azoof, Bonneh, Chessa, Gorgerous, HigmanFreud, natsuvi, Normoh, ohh_lia, RassL, SiahStone, ToontownOnline
 
-**S3 (3):** wizarde, Kaddyn, Andronify
+**S3 (3):** Andronify, Kaddyn, wizarde
 
 ---

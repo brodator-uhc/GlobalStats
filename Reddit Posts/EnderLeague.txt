@@ -37,6 +37,29 @@
 ---
 ### Kills
 
+**1st - Lhollo (4):** OneWolfe (S1), JoethePirate (S1), Clandlewood (S1), Dolinmyster (S1)
+
+**2nd - AkipaLP (2):** RobTheNoob_ (S1), JenKneee (S1)
+
+**2nd - Ones (2):** TheRyRyXD (S1), daisyadalouise (S1)
+
+**4th - albinac (1):** Char (S1)
+
+**4th - AssassiinGamer (1):** Lhollo (S1)
+
+**4th - Char (1):** LateNightTic (S1)
+
+**4th - Chasmic (1):** albinac (S1)
+
+**4th - Dolinmyster (1):** DangerDitt (S1)
+
+**4th - JoethePirate (1):** Chasmic (S1)
+
+**4th - Lamdrew (1):** AkipaLP (S1)
+
+**4th - oldminecraft (1):** Ones (S1)
+
+**4th - Retro_B (1):** Jefferson (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +72,6 @@
 ---
 ### Debutants
 
-**S1 (32):** ExtremeBloxx, SwordfishPlays, ImApples, ElHispanoPequeno, LateNightTic, Char, albinac, Chasmic, OneWolfe, JoethePirate, Madokami, TheRyRyXD, RobTheNoob_, JenKneee, daisyadalouise, DangerDitt, Clandlewood, Dolinmyster, Ones, AkipaLP, Lhollo, oldminecraft, AssassiinGamer, Jefferson, GamerJim, Gart, Randomobsessor, Rachizzel, Grungi_Ankhfire, XadrianZ, Lamdrew, Retro_B
+**S1 (32):** AkipaLP, albinac, AssassiinGamer, Char, Chasmic, Clandlewood, daisyadalouise, DangerDitt, Dolinmyster, ElHispanoPequeno, ExtremeBloxx, GamerJim, Gart, Grungi_Ankhfire, ImApples, Jefferson, JenKneee, JoethePirate, Lamdrew, LateNightTic, Lhollo, Madokami, oldminecraft, Ones, OneWolfe, Rachizzel, Randomobsessor, Retro_B, RobTheNoob_, SwordfishPlays, TheRyRyXD, XadrianZ
 
 ---

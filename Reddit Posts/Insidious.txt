@@ -41,6 +41,43 @@
 ---
 ### Kills
 
+**1st - Hacn35 (8):** automavic (S2), frogsella (S2), Broseph (S2), miles1baseball (S2), Zahkari (S2), BBR_ (S2), ElGavinoSupremo (S2), Pie212_123 (S2)
+
+**2nd - Ixolock (4):** lexicuhl (S1), MistaUnicorn (S1), tuxpeng (S1), automavic (S1)
+
+**3rd - BBR_ (3):** wibbol (S1), wowjennawow (S1), Emerric (S2)
+
+**3rd - Pie212_123 (3):** ThePeridotKnight (S2), BSBrent (S2), Spacepod_ (S2)
+
+**5th - automavic (2):** BBR_ (S1), Zahkari (S1)
+
+**5th - BSBrent (2):** WackoFlipper (S2), BardMain2 (S2)
+
+**5th - JonnyFairplay (2):** KOKeowner (S1), Maxwellfifty (S1)
+
+**5th - LegoBeast (2):** JonnyFairplay (S1), Nate2gamer (S1)
+
+**5th - Spacepod_ (2):** OnlyCosmia (S2), KOKeowner (S2)
+
+**5th - Zahkari (2):** Emerric (S1), Normoh (S1)
+
+**11th - BardMain2 (1):** fruitberries (S2)
+
+**11th - Cyonal (1):** miles1baseball (S1)
+
+**11th - Emerric (1):** QuilJ1 (S2)
+
+**11th - Maxwellfifty (1):** scriblur (S1)
+
+**11th - miles1baseball (1):** Cyonal (S1)
+
+**11th - Nate2gamer (1):** LegoBeast (S1)
+
+**11th - OnlyCosmia (1):** BSBrent (S1)
+
+**11th - ThePeridotKnight (1):** Cyonal (S2)
+
+**11th - tuxpeng (1):** OnlyCosmia (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +90,8 @@
 ---
 ### Debutants
 
-**S1 (21):** scriblur, KOKeowner, Maxwellfifty, JonnyFairplay, LegoBeast, Nate2gamer, BSBrent, OnlyCosmia, Emerric, lexicuhl, Normoh, wibbol, Cyonal, miles1baseball, wowjennawow, MistaUnicorn, tuxpeng, BBR_, Zahkari, automavic, Ixolock
+**S1 (21):** automavic, BBR_, BSBrent, Cyonal, Emerric, Ixolock, JonnyFairplay, KOKeowner, LegoBeast, lexicuhl, Maxwellfifty, miles1baseball, MistaUnicorn, Nate2gamer, Normoh, OnlyCosmia, scriblur, tuxpeng, wibbol, wowjennawow, Zahkari
 
-**S2 (11):** frogsella, Broseph, WackoFlipper, QuilJ1, fruitberries, ThePeridotKnight, ElGavinoSupremo, BardMain2, Spacepod_, Pie212_123, Hacn35
+**S2 (11):** BardMain2, Broseph, ElGavinoSupremo, frogsella, fruitberries, Hacn35, Pie212_123, QuilJ1, Spacepod_, ThePeridotKnight, WackoFlipper
 
 ---

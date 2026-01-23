@@ -41,6 +41,13 @@
 ---
 ### Kills
 
+**1st - SRGamingLucas (7):** CrystalBullet (S1), CraftingSeas (S1), BarrackOLlama (S1), General_Pandaman (S2), FumoSnake (S2), Dee957 (S2), Funoxii (S2)
+
+**2nd - Funoxii (5):** UpriseReaper (S1), SRGamingLucas (S1), JakeCorp (S1), BruteCharger (S1), SuchPandaMC (S1)
+
+**3rd - Dee957 (3):** TheGalaxy (S2), JakeCorp (S2), Dj8ninja (S2)
+
+**4th - BarrackOLlama (1):** Purplesword (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +60,8 @@
 ---
 ### Debutants
 
-**S1 (10):** CrystalBullet, CraftingSeas, UpriseReaper, Purplesword, BarrackOLlama, SRGamingLucas, JakeCorp, BruteCharger, SuchPandaMC, Funoxii
+**S1 (10):** BarrackOLlama, BruteCharger, CraftingSeas, CrystalBullet, Funoxii, JakeCorp, Purplesword, SRGamingLucas, SuchPandaMC, UpriseReaper
 
-**S2 (7):** ChizWiz, xCat, TheGalaxy, Dj8ninja, General_Pandaman, FumoSnake, Dee957
+**S2 (7):** ChizWiz, Dee957, Dj8ninja, FumoSnake, General_Pandaman, TheGalaxy, xCat
 
 ---

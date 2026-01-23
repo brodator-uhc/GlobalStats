@@ -41,6 +41,31 @@
 ---
 ### Kills
 
+**1st - Heralen (6):** MythicBlade999 (S1), ZestPlaysMC (S1), Guitardoodler (S1), GoldenOlive (S1), ItsJustMr80 (S1), YT_DIPER (S1)
+
+**2nd - Pippiter (4):** ScOpE_H3ad (S2), Sneegsnag (S2), MarcC5M (S2), TheBestGinger13 (S2)
+
+**2nd - ScOpE_H3ad (4):** GoldenOlive (S2), Shadoune666 (S2), EirenePneuma (S2), Shortgamer (S2)
+
+**2nd - TicedUp (4):** MythicBlade999 (S2), KanivaTimber (S2), _Frankie (S2), Maddognils (S2)
+
+**5th - 272 (2):** Blaikie (S2), Gilzor (S2)
+
+**5th - GoldenOlive (2):** ShakeJunt (S1), 272 (S2)
+
+**5th - Krenzinator (2):** Pippiter (S2), TicedUp (S2)
+
+**5th - TheBestGinger13 (2):** ZestPlaysMC (S2), Guitardoodler (S2)
+
+**9th - CMattznes (1):** BushieHalf (S1)
+
+**9th - Guitardoodler (1):** CMattznes (S1)
+
+**9th - MythicBlade999 (1):** Vi7155 (S2)
+
+**9th - Vi7155 (1):** ItzTabzy (S2)
+
+**9th - ZestPlaysMC (1):** BurningT (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +78,8 @@
 ---
 ### Debutants
 
-**S1 (11):** BushieHalf, BurningT, MythicBlade999, ShakeJunt, CMattznes, ZestPlaysMC, Guitardoodler, GoldenOlive, ItsJustMr80, YT_DIPER, Heralen
+**S1 (11):** BurningT, BushieHalf, CMattznes, GoldenOlive, Guitardoodler, Heralen, ItsJustMr80, MythicBlade999, ShakeJunt, YT_DIPER, ZestPlaysMC
 
-**S2 (20):** TommySuX, stingswitch, ItzTabzy, Vi7155, Blaikie, Gilzor, 272, Shadoune666, EirenePneuma, Shortgamer, ScOpE_H3ad, Sneegsnag, KanivaTimber, _Frankie, MarcC5M, TheBestGinger13, Maddognils, Pippiter, TicedUp, Krenzinator
+**S2 (20):** _Frankie, 272, Blaikie, EirenePneuma, Gilzor, ItzTabzy, KanivaTimber, Krenzinator, Maddognils, MarcC5M, Pippiter, ScOpE_H3ad, Shadoune666, Shortgamer, Sneegsnag, stingswitch, TheBestGinger13, TicedUp, TommySuX, Vi7155
 
 ---

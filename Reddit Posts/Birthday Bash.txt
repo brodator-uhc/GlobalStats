@@ -41,6 +41,55 @@
 ---
 ### Kills
 
+**1st - broccoliar (5):** ScaryPumpkinFace (S2), ohh_lia (S2), Kaimaxon (S2), _1mmortal_ (S2), Forgot_N (S2)
+
+**1st - CHAINGE (5):** Stravilight (S1), Charrlottie (S1), TheSlimeBrother (S1), CodeJoshua (S1), Klobb (S1)
+
+**1st - natsuvi (5):** Flcnt (S2), nug17 (S2), Greeples (S2), Kaismartypants (S2), azoof (S2)
+
+**4th - _1mmortal_ (4):** lasdarling (S1), Jordtim (S1), kawaiibunri (S1), benidk (S2)
+
+**4th - fruitlogic (4):** MichaelPlayMC (S1), WackoFlipper (S1), CHAINGE (S1), Cheetah_16 (S1)
+
+**4th - MaxEvasion (4):** broccoliar (S1), RuneTactics (S1), Forgot_N (S1), OhMatias (S1)
+
+**4th - Spongey (4):** Fcrm (S2), noktime (S2), Ninetals38 (S2), SpaceFenix (S2)
+
+**8th - Cheetah_16 (3):** Jaceon02 (S1), TheSheepMasters (S1), _1mmortal_ (S1)
+
+**8th - MercuryParadox (3):** RuneTactics (S2), JaqOnCraq (S2), broccoliar (S2)
+
+**10th - Bobbytheturtle (2):** BuildingBard300 (S2), CommanderK22_ (S2)
+
+**10th - CommanderK22_ (2):** omchris (S2), natsuvi (S2)
+
+**10th - Jordtim (2):** Markedbooboy (S1), nug17 (S1)
+
+**10th - Kaimaxon (2):** Stravilight (S2), AshleyMashley (S2)
+
+**14th - ArcticSeagull (1):** natsuvi (S1)
+
+**14th - azoof (1):** ItsLittleT (S2)
+
+**14th - CodeJoshua (1):** MaxEvasion (S1)
+
+**14th - Fcrm (1):** Thermql (S2)
+
+**14th - ItsMeAR10 (1):** Nuclearsugar (S2)
+
+**14th - Kaismartypants (1):** Kaddyn (S2)
+
+**14th - Klobb (1):** Vetmire (S1)
+
+**14th - Markedbooboy (1):** Kaddyn (S1)
+
+**14th - omchris (1):** ItsMeAR10 (S2)
+
+**14th - SpaceFenix (1):** Spongey (S2)
+
+**14th - Stravilight (1):** Codwhy (S2)
+
+**14th - Vetmire (1):** ArcticSeagull (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +102,8 @@
 ---
 ### Debutants
 
-**S1 (28):** Jaceon02, lasdarling, turicake, natsuvi, ArcticSeagull, broccoliar, TheSheepMasters, RuneTactics, Forgot_N, Kaddyn, Markedbooboy, OhMatias, Stravilight, nug17, MaxEvasion, Jordtim, Charrlottie, MichaelPlayMC, WackoFlipper, Vetmire, TheSlimeBrother, kawaiibunri, CodeJoshua, Klobb, CHAINGE, _1mmortal_, Cheetah_16, fruitlogic
+**S1 (28):** _1mmortal_, ArcticSeagull, broccoliar, CHAINGE, Charrlottie, Cheetah_16, CodeJoshua, Forgot_N, fruitlogic, Jaceon02, Jordtim, Kaddyn, kawaiibunri, Klobb, lasdarling, Markedbooboy, MaxEvasion, MichaelPlayMC, natsuvi, nug17, OhMatias, RuneTactics, Stravilight, TheSheepMasters, TheSlimeBrother, turicake, Vetmire, WackoFlipper
 
-**S2 (25):** benidk, ScaryPumpkinFace, ohh_lia, Codwhy, ItsLittleT, Flcnt, BuildingBard300, AshleyMashley, Thermql, Fcrm, Nuclearsugar, Kaimaxon, Greeples, omchris, ItsMeAR10, noktime, Ninetals38, JaqOnCraq, Spongey, SpaceFenix, Kaismartypants, azoof, CommanderK22_, Bobbytheturtle, MercuryParadox
+**S2 (25):** AshleyMashley, azoof, benidk, Bobbytheturtle, BuildingBard300, Codwhy, CommanderK22_, Fcrm, Flcnt, Greeples, ItsLittleT, ItsMeAR10, JaqOnCraq, Kaimaxon, Kaismartypants, MercuryParadox, Ninetals38, noktime, Nuclearsugar, ohh_lia, omchris, ScaryPumpkinFace, SpaceFenix, Spongey, Thermql
 
 ---

@@ -45,6 +45,57 @@
 ---
 ### Kills
 
+**1st - Dylan_SF (8):** T0n35 (S3), xMisha (S3), Osha (S3), Microus (S3), Entity_Error (S3), CruelFives (S3), CH0CK (S3), swishduck (S3)
+
+**2nd - thebbers (7):** Microus (S2), Slothbeans (S2), SRGamingLucas (S2), Nintendoshi (S3), Diatu (S3), Renegade_ (S3), Qenis (S3)
+
+**3rd - Grantonic (5):** lexicuhl (S1), sirples (S1), oDogLFC (S2), Qenis (S2), Stellios_Cantos (S2)
+
+**3rd - hazel_doe (5):** SmoothieGod (S1), Digitil (S1), SRGamingLucas (S1), DrJamezz (S1), Diatu (S1)
+
+**5th - DrJamezz (3):** MaxEvasion (S1), Funoxii (S1), Grantonic (S1)
+
+**5th - lexicuhl (3):** Osha (S1), Dylan_SF (S2), Big_Z60 (S3)
+
+**7th - Big_Z60 (2):** ArticRecon12 (S3), PaperVinnie (S3)
+
+**7th - Diatu (2):** OnlyCosmia (S2), CH0CK (S2)
+
+**7th - Digitil (2):** Slothbeans (S1), Oathlog (S1)
+
+**7th - oDogLFC (2):** DareDevilDawson (S2), lexicuhl (S2)
+
+**7th - Osha (2):** MadSainter (S2), Bri (S2)
+
+**7th - Stellios_Cantos (2):** Osha (S2), PhenomCloud (S2)
+
+**7th - SuitedPig (2):** Flouzemaker (S2), Hannilala (S2)
+
+**7th - swishduck (2):** S_Inquisition (S3), thebbers (S3)
+
+**7th - xMisha (2):** DareDevilDawson (S3), SRGamingLucas (S3)
+
+**16th - ArticRecon12 (1):** Funoxii (S3)
+
+**16th - CruelFives (1):** oDogLFC (S3)
+
+**16th - Funoxii (1):** Arich (S3)
+
+**16th - Lilbuses (1):** Qenis (S1)
+
+**16th - MaxEvasion (1):** oDogLFC (S1)
+
+**16th - Microus (1):** tuxpeng (S3)
+
+**16th - PaperVinnie (1):** GeeSam (S3)
+
+**16th - Qenis (1):** Grantonic (S3)
+
+**16th - S_Inquisition (1):** lexicuhl (S3)
+
+**16th - sirples (1):** Carsoon (S1)
+
+**16th - SRGamingLucas (1):** SD_UHC (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +108,10 @@
 ---
 ### Debutants
 
-**S1 (20):** YoungGunna_, oDogLFC, Osha, Slothbeans, Oathlog, Qenis, lexicuhl, SD_UHC, MaxEvasion, SmoothieGod, Digitil, Funoxii, Carsoon, sirples, SRGamingLucas, Grantonic, DrJamezz, Diatu, hazel_doe, Lilbuses
+**S1 (20):** Carsoon, Diatu, Digitil, DrJamezz, Funoxii, Grantonic, hazel_doe, lexicuhl, Lilbuses, MaxEvasion, Oathlog, oDogLFC, Osha, Qenis, SD_UHC, sirples, Slothbeans, SmoothieGod, SRGamingLucas, YoungGunna_
 
-**S2 (15):** DareDevilDawson, OnlyCosmia, CH0CK, Dylan_SF, Microus, thebbers, S_Inquisition, MadSainter, Flouzemaker, Bri, xMisha, Hannilala, PhenomCloud, SuitedPig, Stellios_Cantos
+**S2 (15):** Bri, CH0CK, DareDevilDawson, Dylan_SF, Flouzemaker, Hannilala, MadSainter, Microus, OnlyCosmia, PhenomCloud, S_Inquisition, Stellios_Cantos, SuitedPig, thebbers, xMisha
 
-**S3 (12):** GeeSam, T0n35, Nintendoshi, Renegade_, Arich, ArticRecon12, tuxpeng, PaperVinnie, Entity_Error, Big_Z60, CruelFives, swishduck
+**S3 (12):** Arich, ArticRecon12, Big_Z60, CruelFives, Entity_Error, GeeSam, Nintendoshi, PaperVinnie, Renegade_, swishduck, T0n35, tuxpeng
 
 ---

@@ -41,6 +41,31 @@
 ---
 ### Kills
 
+**1st - 4EyedSlime (7):** Vetmire (S2), UbiquityHD (S2), Evzenitable (S2), ArcticSeagull (S2), Zebobo10 (S2), TheSlimeBrother (S2), Markedbooboy (S2)
+
+**2nd - _Dieter (5):** ArcticSeagull (S1), Charrlottie (S1), Vetmire (S1), Captinn (S1), Jaceon02 (S1)
+
+**2nd - Normoh (5):** Eluniel (S2), _Dieter (S2), benidk (S2), Zevulpes (S2), TehBaconBrawlerZ (S2)
+
+**4th - Captinn (3):** T1mT0m (S1), MangoPlayz (S1), MangoPlayz (S2)
+
+**4th - Phyrrus (3):** broccoliar (S1), Normoh (S2), Blarkslol (S2)
+
+**6th - ArcticSeagull (2):** Phyrrus (S1), CodeJoshua (S1)
+
+**6th - benidk (2):** zac083 (S2), xDiversity (S2)
+
+**6th - Vetmire (2):** Hrray (S1), TehBaconBrawlerZ (S1)
+
+**9th - Blarkslol (1):** Flcnt (S2)
+
+**9th - MangoPlayz (1):** broccoliar (S2)
+
+**9th - T1mT0m (1):** TheSlimeBrother (S1)
+
+**9th - TehBaconBrawlerZ (1):** 4EyedSlime (S2)
+
+**9th - xDiversity (1):** Charrlottie (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +78,8 @@
 ---
 ### Debutants
 
-**S1 (16):** Flcnt, Hrray, TehBaconBrawlerZ, ToeKun, broccoliar, Phyrrus, CodeJoshua, ArcticSeagull, Charrlottie, Vetmire, TheSlimeBrother, T1mT0m, MangoPlayz, Captinn, Jaceon02, _Dieter
+**S1 (16):** _Dieter, ArcticSeagull, broccoliar, Captinn, Charrlottie, CodeJoshua, Flcnt, Hrray, Jaceon02, MangoPlayz, Phyrrus, T1mT0m, TehBaconBrawlerZ, TheSlimeBrother, ToeKun, Vetmire
 
-**S2 (13):** Kaddyn, UbiquityHD, Eluniel, Evzenitable, zac083, Zebobo10, xDiversity, benidk, Markedbooboy, 4EyedSlime, Zevulpes, Normoh, Blarkslol
+**S2 (13):** 4EyedSlime, benidk, Blarkslol, Eluniel, Evzenitable, Kaddyn, Markedbooboy, Normoh, UbiquityHD, xDiversity, zac083, Zebobo10, Zevulpes
 
 ---

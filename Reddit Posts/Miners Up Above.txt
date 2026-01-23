@@ -37,6 +37,25 @@
 ---
 ### Kills
 
+**1st - Fairyjuice (2):** Frostbreath (S1), Krenzinator (S1)
+
+**1st - GeoLP (2):** Havenhand (S1), TheSonicJoey (S1)
+
+**1st - Havenhand (2):** Edviin_ (S1), dans1988 (S1)
+
+**1st - Timonscholte (2):** TGMB1 (S1), Stollaz (S1)
+
+**5th - dnnyys (1):** Timonscholte (S1)
+
+**5th - Frostbreath (1):** Kiinako_ (S1)
+
+**5th - Kiinako_ (1):** GeoLP (S1)
+
+**5th - LongaVita (1):** Fairyjuice (S1)
+
+**5th - TGMB1 (1):** Snuggelz007 (S1)
+
+**5th - TheSonicJoey (1):** BurningT (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +68,6 @@
 ---
 ### Debutants
 
-**S1 (18):** SidGarcia, Edviin_, BurningT, dans1988, Havenhand, TheSonicJoey, GeoLP, Snuggelz007, TGMB1, Stollaz, Neoscys, Kiinako_, Frostbreath, Timonscholte, Krenzinator, Fairyjuice, dnnyys, LongaVita
+**S1 (18):** BurningT, dans1988, dnnyys, Edviin_, Fairyjuice, Frostbreath, GeoLP, Havenhand, Kiinako_, Krenzinator, LongaVita, Neoscys, SidGarcia, Snuggelz007, Stollaz, TGMB1, TheSonicJoey, Timonscholte
 
 ---

@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - slowpr0 (3):** fgyff (S1), Joeylinks (S1), patpat44patrick (S1)
+
+**2nd - jamietheelite (2):** matthewsfan52 (S1), Archer_ (S1)
+
+**2nd - patpat44patrick (2):** Walshy (S1), Beastperson1 (S1)
+
+**4th - 6dayna6 (1):** 20Below (S1)
+
+**4th - Archer_ (1):** 6dayna6 (S1)
+
+**4th - FDeath (1):** swishduck (S1)
+
+**4th - fgyff (1):** FDeath (S1)
+
+**4th - swishduck (1):** ShockerMC (S1)
+
+**4th - Walshy (1):** Squattamelon (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (18):** ShockerMC, 20Below, TheKevGuy, TheCaveman, swishduck, 6dayna6, matthewsfan52, FDeath, fgyff, Archer_, Coolust, Squattamelon, Walshy, Beastperson1, Joeylinks, patpat44patrick, jamietheelite, slowpr0
+**S1 (18):** 20Below, 6dayna6, Archer_, Beastperson1, Coolust, FDeath, fgyff, jamietheelite, Joeylinks, matthewsfan52, patpat44patrick, ShockerMC, slowpr0, Squattamelon, swishduck, TheCaveman, TheKevGuy, Walshy
 
 ---

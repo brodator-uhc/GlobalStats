@@ -37,6 +37,21 @@
 ---
 ### Kills
 
+**1st - Cyndic (3):** _Fost_ (S1), FrostBros (S1), RabidChipmunk (S1)
+
+**1st - MaxEvasion (3):** Eluniel (S1), RqDix (S1), Charrlottie (S1)
+
+**1st - RabidChipmunk (3):** wizarde (S1), lexicuhl (S1), InsertDotJpeg (S1)
+
+**4th - _Fost_ (2):** Vetmire (S1), Normoh (S1)
+
+**4th - Bornyo (2):** Bacan (S1), Cyndic (S1)
+
+**4th - Caydone (2):** Kaismartypants (S1), Bornyo (S1)
+
+**7th - FrostBros (1):** DJoee (S1)
+
+**7th - Vetmire (1):** Hrray (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +64,6 @@
 ---
 ### Debutants
 
-**S1 (20):** benidk, Hrray, Vetmire, Normoh, wizarde, lexicuhl, Eluniel, _Fost_, InsertDotJpeg, DJoee, FrostBros, RqDix, RabidChipmunk, Charrlottie, Bacan, Cyndic, Kaismartypants, Bornyo, MaxEvasion, Caydone
+**S1 (20):** _Fost_, Bacan, benidk, Bornyo, Caydone, Charrlottie, Cyndic, DJoee, Eluniel, FrostBros, Hrray, InsertDotJpeg, Kaismartypants, lexicuhl, MaxEvasion, Normoh, RabidChipmunk, RqDix, Vetmire, wizarde
 
 ---

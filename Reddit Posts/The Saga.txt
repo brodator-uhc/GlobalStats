@@ -49,6 +49,59 @@
 ---
 ### Kills
 
+**1st - Kelawesome (16):** Gorgerous (S1), ArcticSeagull (S1), Fcrm (S1), Captinn (S1), awesomemacD (S2), 5kylord (S2), XFROSTXFIREX (S2), Gorgerous (S2), Rohcket (S2), Ratchet6859 (S2), TheRealHagrid (S3), 5kylord (S3), DJoee (S3), LeonTG (S4), Fcrm (S4), pigghetti (S4)
+
+**2nd - GetNicked (8):** CHAINGE (S1), Eluniel (S1), centraleric (S1), lasdarling (S2), Brodator (S3), pigghetti (S3), _Fost_ (S4), Prisma (S4)
+
+**3rd - Captinn (6):** IsaacMT (S1), R3gaMav (S2), pigghetti (S2), Codwhy (S2), flameorb (S2), Randehh (S2)
+
+**3rd - Fcrm (6):** CallumPace (S1), Zizo__ (S1), Captinn (S2), MajorWoof (S2), Prisma (S3), MajorWoof (S4)
+
+**3rd - WackoFlipper (6):** 5kylord (S1), discoczibi (S1), Jordtim (S1), Kelawesome (S1), pigghetti (S1), Rohcket (S3)
+
+**6th - lexicuhl (5):** SpyroJ (S4), ColdBac (S4), ohh_lia (S4), BBCRadio1 (S4), vynil (S4)
+
+**7th - ERHDude (4):** Eluniel (S3), MaxEvasion (S3), Kiinako_ (S3), vynil (S3)
+
+**7th - MajorWoof (4):** FrostBros (S2), spoood (S2), Kiinako_ (S2), QuilJ1 (S2)
+
+**7th - pigghetti (4):** Rohcket (S1), FrostBros (S3), GetNicked (S3), Brodator (S4)
+
+**10th - DJoee (3):** lasdarling (S3), Cyndic (S3), SiahStone (S3)
+
+**10th - MaxEvasion (3):** Jordtim (S2), 20Below (S3), ColdBac (S3)
+
+**10th - natsuvi (3):** FrostBros (S4), Kiinako_ (S4), GetNicked (S4)
+
+**10th - vynil (3):** WackoFlipper (S3), Kelawesome (S3), TheRealHagrid (S4)
+
+**14th - centraleric (2):** Krenzinator (S1), WackoFlipper (S1)
+
+**14th - Randehh (2):** GetNicked (S2), WackoFlipper (S2)
+
+**14th - upriserryker (2):** lexicuhl (S4), Kelawesome (S4)
+
+**17th - Brodator (1):** Jahrod (S4)
+
+**17th - CHAINGE (1):** Kiinako_ (S1)
+
+**17th - Codwhy (1):** IsaacMT (S2)
+
+**17th - Eluniel (1):** typhlo0o (S1)
+
+**17th - flameorb (1):** discoczibi (S2)
+
+**17th - IsaacMT (1):** Brodator (S1)
+
+**17th - lasdarling (1):** Fcrm (S3)
+
+**17th - ohh_lia (1):** ERHDude (S4)
+
+**17th - Prisma (1):** Gorgerous (S3)
+
+**17th - Rohcket (1):** Brodator (S2)
+
+**17th - spoood (1):** Kelawesome (S2)
 
 ---
 ### PvE Deaths
@@ -61,12 +114,12 @@
 ---
 ### Debutants
 
-**S1 (28):** awesomemacD, Randehh, chloesad, Gorgerous, Codwhy, MBeaar, CallumPace, Zizo__, Brodator, IsaacMT, ArcticSeagull, Fcrm, Captinn, Krenzinator, 5kylord, MaxEvasion, discoczibi, typhlo0o, Jordtim, Kelawesome, Rohcket, pigghetti, Kiinako_, WackoFlipper, CHAINGE, Eluniel, centraleric, GetNicked
+**S1 (28):** 5kylord, ArcticSeagull, awesomemacD, Brodator, CallumPace, Captinn, centraleric, CHAINGE, chloesad, Codwhy, discoczibi, Eluniel, Fcrm, GetNicked, Gorgerous, IsaacMT, Jordtim, Kelawesome, Kiinako_, Krenzinator, MaxEvasion, MBeaar, pigghetti, Randehh, Rohcket, typhlo0o, WackoFlipper, Zizo__
 
-**S2 (10):** ohh_lia, R3gaMav, FrostBros, XFROSTXFIREX, lasdarling, flameorb, Ratchet6859, spoood, QuilJ1, MajorWoof
+**S2 (10):** flameorb, FrostBros, lasdarling, MajorWoof, ohh_lia, QuilJ1, R3gaMav, Ratchet6859, spoood, XFROSTXFIREX
 
-**S3 (10):** PresidentFleb, TheRealHagrid, Prisma, 20Below, Cyndic, SiahStone, DJoee, ColdBac, vynil, ERHDude
+**S3 (10):** 20Below, ColdBac, Cyndic, DJoee, ERHDude, PresidentFleb, Prisma, SiahStone, TheRealHagrid, vynil
 
-**S4 (10):** CrowJRC, 4EyedSlime, Jahrod, LeonTG, SpyroJ, _Fost_, BBCRadio1, lexicuhl, natsuvi, upriserryker
+**S4 (10):** _Fost_, 4EyedSlime, BBCRadio1, CrowJRC, Jahrod, LeonTG, lexicuhl, natsuvi, SpyroJ, upriserryker
 
 ---

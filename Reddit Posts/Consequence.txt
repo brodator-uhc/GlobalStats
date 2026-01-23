@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - mekolame (4):** Espik (S1), Vetmire (S1), Aybel (S1), Crafters (S1)
+
+**2nd - DevoyTTV (2):** Bofishkix (S1), mekolame (S1)
+
+**3rd - Aybel (1):** ghostblurr (S1)
+
+**3rd - CHAINGE (1):** RedditPlayer (S1)
+
+**3rd - NickPlaysGames15 (1):** Dawncy (S1)
+
+**3rd - SpaceFenix (1):** NickPlaysGames15 (S1)
+
+**3rd - Vetmire (1):** Rebelghost (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (15):** Bofishkix, ghostblurr, Espik, Rebelghost, Vetmire, TheSheepMasters, Aybel, Dawncy, RedditPlayer, Crafters, NickPlaysGames15, mekolame, CHAINGE, DevoyTTV, SpaceFenix
+**S1 (15):** Aybel, Bofishkix, CHAINGE, Crafters, Dawncy, DevoyTTV, Espik, ghostblurr, mekolame, NickPlaysGames15, Rebelghost, RedditPlayer, SpaceFenix, TheSheepMasters, Vetmire
 
 ---

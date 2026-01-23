@@ -37,6 +37,37 @@
 ---
 ### Kills
 
+**1st - Fcrm (4):** DevoyTTV (S1), Kaismartypants (S1), natsuvi (S1), SpaceFenix (S1)
+
+**2nd - Connosaurus (3):** Kelawesome (S1), MarcC5M (S1), Brodator (S1)
+
+**2nd - SpaceFenix (3):** Ullti (S1), Connosaurus (S1), _Fost_ (S1)
+
+**4th - CipherKai (2):** Vetmire (S1), TayUHC (S1)
+
+**4th - Glarza (2):** Andronify (S1), Rebelghost (S1)
+
+**4th - NajaOxiana (2):** 4EyedSlime (S1), Plushy33 (S1)
+
+**4th - natsuvi (2):** Dawncy (S1), Codwhy (S1)
+
+**4th - Pelycosaur (2):** MaxEvasion (S1), NajaOxiana (S1)
+
+**9th - 4EyedSlime (1):** FrostBros (S1)
+
+**9th - aalaan (1):** LoafOZ (S1)
+
+**9th - Andronify (1):** Cyndic (S1)
+
+**9th - Bofishkix (1):** JoshC2 (S1)
+
+**9th - Brodator (1):** Potsie (S1)
+
+**9th - LoafOZ (1):** CrowJRC (S1)
+
+**9th - MaxEvasion (1):** ToucanTom (S1)
+
+**9th - SiahStone (1):** Haama_ (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +80,6 @@
 ---
 ### Debutants
 
-**S1 (40):** milkteaboards, ToucanTom, Distantshooter, Kelawesome, CrowJRC, MarcC5M, Cyndic, Potsie, Vetmire, Dawncy, FrostBros, 4EyedSlime, Codwhy, Ullti, Flcnt, MaxEvasion, DevoyTTV, Andronify, TayUHC, Rebelghost, Brodator, Haama_, Glarza, Plushy33, ZachMcD, Connosaurus, CipherKai, SiahStone, NajaOxiana, LoafOZ, Kaismartypants, natsuvi, _Fost_, SpaceFenix, Pelycosaur, JoshC2, aalaan, Fcrm, _ChrisMS, Bofishkix
+**S1 (40):** _ChrisMS, _Fost_, 4EyedSlime, aalaan, Andronify, Bofishkix, Brodator, CipherKai, Codwhy, Connosaurus, CrowJRC, Cyndic, Dawncy, DevoyTTV, Distantshooter, Fcrm, Flcnt, FrostBros, Glarza, Haama_, JoshC2, Kaismartypants, Kelawesome, LoafOZ, MarcC5M, MaxEvasion, milkteaboards, NajaOxiana, natsuvi, Pelycosaur, Plushy33, Potsie, Rebelghost, SiahStone, SpaceFenix, TayUHC, ToucanTom, Ullti, Vetmire, ZachMcD
 
 ---

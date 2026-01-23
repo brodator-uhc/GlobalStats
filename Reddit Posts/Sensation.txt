@@ -41,6 +41,33 @@
 ---
 ### Kills
 
+**1st - cherryblawsom (5):** Jayzize (S1), Digitil (S1), TalonBX (S1), TheRealHagrid (S1), SoulRawr (S1)
+
+**2nd - AmbientDan (3):** cynnamon (S2), BlackGarrett (S2), DrJamezz (S2)
+
+**2nd - Andrew512 (3):** Dj8ninja (S2), C_money (S2), Apex_Twinkie (S2)
+
+**2nd - automavic (3):** Dj8ninja (S1), Chipzzy (S1), RedSky (S1)
+
+**2nd - SoulRawr (3):** Apex_Twinkie (S1), Ryfri (S1), BlackGarrett (S1)
+
+**6th - Jayzize (2):** CountryCutie (S1), Zahkari (S2)
+
+**6th - TheRealHagrid (2):** Zahkari (S1), cynnamon (S1)
+
+**6th - Zahkari (2):** cherryblawsom (S2), AmbientDan (S2)
+
+**9th - BlackGarrett (1):** automavic (S1)
+
+**9th - C_money (1):** Cyclops (S2)
+
+**9th - Cyclops (1):** automavic (S2)
+
+**9th - Dj8ninja (1):** Chipzzy (S2)
+
+**9th - RedSky (1):** AmbientDan (S1)
+
+**9th - Ryfri (1):** ItsFishy (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +80,8 @@
 ---
 ### Debutants
 
-**S1 (18):** Dj8ninja, CountryCutie, Apex_Twinkie, ItsFishy, Ryfri, Jayzize, Digitil, TalonBX, Chipzzy, AmbientDan, RedSky, automavic, BlackGarrett, Zahkari, cynnamon, TheRealHagrid, SoulRawr, cherryblawsom
+**S1 (18):** AmbientDan, Apex_Twinkie, automavic, BlackGarrett, cherryblawsom, Chipzzy, CountryCutie, cynnamon, Digitil, Dj8ninja, ItsFishy, Jayzize, RedSky, Ryfri, SoulRawr, TalonBX, TheRealHagrid, Zahkari
 
-**S2 (4):** DrJamezz, Cyclops, C_money, Andrew512
+**S2 (4):** Andrew512, C_money, Cyclops, DrJamezz
 
 ---

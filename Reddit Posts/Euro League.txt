@@ -37,6 +37,17 @@
 ---
 ### Kills
 
+**1st - I_is_cheesecake (4):** Emerric (S1), oDogLFC (S1), Frostbreath (S1), xPhinehas (S1)
+
+**2nd - GeeSam (3):** DaPenguin19 (S1), RwDragon (S1), LordLaelaps (S1)
+
+**2nd - TheSonicJoey (3):** WintherMaw (S1), VeryNice (S1), Kingsy_ (S1)
+
+**2nd - xPhinehas (3):** Pynz (S1), Kiinako_ (S1), SidGarcia (S1)
+
+**5th - Kingsy_ (2):** dnnyys (S1), I_is_cheesecake (S1)
+
+**6th - oDogLFC (1):** _itslennard14 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +60,6 @@
 ---
 ### Debutants
 
-**S1 (22):** VeniiiD, rippersteveM5, Pynz, dnnyys, FazedMC, DaPenguin19, _itslennard14, Emerric, oDogLFC, WintherMaw, Kiinako_, RwDragon, Frostbreath, SidGarcia, LordLaelaps, VeryNice, xPhinehas, I_is_cheesecake, Kingsy_, GeeSam, Hollymatman, TheSonicJoey
+**S1 (22):** _itslennard14, DaPenguin19, dnnyys, Emerric, FazedMC, Frostbreath, GeeSam, Hollymatman, I_is_cheesecake, Kiinako_, Kingsy_, LordLaelaps, oDogLFC, Pynz, rippersteveM5, RwDragon, SidGarcia, TheSonicJoey, VeniiiD, VeryNice, WintherMaw, xPhinehas
 
 ---

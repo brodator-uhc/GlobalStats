@@ -41,6 +41,33 @@
 ---
 ### Kills
 
+**1st - neonpoop (6):** xenon__54 (S1), slowpr0 (S1), infiniteturbine (S1), BJPlays (S1), bigfoot_ (S1), Fairyjuice (S1)
+
+**2nd - AvaCos (4):** SandraStorm (S2), xenon__54 (S2), Kakintse (S2), Chasmic (S2)
+
+**2nd - Coolust (4):** Joeylinks (S1), Chasmic (S1), FDeath (S1), neonpoop (S1)
+
+**2nd - oworca (4):** Shortgamer (S1), Squattamelon (S1), Edviin_ (S1), Hollymatman (S1)
+
+**5th - Edviin_ (3):** AvaCos (S2), _shadowapples (S2), jamietheelite (S2)
+
+**5th - patpat44patrick (3):** Walshy (S2), MrPolzerino (S2), ShutUpBrick (S2)
+
+**5th - Squattamelon (3):** Gillieeeee (S1), xJesterrr (S1), Tomathius (S1)
+
+**8th - ShutUpBrick (2):** Likean00b (S2), slowpr0 (S2)
+
+**8th - slowpr0 (2):** OblivionTU (S2), Shortgamer (S2)
+
+**10th - Costanza (1):** Zermbeeh (S1)
+
+**10th - infiniteturbine (1):** xJesterrr (S2)
+
+**10th - MrPolzerino (1):** Coolust (S2)
+
+**10th - upriserryker (1):** Costanza (S1)
+
+**10th - Walshy (1):** FDeath (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +80,8 @@
 ---
 ### Debutants
 
-**S1 (24):** _shadowapples, Kidfo, xenon__54, slowpr0, Joeylinks, Shortgamer, Zermbeeh, Chasmic, Costanza, FDeath, infiniteturbine, BJPlays, Gillieeeee, xJesterrr, bigfoot_, Tomathius, Fairyjuice, neonpoop, Squattamelon, Edviin_, Hollymatman, Coolust, oworca, upriserryker
+**S1 (24):** _shadowapples, bigfoot_, BJPlays, Chasmic, Coolust, Costanza, Edviin_, Fairyjuice, FDeath, Gillieeeee, Hollymatman, infiniteturbine, Joeylinks, Kidfo, neonpoop, oworca, Shortgamer, slowpr0, Squattamelon, Tomathius, upriserryker, xenon__54, xJesterrr, Zermbeeh
 
-**S2 (11):** OblivionTU, SandraStorm, Cybers_, Kakintse, Likean00b, Walshy, MrPolzerino, ShutUpBrick, AvaCos, jamietheelite, patpat44patrick
+**S2 (11):** AvaCos, Cybers_, jamietheelite, Kakintse, Likean00b, MrPolzerino, OblivionTU, patpat44patrick, SandraStorm, ShutUpBrick, Walshy
 
 ---

@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - Xenox (5):** andrewbaseball99 (S2), TheBaldOfficial (S2), PartyAnimal (S2), AJMONEY99 (S2), NukedNukem (S2)
+
+**2nd - Kelawesome (4):** TheBaldOfficial (S1), Union (S1), Slothbeans (S1), Megahero (S1)
+
+**2nd - PartyAnimal (4):** ItsFluffy (S2), Dylan_SF (S2), SRGamingLucas (S2), mattgj (S2)
+
+**2nd - Zakkeagle (4):** ArticRecon12 (S1), Etticey (S1), 20thPrestigeNoob (S1), Kelawesome (S1)
+
+**5th - Laternic (3):** PokeGames (S1), Zakkeagle (S1), MrHaloGen (S1)
+
+**6th - NukedNukem (2):** Slothbeans (S2), Punching_Pixel (S2)
+
+**6th - SRGamingLucas (2):** OverReactive (S2), GhostGunner (S2)
+
+**8th - 20thPrestigeNoob (1):** Abdalain (S1)
+
+**8th - andrewbaseball99 (1):** Union (S2)
+
+**8th - Dylan_SF (1):** oDogLFC (S2)
+
+**8th - jvgamepro (1):** Spleggified (S1)
+
+**8th - mattgj (1):** Bilboo (S2)
+
+**8th - Megahero (1):** Anogoraz (S1)
+
+**8th - MrHaloGen (1):** jvgamepro (S1)
+
+**8th - Slothbeans (1):** NukedNukem (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (18):** PokeGames, Spleggified, 00Jace, Anogoraz, Abdalain, ArticRecon12, Etticey, NukedNukem, TheBaldOfficial, Union, Slothbeans, 20thPrestigeNoob, Megahero, Kelawesome, Zakkeagle, jvgamepro, MrHaloGen, Laternic
+**S1 (18):** 00Jace, 20thPrestigeNoob, Abdalain, Anogoraz, ArticRecon12, Etticey, jvgamepro, Kelawesome, Laternic, Megahero, MrHaloGen, NukedNukem, PokeGames, Slothbeans, Spleggified, TheBaldOfficial, Union, Zakkeagle
 
-**S2 (14):** ItsFluffy, oDogLFC, Dylan_SF, andrewbaseball99, RatherBeGaming, OverReactive, GhostGunner, SRGamingLucas, Bilboo, mattgj, Punching_Pixel, PartyAnimal, AJMONEY99, Xenox
+**S2 (14):** AJMONEY99, andrewbaseball99, Bilboo, Dylan_SF, GhostGunner, ItsFluffy, mattgj, oDogLFC, OverReactive, PartyAnimal, Punching_Pixel, RatherBeGaming, SRGamingLucas, Xenox
 
 ---

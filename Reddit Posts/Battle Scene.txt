@@ -61,6 +61,105 @@
 ---
 ### Kills
 
+**1st - Austronomical (14):** Normoh (S1), Glarza (S1), LegoBeast (S1), Bobbytheturtle (S1), buttergolem1 (S1), azoof (S1), Fcrm (S2), PresidentFleb (S2), CHAINGE (S2), Kelawesome (S7), lexicuhl (S7), aalaan (S7), Gleoss (S7), ColdBac (S7)
+
+**2nd - Kelawesome (7):** tagggz (S3), ThePeridotKnight (S3), _pbo (S3), benidk (S3), Drkrai (S7), azoof (S7), TheSlimeBrother (S7)
+
+**3rd - _Fost_ (6):** Ullti (S5), ohh_lia (S5), nsket (S5), Drkrai (S5), _carn (S7), PupperKun (S7)
+
+**3rd - Jakekub (6):** Flcnt (S4), kirbey (S4), TehBaconBrawlerZ (S4), Rohcket (S4), Fra49 (S4), _1mmortal_ (S4)
+
+**5th - brinkwhy (5):** olivieh (S5), ItsColinn (S5), CipherKai (S7), Austronomical (S7), Dj8ninja (S7)
+
+**5th - CipherKai (5):** ToontownOnline (S4), Bacan (S4), Captinn (S4), Cqson (S4), Purpdan (S4)
+
+**5th - Cyndic (5):** wizarde (S2), lexicuhl (S2), Gorgerous (S6), pigghetti (S6), kirbey (S6)
+
+**5th - ThePeridotKnight (5):** I_is_cheesecake (S2), Spongey (S2), Austronomical (S2), Microus (S3), benidk (S7)
+
+**9th - Drkrai (4):** broccoliar (S5), SpaceFenix (S5), Cyndic (S6), Greeples (S6)
+
+**9th - Fcrm (4):** hazel_doe (S2), pigghetti (S2), Gorgerous (S2), ThePeridotKnight (S7)
+
+**9th - strategy (4):** AnUncreativeCat (S7), stupidsylvia (S7), vynil (S7), Bobbytheturtle (S7)
+
+**9th - vynil (4):** WackoFlipper (S3), Eluniel (S3), ERHDude (S6), _carn (S6)
+
+**13th - BardMain2 (3):** AnUncreativeCat (S1), Flcnt (S6), WackoFlipper (S6)
+
+**13th - Gorgerous (3):** Normoh (S6), RqDix (S6), BardMain2 (S6)
+
+**13th - TheSlimeBrother (3):** Aybel (S4), _pbo (S7), _Fost_ (S7)
+
+**16th - _carn (2):** SpaceFenix (S6), Aybel (S7)
+
+**16th - _Dieter (2):** vynil (S3), GetNicked (S3)
+
+**16th - ColdBac (2):** Brodator (S7), Fcrm (S7)
+
+**16th - Dj8ninja (2):** frogsella (S7), acadiangel (S7)
+
+**16th - DJoee (2):** Ryfri (S3), buttergolem1 (S6)
+
+**16th - ERHDude (2):** ShyGus (S1), _Dieter (S6)
+
+**16th - ohh_lia (2):** Jakekub (S4), miles1baseball (S4)
+
+**16th - Purpdan (2):** _Dieter (S3), Kelawesome (S3)
+
+**16th - ShyGus (2):** RqDix (S1), SiahStone (S1)
+
+**16th - SpaceFenix (2):** JustNolan (S5), broccoliar (S6)
+
+**16th - Spongey (2):** Cyndic (S2), Greeples (S2)
+
+**16th - St0rmplayz (2):** Caydone (S5), _Fost_ (S5)
+
+**28th - _1mmortal_ (1):** TheSlimeBrother (S4)
+
+**28th - AnUncreativeCat (1):** Lighte (S1)
+
+**28th - azoof (1):** BardMain2 (S1)
+
+**28th - benidk (1):** Dida (S3)
+
+**28th - Bobbytheturtle (1):** PresidentFleb (S7)
+
+**28th - broccoliar (1):** DJoee (S6)
+
+**28th - buttergolem1 (1):** ERHDude (S1)
+
+**28th - Caydone (1):** CipherKai (S5)
+
+**28th - CodeJoshua (1):** Kaddyn (S3)
+
+**28th - Flcnt (1):** _1mmortal_ (S6)
+
+**28th - Gleoss (1):** Jayzize (S7)
+
+**28th - Greeples (1):** Jaceon02 (S2)
+
+**28th - Hacn35 (1):** BushieHalf (S5)
+
+**28th - ItsColinn (1):** Hacn35 (S5)
+
+**28th - JustNolan (1):** xDiversity (S5)
+
+**28th - kirbey (1):** _carn (S4)
+
+**28th - Lighte (1):** ColdBac (S1)
+
+**28th - Microus (1):** CodeJoshua (S3)
+
+**28th - miles1baseball (1):** DJoee (S3)
+
+**28th - Normoh (1):** aalaan (S1)
+
+**28th - nsket (1):** Codwhy (S5)
+
+**28th - PupperKun (1):** nsket (S7)
+
+**28th - tagggz (1):** chloesad (S2)
 
 ---
 ### PvE Deaths
@@ -73,18 +172,18 @@
 ---
 ### Debutants
 
-**S1 (16):** aalaan, Normoh, Glarza, RqDix, ColdBac, Lighte, AnUncreativeCat, LegoBeast, SiahStone, ShyGus, ERHDude, Bobbytheturtle, BardMain2, buttergolem1, azoof, Austronomical
+**S1 (16):** aalaan, AnUncreativeCat, Austronomical, azoof, BardMain2, Bobbytheturtle, buttergolem1, ColdBac, ERHDude, Glarza, LegoBeast, Lighte, Normoh, RqDix, ShyGus, SiahStone
 
-**S2 (16):** hazel_doe, pigghetti, Gorgerous, Fcrm, PresidentFleb, Jaceon02, wizarde, lexicuhl, Cyndic, Greeples, chloesad, CHAINGE, I_is_cheesecake, Spongey, tagggz, ThePeridotKnight
+**S2 (16):** CHAINGE, chloesad, Cyndic, Fcrm, Gorgerous, Greeples, hazel_doe, I_is_cheesecake, Jaceon02, lexicuhl, pigghetti, PresidentFleb, Spongey, tagggz, ThePeridotKnight, wizarde
 
-**S3 (16):** WackoFlipper, Eluniel, Kaddyn, CodeJoshua, Microus, Ryfri, vynil, GetNicked, DJoee, _Dieter, Dida, _pbo, benidk, Kelawesome, miles1baseball, Purpdan
+**S3 (16):** _Dieter, _pbo, benidk, CodeJoshua, Dida, DJoee, Eluniel, GetNicked, Kaddyn, Kelawesome, Microus, miles1baseball, Purpdan, Ryfri, vynil, WackoFlipper
 
-**S4 (16):** ToontownOnline, Bacan, _carn, Captinn, Flcnt, Cqson, Aybel, kirbey, TheSlimeBrother, TehBaconBrawlerZ, Rohcket, Fra49, _1mmortal_, Jakekub, CipherKai, ohh_lia
+**S4 (16):** _1mmortal_, _carn, Aybel, Bacan, Captinn, CipherKai, Cqson, Flcnt, Fra49, Jakekub, kirbey, ohh_lia, Rohcket, TehBaconBrawlerZ, TheSlimeBrother, ToontownOnline
 
-**S5 (16):** Codwhy, Ullti, BushieHalf, nsket, broccoliar, olivieh, xDiversity, Hacn35, JustNolan, SpaceFenix, Drkrai, Caydone, _Fost_, ItsColinn, brinkwhy, St0rmplayz
+**S5 (16):** _Fost_, brinkwhy, broccoliar, BushieHalf, Caydone, Codwhy, Drkrai, Hacn35, ItsColinn, JustNolan, nsket, olivieh, SpaceFenix, St0rmplayz, Ullti, xDiversity
 
 **S6 (0):** 
 
-**S7 (9):** stupidsylvia, PupperKun, Brodator, Jayzize, Gleoss, frogsella, acadiangel, Dj8ninja, strategy
+**S7 (9):** acadiangel, Brodator, Dj8ninja, frogsella, Gleoss, Jayzize, PupperKun, strategy, stupidsylvia
 
 ---

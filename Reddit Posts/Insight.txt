@@ -45,6 +45,41 @@
 ---
 ### Kills
 
+**1st - Dylan_SF (6):** ChainingVermin2 (S2), Zahkari (S2), powermc (S2), MaxEvasion (S2), Sorvent (S2), Fictional (S2)
+
+**2nd - cherryblawsom (4):** HaHaYes (S1), GoldenNs (S2), Professer_TNT (S2), Westcraft00 (S3)
+
+**2nd - ConBeanJones (4):** WillBrisk (S2), Professer_TNT (S3), AmbientDan (S3), cherryblawsom (S3)
+
+**4th - Dee957 (3):** Abdalain (S2), Dylan_SF (S2), cherryblawsom (S2)
+
+**4th - HaHaYes (3):** MaxEvasion (S1), MercuryParadox (S1), JustNolan (S1)
+
+**6th - Fictional (2):** MaxEvasion (S3), SiahStone (S3)
+
+**6th - JahMuis (2):** Zahkari (S3), IzunaLoli (S3)
+
+**6th - JRjoos (2):** powermc (S1), ThePeridotKnight (S2)
+
+**6th - MercuryParadox (2):** Westcraft00 (S1), Zahkari (S1)
+
+**6th - Professer_TNT (2):** Mop19 (S2), JRjoos (S2)
+
+**6th - TheRealHagrid (2):** JRjoos (S1), Dee957 (S2)
+
+**6th - Zahkari (2):** Abdalain (S1), GoldenNs (S1)
+
+**13th - Andrew512 (1):** Chipzzy (S3)
+
+**13th - IceshardEleven (1):** JahMuis (S3)
+
+**13th - JustNolan (1):** YaojaDzn (S3)
+
+**13th - MaxEvasion (1):** swishduck (S1)
+
+**13th - Sorvent (1):** Westcraft00 (S2)
+
+**13th - WillBrisk (1):** ConBeanJones (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +92,10 @@
 ---
 ### Debutants
 
-**S1 (15):** ChainingVermin2, DrJamezz, Abdalain, powermc, Westcraft00, GoldenNs, swishduck, MaxEvasion, Zahkari, JRjoos, MercuryParadox, JustNolan, HaHaYes, cherryblawsom, TheRealHagrid
+**S1 (15):** Abdalain, ChainingVermin2, cherryblawsom, DrJamezz, GoldenNs, HaHaYes, JRjoos, JustNolan, MaxEvasion, MercuryParadox, powermc, swishduck, TheRealHagrid, Westcraft00, Zahkari
 
-**S2 (10):** ThePeridotKnight, Zachf01, Sorvent, Fictional, Dylan_SF, Mop19, WillBrisk, ConBeanJones, Professer_TNT, Dee957
+**S2 (10):** ConBeanJones, Dee957, Dylan_SF, Fictional, Mop19, Professer_TNT, Sorvent, ThePeridotKnight, WillBrisk, Zachf01
 
-**S3 (8):** IzunaLoli, Chipzzy, YaojaDzn, AmbientDan, JahMuis, SiahStone, Andrew512, IceshardEleven
+**S3 (8):** AmbientDan, Andrew512, Chipzzy, IceshardEleven, IzunaLoli, JahMuis, SiahStone, YaojaDzn
 
 ---

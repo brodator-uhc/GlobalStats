@@ -65,6 +65,53 @@
 ---
 ### Kills
 
+**1st - Kiinako_ (15):** CMattznes (S2), Krenzinator (S3), MrPolzerino (S4), MockingDude (S4), TicedUp (S4), VeniiiD (S6), Hollymatman (S6), PoisonPanda (S6), Stollaz (S6), Lilla98 (S6), Kdid (S7), TommySuX (S7), Timonscholte (S7), Hollymatman (S7), Schmeon (S7)
+
+**2nd - Stollaz (14):** Kiinako_ (S1), MockingDude (S1), MrPolzerino (S1), MeadowMoos (S2), SidGarcia (S2), exetonline (S2), MockingDude (S3), Kiinako_ (S3), exetonline (S3), PrimeSituation (S3), ScottishNutcase (S5), Neoscys (S7), Kiinako_ (S7), Timonscholte (S8)
+
+**3rd - ScottishNutcase (9):** PoisonPanda (S5), wibbol (S5), Kdid (S5), Kiinako_ (S5), TicedUp (S5), Lilla98 (S5), MrPolzerino (S5), Frostbreath (S6), Timonscholte (S6)
+
+**4th - TheSonicJoey (5):** bror31 (S4), Kdid (S4), Maj0r_Min3r_98 (S8), Stollaz (S8), wibbol (S8)
+
+**5th - Hollymatman (4):** TicedUp (S6), TheSonicJoey (S7), Havenhand (S7), Shreddonia (S8)
+
+**5th - TicedUp (4):** SidGarcia (S5), MrPolzerino (S8), Lilla98 (S8), ScottishNutcase (S8)
+
+**7th - Kdid (3):** MarcC5M (S6), Havenhand (S8), TicedUp (S8)
+
+**7th - TGMB1 (3):** Timonscholte (S4), Lilla98 (S4), ScottishNutcase (S4)
+
+**7th - Timonscholte (3):** wibbol (S6), ScottishNutcase (S6), MeadowMoos (S7)
+
+**7th - wibbol (3):** Hollymatman (S8), SidGarcia (S8), Kdid (S8)
+
+**11th - bror31 (2):** Stollaz (S4), MeadowMoos (S4)
+
+**11th - exetonline (2):** Kiinako_ (S2), TicedUp (S2)
+
+**11th - Krenzinator (2):** Hollymatman (S3), Lilla98 (S3)
+
+**11th - MeadowMoos (2):** Hollymatman (S4), SidGarcia (S7)
+
+**11th - MrPolzerino (2):** MeadowMoos (S5), smellyburrito (S5)
+
+**11th - Schmeon (2):** ScottishNutcase (S7), Lilla98 (S7)
+
+**11th - TommySuX (2):** Schmeon (S8), Kiinako_ (S8)
+
+**18th - CMattznes (1):** MockingDude (S2)
+
+**18th - Havenhand (1):** MockingDude (S8)
+
+**18th - Lilla98 (1):** MrPolzerino (S6)
+
+**18th - MPMG (1):** MrTeamRaven (S7)
+
+**18th - Neoscys (1):** VeniiiD (S7)
+
+**18th - PoisonPanda (1):** Kdid (S6)
+
+**18th - SidGarcia (1):** Hollymatman (S5)
 
 ---
 ### PvE Deaths
@@ -77,19 +124,19 @@
 ---
 ### Debutants
 
-**S1 (7):** exetonline, Kiinako_, ScottishNutcase, MeadowMoos, MockingDude, MrPolzerino, Stollaz
+**S1 (7):** exetonline, Kiinako_, MeadowMoos, MockingDude, MrPolzerino, ScottishNutcase, Stollaz
 
-**S2 (4):** Lilla98, SidGarcia, CMattznes, TicedUp
+**S2 (4):** CMattznes, Lilla98, SidGarcia, TicedUp
 
 **S3 (3):** Hollymatman, Krenzinator, PrimeSituation
 
-**S4 (6):** Kelt78, Timonscholte, bror31, Kdid, TGMB1, TheSonicJoey
+**S4 (6):** bror31, Kdid, Kelt78, TGMB1, TheSonicJoey, Timonscholte
 
-**S5 (3):** PoisonPanda, wibbol, smellyburrito
+**S5 (3):** PoisonPanda, smellyburrito, wibbol
 
-**S6 (3):** Frostbreath, VeniiiD, MarcC5M
+**S6 (3):** Frostbreath, MarcC5M, VeniiiD
 
-**S7 (6):** MrTeamRaven, MPMG, TommySuX, Havenhand, Neoscys, Schmeon
+**S7 (6):** Havenhand, MPMG, MrTeamRaven, Neoscys, Schmeon, TommySuX
 
 **S8 (2):** Maj0r_Min3r_98, Shreddonia
 

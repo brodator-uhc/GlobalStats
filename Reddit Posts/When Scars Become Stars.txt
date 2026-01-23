@@ -45,6 +45,81 @@
 ---
 ### Kills
 
+**1st - Kelawesome (11):** Evzenitable (S1), _Fost_ (S1), Glarza (S1), Rebelghost (S2), LoafOZ (S2), 4EyedSlime (S2), ArcticSeagull (S2), Pelycosaur (S2), kirbey (S2), Cqson (S2), wibbol (S2)
+
+**2nd - Bobbytheturtle (10):** TehBaconBrawlerZ (S3), Brodator (S3), CommanderK22_ (S3), pierce981 (S3), ChrisCD (S3), FrostBros (S3), Plushy33 (S3), cherryblawsom (S3), CHAINGE (S3), ChainingVermin2 (S3)
+
+**3rd - xMisha (6):** DevoyTTV (S1), Espik (S1), ObsidianFractal (S1), Kelawesome (S1), TehBaconBrawlerZ (S1), Cubic44 (S1)
+
+**4th - Jorgeeay (5):** JoshC2 (S1), FrostBros (S1), Kelawesome (S2), Plushy33 (S2), DevoyTTV (S2)
+
+**4th - zCent (5):** emi1iano (S3), ShootingGoats (S3), TonyEatWorld (S3), Kelawesome (S3), DevoyTTV (S3)
+
+**6th - CHAINGE (4):** TehBaconBrawlerZ (S2), Zebobo10 (S2), JampoJohn (S3), tbhjosh (S3)
+
+**6th - JustNolan (4):** KOKeowner (S3), antbound (S3), zCent (S3), MaxEvasion (S3)
+
+**8th - Boomblade60 (3):** TacoDab (S3), broccoliar (S3), GamingStarr (S3)
+
+**8th - DevoyTTV (3):** Fourbitplayer (S1), Jorgeeay (S1), Bohe (S3)
+
+**8th - ItzIgglesPiggles (3):** CodeJoshua (S1), Greatwarrior_ (S1), Rohcket (S1)
+
+**8th - Jayzize (3):** Fcrm (S2), FrostBros (S2), David63 (S2)
+
+**8th - Plushy33 (3):** ArcticSeagull (S1), ImChile (S3), Westcraft00 (S3)
+
+**13th - BoltsInCharge (2):** ProGirlGamer (S3), JaeHasNoMaidens (S3)
+
+**13th - Bulbexe (2):** PresidentFleb (S2), MaxEvasion (S2)
+
+**13th - ChainingVermin2 (2):** GoldenNs (S3), JustNolan (S3)
+
+**13th - Cubic44 (2):** Rebelghost (S1), Captinn (S1)
+
+**13th - Fcrm (2):** Fourbitplayer (S2), Bulbexe (S2)
+
+**13th - MaxEvasion (2):** Rohcket (S2), vinny212 (S3)
+
+**13th - ShyGus (2):** Ziny22 (S2), JoshC2 (S2)
+
+**13th - TheRealHagrid (2):** ShyGus (S2), CHAINGE (S2)
+
+**21st - ArcticSeagull (1):** Cubic44 (S2)
+
+**21st - brinkwhy (1):** kirbey (S3)
+
+**21st - broccoliar (1):** PitSolitayrh (S2)
+
+**21st - Brodator (1):** silh (S3)
+
+**21st - ChrisCD (1):** ADinoPlayingMC (S3)
+
+**21st - ColdBac (1):** IcyshadowMC (S3)
+
+**21st - David63 (1):** brinkwhy (S2)
+
+**21st - Fourbitplayer (1):** MaxEvasion (S1)
+
+**21st - FrostBros (1):** Br8dy_ (S3)
+
+**21st - Glarza (1):** broccoliar (S2)
+
+**21st - Greatwarrior_ (1):** TayUHC (S1)
+
+**21st - JampoJohn (1):** Ryfri (S3)
+
+**21st - Kaismartypants (1):** BoltsInCharge (S3)
+
+**21st - Rebelghost (1):** Plushy33 (S1)
+
+**21st - tbhjosh (1):** brinkwhy (S3)
+
+**21st - TehBaconBrawlerZ (1):** ItzIgglesPiggles (S1)
+
+**21st - TonyEatWorld (1):** Queequa (S3)
+
+**21st - Zebobo10 (1):** Glarza (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +132,10 @@
 ---
 ### Debutants
 
-**S1 (24):** TayUHC, CodeJoshua, Greatwarrior_, Evzenitable, _Fost_, Glarza, Rohcket, JoshC2, MaxEvasion, Fourbitplayer, FrostBros, Jorgeeay, DevoyTTV, ArcticSeagull, Plushy33, Rebelghost, Espik, ObsidianFractal, ItzIgglesPiggles, Captinn, Kelawesome, TehBaconBrawlerZ, Cubic44, xMisha
+**S1 (24):** _Fost_, ArcticSeagull, Captinn, CodeJoshua, Cubic44, DevoyTTV, Espik, Evzenitable, Fourbitplayer, FrostBros, Glarza, Greatwarrior_, ItzIgglesPiggles, Jorgeeay, JoshC2, Kelawesome, MaxEvasion, ObsidianFractal, Plushy33, Rebelghost, Rohcket, TayUHC, TehBaconBrawlerZ, xMisha
 
-**S2 (19):** Ziny22, LoafOZ, 4EyedSlime, Pelycosaur, kirbey, Cqson, wibbol, PitSolitayrh, broccoliar, PresidentFleb, Bulbexe, Fcrm, ShyGus, brinkwhy, Zebobo10, CHAINGE, David63, Jayzize, TheRealHagrid
+**S2 (19):** 4EyedSlime, brinkwhy, broccoliar, Bulbexe, CHAINGE, Cqson, David63, Fcrm, Jayzize, kirbey, LoafOZ, Pelycosaur, PitSolitayrh, PresidentFleb, ShyGus, TheRealHagrid, wibbol, Zebobo10, Ziny22
 
-**S3 (35):** Queequa, emi1iano, ShootingGoats, TacoDab, vinny212, silh, KOKeowner, Br8dy_, antbound, Brodator, Bohe, ProGirlGamer, IcyshadowMC, ColdBac, GamingStarr, ADinoPlayingMC, CommanderK22_, pierce981, TonyEatWorld, ImChile, JaeHasNoMaidens, zCent, BoltsInCharge, ChrisCD, Kaismartypants, Boomblade60, Ryfri, GoldenNs, JustNolan, JampoJohn, Westcraft00, cherryblawsom, tbhjosh, ChainingVermin2, Bobbytheturtle
+**S3 (35):** ADinoPlayingMC, antbound, Bobbytheturtle, Bohe, BoltsInCharge, Boomblade60, Br8dy_, Brodator, ChainingVermin2, cherryblawsom, ChrisCD, ColdBac, CommanderK22_, emi1iano, GamingStarr, GoldenNs, IcyshadowMC, ImChile, JaeHasNoMaidens, JampoJohn, JustNolan, Kaismartypants, KOKeowner, pierce981, ProGirlGamer, Queequa, Ryfri, ShootingGoats, silh, TacoDab, tbhjosh, TonyEatWorld, vinny212, Westcraft00, zCent
 
 ---

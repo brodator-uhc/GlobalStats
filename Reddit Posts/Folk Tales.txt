@@ -49,6 +49,55 @@
 ---
 ### Kills
 
+**1st - _Bogo (9):** GeeSam (S1), Swedish_ (S1), LinkOcarinaTime (S1), Maxwellfifty (S1), CountryCutie (S3), GeeSam (S3), Maxwellfifty (S3), SidGarcia (S3), Kingsy_ (S4)
+
+**2nd - 5hup (6):** TheMop (S2), Kingsy_ (S2), MrPolzerino (S2), KatyLawson (S4), poempedoempoex (S4), oDogLFC (S4)
+
+**3rd - Swedish_ (5):** Emerric (S1), ScottPirie (S1), Flohp (S1), GeeSam (S2), ShyGus (S3)
+
+**3rd - xPhinehas (5):** Swyrnd (S1), Supah_Matt (S1), ScottPirie (S2), Leriella (S2), Emerric (S2)
+
+**5th - GeeSam (4):** TheSonicJoey (S1), Hollymatman (S1), CountryCutie (S2), FazedMC (S4)
+
+**5th - Maxwellfifty (4):** Gillieeeee (S1), Swedish_ (S2), SidGarcia (S2), xPhinehas (S2)
+
+**5th - poempedoempoex (4):** CountryCutie (S1), Tomochevski (S1), ShyGus (S1), 5hup (S1)
+
+**5th - Ruari (4):** TotallyNotSirius (S1), Livin423 (S1), KatyLawson (S1), QuilJ1 (S1)
+
+**5th - ScottPirie (4):** TotallyNotSirius (S2), Tomochevski (S2), _Bogo (S4), 5hup (S4)
+
+**10th - MrCraftinator (3):** Livin423 (S2), LinkOcarinaTime (S2), FazedMC (S2)
+
+**10th - Tomochevski (3):** Chasmic (S1), Leriella (S1), Flouzemaker (S2)
+
+**12th - _itslennard14 (2):** QuilJ1 (S4), Ruari (S4)
+
+**12th - Emerric (2):** Ruari (S2), 5hup (S2)
+
+**12th - FazedMC (2):** _itslennard14 (S4), lottebunny (S4)
+
+**12th - Flouzemaker (2):** oDogLFC (S3), jvevo (S4)
+
+**12th - Hollymatman (2):** Kingsy_ (S1), BarbieGamer (S1)
+
+**12th - Kingsy_ (2):** Tomathius (S1), MrCraftinator (S2)
+
+**12th - ShyGus (2):** Ruari (S1), Kingsy_ (S3)
+
+**12th - SidGarcia (2):** Chasmic (S2), BarbieGamer (S2)
+
+**12th - TheSonicJoey (2):** Flouzemaker (S3), KatyLawson (S3)
+
+**21st - jvevo (1):** Flouzemaker (S4)
+
+**21st - Leriella (1):** Emerric (S3)
+
+**21st - oDogLFC (1):** GeeSam (S4)
+
+**21st - QuilJ1 (1):** 5hup (S3)
+
+**21st - Tomathius (1):** CelVeritas (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +110,12 @@
 ---
 ### Debutants
 
-**S1 (30):** Emerric, TotallyNotSirius, Chasmic, ScottPirie, Leriella, Flohp, Livin423, Swyrnd, CelVeritas, KatyLawson, Tomathius, Kingsy_, BarbieGamer, TheSonicJoey, Hollymatman, Supah_Matt, CountryCutie, GeeSam, Tomochevski, Swedish_, QuilJ1, Ruari, LinkOcarinaTime, Gillieeeee, Maxwellfifty, ShyGus, 5hup, _Bogo, poempedoempoex, xPhinehas
+**S1 (30):** _Bogo, 5hup, BarbieGamer, CelVeritas, Chasmic, CountryCutie, Emerric, Flohp, GeeSam, Gillieeeee, Hollymatman, KatyLawson, Kingsy_, Leriella, LinkOcarinaTime, Livin423, Maxwellfifty, poempedoempoex, QuilJ1, Ruari, ScottPirie, ShyGus, Supah_Matt, Swedish_, Swyrnd, TheSonicJoey, Tomathius, Tomochevski, TotallyNotSirius, xPhinehas
 
-**S2 (7):** Flouzemaker, oDogLFC, FazedMC, TheMop, MrCraftinator, MrPolzerino, SidGarcia
+**S2 (7):** FazedMC, Flouzemaker, MrCraftinator, MrPolzerino, oDogLFC, SidGarcia, TheMop
 
 **S3 (0):** 
 
-**S4 (4):** LordLaelaps, _itslennard14, lottebunny, jvevo
+**S4 (4):** _itslennard14, jvevo, LordLaelaps, lottebunny
 
 ---

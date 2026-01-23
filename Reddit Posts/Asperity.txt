@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - Livenator (8):** MINETWON (S1), BryceASF (S1), sugarl0af (S1), Squibly_ (S1), DiamondHunterDB2 (S1), dj0322 (S1), Leia23 (S1), Booshayy (S1)
+
+**2nd - NervousElk (3):** vinny212 (S1), iBearHD (S1), ProHulk (S1)
+
+**3rd - sugarl0af (2):** NervousElk (S1), DarkFlightGaming (S1)
+
+**4th - BryceASF (1):** zlim95 (S1)
+
+**4th - dj0322 (1):** GildedMaze (S1)
+
+**4th - GildedMaze (1):** MattSilver (S1)
+
+**4th - iBearHD (1):** Gabrieljm619 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (20):** Flexur, MattSilver, GildedMaze, TastyMeat, vinny212, Gabrieljm619, iBearHD, ProHulk, NervousElk, zlim95, MINETWON, BryceASF, DarkFlightGaming, sugarl0af, Squibly_, DiamondHunterDB2, dj0322, Leia23, Booshayy, Livenator
+**S1 (20):** Booshayy, BryceASF, DarkFlightGaming, DiamondHunterDB2, dj0322, Flexur, Gabrieljm619, GildedMaze, iBearHD, Leia23, Livenator, MattSilver, MINETWON, NervousElk, ProHulk, Squibly_, sugarl0af, TastyMeat, vinny212, zlim95
 
 ---

@@ -73,6 +73,37 @@
 ---
 ### Kills
 
+**1st - JamestheDouglas (11):** Chasmic (S2), Sten_Stone (S5), QuilJ1 (S5), 3Dspoders (S6), Mr_Bombastic_ (S6), Sten_Stone (S6), Maxwellfifty (S7), JoshC2 (S8), mickae (S8), JoshC2 (S10), Pat_N (S10)
+
+**2nd - Pat_N (7):** DBird (S1), 3Dspoders (S3), Sten_Stone (S3), HydroNova (S7), 3Dspoders (S7), mickae (S7), Mr_Bombastic_ (S7)
+
+**3rd - 3Dspoders (4):** Mr_Bombastic_ (S4), DBird (S5), JoshC2 (S6), DBird (S6)
+
+**3rd - Balone (4):** OwlTin (S4), DBird (S4), 3Dspoders (S4), Sten_Stone (S4)
+
+**3rd - DBird (4):** Sten_Stone (S2), Pat_N (S2), Mr_Bombastic_ (S2), Mr_Bombastic_ (S3)
+
+**6th - Krimm (3):** Mr_Bombastic_ (S9), BadMur (S10), Sten_Stone (S10)
+
+**6th - mickae (3):** Greeples (S7), DBird (S8), 3Dspoders (S8)
+
+**6th - Sten_Stone (3):** JamestheDouglas (S3), OwlTin (S6), DBird (S10)
+
+**9th - Maxwellfifty (2):** Sten_Stone (S7), Krimm (S7)
+
+**9th - Mr_Bombastic_ (2):** OwlTin (S2), ACommonKiwi (S2)
+
+**9th - QuilJ1 (2):** Pat_N (S5), Mr_Bombastic_ (S5)
+
+**12th - BadMur (1):** Codwhy (S10)
+
+**12th - Codwhy (1):** Brodator (S10)
+
+**12th - Flouzemaker (1):** Pat_N (S6)
+
+**12th - JoshC2 (1):** TheSonicJoey (S6)
+
+**12th - OwlTin (1):** nin10dojoe (S1)
 
 ---
 ### PvE Deaths
@@ -85,15 +116,15 @@
 ---
 ### Debutants
 
-**S1 (6):** Mr_Bombastic_, ACommonKiwi, DBird, Pat_N, nin10dojoe, OwlTin
+**S1 (6):** ACommonKiwi, DBird, Mr_Bombastic_, nin10dojoe, OwlTin, Pat_N
 
-**S2 (3):** Chasmic, Sten_Stone, JamestheDouglas
+**S2 (3):** Chasmic, JamestheDouglas, Sten_Stone
 
 **S3 (2):** _Infernum_, 3Dspoders
 
 **S4 (1):** Balone
 
-**S5 (4):** JoshC2, Krimm, QuilJ1, Maxwellfifty
+**S5 (4):** JoshC2, Krimm, Maxwellfifty, QuilJ1
 
 **S6 (2):** Flouzemaker, TheSonicJoey
 

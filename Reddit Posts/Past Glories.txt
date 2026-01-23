@@ -57,6 +57,59 @@
 ---
 ### Kills
 
+**1st - Dj8ninja (9):** Keelando (S3), CaptainRichy (S4), Stollaz (S4), TheSonicJoey (S4), TheChrisD (S6), DogOfKrondor (S6), Flouzemaker (S6), Aschilon (S6), MajesticV (S6)
+
+**2nd - TastyBaconZ (6):** wibbol (S1), trillibytes (S1), Mop19 (S1), Aschilon (S2), SoulvG (S3), Pat_N (S3)
+
+**2nd - TheSonicJoey (6):** Mop19 (S2), 78ford (S2), chloesad (S2), Dj8ninja (S3), chloesad (S4), Jordtim (S5)
+
+**4th - Flouzemaker (5):** Davelions (S1), SofaSeven (S1), DogOfKrondor (S4), chloesad (S5), TheBP (S6)
+
+**4th - nFang (5):** Lyarrah (S2), wibbol (S2), Flouzemaker (S2), SofaSeven (S2), OwlTin (S2)
+
+**4th - Zeiyuri (5):** Sten_Stone (S3), ElGavinoSupremo (S3), Klickacat (S4), rippersteveM5 (S4), nFang (S4)
+
+**7th - chloesad (4):** Sten_Stone (S1), nihontiger (S4), Aschilon (S5), KatyLawson (S5)
+
+**7th - Pat_N (4):** Caffeindiazepine (S1), SoulvG (S2), SidGarcia (S3), Flouzemaker (S3)
+
+**9th - Flohp (3):** MeadowMoos (S5), SoulvG (S6), Dj8ninja (S6)
+
+**9th - Jordtim (3):** Zevulpes (S4), TastyBaconZ (S5), H_L_llama (S5)
+
+**9th - rippersteveM5 (3):** chloesad (S1), Aschilon (S1), 78ford (S4)
+
+**9th - Sten_Stone (3):** ElGavinoSupremo (S1), TastyBaconZ (S1), nFang (S1)
+
+**13th - Aschilon (2):** Dj8ninja (S2), Flouzemaker (S4)
+
+**13th - Hariboe (2):** TheSonicJoey (S6), TastyBaconZ (S6)
+
+**13th - SofaSeven (2):** SoulvG (S1), rippersteveM5 (S1)
+
+**13th - tiffaroni (2):** TheChrisD (S5), Flouzemaker (S5)
+
+**17th - Charrlottie (1):** Jordtim (S4)
+
+**17th - ElGavinoSupremo (1):** TheSonicJoey (S1)
+
+**17th - H_L_llama (1):** tiffaroni (S5)
+
+**17th - Klickacat (1):** Trinan6918 (S5)
+
+**17th - Mop19 (1):** 78ford (S1)
+
+**17th - OwlTin (1):** TastyBaconZ (S2)
+
+**17th - SidGarcia (1):** TheSonicJoey (S3)
+
+**17th - SoulvG (1):** Pat_N (S1)
+
+**17th - TheBP (1):** Trinan6918 (S6)
+
+**17th - TheChrisD (1):** SoHoney (S6)
+
+**17th - wibbol (1):** Pat_N (S2)
 
 ---
 ### PvE Deaths
@@ -69,16 +122,16 @@
 ---
 ### Debutants
 
-**S1 (21):** Just_Gerald, Keelando, TheSonicJoey, wibbol, trillibytes, Davelions, 78ford, ElGavinoSupremo, Mop19, TastyBaconZ, nFang, Sten_Stone, Caffeindiazepine, Pat_N, chloesad, SoulvG, Aschilon, rippersteveM5, SofaSeven, Flouzemaker, Lyarrah
+**S1 (21):** 78ford, Aschilon, Caffeindiazepine, chloesad, Davelions, ElGavinoSupremo, Flouzemaker, Just_Gerald, Keelando, Lyarrah, Mop19, nFang, Pat_N, rippersteveM5, SofaSeven, SoulvG, Sten_Stone, TastyBaconZ, TheSonicJoey, trillibytes, wibbol
 
-**S2 (3):** Dj8ninja, DBird, OwlTin
+**S2 (3):** DBird, Dj8ninja, OwlTin
 
 **S3 (2):** SidGarcia, Zeiyuri
 
-**S4 (9):** CaptainRichy, Klickacat, nihontiger, DogOfKrondor, Stollaz, sonmica, Zevulpes, Jordtim, Charrlottie
+**S4 (9):** CaptainRichy, Charrlottie, DogOfKrondor, Jordtim, Klickacat, nihontiger, sonmica, Stollaz, Zevulpes
 
-**S5 (7):** Trinan6918, TheChrisD, KatyLawson, tiffaroni, H_L_llama, MeadowMoos, Flohp
+**S5 (7):** Flohp, H_L_llama, KatyLawson, MeadowMoos, TheChrisD, tiffaroni, Trinan6918
 
-**S6 (4):** SoHoney, TheBP, MajesticV, Hariboe
+**S6 (4):** Hariboe, MajesticV, SoHoney, TheBP
 
 ---

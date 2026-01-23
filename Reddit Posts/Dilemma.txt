@@ -53,6 +53,83 @@
 ---
 ### Kills
 
+**1st - JaqOnCraq (8):** DevoyTTV (S1), TayUHC (S1), Thermql (S1), Brocko (S1), _ChrisMS (S1), CHAINGE (S1), Drake132667596 (S1), Spongey (S3)
+
+**2nd - natsuvi (6):** Fcrm (S1), Cubic44 (S1), MarExists (S3), Pelycosaur (S3), Bluests (S3), Andronify (S4)
+
+**2nd - Ryfri (6):** Blarkslol (S3), Andronify (S3), AHSOKATANOSTAN (S3), JaqOnCraq (S3), Aspect06 (S4), Normoh (S4)
+
+**4th - RqDix (5):** Ryfri (S2), UglySheep (S2), Jahrod (S3), DevoyTTV (S4), TacoDab (S5)
+
+**4th - Zebobo10 (5):** Andronify (S5), MaxEvasion (S5), _Dieter (S5), kirbey (S5), azoof (S5)
+
+**6th - ArcticSeagull (4):** olivieh (S4), Flcnt (S4), Karliffu (S4), Blarkslol (S4)
+
+**6th - Blarkslol (4):** Brodator (S3), MaxEvasion (S3), RqDix (S4), azoof (S4)
+
+**6th - egl_ (4):** FrostBros (S2), _Fost_ (S2), Slooshyy (S2), jakeyx3 (S2)
+
+**6th - TacoDab (4):** Brodator (S2), _ChrisMS (S2), CHAINGE (S5), RqDix (S5)
+
+**10th - _ChrisMS (3):** m4ku (S1), Jahrod (S5), OnlyCosmia (S5)
+
+**10th - AtomicCrossbow (3):** Fourbitplayer (S1), egl_ (S1), _Fost_ (S1)
+
+**10th - CHAINGE (3):** JamestheDouglas (S1), p1an (S1), Rebelghost (S1)
+
+**10th - Cubic44 (3):** Slooshyy (S1), Jahrod (S2), MaxEvasion (S2)
+
+**10th - IyaIsMad (3):** m4ku (S2), Pelycosaur (S2), Blarkslol (S2)
+
+**10th - p1an (3):** Vetmire (S1), TvError (S1), AtomicCrossbow (S1)
+
+**10th - Rebelghost (3):** Cubic44 (S2), natsuvi (S5), ZebraPantz (S5)
+
+**10th - Sneaky26 (3):** UglySheep (S5), Pie212_123 (S5), PitSolitayrh (S5)
+
+**10th - ZachMcD (3):** _Fost_ (S3), natsuvi (S3), Ryfri (S3)
+
+**19th - Andronify (2):** Drake132667596 (S4), Markedbooboy (S4)
+
+**19th - azoof (2):** _ChrisMS (S5), Drake132667596 (S5)
+
+**19th - Bluests (2):** Phyrrus (S3), ArcticSeagull (S3)
+
+**19th - DevoyTTV (2):** Phyrrus (S1), _Dieter (S4)
+
+**19th - DJoee (2):** JaqOnCraq (S4), GoldenNs (S4)
+
+**19th - Drake132667596 (2):** JaqOnCraq (S1), Rebelghost (S5)
+
+**19th - MaxEvasion (2):** JamestheDouglas (S2), TheSlimeBrother (S3)
+
+**19th - Pelycosaur (2):** nFang (S2), Chipzzy (S2)
+
+**19th - ZebraPantz (2):** Flcnt (S5), Sneaky26 (S5)
+
+**28th - _Dieter (1):** Karliffu (S5)
+
+**28th - Fcrm (1):** ohh_lia (S1)
+
+**28th - FrostBros (1):** TacoDab (S2)
+
+**28th - GoldenNs (1):** AtomicCrossbow (S4)
+
+**28th - Jahrod (1):** DarrenBGP (S5)
+
+**28th - Karliffu (1):** JaqOnCraq (S5)
+
+**28th - m4ku (1):** TacoDab (S1)
+
+**28th - Markedbooboy (1):** DJoee (S4)
+
+**28th - Normoh (1):** natsuvi (S4)
+
+**28th - Pie212_123 (1):** Normoh (S5)
+
+**28th - Thermql (1):** Pelycosaur (S1)
+
+**28th - UglySheep (1):** DevoyTTV (S2)
 
 ---
 ### PvE Deaths
@@ -65,14 +142,14 @@
 ---
 ### Debutants
 
-**S1 (27):** TheSheepMasters, Fourbitplayer, Vetmire, TvError, ohh_lia, TacoDab, Phyrrus, DevoyTTV, TayUHC, m4ku, Pelycosaur, Thermql, Slooshyy, Brocko, _ChrisMS, JamestheDouglas, egl_, _Fost_, AtomicCrossbow, p1an, Fcrm, Rebelghost, CHAINGE, Drake132667596, JaqOnCraq, Cubic44, natsuvi
+**S1 (27):** _ChrisMS, _Fost_, AtomicCrossbow, Brocko, CHAINGE, Cubic44, DevoyTTV, Drake132667596, egl_, Fcrm, Fourbitplayer, JamestheDouglas, JaqOnCraq, m4ku, natsuvi, ohh_lia, p1an, Pelycosaur, Phyrrus, Rebelghost, Slooshyy, TacoDab, TayUHC, Thermql, TheSheepMasters, TvError, Vetmire
 
-**S2 (13):** ArcticSeagull, Brodator, Ryfri, UglySheep, RqDix, FrostBros, nFang, Jahrod, Chipzzy, MaxEvasion, jakeyx3, Blarkslol, IyaIsMad
+**S2 (13):** ArcticSeagull, Blarkslol, Brodator, Chipzzy, FrostBros, IyaIsMad, Jahrod, jakeyx3, MaxEvasion, nFang, RqDix, Ryfri, UglySheep
 
-**S3 (7):** MarExists, TheSlimeBrother, Bluests, Andronify, AHSOKATANOSTAN, Spongey, ZachMcD
+**S3 (7):** AHSOKATANOSTAN, Andronify, Bluests, MarExists, Spongey, TheSlimeBrother, ZachMcD
 
-**S4 (10):** olivieh, GoldenNs, DJoee, Markedbooboy, Flcnt, Karliffu, Aspect06, _Dieter, azoof, Normoh
+**S4 (10):** _Dieter, Aspect06, azoof, DJoee, Flcnt, GoldenNs, Karliffu, Markedbooboy, Normoh, olivieh
 
-**S5 (10):** DarrenBGP, Hrray, OnlyCosmia, Pie212_123, PitSolitayrh, Sneaky26, ZebraPantz, Charrlottie, kirbey, Zebobo10
+**S5 (10):** Charrlottie, DarrenBGP, Hrray, kirbey, OnlyCosmia, Pie212_123, PitSolitayrh, Sneaky26, Zebobo10, ZebraPantz
 
 ---

@@ -37,6 +37,43 @@
 ---
 ### Kills
 
+**1st - Pelycosaur (4):** RuneTactics (S1), DragonGlory (S1), Jaceon02 (S1), TheSlimeBrother (S1)
+
+**2nd - Kaddyn (3):** PwincessVanessa (S1), AdonisGaming (S1), Zcin (S1)
+
+**2nd - Zcin (3):** ToeKun (S1), harkuaa (S1), Kaddyn (S1)
+
+**4th - Flcnt (2):** CodeJoshua (S1), kawaiibunri (S1)
+
+**4th - Retrofied (2):** Flcnt (S1), MangoPlayz (S1)
+
+**4th - RuneTactics (2):** Dcrpy (S1), Retrofied (S1)
+
+**7th - ArcticSeagull (1):** FishManIsPotato (S1)
+
+**7th - brinniex (1):** PolarTaco (S1)
+
+**7th - broccoliar (1):** Charrlottie (S1)
+
+**7th - CodeJoshua (1):** Stravilight (S1)
+
+**7th - DragonGlory (1):** broccoliar (S1)
+
+**7th - FishManIsPotato (1):** TitaniumDino25 (S1)
+
+**7th - harkuaa (1):** TehBaconBrawlerZ (S1)
+
+**7th - Jaceon02 (1):** T1mT0m (S1)
+
+**7th - kawaiibunri (1):** ArcticSeagull (S1)
+
+**7th - MangoPlayz (1):** xDiversity (S1)
+
+**7th - PolarTaco (1):** brinniex (S1)
+
+**7th - Stravilight (1):** IdkKiller (S1)
+
+**7th - TheSlimeBrother (1):** Canuk_Head (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +86,6 @@
 ---
 ### Debutants
 
-**S1 (30):** TitaniumDino25, FishManIsPotato, Canuk_Head, IdkKiller, xDiversity, Stravilight, CodeJoshua, ToeKun, ArcticSeagull, kawaiibunri, Flcnt, brinniex, PolarTaco, TehBaconBrawlerZ, harkuaa, Charrlottie, PwincessVanessa, AdonisGaming, Dcrpy, MangoPlayz, Retrofied, RuneTactics, Zcin, Kaddyn, broccoliar, DragonGlory, T1mT0m, Jaceon02, TheSlimeBrother, Pelycosaur
+**S1 (30):** AdonisGaming, ArcticSeagull, brinniex, broccoliar, Canuk_Head, Charrlottie, CodeJoshua, Dcrpy, DragonGlory, FishManIsPotato, Flcnt, harkuaa, IdkKiller, Jaceon02, Kaddyn, kawaiibunri, MangoPlayz, Pelycosaur, PolarTaco, PwincessVanessa, Retrofied, RuneTactics, Stravilight, T1mT0m, TehBaconBrawlerZ, TheSlimeBrother, TitaniumDino25, ToeKun, xDiversity, Zcin
 
 ---

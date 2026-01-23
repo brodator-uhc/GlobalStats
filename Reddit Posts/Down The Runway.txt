@@ -37,6 +37,47 @@
 ---
 ### Kills
 
+**1st - bayweafs (4):** Kaddyn (S1), Brodator (S1), Biwitch (S1), Aybel (S1)
+
+**1st - CHAINGE (4):** SpyroJ (S1), morlnsk (S1), ZenonX_ (S1), fruitlogic (S1)
+
+**3rd - Aybel (3):** Glarza (S1), CHAINGE (S1), bayweafs (S1)
+
+**3rd - hazel_doe (3):** Stravilight (S1), Fcrm (S1), Broseph (S1)
+
+**3rd - Kaddyn (3):** Greeples (S1), CodeJoshua (S1), ArcticSeagull (S1)
+
+**3rd - strategy (3):** Flcnt (S1), RuneTactics (S1), Blarkslol (S1)
+
+**7th - Flcnt (2):** azoof (S1), ItsColinn (S1)
+
+**7th - fruitlogic (2):** wizarde (S1), Drkrai (S1)
+
+**9th - ArcticSeagull (1):** jimmyjegs (S1)
+
+**9th - azoof (1):** tagggz (S1)
+
+**9th - Blarkslol (1):** lasdarling (S1)
+
+**9th - Brodator (1):** _Dieter (S1)
+
+**9th - Broseph (1):** Captinn (S1)
+
+**9th - DJoee (1):** flameorb (S1)
+
+**9th - Fcrm (1):** DJoee (S1)
+
+**9th - Glarza (1):** hazel_doe (S1)
+
+**9th - jimmyjegs (1):** xDiversity (S1)
+
+**9th - lasdarling (1):** lexicuhl (S1)
+
+**9th - lexicuhl (1):** Klobb (S1)
+
+**9th - tagggz (1):** Jalapinecone (S1)
+
+**9th - xDiversity (1):** omnikrxn (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +90,6 @@
 ---
 ### Debutants
 
-**S1 (38):** Greeples, CodeJoshua, Captinn, Stravilight, omnikrxn, xDiversity, flameorb, jimmyjegs, DJoee, Fcrm, Broseph, Jalapinecone, hazel_doe, ArcticSeagull, Glarza, _Dieter, tagggz, azoof, ItsColinn, SpyroJ, Kaddyn, morlnsk, Brodator, ZenonX_, Flcnt, RuneTactics, wizarde, Drkrai, fruitlogic, Biwitch, CHAINGE, bayweafs, Aybel, Klobb, lexicuhl, lasdarling, Blarkslol, strategy
+**S1 (38):** _Dieter, ArcticSeagull, Aybel, azoof, bayweafs, Biwitch, Blarkslol, Brodator, Broseph, Captinn, CHAINGE, CodeJoshua, DJoee, Drkrai, Fcrm, flameorb, Flcnt, fruitlogic, Glarza, Greeples, hazel_doe, ItsColinn, Jalapinecone, jimmyjegs, Kaddyn, Klobb, lasdarling, lexicuhl, morlnsk, omnikrxn, RuneTactics, SpyroJ, strategy, Stravilight, tagggz, wizarde, xDiversity, ZenonX_
 
 ---

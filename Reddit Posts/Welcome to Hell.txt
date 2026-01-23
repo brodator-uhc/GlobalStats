@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - KOKeowner (3):** IX10510IX (S1), Chasmic (S1), TheSonicJoey (S1)
+
+**1st - TommySuX (3):** PhenomCloud (S1), Kiinako_ (S1), Flouzemaker (S1)
+
+**3rd - jamertxn (2):** KOKeowner (S1), Xalxe (S1)
+
+**3rd - Swedish_ (2):** Balone (S1), scriblur (S1)
+
+**5th - Kiinako_ (1):** Fairyjuice (S1)
+
+**5th - KTRBoT (1):** TommySuX (S1)
+
+**5th - Xalxe (1):** KirbyMD (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (16):** IX10510IX, Chasmic, Balone, KirbyMD, PhenomCloud, Fairyjuice, Kiinako_, TheSonicJoey, Flouzemaker, TommySuX, KOKeowner, scriblur, Swedish_, Xalxe, KTRBoT, jamertxn
+**S1 (16):** Balone, Chasmic, Fairyjuice, Flouzemaker, IX10510IX, jamertxn, Kiinako_, KirbyMD, KOKeowner, KTRBoT, PhenomCloud, scriblur, Swedish_, TheSonicJoey, TommySuX, Xalxe
 
 ---

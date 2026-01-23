@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - Emerric (5):** ThePeridotKnight (S1), rippersteveM5 (S1), Wilsonkong (S1), scriblur (S1), Kieranborn (S1)
+
+**1st - Wilsonkong (5):** TommySuX (S1), sonmica (S1), Zarky (S1), scriblur (S2), TommySuX (S2)
+
+**3rd - bobjomac (4):** KOKeowner (S2), miles1baseball (S2), Wilsonkong (S2), dnnyys (S2)
+
+**3rd - Kieranborn (4):** Fukano (S1), Andyboyonalert (S1), Emerric (S1), dRawry (S2)
+
+**5th - scriblur (3):** KOKeowner (S1), sirples (S1), ToucanTom (S2)
+
+**5th - TommySuX (3):** VeryNice (S2), sonmica (S2), warriorcat (S2)
+
+**7th - Andyboyonalert (2):** Regifloat (S1), TalonIII (S1)
+
+**7th - dnnyys (2):** Just_Gerald (S2), Emerric (S2)
+
+**7th - KOKeowner (2):** LordLaelaps (S2), ThePeridotKnight (S2)
+
+**7th - sonmica (2):** Kieranborn (S2), TalonIII (S2)
+
+**11th - Regifloat (1):** dRawry (S1)
+
+**11th - sirples (1):** Sneegsnag (S1)
+
+**11th - TalonIII (1):** Regifloat (S2)
+
+**11th - ThePeridotKnight (1):** KirbyMD (S1)
+
+**11th - Zarky (1):** dnnyys (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (20):** TommySuX, ToucanTom, KirbyMD, Sneegsnag, dnnyys, KOKeowner, sonmica, Fukano, sirples, ThePeridotKnight, Zarky, dRawry, Regifloat, TalonIII, Andyboyonalert, rippersteveM5, Wilsonkong, scriblur, Kieranborn, Emerric
+**S1 (20):** Andyboyonalert, dnnyys, dRawry, Emerric, Fukano, Kieranborn, KirbyMD, KOKeowner, Regifloat, rippersteveM5, scriblur, sirples, Sneegsnag, sonmica, TalonIII, ThePeridotKnight, TommySuX, ToucanTom, Wilsonkong, Zarky
 
-**S2 (7):** VeryNice, LordLaelaps, Just_Gerald, miles1baseball, warriorcat, QuilJ1, bobjomac
+**S2 (7):** bobjomac, Just_Gerald, LordLaelaps, miles1baseball, QuilJ1, VeryNice, warriorcat
 
 ---

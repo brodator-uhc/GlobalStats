@@ -37,6 +37,21 @@
 ---
 ### Kills
 
+**1st - poWpaH (6):** ChainingVermin2 (S1), ShootingGoats (S1), Geroot (S1), broccoliar (S1), fruitlogic (S1), Nuclearsugar (S1)
+
+**2nd - _1mmortal_ (3):** CommanderK22_ (S1), lasdarling (S1), Vetmire (S1)
+
+**3rd - broccoliar (2):** ItsShqky (S1), grantfaker (S1)
+
+**3rd - CommanderK22_ (2):** Stravilight (S1), Blarkslol (S1)
+
+**5th - BoltsInCharge (1):** DarrenBGP (S1)
+
+**5th - ItsShqky (1):** Ryfri (S1)
+
+**5th - Stravilight (1):** BoltsInCharge (S1)
+
+**5th - Vetmire (1):** CodeJoshua (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +64,6 @@
 ---
 ### Debutants
 
-**S1 (20):** ArcticSeagull, Ryfri, ItsShqky, DarrenBGP, ChainingVermin2, BoltsInCharge, Stravilight, Blarkslol, CommanderK22_, ShootingGoats, lasdarling, grantfaker, Geroot, broccoliar, fruitlogic, CodeJoshua, Vetmire, Nuclearsugar, _1mmortal_, poWpaH
+**S1 (20):** _1mmortal_, ArcticSeagull, Blarkslol, BoltsInCharge, broccoliar, ChainingVermin2, CodeJoshua, CommanderK22_, DarrenBGP, fruitlogic, Geroot, grantfaker, ItsShqky, lasdarling, Nuclearsugar, poWpaH, Ryfri, ShootingGoats, Stravilight, Vetmire
 
 ---

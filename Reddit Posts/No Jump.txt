@@ -37,6 +37,13 @@
 ---
 ### Kills
 
+**1st - ToucanTom (3):** 78ford (S1), MeadowMoos (S1), Greeples (S1)
+
+**2nd - Chasmic (2):** TehBaconBrawlerZ (S1), Flufayy (S1)
+
+**2nd - Flufayy (2):** ElGavinoSupremo (S1), ToucanTom (S1)
+
+**4th - TehBaconBrawlerZ (1):** _Fost_ (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +56,6 @@
 ---
 ### Debutants
 
-**S1 (10):** JoshC2, ElGavinoSupremo, 78ford, MeadowMoos, _Fost_, Greeples, TehBaconBrawlerZ, ToucanTom, Flufayy, Chasmic
+**S1 (10):** _Fost_, 78ford, Chasmic, ElGavinoSupremo, Flufayy, Greeples, JoshC2, MeadowMoos, TehBaconBrawlerZ, ToucanTom
 
 ---

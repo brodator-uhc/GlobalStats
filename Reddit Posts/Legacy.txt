@@ -41,6 +41,43 @@
 ---
 ### Kills
 
+**1st - ColdBac (6):** AirInAirOut (S1), Greeples (S1), Bornyo (S1), MercuryParadox (S1), cherryblawsom (S1), egl_ (S1)
+
+**2nd - _1mmortal_ (4):** zCent (S1), CommanderK22_ (S1), Potsie (S1), wizarde (S1)
+
+**3rd - Bornyo (3):** DevoyTTV (S1), TheSlimeBrother (S1), swishduck (S2)
+
+**3rd - egl_ (3):** MajorWoof (S1), Canman (S1), _1mmortal_ (S1)
+
+**5th - ChainingVermin2 (2):** zac083 (S1), MajorWoof (S2)
+
+**5th - cherryblawsom (2):** Jordtim (S1), IyaIsMad (S1)
+
+**5th - Greeples (2):** zac083 (S2), ChainingVermin2 (S2)
+
+**5th - IyaIsMad (2):** frogsella (S1), ChainingVermin2 (S1)
+
+**5th - SpaceFenix (2):** tbhjosh (S2), Bornyo (S2)
+
+**5th - swishduck (2):** AirInAirOut (S2), omchris (S2)
+
+**5th - TheSlimeBrother (2):** Greeples (S2), SpaceFenix (S2)
+
+**5th - Westcraft00 (2):** Kaismartypants (S2), Rohcket (S2)
+
+**13th - FroztiSnowman (1):** Digitale (S1)
+
+**13th - JustNolan (1):** Rebelghost (S2)
+
+**13th - omchris (1):** zCent (S2)
+
+**13th - Potsie (1):** ThisIsHab (S1)
+
+**13th - Rohcket (1):** IyaIsMad (S2)
+
+**13th - zac083 (1):** Lucarrio (S1)
+
+**13th - zCent (1):** BoltsInCharge (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +90,8 @@
 ---
 ### Debutants
 
-**S1 (27):** Digitale, ThisIsHab, MajorWoof, Canman, BoltsInCharge, zCent, TonyEatWorld, Lucarrio, Jordtim, CommanderK22_, Potsie, AirInAirOut, Greeples, DevoyTTV, FroztiSnowman, TheSlimeBrother, Bornyo, zac083, MercuryParadox, frogsella, ChainingVermin2, wizarde, IyaIsMad, cherryblawsom, _1mmortal_, egl_, ColdBac
+**S1 (27):** _1mmortal_, AirInAirOut, BoltsInCharge, Bornyo, Canman, ChainingVermin2, cherryblawsom, ColdBac, CommanderK22_, DevoyTTV, Digitale, egl_, frogsella, FroztiSnowman, Greeples, IyaIsMad, Jordtim, Lucarrio, MajorWoof, MercuryParadox, Potsie, TheSlimeBrother, ThisIsHab, TonyEatWorld, wizarde, zac083, zCent
 
-**S2 (14):** Kaismartypants, Spongey, tbhjosh, Rebelghost, MCmattFTW, JustNolan, CHAINGE, omchris, swishduck, Rohcket, fruitlogic, Westcraft00, allen_, SpaceFenix
+**S2 (14):** allen_, CHAINGE, fruitlogic, JustNolan, Kaismartypants, MCmattFTW, omchris, Rebelghost, Rohcket, SpaceFenix, Spongey, swishduck, tbhjosh, Westcraft00
 
 ---

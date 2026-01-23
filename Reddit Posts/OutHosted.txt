@@ -37,6 +37,35 @@
 ---
 ### Kills
 
+**1st - OhCanada (3):** Kingsy_ (S1), Jakekub (S1), Sean081799 (S1)
+
+**1st - SimplySam (3):** PaperVinnie (S1), Exee (S1), dans1988 (S1)
+
+**3rd - emulie (2):** Gillieeeee (S1), BJPlays (S1)
+
+**3rd - floobel (2):** lottebunny (S1), YoungGunna_ (S1)
+
+**3rd - IsaacMT (2):** lexicuhl (S1), TheKevGuy (S1)
+
+**6th - BJPlays (1):** OhCanada (S1)
+
+**6th - BurningT (1):** SimplySam (S1)
+
+**6th - Exee (1):** LeonTG (S1)
+
+**6th - Gillieeeee (1):** aalaan (S1)
+
+**6th - Jakekub (1):** floobel (S1)
+
+**6th - Kingsy_ (1):** 6dayna6 (S1)
+
+**6th - PaperVinnie (1):** Cookiecrumble_ (S1)
+
+**6th - TheKevGuy (1):** IsaacMT (S1)
+
+**6th - TheSonicJoey (1):** emulie (S1)
+
+**6th - YoungGunna_ (1):** GeeSam (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +78,6 @@
 ---
 ### Debutants
 
-**S1 (24):** 6dayna6, lexicuhl, Kingsy_, TheKevGuy, IsaacMT, Cookiecrumble_, GeeSam, lottebunny, LeonTG, aalaan, YoungGunna_, floobel, PaperVinnie, Jakekub, Sean081799, OhCanada, Gillieeeee, Exee, BJPlays, dans1988, emulie, SimplySam, BurningT, TheSonicJoey
+**S1 (24):** 6dayna6, aalaan, BJPlays, BurningT, Cookiecrumble_, dans1988, emulie, Exee, floobel, GeeSam, Gillieeeee, IsaacMT, Jakekub, Kingsy_, LeonTG, lexicuhl, lottebunny, OhCanada, PaperVinnie, Sean081799, SimplySam, TheKevGuy, TheSonicJoey, YoungGunna_
 
 ---

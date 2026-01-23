@@ -45,6 +45,47 @@
 ---
 ### Kills
 
+**1st - AHSOKATANOSTAN (3):** iQuick_ (S1), natsuvi (S3), DarkShard (S3)
+
+**1st - broccoliar (3):** Zebobo10 (S3), St0rmplayz (S3), brinkwhy (S3)
+
+**1st - ItsPqnda (3):** PoofessorP (S2), Bwaxton (S2), brinkwhy (S2)
+
+**1st - IyaIsMad (3):** TPolls (S1), DaMobFTW (S1), TheEquilizer (S2)
+
+**1st - lilygant (3):** xCindeR_ (S2), Impqct (S2), AHSOKATANOSTAN (S2)
+
+**1st - natsuvi (3):** Bornyo (S3), xKerigan (S3), BoltsInCharge (S3)
+
+**7th - Andronify (2):** SharkeyJaws (S3), IyaIsMad (S3)
+
+**7th - Bornyo (2):** guccibulletvest (S1), Ejecko (S2)
+
+**7th - Impqct (2):** ThisIsHab (S2), ItsPqnda (S2)
+
+**7th - iQuick_ (2):** nh177O13 (S1), AHSOKATANOSTAN (S1)
+
+**7th - Kaismartypants (2):** ChainingVermin2 (S3), Roci97 (S3)
+
+**7th - Livin423 (2):** JoshC2 (S1), IyaIsMad (S1)
+
+**7th - Westcraft00 (2):** Andronify (S3), wizarde (S3)
+
+**7th - wizarde (2):** Blarkslol (S3), broccoliar (S3)
+
+**15th - Broseph (1):** MegaLuxray (S1)
+
+**15th - DKeri (1):** Kaismartypants (S3)
+
+**15th - Ejecko (1):** Bornyo (S2)
+
+**15th - MegaLuxray (1):** Broseph (S1)
+
+**15th - nh177O13 (1):** Kaismartypants (S1)
+
+**15th - TPolls (1):** Bornyo (S1)
+
+**15th - xCindeR_ (1):** Master_Saber (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +98,10 @@
 ---
 ### Debutants
 
-**S1 (15):** beanerr, BardMain2, Kaismartypants, MegaLuxray, Broseph, nh177O13, AHSOKATANOSTAN, iQuick_, JoshC2, guccibulletvest, Bornyo, TPolls, DaMobFTW, IyaIsMad, Livin423
+**S1 (15):** AHSOKATANOSTAN, BardMain2, beanerr, Bornyo, Broseph, DaMobFTW, guccibulletvest, iQuick_, IyaIsMad, JoshC2, Kaismartypants, Livin423, MegaLuxray, nh177O13, TPolls
 
-**S2 (12):** BreakfastBacon, Ejecko, PoofessorP, ThisIsHab, Master_Saber, Bwaxton, brinkwhy, ItsPqnda, xCindeR_, TheEquilizer, Impqct, lilygant
+**S2 (12):** BreakfastBacon, brinkwhy, Bwaxton, Ejecko, Impqct, ItsPqnda, lilygant, Master_Saber, PoofessorP, TheEquilizer, ThisIsHab, xCindeR_
 
-**S3 (15):** xKerigan, Zebobo10, St0rmplayz, ChainingVermin2, SharkeyJaws, Roci97, BoltsInCharge, Blarkslol, broccoliar, natsuvi, Andronify, DarkShard, wizarde, DKeri, Westcraft00
+**S3 (15):** Andronify, Blarkslol, BoltsInCharge, broccoliar, ChainingVermin2, DarkShard, DKeri, natsuvi, Roci97, SharkeyJaws, St0rmplayz, Westcraft00, wizarde, xKerigan, Zebobo10
 
 ---

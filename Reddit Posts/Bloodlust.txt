@@ -53,6 +53,59 @@
 ---
 ### Kills
 
+**1st - HiImCC (11):** lolmcgeeksFTW (S1), Mineguin10 (S1), _Seanybhoy_ (S1), MarcProBow_13 (S1), DECTHEELITE (S2), _Glen (S3), TheRealJJBall (S3), DECTHEELITE (S3), ScottPirie (S3), Hecticity (S4), Digitil (S5)
+
+**2nd - Kingsy_ (9):** Rainbow_Skelly (S2), EwanMcE (S2), Bubblez97 (S2), ZaxerYT (S2), TheRealJJBall (S2), MajorWoof (S2), Eroe (S2), HiImCC (S2), Hecticity (S2)
+
+**3rd - Hecticity (6):** MinecraftlordFL (S2), Joeylinks (S2), Eroe (S3), MaxEvasion (S5), TheRealHagrid (S5), DECTHEELITE (S5)
+
+**3rd - ScottPirie (6):** Bulbae (S4), pigghetti (S4), pigghetti (S5), Bubblez97 (S5), ZaxerYT (S5), Ruari (S5)
+
+**5th - DECTHEELITE (5):** xRyan98 (S2), Salsarico (S4), xRyan98 (S4), HiImCC (S5), JahMuis (S5)
+
+**6th - _Seanybhoy_ (4):** iEnderz (S1), Hecticity (S1), Kingsy_ (S1), TheRealJJBall (S1)
+
+**7th - _Glen (3):** Groom__ (S4), HiImCC (S4), Eroe (S4)
+
+**7th - Joeylinks (3):** Kroyn (S3), Jaack (S3), xRyan98 (S3)
+
+**7th - Ruari (3):** lottebunny (S5), xRyan98 (S5), KaBoom (S5)
+
+**7th - xRyan98 (3):** SkYHaWkPlays (S1), Hecticity (S3), Groom__ (S3)
+
+**11th - iEnderz (2):** 6sal9 (S1), TheGamerCool (S1)
+
+**11th - JahMuis (2):** TheRealJJBall (S4), ScottPirie (S4)
+
+**11th - KaBoom (2):** 6dayna6 (S4), Groom__ (S5)
+
+**14th - 6dayna6 (1):** KaBoom (S4)
+
+**14th - Bubblez97 (1):** Walshy (S3)
+
+**14th - Digitil (1):** Evader22 (S5)
+
+**14th - Eroe (1):** _Glen (S4)
+
+**14th - Jaack (1):** pigghetti (S3)
+
+**14th - lolmcgeeksFTW (1):** swishduck (S1)
+
+**14th - Mineguin10 (1):** GetNicked (S1)
+
+**14th - pigghetti (1):** Qizeax (S3)
+
+**14th - Professer_TNT (1):** TheRealHagrid (S4)
+
+**14th - Salsarico (1):** Rainbow_Skelly (S4)
+
+**14th - SkYHaWkPlays (1):** xRyan98 (S1)
+
+**14th - TheRealHagrid (1):** Professer_TNT (S4)
+
+**14th - Walshy (1):** Bubblez97 (S3)
+
+**14th - ZaxerYT (1):** Bulbae (S5)
 
 ---
 ### PvE Deaths
@@ -65,14 +118,14 @@
 ---
 ### Debutants
 
-**S1 (16):** _DrummonD_, GetNicked, xRyan98, SkYHaWkPlays, 6sal9, TheGamerCool, iEnderz, Hecticity, Kingsy_, TheRealJJBall, swishduck, lolmcgeeksFTW, Mineguin10, _Seanybhoy_, MarcProBow_13, HiImCC
+**S1 (16):** _DrummonD_, _Seanybhoy_, 6sal9, GetNicked, Hecticity, HiImCC, iEnderz, Kingsy_, lolmcgeeksFTW, MarcProBow_13, Mineguin10, SkYHaWkPlays, swishduck, TheGamerCool, TheRealJJBall, xRyan98
 
-**S2 (10):** Kroyn, Rainbow_Skelly, EwanMcE, DECTHEELITE, MinecraftlordFL, Joeylinks, Bubblez97, ZaxerYT, MajorWoof, Eroe
+**S2 (10):** Bubblez97, DECTHEELITE, Eroe, EwanMcE, Joeylinks, Kroyn, MajorWoof, MinecraftlordFL, Rainbow_Skelly, ZaxerYT
 
-**S3 (9):** LittleArabMC, CrazySchnitz, Walshy, _Glen, Qizeax, Groom__, pigghetti, ScottPirie, Jaack
+**S3 (9):** _Glen, CrazySchnitz, Groom__, Jaack, LittleArabMC, pigghetti, Qizeax, ScottPirie, Walshy
 
-**S4 (7):** TheRealHagrid, Professer_TNT, Bulbae, KaBoom, 6dayna6, Salsarico, JahMuis
+**S4 (7):** 6dayna6, Bulbae, JahMuis, KaBoom, Professer_TNT, Salsarico, TheRealHagrid
 
-**S5 (5):** lottebunny, MaxEvasion, Evader22, Digitil, Ruari
+**S5 (5):** Digitil, Evader22, lottebunny, MaxEvasion, Ruari
 
 ---

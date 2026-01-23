@@ -127,7 +127,8 @@ List<String> rp_firstdamage = new List<String>();
 List<String> rp_ironman = new List<String>();
 List<String> rp_firstblood = new List<String>();
 List<String> rp_firstdeath = new List<String>();
-List<String> rp_kills = new List<String>();
+Dictionary<String, int> rp_kills = new Dictionary<String, int>();
+Dictionary<String, String> rp_kills_list = new Dictionary<String, String>();
 List<String> rp_pvedeaths = new List<String>();
 List<String> rp_participations = new List<String>();
 List<String> rp_debutants = new List<String>();
@@ -226,6 +227,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         {
             //Sets variables for stats logic
             List<String> seasonRoster = new List<String>();
+            List<String> seasonDebutant = new List<String>();
             List<String> seasonTeams = new List<String>();
             Dictionary<String, int> killboard = new Dictionary<String, int>();
             IXLCell winnerCell = worksheet.Cell(1, 1);
@@ -400,14 +402,16 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 if (!roundRoster.Contains(value))
                 {
                     roundRoster.Add(value);
-
+                    seasonDebutant.Add(value);
                     gs_totaluniques[value] += 1;
-
-                    season_debutant += value + ", ";
                 }
             }
-
             //Formats the debutants for reddit posts
+            seasonDebutant.Sort();
+            foreach (String debutant in seasonDebutant)
+            {
+                season_debutant += debutant + ", ";
+            }
             if (season_debutant.Length > 0)
             {
                 season_debutant = season_debutant.Remove(season_debutant.Length - 2);
@@ -620,6 +624,16 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
                     //Adds +1 kill on global stats
                     gs_kills[value] += 1;
+
+                    if (rp_kills.ContainsKey(value))
+                    {
+                        rp_kills[value] += 1;
+                        rp_kills_list[value] = rp_kills_list[value] + cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ";
+                    } else
+                    {
+                        rp_kills.Add(value,1);
+                        rp_kills_list.Add(value, cell.CellLeft().CellLeft().GetString() + " (S" + worksheet.Cell(1, firstDataColumn).GetString() + "), ");
+                    }
 
                     //Figures out the killboard of the season
                     if (killboard.ContainsKey(value))
@@ -1185,6 +1199,29 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
     rl_rostersizes.Add(roundRoster.Count);
     String rppath = "..\\..\\..\\Reddit Posts\\" + worksheet.Name + ".txt";
+    String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th", 
+                            "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th",
+                            "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th",
+                            "31st", "32nd", "33rd", "34th", "35th", "36th", "37th", "38th", "39th", "40th",
+                            "41st", "42nd", "43rd", "44th", "45th", "46th", "47th", "48th", "49th", "50th",
+                            "51st", "52nd", "53rd", "54th", "55th", "56th", "57th", "58th", "59th", "60th",
+                            "61st", "62nd", "63rd", "64th", "65th", "66th", "67th", "68th", "69th", "70th",
+                            "71st", "72nd", "73rd", "74th", "75th", "76th", "77th", "78th", "79th", "80th",
+                            "81st", "82nd", "83rd", "84th", "85th", "86th", "87th", "88th", "89th", "90th",
+                            "91st", "92nd", "93rd", "94th", "95th", "96th", "97th", "98th", "99th", "100th",
+                            "101st", "102nd", "103rd", "104th", "105th", "106th", "107th", "108th", "109th", "110th",
+                            "111th", "112th", "113th", "114th", "115th", "116th", "117th", "118th", "119th", "120th",
+                            "121st", "122nd", "123rd", "124th", "125th", "126th", "127th", "128th", "129th", "130th",
+                            "131st", "132nd", "133rd", "134th", "135th", "136th", "137th", "138th", "139th", "140th",
+                            "141st", "142nd", "143rd", "144th", "145th", "146th", "147th", "148th", "149th", "150th",
+                            "151st", "152nd", "153rd", "154th", "155th", "156th", "157th", "158th", "159th", "160th",
+                            "161st", "162nd", "163rd", "164th", "165th", "166th", "167th", "168th", "169th", "170th",
+                            "171st", "172nd", "173rd", "174th", "175th", "176th", "177th", "178th", "179th", "180th",
+                            "181st", "182nd", "183rd", "184th", "185th", "186th", "187th", "188th", "189th", "190th",
+                            "191st", "192nd", "193rd", "194th", "195th", "196th", "197th", "198th", "199th", "200th",};
+    int ranking = 0;
+    int ties = 1;
+    int currentkill = 0;
 
     File.WriteAllText(rppath, "## " + worksheet.Name + " Statistics" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + "---");
@@ -1212,8 +1249,29 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         File.AppendAllText(rppath, firstdeaths + Environment.NewLine);
     }
     File.AppendAllText(rppath, "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### Kills" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Kills" + Environment.NewLine + Environment.NewLine);
+    foreach (String kills in rp_kills_list.Keys)
+    {
+        rp_kills_list[kills] = rp_kills_list[kills].Remove(rp_kills_list[kills].Length - 2);
+    }
+    rp_kills = rp_kills.OrderBy(kvp => kvp.Key).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
+    rp_kills = rp_kills.OrderByDescending(key => key.Value).ToDictionary(keyValuePair => keyValuePair.Key, keyValuePair => keyValuePair.Value);
+    foreach (String kills in rp_kills.Keys)
+    {
+        if (currentkill > 0){
+            if (rp_kills[kills] == currentkill)
+            {
+                ties += 1;
+            } else
+            {
+                ranking += ties;
+                ties = 1;
+            }
+        }
+        File.AppendAllText(rppath, "**" + placement[ranking] + " - " + kills + " (" + rp_kills[kills] + "):** " + rp_kills_list[kills] + Environment.NewLine + Environment.NewLine);
+        currentkill = rp_kills[kills];
+    }
+    File.AppendAllText(rppath, "---");
     File.AppendAllText(rppath, Environment.NewLine + "### PvE Deaths" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine);
@@ -1227,6 +1285,8 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
 
     rp_firstblood.Clear();
     rp_firstdeath.Clear();
+    rp_kills.Clear();
+    rp_kills_list.Clear();
     rp_debutants.Clear();
 }
 

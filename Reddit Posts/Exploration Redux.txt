@@ -45,6 +45,57 @@
 ---
 ### Kills
 
+**1st - Fcrm (11):** 4EyedSlime (S1), Prisma (S1), kirbey (S1), ProGirlGamer (S1), FrostBros (S1), BatMan_1814 (S1), Charrlottie (S1), marcusmtm (S1), Gorgerous (S3), Charrlottie (S3), Nuclearsugar (S3)
+
+**2nd - TheSlimeBrother (10):** GoldenNs (S1), JustNolan (S1), YellowVitt (S1), SpaceFenix (S1), Hardkour (S1), ItsColinn (S1), zac083 (S2), SpaceFenix (S3), CAMKART100 (S3), 4EyedSlime (S3)
+
+**3rd - DJoee (7):** TheSlimeBrother (S2), YellowVitt (S3), Flcnt (S3), Plushy33 (S3), Rohcket (S3), JaqOnCraq (S3), ItsColinn (S3)
+
+**4th - Hecticity (6):** ProGirlGamer (S2), centraleric (S2), Plushy33 (S2), Glarza (S2), RqDix (S3), JustNolan (S3)
+
+**5th - _1mmortal_ (5):** Brodator (S2), Flcnt (S2), JaqOnCraq (S2), wizarde (S2), Greeples (S3)
+
+**5th - Blarkslol (5):** DJoee (S2), FrostBros (S2), YellowVitt (S2), FrostBros (S3), TheSlimeBrother (S3)
+
+**5th - Kelawesome (5):** Ullti (S3), ShootingGoats (S3), Caydone (S3), zac083 (S3), ArcticSeagull (S3)
+
+**5th - Plushy33 (5):** Ullti (S1), Flcnt (S1), Sorvent (S2), ethodog (S2), Ullti (S2)
+
+**9th - CommanderK22_ (4):** MaxEvasion (S3), ProGirlGamer (S3), wizarde (S3), Blarkslol (S3)
+
+**9th - JustNolan (4):** Kaddyn (S1), _1mmortal_ (S2), Hecticity (S2), _1mmortal_ (S3)
+
+**11th - CAMKART100 (3):** 4EyedSlime (S2), centraleric (S3), natsuvi (S3)
+
+**12th - FrostBros (2):** MaxEvasion (S2), Caydone (S2)
+
+**12th - Glarza (2):** kirbey (S2), ZebraPantz (S2)
+
+**12th - JaqOnCraq (2):** Sharkbob94349 (S2), ShootingGoats (S2)
+
+**12th - MaxEvasion (2):** Fcrm (S2), Kelawesome (S3)
+
+**12th - Nuclearsugar (2):** Plushy33 (S1), kirbey (S3)
+
+**12th - YellowVitt (2):** InsertDotJpeg (S2), DevoyTTV (S2)
+
+**12th - ZebraPantz (2):** ItsColinn (S2), BatMan_1814 (S2)
+
+**19th - 4EyedSlime (1):** Fcrm (S3)
+
+**19th - Caydone (1):** Nuclearsugar (S2)
+
+**19th - centraleric (1):** ArcticSeagull (S2)
+
+**19th - Flcnt (1):** DJoee (S1)
+
+**19th - Hardkour (1):** Nuclearsugar (S1)
+
+**19th - ItsColinn (1):** Andronify (S3)
+
+**19th - ProGirlGamer (1):** Hecticity (S3)
+
+**19th - Ullti (1):** CAMKART100 (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +108,10 @@
 ---
 ### Debutants
 
-**S1 (22):** 4EyedSlime, Kaddyn, Ullti, DJoee, Flcnt, GoldenNs, Prisma, kirbey, ProGirlGamer, FrostBros, BatMan_1814, JustNolan, Charrlottie, YellowVitt, Plushy33, Nuclearsugar, marcusmtm, SpaceFenix, Hardkour, ItsColinn, Fcrm, TheSlimeBrother
+**S1 (22):** 4EyedSlime, BatMan_1814, Charrlottie, DJoee, Fcrm, Flcnt, FrostBros, GoldenNs, Hardkour, ItsColinn, JustNolan, Kaddyn, kirbey, marcusmtm, Nuclearsugar, Plushy33, Prisma, ProGirlGamer, SpaceFenix, TheSlimeBrother, Ullti, YellowVitt
 
-**S2 (21):** Brodator, InsertDotJpeg, Sharkbob94349, ShootingGoats, JaqOnCraq, wizarde, brocktober, Sorvent, ethodog, zac083, ArcticSeagull, _1mmortal_, CAMKART100, centraleric, MaxEvasion, Caydone, ZebraPantz, DevoyTTV, Glarza, Hecticity, Blarkslol
+**S2 (21):** _1mmortal_, ArcticSeagull, Blarkslol, brocktober, Brodator, CAMKART100, Caydone, centraleric, DevoyTTV, ethodog, Glarza, Hecticity, InsertDotJpeg, JaqOnCraq, MaxEvasion, Sharkbob94349, ShootingGoats, Sorvent, wizarde, zac083, ZebraPantz
 
-**S3 (8):** Gorgerous, RqDix, Greeples, natsuvi, Kelawesome, Andronify, Rohcket, CommanderK22_
+**S3 (8):** Andronify, CommanderK22_, Gorgerous, Greeples, Kelawesome, natsuvi, Rohcket, RqDix
 
 ---

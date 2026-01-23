@@ -41,6 +41,25 @@
 ---
 ### Kills
 
+**1st - DoctorTP_ (5):** TheBestOtaku (S1), CrazyRusher (S1), TobyPMC (S1), TobyPMC (S2), TheKappaNation (S2)
+
+**2nd - CrazyRusher (3):** AronBaynes (S2), DoctorTP_ (S2), TheRedBlockMC (S2)
+
+**2nd - TobyPMC (3):** TheRedBlockMC (S1), DoctorTP_ (S1), Luqic (S2)
+
+**4th - AronBaynes (2):** TheFlamingW00kie (S2), GRLH (S2)
+
+**4th - GRLH (2):** TheSheepMasters (S1), Hodg5on (S1)
+
+**4th - Hodg5on (2):** ImMist (S1), Everflin (S1)
+
+**4th - TheKappaNation (2):** DuallBlade9 (S2), BrokenPic (S2)
+
+**8th - Luqic (1):** WaffleBee (S2)
+
+**8th - Mini_Maxy (1):** CrazyCallum (S2)
+
+**8th - TheBestOtaku (1):** CakeBrick (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +72,8 @@
 ---
 ### Debutants
 
-**S1 (14):** CakeBrick, TheBestOtaku, TheSheepMasters, tsmbros10, ImMist, Everflin, IsaacMT, Hodg5on, TheRedBlockMC, CrazyRusher, TobyPMC, DoctorTP_, GRLH, WaffleBee
+**S1 (14):** CakeBrick, CrazyRusher, DoctorTP_, Everflin, GRLH, Hodg5on, ImMist, IsaacMT, TheBestOtaku, TheRedBlockMC, TheSheepMasters, TobyPMC, tsmbros10, WaffleBee
 
-**S2 (9):** CrazyCallum, Mini_Maxy, TheFlamingW00kie, AronBaynes, Luqic, _JJL, DuallBlade9, BrokenPic, TheKappaNation
+**S2 (9):** _JJL, AronBaynes, BrokenPic, CrazyCallum, DuallBlade9, Luqic, Mini_Maxy, TheFlamingW00kie, TheKappaNation
 
 ---

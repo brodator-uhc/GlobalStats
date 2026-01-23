@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - CipherKai (6):** Kelawesome (S1), PhenomCloud (S1), ColdBac (S1), Flouzemaker (S1), miles1baseball (S1), Jefflurr (S1)
+
+**2nd - ColdBac (3):** lottebunny (S1), Do_You_Minecraft (S1), Micale (S1)
+
+**3rd - Micale (2):** DjTalica (S1), madmerrick (S1)
+
+**4th - Jefflurr (1):** rippersteveM5 (S1)
+
+**4th - lottebunny (1):** flameorb (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (15):** DjTalica, neonpoop, flameorb, lottebunny, madmerrick, Do_You_Minecraft, Kelawesome, PhenomCloud, Micale, ColdBac, Flouzemaker, miles1baseball, rippersteveM5, Jefflurr, CipherKai
+**S1 (15):** CipherKai, ColdBac, DjTalica, Do_You_Minecraft, flameorb, Flouzemaker, Jefflurr, Kelawesome, lottebunny, madmerrick, Micale, miles1baseball, neonpoop, PhenomCloud, rippersteveM5
 
 ---

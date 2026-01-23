@@ -65,6 +65,69 @@
 ---
 ### Kills
 
+**1st - Lighte (20):** Davelions (S1), ElGavinoSupremo (S1), Pizzarcato (S1), Kaismartypants (S1), Bandias (S1), Paxtona (S1), sigilyph (S1), QuilJ1 (S2), Paxtona (S2), Greeples (S2), centraleric (S2), Austronomical (S3), Klickacat (S4), SiahStone (S4), TaylorLive (S4), centraleric (S4), SmearBear (S4), tooooobin (S4), Dj8ninja (S5), Ratchet6859 (S7)
+
+**2nd - ColdBac (12):** rippersteveM5 (S6), 78ford (S6), SoulvG (S6), DancersTalon (S7), Ullti (S7), SoulvG (S8), MeadowMoos (S8), Paxtona (S8), Ninjajaja (S8), Flohp (S8), SmearBear (S8), Austronomical (S8)
+
+**3rd - Austronomical (11):** WackoFlipper (S5), Lighte (S5), tooooobin (S5), SmearBear (S5), nFang (S6), centraleric (S6), dashdude (S7), QuilJ1 (S7), c1n (S8), Ullti (S8), BBR_ (S8)
+
+**3rd - Greeples (11):** Kaismartypants (S2), TommySuX (S3), 78ford (S4), DancersTalon (S4), ElGavinoSupremo (S5), DancersTalon (S5), QuilJ1 (S5), Austronomical (S7), Klickacat (S7), Fairyjuice (S7), miles1baseball (S7)
+
+**5th - centraleric (9):** DancersTalon (S2), Dj8ninja (S3), joeykin (S3), rippersteveM5 (S4), KOKeowner (S4), CrowJRC (S6), CrowJRC (S7), ColdBac (S7), Greeples (S7)
+
+**5th - CrowJRC (9):** dashdude (S2), TaylorLive (S2), Greeples (S3), SiahStone (S3), Paxtona (S6), TaylorLive (S7), QuilJ1 (S8), rippersteveM5 (S8), Fairyjuice (S8)
+
+**7th - BBR_ (8):** Bacan (S6), Austronomical (S6), ColdBac (S6), Bacan (S8), WackoFlipper (S8), MarcC5M (S8), Kaismartypants (S8), Dj8ninja (S8)
+
+**8th - Kaismartypants (6):** Dj8ninja (S1), CrowJRC (S2), tooooobin (S2), Paxtona (S7), WackoFlipper (S7), Ninjajaja (S7)
+
+**8th - MarcC5M (6):** Emerric (S4), Pizzarcato (S4), QuilJ1 (S4), Psykl0ne (S5), ElGavinoSupremo (S6), Klickacat (S8)
+
+**10th - Dj8ninja (5):** SiahStone (S2), QuilJ1 (S3), miles1baseball (S5), brodioh (S8), centraleric (S8)
+
+**10th - SiahStone (5):** Cyonal (S3), SoulvG (S4), Bacan (S7), Cyonal (S7), Dj8ninja (S7)
+
+**10th - SmearBear (5):** Klickacat (S5), Paxtona (S5), Kaismartypants (S5), MarcC5M (S5), Rohcket (S8)
+
+**10th - WackoFlipper (5):** nFang (S3), Pizzarcato (S3), Ninjajaja (S4), Lighte (S4), MarcC5M (S7)
+
+**14th - Paxtona (4):** QuilJ1 (S1), ThwipThwip (S3), Greeples (S5), SiahStone (S7)
+
+**14th - QuilJ1 (4):** Paxtona (S4), Kaismartypants (S4), centraleric (S5), Ratchet6859 (S8)
+
+**14th - TaylorLive (4):** SiahStone (S1), ElGavinoSupremo (S4), Ninjajaja (S5), Dj8ninja (S6)
+
+**17th - DancersTalon (3):** Cyonal (S2), Psykl0ne (S4), MarcC5M (S6)
+
+**17th - ElGavinoSupremo (3):** SoulvG (S1), Klickacat (S1), dashdude (S5)
+
+**19th - c1n (2):** nFang (S5), KirbyMD (S8)
+
+**19th - Davelions (2):** SoulvG (S5), Austronomical (S5)
+
+**19th - Ninjajaja (2):** Dj8ninja (S2), Dj8ninja (S4)
+
+**19th - Pizzarcato (2):** Ninjajaja (S2), Klickacat (S3)
+
+**19th - tooooobin (2):** JamestheDouglas (S2), c1n (S5)
+
+**24th - Bandias (1):** TaylorLive (S1)
+
+**24th - Emerric (1):** Psykl0ne (S3)
+
+**24th - JamestheDouglas (1):** Ninjajaja (S1)
+
+**24th - joeykin (1):** Lighte (S3)
+
+**24th - nFang (1):** Ninjajaja (S6)
+
+**24th - Psykl0ne (1):** TaylorLive (S5)
+
+**24th - rippersteveM5 (1):** JamestheDouglas (S1)
+
+**24th - sigilyph (1):** rippersteveM5 (S1)
+
+**24th - SoulvG (1):** Psykl0ne (S6)
 
 ---
 ### PvE Deaths
@@ -77,20 +140,20 @@
 ---
 ### Debutants
 
-**S1 (17):** SoulvG, SiahStone, QuilJ1, Davelions, TaylorLive, Klickacat, Ninjajaja, Dj8ninja, ElGavinoSupremo, Pizzarcato, Kaismartypants, JamestheDouglas, Bandias, Paxtona, rippersteveM5, sigilyph, Lighte
+**S1 (17):** Bandias, Davelions, Dj8ninja, ElGavinoSupremo, JamestheDouglas, Kaismartypants, Klickacat, Lighte, Ninjajaja, Paxtona, Pizzarcato, QuilJ1, rippersteveM5, SiahStone, sigilyph, SoulvG, TaylorLive
 
-**S2 (7):** dashdude, CrowJRC, Cyonal, tooooobin, DancersTalon, Greeples, centraleric
+**S2 (7):** centraleric, CrowJRC, Cyonal, DancersTalon, dashdude, Greeples, tooooobin
 
-**S3 (8):** nFang, TommySuX, Austronomical, ThwipThwip, Psykl0ne, joeykin, Emerric, WackoFlipper
+**S3 (8):** Austronomical, Emerric, joeykin, nFang, Psykl0ne, ThwipThwip, TommySuX, WackoFlipper
 
-**S4 (6):** 78ford, Ullti, miles1baseball, KOKeowner, SmearBear, MarcC5M
+**S4 (6):** 78ford, KOKeowner, MarcC5M, miles1baseball, SmearBear, Ullti
 
 **S5 (1):** c1n
 
-**S6 (4):** Ratchet6859, Bacan, ColdBac, BBR_
+**S6 (4):** Bacan, BBR_, ColdBac, Ratchet6859
 
 **S7 (1):** Fairyjuice
 
-**S8 (6):** Marky_Ross, brodioh, KirbyMD, MeadowMoos, Flohp, Rohcket
+**S8 (6):** brodioh, Flohp, KirbyMD, Marky_Ross, MeadowMoos, Rohcket
 
 ---

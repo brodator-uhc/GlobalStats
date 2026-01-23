@@ -37,6 +37,11 @@
 ---
 ### Kills
 
+**1st - EestiCrafter (3):** DeRockProject (S1), munchmo (S1), WintherMaw (S1)
+
+**2nd - delqhic (1):** No0neAtAll (S1)
+
+**2nd - WintherMaw (1):** Bergasms (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +54,6 @@
 ---
 ### Debutants
 
-**S1 (8):** No0neAtAll, delqhic, iTiamo, Bergasms, DeRockProject, munchmo, WintherMaw, EestiCrafter
+**S1 (8):** Bergasms, delqhic, DeRockProject, EestiCrafter, iTiamo, munchmo, No0neAtAll, WintherMaw
 
 ---

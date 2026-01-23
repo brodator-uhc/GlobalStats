@@ -45,6 +45,49 @@
 ---
 ### Kills
 
+**1st - Fcrm (7):** wizarde (S1), pigghetti (S1), Cqson (S2), pigghetti (S2), SpaceFenix (S2), Kelawesome (S2), wizarde (S2)
+
+**2nd - DJoee (5):** PresidentFleb (S2), Kelawesome (S3), SpaceFenix (S3), ArcticSeagull (S3), Blarkslol (S3)
+
+**2nd - wizarde (5):** _Fost_ (S1), Ullti (S1), natsuvi (S2), DJoee (S2), TehBaconBrawlerZ (S3)
+
+**4th - 4EyedSlime (4):** Markedbooboy (S2), JaqOnCraq (S2), SmolHatChild (S2), Coward (S2)
+
+**4th - ArcticSeagull (4):** zac083 (S2), Espik (S2), AHSOKATANOSTAN (S3), Codwhy (S3)
+
+**4th - azoof (4):** DKPMatt (S3), NickPlaysGames15 (S3), mcd573 (S3), Captinn (S3)
+
+**4th - ghostblurr (4):** natsuvi (S1), FrostBros (S1), AHSOKATANOSTAN (S1), JaqOnCraq (S1)
+
+**4th - Normoh (4):** Glarza (S2), MaxEvasion (S2), FrostBros (S2), Fcrm (S2)
+
+**9th - Captinn (3):** Mightyzark (S3), Fcrm (S3), MangoPlayz (S3)
+
+**9th - FrostBros (3):** Captinn (S1), NickPlaysGames15 (S2), PitSolitayrh (S2)
+
+**9th - Kelawesome (3):** ArcticSeagull (S2), _ChrisMS (S3), Gorgerous (S3)
+
+**12th - AHSOKATANOSTAN (2):** Arich (S1), Fcrm (S1)
+
+**12th - Cqson (2):** TehBaconBrawlerZ (S1), Jordtim (S2)
+
+**12th - JustNolan (2):** NickPlaysGames15 (S1), SpaceFenix (S1)
+
+**12th - MangoPlayz (2):** JaqOnCraq (S3), Markedbooboy (S3)
+
+**12th - pigghetti (2):** Fourbitplayer (S1), zac083 (S1)
+
+**12th - SpaceFenix (2):** JustNolan (S1), lexicuhl (S3)
+
+**12th - TehBaconBrawlerZ (2):** Brodator (S1), Cqson (S1)
+
+**19th - Blarkslol (1):** Espik (S3)
+
+**19th - Codwhy (1):** kirbey (S3)
+
+**19th - Markedbooboy (1):** Jordtim (S3)
+
+**19th - NickPlaysGames15 (1):** wizarde (S3)
 
 ---
 ### PvE Deaths
@@ -57,10 +100,10 @@
 ---
 ### Debutants
 
-**S1 (22):** Fra49, AdonisGaming, Arich, _Fost_, Captinn, Fourbitplayer, Brodator, Ullti, zac083, natsuvi, FrostBros, wizarde, pigghetti, Fcrm, Cqson, TehBaconBrawlerZ, NickPlaysGames15, JustNolan, SpaceFenix, AHSOKATANOSTAN, JaqOnCraq, ghostblurr
+**S1 (22):** _Fost_, AdonisGaming, AHSOKATANOSTAN, Arich, Brodator, Captinn, Cqson, Fcrm, Fourbitplayer, Fra49, FrostBros, ghostblurr, JaqOnCraq, JustNolan, natsuvi, NickPlaysGames15, pigghetti, SpaceFenix, TehBaconBrawlerZ, Ullti, wizarde, zac083
 
-**S2 (14):** Jordtim, PresidentFleb, Glarza, Espik, DJoee, ArcticSeagull, Kelawesome, PitSolitayrh, MaxEvasion, Markedbooboy, SmolHatChild, Coward, 4EyedSlime, Normoh
+**S2 (14):** 4EyedSlime, ArcticSeagull, Coward, DJoee, Espik, Glarza, Jordtim, Kelawesome, Markedbooboy, MaxEvasion, Normoh, PitSolitayrh, PresidentFleb, SmolHatChild
 
-**S3 (11):** DKPMatt, _ChrisMS, Gorgerous, Mightyzark, lexicuhl, kirbey, Codwhy, mcd573, MangoPlayz, Blarkslol, azoof
+**S3 (11):** _ChrisMS, azoof, Blarkslol, Codwhy, DKPMatt, Gorgerous, kirbey, lexicuhl, MangoPlayz, mcd573, Mightyzark
 
 ---

@@ -49,6 +49,57 @@
 ---
 ### Kills
 
+**1st - Wilsonkong (17):** jamertxn (S1), dahii (S1), buttergolem1 (S1), QuilJ1 (S1), TheSonicJoey (S1), Regifloat (S1), ToucanTom (S2), Mop19 (S2), VeniiiD (S2), TheBP (S2), SidGarcia (S3), Mauler4500 (S3), SiahStone (S3), LongaVita (S3), centraleric (S3), Brodator (S3), Jaceyy (S4)
+
+**2nd - Brodator (8):** LongaVita (S2), jamertxn (S2), SiahStone (S2), buttergolem1 (S3), LotusLily (S3), Wilsonkong (S3), ElGavinoSupremo (S4), Fourbitplayer (S4)
+
+**3rd - SiahStone (7):** Greeples (S2), Jaceyy (S2), Wilsonkong (S2), Jahrod (S3), KatyLawson (S3), ToucanTom (S4), bobjomac (S4)
+
+**4th - dRawry (6):** Sten_Stone (S2), Just_Gerald (S3), LordLaelaps (S3), Sten_Stone (S3), VeniiiD (S3), nFang (S3)
+
+**5th - JaeHasNoMaidens (4):** MooM_ (S1), aalaan (S4), wibbol (S4), centraleric (S4)
+
+**5th - TheSonicJoey (4):** Mauler4500 (S1), Flouzemaker (S1), Greeples (S1), Brodator (S2)
+
+**7th - buttergolem1 (3):** Rivbr (S2), centraleric (S2), TheSonicJoey (S2)
+
+**7th - LordLaelaps (3):** Regifloat (S3), Greeples (S4), Wilsonkong (S4)
+
+**7th - QuilJ1 (3):** centraleric (S1), _Frankie (S1), ToucanTom (S1)
+
+**10th - bobjomac (2):** Mathyy (S4), Mop19 (S4)
+
+**10th - centraleric (2):** Brodator (S4), Rivbr (S4)
+
+**10th - ElGavinoSupremo (2):** KatyLawson (S4), dallasakasallad (S4)
+
+**10th - Greeples (2):** Kaismartypants (S4), SiahStone (S4)
+
+**10th - LotusLily (2):** ThePeridotKnight (S3), ToucanTom (S3)
+
+**10th - ToucanTom (2):** dRawry (S1), TommySuX (S1)
+
+**10th - VeniiiD (2):** KatyLawson (S1), Fancyyy (S3)
+
+**10th - wibbol (2):** dallasakasallad (S3), chloesad (S4)
+
+**18th - _Frankie (1):** VeniiiD (S1)
+
+**18th - dahii (1):** TheBP (S1)
+
+**18th - dnnyys (1):** LordLaelaps (S1)
+
+**18th - Jahrod (1):** dRawry (S4)
+
+**18th - Just_Gerald (1):** dRawry (S2)
+
+**18th - Mathyy (1):** ScottPirie (S4)
+
+**18th - Mop19 (1):** Just_Gerald (S2)
+
+**18th - Regifloat (1):** wibbol (S3)
+
+**18th - Rivbr (1):** Jahrod (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +112,12 @@
 ---
 ### Debutants
 
-**S1 (24):** Jaceyy, KatyLawson, VeniiiD, MooM_, AxeyGM, JaeHasNoMaidens, Mauler4500, centraleric, jamertxn, TheBP, dahii, Flouzemaker, dRawry, _Frankie, Greeples, buttergolem1, TommySuX, LordLaelaps, ToucanTom, dnnyys, QuilJ1, TheSonicJoey, Regifloat, Wilsonkong
+**S1 (24):** _Frankie, AxeyGM, buttergolem1, centraleric, dahii, dnnyys, dRawry, Flouzemaker, Greeples, Jaceyy, JaeHasNoMaidens, jamertxn, KatyLawson, LordLaelaps, Mauler4500, MooM_, QuilJ1, Regifloat, TheBP, TheSonicJoey, TommySuX, ToucanTom, VeniiiD, Wilsonkong
 
-**S2 (7):** Sten_Stone, Just_Gerald, Rivbr, LongaVita, Mop19, SiahStone, Brodator
+**S2 (7):** Brodator, Just_Gerald, LongaVita, Mop19, Rivbr, SiahStone, Sten_Stone
 
-**S3 (10):** Fancyyy, dallasakasallad, chloesad, Jahrod, wibbol, SidGarcia, ScottPirie, ThePeridotKnight, nFang, LotusLily
+**S3 (10):** chloesad, dallasakasallad, Fancyyy, Jahrod, LotusLily, nFang, ScottPirie, SidGarcia, ThePeridotKnight, wibbol
 
-**S4 (6):** Mathyy, ElGavinoSupremo, Fourbitplayer, aalaan, bobjomac, Kaismartypants
+**S4 (6):** aalaan, bobjomac, ElGavinoSupremo, Fourbitplayer, Kaismartypants, Mathyy
 
 ---

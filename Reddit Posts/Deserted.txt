@@ -37,6 +37,25 @@
 ---
 ### Kills
 
+**1st - ColdBac (6):** Bradzi (S1), natsuvi (S1), Andronify (S1), Cyndic (S1), SpaceFenix (S1), 4EyedSlime (S1)
+
+**2nd - 4EyedSlime (3):** Kaismartypants (S1), chugmitchell (S1), Keelando (S1)
+
+**3rd - Keelando (2):** RassL (S1), CommanderK22_ (S1)
+
+**3rd - RassL (2):** TehBaconBrawlerZ (S1), MercuryParadox (S1)
+
+**5th - Andronify (1):** Bluests (S1)
+
+**5th - Bluests (1):** GoldenNs (S1)
+
+**5th - chugmitchell (1):** MaxEvasion (S1)
+
+**5th - Cyndic (1):** acadiangel (S1)
+
+**5th - MaxEvasion (1):** PresidentFleb (S1)
+
+**5th - TehBaconBrawlerZ (1):** jakeyx3 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +68,6 @@
 ---
 ### Debutants
 
-**S1 (20):** jakeyx3, TehBaconBrawlerZ, MercuryParadox, GoldenNs, PresidentFleb, Bluests, RassL, Bradzi, acadiangel, natsuvi, Kaismartypants, MaxEvasion, chugmitchell, Andronify, Cyndic, CommanderK22_, SpaceFenix, Keelando, 4EyedSlime, ColdBac
+**S1 (20):** 4EyedSlime, acadiangel, Andronify, Bluests, Bradzi, chugmitchell, ColdBac, CommanderK22_, Cyndic, GoldenNs, jakeyx3, Kaismartypants, Keelando, MaxEvasion, MercuryParadox, natsuvi, PresidentFleb, RassL, SpaceFenix, TehBaconBrawlerZ
 
 ---

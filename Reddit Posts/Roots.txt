@@ -53,6 +53,57 @@
 ---
 ### Kills
 
+**1st - Havenhand (13):** Rinhara (S1), TicedUp (S1), starlxghtmoon (S1), ToucanTom (S2), sonmica (S3), Chasmic (S3), KatyLawson (S3), TommySuX (S4), zombie_blazeman (S4), Flohp (S4), 3Dspoders (S5), Greeples (S5), taperturtle (S5)
+
+**2nd - Andyboyonalert (12):** Ninjajaja (S1), CH0CK (S1), JustKerp (S1), Havenhand (S1), OddBaller (S1), SiahStone (S2), Darkening_ (S4), Regifloat (S4), Greeples (S4), buttergolem1 (S4), Havenhand (S4), MarcC5M (S4)
+
+**3rd - SiahStone (9):** starlxghtmoon (S2), Flouzemaker (S2), 78ford (S2), octagonalpaul (S2), Darkening_ (S2), Havenhand (S2), zombie_blazeman (S2), Kakintse (S2), TorinFBF (S3)
+
+**3rd - TicedUp (9):** TalonIII (S3), Zevulpes (S3), JustKerp (S3), SidGarcia (S3), Greeples (S3), MarcC5M (S3), rippersteveM5 (S3), Flouzemaker (S3), Flohp (S5)
+
+**5th - Vulkarr (4):** Chasmic (S5), MarcC5M (S5), nihontiger (S5), spoocS_ (S5)
+
+**5th - Zevulpes (4):** DancersTalon (S3), SiahStone (S3), TommySuX (S3), CH0CK (S3)
+
+**5th - zombie_blazeman (4):** MrGetowned (S1), rippersteveM5 (S1), MrTeamRaven (S1), LordLaelaps (S4)
+
+**8th - Chasmic (3):** Chrisanthemum (S2), Vulkarr (S2), Chrisanthemum (S3)
+
+**8th - Flouzemaker (3):** ToucanTom (S1), Havenhand (S3), ElGavinoSupremo (S3)
+
+**8th - Greeples (3):** TalonIII (S1), Ratchet6859 (S2), Chasmic (S4)
+
+**8th - MarcC5M (3):** Flouzemaker (S5), Mjora (S5), DancersTalon (S5)
+
+**8th - taperturtle (3):** starlxghtmoon (S5), JoeHoo (S5), Chrisanthemum (S5)
+
+**8th - ToucanTom (3):** Marky_Ross (S2), Chasmic (S2), TommySuX (S2)
+
+**14th - CH0CK (1):** DancersTalon (S1)
+
+**14th - Chrisanthemum (1):** Sten_Stone (S2)
+
+**14th - Flohp (1):** TicedUp (S4)
+
+**14th - Kakintse (1):** MarcC5M (S2)
+
+**14th - MrTeamRaven (1):** Greeples (S1)
+
+**14th - Ninjajaja (1):** TommySuX (S1)
+
+**14th - OddBaller (1):** Flouzemaker (S1)
+
+**14th - Ratchet6859 (1):** Greeples (S2)
+
+**14th - Regifloat (1):** SiahStone (S4)
+
+**14th - SidGarcia (1):** Darkening_ (S3)
+
+**14th - starlxghtmoon (1):** Chasmic (S1)
+
+**14th - Sten_Stone (1):** MrGetowned (S2)
+
+**14th - TommySuX (1):** Phoebe (S1)
 
 ---
 ### PvE Deaths
@@ -65,14 +116,14 @@
 ---
 ### Debutants
 
-**S1 (22):** SiahStone, DancersTalon, Phoebe, TalonIII, TommySuX, Ninjajaja, Rinhara, Greeples, TicedUp, Chasmic, ToucanTom, Flouzemaker, starlxghtmoon, CH0CK, MrGetowned, JustKerp, Havenhand, OddBaller, rippersteveM5, MrTeamRaven, Andyboyonalert, zombie_blazeman
+**S1 (22):** Andyboyonalert, CH0CK, Chasmic, DancersTalon, Flouzemaker, Greeples, Havenhand, JustKerp, MrGetowned, MrTeamRaven, Ninjajaja, OddBaller, Phoebe, Rinhara, rippersteveM5, SiahStone, starlxghtmoon, TalonIII, TicedUp, TommySuX, ToucanTom, zombie_blazeman
 
-**S2 (10):** Sten_Stone, Chrisanthemum, Vulkarr, Marky_Ross, 78ford, octagonalpaul, Darkening_, MarcC5M, Ratchet6859, Kakintse
+**S2 (10):** 78ford, Chrisanthemum, Darkening_, Kakintse, MarcC5M, Marky_Ross, octagonalpaul, Ratchet6859, Sten_Stone, Vulkarr
 
-**S3 (7):** Mjora, sonmica, TorinFBF, Zevulpes, KatyLawson, SidGarcia, ElGavinoSupremo
+**S3 (7):** ElGavinoSupremo, KatyLawson, Mjora, SidGarcia, sonmica, TorinFBF, Zevulpes
 
-**S4 (4):** Regifloat, LordLaelaps, Flohp, buttergolem1
+**S4 (4):** buttergolem1, Flohp, LordLaelaps, Regifloat
 
-**S5 (5):** 3Dspoders, JoeHoo, nihontiger, taperturtle, spoocS_
+**S5 (5):** 3Dspoders, JoeHoo, nihontiger, spoocS_, taperturtle
 
 ---

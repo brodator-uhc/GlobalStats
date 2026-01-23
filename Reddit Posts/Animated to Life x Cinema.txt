@@ -37,6 +37,27 @@
 ---
 ### Kills
 
+**1st - Fourbitplayer (4):** 78ford (S1), aalaan (S1), cherryblawsom (S1), Rohcket (S1)
+
+**1st - hazel_doe (4):** ColdBac (S1), SpaceFenix (S1), lexicuhl (S1), FrostBros (S1)
+
+**3rd - SiahStone (3):** discoczibi (S1), Coward (S1), Dj8ninja (S1)
+
+**4th - BatMan_1814 (2):** Broseph (S1), miles1baseball (S1)
+
+**4th - cherryblawsom (2):** Kaismartypants (S1), pigghetti (S1)
+
+**4th - lexicuhl (2):** BatMan_1814 (S1), Potsie (S1)
+
+**4th - tagggz (2):** SiahStone (S1), WackoFlipper (S1)
+
+**8th - Coward (1):** MajorWoof (S1)
+
+**8th - FrostBros (1):** tagggz (S1)
+
+**8th - Potsie (1):** Chasmic (S1)
+
+**8th - SpaceFenix (1):** Big_Z60 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +70,6 @@
 ---
 ### Debutants
 
-**S1 (28):** Maxwellfifty, Codwhy, _mrcool, ColdBac, Big_Z60, MajorWoof, discoczibi, Coward, Broseph, miles1baseball, Kaismartypants, pigghetti, Dj8ninja, SiahStone, WackoFlipper, SpaceFenix, 78ford, BatMan_1814, Chasmic, Potsie, aalaan, cherryblawsom, tagggz, lexicuhl, FrostBros, Rohcket, hazel_doe, Fourbitplayer
+**S1 (28):** _mrcool, 78ford, aalaan, BatMan_1814, Big_Z60, Broseph, Chasmic, cherryblawsom, Codwhy, ColdBac, Coward, discoczibi, Dj8ninja, Fourbitplayer, FrostBros, hazel_doe, Kaismartypants, lexicuhl, MajorWoof, Maxwellfifty, miles1baseball, pigghetti, Potsie, Rohcket, SiahStone, SpaceFenix, tagggz, WackoFlipper
 
 ---

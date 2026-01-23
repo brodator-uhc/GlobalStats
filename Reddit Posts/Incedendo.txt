@@ -57,6 +57,53 @@
 ---
 ### Kills
 
+**1st - BBR_ (9):** Starflash (S1), Regifloat (S2), Starflash (S2), SidGarcia (S2), Broseph (S2), Vince_M (S3), dRawry (S3), FrostBros (S3), CountryCutie (S3)
+
+**1st - lexicuhl (9):** chloesad (S3), kalleina (S3), Flouzemaker (S3), buttergolem1 (S3), TastyBaconZ (S4), Brodator (S4), spoocS_ (S4), TalonBX (S4), FrostBros (S4)
+
+**3rd - IsaacMT (5):** BZ_STEVE (S1), StoneAgedGaming (S1), _itslennard14 (S2), FrostBros (S2), MistaUnicorn (S2)
+
+**3rd - SiahStone (5):** Dj8ninja (S5), Greeples (S5), Charrlottie (S6), Greeples (S6), TheBP (S6)
+
+**5th - Brodator (4):** aalaan (S4), Regifloat (S4), SmolHatChild (S6), Dj8ninja (S6)
+
+**5th - SpaceFenix (4):** FazedMC (S2), IsaacMT (S2), kalleina (S2), DrJamezz (S2)
+
+**5th - Zeiyuri (4):** Demomaker (S6), Chasmic (S6), aalaan (S6), lexicuhl (S6)
+
+**8th - buttergolem1 (3):** Dannythecool123 (S3), Brodator (S6), Zeiyuri (S6)
+
+**8th - CrowJRC (3):** Eluniel (S6), TastyBaconZ (S6), CaptainRichy (S6)
+
+**8th - FazedMC (3):** Lucityy (S1), Vince_M (S2), TheSonicJoey (S2)
+
+**8th - FrostBros (3):** JamestheDouglas (S4), TheSonicJoey (S5), CaptainRichy (S5)
+
+**8th - Greeples (3):** Fourbitplayer (S5), Flouzemaker (S5), CrowJRC (S6)
+
+**8th - jamertxn (3):** StoneAgedGaming (S3), lexicuhl (S3), TalonBX (S3)
+
+**8th - QuilJ1 (3):** _itslennard14 (S1), DrJamezz (S1), kalleina (S1)
+
+**8th - TheRealHagrid (3):** IsaacMT (S1), Flouzemaker (S2), BBR_ (S2)
+
+**8th - TheSonicJoey (3):** Regifloat (S1), TheRealHagrid (S1), NajaOxiana (S1)
+
+**17th - Dj8ninja (2):** TastyBaconZ (S5), Fra49 (S5)
+
+**17th - Flouzemaker (2):** jamertxn (S2), Zeiyuri (S5)
+
+**17th - TalonBX (2):** Regifloat (S3), MistaUnicorn (S3)
+
+**17th - TastyBaconZ (2):** kalleina (S4), Brodator (S5)
+
+**21st - dRawry (1):** JaeHasNoMaidens (S3)
+
+**21st - MistaUnicorn (1):** TheSonicJoey (S1)
+
+**21st - NajaOxiana (1):** QuilJ1 (S1)
+
+**21st - StoneAgedGaming (1):** BBR_ (S1)
 
 ---
 ### PvE Deaths
@@ -69,16 +116,16 @@
 ---
 ### Debutants
 
-**S1 (18):** _itslennard14, Lucityy, DrJamezz, Slowth, FazedMC, kalleina, Regifloat, Starflash, QuilJ1, BBR_, BZ_STEVE, StoneAgedGaming, IsaacMT, TheRealHagrid, NajaOxiana, TheSonicJoey, lexicuhl, MistaUnicorn
+**S1 (18):** _itslennard14, BBR_, BZ_STEVE, DrJamezz, FazedMC, IsaacMT, kalleina, lexicuhl, Lucityy, MistaUnicorn, NajaOxiana, QuilJ1, Regifloat, Slowth, Starflash, StoneAgedGaming, TheRealHagrid, TheSonicJoey
 
-**S2 (8):** Dannythecool123, FrostBros, Vince_M, jamertxn, SidGarcia, Broseph, Flouzemaker, SpaceFenix
+**S2 (8):** Broseph, Dannythecool123, Flouzemaker, FrostBros, jamertxn, SidGarcia, SpaceFenix, Vince_M
 
-**S3 (7):** flameorb, chloesad, JaeHasNoMaidens, dRawry, CountryCutie, buttergolem1, TalonBX
+**S3 (7):** buttergolem1, chloesad, CountryCutie, dRawry, flameorb, JaeHasNoMaidens, TalonBX
 
-**S4 (5):** aalaan, TastyBaconZ, Brodator, spoocS_, JamestheDouglas
+**S4 (5):** aalaan, Brodator, JamestheDouglas, spoocS_, TastyBaconZ
 
-**S5 (8):** ElGavinoSupremo, CaptainRichy, Fra49, Zeiyuri, Fourbitplayer, Dj8ninja, Greeples, SiahStone
+**S5 (8):** CaptainRichy, Dj8ninja, ElGavinoSupremo, Fourbitplayer, Fra49, Greeples, SiahStone, Zeiyuri
 
-**S6 (9):** Bacan, Eluniel, Charrlottie, Demomaker, Chasmic, KatyLawson, SmolHatChild, CrowJRC, TheBP
+**S6 (9):** Bacan, Charrlottie, Chasmic, CrowJRC, Demomaker, Eluniel, KatyLawson, SmolHatChild, TheBP
 
 ---

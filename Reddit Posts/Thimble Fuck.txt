@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - vynil (4):** TheRealHagrid (S1), TommySuX (S1), AnUncreativeCat (S1), Broseph (S1)
+
+**2nd - Broseph (3):** ShyGus (S1), Dee957 (S1), vynil (S1)
+
+**3rd - SiahStone (2):** JRjoos (S1), xCand (S1)
+
+**4th - Dee957 (1):** lexicuhl (S1)
+
+**4th - lexicuhl (1):** ThePeridotKnight (S1)
+
+**4th - Lighte (1):** Greeples (S1)
+
+**4th - Ninjajaja (1):** SiahStone (S1)
+
+**4th - TommySuX (1):** Heropon (S1)
+
+**4th - xCand (1):** Dj8ninja (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (18):** Codwhy, ThePeridotKnight, lexicuhl, JRjoos, Heropon, Dj8ninja, xCand, ShyGus, TheRealHagrid, TommySuX, Dee957, AnUncreativeCat, Broseph, vynil, Greeples, SiahStone, Lighte, Ninjajaja
+**S1 (18):** AnUncreativeCat, Broseph, Codwhy, Dee957, Dj8ninja, Greeples, Heropon, JRjoos, lexicuhl, Lighte, Ninjajaja, ShyGus, SiahStone, ThePeridotKnight, TheRealHagrid, TommySuX, vynil, xCand
 
 ---

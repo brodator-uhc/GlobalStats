@@ -53,6 +53,73 @@
 ---
 ### Kills
 
+**1st - gartbak (11):** Biwitch (S1), aalaan (S1), Randehh (S1), zCent (S5), OnlyCosmia (S5), Aybel (S5), DECTHEELITE (S5), natsuvi (S5), tagggz (S5), aalaan (S5), swishduck (S5)
+
+**2nd - ChrisCD (8):** Omertosa (S2), automavic (S3), Ryfri (S3), azoof (S3), Ryfri (S4), Omertosa (S4), AmbientDan (S5), Kubaslov (S5)
+
+**2nd - I_is_cheesecake (8):** _pbo (S2), Jordtim (S2), ChrisCD (S2), Thimburrr (S2), Applepie78 (S2), zCent (S2), Keelando (S2), lexicuhl (S2)
+
+**2nd - Thimburrr (8):** pigghetti (S5), PotaTomas (S5), ThePeridotKnight (S5), Hecticity (S5), ohh_lia (S5), I_is_cheesecake (S5), ScaryPumpkinFace (S5), LoganHam1313 (S5)
+
+**5th - Austronomical (7):** ToontownOnline (S1), 5hup (S1), lottebunny (S1), Erferno (S1), TheSonicJoey (S3), aalaan (S3), Keelando (S3)
+
+**6th - Hecticity (5):** lexicuhl (S1), _ChrisMS (S1), LeonTG (S4), MercuryParadox (S4), aalaan (S4)
+
+**6th - lottebunny (5):** Hecticity (S1), Aybel (S1), 5hup (S2), CHANGA (S2), Jordtim (S4)
+
+**6th - Randehh (5):** Gorgerous (S1), Bluests (S2), Ninjajaja (S2), ScaryPumpkinFace (S2), natsuvi (S3)
+
+**6th - Ryfri (5):** DJoee (S2), MercuryParadox (S3), Austronomical (S3), SiahStone (S5), Austronomical (S5)
+
+**6th - swishduck (5):** tagggz (S2), aalaan (S2), MercuryParadox (S2), MarcC5M (S2), Kaismartypants (S5)
+
+**11th - Aybel (4):** AmbientDan (S2), lottebunny (S2), swishduck (S2), gartbak (S4)
+
+**11th - Erferno (4):** Jordtim (S1), zCent (S1), Ryfri (S1), AmbientDan (S1)
+
+**13th - azoof (3):** ThePeridotKnight (S3), Randehh (S3), pigghetti (S3)
+
+**13th - lexicuhl (3):** ChrisCD (S1), I_is_cheesecake (S1), Hecticity (S2)
+
+**13th - zCent (3):** LeonTG (S1), tagggz (S1), ChrisCD (S5)
+
+**16th - 5hup (2):** clefairy (S1), gartbak (S1)
+
+**16th - aalaan (2):** MarcC5M (S5), MercuryParadox (S5)
+
+**16th - AmbientDan (2):** Bacan (S1), ThePeridotKnight (S1)
+
+**16th - Bacan (2):** Hecticity (S4), LoganHam1313 (S4)
+
+**16th - Gorgerous (2):** Awticon (S1), Austronomical (S4)
+
+**16th - Jordtim (2):** DJoee (S1), Ryfri (S2)
+
+**16th - OnlyCosmia (2):** ThePeridotKnight (S2), Austronomical (S2)
+
+**16th - pigghetti (2):** Gorgerous (S3), Ryfri (S5)
+
+**16th - ScaryPumpkinFace (2):** ColdBac (S5), Havenhand (S5)
+
+**25th - _Dieter (1):** _ChrisMS (S2)
+
+**25th - automavic (1):** OnlyCosmia (S4)
+
+**25th - Biwitch (1):** Gorgerous (S2)
+
+**25th - brodioh (1):** _Dieter (S2)
+
+**25th - CHANGA (1):** Randehh (S2)
+
+**25th - DJoee (1):** Awticon (S2)
+
+**25th - LeonTG (1):** CHANGA (S1)
+
+**25th - LoganHam1313 (1):** Caydone (S5)
+
+**25th - SPEEDYDIGS (1):** Bluests (S4)
+
+**25th - strategy (1):** Aybel (S4)
 
 ---
 ### PvE Deaths
@@ -65,14 +132,14 @@
 ---
 ### Debutants
 
-**S1 (28):** CHANGA, ChrisCD, Awticon, Gorgerous, I_is_cheesecake, LeonTG, tagggz, Biwitch, ToontownOnline, DJoee, Jordtim, zCent, aalaan, lexicuhl, _ChrisMS, Bacan, ThePeridotKnight, Ryfri, AmbientDan, Hecticity, clefairy, Aybel, Randehh, gartbak, 5hup, lottebunny, Erferno, Austronomical
+**S1 (28):** _ChrisMS, 5hup, aalaan, AmbientDan, Austronomical, Awticon, Aybel, Bacan, Biwitch, CHANGA, ChrisCD, clefairy, DJoee, Erferno, gartbak, Gorgerous, Hecticity, I_is_cheesecake, Jordtim, LeonTG, lexicuhl, lottebunny, Randehh, Ryfri, tagggz, ThePeridotKnight, ToontownOnline, zCent
 
-**S2 (14):** Omertosa, Bluests, Ninjajaja, _pbo, ScaryPumpkinFace, MercuryParadox, Thimburrr, Applepie78, Keelando, _Dieter, MarcC5M, swishduck, brodioh, OnlyCosmia
+**S2 (14):** _Dieter, _pbo, Applepie78, Bluests, brodioh, Keelando, MarcC5M, MercuryParadox, Ninjajaja, Omertosa, OnlyCosmia, ScaryPumpkinFace, swishduck, Thimburrr
 
-**S3 (6):** ColdBac, TheSonicJoey, automavic, natsuvi, pigghetti, azoof
+**S3 (6):** automavic, azoof, ColdBac, natsuvi, pigghetti, TheSonicJoey
 
-**S4 (7):** Sean081799, YellowVitt, Digitale, SPEEDYDIGS, strategy, Kubaslov, LoganHam1313
+**S4 (7):** Digitale, Kubaslov, LoganHam1313, Sean081799, SPEEDYDIGS, strategy, YellowVitt
 
-**S5 (8):** theencomputers, SiahStone, PotaTomas, DECTHEELITE, ohh_lia, Havenhand, Kaismartypants, Caydone
+**S5 (8):** Caydone, DECTHEELITE, Havenhand, Kaismartypants, ohh_lia, PotaTomas, SiahStone, theencomputers
 
 ---

@@ -41,6 +41,43 @@
 ---
 ### Kills
 
+**1st - CH0CK (8):** Fire_Factor (S1), Mincrooft (S2), jvevo (S2), PaperVinnie (S2), vinny212 (S2), MBeaar (S2), DomoDomo (S2), T0n35 (S2)
+
+**2nd - tuxpeng (5):** BatMan_1814 (S1), CH0CK (S1), RwDragon (S1), oDogLFC (S1), lexicuhl (S1)
+
+**3rd - jvevo (4):** MajorWoof (S2), oDogLFC (S2), _itslennard14 (S2), Spongey (S2)
+
+**4th - Spongey (3):** ssbear (S1), buttergolem1 (S1), TalonBX (S2)
+
+**5th - BatMan_1814 (2):** Evader22 (S1), Supah_Matt (S1)
+
+**5th - DomoDomo (2):** GeeSam (S2), LeonTG (S2)
+
+**5th - Evader22 (2):** _mrcool (S1), Maxwellfifty (S2)
+
+**5th - MajorWoof (2):** Davelions (S1), Mincrooft (S1)
+
+**5th - PaperVinnie (2):** CountryCutie (S2), crazy_monkey7531 (S2)
+
+**5th - RwDragon (2):** Spongey (S1), TheKevGuy (S2)
+
+**11th - _mrcool (1):** MajorWoof (S1)
+
+**11th - DKPMatt (1):** GoldenNs (S1)
+
+**11th - LeonTG (1):** buttergolem1 (S2)
+
+**11th - MBeaar (1):** friigiid (S2)
+
+**11th - PhenomCloud (1):** TalonBX (S1)
+
+**11th - ssbear (1):** Hecticity (S1)
+
+**11th - Supah_Matt (1):** DKPMatt (S1)
+
+**11th - TheKevGuy (1):** Evader22 (S2)
+
+**11th - vinny212 (1):** Zachf01 (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +90,8 @@
 ---
 ### Debutants
 
-**S1 (24):** Hecticity, T0n35, _itslennard14, TalonBX, Davelions, GoldenNs, Mincrooft, MajorWoof, _mrcool, Fire_Factor, DKPMatt, ssbear, Evader22, buttergolem1, Supah_Matt, BatMan_1814, Spongey, CH0CK, RwDragon, oDogLFC, lexicuhl, Do_You_Minecraft, PhenomCloud, tuxpeng
+**S1 (24):** _itslennard14, _mrcool, BatMan_1814, buttergolem1, CH0CK, Davelions, DKPMatt, Do_You_Minecraft, Evader22, Fire_Factor, GoldenNs, Hecticity, lexicuhl, MajorWoof, Mincrooft, oDogLFC, PhenomCloud, RwDragon, Spongey, ssbear, Supah_Matt, T0n35, TalonBX, tuxpeng
 
-**S2 (13):** Maxwellfifty, Zachf01, CountryCutie, friigiid, GeeSam, crazy_monkey7531, jvevo, PaperVinnie, vinny212, LeonTG, MBeaar, DomoDomo, TheKevGuy
+**S2 (13):** CountryCutie, crazy_monkey7531, DomoDomo, friigiid, GeeSam, jvevo, LeonTG, Maxwellfifty, MBeaar, PaperVinnie, TheKevGuy, vinny212, Zachf01
 
 ---

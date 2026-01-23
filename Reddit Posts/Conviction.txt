@@ -53,6 +53,65 @@
 ---
 ### Kills
 
+**1st - Andrew512 (24):** PauloSSB (S1), Kaismartypants (S1), Digdude (S1), MCUsername (S1), Espik (S1), spoocS_ (S2), Codwhy (S2), PedroLeGamer (S2), Wolfaye (S3), automavic (S3), MercuryParadox (S3), dontbow (S3), PauloSSB (S3), Spongey (S3), Digdude (S4), Spongey (S4), spoocS_ (S4), Codwhy (S4), automavic (S4), Cyndic (S4), DianaB (S5), Bacan (S5), JustNolan (S5), RabidChipmunk (S5)
+
+**2nd - Digdude (9):** Broseph (S1), Bulbae (S1), spoocS_ (S1), Espik (S2), FrostBros (S2), Spongey (S2), Flouzemaker (S5), Sten_Stone (S5), automavic (S5)
+
+**3rd - Coward (6):** Digdude (S3), Normoh (S3), Codwhy (S3), Seabasstian (S3), DKPMatt (S5), Evader22 (S5)
+
+**3rd - Cyndic (6):** PedroLeGamer (S4), Awticon (S4), acadiangel (S4), Flouzemaker (S4), RiseGR (S4), PauloSSB (S5)
+
+**5th - automavic (5):** Microus (S3), Kaismartypants (S4), Espik (S4), PauloSSB (S4), FrostBros (S5)
+
+**5th - JustNolan (5):** frogsella (S2), NajaOxiana (S2), Wolfaye (S2), Sten_Stone (S2), ItsColinn (S5)
+
+**5th - PauloSSB (5):** Flouzemaker (S2), Digdude (S2), Andrew512 (S2), nyaaia (S4), Cyndic (S5)
+
+**8th - Kelawesome (4):** colbay (S5), EnergyPulse (S5), Codwhy (S5), Espik (S5)
+
+**8th - Spongey (4):** Broseph (S2), acadiangel (S3), Awticon (S3), Coward (S3)
+
+**10th - Aqualox (3):** acadiangel (S5), Broseph (S5), Andrew512 (S5)
+
+**10th - Flouzemaker (3):** CountryCutie (S1), zac083 (S1), DianaB (S4)
+
+**10th - RiseGR (3):** Drkrai (S4), zac083 (S5), NajaOxiana (S5)
+
+**13th - Codwhy (2):** Broseph (S4), SummerBqsh (S5)
+
+**13th - ERHDude (2):** Kaismartypants (S5), Digdude (S5)
+
+**13th - nyaaia (2):** FrostBros (S4), Potsie (S4)
+
+**13th - RabidChipmunk (2):** omchris (S5), Coward (S5)
+
+**17th - Broseph (1):** Drake132667596 (S5)
+
+**17th - DianaB (1):** aalaan (S4)
+
+**17th - dontbow (1):** zac083 (S3)
+
+**17th - frogsella (1):** Mincrooft (S2)
+
+**17th - GoldenNs (1):** SiahStone (S5)
+
+**17th - Kaismartypants (1):** Zydoxe (S5)
+
+**17th - MCUsername (1):** Professer_TNT (S1)
+
+**17th - MercuryParadox (1):** AvaCos (S3)
+
+**17th - PedroLeGamer (1):** Sten_Stone (S1)
+
+**17th - Potsie (1):** SiahStone (S4)
+
+**17th - RecklessCombo (1):** Professer_TNT (S2)
+
+**17th - Seabasstian (1):** Professer_TNT (S3)
+
+**17th - SiahStone (1):** Abdalain (S4)
+
+**17th - zac083 (1):** Abdalain (S1)
 
 ---
 ### PvE Deaths
@@ -65,14 +124,14 @@
 ---
 ### Debutants
 
-**S1 (16):** Broseph, Professer_TNT, Sten_Stone, PedroLeGamer, PauloSSB, Bulbae, Kaismartypants, CountryCutie, spoocS_, Digdude, MCUsername, Espik, Abdalain, zac083, Andrew512, Flouzemaker
+**S1 (16):** Abdalain, Andrew512, Broseph, Bulbae, CountryCutie, Digdude, Espik, Flouzemaker, Kaismartypants, MCUsername, PauloSSB, PedroLeGamer, Professer_TNT, spoocS_, Sten_Stone, zac083
 
-**S2 (10):** Topspinpiggles, Mincrooft, frogsella, NajaOxiana, FrostBros, Wolfaye, Spongey, RecklessCombo, Codwhy, JustNolan
+**S2 (10):** Codwhy, frogsella, FrostBros, JustNolan, Mincrooft, NajaOxiana, RecklessCombo, Spongey, Topspinpiggles, Wolfaye
 
-**S3 (11):** SmoothieGod, acadiangel, Awticon, Microus, Normoh, AvaCos, automavic, MercuryParadox, Seabasstian, dontbow, Coward
+**S3 (11):** acadiangel, automavic, AvaCos, Awticon, Coward, dontbow, MercuryParadox, Microus, Normoh, Seabasstian, SmoothieGod
 
-**S4 (8):** SiahStone, Potsie, nyaaia, aalaan, Drkrai, DianaB, RiseGR, Cyndic
+**S4 (8):** aalaan, Cyndic, DianaB, Drkrai, nyaaia, Potsie, RiseGR, SiahStone
 
-**S5 (15):** colbay, DKPMatt, ItsColinn, Zydoxe, Evader22, Bacan, Drake132667596, omchris, GoldenNs, EnergyPulse, SummerBqsh, RabidChipmunk, Aqualox, ERHDude, Kelawesome
+**S5 (15):** Aqualox, Bacan, colbay, DKPMatt, Drake132667596, EnergyPulse, ERHDude, Evader22, GoldenNs, ItsColinn, Kelawesome, omchris, RabidChipmunk, SummerBqsh, Zydoxe
 
 ---

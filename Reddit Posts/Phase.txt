@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Kelawesome (5):** Harmen (S1), ToontownOnline (S1), DeluxeSniper (S1), 4EyedSlime (S1), nyaaia (S1)
+
+**2nd - 4EyedSlime (4):** Broseph (S1), gsca (S1), ConBeanJones (S1), Codwhy (S1)
+
+**3rd - KELCOS (3):** GoldenNs (S1), Awticon (S1), Chrominize (S1)
+
+**4th - Appointments (2):** Kelawesome (S1), Andrew512 (S1)
+
+**4th - DeluxeSniper (2):** HyperOutHere (S1), colbay (S1)
+
+**6th - gsca (1):** RiseGR (S1)
+
+**6th - HigmanFreud (1):** Heracross (S1)
+
+**6th - JustNolan (1):** KELCOS (S1)
+
+**6th - PauloSSB (1):** HigmanFreud (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (24):** GoldenNs, Awticon, Chrominize, KELCOS, Harmen, JustNolan, RiseGR, RassL, HyperOutHere, colbay, ToontownOnline, Broseph, DeluxeSniper, gsca, ConBeanJones, Codwhy, 4EyedSlime, nyaaia, Heracross, Kelawesome, HigmanFreud, Andrew512, Appointments, PauloSSB
+**S1 (24):** 4EyedSlime, Andrew512, Appointments, Awticon, Broseph, Chrominize, Codwhy, colbay, ConBeanJones, DeluxeSniper, GoldenNs, gsca, Harmen, Heracross, HigmanFreud, HyperOutHere, JustNolan, Kelawesome, KELCOS, nyaaia, PauloSSB, RassL, RiseGR, ToontownOnline
 
 ---

@@ -41,6 +41,43 @@
 ---
 ### Kills
 
+**1st - DJoee (12):** Ryfri (S2), AshRiolu100985 (S2), broccoliar (S2), CAMKART100 (S2), CurdledDrip (S2), Blarkslol (S2), Cocunut233 (S2), swishduck (S2), Demomaker (S2), CodeJoshua (S2), CHAINGE (S2), Fcrm (S2)
+
+**2nd - Fcrm (5):** Stravilight (S1), Evzenitable (S1), Spongey (S1), CHAINGE (S1), Evzenitable (S2)
+
+**2nd - strategy (5):** stupidsylvia (S1), LightingMC (S1), ItsShqky (S1), poWpaH (S1), Codwhy (S2)
+
+**4th - CHAINGE (4):** natsuvi (S1), bayweafs (S1), Kaismartypants (S2), Vetmire (S2)
+
+**4th - GrassPiece (4):** Stravilight (S2), DevoyTTV (S2), ZebraPantz (S2), ItsShqky (S2)
+
+**6th - ItsShqky (3):** 4EyedSlime (S1), ItsMeAR10 (S1), lasdarling (S2)
+
+**6th - Kxnani (3):** Boomblade60 (S2), cherryblawsom (S2), MichaelPlayMC (S2)
+
+**6th - LightingMC (3):** _1mmortal_ (S1), fruitlogic (S1), Kxnani (S2)
+
+**9th - swishduck (2):** BuildingBard300 (S2), _1mmortal_ (S2)
+
+**10th - _1mmortal_ (1):** Westcraft00 (S2)
+
+**10th - Boomblade60 (1):** bayweafs (S2)
+
+**10th - broccoliar (1):** MineKG (S2)
+
+**10th - cherryblawsom (1):** HalfLechuga (S2)
+
+**10th - CurdledDrip (1):** strategy (S2)
+
+**10th - DevoyTTV (1):** LightingMC (S2)
+
+**10th - fruitlogic (1):** BuildingBard300 (S1)
+
+**10th - natsuvi (1):** broccoliar (S1)
+
+**10th - poWpaH (1):** Fcrm (S1)
+
+**10th - Vetmire (1):** Kaddyn (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +90,8 @@
 ---
 ### Debutants
 
-**S1 (18):** stupidsylvia, Stravilight, broccoliar, natsuvi, BuildingBard300, bayweafs, _1mmortal_, fruitlogic, Evzenitable, Spongey, LightingMC, 4EyedSlime, ItsMeAR10, CHAINGE, Fcrm, ItsShqky, poWpaH, strategy
+**S1 (18):** _1mmortal_, 4EyedSlime, bayweafs, broccoliar, BuildingBard300, CHAINGE, Evzenitable, Fcrm, fruitlogic, ItsMeAR10, ItsShqky, LightingMC, natsuvi, poWpaH, Spongey, strategy, Stravilight, stupidsylvia
 
-**S2 (25):** Westcraft00, Ryfri, Codwhy, AshRiolu100985, MineKG, Boomblade60, HalfLechuga, cherryblawsom, Kaismartypants, MichaelPlayMC, Kxnani, CAMKART100, DevoyTTV, CurdledDrip, Kaddyn, lasdarling, ZebraPantz, Blarkslol, Vetmire, Cocunut233, swishduck, Demomaker, CodeJoshua, DJoee, GrassPiece
+**S2 (25):** AshRiolu100985, Blarkslol, Boomblade60, CAMKART100, cherryblawsom, Cocunut233, CodeJoshua, Codwhy, CurdledDrip, Demomaker, DevoyTTV, DJoee, GrassPiece, HalfLechuga, Kaddyn, Kaismartypants, Kxnani, lasdarling, MichaelPlayMC, MineKG, Ryfri, swishduck, Vetmire, Westcraft00, ZebraPantz
 
 ---

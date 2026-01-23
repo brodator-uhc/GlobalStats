@@ -37,6 +37,21 @@
 ---
 ### Kills
 
+**1st - dahii (8):** Dj8ninja (S1), OnlyCosmia (S1), nsket (S1), Nintendoshi (S1), PresidentFleb (S1), _carn (S1), Bobbytheturtle (S1), benidk (S1)
+
+**2nd - benidk (4):** Rawkeyy (S1), lexicuhl (S1), sirples (S1), Fensua (S1)
+
+**3rd - _carn (3):** frogsella (S1), BardMain2 (S1), Psykl0ne (S1)
+
+**3rd - Bobbytheturtle (3):** jommyappleseed (S1), MercuryParadox (S1), Omertosa (S1)
+
+**5th - sirples (2):** BushieHalf (S1), tagggz (S1)
+
+**6th - nsket (1):** TalonBX (S1)
+
+**6th - NTBama (1):** lottebunny (S1)
+
+**6th - PresidentFleb (1):** NTBama (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +64,6 @@
 ---
 ### Debutants
 
-**S1 (24):** frogsella, jommyappleseed, Dj8ninja, BushieHalf, TalonBX, BardMain2, Psykl0ne, Rawkeyy, lottebunny, MercuryParadox, OnlyCosmia, nsket, lexicuhl, tagggz, NTBama, Nintendoshi, PresidentFleb, sirples, Fensua, _carn, Omertosa, Bobbytheturtle, benidk, dahii
+**S1 (24):** _carn, BardMain2, benidk, Bobbytheturtle, BushieHalf, dahii, Dj8ninja, Fensua, frogsella, jommyappleseed, lexicuhl, lottebunny, MercuryParadox, Nintendoshi, nsket, NTBama, Omertosa, OnlyCosmia, PresidentFleb, Psykl0ne, Rawkeyy, sirples, tagggz, TalonBX
 
 ---

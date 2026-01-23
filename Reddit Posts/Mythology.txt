@@ -41,6 +41,21 @@
 ---
 ### Kills
 
+**1st - Regifloat (4):** iRedx (S1), Starflash (S1), BZ_STEVE (S2), Starflash (S2)
+
+**1st - SpaceFenix (4):** Slowth (S1), Gameslayer989 (S1), BBR_ (S1), Balone (S1)
+
+**3rd - Slowth (3):** Legendary100 (S1), Balone (S2), Legendary100 (S2)
+
+**4th - BZ_STEVE (1):** Gameslayer989 (S2)
+
+**4th - Gameslayer989 (1):** StoneAgedGaming (S2)
+
+**4th - Legendary100 (1):** Slowth (S2)
+
+**4th - RiseGR (1):** BBR_ (S2)
+
+**4th - Starflash (1):** RiseGR (S2)
 
 ---
 ### PvE Deaths
@@ -53,7 +68,7 @@
 ---
 ### Debutants
 
-**S1 (11):** Legendary100, iRedx, Slowth, Gameslayer989, StoneAgedGaming, BBR_, BZ_STEVE, Balone, Starflash, Regifloat, SpaceFenix
+**S1 (11):** Balone, BBR_, BZ_STEVE, Gameslayer989, iRedx, Legendary100, Regifloat, Slowth, SpaceFenix, Starflash, StoneAgedGaming
 
 **S2 (2):** MeIsJordan, RiseGR
 

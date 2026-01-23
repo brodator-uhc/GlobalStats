@@ -61,6 +61,61 @@
 ---
 ### Kills
 
+**1st - xTranslucenTx (18):** Ajc786 (S1), GmacLad (S2), YaojaDzn (S2), xBitFusion (S2), Gabemessi (S2), zhselchau1998 (S2), Natural44 (S2), Kaismartypants (S2), TheDeluxStone (S2), SuperSniperPRO (S2), RegulatorAsh (S4), Gambino (S4), NessStarStorm (S4), tmb0 (S7), NessStarStorm (S7), Meven (S7), Zyphalopagus (S7), Natural44 (S7)
+
+**2nd - Natural44 (6):** ProXPainter (S2), pizzaisland (S2), Kaismartypants (S4), LordSuma (S4), YepItsJustDirt (S7), CristianPvP (S7)
+
+**2nd - YaojaDzn (6):** xBitFusion (S1), pizzaisland (S1), Natural44 (S1), YepItsJustDirt (S3), xTranslucenTx (S3), Kaismartypants (S3)
+
+**4th - GamesToJump (5):** Natural44 (S5), Fygedew (S5), JahMuis (S5), MojangSupport (S5), Apex_Twinkie (S5)
+
+**5th - CristianPvP (4):** YaojaDzn (S7), MrJokkii (S7), JSpruce (S7), Jinko42 (S7)
+
+**5th - Jinko42 (4):** LightningS7 (S6), OverlordMike (S6), KingChrom (S6), Bidus (S6)
+
+**7th - Bidus (3):** Evader22 (S6), Egth (S6), Fygedew (S6)
+
+**7th - pizzaisland (3):** SuperSniperPRO (S5), xBitFusion (S5), JSpruce (S5)
+
+**9th - Apex_Twinkie (2):** Natural44 (S6), Xeru__ (S7)
+
+**9th - Big_Z60 (2):** Organized (S5), Xeru__ (S5)
+
+**9th - Flacce (2):** HeyImHungry (S4), ChristinaAnne (S4)
+
+**9th - Fygedew (2):** Flacce (S4), JahMuis (S6)
+
+**9th - HeyImHungry (2):** Topdog (S5), StandingFuture (S5)
+
+**9th - KingChrom (2):** NessStarStorm (S6), Apex_Twinkie (S6)
+
+**9th - Meven (2):** xTranslucenTx (S4), Fygedew (S4)
+
+**9th - NessStarStorm (2):** Big_Z60 (S5), Zyphalopagus (S5)
+
+**9th - ryanpower10 (2):** zhselchau1998 (S1), Deniere (S1)
+
+**18th - Deniere (1):** xTranslucenTx (S1)
+
+**18th - Egth (1):** ChristinaAnne (S6)
+
+**18th - GmacLad (1):** FlightVapeHacker (S2)
+
+**18th - LordSuma (1):** xBitFusion (S4)
+
+**18th - Organized (1):** HeyImHungry (S5)
+
+**18th - StandingFuture (1):** Kaismartypants (S5)
+
+**18th - StupidMonkey (1):** NetherrRush (S5)
+
+**18th - Topdog (1):** StupidMonkey (S5)
+
+**18th - xBitFusion (1):** Gambino (S2)
+
+**18th - Xeru__ (1):** Apex_Twinkie (S7)
+
+**18th - Zyphalopagus (1):** GamesToJump (S5)
 
 ---
 ### PvE Deaths
@@ -73,18 +128,18 @@
 ---
 ### Debutants
 
-**S1 (16):** CalicoTeam, Cepheid99, Gambino, AirCannon1187, TheJavaHacker, zhselchau1998, xBitFusion, pizzaisland, Kilr0y42, Ajc786, xTranslucenTx, Deniere, BrickMeistr, Natural44, ryanpower10, YaojaDzn
+**S1 (16):** AirCannon1187, Ajc786, BrickMeistr, CalicoTeam, Cepheid99, Deniere, Gambino, Kilr0y42, Natural44, pizzaisland, ryanpower10, TheJavaHacker, xBitFusion, xTranslucenTx, YaojaDzn, zhselchau1998
 
-**S2 (14):** SlowATSV, Thiis_Random, Jasonvac, FlightVapeHacker, GmacLad, MardenSleepover, ProXPainter, Lunarashi, Gabemessi, Chaotically, thechickenleader, Kaismartypants, TheDeluxStone, SuperSniperPRO
+**S2 (14):** Chaotically, FlightVapeHacker, Gabemessi, GmacLad, Jasonvac, Kaismartypants, Lunarashi, MardenSleepover, ProXPainter, SlowATSV, SuperSniperPRO, thechickenleader, TheDeluxStone, Thiis_Random
 
 **S3 (1):** YepItsJustDirt
 
-**S4 (8):** RegulatorAsh, HeyImHungry, ChristinaAnne, Flacce, NessStarStorm, LordSuma, Fygedew, Meven
+**S4 (8):** ChristinaAnne, Flacce, Fygedew, HeyImHungry, LordSuma, Meven, NessStarStorm, RegulatorAsh
 
-**S5 (14):** Evader22, NetherrRush, StupidMonkey, Topdog, StandingFuture, Organized, Xeru__, JahMuis, Big_Z60, MojangSupport, Apex_Twinkie, JSpruce, GamesToJump, Zyphalopagus
+**S5 (14):** Apex_Twinkie, Big_Z60, Evader22, GamesToJump, JahMuis, JSpruce, MojangSupport, NetherrRush, Organized, StandingFuture, StupidMonkey, Topdog, Xeru__, Zyphalopagus
 
-**S6 (7):** Supah_Matt, Egth, LightningS7, OverlordMike, KingChrom, Bidus, Jinko42
+**S6 (7):** Bidus, Egth, Jinko42, KingChrom, LightningS7, OverlordMike, Supah_Matt
 
-**S7 (3):** tmb0, MrJokkii, CristianPvP
+**S7 (3):** CristianPvP, MrJokkii, tmb0
 
 ---

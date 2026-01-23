@@ -41,6 +41,29 @@
 ---
 ### Kills
 
+**1st - MercuryParadox (7):** Ullti (S1), 1madlilgrunt (S1), Rohcket (S1), Charrlottie (S1), Randehh (S1), Ninetals38 (S1), Greeples (S2)
+
+**2nd - Codwhy (6):** SiahStone (S1), Buzzy_Bee_120 (S1), Randehh (S1), Ninetals38 (S1), Big_Z60 (S1), SiahStone (S2)
+
+**3rd - zac083 (4):** ElGavinoSupremo (S2), DogOfKrondor (S2), Ullti (S2), Bornyo (S2)
+
+**4th - Greeples (3):** Rohcket (S2), ZebraPantz (S2), zac083 (S2)
+
+**4th - Rohcket (3):** ZebraPantz (S1), 1madlilgrunt (S2), Maxwellfifty (S2)
+
+**6th - Randehh (2):** Rohcket (S2), SiahStone (S2)
+
+**6th - SiahStone (2):** Randehh (S2), Brodator (S2)
+
+**8th - Biwitch (1):** Klickacat (S1)
+
+**8th - Bornyo (1):** Codwhy (S2)
+
+**8th - Brodator (1):** Buzzy_Bee_120 (S2)
+
+**8th - Buzzy_Bee_120 (1):** DogOfKrondor (S1)
+
+**8th - ElGavinoSupremo (1):** Ectomorphicus (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +76,8 @@
 ---
 ### Debutants
 
-**S1 (15):** Big_Z60, SiahStone, Ullti, ZebraPantz, 1madlilgrunt, Klickacat, Rohcket, DogOfKrondor, Charrlottie, Buzzy_Bee_120, Randehh, Ninetals38, Biwitch, Codwhy, MercuryParadox
+**S1 (15):** 1madlilgrunt, Big_Z60, Biwitch, Buzzy_Bee_120, Charrlottie, Codwhy, DogOfKrondor, Klickacat, MercuryParadox, Ninetals38, Randehh, Rohcket, SiahStone, Ullti, ZebraPantz
 
-**S2 (9):** ElGavinoSupremo, WackoFlipper, Ectomorphicus, Gorgerous, Maxwellfifty, Brodator, Bornyo, zac083, Greeples
+**S2 (9):** Bornyo, Brodator, Ectomorphicus, ElGavinoSupremo, Gorgerous, Greeples, Maxwellfifty, WackoFlipper, zac083
 
 ---

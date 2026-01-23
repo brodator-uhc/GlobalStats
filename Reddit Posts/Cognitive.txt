@@ -49,6 +49,55 @@
 ---
 ### Kills
 
+**1st - natsuvi (11):** ItsJustPanda (S1), Greeples (S1), CommanderK22_ (S2), Sicced (S3), AyeKayla (S3), L0WKEYLOKI (S3), Logan_S_ (S3), JaqOnCraq (S3), TehBaconBrawlerZ (S3), lilygant (S3), Brodator (S4)
+
+**2nd - Andronify (7):** typicaltrevon (S1), Shinxioray (S1), 123SteveBob (S1), natsuvi (S1), AirInAirOut (S2), 123SteveBob (S3), UnRealDinnerbone (S3)
+
+**3rd - Brodator (6):** 123SteveBob (S2), Logan_S_ (S2), JaqOnCraq (S2), PatrickTN_ (S2), ohh_lia (S2), SharkeyJaws (S4)
+
+**4th - 123SteveBob (5):** PatrickTN_ (S4), kirbey (S4), RuneTactics (S4), IyaIsMad (S4), ItsJustPanda (S4)
+
+**4th - lilygant (5):** Kevin930617 (S3), RuneTactics (S3), WinnerSkye (S4), TehBaconBrawlerZ (S4), TonyEatWorld (S4)
+
+**6th - AtomicCrossbow (3):** DungusFluffy (S3), CommanderK22_ (S3), ohh_lia (S4)
+
+**6th - GuyGojo (3):** Andronify (S3), AirInAirOut (S3), natsuvi (S4)
+
+**6th - ItsJustPanda (3):** ThatTurtleMan (S1), Dashetoboba (S1), Ecto97 (S1)
+
+**6th - JaqOnCraq (3):** Brodator (S1), ThatTurtleMan (S2), ScaryPumpkinFace (S2)
+
+**6th - ohh_lia (3):** Greeples (S2), Brodator (S3), ScaryPumpkinFace (S4)
+
+**6th - PatrickTN_ (3):** Andronify (S2), Jakekub (S2), Emerric (S2)
+
+**6th - TehBaconBrawlerZ (3):** TheSlimeBrother (S3), GuyGojo (S3), AtomicCrossbow (S4)
+
+**6th - typicaltrevon (3):** PatrickTN_ (S1), L0WKEYLOKI (S1), DerpyChoco (S4)
+
+**14th - AirInAirOut (2):** L0WKEYLOKI (S2), northwestern9 (S3)
+
+**14th - IyaIsMad (2):** greaneye (S4), CommanderK22_ (S4)
+
+**14th - Jakekub (2):** natsuvi (S2), TheSlimeBrother (S2)
+
+**14th - RuneTactics (2):** XSnorpX (S4), Andronify (S4)
+
+**18th - DerpyChoco (1):** Logan_S_ (S4)
+
+**18th - greaneye (1):** GuyGojo (S4)
+
+**18th - Greeples (1):** JustTiny (S2)
+
+**18th - Kevin930617 (1):** ohh_lia (S3)
+
+**18th - Logan_S_ (1):** zoeywithawhy (S3)
+
+**18th - ScaryPumpkinFace (1):** northwestern9 (S4)
+
+**18th - Sicced (1):** Ecto97 (S3)
+
+**18th - UnRealDinnerbone (1):** AtomicCrossbow (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +110,12 @@
 ---
 ### Debutants
 
-**S1 (18):** ScaryPumpkinFace, TehBaconBrawlerZ, AirInAirOut, PatrickTN_, ThatTurtleMan, L0WKEYLOKI, Dashetoboba, typicaltrevon, Ecto97, ItsJustPanda, Greeples, Shinxioray, 123SteveBob, natsuvi, Brodator, JaqOnCraq, Andronify, Logan_S_
+**S1 (18):** 123SteveBob, AirInAirOut, Andronify, Brodator, Dashetoboba, Ecto97, Greeples, ItsJustPanda, JaqOnCraq, L0WKEYLOKI, Logan_S_, natsuvi, PatrickTN_, ScaryPumpkinFace, Shinxioray, TehBaconBrawlerZ, ThatTurtleMan, typicaltrevon
 
-**S2 (8):** Bluests, 78ford, CommanderK22_, TheSlimeBrother, JustTiny, Jakekub, Emerric, ohh_lia
+**S2 (8):** 78ford, Bluests, CommanderK22_, Emerric, Jakekub, JustTiny, ohh_lia, TheSlimeBrother
 
-**S3 (11):** DungusFluffy, AtomicCrossbow, UnRealDinnerbone, Sicced, Kevin930617, RuneTactics, zoeywithawhy, AyeKayla, northwestern9, GuyGojo, lilygant
+**S3 (11):** AtomicCrossbow, AyeKayla, DungusFluffy, GuyGojo, Kevin930617, lilygant, northwestern9, RuneTactics, Sicced, UnRealDinnerbone, zoeywithawhy
 
-**S4 (9):** Juiicy2, WinnerSkye, kirbey, SharkeyJaws, XSnorpX, greaneye, DerpyChoco, TonyEatWorld, IyaIsMad
+**S4 (9):** DerpyChoco, greaneye, IyaIsMad, Juiicy2, kirbey, SharkeyJaws, TonyEatWorld, WinnerSkye, XSnorpX
 
 ---

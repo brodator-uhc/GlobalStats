@@ -53,6 +53,73 @@
 ---
 ### Kills
 
+**1st - tuxpeng (23):** Maxwellfifty (S1), PhenomCloud (S1), lexicuhl (S1), warriorcat (S2), thebbers (S2), Maxwellfifty (S2), Ratchet6859 (S2), Lefo_ (S2), lexicuhl (S2), Do_You_Minecraft (S3), DKPMatt (S3), Cyndic (S4), Egth (S4), Osha (S4), SoulRawr (S4), thebbers (S4), automavic (S4), warriorcat (S4), swishduck (S5), dRawry (S5), MercuryParadox (S5), Cyndic (S5), AvaCos (S5)
+
+**2nd - Spongey (14):** Ratchet6859 (S1), OhCanada (S2), swishduck (S2), SoulRawr (S2), DianaB (S4), swishduck (S4), Daffz (S4), rattyplayz (S4), DKPMatt (S4), lexicuhl (S4), Do_You_Minecraft (S4), Zakkeagle (S4), SD_UHC (S5), Do_You_Minecraft (S5)
+
+**3rd - DKPMatt (10):** Spongey (S1), Andyboyonalert (S2), ThePeridotKnight (S2), ShyGus (S2), Micale (S2), SD_UHC (S3), Wolfaye (S3), CH0CK (S3), dRawry (S4), ThePeridotKnight (S4)
+
+**4th - C_money (7):** Renegade_ (S1), Fire_Factor (S1), Do_You_Minecraft (S1), swishduck (S1), Lefo_ (S3), silh (S3), tuxpeng (S3)
+
+**4th - lexicuhl (7):** CH0CK (S1), Daffz (S1), ThePeridotKnight (S1), tuxpeng (S1), 20thPrestigeNoob (S2), Spongey (S2), Nintendoshi (S3)
+
+**6th - swishduck (6):** DKPMatt (S1), warriorcat (S1), Nintendoshi (S1), thebbers (S1), omchris (S1), AttackZach_ (S1)
+
+**7th - AvaCos (5):** automavic (S5), Renegade_ (S5), IonJ (S5), Spongey (S5), rattyplayz (S5)
+
+**7th - SD_UHC (5):** Osha (S3), Evader22 (S4), Apex_Twinkie (S4), PhenomCloud (S4), ThePeridotKnight (S5)
+
+**7th - ThePeridotKnight (5):** rattyplayz (S2), SD_UHC (S4), C_money (S4), silh (S4), Osha (S5)
+
+**10th - ColdBac (4):** Spongey (S3), Daffz (S3), warriorcat (S3), C_money (S3)
+
+**10th - Daffz (4):** Qenis (S3), Andyboyonalert (S3), Digitale (S3), Egth (S3)
+
+**10th - Lefo_ (4):** C_money (S2), chloesad (S2), DKPMatt (S2), Renegade_ (S3)
+
+**13th - Egth (3):** thebbers (S3), IonJ (S3), AvaCos (S4)
+
+**13th - IonJ (3):** thebbers (S5), ColdBac (S5), Zakkeagle (S5)
+
+**13th - SoulRawr (3):** Wolfaye (S2), CH0CK (S2), OhBehave (S3)
+
+**13th - warriorcat (3):** SoulRawr (S3), CappsMan (S3), lexicuhl (S3)
+
+**17th - CH0CK (2):** Maxwellfifty (S3), Qenis (S5)
+
+**17th - Cyndic (2):** CH0CK (S5), TalonBX (S5)
+
+**17th - Maxwellfifty (2):** Supah_Matt (S1), Osha (S2)
+
+**17th - OhBehave (2):** Do_You_Minecraft (S2), swishduck (S3)
+
+**17th - silh (2):** Renegade_ (S4), TalonBX (S4)
+
+**22nd - Apex_Twinkie (1):** CappsMan (S4)
+
+**22nd - AttackZach_ (1):** Osha (S1)
+
+**22nd - automavic (1):** Fensua (S4)
+
+**22nd - Do_You_Minecraft (1):** OhBehave (S2)
+
+**22nd - Evader22 (1):** Qenis (S4)
+
+**22nd - MercuryParadox (1):** Daffz (S5)
+
+**22nd - OhCanada (1):** CappsMan (S2)
+
+**22nd - PhenomCloud (1):** Dida (S2)
+
+**22nd - Qenis (1):** lexicuhl (S5)
+
+**22nd - Renegade_ (1):** Qenis (S2)
+
+**22nd - ShyGus (1):** Renegade_ (S2)
+
+**22nd - thebbers (1):** PhenomCloud (S2)
+
+**22nd - Zakkeagle (1):** Lefo_ (S4)
 
 ---
 ### PvE Deaths
@@ -65,13 +132,13 @@
 ---
 ### Debutants
 
-**S1 (24):** IonJ, CH0CK, Daffz, Supah_Matt, Maxwellfifty, Ratchet6859, Spongey, DKPMatt, Osha, PhenomCloud, Renegade_, Fire_Factor, warriorcat, Nintendoshi, thebbers, Qenis, ThePeridotKnight, lexicuhl, tuxpeng, omchris, Do_You_Minecraft, AttackZach_, swishduck, C_money
+**S1 (24):** AttackZach_, C_money, CH0CK, Daffz, DKPMatt, Do_You_Minecraft, Fire_Factor, IonJ, lexicuhl, Maxwellfifty, Nintendoshi, omchris, Osha, PhenomCloud, Qenis, Ratchet6859, Renegade_, Spongey, Supah_Matt, swishduck, thebbers, ThePeridotKnight, tuxpeng, warriorcat
 
-**S2 (13):** 20thPrestigeNoob, Wolfaye, CappsMan, Andyboyonalert, OhBehave, OhCanada, rattyplayz, ShyGus, Micale, Dida, chloesad, SoulRawr, Lefo_
+**S2 (13):** 20thPrestigeNoob, Andyboyonalert, CappsMan, chloesad, Dida, Lefo_, Micale, OhBehave, OhCanada, rattyplayz, ShyGus, SoulRawr, Wolfaye
 
-**S3 (6):** Kakintse, SD_UHC, Digitale, Egth, silh, ColdBac
+**S3 (6):** ColdBac, Digitale, Egth, Kakintse, SD_UHC, silh
 
-**S4 (10):** AvaCos, Evader22, Apex_Twinkie, Cyndic, DianaB, Fensua, automavic, TalonBX, dRawry, Zakkeagle
+**S4 (10):** Apex_Twinkie, automavic, AvaCos, Cyndic, DianaB, dRawry, Evader22, Fensua, TalonBX, Zakkeagle
 
 **S5 (1):** MercuryParadox
 

@@ -57,6 +57,57 @@
 ---
 ### Kills
 
+**1st - HUNTERKUN (4):** ShutUpBrick (S2), MrTeamRaven (S2), boyceterous (S2), DarkCrystalFlame (S2)
+
+**1st - MrTeamRaven (4):** Micale (S2), Mop19 (S5), EighteenQs (S5), WintherMaw (S5)
+
+**3rd - AndrizzlePC (3):** HUNTERKUN (S2), Flouzemaker (S2), nihontiger (S5)
+
+**3rd - GlowingNeon (3):** OddBaller (S4), TommySuX (S4), TicedUp (S4)
+
+**3rd - KOKeowner (3):** beastboyrolf (S1), Fairyjuice (S1), nihontiger (S1)
+
+**6th - Chippytoothy (2):** Bergasms (S1), shikenzaned (S1)
+
+**6th - Fairyjuice (2):** EPICSACKVILLE (S1), scriblur (S1)
+
+**6th - Kelt78 (2):** dans1988 (S3), LongaVita (S3)
+
+**6th - ShutUpBrick (2):** Fairyjuice (S5), Costanza (S5)
+
+**6th - TheBestGinger13 (2):** Frostbreath (S6), discoczibi (S6)
+
+**6th - TicedUp (2):** VeryNice (S4), Incipiens (S4)
+
+**6th - Zenniker (2):** GlowingNeon (S6), LukiGg (S6)
+
+**13th - 4D_Pixel (1):** dnnyys (S3)
+
+**13th - Costanza (1):** AndrizzlePC (S5)
+
+**13th - EPICSACKVILLE (1):** SidGarcia (S1)
+
+**13th - Flouzemaker (1):** AndrizzlePC (S2)
+
+**13th - GeistBuster7 (1):** Timonscholte (S2)
+
+**13th - Havenhand (1):** firefoxvulpix (S4)
+
+**13th - Incipiens (1):** Heralen (S4)
+
+**13th - Kiinako_ (1):** Matsuzen (S3)
+
+**13th - NJeeeyy (1):** GeistBuster7 (S2)
+
+**13th - Oyubook (1):** VeryNice (S6)
+
+**13th - shikenzaned (1):** Scott_XD (S1)
+
+**13th - SirQuackens (1):** JakeAladarSmith (S3)
+
+**13th - TommySuX (1):** Frostbreath (S4)
+
+**13th - upriserryker (1):** BurningT (S3)
 
 ---
 ### PvE Deaths
@@ -69,16 +120,16 @@
 ---
 ### Debutants
 
-**S1 (12):** Scott_XD, SidGarcia, EPICSACKVILLE, beastboyrolf, Bergasms, scriblur, shikenzaned, Fairyjuice, nihontiger, Chippytoothy, Shadowlego, KOKeowner
+**S1 (12):** beastboyrolf, Bergasms, Chippytoothy, EPICSACKVILLE, Fairyjuice, KOKeowner, nihontiger, Scott_XD, scriblur, Shadowlego, shikenzaned, SidGarcia
 
-**S2 (12):** ShutUpBrick, Micale, MrTeamRaven, boyceterous, DarkCrystalFlame, HUNTERKUN, AndrizzlePC, Timonscholte, Flouzemaker, GeistBuster7, Chapter_III, NJeeeyy
+**S2 (12):** AndrizzlePC, boyceterous, Chapter_III, DarkCrystalFlame, Flouzemaker, GeistBuster7, HUNTERKUN, Micale, MrTeamRaven, NJeeeyy, ShutUpBrick, Timonscholte
 
-**S3 (12):** dans1988, BurningT, LongaVita, dnnyys, JakeAladarSmith, Matsuzen, 4D_Pixel, Kelt78, Kiinako_, SirQuackens, upriserryker, Zydoxe
+**S3 (12):** 4D_Pixel, BurningT, dans1988, dnnyys, JakeAladarSmith, Kelt78, Kiinako_, LongaVita, Matsuzen, SirQuackens, upriserryker, Zydoxe
 
-**S4 (12):** Kurtit, firefoxvulpix, Frostbreath, Heralen, VeryNice, OddBaller, TommySuX, Incipiens, TicedUp, GlowingNeon, Havenhand, Stooof
+**S4 (12):** firefoxvulpix, Frostbreath, GlowingNeon, Havenhand, Heralen, Incipiens, Kurtit, OddBaller, Stooof, TicedUp, TommySuX, VeryNice
 
-**S5 (5):** Costanza, Mop19, EighteenQs, MarcC5M, WintherMaw
+**S5 (5):** Costanza, EighteenQs, MarcC5M, Mop19, WintherMaw
 
-**S6 (6):** MrPolzerino, LukiGg, discoczibi, Oyubook, TheBestGinger13, Zenniker
+**S6 (6):** discoczibi, LukiGg, MrPolzerino, Oyubook, TheBestGinger13, Zenniker
 
 ---

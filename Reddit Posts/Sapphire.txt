@@ -37,6 +37,29 @@
 ---
 ### Kills
 
+**1st - Caydone (4):** CommanderK22_ (S1), SpaceFenix (S1), TheSlimeBrother (S1), AirInAirOut (S1)
+
+**1st - CHAINGE (4):** Rohcket (S1), ItsShqky (S1), Stravilight (S1), omchris (S1)
+
+**1st - SpaceFenix (4):** _1mmortal_ (S1), Dawncy (S1), MarcC5M (S1), Zenithu (S1)
+
+**4th - BoltsInCharge (3):** Drake132667596 (S1), Ryfri (S1), Mikemino321 (S1)
+
+**5th - _1mmortal_ (2):** ArcticSeagull (S1), DogOfKrondor (S1)
+
+**5th - Ryfri (2):** Rebelghost (S1), Vetmire (S1)
+
+**5th - ZebraPantz (2):** Markedbooboy (S1), brinkwhy (S1)
+
+**8th - AirInAirOut (1):** Geroot (S1)
+
+**8th - brinkwhy (1):** Caydone (S1)
+
+**8th - ItsShqky (1):** Westcraft00 (S1)
+
+**8th - TheSlimeBrother (1):** CodeJoshua (S1)
+
+**8th - Zenithu (1):** alexnv (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +72,6 @@
 ---
 ### Debutants
 
-**S1 (30):** MichaelPlayMC, alexnv, Markedbooboy, Rohcket, Westcraft00, ArcticSeagull, DogOfKrondor, Rebelghost, ItsShqky, _1mmortal_, Stravilight, Drake132667596, Vetmire, Dawncy, CodeJoshua, MarcC5M, Geroot, Ryfri, CommanderK22_, Zenithu, SpaceFenix, TheSlimeBrother, AirInAirOut, Caydone, omchris, Mikemino321, brinkwhy, BoltsInCharge, CHAINGE, ZebraPantz
+**S1 (30):** _1mmortal_, AirInAirOut, alexnv, ArcticSeagull, BoltsInCharge, brinkwhy, Caydone, CHAINGE, CodeJoshua, CommanderK22_, Dawncy, DogOfKrondor, Drake132667596, Geroot, ItsShqky, MarcC5M, Markedbooboy, MichaelPlayMC, Mikemino321, omchris, Rebelghost, Rohcket, Ryfri, SpaceFenix, Stravilight, TheSlimeBrother, Vetmire, Westcraft00, ZebraPantz, Zenithu
 
 ---

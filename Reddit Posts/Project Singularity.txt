@@ -37,6 +37,7 @@
 ---
 ### Kills
 
+**1st - WaldenMC (3):** Kirrok (S1), Ashers (S1), Ruarc88 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +50,6 @@
 ---
 ### Debutants
 
-**S1 (5):** Kirrok, Ashers, Ruarc88, WaldenMC, Tainmarr
+**S1 (5):** Ashers, Kirrok, Ruarc88, Tainmarr, WaldenMC
 
 ---

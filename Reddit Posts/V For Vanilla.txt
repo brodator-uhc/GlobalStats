@@ -73,6 +73,53 @@
 ---
 ### Kills
 
+**1st - RedstoneJunkyard (21):** C_money (S3), DoneMar (S4), mattexile (S4), JackIsAZombie (S5), C_money (S5), _Paperclip (S5), odalisca (S5), icarii (S5), Bizz414 (S5), ImExtortion (S5), TheFrickinPOPE (S6), _Paperclip (S6), Aylad (S6), TrickyPiston (S6), Aylad (S7), Bizz414 (S8), GaminSoy (S8), GaminSoy (S9), Caesars_Id (S10), BrickWaffle (S10), PhD_Phil (S10)
+
+**2nd - C_money (12):** Tonto89 (S2), PhD_Phil (S2), demonicmil (S2), Xotixz (S4), HungrySquid (S7), Mystical_Goddess (S7), TheFrickinPOPE (S8), SquirtleShades (S9), Kawsiphek (S9), HungrySquid (S9), BucketOfJam (S9), icarii (S9)
+
+**2nd - PhD_Phil (12):** ImExtortion (S1), mayfen (S1), Xotixz (S2), TheFrickinPOPE (S3), Kinama (S7), Fenaqua (S8), mattexile (S8), C_money (S8), TrickyPiston (S8), Aylad (S8), Ender_Cow (S10), RedstoneJunkyard (S10)
+
+**4th - HungrySquid (8):** BucketOfJam (S4), Xotixz (S6), Bizz414 (S6), Digimazter (S6), Fenaqua (S6), TrickyPiston (S7), ImExtortion (S7), RustedSteele (S10)
+
+**5th - BucketOfJam (6):** C_money (S4), Digimazter (S4), DaDoza (S6), C_money (S6), odalisca (S6), Mammakitty (S6)
+
+**5th - ImExtortion (6):** TrickyPiston (S2), Cr8torGames (S3), TrickyPiston (S3), Xotixz (S3), RedstoneJunkyard (S3), icarii (S3)
+
+**7th - Flouzemaker (4):** DaDoza (S9), Mystical_Goddess (S9), PhD_Phil (S9), RedstoneJunkyard (S9)
+
+**7th - GaminSoy (4):** icarii (S7), PhD_Phil (S7), Xotixz (S8), TrickyPiston (S9)
+
+**7th - icarii (4):** odalisca (S3), Kawsiphek (S4), _Paperclip (S7), soul_syth (S7)
+
+**7th - TrickyPiston (4):** GaminSoy (S6), HungrySquid (S6), RedstoneJunkyard (S6), RedstoneJunkyard (S8)
+
+**11th - BrickWaffle (2):** RedFox_YT__ (S10), Issapod (S10)
+
+**11th - Digimazter (2):** ImExtortion (S4), RedstoneJunkyard (S7)
+
+**11th - dvngal (2):** Neolakis (S2), ImExtortion (S2)
+
+**11th - Kawsiphek (2):** Bizz414 (S4), icarii (S4)
+
+**11th - rainbowdashx99 (2):** RedstoneJunkyard (S2), C_money (S2)
+
+**11th - TenHeartsDown (2):** DoneMar (S1), Toralea (S1)
+
+**11th - TheBagelNebula (2):** TheFrickinPOPE (S1), Finowen (S1)
+
+**11th - ThexBuilder (2):** Cr8torGames (S1), TheBagelNebula (S1)
+
+**11th - Xotixz (2):** Fenaqua (S4), Fenaqua (S9)
+
+**20th - _Paperclip (1):** Bizz414 (S3)
+
+**20th - Fenaqua (1):** Digimazter (S7)
+
+**20th - Mystical_Goddess (1):** Fenaqua (S7)
+
+**20th - RustedSteele (1):** _Watt_ (S10)
+
+**20th - Toralea (1):** PhD_Phil (S1)
 
 ---
 ### PvE Deaths
@@ -85,24 +132,24 @@
 ---
 ### Debutants
 
-**S1 (15):** ZerohSkill, Xotixz, OBEYthePIMP, _Zryder, ImExtortion, mayfen, Cr8torGames, TheFrickinPOPE, Finowen, TheBagelNebula, PhD_Phil, DoneMar, ThexBuilder, Toralea, TenHeartsDown
+**S1 (15):** _Zryder, Cr8torGames, DoneMar, Finowen, ImExtortion, mayfen, OBEYthePIMP, PhD_Phil, TenHeartsDown, TheBagelNebula, TheFrickinPOPE, ThexBuilder, Toralea, Xotixz, ZerohSkill
 
-**S2 (11):** Digimazter, Original_Phrase, Tonto89, _Paperclip, demonicmil, TrickyPiston, Neolakis, RedstoneJunkyard, C_money, rainbowdashx99, dvngal
+**S2 (11):** _Paperclip, C_money, demonicmil, Digimazter, dvngal, Neolakis, Original_Phrase, rainbowdashx99, RedstoneJunkyard, Tonto89, TrickyPiston
 
-**S3 (3):** odalisca, icarii, Bizz414
+**S3 (3):** Bizz414, icarii, odalisca
 
-**S4 (8):** DaDoza, Fenaqua, 1042Harley, Kawsiphek, BucketOfJam, mattexile, HungrySquid, Ore_
+**S4 (8):** 1042Harley, BucketOfJam, DaDoza, Fenaqua, HungrySquid, Kawsiphek, mattexile, Ore_
 
 **S5 (1):** JackIsAZombie
 
-**S6 (4):** Donth8urfate, GaminSoy, Aylad, Mammakitty
+**S6 (4):** Aylad, Donth8urfate, GaminSoy, Mammakitty
 
-**S7 (3):** soul_syth, Kinama, Mystical_Goddess
+**S7 (3):** Kinama, Mystical_Goddess, soul_syth
 
 **S8 (0):** 
 
-**S9 (4):** CryinMo, DefyingPeace, SquirtleShades, Flouzemaker
+**S9 (4):** CryinMo, DefyingPeace, Flouzemaker, SquirtleShades
 
-**S10 (7):** _Watt_, Caesars_Id, RedFox_YT__, Issapod, Ender_Cow, RustedSteele, BrickWaffle
+**S10 (7):** _Watt_, BrickWaffle, Caesars_Id, Ender_Cow, Issapod, RedFox_YT__, RustedSteele
 
 ---

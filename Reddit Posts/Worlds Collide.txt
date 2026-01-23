@@ -41,6 +41,59 @@
 ---
 ### Kills
 
+**1st - Brandonious (7):** riversperception (S1), EverythingPro61 (S1), Ryfri (S1), PBDGabe (S1), mcd573 (S1), shesopink (S1), Chasmic (S1)
+
+**2nd - ArcticSeagull (5):** Kaismartypants (S1), SpaceFenix (S1), Pelycosaur (S1), Aaron27_ (S1), GreenFire26 (S1)
+
+**3rd - Chasmic (3):** WinnerSkye (S1), TehBaconBrawlerZ (S1), ArcticSeagull (S1)
+
+**3rd - Rockall (3):** Digitale (S2), marsbars1017 (S2), TehBaconBrawlerZ (S2)
+
+**5th - Fourbitplayer (2):** JoshC2 (S1), Teodactyl (S1)
+
+**5th - Jakekub (2):** TayUHC (S1), Sainsbury_s (S1)
+
+**5th - K0REDRAG0N (2):** getitgirlypop (S2), flameorb (S2)
+
+**5th - marsbars1017 (2):** kawaiibunri (S2), Rogue_Batman (S2)
+
+**5th - mcd573 (2):** Phyrrus (S1), 1Rag (S1)
+
+**5th - Pelycosaur (2):** MangoPlayz (S1), Jakekub (S1)
+
+**5th - Skoloton (2):** Kaddyn (S2), greaseballmaster (S2)
+
+**5th - TehBaconBrawlerZ (2):** MaxEvasion (S2), Rohcket (S2)
+
+**13th - Aaron27_ (1):** Espik (S1)
+
+**13th - BuildingBard300 (1):** Fireeypvp (S2)
+
+**13th - Digitale (1):** ThickLoaf (S2)
+
+**13th - Fireeypvp (1):** BuildingBard300 (S2)
+
+**13th - flameorb (1):** Rockall (S2)
+
+**13th - getitgirlypop (1):** KoolKart3 (S2)
+
+**13th - greaseballmaster (1):** Jalapinecone (S2)
+
+**13th - KatyLawson (1):** KennyTee (S1)
+
+**13th - MaxEvasion (1):** Flcnt (S2)
+
+**13th - PBDGabe (1):** KatyLawson (S1)
+
+**13th - Rogue_Batman (1):** Emboar (S2)
+
+**13th - Rohcket (1):** Skoloton (S2)
+
+**13th - RoseyGal88 (1):** Fourbitplayer (S1)
+
+**13th - Sainsbury_s (1):** silverplate32 (S1)
+
+**13th - WinnerSkye (1):** RoseyGal88 (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +106,8 @@
 ---
 ### Debutants
 
-**S1 (30):** riversperception, Kaismartypants, KennyTee, KatyLawson, Phyrrus, 1Rag, JoshC2, Teodactyl, EverythingPro61, Ryfri, TayUHC, silverplate32, PBDGabe, Sainsbury_s, mcd573, Fourbitplayer, MangoPlayz, RoseyGal88, SpaceFenix, Jakekub, WinnerSkye, TehBaconBrawlerZ, Espik, shesopink, Pelycosaur, Aaron27_, GreenFire26, ArcticSeagull, Chasmic, Brandonious
+**S1 (30):** 1Rag, Aaron27_, ArcticSeagull, Brandonious, Chasmic, Espik, EverythingPro61, Fourbitplayer, GreenFire26, Jakekub, JoshC2, Kaismartypants, KatyLawson, KennyTee, MangoPlayz, mcd573, PBDGabe, Pelycosaur, Phyrrus, riversperception, RoseyGal88, Ryfri, Sainsbury_s, shesopink, silverplate32, SpaceFenix, TayUHC, TehBaconBrawlerZ, Teodactyl, WinnerSkye
 
-**S2 (21):** ThickLoaf, Kaddyn, Jalapinecone, greaseballmaster, Digitale, KoolKart3, Flcnt, Emboar, BuildingBard300, Fireeypvp, kawaiibunri, Skoloton, Rogue_Batman, MaxEvasion, Rohcket, marsbars1017, Rockall, getitgirlypop, flameorb, brinkwhy, K0REDRAG0N
+**S2 (21):** brinkwhy, BuildingBard300, Digitale, Emboar, Fireeypvp, flameorb, Flcnt, getitgirlypop, greaseballmaster, Jalapinecone, K0REDRAG0N, Kaddyn, kawaiibunri, KoolKart3, marsbars1017, MaxEvasion, Rockall, Rogue_Batman, Rohcket, Skoloton, ThickLoaf
 
 ---

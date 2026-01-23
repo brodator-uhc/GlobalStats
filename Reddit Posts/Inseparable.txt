@@ -45,6 +45,65 @@
 ---
 ### Kills
 
+**1st - upriserryker (4):** Micale (S1), yjite (S2), TommySuX (S2), MrTeamRaven (S2)
+
+**2nd - Gabey (3):** chloesad (S3), QuilJ1 (S3), Emerric (S3)
+
+**2nd - Havenhand (3):** TheBestGinger13 (S2), AsianWiz (S2), PrimalPhase (S2)
+
+**2nd - Jinko42 (3):** scriblur (S3), sleepingxd (S3), SimplySam (S3)
+
+**2nd - Potsie (3):** Chasmic (S3), BurningT (S3), LongaVita (S3)
+
+**2nd - Purpdan (3):** YellowVitt (S3), Zcka (S3), Gabey (S3)
+
+**2nd - ShutUpBrick (3):** Kurdie (S2), Mjora (S2), MeadowMoos (S2)
+
+**2nd - Zcka (3):** Ixolock (S3), HUNTERKUN (S3), Cyndic (S3)
+
+**9th - AsianWiz (2):** Rushilton (S2), Micale (S2)
+
+**9th - Blissinz (2):** Zermbeeh (S2), Kurtit (S2)
+
+**9th - Bobbytheturtle (2):** Jinko42 (S3), Potsie (S3)
+
+**9th - Kurtit (2):** TommySuX (S1), xNestorio (S2)
+
+**9th - MrTeamRaven (2):** Rhi (S1), TheBestGinger13 (S1)
+
+**9th - SSiafs (2):** Oyubook (S2), NJeeeyy (S2)
+
+**9th - TommySuX (2):** upriserryker (S1), Kurtit (S1)
+
+**16th - Apex_Twinkie (1):** JonnyFairplay (S3)
+
+**16th - ColdBac (1):** Kieranborn (S3)
+
+**16th - Cyndic (1):** KatyLawson (S3)
+
+**16th - Fairyjuice (1):** MPMG (S1)
+
+**16th - GoldenOlive (1):** Kakintse (S1)
+
+**16th - Kurdie (1):** joeykin (S2)
+
+**16th - MeadowMoos (1):** ShutUpBrick (S2)
+
+**16th - PrimalPhase (1):** Havenhand (S2)
+
+**16th - QuilJ1 (1):** ColdBac (S3)
+
+**16th - Rushilton (1):** SSiafs (S2)
+
+**16th - scriblur (1):** Apex_Twinkie (S3)
+
+**16th - ShyGus (1):** Kidfo (S3)
+
+**16th - sleepingxd (1):** ShyGus (S3)
+
+**16th - TheBestGinger13 (1):** Keirim (S1)
+
+**16th - xNestorio (1):** GoldenOlive (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +116,10 @@
 ---
 ### Debutants
 
-**S1 (24):** ShutUpBrick, MPMG, Keirim, Zenniker, Kakintse, Ricardo_A, Kelt78, Micale, iDanzah, GoldenOlive, Rhi, TicedUp, GlitchyRainbow, BJPlays, Fairyjuice, Bergasms, xNestorio, upriserryker, TheBestGinger13, Hadders, Kurtit, MrTeamRaven, TommySuX, yjite
+**S1 (24):** Bergasms, BJPlays, Fairyjuice, GlitchyRainbow, GoldenOlive, Hadders, iDanzah, Kakintse, Keirim, Kelt78, Kurtit, Micale, MPMG, MrTeamRaven, Rhi, Ricardo_A, ShutUpBrick, TheBestGinger13, TicedUp, TommySuX, upriserryker, xNestorio, yjite, Zenniker
 
-**S2 (18):** SidGarcia, annbadison, TheCaveman, BlakeCraft, Heralen, Oyubook, NJeeeyy, joeykin, SSiafs, Kurdie, Rushilton, Mjora, MeadowMoos, AsianWiz, Havenhand, PrimalPhase, Zermbeeh, Blissinz
+**S2 (18):** annbadison, AsianWiz, BlakeCraft, Blissinz, Havenhand, Heralen, joeykin, Kurdie, MeadowMoos, Mjora, NJeeeyy, Oyubook, PrimalPhase, Rushilton, SidGarcia, SSiafs, TheCaveman, Zermbeeh
 
-**S3 (26):** Kidfo, Kieranborn, Chasmic, KatyLawson, YellowVitt, Ixolock, JonnyFairplay, Apex_Twinkie, HUNTERKUN, chloesad, scriblur, ColdBac, ShyGus, sleepingxd, SimplySam, Cyndic, Jinko42, BurningT, LongaVita, QuilJ1, Emerric, Potsie, Zcka, Gabey, Bobbytheturtle, Purpdan
+**S3 (26):** Apex_Twinkie, Bobbytheturtle, BurningT, Chasmic, chloesad, ColdBac, Cyndic, Emerric, Gabey, HUNTERKUN, Ixolock, Jinko42, JonnyFairplay, KatyLawson, Kidfo, Kieranborn, LongaVita, Potsie, Purpdan, QuilJ1, scriblur, ShyGus, SimplySam, sleepingxd, YellowVitt, Zcka
 
 ---

@@ -49,6 +49,71 @@
 ---
 ### Kills
 
+**1st - Purpdan (14):** KingOfAllDogz (S1), Ethab1 (S2), DiamondHunterDB2 (S2), tooooobin (S2), Zenyx (S2), obrier (S3), zfiascoz (S3), zachattack416 (S3), Aspire3630 (S3), iSluff (S3), TheKevGuy (S4), bjr201111 (S4), Walshy (S4), Egth (S4)
+
+**2nd - DiamondHunterDB2 (8):** Ninjajaja (S1), Squibly_ (S1), zfiascoz (S1), iSluff (S1), Purpdan (S1), Egth (S2), path (S2), rockonhi5 (S2)
+
+**3rd - iSluff (6):** MINETWON (S1), troyroxursox (S1), rockonhi5 (S1), CapsOviTheGreat (S3), Walshy (S3), Trevstacks (S4)
+
+**3rd - zachattack416 (6):** Romestamo (S4), Joeylinks (S4), tuxpeng (S4), OblivionTU (S4), ShyGus (S4), iSluff (S4)
+
+**5th - rockonhi5 (5):** sleepingxd (S2), Megahero (S2), TheFuglyDuckling (S3), xJesterrr (S3), sleepingxd (S4)
+
+**6th - _ICEMAN (4):** iSluff (S2), Romestamo (S3), rockonhi5 (S3), Jpgesus (S3)
+
+**6th - OblivionTU (4):** TheKevGuy (S3), Hannilala (S3), silh (S3), Purpdan (S4)
+
+**6th - Squibly_ (4):** Aspire3630 (S1), Oboh (S1), BryceASF (S1), xJesterrr (S2)
+
+**6th - Zenyx (4):** c1n (S2), zfiascoz (S4), xJesterrr (S4), Haama_ (S4)
+
+**10th - c1n (3):** Aspire3630 (S2), Vozae (S2), WackoFlipper (S4)
+
+**10th - tooooobin (3):** Squibly_ (S2), Ninjajaja (S2), DomoDomo (S2)
+
+**10th - Walshy (3):** Rofling (S3), ShyGus (S3), c1n (S4)
+
+**13th - Aspire3630 (2):** sugarl0af (S1), path (S3)
+
+**13th - bjr201111 (2):** Livenator (S1), silh (S2)
+
+**13th - Megahero (2):** Ninjajaja (S3), Jpgesus (S4)
+
+**13th - MINETWON (2):** zSillen (S1), bjr201111 (S1)
+
+**13th - Oboh (2):** Egth (S3), MoneyMonkey (S3)
+
+**13th - path (2):** Rofling (S2), bjr201111 (S3)
+
+**13th - ShyGus (2):** madmerrick (S3), Megahero (S3)
+
+**13th - TheKevGuy (2):** tuxpeng (S3), Kidfo (S4)
+
+**21st - 1eeg (1):** Zenyx (S4)
+
+**21st - BryceASF (1):** Jpgesus (S1)
+
+**21st - Egth (1):** silh (S4)
+
+**21st - Haama_ (1):** Vozae (S4)
+
+**21st - Jpgesus (1):** Oboh (S3)
+
+**21st - Livenator (1):** 1eeg (S1)
+
+**21st - Romestamo (1):** 1eeg (S4)
+
+**21st - silh (1):** _ICEMAN (S3)
+
+**21st - Trevstacks (1):** zSillen (S4)
+
+**21st - tuxpeng (1):** Kidfo (S3)
+
+**21st - Vozae (1):** zfiascoz (S2)
+
+**21st - WackoFlipper (1):** Megahero (S4)
+
+**21st - zSillen (1):** flyingninjas (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +126,12 @@
 ---
 ### Debutants
 
-**S1 (20):** KingOfAllDogz, flyingninjas, 1eeg, sugarl0af, Aspire3630, Oboh, Livenator, zSillen, bjr201111, MINETWON, Jpgesus, Ninjajaja, BryceASF, Squibly_, troyroxursox, zfiascoz, rockonhi5, iSluff, Purpdan, DiamondHunterDB2
+**S1 (20):** 1eeg, Aspire3630, bjr201111, BryceASF, DiamondHunterDB2, flyingninjas, iSluff, Jpgesus, KingOfAllDogz, Livenator, MINETWON, Ninjajaja, Oboh, Purpdan, rockonhi5, Squibly_, sugarl0af, troyroxursox, zfiascoz, zSillen
 
-**S2 (15):** Ethab1, silh, Vozae, sleepingxd, c1n, Rofling, Megahero, Egth, path, xJesterrr, DomoDomo, tooooobin, Zenyx, _ICEMAN, obrier
+**S2 (15):** _ICEMAN, c1n, DomoDomo, Egth, Ethab1, Megahero, obrier, path, Rofling, silh, sleepingxd, tooooobin, Vozae, xJesterrr, Zenyx
 
-**S3 (13):** Kidfo, TheKevGuy, tuxpeng, zachattack416, madmerrick, ShyGus, TheFuglyDuckling, CapsOviTheGreat, Romestamo, Walshy, MoneyMonkey, Hannilala, OblivionTU
+**S3 (13):** CapsOviTheGreat, Hannilala, Kidfo, madmerrick, MoneyMonkey, OblivionTU, Romestamo, ShyGus, TheFuglyDuckling, TheKevGuy, tuxpeng, Walshy, zachattack416
 
-**S4 (5):** sirples, WackoFlipper, Haama_, Joeylinks, Trevstacks
+**S4 (5):** Haama_, Joeylinks, sirples, Trevstacks, WackoFlipper
 
 ---

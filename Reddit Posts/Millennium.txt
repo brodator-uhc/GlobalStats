@@ -41,6 +41,33 @@
 ---
 ### Kills
 
+**1st - _Glen (7):** WylderGaming (S1), HiImCC (S1), pigghetti (S2), Renegade_ (S2), Eroe (S2), LeonTG (S2), Kelawesome (S2)
+
+**1st - PupperKun (7):** Eroe (S1), PauloSSB (S1), xFade (S1), HiImCC (S2), GRLH (S2), Jordinn (S2), FrozenUHC (S2)
+
+**3rd - Kelawesome (5):** spoood (S2), xFade (S2), Funoxii (S2), AmbientDan (S2), PupperKun (S2)
+
+**4th - PauloSSB (3):** C_money (S1), abateur (S1), _Glen (S1)
+
+**5th - brinkwhy (2):** xRyan98 (S1), SmooveManeuver (S2)
+
+**5th - Jordinn (2):** Renegade_ (S1), flameh (S2)
+
+**5th - SmooveManeuver (2):** pigghetti (S1), brinkwhy (S1)
+
+**8th - abateur (1):** FrozenUHC (S1)
+
+**8th - C_money (1):** Cyndic (S2)
+
+**8th - Cyndic (1):** brinkwhy (S2)
+
+**8th - FrozenUHC (1):** xRyan98 (S2)
+
+**8th - Renegade_ (1):** Jordinn (S1)
+
+**8th - spoood (1):** C_money (S2)
+
+**8th - xFade (1):** thetntdude (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +80,8 @@
 ---
 ### Debutants
 
-**S1 (18):** ItsParty, Renegade_, Jordinn, xRyan98, C_money, WylderGaming, thetntdude, HiImCC, FrozenUHC, Eroe, pigghetti, abateur, brinkwhy, _Glen, PauloSSB, xFade, PupperKun, SmooveManeuver
+**S1 (18):** _Glen, abateur, brinkwhy, C_money, Eroe, FrozenUHC, HiImCC, ItsParty, Jordinn, PauloSSB, pigghetti, PupperKun, Renegade_, SmooveManeuver, thetntdude, WylderGaming, xFade, xRyan98
 
-**S2 (9):** GRLH, flameh, Apas, Cyndic, spoood, Funoxii, AmbientDan, LeonTG, Kelawesome
+**S2 (9):** AmbientDan, Apas, Cyndic, flameh, Funoxii, GRLH, Kelawesome, LeonTG, spoood
 
 ---

@@ -45,6 +45,67 @@
 ---
 ### Kills
 
+**1st - Drake132667596 (9):** Jahrod (S1), TehBaconBrawlerZ (S1), lunne (S2), cherryblawsom (S2), TheSlimeBrother (S2), RabidChipmunk (S2), Fra49 (S2), 6BU (S3), Phoraxe (S3)
+
+**2nd - Rohcket (8):** MaxEvasion (S2), Drake132667596 (S2), Spongey (S2), _ChrisMS (S2), TheSlimeBrother (S3), Klickacat (S3), Gorgerous (S3), Drake132667596 (S3)
+
+**3rd - DJoee (6):** Doormatt65 (S2), Doopaboy (S2), Rogue_Batman (S2), ArcticSeagull (S3), cherryblawsom (S3), lunne (S3)
+
+**3rd - NajaOxiana (6):** Doopaboy (S1), RabidChipmunk (S1), silent_spriicket (S1), PresidentFleb (S1), lunne (S1), cherryblawsom (S1)
+
+**5th - nsket (5):** Brodator (S3), Spongey (S3), ZachMcD (S3), pigghetti (S3), Glarza (S3)
+
+**5th - Ryfri (5):** Doormatt65 (S1), _Dieter (S1), Glarza (S1), Drake132667596 (S1), AvyleZ (S1)
+
+**7th - Glarza (4):** Spacepod_ (S2), Gorgerous (S2), natsuvi (S3), DJoee (S3)
+
+**8th - PresidentFleb (3):** Gorgerous (S1), RqDix (S1), ShyGus (S3)
+
+**8th - ShyGus (3):** frogsella (S2), frogsella (S3), PresidentFleb (S3)
+
+**8th - ZachMcD (3):** Rohcket (S2), WackoFlipper (S3), Jahrod (S3)
+
+**11th - AvyleZ (2):** Supersun_ (S1), CHAINGE (S1)
+
+**11th - Fra49 (2):** Cqson (S2), Glarza (S2)
+
+**11th - frogsella (2):** BardMain2 (S2), ColdBac (S2)
+
+**11th - MaxEvasion (2):** ERHDude (S2), DJoee (S2)
+
+**11th - natsuvi (2):** Psykl0ne (S3), JaqOnCraq (S3)
+
+**11th - ohh_lia (2):** Aybel (S2), MaxEvasion (S3)
+
+**11th - pigghetti (2):** _pbo (S3), Aybel (S3)
+
+**11th - RabidChipmunk (2):** SiahStone (S1), Biwitch (S1)
+
+**11th - RqDix (2):** 6BU (S2), Alacan (S2)
+
+**11th - Supersun_ (2):** kawaiibunri (S1), flameorb (S1)
+
+**21st - _ChrisMS (1):** ArcticSeagull (S2)
+
+**21st - Aybel (1):** ohh_lia (S2)
+
+**21st - branman (1):** ColdBac (S3)
+
+**21st - Brodator (1):** Rohcket (S3)
+
+**21st - CHAINGE (1):** TheSlimeBrother (S1)
+
+**21st - cherryblawsom (1):** Jahrod (S2)
+
+**21st - Jahrod (1):** branman (S3)
+
+**21st - jommyappleseed (1):** silent_spriicket (S3)
+
+**21st - Phoraxe (1):** jommyappleseed (S3)
+
+**21st - Spongey (1):** _pbo (S2)
+
+**21st - TheSlimeBrother (1):** nFang (S3)
 
 ---
 ### PvE Deaths
@@ -57,10 +118,10 @@
 ---
 ### Debutants
 
-**S1 (24):** kawaiibunri, Doopaboy, Doormatt65, SiahStone, Jahrod, flameorb, TehBaconBrawlerZ, Biwitch, Gorgerous, RqDix, _Dieter, Glarza, Drake132667596, RabidChipmunk, Supersun_, silent_spriicket, TheSlimeBrother, PresidentFleb, lunne, cherryblawsom, CHAINGE, AvyleZ, NajaOxiana, Ryfri
+**S1 (24):** _Dieter, AvyleZ, Biwitch, CHAINGE, cherryblawsom, Doopaboy, Doormatt65, Drake132667596, flameorb, Glarza, Gorgerous, Jahrod, kawaiibunri, lunne, NajaOxiana, PresidentFleb, RabidChipmunk, RqDix, Ryfri, SiahStone, silent_spriicket, Supersun_, TehBaconBrawlerZ, TheSlimeBrother
 
-**S2 (22):** ERHDude, ohh_lia, Aybel, Spacepod_, BardMain2, Cqson, _pbo, kirbey, ColdBac, frogsella, ShyGus, 6BU, Alacan, Rogue_Batman, MaxEvasion, DJoee, Fra49, ArcticSeagull, Spongey, _ChrisMS, Rohcket, ZachMcD
+**S2 (22):** _ChrisMS, _pbo, 6BU, Alacan, ArcticSeagull, Aybel, BardMain2, ColdBac, Cqson, DJoee, ERHDude, Fra49, frogsella, kirbey, MaxEvasion, ohh_lia, Rogue_Batman, Rohcket, ShyGus, Spacepod_, Spongey, ZachMcD
 
-**S3 (12):** nFang, jommyappleseed, Phoraxe, Klickacat, Psykl0ne, JaqOnCraq, natsuvi, branman, Brodator, WackoFlipper, pigghetti, nsket
+**S3 (12):** branman, Brodator, JaqOnCraq, jommyappleseed, Klickacat, natsuvi, nFang, nsket, Phoraxe, pigghetti, Psykl0ne, WackoFlipper
 
 ---

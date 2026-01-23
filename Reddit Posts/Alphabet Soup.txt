@@ -37,6 +37,31 @@
 ---
 ### Kills
 
+**1st - oworca (6):** QuQuel (S1), Wolfaye (S1), Hoookey (S1), Topspinpiggles (S1), lexicuhl (S1), Frostbreath (S1)
+
+**2nd - Hoookey (3):** TaylorLive (S1), InsertDotJpeg (S1), Bradzi (S1)
+
+**3rd - automavic (2):** dango989 (S1), YellowVitt (S1)
+
+**3rd - InsertDotJpeg (2):** JustNolan (S1), Jayzize (S1)
+
+**3rd - Potsie (2):** Lucityy (S1), Edviin_ (S1)
+
+**3rd - Wolfaye (2):** Vawqer (S1), CountryCutie (S1)
+
+**7th - Bradzi (1):** Kingsy_ (S1)
+
+**7th - CountryCutie (1):** miles1baseball (S1)
+
+**7th - Frostbreath (1):** nihontiger (S1)
+
+**7th - JustNolan (1):** automavic (S1)
+
+**7th - Lucityy (1):** zCent (S1)
+
+**7th - QuQuel (1):** Potsie (S1)
+
+**7th - Topspinpiggles (1):** RwDragon (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +74,6 @@
 ---
 ### Debutants
 
-**S1 (26):** Vawqer, OnlyShero, Kingsy_, miles1baseball, CountryCutie, zCent, dango989, Lucityy, Edviin_, Potsie, YellowVitt, QuQuel, TaylorLive, automavic, JustNolan, Jayzize, InsertDotJpeg, Wolfaye, Bradzi, Hoookey, RwDragon, nihontiger, Topspinpiggles, lexicuhl, Frostbreath, oworca
+**S1 (26):** automavic, Bradzi, CountryCutie, dango989, Edviin_, Frostbreath, Hoookey, InsertDotJpeg, Jayzize, JustNolan, Kingsy_, lexicuhl, Lucityy, miles1baseball, nihontiger, OnlyShero, oworca, Potsie, QuQuel, RwDragon, TaylorLive, Topspinpiggles, Vawqer, Wolfaye, YellowVitt, zCent
 
 ---

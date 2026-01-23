@@ -41,6 +41,33 @@
 ---
 ### Kills
 
+**1st - CedGhoss (5):** Darth (S1), Praulis (S1), Eluniel (S1), GlowingNeon (S2), Hoppy (S2)
+
+**1st - GoldenOlive (5):** Mentally (S1), CedGhoss (S1), TheGamerCool (S1), MrCraftinator (S2), Chippytoothy (S2)
+
+**3rd - Oyubook (4):** Edviin_ (S1), Cybers_ (S1), NiFear (S1), MrPolzerino (S1)
+
+**4th - MrPolzerino (3):** TheGamerCool (S2), caseyjones223 (S2), GoldenOlive (S2)
+
+**4th - Naecoo (3):** Schmeon (S1), Havenhand (S1), Oyubook (S1)
+
+**6th - Dark_rust (2):** CedGhoss (S2), Shortgamer (S2)
+
+**6th - Kidfo (2):** adadaddam (S2), Dark_rust (S2)
+
+**6th - TheGamerCool (2):** _Frankie (S1), Naecoo (S1)
+
+**9th - Captain220 (1):** Timonscholte (S1)
+
+**9th - Cybers_ (1):** Maniacmagee (S2)
+
+**9th - Edviin_ (1):** CopperWalrus (S1)
+
+**9th - MrCraftinator (1):** Cookiecrumble_ (S2)
+
+**9th - Schmeon (1):** adadaddam (S1)
+
+**9th - Shortgamer (1):** awesomemacD (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +80,8 @@
 ---
 ### Debutants
 
-**S1 (22):** CopperWalrus, Edviin_, Cybers_, GlowingNeon, NiFear, adadaddam, Timonscholte, Darth, Praulis, _Frankie, Schmeon, Havenhand, MrPolzerino, Oyubook, Captain220, CelVeritas, Mentally, Naecoo, Eluniel, CedGhoss, TheGamerCool, GoldenOlive
+**S1 (22):** _Frankie, adadaddam, Captain220, CedGhoss, CelVeritas, CopperWalrus, Cybers_, Darth, Edviin_, Eluniel, GlowingNeon, GoldenOlive, Havenhand, Mentally, MrPolzerino, Naecoo, NiFear, Oyubook, Praulis, Schmeon, TheGamerCool, Timonscholte
 
-**S2 (10):** Cookiecrumble_, Maniacmagee, awesomemacD, Hoppy, MrCraftinator, Shortgamer, Chippytoothy, caseyjones223, Dark_rust, Kidfo
+**S2 (10):** awesomemacD, caseyjones223, Chippytoothy, Cookiecrumble_, Dark_rust, Hoppy, Kidfo, Maniacmagee, MrCraftinator, Shortgamer
 
 ---

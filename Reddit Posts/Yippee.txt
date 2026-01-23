@@ -37,6 +37,29 @@
 ---
 ### Kills
 
+**1st - natsuvi (9):** Flcnt (S1), CipherKai (S1), Zenithu (S1), draylor09 (S1), jimmyjegs (S1), flameorb (S1), Caydone (S1), Andronify (S1), Fcrm (S1)
+
+**2nd - Fcrm (5):** _Fost_ (S1), Brodator (S1), Ninetals38 (S1), PresidentFleb (S1), Lighte (S1)
+
+**3rd - Kaismartypants (3):** AirInAirOut (S1), Vetmire (S1), benidk (S1)
+
+**3rd - Lighte (3):** SilverShelby (S1), fruitlogic (S1), Psykl0ne (S1)
+
+**3rd - PresidentFleb (3):** MichaelPlayMC (S1), CodeJoshua (S1), BuildingBard300 (S1)
+
+**6th - Andronify (2):** Klickacat (S1), Kaismartypants (S1)
+
+**6th - azoof (2):** Fazz2 (S1), 4EyedSlime (S1)
+
+**6th - benidk (2):** aalaan (S1), azoof (S1)
+
+**9th - _Fost_ (1):** Codwhy (S1)
+
+**9th - Caydone (1):** Jahrod (S1)
+
+**9th - CipherKai (1):** ArcticSeagull (S1)
+
+**9th - draylor09 (1):** CaptainRichy (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +72,6 @@
 ---
 ### Debutants
 
-**S1 (37):** Kaddyn, Codwhy, aalaan, Flcnt, AirInAirOut, Vetmire, TheRealHagrid, ArcticSeagull, SilverShelby, MichaelPlayMC, CipherKai, _Fost_, Fazz2, Charrlottie, CaptainRichy, 4EyedSlime, Klickacat, Brodator, CodeJoshua, Zenithu, draylor09, azoof, jimmyjegs, Ninetals38, BuildingBard300, Jahrod, flameorb, benidk, fruitlogic, PresidentFleb, Kaismartypants, Caydone, Psykl0ne, Lighte, Andronify, Fcrm, natsuvi
+**S1 (37):** _Fost_, 4EyedSlime, aalaan, AirInAirOut, Andronify, ArcticSeagull, azoof, benidk, Brodator, BuildingBard300, CaptainRichy, Caydone, Charrlottie, CipherKai, CodeJoshua, Codwhy, draylor09, Fazz2, Fcrm, flameorb, Flcnt, fruitlogic, Jahrod, jimmyjegs, Kaddyn, Kaismartypants, Klickacat, Lighte, MichaelPlayMC, natsuvi, Ninetals38, PresidentFleb, Psykl0ne, SilverShelby, TheRealHagrid, Vetmire, Zenithu
 
 ---

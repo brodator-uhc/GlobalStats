@@ -49,6 +49,49 @@
 ---
 ### Kills
 
+**1st - SamAGaming (10):** FSP_Ninja (S1), MetalGuy_100 (S1), Hgford (S1), VisaNos (S1), MitchyRules (S1), Incipiens (S1), ShockeryFlame (S2), Hgford (S3), WackoFlipper (S4), MetalGuy_100 (S4)
+
+**2nd - DrWonkenstein (7):** WackoFlipper (S2), Kiinako_ (S2), SpikeWinn (S3), HoneyFromHell (S3), vinny212 (S3), jordanleevan (S3), Snuggelz007 (S3)
+
+**2nd - Jakekub (7):** pigcolony (S4), Frostbreath (S4), Snuggelz007 (S4), MooshroomCrafter (S4), Shadowlego (S4), Kiinako_ (S4), Hgford (S4)
+
+**4th - Snuggelz007 (4):** Kakintse (S2), Ruari (S3), HoneyFromHell (S4), Incipiens (S4)
+
+**5th - Hgford (3):** DrWonkenstein (S2), FSP_Ninja (S2), Ruari (S4)
+
+**5th - HoneyFromHell (3):** VisaNos (S3), MooshroomCrafter (S3), RastaNinja_ (S4)
+
+**5th - Qyet (3):** PokeLP (S2), SpikeWinn (S2), SamAGaming (S2)
+
+**5th - Sanderson (3):** Snuggelz007 (S2), thegrombmx11 (S2), HoneyFromHell (S2)
+
+**5th - Schmeon (3):** tiffaroni (S3), tooooobin (S3), thegrombmx11 (S3)
+
+**5th - WackoFlipper (3):** Builder999 (S3), KacTheRedPanda (S3), tooooobin (S4)
+
+**11th - MetalGuy_100 (2):** HoneyFromHell (S1), Goldcap (S4)
+
+**11th - pigcolony (2):** SamAGaming (S3), SamAGaming (S4)
+
+**11th - ShockeryFlame (2):** vinny212 (S2), Hgford (S2)
+
+**11th - VisaNos (2):** Builder999 (S1), Kiinako_ (S3)
+
+**15th - FSP_Ninja (1):** Builder999 (S2)
+
+**15th - Incipiens (1):** Dr_Beanz (S1)
+
+**15th - Kakintse (1):** Incipiens (S2)
+
+**15th - Kiinako_ (1):** Kakintse (S3)
+
+**15th - MooshroomCrafter (1):** _shadowapples (S4)
+
+**15th - Shadowlego (1):** TaylorLive (S4)
+
+**15th - tooooobin (1):** WackoFlipper (S3)
+
+**15th - vinny212 (1):** pigcolony (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +104,12 @@
 ---
 ### Debutants
 
-**S1 (14):** MooshroomCrafter, FSP_Ninja, HoneyFromHell, Dr_Beanz, MetalGuy_100, Hgford, Snuggelz007, pigcolony, Builder999, VisaNos, MitchyRules, tiffaroni, Incipiens, SamAGaming
+**S1 (14):** Builder999, Dr_Beanz, FSP_Ninja, Hgford, HoneyFromHell, Incipiens, MetalGuy_100, MitchyRules, MooshroomCrafter, pigcolony, SamAGaming, Snuggelz007, tiffaroni, VisaNos
 
-**S2 (11):** PokeLP, Kakintse, SpikeWinn, WackoFlipper, Kiinako_, DrWonkenstein, vinny212, ShockeryFlame, thegrombmx11, Qyet, Sanderson
+**S2 (11):** DrWonkenstein, Kakintse, Kiinako_, PokeLP, Qyet, Sanderson, ShockeryFlame, SpikeWinn, thegrombmx11, vinny212, WackoFlipper
 
-**S3 (7):** SuddenlyBeagles, EuropesNinja, Ruari, KacTheRedPanda, tooooobin, jordanleevan, Schmeon
+**S3 (7):** EuropesNinja, jordanleevan, KacTheRedPanda, Ruari, Schmeon, SuddenlyBeagles, tooooobin
 
-**S4 (7):** Goldcap, RastaNinja_, Frostbreath, _shadowapples, TaylorLive, Shadowlego, Jakekub
+**S4 (7):** _shadowapples, Frostbreath, Goldcap, Jakekub, RastaNinja_, Shadowlego, TaylorLive
 
 ---

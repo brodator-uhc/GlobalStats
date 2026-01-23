@@ -41,6 +41,9 @@
 ---
 ### Kills
 
+**1st - TheSonicJoey (2):** Hgford (S2), MCMaestro (S2)
+
+**2nd - WesMott (1):** Incipiens (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +56,8 @@
 ---
 ### Debutants
 
-**S1 (6):** penguingod2, magetowill, SpikeWinn, Incipiens, Stonewall23, WesMott
+**S1 (6):** Incipiens, magetowill, penguingod2, SpikeWinn, Stonewall23, WesMott
 
-**S2 (5):** nbcraft99, MikesBigWorkshop, Hgford, MCMaestro, TheSonicJoey
+**S2 (5):** Hgford, MCMaestro, MikesBigWorkshop, nbcraft99, TheSonicJoey
 
 ---

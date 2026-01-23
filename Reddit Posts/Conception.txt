@@ -61,6 +61,101 @@
 ---
 ### Kills
 
+**1st - SoulRawr (16):** DrJamezz (S2), Digdude (S3), Topspinpiggles (S3), IsaacMT (S3), chloesad (S5), Lucityy (S5), QuilJ1 (S5), GeeSam (S5), Emerric (S5), ShyGus (S5), Jayzize (S5), Flouzemaker (S6), GeeSam (S6), blazerr (S6), Bradzi (S7), oworca (S7)
+
+**2nd - Bradzi (9):** lexicuhl (S3), Bluests (S3), Dj8ninja (S3), blazerr (S3), LordLaelaps (S3), Mincrooft (S3), Digdude (S4), oworca (S4), automavic (S4)
+
+**3rd - GeeSam (8):** LordLaelaps (S1), CountryCutie (S2), LordLaelaps (S2), DareDevilDawson (S3), LordLaelaps (S4), CountryCutie (S4), Flouzemaker (S4), Hoookey (S6)
+
+**4th - automavic (6):** Jayzize (S4), Emerric (S4), ThePeridotKnight (S5), lexicuhl (S5), Apex_Twinkie (S5), LegoBeast (S5)
+
+**4th - DrJamezz (6):** Jayzize (S2), blazerr (S2), powermc (S2), QuilJ1 (S2), FazedMC (S2), SoulRawr (S2)
+
+**4th - I_is_cheesecake (6):** swishduck (S1), CH0CK (S1), FazedMC (S1), T0n35 (S1), Flouzemaker (S1), TheSonicJoey (S1)
+
+**4th - oworca (6):** Jayzize (S3), SoulRawr (S3), Digdude (S6), Bacan (S6), SoulRawr (S6), QuilJ1 (S7)
+
+**4th - Potsie (6):** RwDragon (S6), ColdBac (S6), wibbol (S7), Flouzemaker (S7), ColdBac (S7), SoulRawr (S7)
+
+**9th - Jayzize (5):** QuilJ1 (S3), ThePeridotKnight (S4), CountryCutie (S5), IsaacMT (S7), Prisma (S7)
+
+**10th - FazedMC (4):** _itslennard14 (S1), GeeSam (S2), Flouzemaker (S3), MistaUnicorn (S4)
+
+**10th - Lucityy (4):** cherryblawsom (S7), Bacan (S7), Potsie (S7), Jayzize (S7)
+
+**12th - Bacan (3):** flameorb (S6), QuilJ1 (S6), BBR_ (S7)
+
+**12th - blazerr (3):** Emerric (S3), Apex_Twinkie (S6), Emerric (S6)
+
+**12th - ColdBac (3):** MistaUnicorn (S6), Potsie (S6), BSBrent (S7)
+
+**12th - flameorb (3):** Broseph (S6), DareDevilDawson (S7), Regifloat (S7)
+
+**12th - Flouzemaker (3):** Kingsy_ (S4), IsaacMT (S4), rippersteveM5 (S7)
+
+**12th - IsaacMT (3):** GeeSam (S3), dango989 (S6), YellowVitt (S6)
+
+**12th - LordLaelaps (3):** NetherrRush (S1), abateur (S2), SoulRawr (S4)
+
+**12th - Prisma (3):** Randehh (S7), Digdude (S7), PaperVinnie (S7)
+
+**12th - ShyGus (3):** MistaUnicorn (S5), Kieranborn (S5), tilargo (S6)
+
+**12th - tilargo (3):** Kingsy_ (S5), IsaacMT (S5), CH0CK (S6)
+
+**22nd - Broseph (2):** YellowVitt (S7), Dj8ninja (S7)
+
+**22nd - LegoBeast (2):** FazedMC (S5), Jayzize (S6)
+
+**22nd - lexicuhl (2):** CountryCutie (S3), ShyGus (S4)
+
+**22nd - MistaUnicorn (2):** RwDragon (S4), Bradzi (S5)
+
+**22nd - oDogLFC (2):** ShyGus (S1), CountryCutie (S1)
+
+**22nd - QuilJ1 (2):** automavic (S2), Zachf01 (S3)
+
+**22nd - rippersteveM5 (2):** Kingsy_ (S3), FazedMC (S3)
+
+**22nd - RwDragon (2):** automavic (S5), BushieHalf (S6)
+
+**22nd - T0n35 (2):** OnlyCosmia (S1), RwDragon (S1)
+
+**22nd - ThePeridotKnight (2):** Lucityy (S4), tilargo (S5)
+
+**32nd - _itslennard14 (1):** Zachf01 (S1)
+
+**32nd - Apex_Twinkie (1):** ShyGus (S6)
+
+**32nd - BBR_ (1):** flameorb (S7)
+
+**32nd - CH0CK (1):** LegoBeast (S6)
+
+**32nd - cherryblawsom (1):** ShyGus (S7)
+
+**32nd - chloesad (1):** rippersteveM5 (S4)
+
+**32nd - Dj8ninja (1):** chloesad (S3)
+
+**32nd - Emerric (1):** RwDragon (S5)
+
+**32nd - Kieranborn (1):** Topspinpiggles (S5)
+
+**32nd - Mincrooft (1):** rippersteveM5 (S3)
+
+**32nd - NetherrRush (1):** Emerric (S1)
+
+**32nd - powermc (1):** Kingsy_ (S2)
+
+**32nd - swishduck (1):** lexicuhl (S4)
+
+**32nd - TheSonicJoey (1):** GeeSam (S1)
+
+**32nd - wibbol (1):** powermc (S7)
+
+**32nd - YellowVitt (1):** GeeSam (S7)
+
+**32nd - Zachf01 (1):** oDogLFC (S1)
 
 ---
 ### PvE Deaths
@@ -73,18 +168,18 @@
 ---
 ### Debutants
 
-**S1 (20):** lexicuhl, swishduck, CH0CK, OnlyCosmia, ShyGus, CountryCutie, oDogLFC, Zachf01, _itslennard14, FazedMC, PaperVinnie, RwDragon, T0n35, Emerric, NetherrRush, LordLaelaps, Flouzemaker, GeeSam, TheSonicJoey, I_is_cheesecake
+**S1 (20):** _itslennard14, CH0CK, CountryCutie, Emerric, FazedMC, Flouzemaker, GeeSam, I_is_cheesecake, lexicuhl, LordLaelaps, NetherrRush, oDogLFC, OnlyCosmia, PaperVinnie, RwDragon, ShyGus, swishduck, T0n35, TheSonicJoey, Zachf01
 
-**S2 (12):** rippersteveM5, Mincrooft, Jayzize, blazerr, Kingsy_, powermc, Broseph, automavic, abateur, QuilJ1, SoulRawr, DrJamezz
+**S2 (12):** abateur, automavic, blazerr, Broseph, DrJamezz, Jayzize, Kingsy_, Mincrooft, powermc, QuilJ1, rippersteveM5, SoulRawr
 
-**S3 (9):** Digdude, DareDevilDawson, Topspinpiggles, IsaacMT, chloesad, Bluests, Dj8ninja, Bradzi, oworca
+**S3 (9):** Bluests, Bradzi, chloesad, DareDevilDawson, Digdude, Dj8ninja, IsaacMT, oworca, Topspinpiggles
 
-**S4 (3):** Lucityy, ThePeridotKnight, MistaUnicorn
+**S4 (3):** Lucityy, MistaUnicorn, ThePeridotKnight
 
-**S5 (5):** Dannythecool123, tilargo, Apex_Twinkie, LegoBeast, Kieranborn
+**S5 (5):** Apex_Twinkie, Dannythecool123, Kieranborn, LegoBeast, tilargo
 
-**S6 (8):** dango989, Hoookey, flameorb, BushieHalf, Potsie, ColdBac, YellowVitt, Bacan
+**S6 (8):** Bacan, BushieHalf, ColdBac, dango989, flameorb, Hoookey, Potsie, YellowVitt
 
-**S7 (7):** Randehh, cherryblawsom, Regifloat, BBR_, BSBrent, wibbol, Prisma
+**S7 (7):** BBR_, BSBrent, cherryblawsom, Prisma, Randehh, Regifloat, wibbol
 
 ---

@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - Macdde (7):** gnty (S1), Exee (S1), Bandias (S1), OnlyShero (S1), NickNitro3 (S1), OmegaMatt_ (S1), 2NZ (S1)
+
+**2nd - BJPlays (4):** Kampel125 (S1), willywonka707 (S1), KingSnerk (S1), JimmyF69 (S1)
+
+**3rd - JimmyF69 (2):** Fazz2 (S1), flamexyz (S1)
+
+**3rd - NickNitro3 (2):** ThirteenCurry (S1), BJPlays (S1)
+
+**5th - OnlyShero (1):** KingCynare (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (21):** Jordtim, Obicount, WaXmAn24, ThirteenCurry, Fazz2, Kampel125, ThePluper, gnty, willywonka707, KingSnerk, flamexyz, KingCynare, Exee, Bandias, JimmyF69, OnlyShero, BJPlays, NickNitro3, OmegaMatt_, 2NZ, Macdde
+**S1 (21):** 2NZ, Bandias, BJPlays, Exee, Fazz2, flamexyz, gnty, JimmyF69, Jordtim, Kampel125, KingCynare, KingSnerk, Macdde, NickNitro3, Obicount, OmegaMatt_, OnlyShero, ThePluper, ThirteenCurry, WaXmAn24, willywonka707
 
 ---

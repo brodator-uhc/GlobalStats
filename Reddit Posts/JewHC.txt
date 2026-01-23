@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - pkee (3):** DarV2 (S1), FrozenBenny (S1), ShmeckleBoy (S1)
+
+**2nd - Ryfri (2):** PresidentFleb (S1), Radical24 (S1)
+
+**3rd - DarV2 (1):** DJoee (S1)
+
+**3rd - FrozenBenny (1):** MaxEvasion (S1)
+
+**3rd - MaxEvasion (1):** Ryfri (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (10):** DJoee, Men2, PresidentFleb, Radical24, Ryfri, DarV2, MaxEvasion, FrozenBenny, ShmeckleBoy, pkee
+**S1 (10):** DarV2, DJoee, FrozenBenny, MaxEvasion, Men2, pkee, PresidentFleb, Radical24, Ryfri, ShmeckleBoy
 
 ---

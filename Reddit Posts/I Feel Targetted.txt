@@ -45,6 +45,31 @@
 ---
 ### Kills
 
+**1st - benidk (5):** JesseBoy1010 (S3), PatrickTN_ (S3), AirInAirOut (S3), MercuryParadox (S3), Stravilight (S3)
+
+**1st - CHAINGE (5):** HalfLechuga (S2), bayweafs (S2), MineKG (S2), BuildingBard300 (S2), sgouche (S2)
+
+**1st - omchris (5):** HalfLechuga (S1), bayweafs (S1), BuildingBard300 (S1), BlueIceCrown (S1), Karasu994 (S3)
+
+**4th - Bobbytheturtle (4):** GuyNamedKreo (S3), Bornyo (S3), Haroun_ (S3), ItsLittleT (S3)
+
+**4th - MercuryParadox (4):** CharityTheGreat (S1), CHAINGE (S2), BuildingBard300 (S3), broccoliar (S3)
+
+**6th - HalfLechuga (3):** ScaryPumpkinFace (S1), GrassPiece (S1), zoeywithawhy (S1)
+
+**6th - Stravilight (3):** CAMKART100 (S3), Fireeypvp (S3), luziing (S3)
+
+**8th - broccoliar (2):** BoltsInCharge (S2), ZebraPantz (S2)
+
+**8th - sgouche (2):** omchris (S2), GuyNamedKreo (S2)
+
+**10th - AirInAirOut (1):** Bobbytheturtle (S3)
+
+**10th - PatrickTN_ (1):** omchris (S3)
+
+**10th - ScaryPumpkinFace (1):** MercuryParadox (S2)
+
+**10th - ZebraPantz (1):** ScaryPumpkinFace (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +82,10 @@
 ---
 ### Debutants
 
-**S1 (12):** ItsMeAR10, CharityTheGreat, ScaryPumpkinFace, GrassPiece, zoeywithawhy, HalfLechuga, DogOfKrondor, bayweafs, BuildingBard300, BlueIceCrown, MercuryParadox, omchris
+**S1 (12):** bayweafs, BlueIceCrown, BuildingBard300, CharityTheGreat, DogOfKrondor, GrassPiece, HalfLechuga, ItsMeAR10, MercuryParadox, omchris, ScaryPumpkinFace, zoeywithawhy
 
-**S2 (8):** Kxnani, MineKG, GuyNamedKreo, sgouche, CHAINGE, BoltsInCharge, ZebraPantz, broccoliar
+**S2 (8):** BoltsInCharge, broccoliar, CHAINGE, GuyNamedKreo, Kxnani, MineKG, sgouche, ZebraPantz
 
-**S3 (14):** JesseBoy1010, Bornyo, AshRiolu100985, Karasu994, CAMKART100, Haroun_, ItsLittleT, Bobbytheturtle, Fireeypvp, PatrickTN_, luziing, AirInAirOut, Stravilight, benidk
+**S3 (14):** AirInAirOut, AshRiolu100985, benidk, Bobbytheturtle, Bornyo, CAMKART100, Fireeypvp, Haroun_, ItsLittleT, JesseBoy1010, Karasu994, luziing, PatrickTN_, Stravilight
 
 ---

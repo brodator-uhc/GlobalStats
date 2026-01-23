@@ -37,6 +37,33 @@
 ---
 ### Kills
 
+**1st - Jayzize (5):** CH0CK (S1), KOKeowner (S1), PhantomPuppet (S1), ColdBac (S1), jvevo (S1)
+
+**2nd - Bobbytheturtle (4):** hueLinkk (S1), Rawkeyy (S1), pkee (S1), Jayzize (S1)
+
+**3rd - _Fost_ (2):** wibbol (S1), Jakekub (S1)
+
+**3rd - ColdBac (2):** Plushy33 (S1), gartbak (S1)
+
+**3rd - hueLinkk (2):** Chasmic (S1), BSBrent (S1)
+
+**3rd - jvevo (2):** Flouzemaker (S1), TehBaconBrawlerZ (S1)
+
+**3rd - Nintendoshi (2):** KatyLawson (S1), Fensua (S1)
+
+**3rd - pkee (2):** cappyrappy (S1), brodioh (S1)
+
+**3rd - TehBaconBrawlerZ (2):** Nintendoshi (S1), _Fost_ (S1)
+
+**10th - cappyrappy (1):** Purpdan (S1)
+
+**10th - Jakekub (1):** smeargle123 (S1)
+
+**10th - PhantomPuppet (1):** flameorb (S1)
+
+**10th - SiahStone (1):** BushieHalf (S1)
+
+**10th - wibbol (1):** SiahStone (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +76,6 @@
 ---
 ### Debutants
 
-**S1 (29):** flameorb, Chasmic, BushieHalf, SiahStone, CH0CK, KatyLawson, Flouzemaker, BSBrent, Fensua, KOKeowner, smeargle123, wibbol, PhantomPuppet, Purpdan, cappyrappy, brodioh, hueLinkk, Plushy33, gartbak, Jakekub, Rawkeyy, Nintendoshi, ColdBac, pkee, _Fost_, TehBaconBrawlerZ, jvevo, Jayzize, Bobbytheturtle
+**S1 (29):** _Fost_, Bobbytheturtle, brodioh, BSBrent, BushieHalf, cappyrappy, CH0CK, Chasmic, ColdBac, Fensua, flameorb, Flouzemaker, gartbak, hueLinkk, Jakekub, Jayzize, jvevo, KatyLawson, KOKeowner, Nintendoshi, PhantomPuppet, pkee, Plushy33, Purpdan, Rawkeyy, SiahStone, smeargle123, TehBaconBrawlerZ, wibbol
 
 ---

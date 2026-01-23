@@ -37,6 +37,27 @@
 ---
 ### Kills
 
+**1st - _ChrisMS (2):** Plushy33 (S1), pigghetti (S1)
+
+**1st - Brodator (2):** nFang (S1), Caffeindiazepine (S1)
+
+**1st - Diisu (2):** Brodator (S1), Hosthan (S1)
+
+**1st - Gronyak (2):** Diisu (S1), Frxnkey (S1)
+
+**1st - JamestheDouglas (2):** MajorWoof (S1), Kiinako_ (S1)
+
+**1st - pigghetti (2):** ghostblurr (S1), LoafOZ (S1)
+
+**1st - Plushy33 (2):** Bottiken (S1), Bofishkix (S1)
+
+**1st - TheRealHagrid (2):** _ChrisMS (S1), Professer_TNT (S1)
+
+**9th - Frxnkey (1):** TheRealHagrid (S1)
+
+**9th - ghostblurr (1):** 78ford (S1)
+
+**9th - Professer_TNT (1):** UglySheep (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +70,6 @@
 ---
 ### Debutants
 
-**S1 (25):** Sharkbob94349, Abdalain, Bottiken, Bofishkix, nFang, Mattzia, Caffeindiazepine, Brodator, Andronify, Plushy33, 78ford, Hosthan, ghostblurr, LoafOZ, Diisu, UglySheep, pigghetti, _ChrisMS, Professer_TNT, TheRealHagrid, Frxnkey, MajorWoof, Kiinako_, Gronyak, JamestheDouglas
+**S1 (25):** _ChrisMS, 78ford, Abdalain, Andronify, Bofishkix, Bottiken, Brodator, Caffeindiazepine, Diisu, Frxnkey, ghostblurr, Gronyak, Hosthan, JamestheDouglas, Kiinako_, LoafOZ, MajorWoof, Mattzia, nFang, pigghetti, Plushy33, Professer_TNT, Sharkbob94349, TheRealHagrid, UglySheep
 
 ---

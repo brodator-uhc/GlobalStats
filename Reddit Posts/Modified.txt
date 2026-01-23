@@ -49,6 +49,61 @@
 ---
 ### Kills
 
+**1st - lottebunny (14):** Daffz (S1), QuilJ1 (S1), awesomemacD (S1), YellowVitt (S1), Vawqer (S1), jamertxn (S1), PhenomCloud (S2), silh (S2), iSwifteh (S3), silh (S3), BSBrent (S4), Broseph (S4), 78ford (S4), WackoFlipper (S4)
+
+**2nd - ColdBac (6):** KatyLawson (S2), _pbo (S3), Ryfri (S3), Biwitch (S3), lottebunny (S3), awesomemacD (S3)
+
+**3rd - silh (5):** flameorb (S2), WackoFlipper (S2), GetNicked (S3), lottebunny (S4), vynil (S4)
+
+**4th - BSBrent (4):** GetNicked (S1), 78ford (S2), QuilJ1 (S2), MaxEvasion (S4)
+
+**4th - MaxEvasion (4):** tagggz (S3), WackoFlipper (S3), 78ford (S3), Brodator (S4)
+
+**6th - Biwitch (3):** MaxEvasion (S3), Do_You_Minecraft (S4), wibbol (S4)
+
+**6th - GetNicked (3):** Emerric (S1), FazedMC (S1), CarlyRaeJepsen (S1)
+
+**6th - jamertxn (3):** Emylyl (S1), Bandias (S1), lottebunny (S1)
+
+**6th - Ryfri (3):** TalonBX (S3), vynil (S3), Do_You_Minecraft (S3)
+
+**10th - Broseph (2):** SiahStone (S2), lottebunny (S2)
+
+**10th - Emerric (2):** jommyappleseed (S1), Do_You_Minecraft (S1)
+
+**10th - flameorb (2):** Ocanha_ (S2), Chasmic (S2)
+
+**10th - tagggz (2):** Potsie (S2), Broseph (S2)
+
+**10th - vynil (2):** flameorb (S3), Greeples (S4)
+
+**10th - WackoFlipper (2):** QuilJ1 (S4), TalonBX (S4)
+
+**16th - _pbo (1):** centraleric (S3)
+
+**16th - awesomemacD (1):** Chasmic (S3)
+
+**16th - Bandias (1):** Chasmic (S1)
+
+**16th - Chasmic (1):** Brodator (S3)
+
+**16th - Do_You_Minecraft (1):** IsaacMT (S1)
+
+**16th - Emylyl (1):** GetNicked (S4)
+
+**16th - Greeples (1):** Ryfri (S4)
+
+**16th - lexicuhl (1):** Emylyl (S4)
+
+**16th - Potsie (1):** BSBrent (S2)
+
+**16th - SiahStone (1):** ColdBac (S2)
+
+**16th - TalonBX (1):** Emylyl (S3)
+
+**16th - typhlo0o (1):** BSBrent (S1)
+
+**16th - Vawqer (1):** typhlo0o (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +116,12 @@
 ---
 ### Debutants
 
-**S1 (21):** VeniiiD, Daffz, jommyappleseed, IsaacMT, Do_You_Minecraft, QuilJ1, Emerric, FazedMC, CarlyRaeJepsen, GetNicked, BSBrent, awesomemacD, typhlo0o, Chasmic, YellowVitt, Vawqer, Emylyl, Bandias, lottebunny, jamertxn, lexicuhl
+**S1 (21):** awesomemacD, Bandias, BSBrent, CarlyRaeJepsen, Chasmic, Daffz, Do_You_Minecraft, Emerric, Emylyl, FazedMC, GetNicked, IsaacMT, jamertxn, jommyappleseed, lexicuhl, lottebunny, QuilJ1, typhlo0o, Vawqer, VeniiiD, YellowVitt
 
-**S2 (12):** KatyLawson, ColdBac, 78ford, SiahStone, Ocanha_, flameorb, WackoFlipper, PhenomCloud, silh, Potsie, Broseph, tagggz
+**S2 (12):** 78ford, Broseph, ColdBac, flameorb, KatyLawson, Ocanha_, PhenomCloud, Potsie, SiahStone, silh, tagggz, WackoFlipper
 
-**S3 (10):** H_L_llama, MaxEvasion, centraleric, TalonBX, Brodator, iSwifteh, vynil, _pbo, Ryfri, Biwitch
+**S3 (10):** _pbo, Biwitch, Brodator, centraleric, H_L_llama, iSwifteh, MaxEvasion, Ryfri, TalonBX, vynil
 
-**S4 (3):** Zevulpes, wibbol, Greeples
+**S4 (3):** Greeples, wibbol, Zevulpes
 
 ---

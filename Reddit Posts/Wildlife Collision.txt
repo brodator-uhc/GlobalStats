@@ -41,6 +41,41 @@
 ---
 ### Kills
 
+**1st - broccoliar (6):** DogOfKrondor (S1), The_Glaceon (S2), TheSlimeBrother (S2), benidk (S2), IdkKiller (S2), Blarkslol (S2)
+
+**2nd - Spongey (5):** MichaelPlayMC (S2), Markedbooboy (S2), Flouzemaker (S2), Ninetals38 (S2), noktime (S2)
+
+**3rd - _1mmortal_ (4):** nug17 (S2), Zevulpes (S2), Charrlottie (S2), Caydone (S2)
+
+**3rd - benidk (4):** nug17 (S1), ArcticSeagull (S1), noktime (S1), AshleyMashley (S2)
+
+**3rd - Forgot_N (4):** broccoliar (S1), benidk (S1), TheSlimeBrother (S1), Blarkslol (S1)
+
+**3rd - fruitlogic (4):** pkee (S1), AlesandroDeMoor (S1), _1mmortal_ (S2), broccoliar (S2)
+
+**7th - Caydone (3):** bayweafs (S2), AdonisGaming (S2), PeashooterZ4 (S2)
+
+**8th - CodeJoshua (2):** 78ford (S1), Flouzemaker (S1)
+
+**8th - Kaddyn (2):** jimmyjegs (S2), 78ford (S2)
+
+**8th - pkee (2):** MinimanTurtle (S1), CodeJoshua (S1)
+
+**11th - ArcticSeagull (1):** Kaddyn (S1)
+
+**11th - bayweafs (1):** BuildingBard300 (S2)
+
+**11th - Blarkslol (1):** Hamishhhh (S2)
+
+**11th - Charrlottie (1):** Kaddyn (S2)
+
+**11th - IdkKiller (1):** CharityTheGreat (S2)
+
+**11th - MichaelPlayMC (1):** Kaimaxon (S2)
+
+**11th - Ninetals38 (1):** ZebraPantz (S2)
+
+**11th - noktime (1):** AshRiolu100985 (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +88,8 @@
 ---
 ### Debutants
 
-**S1 (21):** DogOfKrondor, IdkKiller, BuildingBard300, Kaimaxon, 78ford, Flouzemaker, Kaddyn, nug17, ArcticSeagull, MinimanTurtle, CodeJoshua, broccoliar, noktime, pkee, benidk, TheSlimeBrother, Evzenitable, Blarkslol, AlesandroDeMoor, Forgot_N, fruitlogic
+**S1 (21):** 78ford, AlesandroDeMoor, ArcticSeagull, benidk, Blarkslol, broccoliar, BuildingBard300, CodeJoshua, DogOfKrondor, Evzenitable, Flouzemaker, Forgot_N, fruitlogic, IdkKiller, Kaddyn, Kaimaxon, MinimanTurtle, noktime, nug17, pkee, TheSlimeBrother
 
-**S2 (19):** Zevulpes, AshleyMashley, jimmyjegs, The_Glaceon, CharityTheGreat, RubyRoxeens, Hamishhhh, bayweafs, AdonisGaming, PeashooterZ4, Charrlottie, MichaelPlayMC, Markedbooboy, AshRiolu100985, Caydone, _1mmortal_, ZebraPantz, Ninetals38, Spongey
+**S2 (19):** _1mmortal_, AdonisGaming, AshleyMashley, AshRiolu100985, bayweafs, Caydone, CharityTheGreat, Charrlottie, Hamishhhh, jimmyjegs, Markedbooboy, MichaelPlayMC, Ninetals38, PeashooterZ4, RubyRoxeens, Spongey, The_Glaceon, ZebraPantz, Zevulpes
 
 ---

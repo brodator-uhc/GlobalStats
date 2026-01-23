@@ -61,6 +61,69 @@
 ---
 ### Kills
 
+**1st - Blaikie (17):** crazylike99 (S2), Gilzor (S2), stewlacher54 (S2), iDanzah (S2), urnbob (S5), chessmill (S6), Timewinder (S6), magnus917 (S6), Oddmast (S6), iiQuakezz (S6), Cristian23761 (S6), _Frankie (S6), Gilzor (S6), GrantyG_CFC (S7), Fairyjuice (S7), stingswitch (S7), Maddognils (S7)
+
+**2nd - Gilzor (9):** iDanzah (S1), billycohen (S3), stewlacher54 (S3), _Frankie (S3), ACFilms (S3), chessmill (S5), Maddognils (S5), Theodorus2 (S5), LadyMinecrafters (S6)
+
+**2nd - magnus917 (9):** SirNessyUK (S3), Kalner (S3), ZABScool (S3), jimmycoolen (S3), TarkhisG (S3), PmsProxy (S3), ZABScool (S4), urnbob (S4), urnbob (S7)
+
+**4th - GeoLP (7):** DeeJayCFC (S7), billycohen (S7), CrimsonKingLP (S7), OfficerCurry (S7), Blaikie (S7), _Frankie (S7), Pizzadudes7 (S7)
+
+**5th - Maddognils (5):** Gilzor (S1), Blaikie (S1), RealPesto (S1), billycohen (S1), inzpyrd (S1)
+
+**6th - Ragnorh8ts (4):** SirNessyUK (S6), jimmyslavia (S6), Blaikie (S6), YouRedstone (S6)
+
+**7th - _Frankie (3):** jimmycoolen (S2), SirNessyUK (S5), Gilzor (S5)
+
+**7th - jimmycoolen (3):** Fejocan1710 (S2), Fejocan1710 (S3), SirNessyUK (S4)
+
+**9th - billycohen (2):** magnus917 (S3), tchic777 (S7)
+
+**9th - CheetoFactor (2):** iDanzah (S4), magnus917 (S4)
+
+**9th - crazylike99 (2):** magnus917 (S2), urnbob (S2)
+
+**9th - Cristian23761 (2):** LadyMinecrafters (S5), JunkieVomit (S5)
+
+**9th - Fairyjuice (2):** billycohen (S6), Gilzor (S7)
+
+**9th - llvllax (2):** magnus917 (S5), Falkenbur (S5)
+
+**9th - RealPesto (2):** _Frankie (S1), sickboy2212 (S1)
+
+**9th - stewlacher54 (2):** Riscoloco (S3), Blaikie (S3)
+
+**9th - urnbob (2):** Ragnorh8ts (S6), magnus917 (S7)
+
+**9th - ZABScool (2):** jimmycoolen (S4), ramdrop (S5)
+
+**19th - baseballthymes (1):** MarcC5M (S4)
+
+**19th - CrimsonKingLP (1):** Oyubook (S7)
+
+**19th - Fejocan1710 (1):** urnbob (S3)
+
+**19th - Gypsy_Hunter12 (1):** tescoman1 (S4)
+
+**19th - iDanzah (1):** Rexonite (S4)
+
+**19th - LadyMinecrafters (1):** llvllax (S6)
+
+**19th - Oyubook (1):** iiQuakezz (S7)
+
+**19th - ramdrop (1):** Cristian23761 (S5)
+
+**19th - sickboy2212 (1):** crazylike99 (S1)
+
+**19th - SirNessyUK (1):** llvllax (S5)
+
+**19th - stingswitch (1):** Reapism (S7)
+
+**19th - tescoman1 (1):** Gilzor (S3)
+
+**19th - Theodorus2 (1):** Blaikie (S5)
+
+**19th - YouRedstone (1):** TheBestGinger13 (S6)
 
 ---
 ### PvE Deaths
@@ -73,18 +136,18 @@
 ---
 ### Debutants
 
-**S1 (12):** Kalner, iDanzah, _Frankie, crazylike99, sickboy2212, Gilzor, Blaikie, RealPesto, billycohen, inzpyrd, Maddognils, magnus917
+**S1 (12):** _Frankie, billycohen, Blaikie, crazylike99, Gilzor, iDanzah, inzpyrd, Kalner, Maddognils, magnus917, RealPesto, sickboy2212
 
-**S2 (7):** ZABScool, SirNessyUK, tescoman1, Fejocan1710, jimmycoolen, urnbob, stewlacher54
+**S2 (7):** Fejocan1710, jimmycoolen, SirNessyUK, stewlacher54, tescoman1, urnbob, ZABScool
 
-**S3 (4):** TarkhisG, PmsProxy, Riscoloco, ACFilms
+**S3 (4):** ACFilms, PmsProxy, Riscoloco, TarkhisG
 
-**S4 (9):** SoftPotatisify, Chelblit, xRaz0r, AgentBaron, MarcC5M, Rexonite, baseballthymes, Gypsy_Hunter12, CheetoFactor
+**S4 (9):** AgentBaron, baseballthymes, CheetoFactor, Chelblit, Gypsy_Hunter12, MarcC5M, Rexonite, SoftPotatisify, xRaz0r
 
-**S5 (8):** LadyMinecrafters, JunkieVomit, Falkenbur, chessmill, Theodorus2, Cristian23761, llvllax, ramdrop
+**S5 (8):** chessmill, Cristian23761, Falkenbur, JunkieVomit, LadyMinecrafters, llvllax, ramdrop, Theodorus2
 
-**S6 (9):** Ahpuck, Timewinder, Fairyjuice, jimmyslavia, Oddmast, iiQuakezz, TheBestGinger13, YouRedstone, Ragnorh8ts
+**S6 (9):** Ahpuck, Fairyjuice, iiQuakezz, jimmyslavia, Oddmast, Ragnorh8ts, TheBestGinger13, Timewinder, YouRedstone
 
-**S7 (11):** tchic777, GrantyG_CFC, DeeJayCFC, Reapism, Oyubook, stingswitch, CrimsonKingLP, OfficerCurry, Naecoo, Pizzadudes7, GeoLP
+**S7 (11):** CrimsonKingLP, DeeJayCFC, GeoLP, GrantyG_CFC, Naecoo, OfficerCurry, Oyubook, Pizzadudes7, Reapism, stingswitch, tchic777
 
 ---

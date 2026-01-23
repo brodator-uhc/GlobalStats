@@ -41,6 +41,49 @@
 ---
 ### Kills
 
+**1st - Cqson (6):** Ecto97 (S1), AdonisGaming (S2), NeededCheese (S2), Evzenitable (S2), loyaltea (S2), PwincessVanessa (S2)
+
+**2nd - loyaltea (5):** ItsShqky (S2), Abyr (S2), ArcticSeagull (S2), Charrlottie (S2), _1mmortal_ (S2)
+
+**2nd - natsuvi (5):** Espik (S1), LoafOZ (S1), ADinoPlayingMC (S2), TehBaconBrawlerZ (S2), IdkKiller (S2)
+
+**4th - GhostGunner (4):** Bohe (S1), TacoDab (S1), Rohcket (S1), Plushy33 (S1)
+
+**5th - _1mmortal_ (3):** Fierys (S2), Kaddyn (S2), Ninetals38 (S2)
+
+**5th - Abyr (3):** Alekii (S1), InfinityKraft (S1), Nuclearsugar (S1)
+
+**5th - Greatwarrior_ (3):** Blarkslol (S1), Pacman_2022 (S1), GhostGunner (S1)
+
+**8th - brinkwhy (2):** eliexists (S2), poWpaH (S2)
+
+**8th - Kaddyn (2):** zohhhh (S2), Nuclearsugar (S2)
+
+**8th - MercuryParadox (2):** MangoPlayz (S2), TacoDab (S2)
+
+**8th - Nuclearsugar (2):** Abyr (S1), Blarkslol (S2)
+
+**8th - Rohcket (2):** ArcticSeagull (S1), Cqson (S1)
+
+**13th - AdonisGaming (1):** MarExists (S2)
+
+**13th - broccoliar (1):** carterwarterbear (S2)
+
+**13th - Bulbexe (1):** brinkwhy (S2)
+
+**13th - Fierys (1):** Jaceon02 (S2)
+
+**13th - IdkKiller (1):** MercuryParadox (S2)
+
+**13th - InfinityKraft (1):** natsuvi (S1)
+
+**13th - NeededCheese (1):** Bulbexe (S2)
+
+**13th - Plushy33 (1):** _1mmortal_ (S1)
+
+**13th - TacoDab (1):** Glarza (S2)
+
+**13th - zohhhh (1):** broccoliar (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +96,8 @@
 ---
 ### Debutants
 
-**S1 (20):** MercuryParadox, Bohe, Ecto97, TacoDab, Espik, ArcticSeagull, _1mmortal_, LoafOZ, Cqson, Rohcket, Plushy33, natsuvi, Blarkslol, Pacman_2022, GhostGunner, Alekii, InfinityKraft, Nuclearsugar, Abyr, Greatwarrior_
+**S1 (20):** _1mmortal_, Abyr, Alekii, ArcticSeagull, Blarkslol, Bohe, Cqson, Ecto97, Espik, GhostGunner, Greatwarrior_, InfinityKraft, LoafOZ, MercuryParadox, natsuvi, Nuclearsugar, Pacman_2022, Plushy33, Rohcket, TacoDab
 
-**S2 (25):** eliexists, poWpaH, brinkwhy, CodeJoshua, Bulbexe, Glarza, ItsShqky, Jaceon02, Fierys, MarExists, AdonisGaming, MangoPlayz, carterwarterbear, broccoliar, zohhhh, Kaddyn, NeededCheese, Charrlottie, Evzenitable, ADinoPlayingMC, Ninetals38, TehBaconBrawlerZ, IdkKiller, loyaltea, PwincessVanessa
+**S2 (25):** ADinoPlayingMC, AdonisGaming, brinkwhy, broccoliar, Bulbexe, carterwarterbear, Charrlottie, CodeJoshua, eliexists, Evzenitable, Fierys, Glarza, IdkKiller, ItsShqky, Jaceon02, Kaddyn, loyaltea, MangoPlayz, MarExists, NeededCheese, Ninetals38, poWpaH, PwincessVanessa, TehBaconBrawlerZ, zohhhh
 
 ---

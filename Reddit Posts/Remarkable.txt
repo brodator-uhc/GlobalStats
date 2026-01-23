@@ -45,6 +45,51 @@
 ---
 ### Kills
 
+**1st - adadaddam (9):** ScottPirie (S1), LittleArabMC (S2), Hecticity (S2), ItsLOLzy (S2), lottebunny (S2), ScottPirie (S2), 99spikester (S2), Cybers_ (S2), Jakekub (S2)
+
+**2nd - Shxffleh (8):** GeeSam (S1), 99spikester (S1), chickyc12 (S1), Jakekub (S1), Darth (S1), LittleArabMC (S1), DECTHEELITE (S1), KaBoom (S1)
+
+**2nd - TheKevGuy (8):** KaBoom (S3), GeeSam (S3), Hecticity (S3), Jakekub (S3), DareDevilDawson (S3), lottebunny (S3), xenon__54 (S3), Eluniel (S3)
+
+**4th - DareDevilDawson (4):** Maniacmagee (S3), c1n (S3), 99spikester (S3), Hoppy (S3)
+
+**4th - MrPolzerino (4):** BlockBusterBen (S2), Pandana7 (S2), GeeSam (S2), TaylorLive (S2)
+
+**6th - KaBoom (3):** TheGamerCool (S1), chickyc12 (S2), ThwipThwip (S2)
+
+**6th - poempedoempoex (3):** Edviin_ (S1), xRyan98 (S1), xRyan98 (S2)
+
+**8th - 99spikester (2):** GreenGecks (S2), poempedoempoex (S3)
+
+**8th - CelVeritas (2):** poempedoempoex (S1), Pepit (S1)
+
+**8th - chickyc12 (2):** Pandana7 (S1), _AlmostSober (S1)
+
+**8th - lottebunny (2):** poempedoempoex (S2), ScottPirie (S3)
+
+**8th - Maniacmagee (2):** CelVeritas (S3), PaperVinnie (S3)
+
+**8th - ScottPirie (2):** XFROSTXFIREX (S1), c1n (S2)
+
+**8th - TheGamerCool (2):** Eluniel (S1), TheKevGuy (S1)
+
+**15th - Coolust (1):** TheKevGuy (S3)
+
+**15th - Cybers_ (1):** PaperVinnie (S2)
+
+**15th - Darth (1):** GhostGuardHD (S1)
+
+**15th - DECTHEELITE (1):** CelVeritas (S1)
+
+**15th - Hecticity (1):** lottebunny (S1)
+
+**15th - Jakekub (1):** Hecticity (S1)
+
+**15th - LittleArabMC (1):** TheKevGuy (S2)
+
+**15th - Pandana7 (1):** DareDevilDawson (S2)
+
+**15th - ThwipThwip (1):** KaBoom (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +102,10 @@
 ---
 ### Debutants
 
-**S1 (27):** Edviin_, Jep, XFROSTXFIREX, ScottPirie, Eluniel, TheKevGuy, Pandana7, GeeSam, 99spikester, _AlmostSober, chickyc12, TheGamerCool, lottebunny, DareDevilDawson, Hecticity, adadaddam, xRyan98, GhostGuardHD, Jakekub, poempedoempoex, Darth, Pepit, LittleArabMC, CelVeritas, DECTHEELITE, KaBoom, Shxffleh
+**S1 (27):** _AlmostSober, 99spikester, adadaddam, CelVeritas, chickyc12, DareDevilDawson, Darth, DECTHEELITE, Edviin_, Eluniel, GeeSam, GhostGuardHD, Hecticity, Jakekub, Jep, KaBoom, LittleArabMC, lottebunny, Pandana7, Pepit, poempedoempoex, ScottPirie, Shxffleh, TheGamerCool, TheKevGuy, XFROSTXFIREX, xRyan98
 
-**S2 (10):** ThwipThwip, Maj0r_Min3r_98, PaperVinnie, BlockBusterBen, ItsLOLzy, c1n, GreenGecks, Cybers_, TaylorLive, MrPolzerino
+**S2 (10):** BlockBusterBen, c1n, Cybers_, GreenGecks, ItsLOLzy, Maj0r_Min3r_98, MrPolzerino, PaperVinnie, TaylorLive, ThwipThwip
 
-**S3 (4):** Maniacmagee, Hoppy, xenon__54, Coolust
+**S3 (4):** Coolust, Hoppy, Maniacmagee, xenon__54
 
 ---

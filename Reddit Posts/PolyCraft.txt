@@ -125,6 +125,47 @@
 ---
 ### Kills
 
+**1st - TheChrisD (25):** TheMeInTeam (S1), AlphaShard (S1), DanQ_CC (S4), fuzzyfractal42 (S4), MLS (S5), DanQ_CC (S5), Ubermarklar (S5), DanQ_CC (S8), MLS (S10), fuzzyfractal42 (S11), Aschilon (S11), TheMeInTeam (S12), DanQ_CC (S18), MadDjinn (S18), Davelions (S18), Aschilon (S18), KirbyMD (S18), Aschilon (S19), KirbyMD (S19), DanQ_CC (S19), Balone (S22), DanQ_CC (S22), TheMeInTeam (S22), zosh127 (S23), Aschilon (S23)
+
+**2nd - Eag (15):** TheMeInTeam (S6), CanusAlbinus (S6), MadDjinn (S6), TheChrisD (S6), Ubermarklar (S6), Makahlua (S7), AlphaShard (S7), CanusAlbinus (S7), TheChrisD (S9), Ubermarklar (S9), fuzzyfractal42 (S9), zosh127 (S14), TheChrisD (S14), GrimVek (S14), AlphaShard (S14)
+
+**3rd - MadDjinn (12):** Makahlua (S4), bldrmonkey (S5), fuzzyfractal42 (S5), TheChrisD (S5), ninjaconor (S12), CanusAlbinus (S12), TheChrisD (S12), elKingMorgan (S14), Aschilon (S14), DanQ_CC (S15), zosh127 (S20), Gameslayer989 (S20)
+
+**4th - Aschilon (11):** DanQ_CC (S11), MadDjinn (S12), DanQ_CC (S12), TheChrisD (S13), zosh127 (S15), kalleina (S17), GrimVek (S17), KirbyMD (S17), Eag (S19), MadDjinn (S20), 78ford (S21)
+
+**4th - CanusAlbinus (11):** MadDjinn (S3), Duskey (S3), fuzzyfractal42 (S7), Makahlua (S8), TheChrisD (S8), MadDjinn (S8), GrimVek (S8), TheMeInTeam (S9), elKingMorgan (S9), Makahlua (S12), Eag (S12)
+
+**6th - GrimVek (10):** Eag (S2), CanusAlbinus (S5), AlphaShard (S5), TheMeInTeam (S5), Makahlua (S6), DanQ_CC (S6), Makahlua (S10), CanusAlbinus (S10), MLS (S11), TheChrisD (S17)
+
+**6th - Ubermarklar (10):** MLS (S2), GrimVek (S2), DanQ_CC (S2), MadDjinn (S4), TheChrisD (S4), CanusAlbinus (S4), TheMeInTeam (S4), ekat2468 (S5), fuzzyfractal42 (S6), TheMeInTeam (S8)
+
+**8th - DanQ_CC (5):** GrimVek (S1), GrimVek (S7), elKingMorgan (S8), Makahlua (S16), elKingMorgan (S19)
+
+**8th - KirbyMD (5):** zosh127 (S17), Gameslayer989 (S19), DanQ_CC (S20), Davelions (S20), Aschilon (S21)
+
+**10th - Balone (3):** 78ford (S20), KirbyMD (S20), TheChrisD (S20)
+
+**10th - fuzzyfractal42 (3):** TheMeInTeam (S7), CanusAlbinus (S9), MadDjinn (S11)
+
+**10th - TheMeInTeam (3):** TheChrisD (S7), CanusAlbinus (S8), AlphaShard (S11)
+
+**13th - BBR_ (2):** AlphaShard (S22), Aschilon (S22)
+
+**13th - Gameslayer989 (2):** DanQ_CC (S21), KirbyMD (S21)
+
+**13th - MLS (2):** ixias0 (S5), GrimVek (S10)
+
+**16th - 78ford (1):** elKingMorgan (S18)
+
+**16th - AlphaShard (1):** MadDjinn (S7)
+
+**16th - Davelions (1):** Makahlua (S15)
+
+**16th - Izmir_Stinger (1):** TheMeInTeam (S11)
+
+**16th - Makahlua (1):** GrimVek (S3)
+
+**16th - zosh127 (1):** AlphaShard (S19)
 
 ---
 ### PvE Deaths
@@ -137,11 +178,11 @@
 ---
 ### Debutants
 
-**S1 (12):** Makahlua, Eag, CanusAlbinus, ekat2468, MadDjinn, fuzzyfractal42, TheMeInTeam, GrimVek, AlphaShard, DanQ_CC, TheChrisD, Ubermarklar
+**S1 (12):** AlphaShard, CanusAlbinus, DanQ_CC, Eag, ekat2468, fuzzyfractal42, GrimVek, MadDjinn, Makahlua, TheChrisD, TheMeInTeam, Ubermarklar
 
 **S2 (1):** MLS
 
-**S3 (2):** NNannasin, Duskey
+**S3 (2):** Duskey, NNannasin
 
 **S4 (1):** ixias0
 
@@ -165,11 +206,11 @@
 
 **S14 (0):** 
 
-**S15 (2):** qqqnl, Davelions
+**S15 (2):** Davelions, qqqnl
 
 **S16 (0):** 
 
-**S17 (4):** Gameslayer989, 78ford, kalleina, KirbyMD
+**S17 (4):** 78ford, Gameslayer989, kalleina, KirbyMD
 
 **S18 (0):** 
 

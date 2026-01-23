@@ -49,6 +49,101 @@
 ---
 ### Kills
 
+**1st - Captinn (8):** Blarkslol (S1), ArcticSeagull (S1), CipherKai (S1), Kaddyn (S2), broccoliar (S2), Fcrm (S2), ethodog (S2), wizarde (S2)
+
+**2nd - CipherKai (7):** Dawncy (S1), Codwhy (S1), broccoliar (S1), PresidentFleb (S1), Kaddyn (S1), FrostBros (S1), Glarza (S1)
+
+**2nd - Kelawesome (7):** Jordtim (S1), DJoee (S1), zac083 (S1), DogOfKrondor (S2), Jordtim (S2), Stravilight (S2), Fcrm (S3)
+
+**2nd - wizarde (7):** _Dieter (S2), 78ford (S3), Kaddyn (S4), SiahStone (S4), CodeJoshua (S4), Fcrm (S4), cherryblawsom (S4)
+
+**5th - broccoliar (6):** David63 (S1), Nuclearsugar (S3), ArcticSeagull (S4), CommanderK22_ (S4), BoltsInCharge (S4), CHAINGE (S4)
+
+**5th - DJoee (6):** Greeples (S2), Kiinako_ (S2), olivieh (S2), WolfeXCIX (S2), zac083 (S2), Jordtim (S3)
+
+**5th - Glarza (6):** Stravilight (S1), kirbey (S2), aalaan (S2), Charrlottie (S2), Evzenitable (S2), ItsColinn (S2)
+
+**8th - SiahStone (5):** Bobbytheturtle (S2), lasdarling (S2), brinkwhy (S2), Captinn (S2), Flcnt (S2)
+
+**9th - benidk (4):** ArcticSeagull (S2), Flouzemaker (S2), Glarza (S3), Gorgerous (S3)
+
+**9th - Blarkslol (4):** CHAINGE (S2), nug17 (S2), JaqOnCraq (S2), Randehh (S3)
+
+**9th - checog (4):** Cqson (S1), Kelawesome (S1), Potsie (S1), Bulbexe (S1)
+
+**9th - Flcnt (4):** MaxEvasion (S2), Codwhy (S2), Glarza (S2), Chasmic (S2)
+
+**9th - Lighte (4):** ItsColinn (S4), Ninetals38 (S4), Randehh (S4), ItsShqky (S4)
+
+**14th - Bulbexe (3):** Pelycosaur (S1), Karliffu (S1), AHSOKATANOSTAN (S1)
+
+**14th - Jaceon02 (3):** Flcnt (S1), Chasmic (S1), DJoee (S2)
+
+**14th - JaqOnCraq (3):** Kaddyn (S3), TheSheepMasters (S3), _Dieter (S3)
+
+**14th - Potsie (3):** DevoyTTV (S1), DarrenBGP (S1), Jaceon02 (S1)
+
+**14th - strategy (3):** JaqOnCraq (S3), CodeJoshua (S3), Boomblade60 (S4)
+
+**14th - Stravilight (3):** Nuclearsugar (S1), MangoPlayz (S1), fruitlogic (S4)
+
+**14th - zac083 (3):** ohh_lia (S2), DarrenBGP (S2), WackoFlipper (S2)
+
+**21st - _1mmortal_ (2):** _Dieter (S1), ItsShqky (S3)
+
+**21st - AHSOKATANOSTAN (2):** ShutUpBrick (S1), Zevulpes (S1)
+
+**21st - ArcticSeagull (2):** Julse (S1), David63 (S3)
+
+**21st - Broseph (2):** St0rmplayz (S1), DogOfKrondor (S3)
+
+**21st - Chasmic (2):** Jaceon02 (S2), ItsColinn (S3)
+
+**21st - CodeJoshua (2):** natsuvi (S3), CAMKART100 (S4)
+
+**21st - David63 (2):** Blarkslol (S3), Kaismartypants (S3)
+
+**21st - Fcrm (2):** zac083 (S4), nsket (S4)
+
+**21st - FrostBros (2):** aalaan (S1), brinkwhy (S1)
+
+**21st - ItsColinn (2):** Caydone (S3), Chasmic (S3)
+
+**21st - Kaddyn (2):** ohh_lia (S3), Westcraft00 (S4)
+
+**21st - natsuvi (2):** _1mmortal_ (S3), Kiinako_ (S3)
+
+**21st - nsket (2):** FortuneInfinity (S4), Stravilight (S4)
+
+**21st - Pelycosaur (2):** Broseph (S1), Charrlottie (S1)
+
+**21st - Psykl0ne (2):** ChainingVermin2 (S4), wizarde (S4)
+
+**21st - SpaceFenix (2):** ArcticSeagull (S3), strategy (S3)
+
+**37th - _Dieter (1):** _1mmortal_ (S1)
+
+**37th - BoltsInCharge (1):** strategy (S4)
+
+**37th - brinkwhy (1):** Kelawesome (S2)
+
+**37th - Caydone (1):** benidk (S3)
+
+**37th - DarrenBGP (1):** benidk (S2)
+
+**37th - Gorgerous (1):** Broseph (S3)
+
+**37th - Nuclearsugar (1):** Flouzemaker (S3)
+
+**37th - ohh_lia (1):** TheSlimeBrother (S3)
+
+**37th - PresidentFleb (1):** ZebraPantz (S1)
+
+**37th - Randehh (1):** wizarde (S3)
+
+**37th - St0rmplayz (1):** WackoFlipper (S1)
+
+**37th - Westcraft00 (1):** benidk (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +156,12 @@
 ---
 ### Debutants
 
-**S1 (46):** Zebobo10, kirbey, Dawncy, 78ford, David63, _Dieter, _1mmortal_, Codwhy, broccoliar, Jordtim, ZebraPantz, PresidentFleb, WackoFlipper, DevoyTTV, Julse, DarrenBGP, Cqson, ShutUpBrick, Blarkslol, DJoee, zac083, Nuclearsugar, MangoPlayz, St0rmplayz, Flcnt, Broseph, Charrlottie, Stravilight, Pelycosaur, Chasmic, Zevulpes, Kelawesome, ArcticSeagull, Karliffu, Kaddyn, Jaceon02, aalaan, AHSOKATANOSTAN, brinkwhy, FrostBros, Potsie, Glarza, Bulbexe, CipherKai, Captinn, checog
+**S1 (46):** _1mmortal_, _Dieter, 78ford, aalaan, AHSOKATANOSTAN, ArcticSeagull, Blarkslol, brinkwhy, broccoliar, Broseph, Bulbexe, Captinn, Charrlottie, Chasmic, checog, CipherKai, Codwhy, Cqson, DarrenBGP, David63, Dawncy, DevoyTTV, DJoee, Flcnt, FrostBros, Glarza, Jaceon02, Jordtim, Julse, Kaddyn, Karliffu, Kelawesome, kirbey, MangoPlayz, Nuclearsugar, Pelycosaur, Potsie, PresidentFleb, ShutUpBrick, St0rmplayz, Stravilight, WackoFlipper, zac083, Zebobo10, ZebraPantz, Zevulpes
 
-**S2 (22):** TheSlimeBrother, Fcrm, ohh_lia, DogOfKrondor, CHAINGE, Bobbytheturtle, Greeples, nug17, Evzenitable, MaxEvasion, JaqOnCraq, lasdarling, ItsColinn, Kiinako_, olivieh, WolfeXCIX, Flouzemaker, benidk, lexicuhl, ethodog, wizarde, SiahStone
+**S2 (22):** benidk, Bobbytheturtle, CHAINGE, DogOfKrondor, ethodog, Evzenitable, Fcrm, Flouzemaker, Greeples, ItsColinn, JaqOnCraq, Kiinako_, lasdarling, lexicuhl, MaxEvasion, nug17, ohh_lia, olivieh, SiahStone, TheSlimeBrother, wizarde, WolfeXCIX
 
-**S3 (13):** Cubic44, ItsShqky, Kaimaxon, Markedbooboy, Randehh, Gorgerous, Caydone, TheSheepMasters, natsuvi, Kaismartypants, CodeJoshua, strategy, SpaceFenix
+**S3 (13):** Caydone, CodeJoshua, Cubic44, Gorgerous, ItsShqky, Kaimaxon, Kaismartypants, Markedbooboy, natsuvi, Randehh, SpaceFenix, strategy, TheSheepMasters
 
-**S4 (14):** CAMKART100, fruitlogic, Ninetals38, Westcraft00, Boomblade60, FortuneInfinity, nsket, cherryblawsom, ChainingVermin2, CommanderK22_, BoltsInCharge, Vetmire, Lighte, Psykl0ne
+**S4 (14):** BoltsInCharge, Boomblade60, CAMKART100, ChainingVermin2, cherryblawsom, CommanderK22_, FortuneInfinity, fruitlogic, Lighte, Ninetals38, nsket, Psykl0ne, Vetmire, Westcraft00
 
 ---

@@ -41,6 +41,39 @@
 ---
 ### Kills
 
+**1st - xMisha (7):** Grantonic (S2), zombieman5257 (S2), LegendzPvP (S2), BraydenCFA (S2), NubDub (S2), Digitil (S2), _xPotato_ (S2)
+
+**2nd - onyx3122 (6):** BatMan_1814 (S1), xMisha (S1), 9047d (S1), zZekkenN (S1), GageDoven (S1), tuxster (S1)
+
+**3rd - xXMaximusMC (4):** xZyleoNx (S1), onyx3122 (S1), hazel_doe (S2), jjjtttzzz (S2)
+
+**4th - BatMan_1814 (3):** hazel_doe (S1), YellowVitt (S1), GageDoven (S2)
+
+**4th - hazel_doe (3):** xMisha (S2), ningates (S2), CrazySchnitz (S2)
+
+**4th - zZekkenN (3):** SD_UHC (S1), Groom__ (S1), Grantonic (S1)
+
+**7th - BraydenCFA (2):** YellowVitt (S2), JuanTooThree (S2)
+
+**7th - LegendzPvP (2):** shaespring (S2), xZyleoNx (S2)
+
+**7th - YellowVitt (2):** rcolejames (S1), BatMan_1814 (S2)
+
+**10th - 9047d (1):** Lukkh (S1)
+
+**10th - Grantonic (1):** zZekkenN (S2)
+
+**10th - jjjtttzzz (1):** DomTheBadKing (S2)
+
+**10th - JuanTooThree (1):** _JWB (S2)
+
+**10th - Lukkh (1):** xXMaximusMC (S2)
+
+**10th - NubDub (1):** Kartracer (S2)
+
+**10th - SD_UHC (1):** Digitil (S1)
+
+**10th - shaespring (1):** PhenomCloud (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +86,8 @@
 ---
 ### Debutants
 
-**S1 (18):** hazel_doe, rcolejames, xZyleoNx, Dead__, Digitil, YellowVitt, SD_UHC, BatMan_1814, xMisha, Lukkh, Groom__, Grantonic, 9047d, zZekkenN, GageDoven, tuxster, onyx3122, xXMaximusMC
+**S1 (18):** 9047d, BatMan_1814, Dead__, Digitil, GageDoven, Grantonic, Groom__, hazel_doe, Lukkh, onyx3122, rcolejames, SD_UHC, tuxster, xMisha, xXMaximusMC, xZyleoNx, YellowVitt, zZekkenN
 
-**S2 (14):** PhenomCloud, DomTheBadKing, _JWB, shaespring, JuanTooThree, Kartracer, zombieman5257, LegendzPvP, BraydenCFA, NubDub, _xPotato_, ningates, CrazySchnitz, jjjtttzzz
+**S2 (14):** _JWB, _xPotato_, BraydenCFA, CrazySchnitz, DomTheBadKing, jjjtttzzz, JuanTooThree, Kartracer, LegendzPvP, ningates, NubDub, PhenomCloud, shaespring, zombieman5257
 
 ---

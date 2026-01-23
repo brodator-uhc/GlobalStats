@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - TehBaconBrawlerZ (4):** poWpaH (S1), Jaceon02 (S1), RuneTactics (S1), ObsidianFractal (S1)
+
+**2nd - ObsidianFractal (3):** Forgot_N (S1), probablyaj (S1), Cqson (S1)
+
+**3rd - Brodator (2):** AdonisGaming (S1), Charrlottie (S1)
+
+**3rd - RuneTactics (2):** JaeHasNoMaidens (S1), MangoPlayz (S1)
+
+**3rd - TayUHC (2):** PerkyBix (S1), TehBaconBrawlerZ (S1)
+
+**6th - Forgot_N (1):** Kaddyn (S1)
+
+**6th - Jaceon02 (1):** CodeJoshua (S1)
+
+**6th - PerkyBix (1):** Brodator (S1)
+
+**6th - poWpaH (1):** ArcticSeagull (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (18):** AdonisGaming, JaeHasNoMaidens, ArcticSeagull, CodeJoshua, Charrlottie, poWpaH, Kaddyn, Forgot_N, Brodator, Jaceon02, MangoPlayz, RuneTactics, probablyaj, Cqson, PerkyBix, ObsidianFractal, TehBaconBrawlerZ, TayUHC
+**S1 (18):** AdonisGaming, ArcticSeagull, Brodator, Charrlottie, CodeJoshua, Cqson, Forgot_N, Jaceon02, JaeHasNoMaidens, Kaddyn, MangoPlayz, ObsidianFractal, PerkyBix, poWpaH, probablyaj, RuneTactics, TayUHC, TehBaconBrawlerZ
 
 ---

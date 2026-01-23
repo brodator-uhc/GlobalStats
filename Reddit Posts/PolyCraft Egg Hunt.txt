@@ -35,7 +35,6 @@
 ---
 ### Kills
 
-
 ---
 ### PvE Deaths
 
@@ -47,6 +46,6 @@
 ---
 ### Debutants
 
-**S1 (10):** elKingMorgan, AlphaShard, CanusAlbinus, MadDjinn, TheChrisD, Davelions, Aschilon, Makahlua, zosh127, DanQ_CC
+**S1 (10):** AlphaShard, Aschilon, CanusAlbinus, DanQ_CC, Davelions, elKingMorgan, MadDjinn, Makahlua, TheChrisD, zosh127
 
 ---

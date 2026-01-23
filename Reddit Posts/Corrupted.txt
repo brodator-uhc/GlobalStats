@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - Mawpy (3):** FrostBros (S1), BBR_ (S1), Wilsonkong (S1)
+
+**2nd - FrostBros (2):** Broseph (S1), aalaan (S1)
+
+**2nd - Wilsonkong (2):** TalonIII (S1), SpaceFenix (S1)
+
+**4th - centraleric (1):** JamestheDouglas (S1)
+
+**4th - TalonBX (1):** flameorb (S1)
+
+**4th - TalonIII (1):** Vince_M (S1)
+
+**4th - xMisha (1):** TalonBX (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (15):** Ahzora, Broseph, aalaan, Vince_M, FrostBros, flameorb, BBR_, JamestheDouglas, TalonBX, TalonIII, SpaceFenix, Wilsonkong, centraleric, Mawpy, xMisha
+**S1 (15):** aalaan, Ahzora, BBR_, Broseph, centraleric, flameorb, FrostBros, JamestheDouglas, Mawpy, SpaceFenix, TalonBX, TalonIII, Vince_M, Wilsonkong, xMisha
 
 ---

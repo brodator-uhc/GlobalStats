@@ -49,6 +49,53 @@
 ---
 ### Kills
 
+**1st - spoood (12):** Hollymatman (S1), _itslennard14 (S1), automavic (S1), Spongey (S2), IzunaLoli (S2), galaxychickens (S2), automavic (S3), Chipzzy (S3), Livin423 (S3), Spongey (S3), IsaacMT (S3), galaxychickens (S3)
+
+**2nd - MajorWoof (9):** Flouzemaker (S2), _itslennard14 (S2), _mrcool (S2), T0n35 (S2), FazedMC (S3), LeonTG (S3), aalaan (S3), TheRealHagrid (S3), _itslennard14 (S3)
+
+**3rd - C_money (7):** MBeaar (S3), JamestheDouglas (S3), spoood (S3), MajorWoof (S3), 016Nojr (S3), jamertxn (S4), MercuryParadox (S4)
+
+**3rd - galaxychickens (7):** Chipzzy (S1), aalaan (S1), _mrcool (S1), LeonTG (S2), JamestheDouglas (S2), FazedMC (S4), Evader22 (S4)
+
+**5th - MBeaar (5):** crazy_monkey7531 (S2), CaesarOctavius (S2), MajorWoof (S2), swishduck (S4), IsaacMT (S4)
+
+**5th - Organized (5):** TheRealHagrid (S1), IzunaLoli (S1), crazy_monkey7531 (S1), LeonTG (S1), 016Nojr (S1)
+
+**5th - T0n35 (5):** IsaacMT (S2), automavic (S2), FazedMC (S2), 20thPrestigeNoob (S2), spoood (S2)
+
+**8th - 016Nojr (4):** 20thPrestigeNoob (S1), C_money (S1), TheRealHagrid (S2), crazy_monkey7531 (S3)
+
+**8th - jamertxn (4):** chloesad (S3), IzunaLoli (S3), Spongey (S4), galaxychickens (S4)
+
+**8th - JamestheDouglas (4):** chloesad (S2), CaesarOctavius (S3), ShyGus (S3), C_money (S4)
+
+**8th - ShyGus (4):** MercuryParadox (S3), TheRealHagrid (S4), JamestheDouglas (S4), tilargo (S4)
+
+**8th - tilargo (4):** aalaan (S4), MajorWoof (S4), automavic (S4), ShyGus (S4)
+
+**13th - 20thPrestigeNoob (3):** JamestheDouglas (S1), spoood (S1), Flouzemaker (S3)
+
+**14th - _mrcool (2):** MercuryParadox (S2), jamertxn (S3)
+
+**14th - crazy_monkey7531 (2):** MercuryParadox (S1), GRLH (S1)
+
+**14th - Spongey (2):** MBeaar (S4), Livin423 (S4)
+
+**17th - _itslennard14 (1):** _mrcool (S3)
+
+**17th - automavic (1):** 016Nojr (S4)
+
+**17th - CaesarOctavius (1):** 016Nojr (S2)
+
+**17th - Evader22 (1):** Chipzzy (S4)
+
+**17th - FazedMC (1):** _mrcool (S4)
+
+**17th - Flouzemaker (1):** 20thPrestigeNoob (S3)
+
+**17th - MercuryParadox (1):** aalaan (S2)
+
+**17th - TheRealHagrid (1):** ThePeridotKnight (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +108,12 @@
 ---
 ### Debutants
 
-**S1 (20):** CountryCutie, Hollymatman, Chipzzy, MercuryParadox, _itslennard14, TheRealHagrid, IzunaLoli, automavic, GRLH, JamestheDouglas, crazy_monkey7531, spoood, aalaan, LeonTG, 20thPrestigeNoob, C_money, _mrcool, 016Nojr, galaxychickens, Organized
+**S1 (20):** _itslennard14, _mrcool, 016Nojr, 20thPrestigeNoob, aalaan, automavic, C_money, Chipzzy, CountryCutie, crazy_monkey7531, galaxychickens, GRLH, Hollymatman, IzunaLoli, JamestheDouglas, LeonTG, MercuryParadox, Organized, spoood, TheRealHagrid
 
-**S2 (9):** Spongey, chloesad, Flouzemaker, IsaacMT, CaesarOctavius, FazedMC, T0n35, MajorWoof, MBeaar
+**S2 (9):** CaesarOctavius, chloesad, FazedMC, Flouzemaker, IsaacMT, MajorWoof, MBeaar, Spongey, T0n35
 
-**S3 (4):** Livin423, ThePeridotKnight, jamertxn, ShyGus
+**S3 (4):** jamertxn, Livin423, ShyGus, ThePeridotKnight
 
-**S4 (3):** swishduck, Evader22, tilargo
+**S4 (3):** Evader22, swishduck, tilargo
 
 ---

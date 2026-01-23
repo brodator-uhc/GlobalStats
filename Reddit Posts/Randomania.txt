@@ -41,6 +41,31 @@
 ---
 ### Kills
 
+**1st - 4EyedSlime (7):** CipherKai (S2), chugmitchell (S2), AJEvolved (S2), brinkwhy (S2), JamestheDouglas (S2), Bofishkix (S2), DarrenBGP (S2)
+
+**2nd - DevoyTTV (3):** strategy (S2), Pelycosaur (S2), Brodator (S2)
+
+**2nd - Topspinpiggles (3):** Sluggyg (S1), Kaismartypants (S1), frogsella (S1)
+
+**4th - _JJL (2):** spoocS_ (S1), Topspinpiggles (S1)
+
+**4th - brinkwhy (2):** Slooshyy (S2), hueLinkk (S2)
+
+**4th - DarrenBGP (2):** Digdude (S2), InsertDotJpeg (S2)
+
+**4th - PoofessorP (2):** 016Nojr (S1), JamestheDouglas (S1)
+
+**8th - AJEvolved (1):** DevoyTTV (S2)
+
+**8th - chugmitchell (1):** Plushy33 (S2)
+
+**8th - Flouzemaker (1):** PoofessorP (S1)
+
+**8th - InsertDotJpeg (1):** AdonisGaming (S2)
+
+**8th - JamestheDouglas (1):** TonyEatWorld (S1)
+
+**8th - strategy (1):** xRaltz (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +78,8 @@
 ---
 ### Debutants
 
-**S1 (12):** SmolHatChild, Sluggyg, Kaismartypants, 016Nojr, spoocS_, TonyEatWorld, JamestheDouglas, frogsella, Topspinpiggles, PoofessorP, _JJL, Flouzemaker
+**S1 (12):** _JJL, 016Nojr, Flouzemaker, frogsella, JamestheDouglas, Kaismartypants, PoofessorP, Sluggyg, SmolHatChild, spoocS_, TonyEatWorld, Topspinpiggles
 
-**S2 (19):** DatGuyAdam, Digdude, CipherKai, Plushy33, chugmitchell, xRaltz, strategy, Pelycosaur, Slooshyy, Brodator, DevoyTTV, AJEvolved, hueLinkk, brinkwhy, AdonisGaming, InsertDotJpeg, Bofishkix, DarrenBGP, 4EyedSlime
+**S2 (19):** 4EyedSlime, AdonisGaming, AJEvolved, Bofishkix, brinkwhy, Brodator, chugmitchell, CipherKai, DarrenBGP, DatGuyAdam, DevoyTTV, Digdude, hueLinkk, InsertDotJpeg, Pelycosaur, Plushy33, Slooshyy, strategy, xRaltz
 
 ---

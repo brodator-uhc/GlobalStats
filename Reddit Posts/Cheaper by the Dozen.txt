@@ -41,6 +41,41 @@
 ---
 ### Kills
 
+**1st - Bobbytheturtle (9):** Rawkeyy (S1), Frostbreath (S1), sirples (S1), KOKeowner (S1), Ryfri (S2), Fensua (S2), oworca (S2), SimplySam (S2), Andyboyonalert (S2)
+
+**2nd - Ricardo_A (4):** Balone (S1), Chasmic (S1), miles1baseball (S1), brodioh (S1)
+
+**3rd - silh (3):** scriblur (S1), bytexal (S1), cappyrappy (S1)
+
+**4th - Andyboyonalert (2):** BreakSalad (S2), ThwipThwip (S2)
+
+**4th - OnlyCosmia (2):** C_money (S2), Nate2gamer (S2)
+
+**4th - oworca (2):** Bobbytheturtle (S1), flameorb (S2)
+
+**4th - Potsie (2):** SiahStone (S2), jommyappleseed (S2)
+
+**4th - scriblur (2):** oworca (S1), Spongey (S2)
+
+**4th - SimplySam (2):** automavic (S2), BBR_ (S2)
+
+**10th - brodioh (1):** LordLaelaps (S1)
+
+**10th - BSBrent (1):** OnlyCosmia (S2)
+
+**10th - cappyrappy (1):** Ricardo_A (S1)
+
+**10th - Fortwerth (1):** I_is_cheesecake (S2)
+
+**10th - KOKeowner (1):** dango989 (S1)
+
+**10th - miles1baseball (1):** sirples (S2)
+
+**10th - Rawkeyy (1):** NTBama (S2)
+
+**10th - sirples (1):** miles1baseball (S2)
+
+**10th - Spongey (1):** JonnyFairplay (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +88,8 @@
 ---
 ### Debutants
 
-**S1 (21):** JonnyFairplay, Micale, Rawkeyy, LordLaelaps, dango989, Flouzemaker, C_money, Balone, Chasmic, Frostbreath, miles1baseball, sirples, brodioh, Ricardo_A, KOKeowner, Bobbytheturtle, oworca, scriblur, bytexal, cappyrappy, silh
+**S1 (21):** Balone, Bobbytheturtle, brodioh, bytexal, C_money, cappyrappy, Chasmic, dango989, Flouzemaker, Frostbreath, JonnyFairplay, KOKeowner, LordLaelaps, Micale, miles1baseball, oworca, Rawkeyy, Ricardo_A, scriblur, silh, sirples
 
-**S2 (22):** MercuryParadox, Jojopotatoe99, EPICSACKVILLE, flameorb, Nate2gamer, BreakSalad, OnlyCosmia, BSBrent, Spongey, automavic, BBR_, SiahStone, jommyappleseed, Ryfri, Potsie, Fensua, ThwipThwip, I_is_cheesecake, SimplySam, NTBama, Andyboyonalert, Fortwerth
+**S2 (22):** Andyboyonalert, automavic, BBR_, BreakSalad, BSBrent, EPICSACKVILLE, Fensua, flameorb, Fortwerth, I_is_cheesecake, Jojopotatoe99, jommyappleseed, MercuryParadox, Nate2gamer, NTBama, OnlyCosmia, Potsie, Ryfri, SiahStone, SimplySam, Spongey, ThwipThwip
 
 ---

@@ -49,6 +49,49 @@
 ---
 ### Kills
 
+**1st - EXSolo (9):** LongaVita (S1), infiniteturbine (S1), Ricardo_A (S1), Rhi (S1), Kiinako_ (S2), Sneegsnag (S4), Chapter_III (S4), Frostbreath (S4), Learning (S4)
+
+**2nd - HoneyFromHell (8):** Ricardo_A (S3), infiniteturbine (S3), Fortwerth (S3), Kakintse (S3), dans1988 (S4), Flouzemaker (S4), LongaVita (S4), Fizzyy (S4)
+
+**3rd - Fawful55 (7):** BadAnt (S2), Mjora (S2), jamietheelite (S2), Fortwerth (S2), BurningT (S2), infiniteturbine (S2), Likean00b (S3)
+
+**4th - Chippytoothy (5):** SuddenlyBeagles (S1), Ab0veAverage (S1), BadAnt (S1), Ab0veAverage (S2), Ruari (S2)
+
+**4th - jamietheelite (5):** Incipiens (S3), Chippytoothy (S3), Fawful55 (S3), BadAnt (S3), upriserryker (S3)
+
+**4th - ShutUpBrick (5):** Kiinako_ (S1), Chippytoothy (S2), HoneyFromHell (S2), Snuggelz007 (S2), EXSolo (S2)
+
+**7th - Likean00b (4):** Havenhand (S3), Ruari (S3), EXSolo (S3), Kiinako_ (S3)
+
+**8th - Edviin_ (2):** jamietheelite (S4), _shadowapples (S4)
+
+**8th - Fizzyy (2):** WintherMaw (S4), Gillieeeee (S4)
+
+**8th - infiniteturbine (2):** smeargle123 (S2), Ricardo_A (S2)
+
+**8th - MarcC5M (2):** EXSolo (S1), Fortwerth (S1)
+
+**8th - Ricardo_A (2):** SuddenlyBeagles (S2), dans1988 (S2)
+
+**8th - Snuggelz007 (2):** _shadowapples (S2), Zaenith (S3)
+
+**8th - upriserryker (2):** Snuggelz007 (S3), _shadowapples (S3)
+
+**15th - _shadowapples (1):** nihontiger (S4)
+
+**15th - BurningT (1):** Fizzyy (S2)
+
+**15th - Chapter_III (1):** Kiinako_ (S4)
+
+**15th - Havenhand (1):** HoneyFromHell (S3)
+
+**15th - Kaleeka (1):** Sneegsnag (S3)
+
+**15th - Kiinako_ (1):** Kakintse (S2)
+
+**15th - LongaVita (1):** clefairy (S1)
+
+**15th - Sneegsnag (1):** Fizzyy (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +104,12 @@
 ---
 ### Debutants
 
-**S1 (21):** Kaleeka, Snuggelz007, Kiinako_, Kakintse, ShutUpBrick, _shadowapples, Cybers_, jamietheelite, clefairy, LongaVita, infiniteturbine, Ricardo_A, Rhi, EXSolo, SuddenlyBeagles, Ab0veAverage, BadAnt, Fortwerth, Chippytoothy, HoneyFromHell, MarcC5M
+**S1 (21):** _shadowapples, Ab0veAverage, BadAnt, Chippytoothy, clefairy, Cybers_, EXSolo, Fortwerth, HoneyFromHell, infiniteturbine, jamietheelite, Kakintse, Kaleeka, Kiinako_, LongaVita, MarcC5M, Rhi, Ricardo_A, ShutUpBrick, Snuggelz007, SuddenlyBeagles
 
-**S2 (10):** Kidfo, Ruari, Fizzyy, dans1988, smeargle123, Flouzemaker, Flohp, Mjora, BurningT, Fawful55
+**S2 (10):** BurningT, dans1988, Fawful55, Fizzyy, Flohp, Flouzemaker, Kidfo, Mjora, Ruari, smeargle123
 
-**S3 (6):** Sneegsnag, Zaenith, Havenhand, Incipiens, Likean00b, upriserryker
+**S3 (6):** Havenhand, Incipiens, Likean00b, Sneegsnag, upriserryker, Zaenith
 
-**S4 (8):** BJPlays, nihontiger, Edviin_, WintherMaw, Gillieeeee, Chapter_III, Frostbreath, Learning
+**S4 (8):** BJPlays, Chapter_III, Edviin_, Frostbreath, Gillieeeee, Learning, nihontiger, WintherMaw
 
 ---

@@ -41,6 +41,33 @@
 ---
 ### Kills
 
+**1st - RabidChipmunk (4):** pqrro (S1), Eluniel (S1), Sean081799 (S1), Bacan (S1)
+
+**2nd - Jahrod (3):** ArcticSeagull (S2), rippersteveM5 (S2), WackoFlipper (S2)
+
+**2nd - ShyGus (3):** MaxEvasion (S2), Jahrod (S2), Bacan (S2)
+
+**2nd - Spongey (3):** ShyGus (S2), Fcrm (S2), Kaismartypants (S2)
+
+**5th - Bacan (2):** miles1baseball (S1), Sean081799 (S2)
+
+**5th - ERHDude (2):** Hacn35 (S1), RabidChipmunk (S1)
+
+**5th - miles1baseball (2):** Dida (S1), DianaB (S1)
+
+**5th - QuilJ1 (2):** Flouzemaker (S1), ERHDude (S1)
+
+**5th - WackoFlipper (2):** Ryfri (S2), miles1baseball (S2)
+
+**10th - Fcrm (1):** Kiinako_ (S2)
+
+**10th - Kaismartypants (1):** _Fost_ (S2)
+
+**10th - pigghetti (1):** Prisma (S2)
+
+**10th - rippersteveM5 (1):** pigghetti (S2)
+
+**10th - Sean081799 (1):** Flouzemaker (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +80,8 @@
 ---
 ### Debutants
 
-**S1 (18):** dRawry, BSBrent, Fcrm, Hacn35, Prisma, checog, pqrro, Eluniel, Dida, Sean081799, DianaB, miles1baseball, Bacan, RabidChipmunk, Flouzemaker, ERHDude, QuilJ1, TastyBaconZ
+**S1 (18):** Bacan, BSBrent, checog, DianaB, Dida, dRawry, Eluniel, ERHDude, Fcrm, Flouzemaker, Hacn35, miles1baseball, pqrro, Prisma, QuilJ1, RabidChipmunk, Sean081799, TastyBaconZ
 
-**S2 (12):** Ryfri, ArcticSeagull, MaxEvasion, pigghetti, rippersteveM5, WackoFlipper, Jahrod, _Fost_, Kiinako_, ShyGus, Kaismartypants, Spongey
+**S2 (12):** _Fost_, ArcticSeagull, Jahrod, Kaismartypants, Kiinako_, MaxEvasion, pigghetti, rippersteveM5, Ryfri, ShyGus, Spongey, WackoFlipper
 
 ---

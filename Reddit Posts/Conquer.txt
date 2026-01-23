@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - kawaiibunri (6):** MercuryParadox (S1), Haroun_ (S1), Kaimaxon (S1), bayweafs (S1), JampoJohn (S1), DogOfKrondor (S1)
+
+**2nd - benidk (3):** noktime (S1), PatrickTN_ (S1), AirInAirOut (S1)
+
+**2nd - Kaddyn (3):** CurdledDrip (S1), Westcraft00 (S1), BuildingBard300 (S1)
+
+**2nd - Sk8eight (3):** Kaddyn (S1), dahii (S1), poWpaH (S1)
+
+**5th - AirInAirOut (2):** kawaiibunri (S1), Sk8eight (S1)
+
+**5th - DevoyTTV (2):** Sharkbob94349 (S1), CommanderK22_ (S1)
+
+**7th - Fcrm (1):** Stravilight (S1)
+
+**7th - Haroun_ (1):** SOAKLE (S1)
+
+**7th - ShootingGoats (1):** Fcrm (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (27):** CAMKART100, MercuryParadox, Stravilight, SOAKLE, ItsShqky, Haroun_, CurdledDrip, Westcraft00, Kaimaxon, BuildingBard300, Kaddyn, bayweafs, Sharkbob94349, JampoJohn, noktime, DogOfKrondor, CommanderK22_, kawaiibunri, dahii, poWpaH, PatrickTN_, Sk8eight, AirInAirOut, Fcrm, benidk, DevoyTTV, ShootingGoats
+**S1 (27):** AirInAirOut, bayweafs, benidk, BuildingBard300, CAMKART100, CommanderK22_, CurdledDrip, dahii, DevoyTTV, DogOfKrondor, Fcrm, Haroun_, ItsShqky, JampoJohn, Kaddyn, Kaimaxon, kawaiibunri, MercuryParadox, noktime, PatrickTN_, poWpaH, Sharkbob94349, ShootingGoats, Sk8eight, SOAKLE, Stravilight, Westcraft00
 
 ---

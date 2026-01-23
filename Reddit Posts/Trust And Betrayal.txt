@@ -41,6 +41,25 @@
 ---
 ### Kills
 
+**1st - Icecreeper30 (6):** Banditeer (S1), Krimm (S1), centraleric (S2), BrokenPic (S2), YaojaDzn (S2), Bornyo (S2)
+
+**2nd - Whalezy (5):** DiarWolfe (S1), Wyntre (S1), Icecreeper30 (S1), centraleric (S1), JaysusSups (S1)
+
+**3rd - JaysusSups (3):** BreakfastBacon (S1), 343Kento (S1), BrokenPic (S1)
+
+**4th - BrokenPic (2):** Kaismartypants (S1), PhantxmWolf (S2)
+
+**4th - Swirley (2):** Krimm (S2), Jasssson (S2)
+
+**6th - braidenOW (1):** xNecr0 (S2)
+
+**6th - brinkwhy (1):** braidenOW (S2)
+
+**6th - Krimm (1):** Kaismartypants (S2)
+
+**6th - reverse094 (1):** brinkwhy (S2)
+
+**6th - Superpickles1 (1):** reverse094 (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +72,8 @@
 ---
 ### Debutants
 
-**S1 (15):** Swirley, OneDesire, Adoqted, DiarWolfe, BreakfastBacon, Banditeer, Wyntre, 343Kento, Krimm, Icecreeper30, Kaismartypants, BrokenPic, centraleric, JaysusSups, Whalezy
+**S1 (15):** 343Kento, Adoqted, Banditeer, BreakfastBacon, BrokenPic, centraleric, DiarWolfe, Icecreeper30, JaysusSups, Kaismartypants, Krimm, OneDesire, Swirley, Whalezy, Wyntre
 
-**S2 (9):** xNecr0, braidenOW, brinkwhy, PhantxmWolf, YaojaDzn, reverse094, Bornyo, Jasssson, Superpickles1
+**S2 (9):** Bornyo, braidenOW, brinkwhy, Jasssson, PhantxmWolf, reverse094, Superpickles1, xNecr0, YaojaDzn
 
 ---

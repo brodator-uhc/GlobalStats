@@ -77,6 +77,89 @@
 ---
 ### Kills
 
+**1st - centraleric (23):** Bandias (S1), Rohcket (S5), Blarkslol (S5), buttergolem1 (S5), Eluniel (S5), Jahrod (S5), Chasmic (S5), Radical24 (S5), TorinFBF (S6), Chasmic (S6), buttergolem1 (S6), lexicuhl (S6), Radical24 (S7), TheAuri (S7), JaeHasNoMaidens (S7), chloesad (S9), awesomemacD (S9), Randehh (S9), buttergolem1 (S10), lottebunny (S10), Randehh (S10), Radical24 (S10), Greeples (S11)
+
+**2nd - Radical24 (18):** MajorWoof (S1), Raichuwu (S2), Jordtim (S3), JaeHasNoMaidens (S3), MaxEvasion (S3), WackoFlipper (S4), TheSonicJoey (S4), MaxEvasion (S5), DarV2 (S5), Randehh (S5), tiffaroni (S7), CrowJRC (S7), Rohcket (S9), Klickacat (S10), AronBaynes (S10), MajorWoof (S10), Klickacat (S11), Emylyl (S11)
+
+**3rd - lexicuhl (13):** Randehh (S4), JaeHasNoMaidens (S4), buttergolem1 (S4), Radical24 (S4), Bandias (S4), Radical24 (S6), Greeples (S8), Radical24 (S9), MajorWoof (S9), Maxwellfifty (S9), H_L_llama (S11), wibbol (S11), Randehh (S11)
+
+**4th - MajorWoof (12):** Fourbitplayer (S1), typhlo0o (S1), DarV2 (S1), tiffaroni (S3), CHAINGE (S3), Greeples (S4), MaxEvasion (S4), CallumPace (S4), centraleric (S8), chloesad (S8), Emylyl (S10), DarV2 (S10)
+
+**5th - Randehh (11):** CHAINGE (S1), Fourbitplayer (S3), wibbol (S3), Greeples (S3), TerryNL (S4), Greeples (S5), discoczibi (S5), CrowJRC (S6), Greeples (S6), centraleric (S6), Jahrod (S8)
+
+**6th - Blarkslol (9):** Klickacat (S3), Keelando (S7), WackoFlipper (S7), WackoFlipper (S8), H_L_llama (S8), Chasmic (S11), tiffaroni (S11), CrowJRC (S11), lexicuhl (S11)
+
+**6th - CHAINGE (9):** 016Nojr (S1), lottebunny (S1), TheAuri (S1), MajorWoof (S2), CallumPace (S2), Randehh (S2), Greeples (S2), Chasmic (S3), CallumPace (S3)
+
+**6th - wibbol (9):** chloesad (S3), discoczibi (S4), centraleric (S4), tiffaroni (S4), Rohcket (S4), GetNicked (S4), Chasmic (S7), CarlyRaeJepsen (S7), Greeples (S7)
+
+**9th - Bandias (7):** tiffaroni (S2), dashdude (S2), CodeJoshua (S2), buttergolem1 (S2), CHAINGE (S2), discoczibi (S2), DarV2 (S2)
+
+**9th - buttergolem1 (7):** awesomemacD (S4), lottebunny (S4), DarV2 (S6), chloesad (S6), lottebunny (S9), DarV2 (S9), lexicuhl (S9)
+
+**9th - CrowJRC (7):** CodeJoshua (S6), TorinFBF (S10), Greeples (S10), starlxghtmoon (S11), Rohcket (S11), Eluniel (S11), WackoFlipper (S11)
+
+**9th - discoczibi (7):** Radical24 (S1), MaxEvasion (S2), WackoFlipper (S5), lexicuhl (S5), lottebunny (S5), TheSlimeBrother (S8), JaeHasNoMaidens (S8)
+
+**9th - Eluniel (7):** Blarkslol (S3), Potsie (S4), H_L_llama (S4), centraleric (S7), WackoFlipper (S9), lexicuhl (S10), awesomemacD (S10)
+
+**9th - MaxEvasion (7):** Blarkslol (S4), tiffaroni (S5), Klickacat (S5), Rohcket (S6), JaeHasNoMaidens (S6), Emerric (S6), WackoFlipper (S10)
+
+**15th - Jahrod (6):** CodeJoshua (S7), wibbol (S7), Keelando (S8), TheSlimeBrother (S10), Keelando (S10), CodeJoshua (S10)
+
+**16th - Greeples (5):** lexicuhl (S2), CarlyRaeJepsen (S5), lottebunny (S6), CarlyRaeJepsen (S6), TheSonicJoey (S6)
+
+**16th - hazel_doe (5):** Greeples (S1), Captain220 (S1), discoczibi (S1), CodeJoshua (S1), centraleric (S1)
+
+**16th - JaeHasNoMaidens (5):** SummerBqsh (S2), MajorWoof (S3), Eluniel (S3), CarlyRaeJepsen (S8), Potsie (S8)
+
+**16th - lottebunny (5):** centraleric (S3), nFang (S3), discoczibi (S8), Greeples (S9), Keelando (S9)
+
+**16th - WackoFlipper (5):** DarV2 (S7), MajorWoof (S8), tiffaroni (S9), Eluniel (S9), lottebunny (S11)
+
+**21st - awesomemacD (4):** chloesad (S2), Radical24 (S2), SummerBqsh (S4), centraleric (S10)
+
+**21st - DarV2 (4):** WackoFlipper (S1), WackoFlipper (S2), Fourbitplayer (S2), Klickacat (S7)
+
+**21st - Emylyl (4):** tiffaroni (S10), Codwhy (S10), DarV2 (S11), Radical24 (S11)
+
+**24th - CallumPace (3):** hazel_doe (S1), Potsie (S2), CrowJRC (S4)
+
+**24th - Chasmic (3):** CrowJRC (S5), Randehh (S8), lexicuhl (S8)
+
+**24th - Emerric (3):** CodeJoshua (S3), DarV2 (S3), TheSlimeBrother (S7)
+
+**24th - Rohcket (3):** WackoFlipper (S6), Klickacat (S9), Codwhy (S11)
+
+**28th - chloesad (2):** GetNicked (S6), MaxEvasion (S6)
+
+**28th - H_L_llama (2):** tiffaroni (S8), Klickacat (S8)
+
+**28th - Potsie (2):** centraleric (S2), TheAuri (S4)
+
+**28th - starlxghtmoon (2):** lottebunny (S7), Eluniel (S7)
+
+**28th - tiffaroni (2):** lottebunny (S8), centraleric (S11)
+
+**33rd - AronBaynes (1):** MaxEvasion (S10)
+
+**33rd - CodeJoshua (1):** WackoFlipper (S3)
+
+**33rd - Codwhy (1):** I_is_cheesecake (S11)
+
+**33rd - GetNicked (1):** dashdude (S4)
+
+**33rd - Klickacat (1):** awesomemacD (S8)
+
+**33rd - SoulvG (1):** Bandias (S6)
+
+**33rd - TheAuri (1):** TerryNL (S1)
+
+**33rd - TheSlimeBrother (1):** Rohcket (S8)
+
+**33rd - TheSonicJoey (1):** Eluniel (S4)
+
+**33rd - TorinFBF (1):** lexicuhl (S3)
 
 ---
 ### PvE Deaths
@@ -89,25 +172,25 @@
 ---
 ### Debutants
 
-**S1 (21):** chloesad, Fourbitplayer, Greeples, 016Nojr, WackoFlipper, Bandias, TerryNL, lottebunny, Captain220, typhlo0o, TheAuri, DarV2, MajorWoof, Radical24, discoczibi, CodeJoshua, centraleric, CHAINGE, hazel_doe, CallumPace, Randehh
+**S1 (21):** 016Nojr, Bandias, CallumPace, Captain220, centraleric, CHAINGE, chloesad, CodeJoshua, DarV2, discoczibi, Fourbitplayer, Greeples, hazel_doe, lottebunny, MajorWoof, Radical24, Randehh, TerryNL, TheAuri, typhlo0o, WackoFlipper
 
-**S2 (10):** SummerBqsh, JaeHasNoMaidens, Potsie, tiffaroni, lexicuhl, dashdude, buttergolem1, MaxEvasion, Raichuwu, awesomemacD
+**S2 (10):** awesomemacD, buttergolem1, dashdude, JaeHasNoMaidens, lexicuhl, MaxEvasion, Potsie, Raichuwu, SummerBqsh, tiffaroni
 
-**S3 (9):** Chasmic, Klickacat, Blarkslol, Eluniel, Jordtim, nFang, wibbol, Emerric, TorinFBF
+**S3 (9):** Blarkslol, Chasmic, Eluniel, Emerric, Jordtim, Klickacat, nFang, TorinFBF, wibbol
 
-**S4 (5):** CrowJRC, H_L_llama, TheSonicJoey, Rohcket, GetNicked
+**S4 (5):** CrowJRC, GetNicked, H_L_llama, Rohcket, TheSonicJoey
 
-**S5 (3):** MeadowMoos, CarlyRaeJepsen, Jahrod
+**S5 (3):** CarlyRaeJepsen, Jahrod, MeadowMoos
 
 **S6 (1):** SoulvG
 
-**S7 (3):** TheSlimeBrother, Keelando, starlxghtmoon
+**S7 (3):** Keelando, starlxghtmoon, TheSlimeBrother
 
 **S8 (0):** 
 
 **S9 (1):** Maxwellfifty
 
-**S10 (3):** Codwhy, Emylyl, AronBaynes
+**S10 (3):** AronBaynes, Codwhy, Emylyl
 
 **S11 (1):** I_is_cheesecake
 

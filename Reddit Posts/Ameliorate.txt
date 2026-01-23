@@ -49,6 +49,75 @@
 ---
 ### Kills
 
+**1st - Shortgamer (13):** oworca (S2), DjTalica (S2), Kidfo (S2), Hoppy (S2), brodioh (S2), MadSainter (S2), lsperlo (S2), Stellios_Cantos (S2), ElementalYT (S2), Fairyjuice (S2), brodioh (S3), Topspinpiggles (S4), Cryptic (S4)
+
+**2nd - oworca (10):** GlowingNeon (S1), BJPlays (S1), Tetrixxx (S3), MrCraftinator (S3), Hoppy (S3), Guep (S3), Cryptic (S3), Chasmic (S3), Jakekub (S4), Stellios_Cantos (S4)
+
+**3rd - Guep (8):** Shortgamer (S1), Chasmic (S1), Mathyy (S1), oworca (S1), TommySuX (S3), Fukano (S3), lsperlo (S3), Soshikun (S4)
+
+**4th - Chasmic (6):** Kidfo (S1), Stellios_Cantos (S1), rippersteveM5 (S3), MadSainter (S3), CedGhoss (S3), Edviin_ (S4)
+
+**5th - CedGhoss (5):** Venusial (S1), Cryptic (S1), TheGamerCool (S1), LordLaelaps (S2), Grantonic (S3)
+
+**5th - TommySuX (5):** PoshNPie (S1), bigfoot_ (S1), Guep (S1), Zamario (S4), Phoebe (S4)
+
+**7th - Cryptic (4):** Gillieeeee (S1), sirples (S3), Tanceo (S3), LordLaelaps (S3)
+
+**7th - Stellios_Cantos (4):** rippersteveM5 (S2), Etoiles (S3), Emerric (S4), Chasmic (S4)
+
+**9th - DjTalica (3):** Flohp (S2), CedGhoss (S2), oworca (S4)
+
+**9th - Edviin_ (3):** TommySuX (S2), JimmyJambles (S2), bjr201111 (S4)
+
+**9th - TheGamerCool (3):** Flohp (S1), rippersteveM5 (S1), BlakeCraft (S1)
+
+**12th - AvaCos (2):** Shortgamer (S4), brodioh (S4)
+
+**12th - bjr201111 (2):** LordLaelaps (S4), MrCraftinator (S4)
+
+**12th - brodioh (2):** Evader22 (S4), TommySuX (S4)
+
+**12th - ElementalYT (2):** Edviin_ (S2), MrCraftinator (S2)
+
+**12th - Hannilala (2):** QuilJ1 (S1), brodioh (S1)
+
+**12th - Hoppy (2):** Chasmic (S2), Gillieeeee (S2)
+
+**12th - Jakekub (2):** Kidfo (S4), rippersteveM5 (S4)
+
+**12th - lsperlo (2):** WintherMaw (S2), Stellios_Cantos (S3)
+
+**12th - MadSainter (2):** starwebs1 (S3), Soshikun (S3)
+
+**12th - sirples (2):** Just_Gerald (S3), Shortgamer (S3)
+
+**12th - Zamario (2):** QuilJ1 (S4), SidGarcia (S4)
+
+**23rd - BJPlays (1):** Tetrixxx (S2)
+
+**23rd - Evader22 (1):** Guep (S4)
+
+**23rd - Fairyjuice (1):** Fukano (S2)
+
+**23rd - Flohp (1):** DjTalica (S1)
+
+**23rd - Flouzemaker (1):** Fukano (S4)
+
+**23rd - Grantonic (1):** Edviin_ (S3)
+
+**23rd - IonJ (1):** Fairyjuice (S3)
+
+**23rd - Kidfo (1):** QuilJ1 (S2)
+
+**23rd - LordLaelaps (1):** DeRockProject (S3)
+
+**23rd - MrCraftinator (1):** Guep (S2)
+
+**23rd - PoshNPie (1):** MrPolzerino (S1)
+
+**23rd - rippersteveM5 (1):** MrCraftinator (S1)
+
+**23rd - Venusial (1):** boyceterous (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +130,12 @@
 ---
 ### Debutants
 
-**S1 (27):** MrPolzerino, boyceterous, DjTalica, PoshNPie, QuilJ1, bigfoot_, Shortgamer, Flohp, Kidfo, Stellios_Cantos, GlowingNeon, BJPlays, MrCraftinator, rippersteveM5, Chasmic, Mathyy, oworca, brodioh, Venusial, Gillieeeee, Cryptic, BlakeCraft, Guep, TheGamerCool, CedGhoss, Hannilala, TommySuX
+**S1 (27):** bigfoot_, BJPlays, BlakeCraft, boyceterous, brodioh, CedGhoss, Chasmic, Cryptic, DjTalica, Flohp, Gillieeeee, GlowingNeon, Guep, Hannilala, Kidfo, Mathyy, MrCraftinator, MrPolzerino, oworca, PoshNPie, QuilJ1, rippersteveM5, Shortgamer, Stellios_Cantos, TheGamerCool, TommySuX, Venusial
 
-**S2 (12):** LordLaelaps, JimmyJambles, Tetrixxx, WintherMaw, Edviin_, Hoppy, MadSainter, Emerric, Fukano, lsperlo, ElementalYT, Fairyjuice
+**S2 (12):** Edviin_, ElementalYT, Emerric, Fairyjuice, Fukano, Hoppy, JimmyJambles, LordLaelaps, lsperlo, MadSainter, Tetrixxx, WintherMaw
 
-**S3 (12):** BushieHalf, AvaCos, Just_Gerald, IonJ, DeRockProject, Etoiles, Zamario, starwebs1, sirples, Tanceo, Soshikun, Grantonic
+**S3 (12):** AvaCos, BushieHalf, DeRockProject, Etoiles, Grantonic, IonJ, Just_Gerald, sirples, Soshikun, starwebs1, Tanceo, Zamario
 
-**S4 (7):** Topspinpiggles, bjr201111, Evader22, Jakekub, SidGarcia, Phoebe, Flouzemaker
+**S4 (7):** bjr201111, Evader22, Flouzemaker, Jakekub, Phoebe, SidGarcia, Topspinpiggles
 
 ---

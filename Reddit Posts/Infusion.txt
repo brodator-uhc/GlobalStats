@@ -37,6 +37,27 @@
 ---
 ### Kills
 
+**1st - Jinko42 (6):** Micale (S1), AvaCos (S1), EyeHasNoIdea (S1), PIGG_LET (S1), Ixolock (S1), Grantonic (S1)
+
+**2nd - Bacan (4):** DeluxeSniper (S1), Jinko42 (S1), lottebunny (S1), tilargo (S1)
+
+**3rd - Zcka (3):** floobel (S1), jommyappleseed (S1), JustNolan (S1)
+
+**4th - FazedMC (2):** Cyonal (S1), ColdBac (S1)
+
+**4th - Fensua (2):** FazedMC (S1), Randehh (S1)
+
+**4th - lottebunny (2):** Fensua (S1), QuilJ1 (S1)
+
+**7th - ColdBac (1):** PhenomCloud (S1)
+
+**7th - DeluxeSniper (1):** automavic (S1)
+
+**7th - miles1baseball (1):** Potsie (S1)
+
+**7th - PIGG_LET (1):** oworca (S1)
+
+**7th - tilargo (1):** miles1baseball (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +70,6 @@
 ---
 ### Debutants
 
-**S1 (28):** Jakekub, wowjennawow, PhenomCloud, Micale, AvaCos, Cyonal, ColdBac, floobel, jommyappleseed, oworca, automavic, EyeHasNoIdea, PIGG_LET, Ixolock, JustNolan, FazedMC, DeluxeSniper, Randehh, Grantonic, Potsie, Fensua, Jinko42, miles1baseball, QuilJ1, lottebunny, tilargo, Bacan, Zcka
+**S1 (28):** automavic, AvaCos, Bacan, ColdBac, Cyonal, DeluxeSniper, EyeHasNoIdea, FazedMC, Fensua, floobel, Grantonic, Ixolock, Jakekub, Jinko42, jommyappleseed, JustNolan, lottebunny, Micale, miles1baseball, oworca, PhenomCloud, PIGG_LET, Potsie, QuilJ1, Randehh, tilargo, wowjennawow, Zcka
 
 ---

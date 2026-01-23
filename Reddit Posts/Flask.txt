@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Sharkbob94349 (6):** Gronyak (S1), Crossfireheat (S1), Ryyyyn (S1), Andronify (S1), JaqOnCraq (S1), GuyGojo (S1)
+
+**2nd - BoltsInCharge (2):** stupidsylvia (S1), ThatTurtleMan (S1)
+
+**3rd - Andronify (1):** natsuvi (S1)
+
+**3rd - DungusFluffy (1):** TehBaconBrawlerZ (S1)
+
+**3rd - GuyGojo (1):** Thermql (S1)
+
+**3rd - natsuvi (1):** DungusFluffy (S1)
+
+**3rd - stupidsylvia (1):** Logan_S_ (S1)
+
+**3rd - TehBaconBrawlerZ (1):** 123SteveBob (S1)
+
+**3rd - ThatTurtleMan (1):** BoltsInCharge (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (16):** Logan_S_, stupidsylvia, BoltsInCharge, ThatTurtleMan, 123SteveBob, TehBaconBrawlerZ, DungusFluffy, Gronyak, Crossfireheat, natsuvi, Ryyyyn, Andronify, JaqOnCraq, Thermql, GuyGojo, Sharkbob94349
+**S1 (16):** 123SteveBob, Andronify, BoltsInCharge, Crossfireheat, DungusFluffy, Gronyak, GuyGojo, JaqOnCraq, Logan_S_, natsuvi, Ryyyyn, Sharkbob94349, stupidsylvia, TehBaconBrawlerZ, ThatTurtleMan, Thermql
 
 ---

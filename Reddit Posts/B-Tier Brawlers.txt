@@ -37,6 +37,25 @@
 ---
 ### Kills
 
+**1st - Lighte (5):** Normoh (S1), Potsie (S1), Bradzi (S1), acadiangel (S1), brinkwhy (S1)
+
+**2nd - acadiangel (4):** CipherKai (S1), ChainingVermin2 (S1), cherryblawsom (S1), vynil (S1)
+
+**3rd - vynil (3):** xCand (S1), Zahkari (S1), nsket (S1)
+
+**4th - Bradzi (2):** 4EyedSlime (S1), Bluests (S1)
+
+**4th - Potsie (2):** QuilJ1 (S1), strategy (S1)
+
+**6th - cherryblawsom (1):** DevoyTTV (S1)
+
+**6th - Codwhy (1):** xRosss (S1)
+
+**6th - Normoh (1):** automavic (S1)
+
+**6th - QuilJ1 (1):** Psykl0ne (S1)
+
+**6th - Zahkari (1):** Codwhy (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +68,6 @@
 ---
 ### Debutants
 
-**S1 (22):** xRosss, Codwhy, xCand, CipherKai, Psykl0ne, QuilJ1, automavic, ChainingVermin2, DevoyTTV, Normoh, Zahkari, strategy, nsket, 4EyedSlime, Bluests, cherryblawsom, Potsie, vynil, Bradzi, acadiangel, brinkwhy, Lighte
+**S1 (22):** 4EyedSlime, acadiangel, automavic, Bluests, Bradzi, brinkwhy, ChainingVermin2, cherryblawsom, CipherKai, Codwhy, DevoyTTV, Lighte, Normoh, nsket, Potsie, Psykl0ne, QuilJ1, strategy, vynil, xCand, xRosss, Zahkari
 
 ---

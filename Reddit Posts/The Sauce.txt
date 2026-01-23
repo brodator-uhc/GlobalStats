@@ -37,6 +37,17 @@
 ---
 ### Kills
 
+**1st - EirenePneuma (3):** boyceterous (S1), Eli7777777 (S1), Shortgamer (S1)
+
+**2nd - Kit10s (2):** Zaenith (S1), ColdFusion5 (S1)
+
+**2nd - Shortgamer (2):** Zarky (S1), Learning (S1)
+
+**4th - Bagpipehero (1):** EirenePneuma (S1)
+
+**4th - Learning (1):** txjhawk (S1)
+
+**4th - Zarky (1):** UnicornAnna (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +60,6 @@
 ---
 ### Debutants
 
-**S1 (12):** UnicornAnna, txjhawk, boyceterous, Eli7777777, Zarky, Learning, Shortgamer, Zaenith, EirenePneuma, ColdFusion5, Bagpipehero, Kit10s
+**S1 (12):** Bagpipehero, boyceterous, ColdFusion5, EirenePneuma, Eli7777777, Kit10s, Learning, Shortgamer, txjhawk, UnicornAnna, Zaenith, Zarky
 
 ---

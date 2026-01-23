@@ -37,6 +37,35 @@
 ---
 ### Kills
 
+**1st - Brodator (11):** Sten_Stone (S1), jommyappleseed (S1), TastyBaconZ (S1), TheBP (S1), TheSlimeBrother (S1), Randehh (S1), Kubaslov (S1), jimmyjegs (S1), Biwitch (S1), H_L_llama (S1), Jahrod (S1)
+
+**2nd - ArcticSeagull (4):** Markedbooboy (S1), Livin423 (S1), CodeJoshua (S1), Eluniel (S1)
+
+**3rd - lasdarling (3):** DogOfKrondor (S1), Charrlottie (S1), Psykl0ne (S1)
+
+**3rd - TheSlimeBrother (3):** Ninetals38 (S1), wibbol (S1), AnUncreativeCat (S1)
+
+**5th - Biwitch (1):** SoulvG (S1)
+
+**5th - Charrlottie (1):** ArcticSeagull (S1)
+
+**5th - Eluniel (1):** Karasu994 (S1)
+
+**5th - Flohp (1):** Fourbitplayer (S1)
+
+**5th - Jahrod (1):** lasdarling (S1)
+
+**5th - jimmyjegs (1):** PresidentFleb (S1)
+
+**5th - Karasu994 (1):** Jordtim (S1)
+
+**5th - PresidentFleb (1):** SiahStone (S1)
+
+**5th - SiahStone (1):** kirbey (S1)
+
+**5th - TheBP (1):** 78ford (S1)
+
+**5th - wibbol (1):** Flohp (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +78,6 @@
 ---
 ### Debutants
 
-**S1 (33):** Markedbooboy, Livin423, CodeJoshua, Sten_Stone, Fourbitplayer, jommyappleseed, SoulvG, Ninetals38, DogOfKrondor, 78ford, TastyBaconZ, TheBP, Flohp, wibbol, AnUncreativeCat, kirbey, SiahStone, Jordtim, Karasu994, ArcticSeagull, Eluniel, Charrlottie, PresidentFleb, TheSlimeBrother, Randehh, Kubaslov, Psykl0ne, jimmyjegs, lasdarling, Biwitch, H_L_llama, Jahrod, Brodator
+**S1 (33):** 78ford, AnUncreativeCat, ArcticSeagull, Biwitch, Brodator, Charrlottie, CodeJoshua, DogOfKrondor, Eluniel, Flohp, Fourbitplayer, H_L_llama, Jahrod, jimmyjegs, jommyappleseed, Jordtim, Karasu994, kirbey, Kubaslov, lasdarling, Livin423, Markedbooboy, Ninetals38, PresidentFleb, Psykl0ne, Randehh, SiahStone, SoulvG, Sten_Stone, TastyBaconZ, TheBP, TheSlimeBrother, wibbol
 
 ---

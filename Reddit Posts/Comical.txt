@@ -45,6 +45,59 @@
 ---
 ### Kills
 
+**1st - DevoyTTV (7):** Evzenitable (S2), Rebelghost (S2), Cubic44 (S2), ghostblurr (S2), Karliffu (S2), _1mmortal_ (S2), DatGuyAdam (S2)
+
+**2nd - _1mmortal_ (5):** ItsShqky (S1), _Fost_ (S1), Crafters (S1), nFang (S2), whitetimewolf (S2)
+
+**2nd - Vetmire (5):** Cubic44 (S1), TayUHC (S1), Bofishkix (S1), Sten_Stone (S2), Fcrm (S3)
+
+**4th - Tharve (4):** Zcin (S3), _Dieter (S3), TayUHC (S3), natsuvi (S3)
+
+**5th - Bofishkix (3):** Karliffu (S1), Slooshyy (S1), TayUHC (S2)
+
+**5th - DatGuyAdam (3):** Phyrrus (S2), Glarza (S2), Fxther (S2)
+
+**5th - Fxther (3):** NickPlaysGames15 (S2), ArcticSeagull (S2), Slooshyy (S2)
+
+**5th - JamestheDouglas (3):** ghostblurr (S1), Vetmire (S1), TonyEatWorld (S1)
+
+**5th - Karliffu (3):** Zebobo10 (S3), Rebelghost (S3), _1mmortal_ (S3)
+
+**5th - TheSlimeBrother (3):** Rohcket (S3), NickPlaysGames15 (S3), egl_ (S3)
+
+**11th - Crafters (2):** TheSheepMasters (S1), QuilJ1 (S1)
+
+**11th - ghostblurr (2):** Bofishkix (S2), Nikanod (S2)
+
+**11th - Glarza (2):** _Fost_ (S2), TacoDab (S3)
+
+**11th - ItsShqky (2):** egl_ (S1), Vetmire (S2)
+
+**11th - Nyxana (2):** Fxther (S1), JamestheDouglas (S1)
+
+**11th - Zebobo10 (2):** Tharve (S3), Glarza (S3)
+
+**17th - _Fost_ (1):** FrozenBenny (S2)
+
+**17th - Cubic44 (1):** ItsShqky (S2)
+
+**17th - egl_ (1):** kirbey (S3)
+
+**17th - Fcrm (1):** Vetmire (S3)
+
+**17th - kirbey (1):** Charrlottie (S3)
+
+**17th - NickPlaysGames15 (1):** poWpaH (S3)
+
+**17th - Phyrrus (1):** Plushy33 (S2)
+
+**17th - Plushy33 (1):** SummerBqsh (S2)
+
+**17th - QuilJ1 (1):** Plushy33 (S1)
+
+**17th - Rebelghost (1):** ArcticSeagull (S3)
+
+**17th - TonyEatWorld (1):** TheBP (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +110,10 @@
 ---
 ### Debutants
 
-**S1 (20):** egl_, TheBP, Cubic44, TayUHC, TheSheepMasters, Karliffu, Slooshyy, Plushy33, Bofishkix, ghostblurr, Vetmire, ItsShqky, _Fost_, Fxther, QuilJ1, TonyEatWorld, JamestheDouglas, Crafters, _1mmortal_, Nyxana
+**S1 (20):** _1mmortal_, _Fost_, Bofishkix, Crafters, Cubic44, egl_, Fxther, ghostblurr, ItsShqky, JamestheDouglas, Karliffu, Nyxana, Plushy33, QuilJ1, Slooshyy, TayUHC, TheBP, TheSheepMasters, TonyEatWorld, Vetmire
 
-**S2 (14):** Sten_Stone, Evzenitable, FrozenBenny, nFang, Nikanod, Rebelghost, NickPlaysGames15, SummerBqsh, ArcticSeagull, Phyrrus, Glarza, whitetimewolf, DatGuyAdam, DevoyTTV
+**S2 (14):** ArcticSeagull, DatGuyAdam, DevoyTTV, Evzenitable, FrozenBenny, Glarza, nFang, NickPlaysGames15, Nikanod, Phyrrus, Rebelghost, Sten_Stone, SummerBqsh, whitetimewolf
 
-**S3 (14):** MangoPlayz, Fcrm, Zcin, _Dieter, natsuvi, Tharve, TacoDab, Charrlottie, poWpaH, Rohcket, kirbey, Zebobo10, Stravilight, TheSlimeBrother
+**S3 (14):** _Dieter, Charrlottie, Fcrm, kirbey, MangoPlayz, natsuvi, poWpaH, Rohcket, Stravilight, TacoDab, Tharve, TheSlimeBrother, Zcin, Zebobo10
 
 ---

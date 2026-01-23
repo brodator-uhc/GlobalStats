@@ -45,6 +45,45 @@
 ---
 ### Kills
 
+**1st - Captinn (6):** Codwhy (S3), broccoliar (S3), lazys (S3), MichaelPlayMC (S3), aalaan (S3), Markedbooboy (S3)
+
+**1st - CHAINGE (6):** MaxEvasion (S3), Kaddyn (S3), Forgot_N (S3), TehBaconBrawlerZ (S3), lasdarling (S3), Captinn (S3)
+
+**3rd - Dawncy (5):** CodeJoshua (S1), Blarkslol (S1), Fourbitplayer (S1), Markedbooboy (S1), Zcin (S1)
+
+**4th - _Fost_ (4):** poWpaH (S1), ArcticSeagull (S1), Rebelghost (S1), PwincessVanessa (S1)
+
+**4th - broccoliar (4):** Ninetals38 (S2), ArcticSeagull (S2), David63 (S2), Jahrod (S2)
+
+**4th - ItsShqky (4):** TehBaconBrawlerZ (S2), aalaan (S2), Blarkslol (S2), Vetmire (S2)
+
+**7th - Bofishkix (2):** Dawncy (S1), _Fost_ (S1)
+
+**7th - Markedbooboy (2):** Dawncy (S3), Jaceon02 (S3)
+
+**7th - Rebelghost (2):** Greatwarrior_ (S1), ItsShqky (S1)
+
+**7th - Vetmire (2):** Karliffu (S2), broccoliar (S2)
+
+**11th - Blarkslol (1):** Vetmire (S1)
+
+**11th - CodeJoshua (1):** Codwhy (S1)
+
+**11th - Codwhy (1):** MangoPlayz (S3)
+
+**11th - DJoee (1):** zac083 (S2)
+
+**11th - Gorgerous (1):** Dawncy (S2)
+
+**11th - Jaceon02 (1):** Eluniel (S3)
+
+**11th - Jordtim (1):** ItsShqky (S2)
+
+**11th - lasdarling (1):** _1mmortal_ (S3)
+
+**11th - zac083 (1):** DJoee (S2)
+
+**11th - Zcin (1):** SunLightUHC (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +96,10 @@
 ---
 ### Debutants
 
-**S1 (18):** AdonisGaming, Greatwarrior_, Codwhy, CodeJoshua, poWpaH, Vetmire, Blarkslol, Fourbitplayer, ArcticSeagull, SunLightUHC, Markedbooboy, ItsShqky, Zcin, Rebelghost, Dawncy, PwincessVanessa, _Fost_, Bofishkix
+**S1 (18):** _Fost_, AdonisGaming, ArcticSeagull, Blarkslol, Bofishkix, CodeJoshua, Codwhy, Dawncy, Fourbitplayer, Greatwarrior_, ItsShqky, Markedbooboy, poWpaH, PwincessVanessa, Rebelghost, SunLightUHC, Vetmire, Zcin
 
-**S2 (11):** Ninetals38, DJoee, zac083, TehBaconBrawlerZ, David63, Jahrod, aalaan, Karliffu, broccoliar, Gorgerous, Jordtim
+**S2 (11):** aalaan, broccoliar, David63, DJoee, Gorgerous, Jahrod, Jordtim, Karliffu, Ninetals38, TehBaconBrawlerZ, zac083
 
-**S3 (12):** MangoPlayz, MaxEvasion, Kaddyn, Forgot_N, lazys, MichaelPlayMC, Eluniel, Jaceon02, _1mmortal_, lasdarling, Captinn, CHAINGE
+**S3 (12):** _1mmortal_, Captinn, CHAINGE, Eluniel, Forgot_N, Jaceon02, Kaddyn, lasdarling, lazys, MangoPlayz, MaxEvasion, MichaelPlayMC
 
 ---

@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - Flouzemaker (2):** EighteenQs (S1), Fairyjuice (S1)
+
+**1st - LordLaelaps (2):** Flouzemaker (S1), dRawry (S1)
+
+**3rd - DianaB (1):** nihontiger (S1)
+
+**3rd - dRawry (1):** DeRockProject (S1)
+
+**3rd - Fairyjuice (1):** ghowden (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (10):** Long_Journey, DeRockProject, EighteenQs, ghowden, Fairyjuice, Flouzemaker, dRawry, nihontiger, DianaB, LordLaelaps
+**S1 (10):** DeRockProject, DianaB, dRawry, EighteenQs, Fairyjuice, Flouzemaker, ghowden, Long_Journey, LordLaelaps, nihontiger
 
 ---

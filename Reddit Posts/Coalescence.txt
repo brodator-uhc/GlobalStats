@@ -37,6 +37,35 @@
 ---
 ### Kills
 
+**1st - pigghetti (7):** Digitale (S1), Drake132667596 (S1), Randehh (S1), ohh_lia (S1), RqDix (S1), Phoraxe (S1), Brodator (S1)
+
+**2nd - Brodator (3):** Drkrai (S1), centraleric (S1), lexicuhl (S1)
+
+**2nd - Normoh (3):** cherryblawsom (S1), Greeples (S1), Livin423 (S1)
+
+**2nd - ohh_lia (3):** MaxEvasion (S1), WackoFlipper (S1), MajorWoof (S1)
+
+**2nd - Phoraxe (3):** BardMain2 (S1), olivieh (S1), Normoh (S1)
+
+**6th - Drake132667596 (2):** Charrlottie (S1), GamerNthn (S1)
+
+**6th - MajorWoof (2):** Bulbexe (S1), DJoee (S1)
+
+**8th - Austronomical (1):** Kelawesome (S1)
+
+**8th - Bulbexe (1):** Austronomical (S1)
+
+**8th - centraleric (1):** NajaOxiana (S1)
+
+**8th - GamerNthn (1):** Jordtim (S1)
+
+**8th - Kelawesome (1):** chloesad (S1)
+
+**8th - Livin423 (1):** Purpdan (S1)
+
+**8th - Purpdan (1):** TalonBX (S1)
+
+**8th - RqDix (1):** natsuvi (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +78,6 @@
 ---
 ### Debutants
 
-**S1 (32):** NajaOxiana, chloesad, Kelawesome, Drkrai, Austronomical, centraleric, Bulbexe, DJoee, TalonBX, Digitale, Charrlottie, Jordtim, cherryblawsom, GamerNthn, BardMain2, Drake132667596, MaxEvasion, Purpdan, WackoFlipper, Randehh, Greeples, olivieh, MajorWoof, natsuvi, lexicuhl, Livin423, ohh_lia, Normoh, RqDix, Phoraxe, Brodator, pigghetti
+**S1 (32):** Austronomical, BardMain2, Brodator, Bulbexe, centraleric, Charrlottie, cherryblawsom, chloesad, Digitale, DJoee, Drake132667596, Drkrai, GamerNthn, Greeples, Jordtim, Kelawesome, lexicuhl, Livin423, MajorWoof, MaxEvasion, NajaOxiana, natsuvi, Normoh, ohh_lia, olivieh, Phoraxe, pigghetti, Purpdan, Randehh, RqDix, TalonBX, WackoFlipper
 
 ---

@@ -53,6 +53,81 @@
 ---
 ### Kills
 
+**1st - AHSOKATANOSTAN (6):** Anorable (S2), Brocko (S2), Bornyo (S2), BaneOfSmite (S2), ElGavinoSupremo (S3), Rebelghost (S3)
+
+**2nd - brinkwhy (5):** Fcrm (S4), xRosss (S4), Jorgeeay (S4), JamestheDouglas (S4), RqDix (S4)
+
+**2nd - DevoyTTV (5):** stupidsylvia (S1), AlolanJames (S1), TonyEatWorld (S1), nh177O13 (S2), DarrenBGP (S5)
+
+**2nd - RqDix (5):** egl_ (S3), Pelycosaur (S3), poWpaH (S3), ohh_lia (S3), DarrenBGP (S4)
+
+**2nd - xRosss (5):** PwincessVanessa (S3), St0rmplayz (S3), Bofishkix (S3), FrostBros (S3), AHSOKATANOSTAN (S3)
+
+**6th - nh177O13 (4):** Fcrm (S2), SummerBqsh (S2), HeyImHungry (S2), 4EyedSlime (S2)
+
+**6th - Rebelghost (4):** nFang (S3), brinkwhy (S4), _ChrisMS (S4), Stravilight (S4)
+
+**8th - Brocko (3):** TonyEatWorld (S2), JamestheDouglas (S2), wowjennawow (S4)
+
+**8th - Fcrm (3):** zacksarmy (S2), Sassybunion (S2), St0rmplayz (S2)
+
+**8th - Jorgeeay (3):** JoshC2 (S1), DevoyTTV (S1), _Fost_ (S4)
+
+**8th - St0rmplayz (3):** Slooshyy (S4), Pelycosaur (S4), Rebelghost (S4)
+
+**12th - _ChrisMS (2):** Slooshyy (S3), Brocko (S4)
+
+**12th - Bornyo (2):** Slooshyy (S2), Bradzi (S2)
+
+**12th - Bradzi (2):** Crafters (S2), Jorgeeay (S2)
+
+**12th - cxllxn (2):** Anorable (S1), spoocS_ (S1)
+
+**12th - Pelycosaur (2):** strategy (S3), IyaIsMad (S4)
+
+**12th - Stravilight (2):** Markedbooboy (S4), ShyGus (S4)
+
+**12th - stupidsylvia (2):** MCmattFTW (S1), JamestheDouglas (S1)
+
+**12th - TonyEatWorld (2):** cxllxn (S1), kalleina (S2)
+
+**20th - _Fost_ (1):** CocoBenja (S4)
+
+**20th - 4EyedSlime (1):** AHSOKATANOSTAN (S2)
+
+**20th - AlolanJames (1):** Sneaky26 (S1)
+
+**20th - Arich (1):** xRosss (S5)
+
+**20th - Crafters (1):** JoshC2 (S2)
+
+**20th - egl_ (1):** Markedbooboy (S3)
+
+**20th - FrostBros (1):** _ChrisMS (S3)
+
+**20th - HeyImHungry (1):** 3Dspoders (S2)
+
+**20th - JamestheDouglas (1):** St0rmplayz (S1)
+
+**20th - Markedbooboy (1):** BigJedo (S3)
+
+**20th - MaxEvasion (1):** _Fost_ (S5)
+
+**20th - ohh_lia (1):** ZachMcD (S3)
+
+**20th - poWpaH (1):** Djmandude (S3)
+
+**20th - PwincessVanessa (1):** Plushy33 (S5)
+
+**20th - ShyGus (1):** nFang (S4)
+
+**20th - Slooshyy (1):** PresidentFleb (S4)
+
+**20th - Sneaky26 (1):** Austyn_ (S1)
+
+**20th - spoocS_ (1):** DevoyTTV (S2)
+
+**20th - ZachMcD (1):** ArcticSeagull (S5)
 
 ---
 ### PvE Deaths
@@ -65,14 +140,14 @@
 ---
 ### Debutants
 
-**S1 (14):** JoshC2, Anorable, spoocS_, MCmattFTW, St0rmplayz, cxllxn, JamestheDouglas, stupidsylvia, Austyn_, Sneaky26, AlolanJames, TonyEatWorld, DevoyTTV, Jorgeeay
+**S1 (14):** AlolanJames, Anorable, Austyn_, cxllxn, DevoyTTV, JamestheDouglas, Jorgeeay, JoshC2, MCmattFTW, Sneaky26, spoocS_, St0rmplayz, stupidsylvia, TonyEatWorld
 
-**S2 (16):** zacksarmy, Sassybunion, Slooshyy, kalleina, Crafters, Fcrm, Brocko, SummerBqsh, 3Dspoders, Bradzi, HeyImHungry, Bornyo, BaneOfSmite, AHSOKATANOSTAN, 4EyedSlime, nh177O13
+**S2 (16):** 3Dspoders, 4EyedSlime, AHSOKATANOSTAN, BaneOfSmite, Bornyo, Bradzi, Brocko, Crafters, Fcrm, HeyImHungry, kalleina, nh177O13, Sassybunion, Slooshyy, SummerBqsh, zacksarmy
 
-**S3 (20):** KlutzySphere, PwincessVanessa, BigJedo, Djmandude, Markedbooboy, egl_, yuhFazz, strategy, nFang, Bofishkix, ZachMcD, ElGavinoSupremo, _ChrisMS, Pelycosaur, Rebelghost, poWpaH, ohh_lia, FrostBros, RqDix, xRosss
+**S3 (20):** _ChrisMS, BigJedo, Bofishkix, Djmandude, egl_, ElGavinoSupremo, FrostBros, KlutzySphere, Markedbooboy, nFang, ohh_lia, Pelycosaur, poWpaH, PwincessVanessa, Rebelghost, RqDix, strategy, xRosss, yuhFazz, ZachMcD
 
-**S4 (11):** Davidsid, Caffeindiazepine, PresidentFleb, CocoBenja, wowjennawow, _Fost_, ShyGus, DarrenBGP, IyaIsMad, brinkwhy, Stravilight
+**S4 (11):** _Fost_, brinkwhy, Caffeindiazepine, CocoBenja, DarrenBGP, Davidsid, IyaIsMad, PresidentFleb, ShyGus, Stravilight, wowjennawow
 
-**S5 (9):** ArcticSeagull, Plushy33, CodeJoshua, LoafOZ, MaxEvasion, SharkeyJaws, Codwhy, Arich, Normoh
+**S5 (9):** ArcticSeagull, Arich, CodeJoshua, Codwhy, LoafOZ, MaxEvasion, Normoh, Plushy33, SharkeyJaws
 
 ---

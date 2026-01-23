@@ -45,6 +45,33 @@
 ---
 ### Kills
 
+**1st - MrPhilipBar (6):** Wheezypz (S1), MarcProBow_13 (S1), xRyan98 (S1), ZaxerYT (S1), Gunner857 (S1), Jordinn (S3)
+
+**2nd - FearlessRedHawk (4):** Chipzzy (S3), Professer_TNT (S3), TheRealHagrid (S3), xRyan98 (S3)
+
+**3rd - Gunner857 (3):** Eroe (S1), SiretGaming (S1), RwDragon (S1)
+
+**3rd - MajorWoof (3):** CrazyCallum (S3), AmbientDan (S3), RwDragon (S3)
+
+**3rd - MarcProBow_13 (3):** oDogLFC (S2), Etallity (S2), Decieved (S2)
+
+**6th - Jordinn (2):** Bulbae (S2), Dj8ninja (S3)
+
+**6th - RwDragon (2):** 016Nojr (S2), TheGrifDogYT (S2)
+
+**6th - xXMaximusMC (2):** GRLH (S2), Professer_TNT (S2)
+
+**9th - Decieved (1):** Chipzzy (S2)
+
+**9th - Dj8ninja (1):** 016Nojr (S3)
+
+**9th - Etallity (1):** Jordinn (S2)
+
+**9th - M3T4L_Y3J (1):** MrPhilipBar (S3)
+
+**9th - oDogLFC (1):** Infiniti_x (S2)
+
+**9th - ZaxerYT (1):** FortuneInfinity (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +84,10 @@
 ---
 ### Debutants
 
-**S1 (10):** Eroe, SiretGaming, FortuneInfinity, Wheezypz, RwDragon, MarcProBow_13, xRyan98, ZaxerYT, Gunner857, MrPhilipBar
+**S1 (10):** Eroe, FortuneInfinity, Gunner857, MarcProBow_13, MrPhilipBar, RwDragon, SiretGaming, Wheezypz, xRyan98, ZaxerYT
 
-**S2 (14):** DonartKrs, Dj8ninja, Chipzzy, Infiniti_x, oDogLFC, GRLH, 016Nojr, Bulbae, Jordinn, Etallity, Professer_TNT, Decieved, TheGrifDogYT, xXMaximusMC
+**S2 (14):** 016Nojr, Bulbae, Chipzzy, Decieved, Dj8ninja, DonartKrs, Etallity, GRLH, Infiniti_x, Jordinn, oDogLFC, Professer_TNT, TheGrifDogYT, xXMaximusMC
 
-**S3 (9):** automavic, HiImCC, crazy_monkey7531, CrazyCallum, AmbientDan, TheRealHagrid, FearlessRedHawk, M3T4L_Y3J, MajorWoof
+**S3 (9):** AmbientDan, automavic, crazy_monkey7531, CrazyCallum, FearlessRedHawk, HiImCC, M3T4L_Y3J, MajorWoof, TheRealHagrid
 
 ---

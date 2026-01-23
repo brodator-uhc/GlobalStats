@@ -37,6 +37,25 @@
 ---
 ### Kills
 
+**1st - Fensua (4):** BlackGarrett (S1), Grantonic (S1), ColdBac (S1), DareDevilDawson (S1)
+
+**1st - Kelawesome (4):** Fensua (S1), Rawkeyy (S1), Bobbytheturtle (S1), AJSteel (S1)
+
+**3rd - Charrlottie (2):** SimplySam (S1), KOKeowner (S1)
+
+**3rd - KOKeowner (2):** _pbo (S1), MajorWoof (S1)
+
+**5th - _pbo (1):** pkee (S1)
+
+**5th - AJSteel (1):** Charrlottie (S1)
+
+**5th - Bobbytheturtle (1):** Jordtim (S1)
+
+**5th - Grantonic (1):** xMisha (S1)
+
+**5th - PaperVinnie (1):** ScottPirie (S1)
+
+**5th - YellowVitt (1):** PaperVinnie (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +68,6 @@
 ---
 ### Debutants
 
-**S1 (21):** ScottPirie, KleanKenneth, xMisha, BlackGarrett, Grantonic, ColdBac, DareDevilDawson, Fensua, Jordtim, Rawkeyy, Bobbytheturtle, pkee, _pbo, MajorWoof, SimplySam, KOKeowner, Charrlottie, AJSteel, PaperVinnie, Kelawesome, YellowVitt
+**S1 (21):** _pbo, AJSteel, BlackGarrett, Bobbytheturtle, Charrlottie, ColdBac, DareDevilDawson, Fensua, Grantonic, Jordtim, Kelawesome, KleanKenneth, KOKeowner, MajorWoof, PaperVinnie, pkee, Rawkeyy, ScottPirie, SimplySam, xMisha, YellowVitt
 
 ---

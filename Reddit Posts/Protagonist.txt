@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - fruitlogic (2):** Jordtim (S1), Kaddyn (S1)
+
+**1st - Kaddyn (2):** lasdarling (S1), Klickacat (S1)
+
+**1st - lasdarling (2):** _Fost_ (S1), Greeples (S1)
+
+**4th - CHAINGE (1):** Ryfri (S1)
+
+**4th - Greeples (1):** CHAINGE (S1)
+
+**4th - Klickacat (1):** LocSen (S1)
+
+**4th - Ryfri (1):** Vetmire (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (12):** _pbo, Vetmire, Ryfri, CHAINGE, LocSen, _Fost_, Jordtim, Greeples, lasdarling, Klickacat, Kaddyn, fruitlogic
+**S1 (12):** _Fost_, _pbo, CHAINGE, fruitlogic, Greeples, Jordtim, Kaddyn, Klickacat, lasdarling, LocSen, Ryfri, Vetmire
 
 ---

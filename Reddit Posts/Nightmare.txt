@@ -37,6 +37,19 @@
 ---
 ### Kills
 
+**1st - Jpgesus (3):** DrDreVit (S1), Shell_Guy (S1), Ninjajaja (S1)
+
+**2nd - numdegased (2):** Jpgesus (S1), Mightyzark (S1)
+
+**2nd - zachattack416 (2):** AttackZach_ (S1), _JWB (S1)
+
+**4th - AttackZach_ (1):** Livin423 (S1)
+
+**4th - BlueComputers (1):** Kryonate (S1)
+
+**4th - Kryonate (1):** BlueComputers (S1)
+
+**4th - Mightyzark (1):** zachattack416 (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +62,6 @@
 ---
 ### Debutants
 
-**S1 (12):** DrDreVit, Kryonate, BlueComputers, Shell_Guy, Ninjajaja, Livin423, AttackZach_, Jpgesus, _JWB, zachattack416, Mightyzark, numdegased
+**S1 (12):** _JWB, AttackZach_, BlueComputers, DrDreVit, Jpgesus, Kryonate, Livin423, Mightyzark, Ninjajaja, numdegased, Shell_Guy, zachattack416
 
 ---

@@ -53,6 +53,45 @@
 ---
 ### Kills
 
+**1st - DomTheBadKing (6):** DKeri (S4), ToucanTom (S4), bebki (S4), JasKnightWing (S4), GravelRocks (S4), xKerigan (S4)
+
+**1st - ToxLock (6):** Space_Face87 (S2), AbbeCrafter (S2), ChookaBC (S2), ToucanTom (S2), Dellot (S2), Schwatts (S2)
+
+**3rd - BeJinxed (5):** SenneBoy1 (S4), JoepTheBawz (S4), flxnwolf (S4), lenn1000 (S4), SCRunner97 (S4)
+
+**3rd - SammyR2D2 (5):** Space_Face87 (S1), ChookaBC (S1), AbbeCrafter (S1), Jpiggy (S1), RedValour (S1)
+
+**5th - JasKnightWing (4):** Just_Gerald (S3), xKerigan (S3), flxnwolf (S3), dRawry (S3)
+
+**6th - _mrcool (3):** Professer_TNT (S5), starwebs1 (S5), Grubbae (S5)
+
+**6th - dRawry (3):** BeJinxed (S4), DomTheBadKing (S4), _mrcool (S5)
+
+**6th - Pehnk (3):** Just_Gerald (S5), GrovyleXD (S5), 5kylord (S5)
+
+**9th - 4um_For_Rose (2):** Jackon (S1), EnderBow_ (S2)
+
+**9th - Professer_TNT (2):** DKeri (S5), ToucanTom (S5)
+
+**9th - Schwatts (2):** SanicCraftsMC (S2), 4um_For_Rose (S2)
+
+**12th - AbbeCrafter (1):** ToucanTom (S1)
+
+**12th - ChookaBC (1):** 4um_For_Rose (S1)
+
+**12th - Dellot (1):** Suler (S2)
+
+**12th - GrovyleXD (1):** octagonalpaul (S5)
+
+**12th - Grubbae (1):** PMC_Sanji (S5)
+
+**12th - ItsPompey (1):** Twistur (S3)
+
+**12th - Just_Gerald (1):** ToucanTom (S3)
+
+**12th - SCRunner97 (1):** Invasionnn (S4)
+
+**12th - starwebs1 (1):** Long_Journey (S5)
 
 ---
 ### PvE Deaths
@@ -65,14 +104,14 @@
 ---
 ### Debutants
 
-**S1 (11):** Space_Face87, TrollKing541, Long_Journey, Jackon, 4um_For_Rose, ChookaBC, ToucanTom, AbbeCrafter, Jpiggy, RedValour, SammyR2D2
+**S1 (11):** 4um_For_Rose, AbbeCrafter, ChookaBC, Jackon, Jpiggy, Long_Journey, RedValour, SammyR2D2, Space_Face87, ToucanTom, TrollKing541
 
-**S2 (7):** Ncah, EnderBow_, SanicCraftsMC, Suler, Dellot, Schwatts, ToxLock
+**S2 (7):** Dellot, EnderBow_, Ncah, SanicCraftsMC, Schwatts, Suler, ToxLock
 
-**S3 (9):** Invasionnn, Cryptio, Twistur, ItsPompey, Just_Gerald, xKerigan, flxnwolf, dRawry, JasKnightWing
+**S3 (9):** Cryptio, dRawry, flxnwolf, Invasionnn, ItsPompey, JasKnightWing, Just_Gerald, Twistur, xKerigan
 
-**S4 (9):** SenneBoy1, DKeri, JoepTheBawz, lenn1000, bebki, GravelRocks, SCRunner97, BeJinxed, DomTheBadKing
+**S4 (9):** bebki, BeJinxed, DKeri, DomTheBadKing, GravelRocks, JoepTheBawz, lenn1000, SCRunner97, SenneBoy1
 
-**S5 (9):** PMC_Sanji, octagonalpaul, GrovyleXD, Professer_TNT, starwebs1, Grubbae, _mrcool, 5kylord, Pehnk
+**S5 (9):** _mrcool, 5kylord, GrovyleXD, Grubbae, octagonalpaul, Pehnk, PMC_Sanji, Professer_TNT, starwebs1
 
 ---

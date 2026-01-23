@@ -41,6 +41,27 @@
 ---
 ### Kills
 
+**1st - Oyubook (4):** Doornbread (S1), Squattamelon (S1), seanduckman (S1), DaBigBlackBoy (S1)
+
+**2nd - jordanleevan (3):** Squattamelon (S2), tbonepolar (S2), smeargle123 (S2)
+
+**3rd - Archer_ (2):** HostilePanda141 (S2), jordanleevan (S2)
+
+**3rd - Doornbread (2):** dolphinfluff23 (S2), aggarnir (S2)
+
+**3rd - HostilePanda141 (2):** tiffaroni (S1), abigail (S1)
+
+**3rd - Jakekub (2):** TheKevGuy (S2), numdegased (S2)
+
+**3rd - numdegased (2):** Archer_ (S2), DaBigBlackBoy (S2)
+
+**8th - DaBigBlackBoy (1):** TalonIII (S1)
+
+**8th - jackjamez (1):** Stooof (S2)
+
+**8th - Squattamelon (1):** TheCaveman (S2)
+
+**8th - Stooof (1):** jackjamez (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +74,8 @@
 ---
 ### Debutants
 
-**S1 (10):** Doornbread, tiffaroni, Squattamelon, seanduckman, TalonIII, abigail, jordanleevan, DaBigBlackBoy, HostilePanda141, Oyubook
+**S1 (10):** abigail, DaBigBlackBoy, Doornbread, HostilePanda141, jordanleevan, Oyubook, seanduckman, Squattamelon, TalonIII, tiffaroni
 
-**S2 (14):** TheKevGuy, jackjamez, Stooof, MeadowMoos, dolphinfluff23, TheCaveman, aggarnir, Dadkub, tbonepolar, ottsboy, smeargle123, Archer_, numdegased, Jakekub
+**S2 (14):** aggarnir, Archer_, Dadkub, dolphinfluff23, jackjamez, Jakekub, MeadowMoos, numdegased, ottsboy, smeargle123, Stooof, tbonepolar, TheCaveman, TheKevGuy
 
 ---

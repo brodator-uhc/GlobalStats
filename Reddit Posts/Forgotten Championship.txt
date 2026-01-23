@@ -37,6 +37,17 @@
 ---
 ### Kills
 
+**1st - Kaddyn (4):** nug17 (S1), Mae_Kappa (S1), DogOfKrondor (S1), Forgot_N (S1)
+
+**2nd - ItsShqky (3):** Hamishhhh (S1), broccoliar (S1), TheSlimeBrother (S1)
+
+**2nd - TheSlimeBrother (3):** Mario_Man632 (S1), Kaddyn (S1), _FallenTurtle_ (S1)
+
+**4th - _FallenTurtle_ (1):** T1mT0m (S1)
+
+**4th - nug17 (1):** iSophes (S1)
+
+**4th - T1mT0m (1):** Julse (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +60,6 @@
 ---
 ### Debutants
 
-**S1 (14):** iSophes, nug17, Hamishhhh, Mae_Kappa, Julse, Mario_Man632, DogOfKrondor, T1mT0m, Forgot_N, broccoliar, Kaddyn, _FallenTurtle_, TheSlimeBrother, ItsShqky
+**S1 (14):** _FallenTurtle_, broccoliar, DogOfKrondor, Forgot_N, Hamishhhh, iSophes, ItsShqky, Julse, Kaddyn, Mae_Kappa, Mario_Man632, nug17, T1mT0m, TheSlimeBrother
 
 ---

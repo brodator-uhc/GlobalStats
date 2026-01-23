@@ -53,6 +53,69 @@
 ---
 ### Kills
 
+**1st - Brodator (7):** Greeples (S1), Charrlottie (S3), MaxEvasion (S4), Gorgerous (S4), FrostBros (S4), TastyBaconZ (S5), Arich (S5)
+
+**1st - MaxEvasion (7):** Sluggyg (S2), AdonisGaming (S2), strategy (S2), Potsie (S3), Sten_Stone (S3), ERHDude (S3), Potsie (S4)
+
+**1st - pigghetti (7):** Microus (S3), _Fost_ (S4), Ryfri (S4), Ryfri (S5), TheSheepMasters (S5), flameorb (S5), ColdBac (S5)
+
+**4th - CHAINGE (5):** Fourbitplayer (S2), kalleina (S3), nFang (S3), wizarde (S3), AdonisGaming (S3)
+
+**5th - _Fost_ (4):** Broseph (S2), TastyBaconZ (S3), CHAINGE (S3), 4EyedSlime (S3)
+
+**5th - Arich (4):** Microus (S2), MaxEvasion (S2), Cqson (S2), egl_ (S2)
+
+**5th - FrostBros (4):** frogsella (S1), Potsie (S1), pigghetti (S4), Greeples (S4)
+
+**5th - Potsie (4):** ShyGus (S1), Anorable (S1), TehBaconBrawlerZ (S3), MercuryParadox (S4)
+
+**9th - 4EyedSlime (3):** Dj8ninja (S3), Brodator (S3), _Fost_ (S3)
+
+**9th - WackoFlipper (3):** FrostBros (S5), Jordtim (S5), tagggz (S5)
+
+**11th - Cqson (2):** Potsie (S2), pigghetti (S3)
+
+**11th - egl_ (2):** wizarde (S2), _Fost_ (S2)
+
+**11th - Greeples (2):** InsertDotJpeg (S4), Stravilight (S4)
+
+**11th - InsertDotJpeg (2):** MaxEvasion (S3), aalaan (S3)
+
+**11th - Ryfri (2):** TehBaconBrawlerZ (S4), MercuryParadox (S5)
+
+**11th - strategy (2):** ToucanTom (S2), nFang (S2)
+
+**11th - Stravilight (2):** ToucanTom (S4), Microus (S4)
+
+**11th - tagggz (2):** Charrlottie (S5), ToucanTom (S5)
+
+**11th - TastyBaconZ (2):** swishduck (S5), ElGavinoSupremo (S5)
+
+**20th - Anorable (1):** TalonBX (S1)
+
+**20th - Broseph (1):** Plushy33 (S2)
+
+**20th - ColdBac (1):** Greeples (S5)
+
+**20th - ERHDude (1):** Codwhy (S3)
+
+**20th - flameorb (1):** _Fost_ (S5)
+
+**20th - Fourbitplayer (1):** InsertDotJpeg (S2)
+
+**20th - frogsella (1):** nFang (S1)
+
+**20th - JamestheDouglas (1):** ToucanTom (S1)
+
+**20th - nFang (1):** Regifloat (S1)
+
+**20th - Regifloat (1):** Sten_Stone (S1)
+
+**20th - Sten_Stone (1):** CHAINGE (S2)
+
+**20th - TehBaconBrawlerZ (1):** Cqson (S4)
+
+**20th - wizarde (1):** Cqson (S3)
 
 ---
 ### PvE Deaths
@@ -65,14 +128,14 @@
 ---
 ### Debutants
 
-**S1 (16):** ElGavinoSupremo, ShyGus, Sluggyg, Sten_Stone, Regifloat, nFang, frogsella, TalonBX, Greeples, ToucanTom, strategy, Anorable, Potsie, Brodator, FrostBros, JamestheDouglas
+**S1 (16):** Anorable, Brodator, ElGavinoSupremo, frogsella, FrostBros, Greeples, JamestheDouglas, nFang, Potsie, Regifloat, ShyGus, Sluggyg, Sten_Stone, strategy, TalonBX, ToucanTom
 
-**S2 (14):** SiahStone, InsertDotJpeg, Plushy33, wizarde, AdonisGaming, Microus, Fourbitplayer, CHAINGE, Broseph, MaxEvasion, _Fost_, Cqson, egl_, Arich
+**S2 (14):** _Fost_, AdonisGaming, Arich, Broseph, CHAINGE, Cqson, egl_, Fourbitplayer, InsertDotJpeg, MaxEvasion, Microus, Plushy33, SiahStone, wizarde
 
-**S3 (12):** Harryb2k, LordLaelaps, TehBaconBrawlerZ, TastyBaconZ, Codwhy, Charrlottie, ERHDude, Dj8ninja, kalleina, pigghetti, aalaan, 4EyedSlime
+**S3 (12):** 4EyedSlime, aalaan, Charrlottie, Codwhy, Dj8ninja, ERHDude, Harryb2k, kalleina, LordLaelaps, pigghetti, TastyBaconZ, TehBaconBrawlerZ
 
-**S4 (5):** Jahrod, MercuryParadox, Ryfri, Stravilight, Gorgerous
+**S4 (5):** Gorgerous, Jahrod, MercuryParadox, Ryfri, Stravilight
 
-**S5 (7):** swishduck, Jordtim, TheSheepMasters, flameorb, tagggz, ColdBac, WackoFlipper
+**S5 (7):** ColdBac, flameorb, Jordtim, swishduck, tagggz, TheSheepMasters, WackoFlipper
 
 ---

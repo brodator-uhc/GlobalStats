@@ -37,6 +37,9 @@
 ---
 ### Kills
 
+**1st - Flufayy (3):** Sluggyg (S1), FrostBros (S1), JamestheDouglas (S1)
+
+**2nd - FrostBros (1):** 3Dspoders (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +52,6 @@
 ---
 ### Debutants
 
-**S1 (14):** Fra49, MaxEvasion, Dj8ninja, LongaVita, ScottPirie, 6BU, dans1988, Anorable, Brodator, 3Dspoders, Sluggyg, FrostBros, JamestheDouglas, Flufayy
+**S1 (14):** 3Dspoders, 6BU, Anorable, Brodator, dans1988, Dj8ninja, Flufayy, Fra49, FrostBros, JamestheDouglas, LongaVita, MaxEvasion, ScottPirie, Sluggyg
 
 ---

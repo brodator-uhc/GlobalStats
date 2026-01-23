@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Chasmic (3):** Emerric (S1), DatGuyAdam (S1), tescobagforlife (S1)
+
+**2nd - awesomemacD (2):** WackoFlipper (S1), Psykl0ne (S1)
+
+**2nd - JamestheDouglas (2):** MajorWoof (S1), SummerBqsh (S1)
+
+**2nd - Randehh (2):** awesomemacD (S1), JamestheDouglas (S1)
+
+**2nd - tescobagforlife (2):** qam022 (S1), vynil (S1)
+
+**2nd - tilargo (2):** RwDragon (S1), Randehh (S1)
+
+**7th - MajorWoof (1):** ScottPirie (S1)
+
+**7th - Psykl0ne (1):** Yveltql (S1)
+
+**7th - vynil (1):** strategy (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (20):** CallumPace, strategy, WackoFlipper, Yveltql, Pelycosaur, Psykl0ne, RwDragon, Emerric, ScottPirie, MajorWoof, qam022, awesomemacD, SummerBqsh, DatGuyAdam, vynil, JamestheDouglas, Randehh, tescobagforlife, Chasmic, tilargo
+**S1 (20):** awesomemacD, CallumPace, Chasmic, DatGuyAdam, Emerric, JamestheDouglas, MajorWoof, Pelycosaur, Psykl0ne, qam022, Randehh, RwDragon, ScottPirie, strategy, SummerBqsh, tescobagforlife, tilargo, vynil, WackoFlipper, Yveltql
 
 ---

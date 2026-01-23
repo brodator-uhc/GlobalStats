@@ -49,6 +49,85 @@
 ---
 ### Kills
 
+**1st - carterwarterbear (10):** Psykl0ne (S1), broccoliar (S2), Lighte (S2), Cloversss (S2), benidk (S3), Dcrpy (S3), HalfLechuga (S3), painterwanabe (S3), SAYNAR (S3), _carn (S3)
+
+**2nd - benidk (8):** FroztiSnowman (S1), PupperKun (S1), Spongey (S1), grantfaker (S4), GodlySteal (S4), Gleoss (S4), LUCRODIUM (S4), tonylmao (S4)
+
+**2nd - PupperKun (8):** sgouche (S1), Fearx_ (S1), HalfLechuga (S1), GrassPiece (S1), kawaiibunri (S1), painterwanabe (S2), dahii (S2), carterwarterbear (S2)
+
+**4th - Cloversss (7):** CurdledDrip (S1), _carn (S1), wizarde (S1), DogOfKrondor (S2), SAYNAR (S2), sgouche (S2), nsket (S2)
+
+**4th - Fcrm (7):** DJoee (S1), Cloversss (S1), SAYNAR (S1), Ginzburg (S2), HUQTER (S3), FroztiSnowman (S4), Psykl0ne (S4)
+
+**6th - SAYNAR (6):** broccoliar (S1), CurdledDrip (S3), onstep (S3), ToeKun (S3), DumbThiccNick (S3), DJoee (S4)
+
+**7th - _carn (5):** kawaiibunri (S2), ethodog (S3), Brodator (S3), strategy (S3), broccoliar (S3)
+
+**7th - broccoliar (5):** ArcticSeagull (S3), Psykl0ne (S3), GodlySteal (S3), vynil (S3), Glarza (S3)
+
+**7th - dahii (5):** GodlySteal (S2), gartbak (S2), Spongey (S2), AvyleZ (S2), brinkwhy (S2)
+
+**7th - Gleoss (5):** CAMKART100 (S1), DEREKAST (S4), Seabasstian (S4), ClosedIT (S4), Fearx_ (S4)
+
+**7th - sgouche (5):** ArcticSeagull (S1), BuildingBard300 (S2), onstep (S2), SOAKLE (S2), benidk (S2)
+
+**12th - Glarza (4):** carterwarterbear (S1), onstep (S1), benidk (S1), onstep (S4)
+
+**12th - kawaiibunri (4):** Gleoss (S1), Brodator (S1), SpaceFenix (S1), _carn (S2)
+
+**12th - LUCRODIUM (4):** skyzfy (S4), sgouche (S4), SAYNAR (S4), GrassPiece (S4)
+
+**15th - Bornyo (3):** Fcrm (S1), Greeples (S1), Glarza (S1)
+
+**15th - CurdledDrip (3):** skyzfy (S3), applrei (S4), Fcrm (S4)
+
+**15th - Fearx_ (3):** kawaiibunri (S2), HUQTER (S4), SOAKLE (S4)
+
+**15th - GrassPiece (3):** Zoroh (S1), ethodog (S1), MercuryParadox (S1)
+
+**15th - Shu_MCSG (3):** skyzfy (S1), bayweafs (S1), Fearx_ (S2)
+
+**15th - strategy (3):** MercuryParadox (S3), Fcrm (S3), Bobbytheturtle (S3)
+
+**21st - Brodator (2):** PotatoPlayer_ (S1), Greeples (S2)
+
+**21st - Dcrpy (2):** BoltsInCharge (S3), Cloversss (S3)
+
+**21st - skyzfy (2):** _pbo (S2), Shu_MCSG (S2)
+
+**21st - Valnius (2):** alexnv (S4), CurdledDrip (S4)
+
+**21st - wizarde (2):** GodlySteal (S1), zCent (S1)
+
+**26th - applrei (1):** Cloversss (S4)
+
+**26th - AvyleZ (1):** CAMKART100 (S2)
+
+**26th - DEREKAST (1):** SpaceFenix (S4)
+
+**26th - DumbThiccNick (1):** Fearx_ (S3)
+
+**26th - FroztiSnowman (1):** zohhhh (S4)
+
+**26th - Ginzburg (1):** Fcrm (S2)
+
+**26th - Greeples (1):** Brodator (S2)
+
+**26th - nsket (1):** Kaismartypants (S2)
+
+**26th - PotatoPlayer_ (1):** vynil (S1)
+
+**26th - Psykl0ne (1):** Kaismartypants (S3)
+
+**26th - SOAKLE (1):** CurdledDrip (S2)
+
+**26th - SpaceFenix (1):** BuildingBard300 (S1)
+
+**26th - tonylmao (1):** Valnius (S4)
+
+**26th - vynil (1):** painterwanabe (S1)
+
+**26th - zCent (1):** dahii (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +140,12 @@
 ---
 ### Debutants
 
-**S1 (42):** skyzfy, ArcticSeagull, Psykl0ne, sgouche, CAMKART100, Zoroh, IdkKiller, BuildingBard300, ethodog, Gleoss, carterwarterbear, painterwanabe, vynil, dahii, GodlySteal, PotatoPlayer_, zCent, CurdledDrip, Brodator, DJoee, Fearx_, _carn, MercuryParadox, onstep, bayweafs, FroztiSnowman, wizarde, Cloversss, SpaceFenix, HalfLechuga, GrassPiece, broccoliar, kawaiibunri, PupperKun, Spongey, SAYNAR, benidk, Fcrm, Greeples, Glarza, Bornyo, Shu_MCSG
+**S1 (42):** _carn, ArcticSeagull, bayweafs, benidk, Bornyo, broccoliar, Brodator, BuildingBard300, CAMKART100, carterwarterbear, Cloversss, CurdledDrip, dahii, DJoee, ethodog, Fcrm, Fearx_, FroztiSnowman, Glarza, Gleoss, GodlySteal, GrassPiece, Greeples, HalfLechuga, IdkKiller, kawaiibunri, MercuryParadox, onstep, painterwanabe, PotatoPlayer_, Psykl0ne, PupperKun, SAYNAR, sgouche, Shu_MCSG, skyzfy, SpaceFenix, Spongey, vynil, wizarde, zCent, Zoroh
 
-**S2 (10):** gartbak, Ginzburg, Lighte, DogOfKrondor, Kaismartypants, AvyleZ, brinkwhy, SOAKLE, nsket, _pbo
+**S2 (10):** _pbo, AvyleZ, brinkwhy, DogOfKrondor, gartbak, Ginzburg, Kaismartypants, Lighte, nsket, SOAKLE
 
-**S3 (7):** BoltsInCharge, Dcrpy, HUQTER, ToeKun, Bobbytheturtle, strategy, DumbThiccNick
+**S3 (7):** Bobbytheturtle, BoltsInCharge, Dcrpy, DumbThiccNick, HUQTER, strategy, ToeKun
 
-**S4 (10):** DEREKAST, Seabasstian, ClosedIT, applrei, zohhhh, grantfaker, alexnv, Valnius, LUCRODIUM, tonylmao
+**S4 (10):** alexnv, applrei, ClosedIT, DEREKAST, grantfaker, LUCRODIUM, Seabasstian, tonylmao, Valnius, zohhhh
 
 ---

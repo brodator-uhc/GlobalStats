@@ -37,6 +37,33 @@
 ---
 ### Kills
 
+**1st - ShyGus (6):** gartbak (S1), vynil (S1), ScottPirie (S1), Anorable (S1), PhenomCloud (S1), silh (S1)
+
+**2nd - dahii (3):** Codwhy (S1), Flufayy (S1), smeargle123 (S1)
+
+**3rd - MajorWoof (2):** dahii (S1), Broseph (S1)
+
+**3rd - ScottPirie (2):** 6BU (S1), vishs (S1)
+
+**3rd - vishs (2):** Prisma (S1), nsket (S1)
+
+**6th - Broseph (1):** MajorWoof (S1)
+
+**6th - Codwhy (1):** aalaan (S1)
+
+**6th - Dj8ninja (1):** Potsie (S1)
+
+**6th - nsket (1):** Thimburrr (S1)
+
+**6th - nyaaia (1):** Fensua (S1)
+
+**6th - PhenomCloud (1):** Pelycosaur (S1)
+
+**6th - Potsie (1):** Dj8ninja (S1)
+
+**6th - Randehh (1):** Bacan (S1)
+
+**6th - silh (1):** Randehh (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +76,6 @@
 ---
 ### Debutants
 
-**S1 (30):** WackoFlipper, SiahStone, wibbol, Prisma, Thimburrr, aalaan, nsket, Codwhy, Flufayy, warriorcat, Bacan, Randehh, smeargle123, dahii, gartbak, 6BU, vishs, Broseph, MajorWoof, vynil, ScottPirie, Dj8ninja, Potsie, Pelycosaur, Anorable, Fensua, nyaaia, PhenomCloud, silh, ShyGus
+**S1 (30):** 6BU, aalaan, Anorable, Bacan, Broseph, Codwhy, dahii, Dj8ninja, Fensua, Flufayy, gartbak, MajorWoof, nsket, nyaaia, Pelycosaur, PhenomCloud, Potsie, Prisma, Randehh, ScottPirie, ShyGus, SiahStone, silh, smeargle123, Thimburrr, vishs, vynil, WackoFlipper, warriorcat, wibbol
 
 ---

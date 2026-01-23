@@ -37,6 +37,9 @@
 ---
 ### Kills
 
+**1st - Sten_Stone (2):** Flouzemaker (S1), JamestheDouglas (S1)
+
+**2nd - JamestheDouglas (1):** 3Dspoders (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +52,6 @@
 ---
 ### Debutants
 
-**S1 (5):** Pat_N, Flouzemaker, 3Dspoders, JamestheDouglas, Sten_Stone
+**S1 (5):** 3Dspoders, Flouzemaker, JamestheDouglas, Pat_N, Sten_Stone
 
 ---

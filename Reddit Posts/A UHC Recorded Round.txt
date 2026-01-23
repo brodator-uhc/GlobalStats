@@ -53,6 +53,47 @@
 ---
 ### Kills
 
+**1st - Jalapinecone (7):** jimmyjegs (S1), starlxghtmoon (S1), TehBaconBrawlerZ (S1), Greeples (S2), CommanderK22_ (S2), Ninetals38 (S2), starlxghtmoon (S3b)
+
+**2nd - CodeJoshua (6):** Buzzy_Bee_120 (S2), epicfries (S2), ShootingGoats (S3b), DogOfKrondor (S3b), ChainingVermin2 (S3b), CAMKART100 (S3b)
+
+**2nd - CommanderK22_ (6):** Emerric (S2), Xzeaulor (S2), CAMKART100 (S2), Rohcket (S3b), CodeJoshua (S3b), WinnerSkye (S3b)
+
+**4th - AirInAirOut (5):** Klobb (S2), DogOfKrondor (S2), Jalapinecone (S2), MarcC5M (S2), Flouzemaker (S2)
+
+**4th - fruitlogic (5):** DancersTalon (S1), starlxghtmoon (S2), jamertxn (S2), CommanderK22_ (S3b), Westcraft00 (S3b)
+
+**6th - Dragpot (4):** CommanderK22_ (S4), DogOfKrondor (S4), JDwb (S4), Westcraft00 (S4)
+
+**6th - Flouzemaker (4):** fruitlogic (S1), Ninjajaja (S1), Klickacat (S2), Dragpot (S4)
+
+**6th - Klobb (4):** ZenonX_ (S1), Nyxbee (S1), Flouzemaker (S1), Ninetals38 (S1)
+
+**6th - ShootingGoats (4):** Greeples (S3a), Rohcket (S3a), SilverShelby (S3b), fruitlogic (S4)
+
+**10th - jamertxn (3):** Westcraft00 (S2), Zevulpes (S2), TheSlimeBrother (S2)
+
+**10th - JDwb (3):** ShootingGoats (S4), NIKK1I (S4), FishToEscapeWife (S4)
+
+**10th - Rohcket (3):** Buzzy_Bee_120 (S3a), SilverShelby (S3a), starlxghtmoon (S3a)
+
+**13th - Brodator (2):** lasdarling (S4), starlxghtmoon (S4)
+
+**13th - Ninetals38 (2):** DogOfKrondor (S1), Bored_Banana (S2)
+
+**13th - TehBaconBrawlerZ (2):** Buzzy_Bee_120 (S1), CommanderK22_ (S1)
+
+**13th - TheSlimeBrother (2):** powermc (S4), cherryblawsom (S4)
+
+**17th - Buzzy_Bee_120 (1):** zoeywithawhy (S3a)
+
+**17th - Emerric (1):** DogOfKrondor (S3a)
+
+**17th - MarcC5M (1):** DancersTalon (S2)
+
+**17th - Ninjajaja (1):** sonmica (S1)
+
+**17th - SilverShelby (1):** Emerric (S3a)
 
 ---
 ### PvE Deaths
@@ -65,14 +106,14 @@
 ---
 ### Debutants
 
-**S1 (18):** CAMKART100, TheSlimeBrother, DogOfKrondor, ZenonX_, DancersTalon, sonmica, jimmyjegs, starlxghtmoon, Buzzy_Bee_120, CommanderK22_, fruitlogic, Ninjajaja, TehBaconBrawlerZ, Nyxbee, Flouzemaker, Ninetals38, Jalapinecone, Klobb
+**S1 (18):** Buzzy_Bee_120, CAMKART100, CommanderK22_, DancersTalon, DogOfKrondor, Flouzemaker, fruitlogic, Jalapinecone, jimmyjegs, Klobb, Ninetals38, Ninjajaja, Nyxbee, sonmica, starlxghtmoon, TehBaconBrawlerZ, TheSlimeBrother, ZenonX_
 
-**S2 (12):** Greeples, epicfries, CodeJoshua, Emerric, Xzeaulor, Westcraft00, Bored_Banana, Zevulpes, Klickacat, jamertxn, MarcC5M, AirInAirOut
+**S2 (12):** AirInAirOut, Bored_Banana, CodeJoshua, Emerric, epicfries, Greeples, jamertxn, Klickacat, MarcC5M, Westcraft00, Xzeaulor, Zevulpes
 
-**S3a (5):** ElGavinoSupremo, zoeywithawhy, SilverShelby, Rohcket, ShootingGoats
+**S3a (5):** ElGavinoSupremo, Rohcket, ShootingGoats, SilverShelby, zoeywithawhy
 
 **S3b (3):** ChainingVermin2, Haroun_, WinnerSkye
 
-**S4 (8):** lasdarling, NIKK1I, FishToEscapeWife, JDwb, powermc, cherryblawsom, Dragpot, Brodator
+**S4 (8):** Brodator, cherryblawsom, Dragpot, FishToEscapeWife, JDwb, lasdarling, NIKK1I, powermc
 
 ---

@@ -41,6 +41,45 @@
 ---
 ### Kills
 
+**1st - Pelycosaur (5):** KennyTee (S1), _1mmortal_ (S1), kawaiibunri (S1), CodeJoshua (S1), Bulbexe (S1)
+
+**2nd - lazys (4):** TacoDab (S2), TheSlimeBrother (S2), winterf (S2), OhMatias (S2)
+
+**3rd - _1mmortal_ (2):** ArcticSeagull (S1), kawaiibunri (S2)
+
+**3rd - ArcticSeagull (2):** Mafiat (S1), TheSlimeBrother (S1)
+
+**3rd - broccoliar (2):** Stravilight (S1), zeesue (S1)
+
+**3rd - Forgot_N (2):** Charrlottie (S1), Pelycosaur (S1)
+
+**3rd - kawaiibunri (2):** iSophes (S1), Captinn (S1)
+
+**3rd - natsuvi (2):** AshRiolu100985 (S2), sgouche (S2)
+
+**3rd - OhMatias (2):** TehBaconBrawlerZ (S2), lazys (S2)
+
+**3rd - poWpaH (2):** Hrray (S2), Charrlottie (S2)
+
+**3rd - Stravilight (2):** Kaddyn (S1), ArcticSeagull (S2)
+
+**3rd - TacoDab (2):** 4EyedSlime (S2), Stravilight (S2)
+
+**3rd - TheSlimeBrother (2):** poWpaH (S2), _1mmortal_ (S2)
+
+**3rd - winterf (2):** HalfLechuga (S2), Evzenitable (S2)
+
+**15th - Bulbexe (1):** MangoPlayz (S1)
+
+**15th - CodeJoshua (1):** Dcrpy (S1)
+
+**15th - Kaddyn (1):** Julse (S1)
+
+**15th - sgouche (1):** natsuvi (S2)
+
+**15th - TehBaconBrawlerZ (1):** Forgot_N (S2)
+
+**15th - zeesue (1):** ToeKun (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +92,8 @@
 ---
 ### Debutants
 
-**S1 (21):** Julse, Dcrpy, KennyTee, Mafiat, Kaddyn, Stravilight, TheSlimeBrother, ArcticSeagull, _1mmortal_, ToeKun, zeesue, MangoPlayz, iSophes, Captinn, kawaiibunri, CodeJoshua, Bulbexe, Charrlottie, Pelycosaur, broccoliar, Forgot_N
+**S1 (21):** _1mmortal_, ArcticSeagull, broccoliar, Bulbexe, Captinn, Charrlottie, CodeJoshua, Dcrpy, Forgot_N, iSophes, Julse, Kaddyn, kawaiibunri, KennyTee, Mafiat, MangoPlayz, Pelycosaur, Stravilight, TheSlimeBrother, ToeKun, zeesue
 
-**S2 (13):** AshRiolu100985, sgouche, natsuvi, Hrray, HalfLechuga, 4EyedSlime, Evzenitable, TehBaconBrawlerZ, poWpaH, TacoDab, winterf, lazys, OhMatias
+**S2 (13):** 4EyedSlime, AshRiolu100985, Evzenitable, HalfLechuga, Hrray, lazys, natsuvi, OhMatias, poWpaH, sgouche, TacoDab, TehBaconBrawlerZ, winterf
 
 ---

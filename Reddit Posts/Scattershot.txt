@@ -57,6 +57,97 @@
 ---
 ### Kills
 
+**1st - Fcrm (19):** Pelycosaur (S2), Vetmire (S2), CHAINGE (S2), CanadianWafflez (S2), CipherKai (S2), JaydenFrBruh (S2), Kolportiroas (S2), nFang (S2), Axeslayer (S2), Kaismartypants (S2), Stravilight (S4), kirbey (S4), CipherKai (S4), kirkomode (S4), poWpaH (S4), Lsnce (S4), St0rmplayz (S5), _Fost_ (S5), Zebobo10 (S5)
+
+**2nd - brinkwhy (7):** Kaismartypants (S1), Pelycosaur (S1), FluffyAri (S1), Captinn (S3), Lsnce (S3), BreakfastBacon (S4), JGSPanda (S5)
+
+**3rd - CipherKai (6):** JoshC2 (S4), Evzenitable (S4), ArcticSeagull (S4), Captinn (S4), JahMuis (S4), ConBeanJones (S4)
+
+**3rd - MaxEvasion (6):** JoshC2 (S3), coldified (S3), bevey (S3), BigJedo (S3), Kaismartypants (S5), brinkwhy (S5)
+
+**5th - Captinn (5):** Timmyxo_ (S4), FluffyAri (S4), Stravilight (S5), MangoPlayz (S5), Fcrm (S5)
+
+**5th - Lsnce (5):** kirkomode (S3), Sadwics (S3), Axeslayer (S3), ObsidianFractal (S3), emi1iano (S4)
+
+**7th - Axeslayer (4):** AdonisGaming (S1), Pandie674 (S2), vDyre (S2), jjsteeples (S3)
+
+**7th - JaydenFrBruh (4):** Plushy33 (S2), Pelycosaur (S4), 4EyedSlime (S4), Kaismartypants (S4)
+
+**7th - Kaismartypants (4):** Plushy33 (S1), Axeslayer (S1), OddishThoughts (S2), gmann (S6)
+
+**7th - omchris (4):** Bornyo (S6), NerdThatsAGeek (S6), RadicalRat47 (S6), ModernPine (S6)
+
+**11th - Enroh (3):** vDyre (S1), brinkwhy (S1), DatGuyAdam (S1)
+
+**11th - Glarza (3):** Axeslayer (S4), TayUHC (S4), TehBaconBrawlerZ (S4)
+
+**11th - kirkomode (3):** JGSPanda (S2), Andronify (S2), hashtagmat (S3)
+
+**11th - Vetmire (3):** _Fost_ (S2), HeroGolem5 (S6), Caligators (S6)
+
+**15th - Astele (2):** JoshC2 (S1), Cristehn (S1)
+
+**15th - Brodator (2):** _Fost_ (S6), SmokedPiggy (S6)
+
+**15th - DatGuyAdam (2):** Astele (S1), Kriannah (S1)
+
+**15th - DevoyTTV (2):** azoof (S6), Dj8ninja (S6)
+
+**15th - ItzIgglesPiggles (2):** OddishThoughts (S3), Kolportiroas (S3)
+
+**15th - Kaddyn (2):** Codwhy (S6), kawaiibunri (S6)
+
+**15th - poWpaH (2):** deanomode (S4), dylxnd (S4)
+
+**15th - St0rmplayz (2):** Flcnt (S5), MaxEvasion (S5)
+
+**15th - TayUHC (2):** jjsteeples (S4), JaydenFrBruh (S4)
+
+**24th - Andronify (1):** Fcrm (S2)
+
+**24th - ArcticSeagull (1):** Kolportiroas (S4)
+
+**24th - Blarkslol (1):** vDyre (S5)
+
+**24th - broccoliar (1):** CanadianWafflez (S5)
+
+**24th - Codwhy (1):** gsjan (S6)
+
+**24th - ConBeanJones (1):** broccoliar (S4)
+
+**24th - Cristehn (1):** natsuvi (S1)
+
+**24th - Dj8ninja (1):** TheSlimeBrother (S6)
+
+**24th - dylxnd (1):** brinkwhy (S4)
+
+**24th - emi1iano (1):** vDyre (S4)
+
+**24th - FearThrows (1):** Krimm (S4)
+
+**24th - FluffyAri (1):** Krimm (S1)
+
+**24th - JoshC2 (1):** AdonisGaming (S4)
+
+**24th - kawaiibunri (1):** broccoliar (S6)
+
+**24th - Krimm (1):** BanMoon (S4)
+
+**24th - MangoPlayz (1):** JoshC2 (S5)
+
+**24th - OddishThoughts (1):** FearThrows (S3)
+
+**24th - Pandie674 (1):** egl_ (S2)
+
+**24th - RadicalRat47 (1):** FluffyAri (S6)
+
+**24th - Sadwics (1):** broccoliar (S5)
+
+**24th - Stravilight (1):** ArcticSeagull (S5)
+
+**24th - Zebobo10 (1):** Krimm (S5)
+
+**24th - zeesue (1):** StevenSharp (S6)
 
 ---
 ### PvE Deaths
@@ -69,16 +160,16 @@
 ---
 ### Debutants
 
-**S1 (18):** Millkieway, AdonisGaming, natsuvi, JoshC2, Plushy33, Axeslayer, Cristehn, Astele, Kaismartypants, vDyre, Kriannah, Pelycosaur, Krimm, FluffyAri, brinkwhy, DatGuyAdam, Enroh, lilygant
+**S1 (18):** AdonisGaming, Astele, Axeslayer, brinkwhy, Cristehn, DatGuyAdam, Enroh, FluffyAri, JoshC2, Kaismartypants, Kriannah, Krimm, lilygant, Millkieway, natsuvi, Pelycosaur, Plushy33, vDyre
 
-**S2 (15):** _Fost_, Vetmire, CHAINGE, CanadianWafflez, CipherKai, JaydenFrBruh, Kolportiroas, nFang, egl_, Pandie674, OddishThoughts, JGSPanda, Fcrm, Andronify, kirkomode
+**S2 (15):** _Fost_, Andronify, CanadianWafflez, CHAINGE, CipherKai, egl_, Fcrm, JaydenFrBruh, JGSPanda, kirkomode, Kolportiroas, nFang, OddishThoughts, Pandie674, Vetmire
 
-**S3 (14):** SlowATSV, SSGSS4Goku, jjsteeples, FearThrows, coldified, hashtagmat, Sadwics, bevey, ObsidianFractal, BigJedo, Captinn, Lsnce, MaxEvasion, ItzIgglesPiggles
+**S3 (14):** bevey, BigJedo, Captinn, coldified, FearThrows, hashtagmat, ItzIgglesPiggles, jjsteeples, Lsnce, MaxEvasion, ObsidianFractal, Sadwics, SlowATSV, SSGSS4Goku
 
-**S4 (21):** BanMoon, Stravilight, Timmyxo_, 4EyedSlime, YellowAuraa, BreakfastBacon, deanomode, broccoliar, Evzenitable, Corho, ArcticSeagull, kirbey, emi1iano, JahMuis, ConBeanJones, TayUHC, TehBaconBrawlerZ, dylxnd, Blarkslol, poWpaH, Glarza
+**S4 (21):** 4EyedSlime, ArcticSeagull, BanMoon, Blarkslol, BreakfastBacon, broccoliar, ConBeanJones, Corho, deanomode, dylxnd, emi1iano, Evzenitable, Glarza, JahMuis, kirbey, poWpaH, Stravilight, TayUHC, TehBaconBrawlerZ, Timmyxo_, YellowAuraa
 
-**S5 (4):** Flcnt, St0rmplayz, Zebobo10, MangoPlayz
+**S5 (4):** Flcnt, MangoPlayz, St0rmplayz, Zebobo10
 
-**S6 (31):** gsjan, StevenSharp, HeroGolem5, Bornyo, TheSlimeBrother, AshRiolu100985, Codwhy, azoof, gmann, Dj8ninja, kawaiibunri, NerdThatsAGeek, RadicalRat47, ModernPine, SmokedPiggy, Caligators, CommanderK22_, DevoyTTV, GoldenNs, AHSOKATANOSTAN, omchris, wizarde, Brodator, Kingko24, Renais, Supersun_, Kaddyn, _1mmortal_, Spongey, TheRealHagrid, zeesue
+**S6 (31):** _1mmortal_, AHSOKATANOSTAN, AshRiolu100985, azoof, Bornyo, Brodator, Caligators, Codwhy, CommanderK22_, DevoyTTV, Dj8ninja, gmann, GoldenNs, gsjan, HeroGolem5, Kaddyn, kawaiibunri, Kingko24, ModernPine, NerdThatsAGeek, omchris, RadicalRat47, Renais, SmokedPiggy, Spongey, StevenSharp, Supersun_, TheRealHagrid, TheSlimeBrother, wizarde, zeesue
 
 ---

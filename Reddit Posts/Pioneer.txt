@@ -41,6 +41,31 @@
 ---
 ### Kills
 
+**1st - Canman (5):** Spacepod_ (S1), crazy_monkey7531 (S1), Dj8ninja (S1), Jayzize (S1), PLENT (S1)
+
+**2nd - BardMain2 (4):** Broseph (S2), Professer_TNT (S2), IzunaLoli (S2), Regifloat (S2)
+
+**3rd - clodhopper24 (3):** IzunaLoli (S1), Xeatle (S1), SiahStone (S1)
+
+**4th - Dj8ninja (1):** IceshardEleven (S1)
+
+**4th - honestlyhunter (1):** IceshardEleven (S2)
+
+**4th - IceshardEleven (1):** WillBrisk (S1)
+
+**4th - Jayzize (1):** honestlyhunter (S2)
+
+**4th - Lucityy (1):** NajaOxiana (S2)
+
+**4th - MrLazeo101 (1):** Bluests (S2)
+
+**4th - Professer_TNT (1):** Lucityy (S2)
+
+**4th - Regifloat (1):** MrLazeo101 (S2)
+
+**4th - Starflash (1):** Dj8ninja (S2)
+
+**4th - WillBrisk (1):** MrLazeo101 (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +78,8 @@
 ---
 ### Debutants
 
-**S1 (15):** Lucityy, ChainingVermin2, IzunaLoli, Spacepod_, MrLazeo101, WillBrisk, Xeatle, crazy_monkey7531, IceshardEleven, Dj8ninja, SiahStone, Jayzize, PLENT, Canman, clodhopper24
+**S1 (15):** Canman, ChainingVermin2, clodhopper24, crazy_monkey7531, Dj8ninja, IceshardEleven, IzunaLoli, Jayzize, Lucityy, MrLazeo101, PLENT, SiahStone, Spacepod_, WillBrisk, Xeatle
 
-**S2 (9):** TPolls, honestlyhunter, Broseph, Starflash, NajaOxiana, Bluests, Professer_TNT, Regifloat, BardMain2
+**S2 (9):** BardMain2, Bluests, Broseph, honestlyhunter, NajaOxiana, Professer_TNT, Regifloat, Starflash, TPolls
 
 ---

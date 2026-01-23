@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Dark_rust (7):** Gillieeeee (S1), Incipiens (S1), BurningT (S1), Fairyjuice (S1), Krenzinator (S1), dans1988 (S1), Fawful55 (S1)
+
+**2nd - Shortgamer (6):** Etticey (S1), Dida (S1), Flouzemaker (S1), Mjora (S1), _shadowapples (S1), Dark_rust (S1)
+
+**3rd - oworca (4):** Maddognils (S1), Eluniel (S1), CedGhoss (S1), Shortgamer (S1)
+
+**4th - CedGhoss (2):** bytexal (S1), Mathyy (S1)
+
+**4th - Mathyy (2):** WintherMaw (S1), CMattznes (S1)
+
+**6th - Eluniel (1):** Sneegsnag (S1)
+
+**6th - Fairyjuice (1):** Edviin_ (S1)
+
+**6th - Maddognils (1):** Crazy3210 (S1)
+
+**6th - Sneegsnag (1):** AndrizzlePC (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (28):** Gillieeeee, Etticey, rippersteveM5, Dida, Flouzemaker, Mjora, Incipiens, BurningT, Edviin_, Fairyjuice, WintherMaw, Krenzinator, dans1988, bytexal, AndrizzlePC, Fawful55, CMattznes, Crazy3210, GlitchyRainbow, Sneegsnag, _shadowapples, Maddognils, Dark_rust, Mathyy, Eluniel, CedGhoss, Shortgamer, oworca
+**S1 (28):** _shadowapples, AndrizzlePC, BurningT, bytexal, CedGhoss, CMattznes, Crazy3210, dans1988, Dark_rust, Dida, Edviin_, Eluniel, Etticey, Fairyjuice, Fawful55, Flouzemaker, Gillieeeee, GlitchyRainbow, Incipiens, Krenzinator, Maddognils, Mathyy, Mjora, oworca, rippersteveM5, Shortgamer, Sneegsnag, WintherMaw
 
 ---

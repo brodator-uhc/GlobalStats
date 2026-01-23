@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Fcrm (6):** Evzenitable (S1), coldified (S1), Caffeindiazepine (S1), Zcin (S1), Pelycosaur (S1), Blarkslol (S1)
+
+**2nd - Blarkslol (3):** JamestheDouglas (S1), Fourbitplayer (S1), Cubic44 (S1)
+
+**2nd - Cubic44 (3):** OnlyCosmia (S1), Vetmire (S1), OddishThoughts (S1)
+
+**2nd - OddishThoughts (3):** broccoliar (S1), Abdalain (S1), _Fost_ (S1)
+
+**2nd - Pelycosaur (3):** egl_ (S1), JaqOnCraq (S1), NickPlaysGames15 (S1)
+
+**6th - NickPlaysGames15 (2):** Rebelghost (S1), DevoyTTV (S1)
+
+**7th - broccoliar (1):** Plushy33 (S1)
+
+**7th - OnlyCosmia (1):** Bofishkix (S1)
+
+**7th - Zcin (1):** MaxEvasion (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (27):** Markedbooboy, Bofishkix, Rebelghost, Klanke, DevoyTTV, SummerBqsh, OnlyCosmia, MaxEvasion, egl_, JaqOnCraq, Plushy33, Evzenitable, broccoliar, JamestheDouglas, Fourbitplayer, coldified, NickPlaysGames15, Abdalain, Vetmire, _Fost_, OddishThoughts, Caffeindiazepine, Cubic44, Zcin, Pelycosaur, Blarkslol, Fcrm
+**S1 (27):** _Fost_, Abdalain, Blarkslol, Bofishkix, broccoliar, Caffeindiazepine, coldified, Cubic44, DevoyTTV, egl_, Evzenitable, Fcrm, Fourbitplayer, JamestheDouglas, JaqOnCraq, Klanke, Markedbooboy, MaxEvasion, NickPlaysGames15, OddishThoughts, OnlyCosmia, Pelycosaur, Plushy33, Rebelghost, SummerBqsh, Vetmire, Zcin
 
 ---

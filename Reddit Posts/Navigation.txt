@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - Big_Z60 (10):** patriotsfan75 (S1), Cyclops (S1), tilargo (S1), cherryblawsom (S1), Dj8ninja (S1), AmbientDan (S1), Professer_TNT (S1), blazerr (S2), IceshardEleven (S2), WillBrisk (S2)
+
+**2nd - Pwep (5):** AmbientDan (S2), Davidsid (S2), SmolHatChild (S2), Chessa (S2), cherryblawsom (S2)
+
+**3rd - AmbientDan (3):** Likean00b (S1), SpaceFenix (S2), MrLazeo101 (S2)
+
+**4th - cherryblawsom (2):** SiahStone (S2), Ryfri (S2)
+
+**4th - Chessa (2):** IrishYogaLP (S2), pigghetti (S2)
+
+**4th - Davidsid (2):** BBR_ (S2), Broseph (S2)
+
+**4th - pigghetti (2):** CapSTVN (S2), MaxEvasion (S2)
+
+**4th - Ryfri (2):** frogsella (S2), Kaismartypants (S2)
+
+**4th - tilargo (2):** CapSTVN (S1), Davidsid (S1)
+
+**10th - Cyclops (1):** Austronomical (S1)
+
+**10th - GoldenNs (1):** SmolHatChild (S1)
+
+**10th - Kaismartypants (1):** Vince_M (S2)
+
+**10th - Likean00b (1):** IceshardEleven (S1)
+
+**10th - MaxEvasion (1):** Professer_TNT (S2)
+
+**10th - SiahStone (1):** Big_Z60 (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (20):** cynnamon, Kaismartypants, Austronomical, SmolHatChild, CapSTVN, Davidsid, patriotsfan75, Cyclops, MrLazeo101, IceshardEleven, Pwep, Likean00b, tilargo, GoldenNs, WillBrisk, cherryblawsom, Dj8ninja, AmbientDan, Professer_TNT, Big_Z60
+**S1 (20):** AmbientDan, Austronomical, Big_Z60, CapSTVN, cherryblawsom, Cyclops, cynnamon, Davidsid, Dj8ninja, GoldenNs, IceshardEleven, Kaismartypants, Likean00b, MrLazeo101, patriotsfan75, Professer_TNT, Pwep, SmolHatChild, tilargo, WillBrisk
 
-**S2 (12):** SpaceFenix, blazerr, Vince_M, BBR_, IrishYogaLP, MaxEvasion, SiahStone, pigghetti, Broseph, frogsella, Ryfri, Chessa
+**S2 (12):** BBR_, blazerr, Broseph, Chessa, frogsella, IrishYogaLP, MaxEvasion, pigghetti, Ryfri, SiahStone, SpaceFenix, Vince_M
 
 ---

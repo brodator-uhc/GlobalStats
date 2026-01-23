@@ -45,6 +45,67 @@
 ---
 ### Kills
 
+**1st - Jinko42 (7):** Leftu (S1), Micale (S2), OblivionTU (S2), LightningS7 (S2), whoshaze (S2), dontbow (S2), Kelawesome (S3)
+
+**2nd - Cyndic (6):** Tootikins (S1), DeluxeSniper (S1), Gps02 (S1), vishs (S1), HUNTERKUN (S1), dontbow (S1)
+
+**2nd - Kelawesome (6):** Cyndic (S2), PauloSSB (S2), flameh (S2), ItsColinn (S2), T0n35 (S2), SmooveManeuver (S2)
+
+**4th - checog (4):** HUNTERKUN (S3), DKPMatt (S3), Jinko42 (S3), xMisha (S3)
+
+**4th - fruitberries (4):** Apex_Twinkie (S3), Micale (S3), Hacn35 (S3), checog (S3)
+
+**6th - _Glen (3):** 5kylord (S1), Spacepod_ (S1), Zcka (S1)
+
+**6th - ColdBac (3):** LightningS7 (S1), _Glen (S1), PLENT (S1)
+
+**6th - DKPMatt (3):** PIGG_LET (S3), Coward (S3), PhenomCloud (S3)
+
+**6th - Phoraxe (3):** vishs (S2), Gps02 (S2), brodioh (S2)
+
+**6th - PLENT (3):** PIGG_LET (S1), Gabey (S1), PIGG_LET (S2)
+
+**6th - Purpdan (3):** Coward (S2), oworca (S2), Kelawesome (S2)
+
+**6th - vishs (3):** Phoraxe (S1), Leftu (S2), Austronomical (S2)
+
+**13th - Apex_Twinkie (2):** Kelawesome (S1), NotMyLights (S2)
+
+**13th - dontbow (2):** dragonpasa (S1), spoood (S2)
+
+**13th - Leftu (2):** T0n35 (S1), PLENT (S2)
+
+**13th - LightningS7 (2):** PhenomCloud (S2), xhockey (S2)
+
+**13th - whoshaze (2):** 5kylord (S2), Phoraxe (S2)
+
+**13th - xMisha (2):** CedGhoss (S3), spoood (S3)
+
+**13th - Zcka (2):** JustNolan (S1), Hacn35 (S1)
+
+**20th - Austronomical (1):** Jinko42 (S1)
+
+**20th - Coward (1):** ItsColinn (S3)
+
+**20th - flameh (1):** DKPMatt (S2)
+
+**20th - Gabey (1):** WALRUS_TIME (S1)
+
+**20th - Gps02 (1):** Hacn35 (S2)
+
+**20th - Hacn35 (1):** Apex_Twinkie (S1)
+
+**20th - HUNTERKUN (1):** oworca (S1)
+
+**20th - ItsColinn (1):** xShatter (S2)
+
+**20th - JustNolan (1):** Andrew512 (S1)
+
+**20th - Micale (1):** AvaCos (S2)
+
+**20th - T0n35 (1):** PhenomCloud (S1)
+
+**20th - xShatter (1):** Apex_Twinkie (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +118,10 @@
 ---
 ### Debutants
 
-**S1 (30):** PhenomCloud, T0n35, Andrew512, JustNolan, Kelawesome, Apex_Twinkie, WALRUS_TIME, Leftu, 5kylord, PIGG_LET, Spacepod_, Tootikins, Phoraxe, oworca, DeluxeSniper, dragonpasa, LightningS7, Gps02, vishs, Gabey, Hacn35, HUNTERKUN, dontbow, Zcka, Jinko42, _Glen, PLENT, Austronomical, ColdBac, Cyndic
+**S1 (30):** _Glen, 5kylord, Andrew512, Apex_Twinkie, Austronomical, ColdBac, Cyndic, DeluxeSniper, dontbow, dragonpasa, Gabey, Gps02, Hacn35, HUNTERKUN, Jinko42, JustNolan, Kelawesome, Leftu, LightningS7, oworca, PhenomCloud, Phoraxe, PIGG_LET, PLENT, Spacepod_, T0n35, Tootikins, vishs, WALRUS_TIME, Zcka
 
-**S2 (16):** PauloSSB, DKPMatt, flameh, NotMyLights, xShatter, ItsColinn, SmooveManeuver, spoood, Coward, brodioh, AvaCos, Micale, OblivionTU, xhockey, whoshaze, Purpdan
+**S2 (16):** AvaCos, brodioh, Coward, DKPMatt, flameh, ItsColinn, Micale, NotMyLights, OblivionTU, PauloSSB, Purpdan, SmooveManeuver, spoood, whoshaze, xhockey, xShatter
 
-**S3 (5):** dahii, CedGhoss, xMisha, checog, fruitberries
+**S3 (5):** CedGhoss, checog, dahii, fruitberries, xMisha
 
 ---

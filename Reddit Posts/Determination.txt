@@ -41,6 +41,25 @@
 ---
 ### Kills
 
+**1st - AvaCos (6):** Frostbreath (S1), TommySuX (S1), QuilJ1 (S1), Fukano (S1), MarcC5M (S2), jamertxn (S2)
+
+**2nd - Fukano (5):** bytexal (S1), LordLaelaps (S1), Flouzemaker (S1), slowpr0 (S1), sirples (S2)
+
+**3rd - MarcC5M (4):** BushieHalf (S1), Kakintse (S2), VeniiiD (S2), LongaVita (S2)
+
+**3rd - slowpr0 (4):** Emerric (S1), WintherMaw (S1), Chasmic (S1), OddBaller (S1)
+
+**5th - Regifloat (3):** Chasmic (S2), Ricardo_A (S2), TommySuX (S2)
+
+**6th - Chasmic (2):** Sneegsnag (S1), MarcC5M (S1)
+
+**6th - TommySuX (2):** sirples (S1), BurningT (S1)
+
+**8th - DjTalica (1):** Regifloat (S2)
+
+**8th - Flouzemaker (1):** SidGarcia (S1)
+
+**8th - Ricardo_A (1):** BBR_ (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +72,8 @@
 ---
 ### Debutants
 
-**S1 (20):** BushieHalf, Sneegsnag, sirples, MarcC5M, Emerric, Frostbreath, WintherMaw, Chasmic, LongaVita, BurningT, TommySuX, QuilJ1, bytexal, LordLaelaps, OddBaller, SidGarcia, Flouzemaker, slowpr0, Fukano, AvaCos
+**S1 (20):** AvaCos, BurningT, BushieHalf, bytexal, Chasmic, Emerric, Flouzemaker, Frostbreath, Fukano, LongaVita, LordLaelaps, MarcC5M, OddBaller, QuilJ1, SidGarcia, sirples, slowpr0, Sneegsnag, TommySuX, WintherMaw
 
-**S2 (11):** C_money, BBR_, Maxwellfifty, Kakintse, DeRockProject, Bergasms, Ricardo_A, VeniiiD, jamertxn, Regifloat, DjTalica
+**S2 (11):** BBR_, Bergasms, C_money, DeRockProject, DjTalica, jamertxn, Kakintse, Maxwellfifty, Regifloat, Ricardo_A, VeniiiD
 
 ---

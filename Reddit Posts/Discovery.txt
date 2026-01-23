@@ -49,6 +49,43 @@
 ---
 ### Kills
 
+**1st - Jep (11):** bigfoot_ (S3), BlewXwReid (S3), Frostbreath (S3), CallumPace (S3), FazedMC (S4), RwDragon (S4), _Bogo (S4), LimitDTW (S4), BlewXwReid (S4), TheRealJJBall (S4), TheSonicJoey (S4)
+
+**2nd - FazedMC (7):** BlewXwReid (S1), Frostbreath (S1), Farmertom (S2), GRLH (S2), MBeaar (S2), _Bogo (S2), _JJL (S2)
+
+**3rd - LimitDTW (6):** TheRCPanda (S1), Skymeagle (S1), _JJL (S1), Cryptic (S3), lottebunny (S4), HoneyFromHell (S4)
+
+**4th - dosh596 (5):** Odennn (S1), xPhinehas (S1), DaPenguin19 (S1), FazedMC (S1), LimitDTW (S1)
+
+**4th - Frostbreath (5):** Glock_ (S1), poempedoempoex (S1), Odennn (S2), RwDragon (S3), GRLH (S4)
+
+**6th - CallumPace (4):** DaPenguin19 (S3), lottebunny (S3), GRLH (S3), FazedMC (S3)
+
+**6th - GRLH (4):** DaPenguin19 (S2), Infiniti_x (S2), SnakeMedia (S3), Odennn (S4)
+
+**6th - MBeaar (4):** Frostbreath (S2), Infiniti_x (S3), oDogLFC (S3), KaBoom (S3)
+
+**9th - _Bogo (3):** Incipiens (S2), Frostbreath (S4), poempedoempoex (S4)
+
+**9th - Glock_ (3):** BlueHybrid (S1), numdegased (S1), _Bogo (S1)
+
+**9th - TheSonicJoey (3):** FazedMC (S2), Yveltql (S4), oDogLFC (S4)
+
+**12th - Incipiens (2):** dosh596 (S2), SnakeMedia (S2)
+
+**12th - xPhinehas (2):** TheSonicJoey (S2), GeeSam (S4)
+
+**14th - bigfoot_ (1):** LimitDTW (S3)
+
+**14th - Farmertom (1):** LimitDTW (S2)
+
+**14th - KaBoom (1):** Yveltql (S3)
+
+**14th - Odennn (1):** Infiniti_x (S1)
+
+**14th - oDogLFC (1):** xPhinehas (S4)
+
+**14th - poempedoempoex (1):** TheBestOtaku (S1)
 
 ---
 ### PvE Deaths
@@ -61,11 +98,11 @@
 ---
 ### Debutants
 
-**S1 (18):** Infiniti_x, BlueHybrid, numdegased, _Bogo, TheBestOtaku, Odennn, Glock_, poempedoempoex, TheRCPanda, Skymeagle, BlewXwReid, xPhinehas, Frostbreath, DaPenguin19, FazedMC, _JJL, LimitDTW, dosh596
+**S1 (18):** _Bogo, _JJL, BlewXwReid, BlueHybrid, DaPenguin19, dosh596, FazedMC, Frostbreath, Glock_, Infiniti_x, LimitDTW, numdegased, Odennn, poempedoempoex, Skymeagle, TheBestOtaku, TheRCPanda, xPhinehas
 
-**S2 (6):** SnakeMedia, Farmertom, GRLH, MBeaar, Incipiens, TheSonicJoey
+**S2 (6):** Farmertom, GRLH, Incipiens, MBeaar, SnakeMedia, TheSonicJoey
 
-**S3 (11):** TheRealJJBall, BJPlays, RwDragon, Cryptic, bigfoot_, Yveltql, lottebunny, oDogLFC, KaBoom, CallumPace, Jep
+**S3 (11):** bigfoot_, BJPlays, CallumPace, Cryptic, Jep, KaBoom, lottebunny, oDogLFC, RwDragon, TheRealJJBall, Yveltql
 
 **S4 (2):** GeeSam, HoneyFromHell
 

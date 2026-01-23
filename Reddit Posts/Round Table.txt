@@ -37,6 +37,67 @@
 ---
 ### Kills
 
+**1st - CipherKai (5):** Fearx_ (S1), JaeHasNoMaidens (S1), Supersun_ (S1), Ullti (S1), St0rmplayz (S1)
+
+**2nd - Fcrm (4):** SteelStaff (S1), brinkwhy (S1), cherryblawsom (S1), ColdBac (S1)
+
+**2nd - HigmanFreud (4):** Prisma (S1), Dawncy (S1), broccoliar (S1), SpaceFenix (S1)
+
+**2nd - JaqOnCraq (4):** Kaismartypants (S1), JamDoggie (S1), Julse (S1), TheSlimeBrother (S1)
+
+**2nd - SwiftnessXVI (4):** CodeJoshua (S1), ItsShqky (S1), ADinoPlayingMC (S1), HigmanFreud (S1)
+
+**6th - Evzenitable (3):** Codwhy (S1), Stravilight (S1), Fourbitplayer (S1)
+
+**6th - St0rmplayz (3):** Lsnce (S1), Hariboe (S1), Rebelghost (S1)
+
+**6th - Supersun_ (3):** CaptainRichy (S1), nFang (S1), DatGuyAdam (S1)
+
+**9th - Broseph (2):** Caligators (S1), TastyBaconZ (S1)
+
+**9th - ColdBac (2):** Jona099 (S1), zac083 (S1)
+
+**9th - DevoyTTV (2):** Pelycosaur (S1), Kaaad (S1)
+
+**9th - FrostBros (2):** bh1747 (S1), Fcrm (S1)
+
+**9th - loyaltea (2):** JRjoos (S1), MaxEvasion (S1)
+
+**9th - zac083 (2):** _Fost_ (S1), SwiftnessXVI (S1)
+
+**15th - ADinoPlayingMC (1):** nqho (S1)
+
+**15th - bh1747 (1):** ArcticSeagull (S1)
+
+**15th - brinkwhy (1):** Broseph (S1)
+
+**15th - CHAINGE (1):** ItsTrubby (S1)
+
+**15th - Chrominize (1):** loyaltea (S1)
+
+**15th - daisyadalouise (1):** CHAINGE (S1)
+
+**15th - DatGuyAdam (1):** daisyadalouise (S1)
+
+**15th - JaeHasNoMaidens (1):** Ancient_Bunny (S1)
+
+**15th - Julse (1):** Evzenitable (S1)
+
+**15th - lkelle (1):** Plushy33 (S1)
+
+**15th - Lsnce (1):** Slooshyy (S1)
+
+**15th - Prisma (1):** lkelle (S1)
+
+**15th - Rebelghost (1):** Brodator (S1)
+
+**15th - Stravilight (1):** Chrominize (S1)
+
+**15th - TheLuckyAsian (1):** Predetermine (S1)
+
+**15th - Ullti (1):** Zahkari (S1)
+
+**15th - Zahkari (1):** TheLuckyAsian (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +110,6 @@
 ---
 ### Debutants
 
-**S1 (64):** JRjoos, Pelycosaur, Predetermine, Slooshyy, Lsnce, TheLuckyAsian, loyaltea, MaxEvasion, Chrominize, Codwhy, Stravilight, Fourbitplayer, Ziny22, Plushy33, lkelle, Prisma, Dawncy, _Fost_, broccoliar, SpaceFenix, CodeJoshua, nqho, ArcticSeagull, ItsShqky, ADinoPlayingMC, Caligators, HigmanFreud, SwiftnessXVI, SteelStaff, Fearx_, Kaismartypants, CaptainRichy, Brodator, nFang, Ancient_Bunny, ItsTrubby, TastyBaconZ, Broseph, Hariboe, CHAINGE, daisyadalouise, Evzenitable, JamDoggie, Julse, Kaaad, brinkwhy, Jona099, DatGuyAdam, JaeHasNoMaidens, TheSlimeBrother, Supersun_, zac083, Zahkari, cherryblawsom, ColdBac, bh1747, Ullti, Fcrm, Rebelghost, St0rmplayz, CipherKai, FrostBros, DevoyTTV, JaqOnCraq
+**S1 (64):** _Fost_, ADinoPlayingMC, Ancient_Bunny, ArcticSeagull, bh1747, brinkwhy, broccoliar, Brodator, Broseph, Caligators, CaptainRichy, CHAINGE, cherryblawsom, Chrominize, CipherKai, CodeJoshua, Codwhy, ColdBac, daisyadalouise, DatGuyAdam, Dawncy, DevoyTTV, Evzenitable, Fcrm, Fearx_, Fourbitplayer, FrostBros, Hariboe, HigmanFreud, ItsShqky, ItsTrubby, JaeHasNoMaidens, JamDoggie, JaqOnCraq, Jona099, JRjoos, Julse, Kaaad, Kaismartypants, lkelle, loyaltea, Lsnce, MaxEvasion, nFang, nqho, Pelycosaur, Plushy33, Predetermine, Prisma, Rebelghost, Slooshyy, SpaceFenix, St0rmplayz, SteelStaff, Stravilight, Supersun_, SwiftnessXVI, TastyBaconZ, TheLuckyAsian, TheSlimeBrother, Ullti, zac083, Zahkari, Ziny22
 
 ---

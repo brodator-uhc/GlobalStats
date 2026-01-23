@@ -53,6 +53,81 @@
 ---
 ### Kills
 
+**1st - Ixolock (7):** OnlyCosmia (S2), phpART (S3), Arod_ (S3), LightningS7 (S3), Egth (S3), Apex_Twinkie (S4), Kieranborn (S5)
+
+**2nd - Egth (6):** tuxpeng (S3), sigilyph (S4), silh (S4), MajorWoof (S4), 5kylord (S4), ColdBac (S4)
+
+**2nd - ShyGus (6):** Maxwellfifty (S3), MangoSky (S5), NukedNukem (S5), Cyndic (S5), 5kylord (S5), JustNolan (S5)
+
+**4th - LightningS7 (5):** Sneegsnag (S1), Sean081799 (S1), Organized (S1), Supah_Matt (S1), CH0CK (S4)
+
+**5th - ColdBac (4):** cherryblawsom (S5), DKPMatt (S5), ShyGus (S5), PauloSSB (S5)
+
+**5th - Dylan_SF (4):** Evader22 (S2), JahMuis (S2), OnlyCosmia (S3), sigilyph (S3)
+
+**5th - JustNolan (4):** JCC139 (S5), CH0CK (S5), AttackZach_ (S5), ItsColinn (S5)
+
+**5th - jvevo (4):** Jinko42 (S3), Ixolock (S3), Bottiken (S3), Evader22 (S3)
+
+**5th - silh (4):** Hecticity (S2), Joeylinks (S2), Dylan_SF (S3), iSwifteh (S5)
+
+**5th - SmooveManeuver (4):** Ixolock (S4), NukedNukem (S4), LightningS7 (S4), Bottiken (S4)
+
+**11th - 5kylord (3):** friigiid (S4), DKPMatt (S4), SmooveManeuver (S4)
+
+**11th - DKPMatt (3):** Gabey (S4), floobel (S4), PhenomCloud (S5)
+
+**11th - Grantonic (3):** LegoBeast (S2), MajorWoof (S2), Ixolock (S2)
+
+**11th - Jinko42 (3):** LordLaelaps (S1), OddBaller (S1), oworca (S1)
+
+**11th - OddBaller (3):** Evader22 (S1), sigilyph (S1), MadSainter (S1)
+
+**11th - OnlyCosmia (3):** phpART (S5), Apex_Twinkie (S5), tmb0 (S5)
+
+**11th - tuxpeng (3):** LightningS7 (S2), Potsie (S5), Micale (S5)
+
+**18th - ItsColinn (2):** Hecticity (S5), Evader22 (S5)
+
+**18th - MajorWoof (2):** Dylan_SF (S2), warriorcat (S5)
+
+**18th - Maxwellfifty (2):** Supah_Matt (S2), Bidus (S3)
+
+**18th - PauloSSB (2):** Bidus (S5), tuxpeng (S5)
+
+**18th - PhenomCloud (2):** xMadisonx (S5), MajorWoof (S5)
+
+**18th - sigilyph (2):** Organized (S2), MrCraftinator (S3)
+
+**24th - Apex_Twinkie (1):** AJSteel (S4)
+
+**24th - Arod_ (1):** LegoBeast (S3)
+
+**24th - AttackZach_ (1):** Ixolock (S5)
+
+**24th - Bottiken (1):** warriorcat (S3)
+
+**24th - Cyndic (1):** silh (S5)
+
+**24th - Dida (1):** sirples (S1)
+
+**24th - Gabey (1):** tuxpeng (S4)
+
+**24th - Joeylinks (1):** Grantonic (S2)
+
+**24th - MadSainter (1):** TotallyNotSirius (S1)
+
+**24th - NukedNukem (1):** silh (S2)
+
+**24th - Organized (1):** tuxpeng (S2)
+
+**24th - oworca (1):** Dida (S1)
+
+**24th - Supah_Matt (1):** DKPMatt (S2)
+
+**24th - tmb0 (1):** OnlyCosmia (S5)
+
+**24th - warriorcat (1):** ShyGus (S3)
 
 ---
 ### PvE Deaths
@@ -65,14 +140,14 @@
 ---
 ### Debutants
 
-**S1 (18):** Egth, Grantonic, sirples, Wolfaye, LordLaelaps, Evader22, Sneegsnag, Dida, TotallyNotSirius, Sean081799, sigilyph, Organized, MadSainter, OddBaller, oworca, Supah_Matt, Jinko42, LightningS7
+**S1 (18):** Dida, Egth, Evader22, Grantonic, Jinko42, LightningS7, LordLaelaps, MadSainter, OddBaller, Organized, oworca, Sean081799, sigilyph, sirples, Sneegsnag, Supah_Matt, TotallyNotSirius, Wolfaye
 
-**S2 (14):** Dannythecool123, LegoBeast, DKPMatt, Hecticity, OnlyCosmia, JahMuis, Dylan_SF, MajorWoof, Ixolock, tuxpeng, Maxwellfifty, Joeylinks, silh, NukedNukem
+**S2 (14):** Dannythecool123, DKPMatt, Dylan_SF, Hecticity, Ixolock, JahMuis, Joeylinks, LegoBeast, MajorWoof, Maxwellfifty, NukedNukem, OnlyCosmia, silh, tuxpeng
 
-**S3 (8):** MrCraftinator, phpART, Arod_, Bidus, ShyGus, warriorcat, Bottiken, jvevo
+**S3 (8):** Arod_, Bidus, Bottiken, jvevo, MrCraftinator, phpART, ShyGus, warriorcat
 
-**S4 (9):** CH0CK, AJSteel, Apex_Twinkie, Gabey, floobel, friigiid, SmooveManeuver, 5kylord, ColdBac
+**S4 (9):** 5kylord, AJSteel, Apex_Twinkie, CH0CK, ColdBac, floobel, friigiid, Gabey, SmooveManeuver
 
-**S5 (15):** xMadisonx, Kieranborn, tmb0, MangoSky, JCC139, Potsie, Micale, PhenomCloud, AttackZach_, cherryblawsom, iSwifteh, Cyndic, ItsColinn, JustNolan, PauloSSB
+**S5 (15):** AttackZach_, cherryblawsom, Cyndic, iSwifteh, ItsColinn, JCC139, JustNolan, Kieranborn, MangoSky, Micale, PauloSSB, PhenomCloud, Potsie, tmb0, xMadisonx
 
 ---

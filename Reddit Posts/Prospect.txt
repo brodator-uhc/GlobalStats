@@ -41,6 +41,47 @@
 ---
 ### Kills
 
+**1st - Codwhy (14):** JamestheDouglas (S1), MegaGran (S1), Vetmire (S1), Bofishkix (S1), GeniRCT (S1), Caffeindiazepine (S1), ArcticSeagull (S2), _Fost_ (S2), Rebelghost (S2), Glarza (S2), Bottiken (S2), GeniRCT (S2), SpaceFenix (S2), spoocS_ (S2)
+
+**2nd - Nyxana (4):** Crafters (S1), ArcticSeagull (S1), ghostblurr (S1), Codwhy (S1)
+
+**3rd - GeniRCT (3):** TheBP (S1), TonyEatWorld (S2), MaxEvasion (S2)
+
+**3rd - Vetmire (3):** Jahrod (S1), FrozenBenny (S2), Pelycosaur (S2)
+
+**5th - Chipzzy (2):** Andronify (S2), egl_ (S2)
+
+**5th - ConBeanJones (2):** JamestheDouglas (S2), JahMuis (S2)
+
+**5th - MaxEvasion (2):** Nyxana (S2), Nikanod (S2)
+
+**5th - Nikanod (2):** Abdalain (S2), ghostblurr (S2)
+
+**9th - Abdalain (1):** TastyBaconZ (S2)
+
+**9th - Andronify (1):** Fourbitplayer (S2)
+
+**9th - Bofishkix (1):** nFang (S2)
+
+**9th - egl_ (1):** Boomblade60 (S2)
+
+**9th - FrozenBenny (1):** Jahrod (S2)
+
+**9th - JahMuis (1):** Vetmire (S2)
+
+**9th - Jahrod (1):** Chipzzy (S2)
+
+**9th - JamestheDouglas (1):** Caffeindiazepine (S2)
+
+**9th - nFang (1):** SiahStone (S1)
+
+**9th - Pelycosaur (1):** Codwhy (S2)
+
+**9th - SiahStone (1):** nFang (S1)
+
+**9th - SpaceFenix (1):** Bofishkix (S2)
+
+**9th - TonyEatWorld (1):** Sten_Stone (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +94,8 @@
 ---
 ### Debutants
 
-**S1 (15):** SiahStone, nFang, Jahrod, Crafters, JamestheDouglas, TheBP, ArcticSeagull, MegaGran, Vetmire, Bofishkix, GeniRCT, ghostblurr, Caffeindiazepine, Codwhy, Nyxana
+**S1 (15):** ArcticSeagull, Bofishkix, Caffeindiazepine, Codwhy, Crafters, GeniRCT, ghostblurr, Jahrod, JamestheDouglas, MegaGran, nFang, Nyxana, SiahStone, TheBP, Vetmire
 
-**S2 (22):** Markedbooboy, Boomblade60, Fourbitplayer, _Fost_, Sten_Stone, Rebelghost, Glarza, TastyBaconZ, Abdalain, TonyEatWorld, Andronify, egl_, Chipzzy, FrozenBenny, Bottiken, Nikanod, MaxEvasion, SpaceFenix, spoocS_, Pelycosaur, JahMuis, ConBeanJones
+**S2 (22):** _Fost_, Abdalain, Andronify, Boomblade60, Bottiken, Chipzzy, ConBeanJones, egl_, Fourbitplayer, FrozenBenny, Glarza, JahMuis, Markedbooboy, MaxEvasion, Nikanod, Pelycosaur, Rebelghost, SpaceFenix, spoocS_, Sten_Stone, TastyBaconZ, TonyEatWorld
 
 ---

@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - jamertxn (3):** automavic (S1), swishduck (S1), Chipzzy (S1)
+
+**1st - PLENT (3):** oDogLFC (S1), okthxbye (S1), hammer_fan (S1)
+
+**3rd - Austronomical (2):** vishs (S1), Ryfri (S1)
+
+**3rd - Beastaxel (2):** CaesarOctavius (S1), jamertxn (S1)
+
+**3rd - Ryfri (2):** Spongey (S1), Austronomical (S1)
+
+**6th - 319phoenix (1):** Lucityy (S1)
+
+**6th - Big_Z60 (1):** PLENT (S1)
+
+**6th - hammer_fan (1):** Beastaxel (S1)
+
+**6th - okthxbye (1):** Zepless (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (18):** automavic, swishduck, Spongey, Chipzzy, vishs, CaesarOctavius, Austronomical, Ryfri, Zepless, oDogLFC, jamertxn, Beastaxel, okthxbye, hammer_fan, Lucityy, PLENT, 319phoenix, Big_Z60
+**S1 (18):** 319phoenix, Austronomical, automavic, Beastaxel, Big_Z60, CaesarOctavius, Chipzzy, hammer_fan, jamertxn, Lucityy, oDogLFC, okthxbye, PLENT, Ryfri, Spongey, swishduck, vishs, Zepless
 
 ---

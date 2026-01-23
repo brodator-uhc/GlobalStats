@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - CocoBenja (5):** strategy (S1), Broseph (S2), aalaan (S2), Greeples (S2), Stravilight (S2)
+
+**1st - MajorWoof (5):** Lighte (S1), AnUncreativeCat (S1), Daltun (S1), chloesad (S1), vynil (S1)
+
+**3rd - Broseph (3):** ohh_lia (S1), Psykl0ne (S1), CHAINGE (S1)
+
+**3rd - Normoh (3):** wibbol (S1), jommyappleseed (S2), Psykl0ne (S2)
+
+**3rd - Pelycosaur (3):** Brodator (S1), _Fost_ (S2), Lighte (S2)
+
+**3rd - Stravilight (3):** Normoh (S2), nsket (S2), wibbol (S2)
+
+**3rd - vynil (3):** YellowVitt (S1), cherryblawsom (S1), Broseph (S1)
+
+**3rd - WackoFlipper (3):** warriorcat (S1), NajaOxiana (S1), YellowVitt (S2)
+
+**9th - Lighte (2):** MajorWoof (S2), Daltun (S2)
+
+**9th - Psykl0ne (2):** Pelycosaur (S1), nFang (S2)
+
+**11th - aalaan (1):** Brodator (S2)
+
+**11th - chloesad (1):** Dawncy (S1)
+
+**11th - Greeples (1):** chloesad (S2)
+
+**11th - nFang (1):** NajaOxiana (S2)
+
+**11th - wibbol (1):** strategy (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (22):** Brodator, Dawncy, ohh_lia, Lighte, AnUncreativeCat, strategy, wibbol, YellowVitt, cherryblawsom, Normoh, Pelycosaur, CocoBenja, Psykl0ne, CHAINGE, warriorcat, Daltun, Broseph, NajaOxiana, chloesad, vynil, MajorWoof, WackoFlipper
+**S1 (22):** AnUncreativeCat, Brodator, Broseph, CHAINGE, cherryblawsom, chloesad, CocoBenja, Daltun, Dawncy, Lighte, MajorWoof, NajaOxiana, Normoh, ohh_lia, Pelycosaur, Psykl0ne, strategy, vynil, WackoFlipper, warriorcat, wibbol, YellowVitt
 
-**S2 (9):** Ullti, Rebelghost, jommyappleseed, aalaan, _Fost_, nFang, Greeples, nsket, Stravilight
+**S2 (9):** _Fost_, aalaan, Greeples, jommyappleseed, nFang, nsket, Rebelghost, Stravilight, Ullti
 
 ---

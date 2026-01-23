@@ -37,6 +37,33 @@
 ---
 ### Kills
 
+**1st - xNestorio (3):** GlowingNeon (S1), Timonscholte (S1), Shxffleh (S1)
+
+**2nd - CedGhoss (2):** dragonpasa (S1), Dylarno (S1)
+
+**2nd - Dylarno (2):** MrPolzerino (S1), Naecoo (S1)
+
+**2nd - GlowingNeon (2):** TheBestGinger13 (S1), Micale (S1)
+
+**2nd - Shxffleh (2):** cappyrappy (S1), HUNTERKUN (S1)
+
+**2nd - Timonscholte (2):** mjdwow (S1), CedGhoss (S1)
+
+**7th - Dark_rust (1):** upriserryker (S1)
+
+**7th - Hoppy (1):** hammer_fan (S1)
+
+**7th - HUNTERKUN (1):** Hoppy (S1)
+
+**7th - Micale (1):** Tootikins (S1)
+
+**7th - mjdwow (1):** Mentally (S1)
+
+**7th - Naecoo (1):** Dark_rust (S1)
+
+**7th - TheBestGinger13 (1):** Tylarzz (S1)
+
+**7th - upriserryker (1):** SSiafs (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +76,6 @@
 ---
 ### Debutants
 
-**S1 (23):** Mentally, Maddognils, SSiafs, upriserryker, Dark_rust, dragonpasa, MrPolzerino, cappyrappy, hammer_fan, mjdwow, Tylarzz, TheBestGinger13, Tootikins, Micale, Naecoo, Dylarno, Hoppy, GlowingNeon, CedGhoss, HUNTERKUN, Timonscholte, Shxffleh, xNestorio
+**S1 (23):** cappyrappy, CedGhoss, Dark_rust, dragonpasa, Dylarno, GlowingNeon, hammer_fan, Hoppy, HUNTERKUN, Maddognils, Mentally, Micale, mjdwow, MrPolzerino, Naecoo, Shxffleh, SSiafs, TheBestGinger13, Timonscholte, Tootikins, Tylarzz, upriserryker, xNestorio
 
 ---

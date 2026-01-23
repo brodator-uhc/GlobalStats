@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - Micale (5):** TommySuX (S1), Flouzemaker (S1), Fukano (S1), cappyrappy (S1), MrTeamRaven (S1)
+
+**2nd - MrTeamRaven (2):** ShutUpBrick (S1), bytexal (S1)
+
+**3rd - AndrizzlePC (1):** boyceterous (S1)
+
+**3rd - boyceterous (1):** Havenhand (S1)
+
+**3rd - TommySuX (1):** AndrizzlePC (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (14):** Mjora, BenGMann, Havenhand, boyceterous, Kurtit, AndrizzlePC, TommySuX, ShutUpBrick, Flouzemaker, Fukano, bytexal, cappyrappy, MrTeamRaven, Micale
+**S1 (14):** AndrizzlePC, BenGMann, boyceterous, bytexal, cappyrappy, Flouzemaker, Fukano, Havenhand, Kurtit, Micale, Mjora, MrTeamRaven, ShutUpBrick, TommySuX
 
 ---

@@ -49,6 +49,57 @@
 ---
 ### Kills
 
+**1st - ColdBac (9):** Stravilight (S1), bayweafs (S1), Sharkbob94349 (S1), Kaddyn (S1), BoltsInCharge (S1), broccoliar (S1), Markedbooboy (S2), Kaddyn (S2), Kaimaxon (S2)
+
+**2nd - AirInAirOut (6):** MercuryParadox (S2), Fcrm (S3), ShootingGoats (S4), CommanderK22_ (S4), DJoee (S4), grantfaker (S4)
+
+**2nd - BoltsInCharge (6):** Kaismartypants (S1), SledgeHammr (S1), Boomblade60 (S2), Kaismartypants (S4), Kaimaxon (S4), DevoyTTV (S4)
+
+**2nd - Stravilight (6):** LipGlossica (S3), noktime (S3), wizarde (S3), ShootingGoats (S3), CodeJoshua (S3), AirInAirOut (S3)
+
+**5th - DJoee (5):** CAMKART100 (S3), fruitlogic (S3), CAMKART100 (S4), ZebraPantz (S4), ChainingVermin2 (S4)
+
+**5th - Kaddyn (5):** AirInAirOut (S1), SpaceFenix (S2), Kaismartypants (S3), _1mmortal_ (S3), Westcraft00 (S3)
+
+**7th - Boomblade60 (3):** Flouzemaker (S2), CommanderK22_ (S2), Kaddyn (S4)
+
+**7th - ChainingVermin2 (3):** bayweafs (S2), MCmattFTW (S4), baldlad (S4)
+
+**7th - Nuclearsugar (3):** ColdBac (S2), Dj8ninja (S2), ChainingVermin2 (S2)
+
+**7th - rae0vr (3):** PatrickTN_ (S3), Sharkbob94349 (S3), Haroun_ (S3)
+
+**7th - Westcraft00 (3):** rae0vr (S3), Stravilight (S3), T1mT0m (S3)
+
+**12th - broccoliar (2):** qFern (S1), CommanderK22_ (S1)
+
+**12th - CodeJoshua (2):** bayweafs (S3), Kaimaxon (S3)
+
+**12th - CommanderK22_ (2):** DJoee (S3), ArcticSeagull (S4)
+
+**12th - Dj8ninja (2):** Westcraft00 (S2), wizarde (S2)
+
+**12th - Fcrm (2):** BoltsInCharge (S3), MineKG (S3)
+
+**12th - Sharkbob94349 (2):** MineKG (S1), Dj8ninja (S1)
+
+**18th - _1mmortal_ (1):** Markedbooboy (S3)
+
+**18th - bayweafs (1):** broccoliar (S2)
+
+**18th - grantfaker (1):** BoltsInCharge (S4)
+
+**18th - ItsShqky (1):** BoltsInCharge (S2)
+
+**18th - JampoJohn (1):** Westcraft00 (S4)
+
+**18th - Kaismartypants (1):** Bornyo (S3)
+
+**18th - Markedbooboy (1):** MineKG (S2)
+
+**18th - ShootingGoats (1):** JampoJohn (S4)
+
+**18th - ZebraPantz (1):** Boomblade60 (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +112,12 @@
 ---
 ### Debutants
 
-**S1 (22):** ItsMeAR10, Codwhy, DevoyTTV, ArcticSeagull, MineKG, CAMKART100, AirInAirOut, nug17, TheSlimeBrother, qFern, Stravilight, Kaismartypants, bayweafs, wizarde, Sharkbob94349, Dj8ninja, SledgeHammr, Kaddyn, BoltsInCharge, CommanderK22_, broccoliar, ColdBac
+**S1 (22):** AirInAirOut, ArcticSeagull, bayweafs, BoltsInCharge, broccoliar, CAMKART100, Codwhy, ColdBac, CommanderK22_, DevoyTTV, Dj8ninja, ItsMeAR10, Kaddyn, Kaismartypants, MineKG, nug17, qFern, Sharkbob94349, SledgeHammr, Stravilight, TheSlimeBrother, wizarde
 
-**S2 (10):** Flouzemaker, SpaceFenix, Boomblade60, Markedbooboy, Kaimaxon, MercuryParadox, Westcraft00, ChainingVermin2, Nuclearsugar, ItsShqky
+**S2 (10):** Boomblade60, ChainingVermin2, Flouzemaker, ItsShqky, Kaimaxon, Markedbooboy, MercuryParadox, Nuclearsugar, SpaceFenix, Westcraft00
 
-**S3 (13):** LipGlossica, Fcrm, PatrickTN_, Bornyo, noktime, ShootingGoats, fruitlogic, CodeJoshua, Haroun_, DJoee, rae0vr, _1mmortal_, T1mT0m
+**S3 (13):** _1mmortal_, Bornyo, CodeJoshua, DJoee, Fcrm, fruitlogic, Haroun_, LipGlossica, noktime, PatrickTN_, rae0vr, ShootingGoats, T1mT0m
 
-**S4 (5):** JampoJohn, MCmattFTW, ZebraPantz, baldlad, grantfaker
+**S4 (5):** baldlad, grantfaker, JampoJohn, MCmattFTW, ZebraPantz
 
 ---

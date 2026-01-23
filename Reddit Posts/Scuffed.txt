@@ -41,6 +41,41 @@
 ---
 ### Kills
 
+**1st - lexicuhl (9):** DogOfKrondor (S1), fruitlogic (S1), CaptainRichy (S1), Xzeaulor (S2), breakbeat (S2), WackoFlipper (S2), omnikrxn (S2), TehBaconBrawlerZ (S2), fruitlogic (S2)
+
+**2nd - WackoFlipper (5):** jimmyjegs (S1), ZenonX_ (S1), Rohcket (S2), Flouzemaker (S2), OddBaller (S2)
+
+**2nd - Xzeaulor (5):** W92Baj (S1), Jalapinecone (S1), jimmyjegs (S2), drewB007 (S2), W92Baj (S2)
+
+**4th - Jalapinecone (3):** Xzeaulor (S1), Emylyl (S2), TastyBaconZ (S2)
+
+**4th - Klobb (3):** Tinuqin (S1), Fnassau (S1), Flouzemaker (S1)
+
+**6th - Dactus_ (2):** H_L_llama (S1), Bayfish (S1)
+
+**6th - Emylyl (2):** pigghetti (S1), WackoFlipper (S1)
+
+**6th - Rohcket (2):** draylor09 (S2), Brodator (S2)
+
+**9th - Bayfish (1):** DJoee (S1)
+
+**9th - DJoee (1):** Brodator (S1)
+
+**9th - Fnassau (1):** TheCatMurgatroyd (S2)
+
+**9th - fruitlogic (1):** chloesad (S1)
+
+**9th - H_L_llama (1):** I_is_cheesecake (S1)
+
+**9th - KatyLawson (1):** TastyBaconZ (S1)
+
+**9th - OddBaller (1):** DogOfKrondor (S2)
+
+**9th - pigghetti (1):** lexicuhl (S1)
+
+**9th - TastyBaconZ (1):** TommySuX (S2)
+
+**9th - TommySuX (1):** H_L_llama (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +88,8 @@
 ---
 ### Debutants
 
-**S1 (28):** DogOfKrondor, chloesad, TastyBaconZ, fruitlogic, drewB007, Tinuqin, Fnassau, Brodator, KatyLawson, omnikrxn, DJoee, W92Baj, CaptainRichy, I_is_cheesecake, lexicuhl, H_L_llama, Xzeaulor, Jalapinecone, tiffaroni, Bayfish, jimmyjegs, ZenonX_, Flouzemaker, Klobb, pigghetti, WackoFlipper, Dactus_, Emylyl
+**S1 (28):** Bayfish, Brodator, CaptainRichy, chloesad, Dactus_, DJoee, DogOfKrondor, drewB007, Emylyl, Flouzemaker, Fnassau, fruitlogic, H_L_llama, I_is_cheesecake, Jalapinecone, jimmyjegs, KatyLawson, Klobb, lexicuhl, omnikrxn, pigghetti, TastyBaconZ, tiffaroni, Tinuqin, W92Baj, WackoFlipper, Xzeaulor, ZenonX_
 
-**S2 (8):** draylor09, Rohcket, breakbeat, TheCatMurgatroyd, OddBaller, TommySuX, TehBaconBrawlerZ, starlxghtmoon
+**S2 (8):** breakbeat, draylor09, OddBaller, Rohcket, starlxghtmoon, TehBaconBrawlerZ, TheCatMurgatroyd, TommySuX
 
 ---

@@ -41,6 +41,31 @@
 ---
 ### Kills
 
+**1st - Thebestcandy (6):** Dylarno (S1), sorlite (S1), NickNitro3 (S1), dnnyys (S1), boyceterous (S1), TicedUp (S2)
+
+**2nd - Conflictt (5):** PoshNPie (S1), Dylarno (S2), NickNitro3 (S2), OmegaMatt_ (S2), Kurtit (S2)
+
+**3rd - Kurtit (2):** Thebestcandy (S2), SSiafs (S2)
+
+**3rd - SSiafs (2):** Conflictt (S1), Tylarzz (S1)
+
+**5th - benebeneben2 (1):** Tylarzz (S2)
+
+**5th - DarenKao (1):** OmegaMatt_ (S1)
+
+**5th - dnnyys (1):** DarenKao (S1)
+
+**5th - Dylarno (1):** DarenKao (S2)
+
+**5th - PoshNPie (1):** benebeneben2 (S2)
+
+**5th - sorlite (1):** upriserryker (S1)
+
+**5th - TicedUp (1):** PoshNPie (S2)
+
+**5th - Tylarzz (1):** TicedUp (S1)
+
+**5th - upriserryker (1):** joeykin (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +78,8 @@
 ---
 ### Debutants
 
-**S1 (18):** Dylarno, PoshNPie, joeykin, upriserryker, TheBestGinger13, sorlite, NickNitro3, Conflictt, TicedUp, OmegaMatt_, Tylarzz, DarenKao, benebeneben2, dnnyys, boyceterous, Hazza72, SSiafs, Thebestcandy
+**S1 (18):** benebeneben2, boyceterous, Conflictt, DarenKao, dnnyys, Dylarno, Hazza72, joeykin, NickNitro3, OmegaMatt_, PoshNPie, sorlite, SSiafs, Thebestcandy, TheBestGinger13, TicedUp, Tylarzz, upriserryker
 
-**S2 (3):** SilentPulse, Kurtit, DerpyDolphin
+**S2 (3):** DerpyDolphin, Kurtit, SilentPulse
 
 ---

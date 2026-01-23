@@ -53,6 +53,73 @@
 ---
 ### Kills
 
+**1st - nsket (8):** TalonBX (S3), wizarde (S4), YellowVitt (S5), GetNicked (S5), TheSlimeBrother (S5), Livin423 (S5), wizarde (S5), Aybel (S5)
+
+**2nd - Aybel (7):** TalonBX (S4), frogsella (S5), ToontownOnline (S5), Dj8ninja (S5), ShyGus (S5), MajorWoof (S5), BardMain2 (S5)
+
+**2nd - hazel_doe (7):** Keelando (S2), Rohcket (S3), nsket (S3), frogsella (S3), ShyGus (S3), SiahStone (S3), SpyroJ (S3)
+
+**4th - SpyroJ (4):** Greeples (S2), Ninjajaja (S2), WackoFlipper (S2), Glarza (S3)
+
+**5th - Bacan (3):** SiahStone (S2), Psykl0ne (S2), Psykl0ne (S4)
+
+**5th - BardMain2 (3):** Rohcket (S2), SiahStone (S4), Broseph (S5)
+
+**5th - Dj8ninja (3):** Brodator (S4), YellowVitt (S4), jommyappleseed (S5)
+
+**5th - Glarza (3):** Broseph (S3), BardMain2 (S3), lexicuhl (S3)
+
+**5th - Greeples (3):** wizarde (S1), SmearBear (S1), Mincrooft (S1)
+
+**5th - SmearBear (3):** ElGavinoSupremo (S1), BardMain2 (S2), hazel_doe (S2)
+
+**11th - CrowJRC (2):** Ejecko (S1), frogsella (S1)
+
+**11th - PresidentFleb (2):** lexicuhl (S5), BBCRadio1 (S5)
+
+**11th - ShyGus (2):** chloesad (S3), hazel_doe (S5)
+
+**11th - SiahStone (2):** Cyonal (S4), Fra49 (S4)
+
+**11th - ThePeridotKnight (2):** Greeples (S1), QuilJ1 (S1)
+
+**11th - TheSlimeBrother (2):** Brodator (S5), SpyroJ (S5)
+
+**17th - Brodator (1):** Greeples (S5)
+
+**17th - Broseph (1):** Fra49 (S5)
+
+**17th - chloesad (1):** jommyappleseed (S3)
+
+**17th - Cyonal (1):** lexicuhl (S4)
+
+**17th - Ejecko (1):** Bacan (S1)
+
+**17th - Fra49 (1):** Bacan (S4)
+
+**17th - frogsella (1):** Dj8ninja (S4)
+
+**17th - Gorgerous (1):** TheSlimeBrother (S4)
+
+**17th - lexicuhl (1):** Psykl0ne (S3)
+
+**17th - MajorWoof (1):** Gorgerous (S5)
+
+**17th - Mincrooft (1):** Psykl0ne (S1)
+
+**17th - Psykl0ne (1):** YellowVitt (S3)
+
+**17th - QuilJ1 (1):** ThePeridotKnight (S1)
+
+**17th - Rohcket (1):** frogsella (S2)
+
+**17th - TalonBX (1):** nsket (S4)
+
+**17th - WackoFlipper (1):** SmearBear (S2)
+
+**17th - wizarde (1):** TalonBX (S1)
+
+**17th - YellowVitt (1):** BardMain2 (S4)
 
 ---
 ### PvE Deaths
@@ -65,14 +132,14 @@
 ---
 ### Debutants
 
-**S1 (14):** TalonBX, wizarde, Bacan, ElGavinoSupremo, Psykl0ne, SmearBear, Mincrooft, Greeples, Ejecko, ThePeridotKnight, QuilJ1, frogsella, CrowJRC, Davelions
+**S1 (14):** Bacan, CrowJRC, Davelions, Ejecko, ElGavinoSupremo, frogsella, Greeples, Mincrooft, Psykl0ne, QuilJ1, SmearBear, TalonBX, ThePeridotKnight, wizarde
 
-**S2 (9):** Keelando, Rohcket, BardMain2, hazel_doe, SiahStone, Ninjajaja, WackoFlipper, Livin423, SpyroJ
+**S2 (9):** BardMain2, hazel_doe, Keelando, Livin423, Ninjajaja, Rohcket, SiahStone, SpyroJ, WackoFlipper
 
-**S3 (8):** Broseph, YellowVitt, nsket, lexicuhl, jommyappleseed, chloesad, ShyGus, Glarza
+**S3 (8):** Broseph, chloesad, Glarza, jommyappleseed, lexicuhl, nsket, ShyGus, YellowVitt
 
-**S4 (8):** ethodog, Cyonal, Fra49, Brodator, TheSlimeBrother, Dj8ninja, Aybel, Gorgerous
+**S4 (8):** Aybel, Brodator, Cyonal, Dj8ninja, ethodog, Fra49, Gorgerous, TheSlimeBrother
 
-**S5 (5):** GetNicked, BBCRadio1, ToontownOnline, MajorWoof, PresidentFleb
+**S5 (5):** BBCRadio1, GetNicked, MajorWoof, PresidentFleb, ToontownOnline
 
 ---

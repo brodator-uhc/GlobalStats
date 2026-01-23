@@ -41,6 +41,45 @@
 ---
 ### Kills
 
+**1st - MBeaar (7):** SummerBqsh (S1), TorinFBF (S1), Arich (S1), WackoFlipper (S1), Jordtim (S1), Chasmic (S2), Greeples (S2)
+
+**2nd - CrowJRC (6):** warriorcat (S2), alexnv (S2), Randehh (S2), JaeHasNoMaidens (S2), MBeaar (S2), Radical24 (S2)
+
+**3rd - alexnv (5):** cherryblawsom (S2), chloesad (S2), WackoFlipper (S2), Omertosa (S2), CallumPace (S2)
+
+**3rd - CHAINGE (5):** wibbol (S1), GetNicked (S1), warriorcat (S1), JaeHasNoMaidens (S1), _pbo (S1)
+
+**5th - ColdBac (4):** FazedMC (S1), CHAINGE (S1), MBeaar (S1), Greeples (S1)
+
+**6th - centraleric (3):** tagggz (S1), MajorWoof (S2), MaxEvasion (S2)
+
+**6th - JaeHasNoMaidens (3):** awesomemacD (S1), SiahStone (S1), GeeSam (S2)
+
+**6th - MaxEvasion (3):** BBR_ (S1), LimitDTW (S1), centraleric (S2)
+
+**6th - tagggz (3):** flameorb (S1), Mistrey (S1), cherryblawsom (S1)
+
+**10th - awesomemacD (2):** IsaacMT (S1), Eluniel (S1)
+
+**10th - Greeples (2):** GeeSam (S1), centraleric (S1)
+
+**12th - cherryblawsom (1):** MajorWoof (S1)
+
+**12th - flameorb (1):** MaxEvasion (S1)
+
+**12th - GeeSam (1):** _pbo (S2)
+
+**12th - GetNicked (1):** Randehh (S1)
+
+**12th - MajorWoof (1):** TorinFBF (S2)
+
+**12th - Omertosa (1):** IsaacMT (S2)
+
+**12th - Randehh (1):** 5hup (S1)
+
+**12th - WackoFlipper (1):** LimitDTW (S2)
+
+**12th - wibbol (1):** Radical24 (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +92,8 @@
 ---
 ### Debutants
 
-**S1 (32):** BBR_, LimitDTW, MaxEvasion, IsaacMT, flameorb, Mistrey, Eluniel, Radical24, 5hup, Randehh, wibbol, awesomemacD, SummerBqsh, GetNicked, MajorWoof, TorinFBF, cherryblawsom, tagggz, warriorcat, GeeSam, SiahStone, Arich, FazedMC, JaeHasNoMaidens, _pbo, CHAINGE, WackoFlipper, centraleric, Jordtim, MBeaar, Greeples, ColdBac
+**S1 (32):** _pbo, 5hup, Arich, awesomemacD, BBR_, centraleric, CHAINGE, cherryblawsom, ColdBac, Eluniel, FazedMC, flameorb, GeeSam, GetNicked, Greeples, IsaacMT, JaeHasNoMaidens, Jordtim, LimitDTW, MajorWoof, MaxEvasion, MBeaar, Mistrey, Radical24, Randehh, SiahStone, SummerBqsh, tagggz, TorinFBF, WackoFlipper, warriorcat, wibbol
 
-**S2 (8):** Biwitch, chloesad, Omertosa, Klickacat, Chasmic, CallumPace, alexnv, CrowJRC
+**S2 (8):** alexnv, Biwitch, CallumPace, Chasmic, chloesad, CrowJRC, Klickacat, Omertosa
 
 ---

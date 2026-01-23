@@ -37,6 +37,27 @@
 ---
 ### Kills
 
+**1st - TonyEatWorld (4):** Fra49 (S1), TheBP (S1), Brodator (S1), Jahrod (S1)
+
+**2nd - Jahrod (3):** Dj8ninja (S1), ArcticSeagull (S1), Greeples (S1)
+
+**3rd - ghostblurr (2):** Jordtim (S1), Davelions (S1)
+
+**3rd - TheBP (2):** SmolHatChild (S1), ghostblurr (S1)
+
+**5th - ArcticSeagull (1):** TalonBX (S1)
+
+**5th - BardMain2 (1):** Sluggyg (S1)
+
+**5th - Fra49 (1):** aalaan (S1)
+
+**5th - Greeples (1):** Plushy33 (S1)
+
+**5th - Plushy33 (1):** Flouzemaker (S1)
+
+**5th - Sluggyg (1):** BardMain2 (S1)
+
+**5th - SmolHatChild (1):** Keelando (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +70,6 @@
 ---
 ### Debutants
 
-**S1 (19):** BardMain2, Sluggyg, TalonBX, Jordtim, Flouzemaker, Dj8ninja, Davelions, ArcticSeagull, aalaan, Keelando, Fra49, SmolHatChild, Plushy33, ghostblurr, TheBP, Brodator, Greeples, Jahrod, TonyEatWorld
+**S1 (19):** aalaan, ArcticSeagull, BardMain2, Brodator, Davelions, Dj8ninja, Flouzemaker, Fra49, ghostblurr, Greeples, Jahrod, Jordtim, Keelando, Plushy33, Sluggyg, SmolHatChild, TalonBX, TheBP, TonyEatWorld
 
 ---

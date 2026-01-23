@@ -37,6 +37,17 @@
 ---
 ### Kills
 
+**1st - Fcrm (4):** Rohcket (S1), _Fost_ (S1), Jahrod (S1), JaeHasNoMaidens (S1)
+
+**2nd - _Fost_ (1):** Fra49 (S1)
+
+**2nd - JaeHasNoMaidens (1):** TastyBaconZ (S1)
+
+**2nd - Jahrod (1):** LoafOZ (S1)
+
+**2nd - Rohcket (1):** Brodator (S1)
+
+**2nd - TastyBaconZ (1):** Yveltql (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +60,6 @@
 ---
 ### Debutants
 
-**S1 (12):** Andronify, Glarza, LoafOZ, Fra49, Brodator, Rohcket, Yveltql, _Fost_, TastyBaconZ, Jahrod, JaeHasNoMaidens, Fcrm
+**S1 (12):** _Fost_, Andronify, Brodator, Fcrm, Fra49, Glarza, JaeHasNoMaidens, Jahrod, LoafOZ, Rohcket, TastyBaconZ, Yveltql
 
 ---

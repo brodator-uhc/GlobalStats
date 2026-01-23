@@ -45,6 +45,43 @@
 ---
 ### Kills
 
+**1st - wizarde (7):** SoulRawr (S1), ChainingVermin2 (S1), JaeHasNoMaidens (S1), tbhjosh (S2), MCmattFTW (S2), TheBird_ (S2), MercuryParadox (S2)
+
+**2nd - MercuryParadox (6):** Thimburrr (S1), Lighte (S1), gartbak (S2), ChainingVermin2 (S2), Boomblade60 (S2), Chadmin (S2)
+
+**2nd - Thimburrr (6):** SiahStone (S1), Boomblade60 (S1), Westcraft00 (S1), cherryblawsom (S1), MinecrafNinja (S1), MaxEvasion (S2)
+
+**4th - Austronomical (5):** jakeyx3 (S3), Thimburrr (S3), ChainingVermin2 (S3), MaxEvasion (S3), MajorWoof (S3)
+
+**4th - ChainingVermin2 (5):** Mysticals_ (S1), SharkeyJaws (S1), Paxtona (S1), ColdBac (S3), Exstreme (S3)
+
+**6th - cherryblawsom (4):** TheRealHagrid (S2), powermc (S2), Cyonal (S2), ShootingGoats (S2)
+
+**6th - MaxEvasion (4):** jakeyx3 (S2), wizarde (S3), tbhjosh (S3), MCmattFTW (S3)
+
+**8th - AmbientDan (3):** Xtreme_Hoopla (S2), Thimburrr (S2), SharkeyJaws (S2)
+
+**8th - Chadmin (3):** AmbientDan (S2), Bluests (S2), SiahStone (S2)
+
+**8th - Lighte (3):** jakeyx3 (S1), Ryfri (S1), CHANGA (S1)
+
+**8th - SiahStone (3):** Smeshi (S2), ItsGinger (S2), Jayzize (S2)
+
+**12th - Bluests (2):** Westcraft00 (S2), AvedAura (S2)
+
+**12th - CHANGA (2):** gartbak (S1), Zahkari (S1)
+
+**12th - Jayzize (2):** MinecrafNinja (S3), Austronomical (S3)
+
+**15th - Boomblade60 (1):** ColdBac (S2)
+
+**15th - Dj8ninja (1):** ToxicFlqme (S2)
+
+**15th - ItsGinger (1):** cherryblawsom (S2)
+
+**15th - Paxtona (1):** ColdBac (S1)
+
+**15th - ToxicFlqme (1):** Dj8ninja (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +94,10 @@
 ---
 ### Debutants
 
-**S1 (21):** gartbak, SiahStone, Boomblade60, Westcraft00, Zahkari, jakeyx3, Mysticals_, SharkeyJaws, Ryfri, ColdBac, Paxtona, cherryblawsom, MinecrafNinja, SoulRawr, ChainingVermin2, CHANGA, Thimburrr, JaeHasNoMaidens, Lighte, MercuryParadox, wizarde
+**S1 (21):** Boomblade60, ChainingVermin2, CHANGA, cherryblawsom, ColdBac, gartbak, JaeHasNoMaidens, jakeyx3, Lighte, MercuryParadox, MinecrafNinja, Mysticals_, Paxtona, Ryfri, SharkeyJaws, SiahStone, SoulRawr, Thimburrr, Westcraft00, wizarde, Zahkari
 
-**S2 (19):** TheRealHagrid, ToxicFlqme, Dj8ninja, tbhjosh, Smeshi, powermc, Xtreme_Hoopla, MaxEvasion, FortuneInfinity, AmbientDan, AvedAura, MCmattFTW, Cyonal, ShootingGoats, ItsGinger, Jayzize, TheBird_, Bluests, Chadmin
+**S2 (19):** AmbientDan, AvedAura, Bluests, Chadmin, Cyonal, Dj8ninja, FortuneInfinity, ItsGinger, Jayzize, MaxEvasion, MCmattFTW, powermc, ShootingGoats, Smeshi, tbhjosh, TheBird_, TheRealHagrid, ToxicFlqme, Xtreme_Hoopla
 
-**S3 (3):** Exstreme, MajorWoof, Austronomical
+**S3 (3):** Austronomical, Exstreme, MajorWoof
 
 ---

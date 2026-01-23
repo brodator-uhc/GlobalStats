@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - DevoyTTV (3):** ohh_lia (S1), Ullti (S1), LoafOZ (S1)
+
+**1st - ScottPirie (3):** Anorable (S1), Microus (S1), FrostBros (S1)
+
+**3rd - Dj8ninja (2):** 4EyedSlime (S1), aalaan (S1)
+
+**3rd - LoafOZ (2):** Fancyyy (S1), MaxEvasion (S1)
+
+**5th - 4EyedSlime (1):** wizarde (S1)
+
+**5th - m4ku (1):** ZachMcD (S1)
+
+**5th - Microus (1):** nFang (S1)
+
+**5th - SummerBqsh (1):** Dj8ninja (S1)
+
+**5th - wizarde (1):** DevoyTTV (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (18):** Fancyyy, ohh_lia, nFang, MaxEvasion, Ullti, Anorable, Microus, ZachMcD, FrostBros, LoafOZ, DevoyTTV, wizarde, 4EyedSlime, aalaan, Dj8ninja, m4ku, ScottPirie, SummerBqsh
+**S1 (18):** 4EyedSlime, aalaan, Anorable, DevoyTTV, Dj8ninja, Fancyyy, FrostBros, LoafOZ, m4ku, MaxEvasion, Microus, nFang, ohh_lia, ScottPirie, SummerBqsh, Ullti, wizarde, ZachMcD
 
 ---

@@ -37,6 +37,41 @@
 ---
 ### Kills
 
+**1st - Kaismartypants (4):** Fra49 (S1), sr8611 (S1), MinimanTurtle (S1), CHAINGE (S1)
+
+**2nd - Blarkslol (3):** Karasu994 (S1), Kaismartypants (S1), SmalltimeToast7 (S1)
+
+**2nd - CHAINGE (3):** zoeywithawhy (S1), CommanderK22_ (S1), kirbey (S1)
+
+**2nd - lasdarling (3):** fischeey (S1), Westcraft00 (S1), Charrlottie (S1)
+
+**2nd - SpaceFenix (3):** goompah (S1), pufferfish_lite (S1), stupidsylvia (S1)
+
+**6th - BoltsInCharge (2):** SnowyTurnip (S1), deccop (S1)
+
+**6th - emi1iano (2):** droopylace (S1), Glarza (S1)
+
+**6th - kirbey (2):** broccoliar (S1), lasdarling (S1)
+
+**6th - NajaOxiana (2):** emi1iano (S1), Jordtim (S1)
+
+**6th - SnowyTurnip (2):** EmilyIsHer (S1), bayweafs (S1)
+
+**6th - Westcraft00 (2):** Mr_Litty (S1), BoltsInCharge (S1)
+
+**12th - broccoliar (1):** ZebraPantz (S1)
+
+**12th - Charrlottie (1):** EliteEagle33 (S1)
+
+**12th - CommanderK22_ (1):** uhwell (S1)
+
+**12th - droopylace (1):** RatbitsMOEF (S1)
+
+**12th - goompah (1):** LlamaBoss373 (S1)
+
+**12th - SmalltimeToast7 (1):** NajaOxiana (S1)
+
+**12th - ZebraPantz (1):** SpaceFenix (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +84,6 @@
 ---
 ### Debutants
 
-**S1 (39):** Duke_of_Seattle, EmilyIsHer, RatbitsMOEF, LlamaBoss373, goompah, bayweafs, fischeey, SnowyTurnip, deccop, 8sk8, pufferfish_lite, droopylace, stupidsylvia, Fra49, Glarza, emi1iano, Jordtim, SpaceFenix, ZebraPantz, broccoliar, Karasu994, Mr_Litty, sr8611, EliteEagle33, uhwell, zoeywithawhy, CommanderK22_, MinimanTurtle, NajaOxiana, 1gmhorton, BoltsInCharge, Westcraft00, Charrlottie, lasdarling, kirbey, CHAINGE, Kaismartypants, SmalltimeToast7, Blarkslol
+**S1 (39):** 1gmhorton, 8sk8, bayweafs, Blarkslol, BoltsInCharge, broccoliar, CHAINGE, Charrlottie, CommanderK22_, deccop, droopylace, Duke_of_Seattle, EliteEagle33, emi1iano, EmilyIsHer, fischeey, Fra49, Glarza, goompah, Jordtim, Kaismartypants, Karasu994, kirbey, lasdarling, LlamaBoss373, MinimanTurtle, Mr_Litty, NajaOxiana, pufferfish_lite, RatbitsMOEF, SmalltimeToast7, SnowyTurnip, SpaceFenix, sr8611, stupidsylvia, uhwell, Westcraft00, ZebraPantz, zoeywithawhy
 
 ---

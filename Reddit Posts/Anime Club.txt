@@ -41,6 +41,41 @@
 ---
 ### Kills
 
+**1st - omchris (5):** Charrlottie (S1), FrostBros (S1), jakeyx3 (S1), _carn (S1), Fourbitplayer (S2)
+
+**2nd - Cyndic (4):** Jordtim (S1), Dyoza (S1), Flcnt (S1), fruitlogic (S1)
+
+**3rd - _carn (3):** Cyndic (S2), Andronify (S2), Gorgerous (S2)
+
+**3rd - Aybel (3):** DKPMatt (S2), Zenithu (S2), acadiangel (S2)
+
+**3rd - Flcnt (3):** Aybel (S1), CipherKai (S1), AHSOKATANOSTAN (S1)
+
+**3rd - jakeyx3 (3):** FrostBros (S2), ohh_lia (S2), Ullti (S2)
+
+**3rd - vynil (3):** Hrray (S2), omchris (S2), wizarde (S2)
+
+**3rd - wizarde (3):** natsuvi (S2), Fcrm (S2), Eluniel (S2)
+
+**9th - acadiangel (2):** Psykl0ne (S1), Big_Z60 (S2)
+
+**9th - Dyoza (2):** lexicuhl (S1), acadiangel (S1)
+
+**9th - Eluniel (2):** Normoh (S2), jakeyx3 (S2)
+
+**9th - natsuvi (2):** Psykl0ne (S2), Drkrai (S2)
+
+**13th - Drkrai (1):** Rohcket (S2)
+
+**13th - Gorgerous (1):** MercuryParadox (S2)
+
+**13th - Normoh (1):** _carn (S2)
+
+**13th - Psykl0ne (1):** wizarde (S1)
+
+**13th - Rohcket (1):** Charrlottie (S2)
+
+**13th - ToucanTom (1):** Big_Z60 (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +88,8 @@
 ---
 ### Debutants
 
-**S1 (20):** Aybel, lexicuhl, CipherKai, AHSOKATANOSTAN, Charrlottie, Big_Z60, wizarde, Psykl0ne, acadiangel, FrostBros, Jordtim, jakeyx3, _carn, Dyoza, Flcnt, fruitlogic, Cyndic, Hrray, omchris, ToucanTom
+**S1 (20):** _carn, acadiangel, AHSOKATANOSTAN, Aybel, Big_Z60, Charrlottie, CipherKai, Cyndic, Dyoza, Flcnt, FrostBros, fruitlogic, Hrray, jakeyx3, Jordtim, lexicuhl, omchris, Psykl0ne, ToucanTom, wizarde
 
-**S2 (15):** Fourbitplayer, Rohcket, Andronify, Drkrai, ohh_lia, natsuvi, MercuryParadox, DKPMatt, Zenithu, Gorgerous, Normoh, Ullti, Fcrm, Eluniel, vynil
+**S2 (15):** Andronify, DKPMatt, Drkrai, Eluniel, Fcrm, Fourbitplayer, Gorgerous, MercuryParadox, natsuvi, Normoh, ohh_lia, Rohcket, Ullti, vynil, Zenithu
 
 ---

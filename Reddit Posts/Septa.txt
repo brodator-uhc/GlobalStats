@@ -41,6 +41,41 @@
 ---
 ### Kills
 
+**1st - DJoee (6):** Hrray (S1), lasdarling (S1), SpyroJ (S1), CipherKai (S2), omchris (S2), Randehh (S2)
+
+**1st - Drkrai (6):** ohh_lia (S1), Biwitch (S1), TehBaconBrawlerZ (S1), Flcnt (S1), cherryblawsom (S1), Eluniel (S2)
+
+**1st - wizarde (6):** Greeples (S1), DJoee (S1), _pbo (S1), PresidentFleb (S1), _Dieter (S2), SpyroJ (S2)
+
+**4th - benidk (5):** Flcnt (S2), ArcticSeagull (S2), cherryblawsom (S2), Normoh (S2), ColdBac (S2)
+
+**5th - Biwitch (3):** DarrenBGP (S2), Greeples (S2), wizarde (S2)
+
+**5th - Flcnt (3):** ERHDude (S1), DJoee (S2), ohh_lia (S2)
+
+**7th - _pbo (2):** Rohcket (S1), Vetmire (S1)
+
+**7th - cherryblawsom (2):** Blarkslol (S1), wizarde (S1)
+
+**7th - Greeples (2):** benidk (S2), lexicuhl (S2)
+
+**7th - Jaceon02 (2):** turicake (S1), Jordtim (S1)
+
+**7th - ohh_lia (2):** azoof (S1), lexicuhl (S1)
+
+**12th - DarrenBGP (1):** Drkrai (S2)
+
+**12th - ERHDude (1):** Randehh (S1)
+
+**12th - lexicuhl (1):** Rohcket (S2)
+
+**12th - Normoh (1):** swishduck (S2)
+
+**12th - PresidentFleb (1):** Eluniel (S1)
+
+**12th - swishduck (1):** Charrlottie (S2)
+
+**12th - Vetmire (1):** Cubic44 (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +88,8 @@
 ---
 ### Debutants
 
-**S1 (28):** TheSlimeBrother, Cubic44, Randehh, Hrray, lasdarling, turicake, Jordtim, Greeples, Jaceon02, azoof, SpyroJ, lexicuhl, natsuvi, Blarkslol, DJoee, ohh_lia, Biwitch, Rohcket, Vetmire, TehBaconBrawlerZ, ERHDude, Flcnt, Eluniel, _pbo, PresidentFleb, wizarde, cherryblawsom, Drkrai
+**S1 (28):** _pbo, azoof, Biwitch, Blarkslol, cherryblawsom, Cubic44, DJoee, Drkrai, Eluniel, ERHDude, Flcnt, Greeples, Hrray, Jaceon02, Jordtim, lasdarling, lexicuhl, natsuvi, ohh_lia, PresidentFleb, Randehh, Rohcket, SpyroJ, TehBaconBrawlerZ, TheSlimeBrother, turicake, Vetmire, wizarde
 
-**S2 (10):** CipherKai, Charrlottie, omchris, swishduck, ArcticSeagull, _Dieter, Normoh, ColdBac, DarrenBGP, benidk
+**S2 (10):** _Dieter, ArcticSeagull, benidk, Charrlottie, CipherKai, ColdBac, DarrenBGP, Normoh, omchris, swishduck
 
 ---

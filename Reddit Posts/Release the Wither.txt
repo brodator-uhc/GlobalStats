@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - Clandlewood (3):** daviddgeorge (S1), Huckens (S1), nite97m (S1)
+
+**2nd - BlazeThePolymath (2):** mkbean (S1), Clandlewood (S1)
+
+**3rd - daviddgeorge (1):** LeSquatch (S1)
+
+**3rd - Huckens (1):** Dolinmyster (S1)
+
+**3rd - II_DERP_II (1):** Graphoniac (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (16):** LeSquatch, daviddgeorge, Dolinmyster, Huckens, nite97m, zulas, Madokami, SWChris, mkbean, Graphoniac, Clandlewood, moschomo, OzymandiasLP, BlazeThePolymath, II_DERP_II, NovaShep
+**S1 (16):** BlazeThePolymath, Clandlewood, daviddgeorge, Dolinmyster, Graphoniac, Huckens, II_DERP_II, LeSquatch, Madokami, mkbean, moschomo, nite97m, NovaShep, OzymandiasLP, SWChris, zulas
 
 ---

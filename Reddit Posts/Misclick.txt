@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - CAMKART100 (2):** Guardaxion (S1), Westcraft00 (S1)
+
+**1st - Sharkbob94349 (2):** broccoliar (S1), Brodator (S1)
+
+**1st - SpaceFenix (2):** CAMKART100 (S1), EndestroyerEpic (S1)
+
+**4th - Brodator (1):** ShootingGoats (S1)
+
+**4th - ShootingGoats (1):** Cooooldude (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (10):** broccoliar, Guardaxion, Westcraft00, Cooooldude, CAMKART100, ShootingGoats, EndestroyerEpic, Brodator, Sharkbob94349, SpaceFenix
+**S1 (10):** broccoliar, Brodator, CAMKART100, Cooooldude, EndestroyerEpic, Guardaxion, Sharkbob94349, ShootingGoats, SpaceFenix, Westcraft00
 
 ---

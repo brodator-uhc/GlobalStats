@@ -41,6 +41,57 @@
 ---
 ### Kills
 
+**1st - RohanSmashBro (11):** sgouche (S1), winterf (S1), ToeKun (S1), TalonBX (S1), broccoliar (S1), ArcticSeagull (S1), broccoliar (S2), brinkwhy (S2), carterwarterbear (S2), SOAKLE (S2), CodeJoshua (S2)
+
+**2nd - benidk (6):** Captinn (S2), strategy (S2), ArcticSeagull (S2), Bornyo (S2), bayweafs (S2), _1mmortal_ (S2)
+
+**3rd - Flcnt (5):** AvyleZ (S1), _1mmortal_ (S1), ScaryPumpkinFace (S1), Ryfri (S1), Bulbexe (S1)
+
+**3rd - Kelawesome (5):** fruitlogic (S1), fruitlogic (S2), Kaddyn (S2), _carn (S2), sgouche (S2)
+
+**5th - Bulbexe (4):** LightingMC (S1), Gorgerous (S1), RohanSmashBro (S1), _Fost_ (S1)
+
+**6th - _1mmortal_ (3):** Bornyo (S1), CHAINGE (S1), ScaryPumpkinFace (S2)
+
+**6th - GrassPiece (3):** Kelawesome (S2), Hecticity (S2), Ryfri (S2)
+
+**8th - AvyleZ (2):** AshRiolu100985 (S1), _carn (S1)
+
+**8th - bayweafs (2):** BuildingBard300 (S1), Greeples (S1)
+
+**8th - carterwarterbear (2):** BandaiNamco (S2), DripGodDavid (S2)
+
+**8th - DripGodDavid (2):** noktime (S2), spxrkz_ (S2)
+
+**8th - Fcrm (2):** CHAINGE (S2), Bulbexe (S2)
+
+**8th - Ryfri (2):** poWpaH (S1), goompah (S1)
+
+**8th - skyzfy (2):** sr8611 (S2), GrassPiece (S2)
+
+**15th - _carn (1):** nug17 (S2)
+
+**15th - ArcticSeagull (1):** bayweafs (S1)
+
+**15th - Bornyo (1):** Fcrm (S2)
+
+**15th - brinkwhy (1):** poWpaH (S2)
+
+**15th - broccoliar (1):** MichaelPlayMC (S1)
+
+**15th - CHAINGE (1):** Cahmn (S2)
+
+**15th - CodeJoshua (1):** skyzfy (S2)
+
+**15th - fruitlogic (1):** Kelawesome (S1)
+
+**15th - LightingMC (1):** BuildingBard300 (S2)
+
+**15th - poWpaH (1):** noktime (S1)
+
+**15th - ScaryPumpkinFace (1):** IdkKiller (S1)
+
+**15th - SOAKLE (1):** LightingMC (S2)
 
 ---
 ### PvE Deaths
@@ -53,8 +104,8 @@
 ---
 ### Debutants
 
-**S1 (30):** MichaelPlayMC, BuildingBard300, Kelawesome, fruitlogic, sgouche, noktime, poWpaH, LightingMC, goompah, Greeples, winterf, AshRiolu100985, ToeKun, Bornyo, _carn, AvyleZ, TalonBX, Gorgerous, CHAINGE, IdkKiller, broccoliar, bayweafs, ArcticSeagull, RohanSmashBro, _1mmortal_, _Fost_, ScaryPumpkinFace, Ryfri, Bulbexe, Flcnt
+**S1 (30):** _1mmortal_, _carn, _Fost_, ArcticSeagull, AshRiolu100985, AvyleZ, bayweafs, Bornyo, broccoliar, BuildingBard300, Bulbexe, CHAINGE, Flcnt, fruitlogic, goompah, Gorgerous, Greeples, IdkKiller, Kelawesome, LightingMC, MichaelPlayMC, noktime, poWpaH, RohanSmashBro, Ryfri, ScaryPumpkinFace, sgouche, TalonBX, ToeKun, winterf
 
-**S2 (18):** sr8611, nug17, Kaddyn, Cahmn, Hecticity, BandaiNamco, Captinn, strategy, GrassPiece, spxrkz_, brinkwhy, DripGodDavid, skyzfy, Fcrm, carterwarterbear, SOAKLE, CodeJoshua, benidk
+**S2 (18):** BandaiNamco, benidk, brinkwhy, Cahmn, Captinn, carterwarterbear, CodeJoshua, DripGodDavid, Fcrm, GrassPiece, Hecticity, Kaddyn, nug17, skyzfy, SOAKLE, spxrkz_, sr8611, strategy
 
 ---

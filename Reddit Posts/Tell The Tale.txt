@@ -45,6 +45,55 @@
 ---
 ### Kills
 
+**1st - brinkwhy (5):** Greeples (S2), Guzmeme (S2), MCmattFTW (S2), BSBrent (S3), Prisma (S3)
+
+**2nd - lexicuhl (4):** Psykl0ne (S2), chloesad (S2), Sluggyg (S2), LegoBeast (S3)
+
+**2nd - OnlyCosmia (4):** wowjennawow (S3), SmolHatChild (S3), Greeples (S3), Dj8ninja (S3)
+
+**2nd - Prisma (4):** vynil (S3), MajorWoof (S3), Espik (S3), NajaOxiana (S3)
+
+**2nd - Vawqer (4):** Broseph (S1), TommySuX (S1), Greeples (S1), Professer_TNT (S1)
+
+**6th - BSBrent (3):** wibbol (S3), aalaan (S3), Normoh (S3)
+
+**6th - Dj8ninja (3):** EnergyPulse (S3), Pelycosaur (S3), YellowVitt (S3)
+
+**8th - BardMain2 (2):** SiahStone (S3), SummerBqsh (S3)
+
+**8th - chloesad (2):** jommyappleseed (S2), BardMain2 (S2)
+
+**8th - EnergyPulse (2):** WillBrisk (S3), Guzmeme (S3)
+
+**8th - Guzmeme (2):** Espik (S1), Vawqer (S2)
+
+**8th - ShyGus (2):** Broseph (S3), Codwhy (S3)
+
+**8th - SiahStone (2):** Topspinpiggles (S1), Psykl0ne (S1)
+
+**8th - vynil (2):** lexicuhl (S3), FumoSnake (S3)
+
+**8th - zack502rh (2):** OnlyCosmia (S3), ShyGus (S3)
+
+**16th - AnUncreativeCat (1):** Vawqer (S1)
+
+**16th - Espik (1):** Zahkari (S1)
+
+**16th - FumoSnake (1):** BardMain2 (S3)
+
+**16th - LegoBeast (1):** dRawry (S3)
+
+**16th - MajorWoof (1):** Flufayy (S3)
+
+**16th - Normoh (1):** Davidsid (S3)
+
+**16th - Pelycosaur (1):** Psykl0ne (S3)
+
+**16th - Psykl0ne (1):** wowjennawow (S1)
+
+**16th - Sluggyg (1):** SmolHatChild (S2)
+
+**16th - SmolHatChild (1):** zack502rh (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +106,10 @@
 ---
 ### Debutants
 
-**S1 (16):** frogsella, YellowVitt, Zahkari, Broseph, TommySuX, Greeples, Topspinpiggles, wowjennawow, Psykl0ne, Professer_TNT, Vawqer, Espik, AnUncreativeCat, Guzmeme, SiahStone, SmolHatChild
+**S1 (16):** AnUncreativeCat, Broseph, Espik, frogsella, Greeples, Guzmeme, Professer_TNT, Psykl0ne, SiahStone, SmolHatChild, TommySuX, Topspinpiggles, Vawqer, wowjennawow, YellowVitt, Zahkari
 
-**S2 (10):** jommyappleseed, Bacan, BardMain2, ShyGus, zack502rh, chloesad, Sluggyg, MCmattFTW, brinkwhy, lexicuhl
+**S2 (10):** Bacan, BardMain2, brinkwhy, chloesad, jommyappleseed, lexicuhl, MCmattFTW, ShyGus, Sluggyg, zack502rh
 
-**S3 (21):** Beta_Owl, Davidsid, Flufayy, Codwhy, wibbol, WillBrisk, dRawry, LegoBeast, SummerBqsh, EnergyPulse, Pelycosaur, aalaan, FumoSnake, vynil, Dj8ninja, Normoh, BSBrent, MajorWoof, OnlyCosmia, NajaOxiana, Prisma
+**S3 (21):** aalaan, Beta_Owl, BSBrent, Codwhy, Davidsid, Dj8ninja, dRawry, EnergyPulse, Flufayy, FumoSnake, LegoBeast, MajorWoof, NajaOxiana, Normoh, OnlyCosmia, Pelycosaur, Prisma, SummerBqsh, vynil, wibbol, WillBrisk
 
 ---

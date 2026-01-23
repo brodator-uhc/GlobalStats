@@ -37,6 +37,17 @@
 ---
 ### Kills
 
+**1st - MercuryParadox (5):** Wolfaye (S1), DianaB (S1), lexicuhl (S1), chloesad (S1), Cyndic (S1)
+
+**2nd - AvaCos (3):** SoulRawr (S1), MercuryParadox (S1), BushieHalf (S1)
+
+**2nd - SoulRawr (3):** Micale (S1), tilargo (S1), Rasguer (S1)
+
+**4th - jamertxn (2):** Daffz (S1), AvaCos (S1)
+
+**5th - BushieHalf (1):** Apex_Twinkie (S1)
+
+**5th - ColdBac (1):** jamertxn (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +60,6 @@
 ---
 ### Debutants
 
-**S1 (16):** Micale, Wolfaye, tilargo, Daffz, Rasguer, DianaB, Apex_Twinkie, SoulRawr, lexicuhl, chloesad, Cyndic, MercuryParadox, BushieHalf, AvaCos, jamertxn, ColdBac
+**S1 (16):** Apex_Twinkie, AvaCos, BushieHalf, chloesad, ColdBac, Cyndic, Daffz, DianaB, jamertxn, lexicuhl, MercuryParadox, Micale, Rasguer, SoulRawr, tilargo, Wolfaye
 
 ---

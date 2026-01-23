@@ -37,6 +37,37 @@
 ---
 ### Kills
 
+**1st - Hacn35 (4):** Greeples (S1), SpaceFenix (S1), 5kylord (S1), Hecticity (S1)
+
+**1st - nyaaia (4):** acadiangel (S1), SiahStone (S1), SummerBqsh (S1), Sluggyg (S1)
+
+**3rd - Austronomical (3):** spoocS_ (S1), jakeyx3 (S1), 4EyedSlime (S1)
+
+**3rd - Hecticity (3):** JmcLFA (S1), Broseph (S1), Hacn35 (S1)
+
+**3rd - Phoraxe (3):** nyaaia (S1), dontbow (S1), RiseGR (S1)
+
+**6th - Big_Z60 (1):** Digdude (S1)
+
+**6th - BSBrent (1):** Normoh (S1)
+
+**6th - Codwhy (1):** Spongey (S1)
+
+**6th - Digdude (1):** MajorWoof (S1)
+
+**6th - Fensua (1):** RassL (S1)
+
+**6th - ItsColinn (1):** BSBrent (S1)
+
+**6th - jakeyx3 (1):** Phoraxe (S1)
+
+**6th - SpaceFenix (1):** Big_Z60 (S1)
+
+**6th - Spongey (1):** Codwhy (S1)
+
+**6th - spoocS_ (1):** Zakkeagle (S1)
+
+**6th - Zakkeagle (1):** zCent (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +80,6 @@
 ---
 ### Debutants
 
-**S1 (32):** MajorWoof, JmcLFA, Digdude, Big_Z60, acadiangel, zCent, Zakkeagle, Spongey, Codwhy, SiahStone, SummerBqsh, Sluggyg, nyaaia, Broseph, Greeples, spoocS_, dontbow, Normoh, SpaceFenix, 5kylord, BSBrent, Hecticity, Hacn35, RiseGR, RassL, Phoraxe, jakeyx3, 4EyedSlime, Fensua, ItsColinn, Kassiie, Austronomical
+**S1 (32):** 4EyedSlime, 5kylord, acadiangel, Austronomical, Big_Z60, Broseph, BSBrent, Codwhy, Digdude, dontbow, Fensua, Greeples, Hacn35, Hecticity, ItsColinn, jakeyx3, JmcLFA, Kassiie, MajorWoof, Normoh, nyaaia, Phoraxe, RassL, RiseGR, SiahStone, Sluggyg, SpaceFenix, Spongey, spoocS_, SummerBqsh, Zakkeagle, zCent
 
 ---

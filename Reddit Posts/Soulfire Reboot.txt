@@ -45,6 +45,53 @@
 ---
 ### Kills
 
+**1st - ItsShqky (7):** bayweafs (S1), DevoyTTV (S1), Brodator (S1), AdonisGaming (S1), Stravilight (S1), Stravilight (S3), EndestroyerEpic (S3)
+
+**1st - omchris (7):** ItsShqky (S2), ChainingVermin2 (S2), Stravilight (S2), ShootingGoats (S2), cherryblawsom (S2), Kaismartypants (S2), Markedbooboy (S2)
+
+**3rd - Stravilight (6):** CodeJoshua (S1), CAMKART100 (S1), AdonisGaming (S2), Geroot (S2), Vetmire (S2), Greeples (S2)
+
+**4th - _1mmortal_ (5):** Westcraft00 (S1), CommanderK22_ (S1), broccoliar (S1), RohanSmashBro (S1), broccoliar (S2)
+
+**4th - Fcrm (5):** ScaryPumpkinFace (S3), vDyre (S3), Pgy (S3), EroseMC (S3), boyyoo (S3)
+
+**6th - CodeJoshua (4):** Sharkbob94349 (S2), bayweafs (S2), BuildingBard300 (S2), MineKG (S2)
+
+**7th - ColdBac (3):** Evzenitable (S2), Nyxana (S2), omchris (S2)
+
+**7th - kabobaa (3):** Ninetals38 (S3), Nyxana (S3), Fcrm (S3)
+
+**9th - broccoliar (2):** Vetmire (S1), _1mmortal_ (S2)
+
+**9th - MichaelPlayMC (2):** BuildingBard300 (S1), AdonisGaming (S3)
+
+**9th - rae0vr (2):** MineKG (S1), _Fost_ (S1)
+
+**9th - ScaryPumpkinFace (2):** Evzenitable (S3), zoeywithawhy (S3)
+
+**9th - Vetmire (2):** MichaelPlayMC (S1), RuneTactics (S1)
+
+**14th - Brodator (1):** MercuryParadox (S1)
+
+**14th - ChainingVermin2 (1):** JampoJohn (S2)
+
+**14th - DevoyTTV (1):** Ninetals38 (S2)
+
+**14th - EndestroyerEpic (1):** ShootingGoats (S3)
+
+**14th - Markedbooboy (1):** DevoyTTV (S2)
+
+**14th - Ninetals38 (1):** ItsShqky (S3)
+
+**14th - Nyxana (1):** OneMoreWeek (S3)
+
+**14th - OneMoreWeek (1):** MichaelPlayMC (S3)
+
+**14th - RohanSmashBro (1):** ItsShqky (S1)
+
+**14th - RuneTactics (1):** rae0vr (S1)
+
+**14th - Westcraft00 (1):** MichaelPlayMC (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +104,10 @@
 ---
 ### Debutants
 
-**S1 (21):** bayweafs, BuildingBard300, MichaelPlayMC, CodeJoshua, Westcraft00, MercuryParadox, MineKG, DevoyTTV, Brodator, CommanderK22_, _Fost_, CAMKART100, AdonisGaming, rae0vr, RuneTactics, Vetmire, broccoliar, ItsShqky, Stravilight, RohanSmashBro, _1mmortal_
+**S1 (21):** _1mmortal_, _Fost_, AdonisGaming, bayweafs, broccoliar, Brodator, BuildingBard300, CAMKART100, CodeJoshua, CommanderK22_, DevoyTTV, ItsShqky, MercuryParadox, MichaelPlayMC, MineKG, rae0vr, RohanSmashBro, RuneTactics, Stravilight, Vetmire, Westcraft00
 
-**S2 (16):** Ninetals38, Sharkbob94349, Evzenitable, poWpaH, Nyxana, Geroot, Greeples, JampoJohn, ChainingVermin2, GuyNamedKreo, ShootingGoats, cherryblawsom, Kaismartypants, Markedbooboy, omchris, ColdBac
+**S2 (16):** ChainingVermin2, cherryblawsom, ColdBac, Evzenitable, Geroot, Greeples, GuyNamedKreo, JampoJohn, Kaismartypants, Markedbooboy, Ninetals38, Nyxana, omchris, poWpaH, Sharkbob94349, ShootingGoats
 
-**S3 (10):** OneMoreWeek, zoeywithawhy, ScaryPumpkinFace, vDyre, Pgy, EroseMC, boyyoo, EndestroyerEpic, Fcrm, kabobaa
+**S3 (10):** boyyoo, EndestroyerEpic, EroseMC, Fcrm, kabobaa, OneMoreWeek, Pgy, ScaryPumpkinFace, vDyre, zoeywithawhy
 
 ---

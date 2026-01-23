@@ -45,6 +45,41 @@
 ---
 ### Kills
 
+**1st - Fcrm (10):** TehBaconBrawlerZ (S1), CipherKai (S1), CipherKai (S1), MercuryParadox (S2), CommanderK22_ (S3), ColdBac (S3), _Dieter (S3), _carn (S3), MercuryParadox (S3), Kaismartypants (S3)
+
+**1st - Lighte (10):** Greeples (S1), Codwhy (S1), Fcrm (S1), kirbey (S2), Fra49 (S2), CommanderK22_ (S2), pigghetti (S2), Ninetals38 (S3), broccoliar (S3), wizarde (S3)
+
+**3rd - benidk (5):** wizarde (S1), Lucarrio (S2), ColdBac (S2), Fcrm (S2), Lighte (S2)
+
+**3rd - CipherKai (5):** ScaryPumpkinFace (S1), Ullti (S2), stupidsylvia (S2), natsuvi (S2), wizarde (S2)
+
+**3rd - Flcnt (5):** CommanderK22_ (S1), Ullti (S1), Fra49 (S1), Markedbooboy (S2), Brodator (S2)
+
+**3rd - natsuvi (5):** _1mmortal_ (S1), Kaismartypants (S1), Flcnt (S1), pigghetti (S1), Lighte (S1)
+
+**7th - Kaismartypants (4):** Brodator (S1), ItsMeAR10 (S3), Lighte (S3), _1mmortal_ (S3)
+
+**8th - pigghetti (3):** ScaryPumpkinFace (S2), Flcnt (S2), SiahStone (S2)
+
+**9th - _1mmortal_ (2):** stupidsylvia (S3), DevoyTTV (S3)
+
+**9th - ColdBac (2):** cherryblawsom (S2), MarcC5M (S3)
+
+**9th - DJoee (2):** Gorgerous (S2), Kaismartypants (S2)
+
+**9th - SiahStone (2):** Greeples (S2), _1mmortal_ (S2)
+
+**13th - broccoliar (1):** Brodator (S3)
+
+**13th - CommanderK22_ (1):** CipherKai (S2)
+
+**13th - DevoyTTV (1):** ShyGus (S3)
+
+**13th - ItsMeAR10 (1):** AirInAirOut (S3)
+
+**13th - ScaryPumpkinFace (1):** DevoyTTV (S2)
+
+**13th - wizarde (1):** DJoee (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +92,10 @@
 ---
 ### Debutants
 
-**S1 (18):** CommanderK22_, Brodator, Ullti, ScaryPumpkinFace, Greeples, Codwhy, _1mmortal_, Fra49, Kaismartypants, Flcnt, TehBaconBrawlerZ, pigghetti, CipherKai, Fcrm, benidk, wizarde, Lighte, natsuvi
+**S1 (18):** _1mmortal_, benidk, Brodator, CipherKai, Codwhy, CommanderK22_, Fcrm, Flcnt, Fra49, Greeples, Kaismartypants, Lighte, natsuvi, pigghetti, ScaryPumpkinFace, TehBaconBrawlerZ, Ullti, wizarde
 
-**S2 (11):** kirbey, Lucarrio, Gorgerous, stupidsylvia, Markedbooboy, DevoyTTV, cherryblawsom, ColdBac, MercuryParadox, SiahStone, DJoee
+**S2 (11):** cherryblawsom, ColdBac, DevoyTTV, DJoee, Gorgerous, kirbey, Lucarrio, Markedbooboy, MercuryParadox, SiahStone, stupidsylvia
 
-**S3 (9):** Ninetals38, CAMKART100, MarcC5M, _Dieter, AirInAirOut, ShyGus, ItsMeAR10, broccoliar, _carn
+**S3 (9):** _carn, _Dieter, AirInAirOut, broccoliar, CAMKART100, ItsMeAR10, MarcC5M, Ninetals38, ShyGus
 
 ---

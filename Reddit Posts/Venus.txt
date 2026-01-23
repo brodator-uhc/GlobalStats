@@ -69,6 +69,57 @@
 ---
 ### Kills
 
+**1st - Kassiie (26):** dRawry (S1), Chessa (S1), Soshikun (S1), wowjennawow (S2), Phoebe (S2), wowjennawow (S3), dRawry (S4), Jaceyy (S4), Dida (S4), Chessa (S4), tagggz (S5), warriorcat (S5), Anorable (S5), cynnamon (S5), DianaB (S5), trillibytes (S6), kalleina (S6), CocoBenja (S6), tagggz (S6), GeniRCT (S8), Alisa_Muffins (S8), Charrlottie (S9), DianaB (S9), Dawncy (S9), wibbol (S9), tagggz (S9)
+
+**2nd - lexicuhl (15):** Starflash (S2), Jazcat (S2), EighteenQs (S3), DianaB (S3), cynnamon (S3), xMadisonx (S3), Aqualox (S3), sonmica (S3), wibbol (S6), Kassiie (S7), Dj8ninja (S7), wibbol (S8), Kassiie (S8), Klickacat (S9), NajaOxiana (S9)
+
+**3rd - tagggz (13):** chloesad (S4), Aqualox (S4), Starflash (S4), cynnamon (S4), warriorcat (S4), Prisma (S5), Jaceyy (S5), NajaOxiana (S5), tiffaroni (S9), abigail (S9), nFang (S9), Prisma (S9), Dida (S9)
+
+**4th - dRawry (10):** cynnamon (S2), Kassiie (S2), KatyLawson (S3), Soshikun (S3), lexicuhl (S3), PhantomPuppet (S4), lexicuhl (S4), chloesad (S5), trillibytes (S5), Kassiie (S5)
+
+**5th - cynnamon (8):** babyhiccups (S1), Chessa (S2), lexicuhl (S2), KatyLawson (S2), kalleina (S5), Kayker (S5), DianaB (S6), dRawry (S6)
+
+**5th - warriorcat (8):** Leriella (S1), DianaB (S2), wibbol (S5), Anorable (S7), Dawncy (S7), daltcn (S7), RosiePlays_YT (S7), GeniRCT (S7)
+
+**7th - wibbol (7):** olivieh (S7), lexicuhl (S7), Hefaistros (S7), Prisma (S7), Dawncy (S8), CocoBenja (S9), daltcn (S9)
+
+**8th - Chessa (6):** Zenixs (S1), kalleina (S3), Kassiie (S3), tagggz (S4), DianaB (S4), Dida (S5)
+
+**8th - Prisma (6):** warriorcat (S6), cynnamon (S6), lexicuhl (S6), tagggz (S7), Chessa (S7), nFang (S7)
+
+**10th - daltcn (4):** Trinan6918 (S7), cynnamon (S7), NotMineProblem (S7), Dj8ninja (S9)
+
+**10th - DianaB (4):** xMadisonx (S2), wowjennawow (S4), SofaSeven (S5), CocoBenja (S8)
+
+**10th - GeniRCT (4):** CocoBenja (S7), Caffeindiazepine (S7), nFang (S8), NajaOxiana (S8)
+
+**13th - Anorable (3):** Alisa_Muffins (S7), Prisma (S8), hales (S9)
+
+**13th - NajaOxiana (3):** Anorable (S6), DianaB (S8), Alisa_Muffins (S9)
+
+**13th - Phoebe (3):** Geckor (S1), Bri (S1), Pinnkey (S2)
+
+**16th - babyhiccups (2):** Phoebe (S1), warriorcat (S1)
+
+**16th - CocoBenja (2):** chloesad (S7), nsket (S7)
+
+**16th - Dawncy (2):** warriorcat (S9), lexicuhl (S9)
+
+**16th - Dida (2):** the_digs (S5), Anorable (S9)
+
+**16th - RosiePlays_YT (2):** Chessa (S5), kalleina (S7)
+
+**16th - Soshikun (2):** KatyLawson (S1), Zevulpes (S3)
+
+**22nd - Bri (1):** sonmica (S1)
+
+**22nd - nFang (1):** DianaB (S7)
+
+**22nd - NotMineProblem (1):** dRawry (S7)
+
+**22nd - wowjennawow (1):** PhantomPuppet (S3)
+
+**22nd - Zenixs (1):** DianaB (S1)
 
 ---
 ### PvE Deaths
@@ -81,22 +132,22 @@
 ---
 ### Debutants
 
-**S1 (16):** dRawry, PhantomPuppet, KatyLawson, sonmica, Geckor, Bri, Phoebe, DianaB, Leriella, warriorcat, Zenixs, Chessa, babyhiccups, Soshikun, cynnamon, Kassiie
+**S1 (16):** babyhiccups, Bri, Chessa, cynnamon, DianaB, dRawry, Geckor, Kassiie, KatyLawson, Leriella, PhantomPuppet, Phoebe, sonmica, Soshikun, warriorcat, Zenixs
 
-**S2 (6):** Starflash, Jazcat, Pinnkey, xMadisonx, wowjennawow, lexicuhl
+**S2 (6):** Jazcat, lexicuhl, Pinnkey, Starflash, wowjennawow, xMadisonx
 
-**S3 (4):** EighteenQs, Aqualox, kalleina, Zevulpes
+**S3 (4):** Aqualox, EighteenQs, kalleina, Zevulpes
 
-**S4 (5):** NajaOxiana, chloesad, Jaceyy, Dida, tagggz
+**S4 (5):** chloesad, Dida, Jaceyy, NajaOxiana, tagggz
 
-**S5 (8):** wibbol, Prisma, Kayker, trillibytes, the_digs, SofaSeven, Anorable, RosiePlays_YT
+**S5 (8):** Anorable, Kayker, Prisma, RosiePlays_YT, SofaSeven, the_digs, trillibytes, wibbol
 
 **S6 (1):** CocoBenja
 
-**S7 (12):** olivieh, nsket, Trinan6918, NotMineProblem, Alisa_Muffins, Dawncy, Caffeindiazepine, Dj8ninja, daltcn, nFang, GeniRCT, Hefaistros
+**S7 (12):** Alisa_Muffins, Caffeindiazepine, daltcn, Dawncy, Dj8ninja, GeniRCT, Hefaistros, nFang, NotMineProblem, nsket, olivieh, Trinan6918
 
 **S8 (0):** 
 
-**S9 (5):** Charrlottie, hales, tiffaroni, abigail, Klickacat
+**S9 (5):** abigail, Charrlottie, hales, Klickacat, tiffaroni
 
 ---

@@ -37,6 +37,9 @@
 ---
 ### Kills
 
+**1st - DJoee (2):** azoof (S1), milkteaboards (S1)
+
+**2nd - ShmeckleBoy (1):** DJoee (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +52,6 @@
 ---
 ### Debutants
 
-**S1 (21):** Bacan, SpaceFenix, Muzzzze, 78ford, azoof, zCent, milkteaboards, DJoee, Greeples, Aybel, hazel_doe, cherryblawsom, ColdBac, fruitlogic, ItsColinn, Kelawesome, OhMatias, olivieh, ShmeckleBoy, YunJit, Sorvent
+**S1 (21):** 78ford, Aybel, azoof, Bacan, cherryblawsom, ColdBac, DJoee, fruitlogic, Greeples, hazel_doe, ItsColinn, Kelawesome, milkteaboards, Muzzzze, OhMatias, olivieh, ShmeckleBoy, Sorvent, SpaceFenix, YunJit, zCent
 
 ---

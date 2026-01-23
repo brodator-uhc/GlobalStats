@@ -53,6 +53,49 @@
 ---
 ### Kills
 
+**1st - vishs (12):** Professer_TNT (S3), Big_Z60 (S3), Austronomical (S3), Bottiken (S3), Chipzzy (S3), McBomba (S4), Digitil (S4), JaeHasNoMaidens (S4), spoocS_ (S4), IceMan8030 (S4), Pehnk (S4), Regifloat (S4)
+
+**2nd - Big_Z60 (11):** StoneAgedGaming (S1), Professer_TNT (S1), spoocS_ (S1), TheRealHagrid (S1), JaeHasNoMaidens (S2), Balone (S2), jamertxn (S2), Sluggyg (S3), JaeHasNoMaidens (S3), Mincrooft (S4), Sluggyg (S4)
+
+**3rd - Pehnk (10):** Chipzzy (S1), StoneAgedGaming (S2), MistaUnicorn (S2), Big_Z60 (S2), spoocS_ (S3), Dj8ninja (S3), TheRealHagrid (S3), TheRealHagrid (S4), Professer_TNT (S4), kalleina (S4)
+
+**4th - Austronomical (7):** spoocS_ (S2), IceMan8030 (S2), IceMan8030 (S3), McBomba (S3), octagonalpaul (S3), KingsGaming (S3), Pehnk (S3)
+
+**5th - Professer_TNT (4):** Sluggyg (S1), iRedx (S2), Lighte (S4), Kiinako_ (S5)
+
+**6th - Balone (3):** Professer_TNT (S2), Austronomical (S2), IzunaLoli (S2)
+
+**6th - GoldenNs (3):** IceMan8030 (S1), LunarUmbreon (S1), McBomba (S1)
+
+**6th - MajorDH (3):** RedSky (S1), StoneAgedGaming (S3), IzunaLoli (S3)
+
+**6th - RedSky (3):** Pehnk (S1), GoldenNs (S1), MajorDH (S1)
+
+**10th - Bottiken (2):** Starflash (S3), MajorDH (S3)
+
+**10th - Lighte (2):** vishs (S5), WillBrisk (S5)
+
+**10th - vynil (2):** LunarUmbreon (S5), Mincrooft (S5)
+
+**13th - Chipzzy (1):** NajaOxiana (S3)
+
+**13th - Dj8ninja (1):** Starflash (S4)
+
+**13th - IzunaLoli (1):** RedSky (S2)
+
+**13th - JaeHasNoMaidens (1):** Regifloat (S2)
+
+**13th - KingsGaming (1):** LunarUmbreon (S3)
+
+**13th - lexicuhl (1):** Bulbae (S5)
+
+**13th - Regifloat (1):** Dj8ninja (S4)
+
+**13th - Sluggyg (1):** Starflash (S1)
+
+**13th - Starflash (1):** Regifloat (S3)
+
+**13th - StoneAgedGaming (1):** LunarUmbreon (S2)
 
 ---
 ### PvE Deaths
@@ -65,14 +108,14 @@
 ---
 ### Debutants
 
-**S1 (16):** IzunaLoli, IceMan8030, LunarUmbreon, Chipzzy, McBomba, Pehnk, GoldenNs, StoneAgedGaming, MajorDH, RedSky, Starflash, Sluggyg, Professer_TNT, spoocS_, TheRealHagrid, Big_Z60
+**S1 (16):** Big_Z60, Chipzzy, GoldenNs, IceMan8030, IzunaLoli, LunarUmbreon, MajorDH, McBomba, Pehnk, Professer_TNT, RedSky, Sluggyg, spoocS_, Starflash, StoneAgedGaming, TheRealHagrid
 
-**S2 (9):** BZ_STEVE, Bulbae, Regifloat, iRedx, JaeHasNoMaidens, Austronomical, Balone, MistaUnicorn, jamertxn
+**S2 (9):** Austronomical, Balone, Bulbae, BZ_STEVE, iRedx, JaeHasNoMaidens, jamertxn, MistaUnicorn, Regifloat
 
-**S3 (6):** Dj8ninja, octagonalpaul, KingsGaming, NajaOxiana, Bottiken, vishs
+**S3 (6):** Bottiken, Dj8ninja, KingsGaming, NajaOxiana, octagonalpaul, vishs
 
-**S4 (4):** Lighte, Digitil, Mincrooft, kalleina
+**S4 (4):** Digitil, kalleina, Lighte, Mincrooft
 
-**S5 (14):** Broseph, WillBrisk, vynil, Kiinako_, aalaan, Flouzemaker, Awticon, Rebelghost, Davelions, Abdalain, BBR_, GamingMes, JamestheDouglas, lexicuhl
+**S5 (14):** aalaan, Abdalain, Awticon, BBR_, Broseph, Davelions, Flouzemaker, GamingMes, JamestheDouglas, Kiinako_, lexicuhl, Rebelghost, vynil, WillBrisk
 
 ---

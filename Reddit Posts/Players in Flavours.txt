@@ -37,6 +37,29 @@
 ---
 ### Kills
 
+**1st - lottebunny (6):** ShyGus (S1), Prisma (S1), Broseph (S1), Centrios (S1), nyaaia (S1), 4EyedSlime (S1)
+
+**2nd - Cyndic (5):** Normoh (S1), aalaan (S1), Codwhy (S1), lexicuhl (S1), vynil (S1)
+
+**3rd - vynil (4):** NajaOxiana (S1), YellowVitt (S1), SiahStone (S1), SmolHatChild (S1)
+
+**4th - BSBrent (2):** Drkrai (S1), lottebunny (S1)
+
+**4th - lexicuhl (2):** chloesad (S1), TheSonicJoey (S1)
+
+**4th - Normoh (2):** Psykl0ne (S1), automavic (S1)
+
+**4th - ShyGus (2):** Bacan (S1), ColdBac (S1)
+
+**8th - automavic (1):** EnergyPulse (S1)
+
+**8th - EnergyPulse (1):** BushieHalf (S1)
+
+**8th - NajaOxiana (1):** AnUncreativeCat (S1)
+
+**8th - SmolHatChild (1):** tilargo (S1)
+
+**8th - tilargo (1):** nsket (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +72,6 @@
 ---
 ### Debutants
 
-**S1 (30):** Psykl0ne, Bacan, BushieHalf, ColdBac, ShyGus, chloesad, AnUncreativeCat, TheSonicJoey, NajaOxiana, EnergyPulse, automavic, Normoh, Prisma, nsket, Broseph, Drkrai, aalaan, Codwhy, YellowVitt, Centrios, lexicuhl, nyaaia, SiahStone, tilargo, SmolHatChild, 4EyedSlime, vynil, lottebunny, BSBrent, Cyndic
+**S1 (30):** 4EyedSlime, aalaan, AnUncreativeCat, automavic, Bacan, Broseph, BSBrent, BushieHalf, Centrios, chloesad, Codwhy, ColdBac, Cyndic, Drkrai, EnergyPulse, lexicuhl, lottebunny, NajaOxiana, Normoh, nsket, nyaaia, Prisma, Psykl0ne, ShyGus, SiahStone, SmolHatChild, TheSonicJoey, tilargo, vynil, YellowVitt
 
 ---

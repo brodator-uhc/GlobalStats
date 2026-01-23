@@ -49,6 +49,53 @@
 ---
 ### Kills
 
+**1st - Kelawesome (7):** LqndSlide (S1), JasonBPE (S1), Sluggyg (S1), IceshardEleven (S1), MCmattFTW (S1), Coward (S2), MCmattFTW (S3)
+
+**2nd - Boomblade60 (5):** drewxd (S2), IceshardEleven (S2), iQuick_ (S2), Abdalain (S3), Bornyo (S3)
+
+**2nd - cherryblawsom (5):** TonyEatWorld (S2), Abdalain (S2), MCmattFTW (S2), cynnamon (S3), spoocS_ (S3)
+
+**2nd - InsertDotJpeg (5):** Gepple (S1), DevoyTTV (S4), Gepple (S4), NajaOxiana (S4), JasonBPE (S4)
+
+**2nd - PauloSSB (5):** ChainingVermin2 (S3), Sorvent (S3), Chipzzy (S3), ThisIsHab (S3), SiahStone (S3)
+
+**6th - Abandoned (3):** PoofessorP (S3), cherryblawsom (S3), JustNolan (S3)
+
+**6th - FrostBros (3):** spoocS_ (S4), SiahStone (S4), InsertDotJpeg (S4)
+
+**6th - MCmattFTW (3):** Ryfri (S1), Boomblade60 (S2), cherryblawsom (S2)
+
+**9th - JasonBPE (2):** Sorvent (S1), Centrios (S4)
+
+**9th - JustNolan (2):** Kelawesome (S3), PauloSSB (S3)
+
+**9th - lilygant (2):** JamestheDouglas (S4), Anorable (S4)
+
+**9th - Renais (2):** Broseph (S4), SmolHatChild (S4)
+
+**9th - SiahStone (2):** TPolls (S3), Hondo (S3)
+
+**9th - TonyEatWorld (2):** lilygant (S3), Stormy_A (S3)
+
+**15th - Chipzzy (1):** CloudyStars (S3)
+
+**15th - drewxd (1):** JahMuis (S2)
+
+**15th - GRLH (1):** SmolHatChild (S3)
+
+**15th - Hondo (1):** Boomblade60 (S3)
+
+**15th - IceshardEleven (1):** SoulRawr (S1)
+
+**15th - JamestheDouglas (1):** Renais (S4)
+
+**15th - LqndSlide (1):** InsertDotJpeg (S1)
+
+**15th - SmolHatChild (1):** GRLH (S3)
+
+**15th - SoulRawr (1):** cherryblawsom (S1)
+
+**15th - Wyntre (1):** Kelawesome (S2)
 
 ---
 ### PvE Deaths
@@ -61,12 +108,12 @@
 ---
 ### Debutants
 
-**S1 (13):** Abdalain, Gepple, cherryblawsom, Sorvent, InsertDotJpeg, LqndSlide, JasonBPE, Sluggyg, SoulRawr, Ryfri, IceshardEleven, MCmattFTW, Kelawesome
+**S1 (13):** Abdalain, cherryblawsom, Gepple, IceshardEleven, InsertDotJpeg, JasonBPE, Kelawesome, LqndSlide, MCmattFTW, Ryfri, Sluggyg, Sorvent, SoulRawr
 
-**S2 (9):** spoocS_, TonyEatWorld, JahMuis, Centrios, drewxd, iQuick_, Boomblade60, Coward, Wyntre
+**S2 (9):** Boomblade60, Centrios, Coward, drewxd, iQuick_, JahMuis, spoocS_, TonyEatWorld, Wyntre
 
-**S3 (19):** honestlyhunter, DJblak, ChainingVermin2, lilygant, Bornyo, SmolHatChild, GRLH, Stormy_A, CloudyStars, TPolls, Hondo, cynnamon, PoofessorP, Chipzzy, ThisIsHab, SiahStone, PauloSSB, JustNolan, Abandoned
+**S3 (19):** Abandoned, Bornyo, ChainingVermin2, Chipzzy, CloudyStars, cynnamon, DJblak, GRLH, Hondo, honestlyhunter, JustNolan, lilygant, PauloSSB, PoofessorP, SiahStone, SmolHatChild, Stormy_A, ThisIsHab, TPolls
 
-**S4 (7):** DevoyTTV, NajaOxiana, FrostBros, Broseph, Renais, JamestheDouglas, Anorable
+**S4 (7):** Anorable, Broseph, DevoyTTV, FrostBros, JamestheDouglas, NajaOxiana, Renais
 
 ---

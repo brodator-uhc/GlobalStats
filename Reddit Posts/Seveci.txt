@@ -57,6 +57,101 @@
 ---
 ### Kills
 
+**1st - CipherKai (20):** coldified (S1), violetwoah (S1), Moonlitess (S1), loyaltea (S1), AHSOKATANOSTAN (S1), Dcrpy (S1), ERHDude (S2), DevoyTTV (S2), FrostBros (S2), Kelawesome (S2), Cyndic (S3), Zebobo10 (S3), LightingMC (S4), Bulbexe (S4), Karliffu (S4), brinkwhy (S4), Kelawesome (S4), DJoee (S5), _carn (S5), xtiger34 (S5)
+
+**2nd - Kelawesome (8):** xDiversity (S2), natsuvi (S2), loyaltea (S2), DrSliced (S2), DevoyTTV (S4), _carn (S4), Fcrm (S4), Flcnt (S4)
+
+**3rd - benidk (7):** AiroKun (S4), RohanSmashBro (S4), _1mmortal_ (S4), SimplySam (S5), Fcrm (S5), RohanSmashBro (S6), broccoliar (S6)
+
+**3rd - xDiversity (7):** Karliffu (S1), _1mmortal_ (S1), ItsColinn (S1), DripGodDavid (S6), Lighte (S6), carterwarterbear (S6), Cyndic (S6)
+
+**5th - colbay (6):** RemyChingling (S5), Krbreb (S5), UbiquityHD (S5), Captinn (S5), benidk (S5), Batusko (S5)
+
+**5th - DevoyTTV (6):** AHSOKATANOSTAN (S2), brinkwhy (S2), IyaIsMad (S3), Bulbexe (S3), Fearx_ (S4), SpaceFenix (S5)
+
+**5th - LightingMC (6):** swishduck (S3), violetwoah (S3), zeesue (S3), onstep (S3), natsuvi (S3), willif (S4)
+
+**5th - natsuvi (6):** Cubic44 (S2), zac083 (S3), brinkwhy (S3), RohanSmashBro (S3), Jayzize (S4), broccoliar (S4)
+
+**9th - Fcrm (5):** fruitberries (S1), CipherKai (S1), cherryblawsom (S1), Dcrpy (S4), Bobbytheturtle (S5)
+
+**9th - RohanSmashBro (5):** Kelawesome (S3), CipherKai (S3), Karliffu (S3), DevoyTTV (S3), SOAKLE (S6)
+
+**11th - Bornyo (4):** _Fost_ (S6), Lucarrio (S6), _1mmortal_ (S6), skyzfy (S6)
+
+**11th - Cubic44 (4):** AvyleZ (S2), Bulbexe (S2), _Txchno_ (S2), broccoliar (S2)
+
+**11th - vynil (4):** Coward (S2), Cloversss (S6), ItsColinn (S6), sgouche (S6)
+
+**14th - _carn (3):** natsuvi (S5), Bornyo (S6), vynil (S6)
+
+**14th - Bulbexe (3):** wizarde (S4), Jayzize (S5), carterwarterbear (S5)
+
+**14th - carterwarterbear (3):** RohanSmashBro (S5), DevoyTTV (S5), Bulbexe (S6)
+
+**14th - cherryblawsom (3):** xDiversity (S1), ZachMcD (S2), _carn (S6)
+
+**14th - Flcnt (3):** Krbreb (S4), solnyki (S4), benidk (S4)
+
+**14th - FrostBros (3):** Moonlitess (S2), violetwoah (S2), zac083 (S2)
+
+**14th - fruitberries (3):** eliexists (S1), colbay (S1), Jorgeeay (S1)
+
+**14th - ImChile (3):** DragonGlory (S3), Moonlitess (S3), LightingMC (S3)
+
+**14th - xtiger34 (3):** Dcrpy (S5), Cloversss (S5), Kelawesome (S5)
+
+**23rd - Batusko (2):** zeesue (S5), Bulbexe (S5)
+
+**23rd - Dcrpy (2):** DevoyTTV (S1), Bohe (S1)
+
+**23rd - PupperKun (2):** Kelawesome (S6), cherryblawsom (S6)
+
+**23rd - UbiquityHD (2):** zac083 (S4), zeesue (S4)
+
+**23rd - zac083 (2):** 5idekick (S2), SpaceFenix (S4)
+
+**28th - _1mmortal_ (1):** NotMyLights (S5)
+
+**28th - AiroKun (1):** SSGSS4Goku (S4)
+
+**28th - AvyleZ (1):** _1mmortal_ (S2)
+
+**28th - brinkwhy (1):** UbiquityHD (S4)
+
+**28th - CHAINGE (1):** Fcrm (S6)
+
+**28th - DrSliced (1):** cherryblawsom (S2)
+
+**28th - eliexists (1):** Vetmire (S1)
+
+**28th - ERHDude (1):** vynil (S2)
+
+**28th - Karliffu (1):** St0rmplayz (S3)
+
+**28th - Lighte (1):** SiahStone (S6)
+
+**28th - loyaltea (1):** Cubic44 (S1)
+
+**28th - Moonlitess (1):** Lucarrio (S3)
+
+**28th - NotMyLights (1):** sgouche (S5)
+
+**28th - onstep (1):** strategy (S3)
+
+**28th - RemyChingling (1):** _1mmortal_ (S5)
+
+**28th - sgouche (1):** benidk (S6)
+
+**28th - SimplySam (1):** CipherKai (S5)
+
+**28th - SOAKLE (1):** Krbreb (S6)
+
+**28th - strategy (1):** Jayzize (S3)
+
+**28th - violetwoah (1):** poWpaH (S2)
+
+**28th - zeesue (1):** natsuvi (S4)
 
 ---
 ### PvE Deaths
@@ -69,16 +164,16 @@
 ---
 ### Debutants
 
-**S1 (21):** DevoyTTV, Bohe, Vetmire, eliexists, colbay, Jorgeeay, fruitberries, Karliffu, coldified, violetwoah, Moonlitess, Cubic44, _1mmortal_, loyaltea, ItsColinn, xDiversity, AHSOKATANOSTAN, Dcrpy, CipherKai, cherryblawsom, Fcrm
+**S1 (21):** _1mmortal_, AHSOKATANOSTAN, Bohe, cherryblawsom, CipherKai, colbay, coldified, Cubic44, Dcrpy, DevoyTTV, eliexists, Fcrm, fruitberries, ItsColinn, Jorgeeay, Karliffu, loyaltea, Moonlitess, Vetmire, violetwoah, xDiversity
 
-**S2 (16):** poWpaH, 5idekick, AvyleZ, Bulbexe, _Txchno_, Coward, vynil, ERHDude, broccoliar, zac083, brinkwhy, ZachMcD, natsuvi, FrostBros, DrSliced, Kelawesome
+**S2 (16):** _Txchno_, 5idekick, AvyleZ, brinkwhy, broccoliar, Bulbexe, Coward, DrSliced, ERHDude, FrostBros, Kelawesome, natsuvi, poWpaH, vynil, zac083, ZachMcD
 
-**S3 (14):** swishduck, zeesue, Lucarrio, IyaIsMad, DragonGlory, St0rmplayz, Cyndic, Jayzize, strategy, Zebobo10, onstep, RohanSmashBro, LightingMC, ImChile
+**S3 (14):** Cyndic, DragonGlory, ImChile, IyaIsMad, Jayzize, LightingMC, Lucarrio, onstep, RohanSmashBro, St0rmplayz, strategy, swishduck, Zebobo10, zeesue
 
-**S4 (12):** SSGSS4Goku, SpaceFenix, wizarde, Fearx_, willif, Krbreb, AiroKun, solnyki, _carn, UbiquityHD, benidk, Flcnt
+**S4 (12):** _carn, AiroKun, benidk, Fearx_, Flcnt, Krbreb, solnyki, SpaceFenix, SSGSS4Goku, UbiquityHD, willif, wizarde
 
-**S5 (11):** sgouche, NotMyLights, RemyChingling, DJoee, Cloversss, Captinn, xtiger34, Bobbytheturtle, SimplySam, carterwarterbear, Batusko
+**S5 (11):** Batusko, Bobbytheturtle, Captinn, carterwarterbear, Cloversss, DJoee, NotMyLights, RemyChingling, sgouche, SimplySam, xtiger34
 
-**S6 (9):** SiahStone, SOAKLE, DripGodDavid, _Fost_, skyzfy, Bornyo, Lighte, CHAINGE, PupperKun
+**S6 (9):** _Fost_, Bornyo, CHAINGE, DripGodDavid, Lighte, PupperKun, SiahStone, skyzfy, SOAKLE
 
 ---

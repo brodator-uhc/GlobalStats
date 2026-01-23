@@ -37,6 +37,35 @@
 ---
 ### Kills
 
+**1st - AvaCos (9):** Potsie (S1), automavic (S1), Fra49 (S1), Kelawesome (S1), HUNTERKUN (S1), C_money (S1), Fensua (S1), dahii (S1), cherryblawsom (S1)
+
+**2nd - dahii (3):** Brendnn (S1), Normoh (S1), ItsFishy (S1)
+
+**3rd - HUNTERKUN (2):** LightningS7 (S1), Jinko42 (S1)
+
+**3rd - lottebunny (2):** spittoon (S1), PhenomCloud (S1)
+
+**3rd - Potsie (2):** tagggz (S1), Spacepod_ (S1)
+
+**6th - automavic (1):** smeargle123 (S1)
+
+**6th - Brendnn (1):** Bottiken (S1)
+
+**6th - ColdBac (1):** Evader22 (S1)
+
+**6th - Evader22 (1):** ColdBac (S1)
+
+**6th - Fensua (1):** flameorb (S1)
+
+**6th - Fra49 (1):** SQAH (S1)
+
+**6th - Jinko42 (1):** guugs (S1)
+
+**6th - Kelawesome (1):** lottebunny (S1)
+
+**6th - LightningS7 (1):** TheLagoon22 (S1)
+
+**6th - SQAH (1):** OnlyCosmia (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +78,6 @@
 ---
 ### Debutants
 
-**S1 (29):** spittoon, tagggz, Bottiken, Spacepod_, Potsie, PhenomCloud, smeargle123, lottebunny, automavic, OnlyCosmia, guugs, SQAH, TheLagoon22, Fra49, LightningS7, Kelawesome, Brendnn, Jinko42, HUNTERKUN, ColdBac, Evader22, Normoh, ItsFishy, C_money, flameorb, Fensua, dahii, cherryblawsom, AvaCos
+**S1 (29):** automavic, AvaCos, Bottiken, Brendnn, C_money, cherryblawsom, ColdBac, dahii, Evader22, Fensua, flameorb, Fra49, guugs, HUNTERKUN, ItsFishy, Jinko42, Kelawesome, LightningS7, lottebunny, Normoh, OnlyCosmia, PhenomCloud, Potsie, smeargle123, Spacepod_, spittoon, SQAH, tagggz, TheLagoon22
 
 ---

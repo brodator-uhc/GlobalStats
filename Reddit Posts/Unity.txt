@@ -41,6 +41,55 @@
 ---
 ### Kills
 
+**1st - Barcode (4):** TooShady (S2), Kurdie (S2), Havenhand (S2), iBearHD (S2)
+
+**1st - Costanza (4):** TechnoJukebox (S1), TopBandit (S1), checog (S1), Pikachu (S1)
+
+**1st - ItsIguana (4):** ________Mental (S1), Spanks (S1), CMattznes (S1), Meowses (S1)
+
+**1st - MrTeamRaven (4):** SlavDaRussian (S1), TenHearted (S1), MakeItRainn (S1), xJitter (S1)
+
+**1st - Tylarzz (4):** lenslyfe (S1), KarpGamez (S1), Lennox (S1), Xenox (S1)
+
+**6th - Lennox (3):** Fezz (S1), Pikachu (S2), Bashur (S2)
+
+**6th - Meowses (3):** Kakintse (S1), Ricardo_A (S1), Heralen (S1)
+
+**6th - TechnoJukebox (3):** DECTHEELITE (S1), xhockey (S1), Kurdie (S1)
+
+**9th - BlueDeww (2):** Grantonic (S2), Edviin_ (S2)
+
+**9th - Edviin_ (2):** ________Mental (S2), BlueDeww (S2)
+
+**9th - Nytrin (2):** Tragik (S2), checog (S2)
+
+**9th - PartyAnimal (2):** ImToxic21 (S2), SpencerHockeyy (S2)
+
+**9th - Xenox (2):** PartyAnimal (S2), _shadowapples (S2)
+
+**14th - _shadowapples (1):** Nytrin (S2)
+
+**14th - checog (1):** Eider (S2)
+
+**14th - CMattznes (1):** MrProBow (S1)
+
+**14th - Fin (1):** Bilboo (S2)
+
+**14th - Grantonic (1):** BushieHalf (S2)
+
+**14th - Kurdie (1):** WhammyCammy (S1)
+
+**14th - Pikachu (1):** ItsIguana (S1)
+
+**14th - SlavDaRussian (1):** Araminaticlasm (S1)
+
+**14th - TooShady (1):** AsianWiz (S2)
+
+**14th - Tragik (1):** vinny212 (S1)
+
+**14th - vinny212 (1):** cscoop (S1)
+
+**14th - xhockey (1):** Tragik (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +102,8 @@
 ---
 ### Debutants
 
-**S1 (36):** Fezz, Araminaticlasm, Kenboh, Kaleeka, cscoop, WhammyCammy, vinny212, DECTHEELITE, Tragik, xhockey, Kurdie, TechnoJukebox, ________Mental, Spanks, SlavDaRussian, TenHearted, TopBandit, lenslyfe, Kakintse, MrProBow, Ricardo_A, CMattznes, Heralen, Meowses, checog, ItsIguana, MakeItRainn, Pikachu, xJitter, KarpGamez, Lennox, Xenox, Costanza, DianaB, MrTeamRaven, Tylarzz
+**S1 (36):** ________Mental, Araminaticlasm, checog, CMattznes, Costanza, cscoop, DECTHEELITE, DianaB, Fezz, Heralen, ItsIguana, Kakintse, Kaleeka, KarpGamez, Kenboh, Kurdie, Lennox, lenslyfe, MakeItRainn, Meowses, MrProBow, MrTeamRaven, Pikachu, Ricardo_A, SlavDaRussian, Spanks, TechnoJukebox, TenHearted, TopBandit, Tragik, Tylarzz, vinny212, WhammyCammy, Xenox, xhockey, xJitter
 
-**S2 (20):** HUNTERKUN, Eider, IcyPixels, ImToxic21, AsianWiz, BushieHalf, Grantonic, Edviin_, BlueDeww, SpencerHockeyy, PartyAnimal, TooShady, Nytrin, Bilboo, _shadowapples, Bashur, Havenhand, iBearHD, Barcode, Fin
+**S2 (20):** _shadowapples, AsianWiz, Barcode, Bashur, Bilboo, BlueDeww, BushieHalf, Edviin_, Eider, Fin, Grantonic, Havenhand, HUNTERKUN, iBearHD, IcyPixels, ImToxic21, Nytrin, PartyAnimal, SpencerHockeyy, TooShady
 
 ---

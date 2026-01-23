@@ -37,6 +37,21 @@
 ---
 ### Kills
 
+**1st - TommySuX (5):** LeonTG (S1), honestlyhunter (S1), Regifloat (S1), Fukano (S1), VeniiiD (S1)
+
+**2nd - Kassiie (2):** Micale (S1), TommySuX (S1)
+
+**2nd - Micale (2):** Bobbytheturtle (S1), OblivionTU (S1)
+
+**4th - AndrizzlePC (1):** KOKeowner (S1)
+
+**4th - Flouzemaker (1):** AndrizzlePC (S1)
+
+**4th - Frostbreath (1):** Flouzemaker (S1)
+
+**4th - KOKeowner (1):** Kassiie (S1)
+
+**4th - LeonTG (1):** ScottishNutcase (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +64,6 @@
 ---
 ### Debutants
 
-**S1 (16):** ShutUpBrick, ScottishNutcase, LeonTG, Bobbytheturtle, OblivionTU, honestlyhunter, Regifloat, Fukano, VeniiiD, Micale, TommySuX, Kassiie, KOKeowner, AndrizzlePC, Flouzemaker, Frostbreath
+**S1 (16):** AndrizzlePC, Bobbytheturtle, Flouzemaker, Frostbreath, Fukano, honestlyhunter, Kassiie, KOKeowner, LeonTG, Micale, OblivionTU, Regifloat, ScottishNutcase, ShutUpBrick, TommySuX, VeniiiD
 
 ---

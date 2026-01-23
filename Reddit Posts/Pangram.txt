@@ -45,6 +45,35 @@
 ---
 ### Kills
 
+**1st - Bobbytheturtle (6):** BuildingBard300 (S2), Blarkslol (S2), bayweafs (S2), BardMain2 (S2), breakbeat (S2), Bornyo (S2)
+
+**2nd - Austronomical (5):** ArcticSeagull (S1), AdonisGaming (S1), alexnv (S1), azoof (S1), AshRiolu100985 (S1)
+
+**2nd - Captinn (5):** Codwhy (S3), Digitale (S3), Dj8ninja (S3), Cloversss (S3), DeluxeSniper (S3)
+
+**4th - carterwarterbear (4):** acadiangel (S3), Charrlottie (S3), Captinn (S3), CHAINGE (S3)
+
+**4th - DJoee (4):** Djmandude (S3), ChrisCD (S3), Demomaker (S3), Gorgerous (S3)
+
+**6th - Bornyo (3):** broccoliar (S2), Brodator (S2), Broseph (S2)
+
+**6th - CHAINGE (3):** Chasmic (S3), DJoee (S3), DKPMatt (S3)
+
+**8th - ArcticSeagull (2):** Anorable (S1), Allioideae (S1)
+
+**8th - bayweafs (2):** Bonneh (S2), Blackbelt244 (S2)
+
+**8th - Codwhy (2):** Dawncy (S3), draylor09 (S3)
+
+**11th - Abyr (1):** Applepie78 (S1)
+
+**11th - alexnv (1):** Abyr (S1)
+
+**11th - Andronify (1):** AHSOKATANOSTAN (S1)
+
+**11th - azoof (1):** Andronify (S1)
+
+**11th - DeluxeSniper (1):** DarrenBGP (S3)
 
 ---
 ### PvE Deaths
@@ -57,10 +86,10 @@
 ---
 ### Debutants
 
-**S1 (13):** Anorable, Applepie78, AHSOKATANOSTAN, Allioideae, ArcticSeagull, Abyr, AdonisGaming, alexnv, Andronify, AwesomeMarioful, azoof, AshRiolu100985, Austronomical
+**S1 (13):** Abyr, AdonisGaming, AHSOKATANOSTAN, alexnv, Allioideae, Andronify, Anorable, Applepie78, ArcticSeagull, AshRiolu100985, Austronomical, AwesomeMarioful, azoof
 
-**S2 (13):** brocktober, BuildingBard300, broccoliar, Bonneh, Blackbelt244, Blarkslol, Brodator, bayweafs, BardMain2, breakbeat, Broseph, Bornyo, Bobbytheturtle
+**S2 (13):** BardMain2, bayweafs, Blackbelt244, Blarkslol, Bobbytheturtle, Bonneh, Bornyo, breakbeat, broccoliar, brocktober, Brodator, Broseph, BuildingBard300
 
-**S3 (21):** Dawncy, CodeJoshua, draylor09, Djmandude, DarrenBGP, Codwhy, Chasmic, Digitale, Dj8ninja, ChrisCD, acadiangel, Demomaker, Gorgerous, Cloversss, Charrlottie, DJoee, DeluxeSniper, Captinn, DKPMatt, CHAINGE, carterwarterbear
+**S3 (21):** acadiangel, Captinn, carterwarterbear, CHAINGE, Charrlottie, Chasmic, ChrisCD, Cloversss, CodeJoshua, Codwhy, DarrenBGP, Dawncy, DeluxeSniper, Demomaker, Digitale, Dj8ninja, Djmandude, DJoee, DKPMatt, draylor09, Gorgerous
 
 ---

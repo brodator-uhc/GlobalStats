@@ -49,6 +49,69 @@
 ---
 ### Kills
 
+**1st - tagggz (12):** lottebunny (S1), CarlyRaeJepsen (S1), SidGarcia (S1), Maxwellfifty (S1), jakeyx3 (S2), Demomaker (S4), dakotagaming7 (S4), Flouzemaker (S4), WackoFlipper (S4), Emerric (S4), MajorWoof (S4), fruitlogic (S4)
+
+**2nd - vynil (9):** Chasmic (S1), TaylorLive (S1), _Frankie (S1), VeniiiD (S1), BurningT (S1), CH0CK (S1), Codwhy (S2), _Dieter (S2), Alacan (S2)
+
+**3rd - _Dieter (7):** MajorWoof (S2), buttergolem1 (S2), Harryb2k (S2), KatyLawson (S3), ColdBac (S3), Phyrrus (S3), flameorb (S3)
+
+**4th - pkee (6):** Exee (S2), Flouzemaker (S2), IsaacMT (S2), NasisWoof (S2), Sten_Stone (S2), mirdo (S2)
+
+**5th - Alacan (4):** Chasmic (S2), TehBaconBrawlerZ (S2), _JJL (S2), tagggz (S2)
+
+**5th - buttergolem1 (4):** H_L_llama (S2), WackoFlipper (S2), Caydone (S3), _Dieter (S3)
+
+**5th - Caydone (4):** TheSonicJoey (S3), H_L_llama (S4), KatyLawson (S4), CarlyRaeJepsen (S4)
+
+**5th - Codwhy (4):** TheSonicJoey (S2), Caydone (S2), dakotagaming7 (S3), FrostBros (S3)
+
+**5th - RwDragon (4):** GhostInsanityxo (S1), AxeyGM (S1), SummerBqsh (S1), MistaUnicorn (S1)
+
+**10th - Bonneh (3):** 78ford (S3), Codwhy (S3), MarcC5M (S3)
+
+**10th - Emerric (3):** dango989 (S1), ColdBac (S4), MarcC5M (S4)
+
+**10th - fruitlogic (3):** buttergolem1 (S4), pkee (S4), Chasmic (S4)
+
+**10th - IsaacMT (3):** Fourbitplayer (S2), Dj8ninja (S2), SiahStone (S2)
+
+**10th - MajorWoof (3):** lexicuhl (S4), Caydone (S4), Phyrrus (S4)
+
+**15th - Chasmic (2):** jamertxn (S1), TayUHC (S4)
+
+**15th - flameorb (2):** mirdo (S3), CarlyRaeJepsen (S3)
+
+**15th - Greeples (2):** Dj8ninja (S4), Fourbitplayer (S4)
+
+**15th - Harryb2k (2):** wibbol (S2), TorinFBF (S2)
+
+**15th - jakeyx3 (2):** LegoBeast (S2), dakotagaming7 (S2)
+
+**15th - LordLaelaps (2):** tagggz (S1), Emerric (S1)
+
+**15th - MarcC5M (2):** Emerric (S3), Bonneh (S4)
+
+**15th - TaylorLive (2):** KatyLawson (S2), pkee (S2)
+
+**23rd - _JJL (1):** TaylorLive (S2)
+
+**23rd - CarlyRaeJepsen (1):** WillBrisk (S1)
+
+**23rd - CH0CK (1):** LordLaelaps (S1)
+
+**23rd - ColdBac (1):** Exee (S3)
+
+**23rd - Exee (1):** KatyLawson (S1)
+
+**23rd - FrostBros (1):** fruitlogic (S3)
+
+**23rd - LegoBeast (1):** FinalGwen (S2)
+
+**23rd - MistaUnicorn (1):** Exee (S1)
+
+**23rd - TayUHC (1):** TorinFBF (S4)
+
+**23rd - WackoFlipper (1):** Poryful_Z (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +124,12 @@
 ---
 ### Debutants
 
-**S1 (24):** jamertxn, Chasmic, GhostInsanityxo, TaylorLive, AxeyGM, _Frankie, VeniiiD, SummerBqsh, KatyLawson, dango989, lottebunny, WillBrisk, CarlyRaeJepsen, SidGarcia, Maxwellfifty, tagggz, BurningT, Exee, Emerric, LordLaelaps, CH0CK, MistaUnicorn, RwDragon, vynil
+**S1 (24):** _Frankie, AxeyGM, BurningT, CarlyRaeJepsen, CH0CK, Chasmic, dango989, Emerric, Exee, GhostInsanityxo, jamertxn, KatyLawson, LordLaelaps, lottebunny, Maxwellfifty, MistaUnicorn, RwDragon, SidGarcia, SummerBqsh, tagggz, TaylorLive, VeniiiD, vynil, WillBrisk
 
-**S2 (30):** Bandana_Blue, Kirashura, TheSonicJoey, MajorWoof, Caydone, Fourbitplayer, wibbol, FinalGwen, LegoBeast, Dj8ninja, Codwhy, SiahStone, LTDangerous, Flouzemaker, IsaacMT, NasisWoof, Sten_Stone, mirdo, pkee, TehBaconBrawlerZ, dakotagaming7, TorinFBF, H_L_llama, WackoFlipper, buttergolem1, Harryb2k, _Dieter, jakeyx3, _JJL, Alacan
+**S2 (30):** _Dieter, _JJL, Alacan, Bandana_Blue, buttergolem1, Caydone, Codwhy, dakotagaming7, Dj8ninja, FinalGwen, Flouzemaker, Fourbitplayer, H_L_llama, Harryb2k, IsaacMT, jakeyx3, Kirashura, LegoBeast, LTDangerous, MajorWoof, mirdo, NasisWoof, pkee, SiahStone, Sten_Stone, TehBaconBrawlerZ, TheSonicJoey, TorinFBF, WackoFlipper, wibbol
 
-**S3 (9):** 78ford, issork, fruitlogic, FrostBros, ColdBac, Phyrrus, flameorb, MarcC5M, Bonneh
+**S3 (9):** 78ford, Bonneh, ColdBac, flameorb, FrostBros, fruitlogic, issork, MarcC5M, Phyrrus
 
-**S4 (5):** TayUHC, lexicuhl, Demomaker, Poryful_Z, Greeples
+**S4 (5):** Demomaker, Greeples, lexicuhl, Poryful_Z, TayUHC
 
 ---

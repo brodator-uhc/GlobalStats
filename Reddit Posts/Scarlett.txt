@@ -45,6 +45,43 @@
 ---
 ### Kills
 
+**1st - LqndSlide (9):** Conorz (S1), wizarde (S1), Tripps702 (S1), Eternql (S2), Topspinpiggles (S2), YABOYPJ (S2), cherryblawsom (S2), ItsColinn (S2), MinecrafNinja (S2)
+
+**2nd - Austronomical (5):** wizarde (S2), MrLazeo101 (S2), IceshardEleven (S2), Archybooty (S3), IceshardEleven (S3)
+
+**3rd - Ryfri (4):** DJblak (S3), IzunaLoli (S3), MercuryParadox (S3), Conorz (S3)
+
+**4th - Aaron_Playz (2):** ItsColinn (S1), MinecrafNinja (S1)
+
+**4th - DCGUnKnown (2):** LqndSlide (S1), Stormy_A (S1)
+
+**4th - Eternql (2):** Ryfri (S3), SiahStone (S3)
+
+**4th - lolitsbrian (2):** IceshardEleven (S1), Centrios (S1)
+
+**8th - Archybooty (1):** SammyZBoy (S3)
+
+**8th - Centrios (1):** SammyZBoy (S1)
+
+**8th - cherryblawsom (1):** Zahkari (S3)
+
+**8th - ConBeanJones (1):** Reconnnnn (S2)
+
+**8th - Conorz (1):** Aaron_Playz (S1)
+
+**8th - IzunaLoli (1):** wizarde (S3)
+
+**8th - MCmattFTW (1):** Austronomical (S3)
+
+**8th - MinecrafNinja (1):** cherryblawsom (S3)
+
+**8th - MrLazeo101 (1):** MinecrafNinja (S3)
+
+**8th - Stormy_A (1):** DJblak (S1)
+
+**8th - wizarde (1):** lolitsbrian (S1)
+
+**8th - Zahkari (1):** MCmattFTW (S3)
 
 ---
 ### PvE Deaths
@@ -57,10 +94,10 @@
 ---
 ### Debutants
 
-**S1 (14):** ItsColinn, MinecrafNinja, IceshardEleven, Aaron_Playz, SammyZBoy, Centrios, DJblak, Conorz, lolitsbrian, wizarde, Tripps702, LqndSlide, Stormy_A, DCGUnKnown
+**S1 (14):** Aaron_Playz, Centrios, Conorz, DCGUnKnown, DJblak, IceshardEleven, ItsColinn, lolitsbrian, LqndSlide, MinecrafNinja, SammyZBoy, Stormy_A, Tripps702, wizarde
 
-**S2 (9):** Reconnnnn, BlackGarrett, Eternql, Topspinpiggles, ConBeanJones, MrLazeo101, YABOYPJ, cherryblawsom, Austronomical
+**S2 (9):** Austronomical, BlackGarrett, cherryblawsom, ConBeanJones, Eternql, MrLazeo101, Reconnnnn, Topspinpiggles, YABOYPJ
 
-**S3 (8):** Archybooty, IzunaLoli, MCmattFTW, ChainingVermin2, Zahkari, MercuryParadox, Ryfri, SiahStone
+**S3 (8):** Archybooty, ChainingVermin2, IzunaLoli, MCmattFTW, MercuryParadox, Ryfri, SiahStone, Zahkari
 
 ---

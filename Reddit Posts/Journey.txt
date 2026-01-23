@@ -57,6 +57,107 @@
 ---
 ### Kills
 
+**1st - strategy (16):** Sten_Stone (S2), QuilJ1 (S2), _carn (S3), _Dieter (S3), Greeples (S3), swishduck (S4), Fcrm (S4), Kubaslov (S4), _carn (S4), alexnv (S4), Omertosa (S4), Bobbytheturtle (S4), _Dieter (S4), flameorb (S4), Kubaslov (S6), Bobbytheturtle (S6)
+
+**2nd - CipherKai (8):** Cacedoupamso (S5), strategy (S5), _Dieter (S5), lexicuhl (S5), ColdBac (S5), Lighte (S5), Spongey (S5), Cloversss (S5)
+
+**3rd - DJoee (7):** OOGAABOOGA3 (S4), Ryfri (S4), zCent (S4), lexicuhl (S4), Potsie (S4), Jordtim (S4), gartbak (S5)
+
+**4th - _carn (6):** vynil (S4), azoof (S5), wizarde (S5), CHAINGE (S5), DJoee (S5), TheNintendoBustr (S6)
+
+**4th - azoof (6):** Zenithu (S4), Ullti (S4), wizarde (S4), tbhjosh (S4), strategy (S4), PresidentFleb (S5)
+
+**4th - Hecticity (6):** Dj8ninja (S4), Zenithu (S5), tbhjosh (S5), _carn (S5), CipherKai (S5), _carn (S6)
+
+**4th - wizarde (6):** WackoFlipper (S1), strategy (S2), dahii (S6), Hecticity (S6), Tharve (S6), Rohcket (S6)
+
+**8th - chloesad (5):** azoof (S3), ScottPirie (S3), 78ford (S3), Karliffu (S3), Pelycosaur (S3)
+
+**8th - Fcrm (5):** TheNintendoBustr (S4), WoodFired (S6), MajorWoof (S6), vynil (S6), alexnv (S6)
+
+**8th - Pelycosaur (5):** SummerBqsh (S1), Bradzi (S2), Harryb2k (S2), SiahStone (S3), hazel_doe (S3)
+
+**8th - vynil (5):** discoczibi (S3), centraleric (S3), chloesad (S3), benidk (S6), wizarde (S6)
+
+**12th - alexnv (4):** Kubaslov (S5), m4ku (S6), Charrlottie (S6), strategy (S6)
+
+**12th - FrostBros (4):** Bradzi (S1), TheBP (S1), Pelycosaur (S1), pigghetti (S3)
+
+**12th - Lighte (4):** BardMain2 (S5), Broseph (S5), Kaddyn (S5), TorinFBF (S5)
+
+**12th - MajorWoof (4):** MBeaar (S2), Greeples (S2), ScottPirie (S2), Pelycosaur (S2)
+
+**12th - WackoFlipper (4):** PMC_Sanji (S1), Greeples (S1), Digdude (S1), 016Nojr (S2)
+
+**17th - Bobbytheturtle (3):** Lighte (S4), lexicuhl (S6), natsuvi (S6)
+
+**17th - ColdBac (3):** Fcrm (S5), zCent (S5), benidk (S5)
+
+**17th - QuilJ1 (3):** ShyGus (S2), 78ford (S2), WackoFlipper (S2)
+
+**20th - _ChrisMS (2):** JamestheDouglas (S1), Frozeno_ (S1)
+
+**20th - Arich (2):** Eluniel (S3), Ryfri (S3)
+
+**20th - BBR_ (2):** FrostBros (S1), spoocS_ (S1)
+
+**20th - Cloversss (2):** alexnv (S5), Bobbytheturtle (S5)
+
+**20th - natsuvi (2):** Greeples (S6), zCent (S6)
+
+**20th - Omertosa (2):** Aybel (S4), ToontownOnline (S6)
+
+**20th - Rohcket (2):** _ChrisMS (S3), Ryfri (S6)
+
+**20th - Ryfri (2):** Flcnt (S6), Aybel (S6)
+
+**20th - ScottPirie (2):** wizarde (S1), Digdude (S2)
+
+**20th - Spongey (2):** friigiid (S4), Fra49 (S4)
+
+**20th - tbhjosh (2):** TheBP (S4), DJoee (S4)
+
+**20th - ToontownOnline (2):** Ullti (S6), Kaismartypants (S6)
+
+**20th - zCent (2):** Spongey (S4), Zenithu (S6)
+
+**20th - Zenithu (2):** Awticon (S4), Hecticity (S4)
+
+**34th - _Dieter (1):** Dj8ninja (S3)
+
+**34th - Aybel (1):** WackoFlipper (S6)
+
+**34th - benidk (1):** Glarza (S6)
+
+**34th - carterwarterbear (1):** SiahStone (S6)
+
+**34th - dahii (1):** Gorgerous (S6)
+
+**34th - Digdude (1):** wibbol (S1)
+
+**34th - Dj8ninja (1):** Kubaslov (S3)
+
+**34th - Eluniel (1):** carterwarterbear (S6)
+
+**34th - flameorb (1):** Charrlottie (S4)
+
+**34th - Greeples (1):** Arich (S3)
+
+**34th - Harryb2k (1):** ToucanTom (S2)
+
+**34th - hazel_doe (1):** Broseph (S3)
+
+**34th - Jordtim (1):** 78ford (S4)
+
+**34th - nsket (1):** TheNintendoBustr (S5)
+
+**34th - PMC_Sanji (1):** Ninjajaja (S1)
+
+**34th - SummerBqsh (1):** ToucanTom (S1)
+
+**34th - TheBP (1):** _ChrisMS (S1)
+
+**34th - TheNintendoBustr (1):** nsket (S5)
 
 ---
 ### PvE Deaths
@@ -69,16 +170,16 @@
 ---
 ### Debutants
 
-**S1 (20):** Ninjajaja, ToucanTom, JamestheDouglas, Frozeno_, PMC_Sanji, SummerBqsh, wibbol, Bradzi, strategy, _ChrisMS, TheBP, Greeples, Digdude, Pelycosaur, FrostBros, WackoFlipper, wizarde, spoocS_, BBR_, ScottPirie
+**S1 (20):** _ChrisMS, BBR_, Bradzi, Digdude, FrostBros, Frozeno_, Greeples, JamestheDouglas, Ninjajaja, Pelycosaur, PMC_Sanji, ScottPirie, spoocS_, strategy, SummerBqsh, TheBP, ToucanTom, WackoFlipper, wibbol, wizarde
 
-**S2 (9):** Sten_Stone, MBeaar, 016Nojr, ShyGus, 78ford, Harryb2k, Ryfri, QuilJ1, MajorWoof
+**S2 (9):** 016Nojr, 78ford, Harryb2k, MajorWoof, MBeaar, QuilJ1, Ryfri, ShyGus, Sten_Stone
 
-**S3 (17):** Eluniel, azoof, Kubaslov, discoczibi, Dj8ninja, SiahStone, Broseph, Arich, hazel_doe, _carn, pigghetti, _Dieter, Karliffu, centraleric, chloesad, Rohcket, vynil
+**S3 (17):** _carn, _Dieter, Arich, azoof, Broseph, centraleric, chloesad, discoczibi, Dj8ninja, Eluniel, hazel_doe, Karliffu, Kubaslov, pigghetti, Rohcket, SiahStone, vynil
 
-**S4 (24):** OOGAABOOGA3, swishduck, friigiid, Fra49, Spongey, Awticon, Hecticity, zCent, Aybel, Zenithu, Lighte, TheNintendoBustr, Fcrm, Ullti, lexicuhl, Potsie, Charrlottie, Jordtim, DJoee, tbhjosh, alexnv, Omertosa, Bobbytheturtle, flameorb
+**S4 (24):** alexnv, Awticon, Aybel, Bobbytheturtle, Charrlottie, DJoee, Fcrm, flameorb, Fra49, friigiid, Hecticity, Jordtim, lexicuhl, Lighte, Omertosa, OOGAABOOGA3, Potsie, Spongey, swishduck, tbhjosh, TheNintendoBustr, Ullti, zCent, Zenithu
 
-**S5 (12):** BardMain2, gartbak, PresidentFleb, Kaddyn, TorinFBF, nsket, Cacedoupamso, benidk, ColdBac, CHAINGE, Cloversss, CipherKai
+**S5 (12):** BardMain2, benidk, Cacedoupamso, CHAINGE, CipherKai, Cloversss, ColdBac, gartbak, Kaddyn, nsket, PresidentFleb, TorinFBF
 
-**S6 (11):** Gorgerous, dahii, WoodFired, m4ku, Flcnt, Glarza, Kaismartypants, Tharve, natsuvi, ToontownOnline, carterwarterbear
+**S6 (11):** carterwarterbear, dahii, Flcnt, Glarza, Gorgerous, Kaismartypants, m4ku, natsuvi, Tharve, ToontownOnline, WoodFired
 
 ---

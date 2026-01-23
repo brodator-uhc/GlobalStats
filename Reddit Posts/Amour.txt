@@ -53,6 +53,83 @@
 ---
 ### Kills
 
+**1st - Fcrm (9):** _Fost_ (S1), Codwhy (S1), Fourbitplayer (S1), LoafOZ (S1), ZebraPantz (S2), CHAINGE (S2), GuyGojo (S5), natsuvi (S5), 123SteveBob (S5)
+
+**2nd - DJoee (8):** HigmanFreud (S4), Andronify (S4), Codwhy (S4), Austronomical (S4), BoltsInCharge (S4), AtomicCrossbow (S4), natsuvi (S4), Fcrm (S4)
+
+**3rd - Austronomical (7):** chloesad (S3), Blarkslol (S3), Codwhy (S3), lexicuhl (S4), _1mmortal_ (S4), Sneaky26 (S4), _Dieter (S4)
+
+**3rd - Glarza (7):** Jahrod (S2), Gorgerous (S2), Rohcket (S2), Kaismartypants (S2), ArcticSeagull (S2), Captinn (S2), pigghetti (S2)
+
+**5th - MaxEvasion (6):** CHAINGE (S1), Yveltql (S1), zac083 (S1), Vetmire (S3), Kaddyn (S3), TheSonicJoey (S3)
+
+**5th - Rohcket (6):** Jahrod (S1), Vetmire (S1), natsuvi (S1), zac083 (S2), nFang (S2), Jordtim (S2)
+
+**7th - natsuvi (5):** bayweafs (S4), korzieeTV (S4), ScaryPumpkinFace (S4), Spongey (S4), kawaiibunri (S4)
+
+**8th - dahii (4):** Blarkslol (S5), broccoliar (S5), Bobbytheturtle (S5), 4EyedSlime (S5)
+
+**8th - Vetmire (4):** nFang (S1), JaeHasNoMaidens (S1), MaxEvasion (S1), broccoliar (S3)
+
+**10th - Andronify (3):** benidk (S5), _carn (S5), cherryblawsom (S5)
+
+**10th - Bobbytheturtle (3):** ArcticSeagull (S3), aalaan (S3), SmolHatChild (S3)
+
+**10th - ChainingVermin2 (3):** Kaismartypants (S5), omchris (S5), TacoDab (S5)
+
+**10th - Codwhy (3):** Pelycosaur (S1), CodeJoshua (S3), MaxEvasion (S3)
+
+**10th - Kelawesome (3):** Eluniel (S3), awesomemacD (S3), Austronomical (S3)
+
+**10th - zCent (3):** Fcrm (S5), Psykl0ne (S5), Kaddyn (S5)
+
+**16th - _1mmortal_ (2):** SiahStone (S4), Andronify (S5)
+
+**16th - Arich (2):** LoafOZ (S2), hazel_doe (S2)
+
+**16th - awesomemacD (2):** miles1baseball (S3), Bobbytheturtle (S3)
+
+**16th - BoltsInCharge (2):** Kaismartypants (S4), CommanderK22_ (S4)
+
+**16th - cherryblawsom (2):** ohh_lia (S5), milkpoptart (S5)
+
+**16th - milkpoptart (2):** Fra49 (S5), ChainingVermin2 (S5)
+
+**16th - vynil (2):** OnlyCosmia (S3), BSBrent (S3)
+
+**16th - WackoFlipper (2):** benidk (S2), Arich (S2)
+
+**24th - ArcticSeagull (1):** Vetmire (S2)
+
+**24th - AtomicCrossbow (1):** benidk (S4)
+
+**24th - benidk (1):** Drake132667596 (S2)
+
+**24th - broccoliar (1):** noktime (S5)
+
+**24th - BSBrent (1):** vynil (S3)
+
+**24th - chloesad (1):** Psykl0ne (S3)
+
+**24th - Drake132667596 (1):** Fcrm (S2)
+
+**24th - HigmanFreud (1):** Zenithu (S4)
+
+**24th - Jordtim (1):** Charrlottie (S2)
+
+**24th - Kaismartypants (1):** kirbey (S2)
+
+**24th - kirbey (1):** Codwhy (S2)
+
+**24th - noktime (1):** TheSlimeBrother (S5)
+
+**24th - pigghetti (1):** Fcrm (S1)
+
+**24th - SmolHatChild (1):** SiahStone (S3)
+
+**24th - Spongey (1):** broccoliar (S4)
+
+**24th - TheSonicJoey (1):** rippersteveM5 (S3)
 
 ---
 ### PvE Deaths
@@ -65,14 +142,14 @@
 ---
 ### Debutants
 
-**S1 (20):** Arich, ElGavinoSupremo, nFang, JaeHasNoMaidens, Pelycosaur, CHAINGE, Yveltql, _Fost_, Codwhy, Charrlottie, zac083, Fourbitplayer, MaxEvasion, LoafOZ, Jahrod, Vetmire, natsuvi, Fcrm, pigghetti, Rohcket
+**S1 (20):** _Fost_, Arich, CHAINGE, Charrlottie, Codwhy, ElGavinoSupremo, Fcrm, Fourbitplayer, JaeHasNoMaidens, Jahrod, LoafOZ, MaxEvasion, natsuvi, nFang, Pelycosaur, pigghetti, Rohcket, Vetmire, Yveltql, zac083
 
-**S2 (12):** ZebraPantz, Gorgerous, Drake132667596, benidk, kirbey, hazel_doe, Jordtim, Kaismartypants, ArcticSeagull, Captinn, Glarza, WackoFlipper
+**S2 (12):** ArcticSeagull, benidk, Captinn, Drake132667596, Glarza, Gorgerous, hazel_doe, Jordtim, Kaismartypants, kirbey, WackoFlipper, ZebraPantz
 
-**S3 (22):** SiahStone, broccoliar, Broseph, Psykl0ne, chloesad, OnlyCosmia, BSBrent, vynil, aalaan, SmolHatChild, Kaddyn, CodeJoshua, rippersteveM5, TheSonicJoey, Blarkslol, miles1baseball, Bobbytheturtle, Eluniel, awesomemacD, Austronomical, Chasmic, Kelawesome
+**S3 (22):** aalaan, Austronomical, awesomemacD, Blarkslol, Bobbytheturtle, broccoliar, Broseph, BSBrent, Chasmic, chloesad, CodeJoshua, Eluniel, Kaddyn, Kelawesome, miles1baseball, OnlyCosmia, Psykl0ne, rippersteveM5, SiahStone, SmolHatChild, TheSonicJoey, vynil
 
-**S4 (16):** Zenithu, bayweafs, HigmanFreud, lexicuhl, _1mmortal_, korzieeTV, Sneaky26, Andronify, ScaryPumpkinFace, Spongey, _Dieter, CommanderK22_, BoltsInCharge, kawaiibunri, AtomicCrossbow, DJoee
+**S4 (16):** _1mmortal_, _Dieter, Andronify, AtomicCrossbow, bayweafs, BoltsInCharge, CommanderK22_, DJoee, HigmanFreud, kawaiibunri, korzieeTV, lexicuhl, ScaryPumpkinFace, Sneaky26, Spongey, Zenithu
 
-**S5 (16):** ColdBac, TheSlimeBrother, omchris, Fra49, _carn, TacoDab, GuyGojo, noktime, 123SteveBob, ohh_lia, ChainingVermin2, milkpoptart, cherryblawsom, 4EyedSlime, dahii, zCent
+**S5 (16):** _carn, 123SteveBob, 4EyedSlime, ChainingVermin2, cherryblawsom, ColdBac, dahii, Fra49, GuyGojo, milkpoptart, noktime, ohh_lia, omchris, TacoDab, TheSlimeBrother, zCent
 
 ---

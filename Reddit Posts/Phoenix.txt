@@ -49,6 +49,53 @@
 ---
 ### Kills
 
+**1st - BoltsInCharge (12):** Dragpot (S1), DogOfKrondor (S1), CommanderK22_ (S1), Kaimaxon (S1), Randehh (S1), Pehnk (S2), JDwb (S2), ColdBac (S2), CommanderK22_ (S2), Applepie78 (S4), TheSlimeBrother (S4), Brodator (S4)
+
+**2nd - ChainingVermin2 (7):** TheSonicJoey (S1), EnchantedTorch (S1), Karliffu (S2), SpaceFenix (S2), Brodator (S3), ColdBac (S3), SmolHatChild (S3)
+
+**3rd - AirInAirOut (6):** Maxwellfifty (S1), FishToEscapeWife (S1), ACompleteTurtle (S1), Klobb (S1), Nuclearsugar (S1), Pehnk (S1)
+
+**3rd - ColdBac (6):** Zaccc_ (S1), brodioh (S1), SmolHatChild (S1), Ryfri (S2), omchris (S2), ShootingGoats (S3)
+
+**5th - Brodator (5):** Maxwellfifty (S4), Sfqkeur_ (S4), eBrand0 (S4), Westcraft00 (S4), CrowJRC (S4)
+
+**5th - cherryblawsom (5):** BoltsInCharge (S3), Applepie78 (S3), broccoliar (S3), fruitlogic (S3), ChainingVermin2 (S3)
+
+**5th - Pehnk (5):** Brodator (S1), Sonic_Hedgehog (S1), ColdBac (S1), yingapore (S2), Applepie78 (S2)
+
+**8th - Boomblade60 (4):** 4EyedSlime (S1), TheSlimeBrother (S1), Applepie78 (S1), CodeJoshua (S1)
+
+**8th - SpaceFenix (4):** cherryblawsom (S1), ShootingGoats (S2), BoltsInCharge (S2), Sfqkeur_ (S3)
+
+**10th - Applepie78 (3):** xFade (S1), EndestroyerEpic (S2), Brodator (S2)
+
+**10th - broccoliar (3):** DogOfKrondor (S2), Randehh (S2), omchris (S3)
+
+**10th - CommanderK22_ (3):** SpaceFenix (S1), broccoliar (S2), Karliffu (S4)
+
+**10th - fruitlogic (3):** Greeples (S2), ProGirlGamer (S3), DogOfKrondor (S4)
+
+**10th - Maxwellfifty (3):** JDwb (S1), ShootingGoats (S1), CommanderK22_ (S4)
+
+**10th - ShootingGoats (3):** Westcraft00 (S2), SmolHatChild (S2), Randehh (S3)
+
+**16th - Kaimaxon (2):** BOOMBLADE (S1), ChainingVermin2 (S1)
+
+**16th - Nuclearsugar (2):** fruitlogic (S1), Boomblade60 (S1)
+
+**16th - Randehh (2):** CarsCanFly (S1), Boomblade60 (S3)
+
+**16th - SmolHatChild (2):** Sfqkeur_ (S2), silh (S2)
+
+**20th - BOOMBLADE (1):** PresidentFleb (S1)
+
+**20th - brodioh (1):** Westcraft00 (S1)
+
+**20th - Karliffu (1):** fruitlogic (S2)
+
+**20th - kirbey (1):** omchris (S1)
+
+**20th - Westcraft00 (1):** EndestroyerEpic (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +108,12 @@
 ---
 ### Debutants
 
-**S1 (40):** Greeples, Westcraft00, fruitlogic, cherryblawsom, omchris, 4EyedSlime, Dragpot, JDwb, kirbey, ShootingGoats, Maxwellfifty, xFade, TheSlimeBrother, TheSonicJoey, PresidentFleb, FishToEscapeWife, ACompleteTurtle, Zaccc_, DogOfKrondor, EnchantedTorch, Applepie78, Brodator, CarsCanFly, Sonic_Hedgehog, brodioh, BOOMBLADE, SpaceFenix, CodeJoshua, ChainingVermin2, Boomblade60, Klobb, CommanderK22_, Kaimaxon, SmolHatChild, Nuclearsugar, ColdBac, Randehh, Pehnk, BoltsInCharge, AirInAirOut
+**S1 (40):** 4EyedSlime, ACompleteTurtle, AirInAirOut, Applepie78, BoltsInCharge, BOOMBLADE, Boomblade60, Brodator, brodioh, CarsCanFly, ChainingVermin2, cherryblawsom, CodeJoshua, ColdBac, CommanderK22_, DogOfKrondor, Dragpot, EnchantedTorch, FishToEscapeWife, fruitlogic, Greeples, JDwb, Kaimaxon, kirbey, Klobb, Maxwellfifty, Nuclearsugar, omchris, Pehnk, PresidentFleb, Randehh, ShootingGoats, SmolHatChild, Sonic_Hedgehog, SpaceFenix, TheSlimeBrother, TheSonicJoey, Westcraft00, xFade, Zaccc_
 
-**S2 (7):** EndestroyerEpic, Ryfri, yingapore, Sfqkeur_, broccoliar, silh, Karliffu
+**S2 (7):** broccoliar, EndestroyerEpic, Karliffu, Ryfri, Sfqkeur_, silh, yingapore
 
 **S3 (1):** ProGirlGamer
 
-**S4 (2):** eBrand0, CrowJRC
+**S4 (2):** CrowJRC, eBrand0
 
 ---

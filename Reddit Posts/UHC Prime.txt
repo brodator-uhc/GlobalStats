@@ -57,6 +57,89 @@
 ---
 ### Kills
 
+**1st - pigghetti (13):** natsuvi (S1), BatMan_1814 (S1), 6BU (S2), ColdBac (S2), ChainingVermin2 (S3), natsuvi (S3), Potsie (S4), DrSliced (S4), MarcC5M (S6), firefoxvulpix (S6), cherryblawsom (S6), bjr201111 (S6), TalonBX (S6)
+
+**2nd - DJoee (10):** Havenhand (S1), Fra49 (S1), bjr201111 (S3), lottebunny (S3), firefoxvulpix (S4), brodioh (S4), Psykl0ne (S6), Aybel (S6), WackoFlipper (S6), ChainingVermin2 (S6)
+
+**2nd - Maxwellfifty (10):** lexicuhl (S4), Boomblade60 (S4), Fazz2 (S4), bjr201111 (S5), brodioh (S5), lottebunny (S5), Chasmic (S6), Jahrod (S6), TheRealHagrid (S6), wibbol (S6)
+
+**4th - lottebunny (9):** ToontownOnline (S1), ColdBac (S1), TommySuX (S1), MeadowMoos (S1), powermc (S2), TheSlimeBrother (S5), TalonBX (S5), Applepie78 (S5), Boomblade60 (S5)
+
+**5th - bjr201111 (8):** SiahStone (S5), Psykl0ne (S5), DKPMatt (S6), VeniiiD (S6), Boomblade60 (S6), Gorgerous (S6), CrowJRC (S6), centraleric (S6)
+
+**5th - natsuvi (8):** centraleric (S1), SD_UHC (S1), Kubaslov (S2), Potsie (S3), I_is_cheesecake (S3), Kubaslov (S3), WackoFlipper (S3), SiahStone (S3)
+
+**7th - ChainingVermin2 (7):** Fra49 (S3), Psykl0ne (S3), Exee (S4), BatMan_1814 (S6), silh (S6), Evader22 (S6), Plushy33 (S6)
+
+**8th - buttergolem1 (5):** wibbol (S3), powermc (S3), DJoee (S3), Aybel (S4), TheKevGuy (S6)
+
+**8th - Fra49 (5):** 6BU (S1), Ixolock (S1), ToontownOnline (S2), PresidentFleb (S6), ColdBac (S6)
+
+**8th - nsket (5):** azoof (S1), Micale (S1), buttergolem1 (S1), lottebunny (S1), pigghetti (S1)
+
+**11th - Boomblade60 (4):** dw0w (S4), Applepie78 (S4), Chasmic (S5), pigghetti (S5)
+
+**11th - cherryblawsom (4):** DJoee (S4), SiahStone (S4), Kubaslov (S5), Maxwellfifty (S6)
+
+**11th - ColdBac (4):** Kubaslov (S1), Dj8ninja (S4), Exee (S5), dw0w (S5)
+
+**11th - lexicuhl (4):** GetNicked (S2), ColdBac (S3), firefoxvulpix (S3), Aybel (S5)
+
+**11th - SiahStone (4):** Gorgerous (S4), pigghetti (S4), Maxwellfifty (S4), tbhjosh (S6)
+
+**16th - Applepie78 (3):** ShyGus (S4), TalonBX (S4), WillBrisk (S4)
+
+**16th - Do_You_Minecraft (3):** Gorgerous (S5), Flouzemaker (S6), natsuvi (S6)
+
+**16th - dw0w (3):** TheRealHagrid (S4), natsuvi (S4), ChainingVermin2 (S4)
+
+**16th - Gorgerous (3):** ColdBac (S5), Ixolock (S5), cherryblawsom (S5)
+
+**16th - powermc (3):** DJoee (S1), Zahkari (S2), lottebunny (S2)
+
+**21st - automavic (2):** Do_You_Minecraft (S5), lexicuhl (S5)
+
+**21st - brodioh (2):** ChainingVermin2 (S5), natsuvi (S5)
+
+**21st - centraleric (2):** SiahStone (S6), KOKeowner (S6)
+
+**21st - firefoxvulpix (2):** SharkeyJaws (S3), DJoee (S6)
+
+**21st - Fourbitplayer (2):** Flohp (S2), ShyGus (S2)
+
+**21st - GetNicked (2):** Livin423 (S2), pigghetti (S2)
+
+**21st - KOKeowner (2):** SharkeyJaws (S6), Fra49 (S6)
+
+**21st - MarcC5M (2):** Dj8ninja (S3), lexicuhl (S3)
+
+**21st - WackoFlipper (2):** MaxEvasion (S6), Vulkarr (S6)
+
+**30th - Aybel (1):** powermc (S5)
+
+**30th - CrowJRC (1):** tagggz (S6)
+
+**30th - Fazz2 (1):** buttergolem1 (S4)
+
+**30th - fruitberries (1):** LightningS7 (S1)
+
+**30th - Kubaslov (1):** natsuvi (S2)
+
+**30th - Livin423 (1):** TheRealHagrid (S2)
+
+**30th - Plushy33 (1):** Do_You_Minecraft (S6)
+
+**30th - Psykl0ne (1):** Gorgerous (S3)
+
+**30th - SharkeyJaws (1):** Aybel (S3)
+
+**30th - ShyGus (1):** Fourbitplayer (S2)
+
+**30th - TheKevGuy (1):** buttergolem1 (S6)
+
+**30th - TheRealHagrid (1):** ColdBac (S4)
+
+**30th - wibbol (1):** DrSliced (S6)
 
 ---
 ### PvE Deaths
@@ -69,16 +152,16 @@
 ---
 ### Debutants
 
-**S1 (24):** 3Dspoders, centraleric, azoof, Havenhand, SD_UHC, Kubaslov, ToontownOnline, Micale, buttergolem1, LightningS7, ColdBac, natsuvi, BatMan_1814, TommySuX, MeadowMoos, 6BU, lottebunny, pigghetti, Ixolock, Fra49, DJoee, fruitberries, nsket, powermc
+**S1 (24):** 3Dspoders, 6BU, azoof, BatMan_1814, buttergolem1, centraleric, ColdBac, DJoee, Fra49, fruitberries, Havenhand, Ixolock, Kubaslov, LightningS7, lottebunny, MeadowMoos, Micale, natsuvi, nsket, pigghetti, powermc, SD_UHC, TommySuX, ToontownOnline
 
-**S2 (9):** Maxwellfifty, TheRealHagrid, Zahkari, Flohp, Fourbitplayer, ShyGus, Livin423, GetNicked, lexicuhl
+**S2 (9):** Flohp, Fourbitplayer, GetNicked, lexicuhl, Livin423, Maxwellfifty, ShyGus, TheRealHagrid, Zahkari
 
-**S3 (14):** bjr201111, wibbol, Potsie, I_is_cheesecake, Dj8ninja, WackoFlipper, Gorgerous, Psykl0ne, ChainingVermin2, Aybel, SharkeyJaws, firefoxvulpix, SiahStone, MarcC5M
+**S3 (14):** Aybel, bjr201111, ChainingVermin2, Dj8ninja, firefoxvulpix, Gorgerous, I_is_cheesecake, MarcC5M, Potsie, Psykl0ne, SharkeyJaws, SiahStone, WackoFlipper, wibbol
 
-**S4 (11):** Do_You_Minecraft, Exee, brodioh, TalonBX, WillBrisk, dw0w, DrSliced, Applepie78, Boomblade60, Fazz2, cherryblawsom
+**S4 (11):** Applepie78, Boomblade60, brodioh, cherryblawsom, Do_You_Minecraft, DrSliced, dw0w, Exee, Fazz2, TalonBX, WillBrisk
 
-**S5 (3):** TheSlimeBrother, Chasmic, automavic
+**S5 (3):** automavic, Chasmic, TheSlimeBrother
 
-**S6 (16):** jommyappleseed, silh, Evader22, tbhjosh, Jahrod, DKPMatt, tagggz, MaxEvasion, Flouzemaker, Vulkarr, PresidentFleb, Plushy33, VeniiiD, TheKevGuy, CrowJRC, KOKeowner
+**S6 (16):** CrowJRC, DKPMatt, Evader22, Flouzemaker, Jahrod, jommyappleseed, KOKeowner, MaxEvasion, Plushy33, PresidentFleb, silh, tagggz, tbhjosh, TheKevGuy, VeniiiD, Vulkarr
 
 ---

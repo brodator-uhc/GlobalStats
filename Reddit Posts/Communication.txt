@@ -41,6 +41,27 @@
 ---
 ### Kills
 
+**1st - cherryblawsom (8):** Abdalain (S1), pigghetti (S1), Kaismartypants (S1), SiahStone (S1), WillBrisk (S1), Bradzi (S2), SmolHatChild (S2), JmcLFA (S2)
+
+**2nd - DarkType (6):** Appointments (S2), SiahStone (S2), Broseph (S2), acadiangel (S2), Topspinpiggles (S2), FearlessRedHawk (S2)
+
+**3rd - vynil (3):** frogsella (S1), Andrew512 (S1), cherryblawsom (S1)
+
+**4th - Bradzi (2):** BardMain2 (S2), Paxtona (S2)
+
+**4th - Fictional (2):** SmoothieGod (S1), SmolHatChild (S1)
+
+**6th - Andrew512 (1):** JahMuis (S1)
+
+**6th - Broseph (1):** HeyImHungry (S2)
+
+**6th - FearlessRedHawk (1):** DarkType (S2)
+
+**6th - nyaaia (1):** Fictional (S1)
+
+**6th - pigghetti (1):** Thimburrr (S1)
+
+**6th - WillBrisk (1):** nyaaia (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +74,8 @@
 ---
 ### Debutants
 
-**S1 (18):** Digitil, MannyDM, Rainbow_Skelly, SmoothieGod, Thimburrr, SmolHatChild, Abdalain, pigghetti, Kaismartypants, SiahStone, JahMuis, frogsella, Fictional, nyaaia, WillBrisk, Andrew512, cherryblawsom, vynil
+**S1 (18):** Abdalain, Andrew512, cherryblawsom, Digitil, Fictional, frogsella, JahMuis, Kaismartypants, MannyDM, nyaaia, pigghetti, Rainbow_Skelly, SiahStone, SmolHatChild, SmoothieGod, Thimburrr, vynil, WillBrisk
 
-**S2 (11):** BardMain2, Appointments, HeyImHungry, Paxtona, Broseph, acadiangel, Topspinpiggles, Bradzi, FearlessRedHawk, DarkType, JmcLFA
+**S2 (11):** acadiangel, Appointments, BardMain2, Bradzi, Broseph, DarkType, FearlessRedHawk, HeyImHungry, JmcLFA, Paxtona, Topspinpiggles
 
 ---

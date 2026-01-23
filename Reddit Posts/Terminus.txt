@@ -37,6 +37,13 @@
 ---
 ### Kills
 
+**1st - UltraHC (6):** ShadowSlayerTom (S1), TijnJemma (S1), Relyot (S1), BlazeStar16 (S1), DtroidGames (S1), Anogoraz (S1)
+
+**2nd - BlazeStar16 (5):** Fezz (S1), RoastedJames (S1), Vuraaa (S1), Slothbeans (S1), GameNoob_ (S1)
+
+**3rd - Slothbeans (4):** Hewarder (S1), 00Jace (S1), TRUCKFARM (S1), InspireBeef (S1)
+
+**4th - Anogoraz (1):** LWalker7C (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +56,6 @@
 ---
 ### Debutants
 
-**S1 (20):** Paradox_Soldier, Bilboo, Hewarder, Fezz, 00Jace, RoastedJames, ShadowSlayerTom, ItsSander, Vuraaa, TRUCKFARM, InspireBeef, Slothbeans, TijnJemma, Relyot, GameNoob_, BlazeStar16, DtroidGames, LWalker7C, Anogoraz, UltraHC
+**S1 (20):** 00Jace, Anogoraz, Bilboo, BlazeStar16, DtroidGames, Fezz, GameNoob_, Hewarder, InspireBeef, ItsSander, LWalker7C, Paradox_Soldier, Relyot, RoastedJames, ShadowSlayerTom, Slothbeans, TijnJemma, TRUCKFARM, UltraHC, Vuraaa
 
 ---

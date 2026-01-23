@@ -37,6 +37,21 @@
 ---
 ### Kills
 
+**1st - MajorWoof (5):** oDogLFC (S1), Caffeindiazepine (S1), SummerBqsh (S1), Greeples (S1), LordJxck (S1)
+
+**1st - VeniiiD (5):** Mathyy (S1), Davidsid (S1), ShyGus (S1), Kassiie (S1), FutureDreamz (S1)
+
+**3rd - Hecticity (2):** MBeaar (S1), ScottPirie (S1)
+
+**4th - BSBrent (1):** strategy (S1)
+
+**4th - FutureDreamz (1):** Hecticity (S1)
+
+**4th - Kassiie (1):** crazy_monkey7531 (S1)
+
+**4th - oDogLFC (1):** BSBrent (S1)
+
+**4th - ShyGus (1):** ElGavinoSupremo (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +64,6 @@
 ---
 ### Debutants
 
-**S1 (24):** Mathyy, MrCraftinator, tilargo, flameorb, strategy, BSBrent, spoood, MBeaar, ScottPirie, KatyLawson, oDogLFC, Davidsid, ElGavinoSupremo, Hecticity, Caffeindiazepine, SummerBqsh, Greeples, LordJxck, crazy_monkey7531, ShyGus, Kassiie, FutureDreamz, MajorWoof, VeniiiD
+**S1 (24):** BSBrent, Caffeindiazepine, crazy_monkey7531, Davidsid, ElGavinoSupremo, flameorb, FutureDreamz, Greeples, Hecticity, Kassiie, KatyLawson, LordJxck, MajorWoof, Mathyy, MBeaar, MrCraftinator, oDogLFC, ScottPirie, ShyGus, spoood, strategy, SummerBqsh, tilargo, VeniiiD
 
 ---

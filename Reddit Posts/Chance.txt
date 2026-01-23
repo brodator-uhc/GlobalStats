@@ -37,6 +37,33 @@
 ---
 ### Kills
 
+**1st - LightingMC (4):** 123SteveBob (S1), Stravilight (S1), Shu_MCSG (S1), painterwanabe (S1)
+
+**2nd - _Dieter (3):** CurdledDrip (S1), GodlySteal (S1), flameh (S1)
+
+**2nd - flameh (3):** gartbak (S1), dahii (S1), Fcrm (S1)
+
+**2nd - Ginzburg (3):** sgouche (S1), IdkKiller (S1), _Dieter (S1)
+
+**5th - dahii (2):** turicake (S1), strategy (S1)
+
+**5th - Fcrm (2):** MCBR (S1), Kaismartypants (S1)
+
+**5th - gartbak (2):** noktime (S1), BoltsInCharge (S1)
+
+**8th - _carn (1):** _pbo (S1)
+
+**8th - _pbo (1):** kawaiibunri (S1)
+
+**8th - benidk (1):** natsuvi (S1)
+
+**8th - BoltsInCharge (1):** bayweafs (S1)
+
+**8th - natsuvi (1):** benidk (S1)
+
+**8th - sgouche (1):** broccoliar (S1)
+
+**8th - strategy (1):** AvyleZ (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +76,6 @@
 ---
 ### Debutants
 
-**S1 (30):** noktime, turicake, bayweafs, RuneTactics, kawaiibunri, broccoliar, BoltsInCharge, sgouche, AvyleZ, MCBR, CurdledDrip, strategy, gartbak, dahii, 123SteveBob, benidk, natsuvi, Kaismartypants, GodlySteal, _pbo, _carn, Fcrm, flameh, Stravilight, IdkKiller, _Dieter, Shu_MCSG, painterwanabe, Ginzburg, LightingMC
+**S1 (30):** _carn, _Dieter, _pbo, 123SteveBob, AvyleZ, bayweafs, benidk, BoltsInCharge, broccoliar, CurdledDrip, dahii, Fcrm, flameh, gartbak, Ginzburg, GodlySteal, IdkKiller, Kaismartypants, kawaiibunri, LightingMC, MCBR, natsuvi, noktime, painterwanabe, RuneTactics, sgouche, Shu_MCSG, strategy, Stravilight, turicake
 
 ---

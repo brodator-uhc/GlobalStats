@@ -45,6 +45,59 @@
 ---
 ### Kills
 
+**1st - swishduck (6):** shikenzaned (S1), Mordon (S1), epiccheese2 (S1), Supah_Matt (S1), DECTHEELITE (S1), jamietheelite (S2)
+
+**1st - TheKevGuy (6):** Hecticity (S1), Shell_Guy (S2), oworca (S2), Supah_Matt (S2), TommySuX (S2), ThwipThwip (S2)
+
+**3rd - Dida (5):** Livin423 (S2), BJPlays (S2), Kiinako_ (S3), ScottPirie (S3), PaperVinnie (S3)
+
+**4th - Likean00b (4):** Supah_Matt (S3), BJPlays (S3), Squattamelon (S3), Andyboyonalert (S3)
+
+**4th - Mattexe (4):** WackoFlipper (S1), Squattamelon (S1), Jinko42 (S1), YellowVitt (S1)
+
+**4th - neonpoop (4):** Mordon (S2), Ninjajaja (S2), sleepingxd (S2), MoneyMonkey (S2)
+
+**4th - PaperVinnie (4):** oworca (S1), floobel (S3), YellowVitt (S3), Jpgesus (S3)
+
+**8th - Mordon (3):** Jpgesus (S1), bitlington (S1), MrTeamRaven (S2)
+
+**8th - Squattamelon (3):** _mrcool (S3), neonpoop (S3), Kidfo (S3)
+
+**8th - Zermbeeh (3):** Jpgesus (S2), Vask (S2), neonpoop (S2)
+
+**11th - _mrcool (2):** Hecticity (S2), PaperVinnie (S2)
+
+**11th - DECTHEELITE (2):** 6dayna6 (S1), Zaenith (S1)
+
+**11th - Jinko42 (2):** Shell_Guy (S1), Bergasms (S1)
+
+**11th - oworca (2):** swishduck (S2), Kiinako_ (S2)
+
+**15th - 6dayna6 (1):** NajaOxiana (S2)
+
+**15th - Andyboyonalert (1):** TheKevGuy (S3)
+
+**15th - BJPlays (1):** YellowVitt (S2)
+
+**15th - Hecticity (1):** Milen (S2)
+
+**15th - JTMatrix (1):** 6dayna6 (S2)
+
+**15th - Kidfo (1):** 6dayna6 (S3)
+
+**15th - Milen (1):** ScottPirie (S2)
+
+**15th - ScottPirie (1):** NajaOxiana (S3)
+
+**15th - Supah_Matt (1):** TheKevGuy (S1)
+
+**15th - ThwipThwip (1):** Kingsy_ (S2)
+
+**15th - TommySuX (1):** Kidfo (S2)
+
+**15th - Vask (1):** JTMatrix (S2)
+
+**15th - YellowVitt (1):** dkemelor (S1)
 
 ---
 ### PvE Deaths
@@ -57,10 +110,10 @@
 ---
 ### Debutants
 
-**S1 (24):** Mjora, dkemelor, Shell_Guy, Jpgesus, WackoFlipper, oworca, PaperVinnie, jamietheelite, 6dayna6, Zaenith, Hecticity, shikenzaned, TheKevGuy, Bergasms, bitlington, Squattamelon, Jinko42, Mordon, epiccheese2, Supah_Matt, DECTHEELITE, YellowVitt, Mattexe, swishduck
+**S1 (24):** 6dayna6, Bergasms, bitlington, DECTHEELITE, dkemelor, epiccheese2, Hecticity, jamietheelite, Jinko42, Jpgesus, Mattexe, Mjora, Mordon, oworca, PaperVinnie, Shell_Guy, shikenzaned, Squattamelon, Supah_Matt, swishduck, TheKevGuy, WackoFlipper, YellowVitt, Zaenith
 
-**S2 (20):** Kidfo, MrTeamRaven, Kiinako_, ScottPirie, Milen, Ninjajaja, sleepingxd, MoneyMonkey, _mrcool, Livin423, TommySuX, NajaOxiana, Kingsy_, JTMatrix, ThwipThwip, BJPlays, Vask, neonpoop, Dida, Zermbeeh
+**S2 (20):** _mrcool, BJPlays, Dida, JTMatrix, Kidfo, Kiinako_, Kingsy_, Livin423, Milen, MoneyMonkey, MrTeamRaven, NajaOxiana, neonpoop, Ninjajaja, ScottPirie, sleepingxd, ThwipThwip, TommySuX, Vask, Zermbeeh
 
-**S3 (3):** floobel, Andyboyonalert, Likean00b
+**S3 (3):** Andyboyonalert, floobel, Likean00b
 
 ---

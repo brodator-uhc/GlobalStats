@@ -49,6 +49,65 @@
 ---
 ### Kills
 
+**1st - acadiangel (9):** Abdalain (S1), Sluggyg (S1), JamestheDouglas (S1), Broseph (S2), aalaan (S2), JaeHasNoMaidens (S2), Bofishkix (S3), DevoyTTV (S3), Sluggyg (S3)
+
+**1st - zac083 (9):** ThisIsHab (S2), Espik (S3), Crafters (S3), Pelycosaur (S4), aalaan (S4), FrostBros (S4), ShyGus (S4), ScottPirie (S4), MaxEvasion (S4)
+
+**3rd - lilygant (8):** zac083 (S1), Thermql (S1), Nyxana (S1), acadiangel (S1), zac083 (S2), SandyyChan (S2), JamestheDouglas (S2), SummerBqsh (S2)
+
+**4th - SiahStone (7):** kalleina (S2), Psykl0ne (S2), Sluggyg (S2), Pelycosaur (S2), SmolHatChild (S2), Fra49 (S3), Brodator (S3)
+
+**5th - CHAINGE (5):** SiahStone (S3), Broseph (S3), DatGuyAdam (S3), nFang (S4), zac083 (S4)
+
+**5th - JaeHasNoMaidens (5):** Krimm (S2), lilygant (S2), Brodator (S2), DancersTalon (S2), Yveltql (S2)
+
+**7th - JamestheDouglas (4):** SmolHatChild (S1), JoshC2 (S1), zac083 (S3), Davidsid (S3)
+
+**7th - vynil (4):** JoshC2 (S2), Dj8ninja (S2), DevoyTTV (S2), ShyGus (S2)
+
+**9th - brinkwhy (3):** Yveltql (S4), CHAINGE (S4), SpaceFenix (S4)
+
+**9th - DatGuyAdam (3):** RedAjayDaBunny (S1), Krimm (S1), JaeHasNoMaidens (S1)
+
+**9th - Fourbitplayer (3):** JaeHasNoMaidens (S4), Brodator (S4), DatGuyAdam (S4)
+
+**9th - Sluggyg (3):** wowjennawow (S1), Pelycosaur (S1), CHAINGE (S3)
+
+**13th - Brodator (2):** strategy (S2), Slooshyy (S4)
+
+**13th - DevoyTTV (2):** DancersTalon (S3), Thermql (S4)
+
+**13th - Nyxana (2):** brinkwhy (S1), DatGuyAdam (S1)
+
+**13th - ShyGus (2):** Nintendoshi (S2), JoshC2 (S4)
+
+**13th - SmolHatChild (2):** SummerBqsh (S1), strategy (S1)
+
+**13th - SpaceFenix (2):** lilygant (S4), St0rmplayz (S4)
+
+**13th - St0rmplayz (2):** Fourbitplayer (S4), DevoyTTV (S4)
+
+**20th - 4EyedSlime (1):** Yveltql (S3)
+
+**20th - DancersTalon (1):** vynil (S2)
+
+**20th - Davidsid (1):** Regifloat (S3)
+
+**20th - Emerric (1):** Dj8ninja (S3)
+
+**20th - Espik (1):** 4EyedSlime (S3)
+
+**20th - MaxEvasion (1):** Fra49 (S4)
+
+**20th - Pelycosaur (1):** Crafters (S2)
+
+**20th - Regifloat (1):** acadiangel (S3)
+
+**20th - ScottPirie (1):** SummerBqsh (S4)
+
+**20th - strategy (1):** Thermql (S2)
+
+**20th - SummerBqsh (1):** Anorable (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +120,12 @@
 ---
 ### Debutants
 
-**S1 (20):** SummerBqsh, RedAjayDaBunny, brinkwhy, Abdalain, strategy, SmolHatChild, zac083, wowjennawow, Pelycosaur, Krimm, JoshC2, JaeHasNoMaidens, Sluggyg, JamestheDouglas, DatGuyAdam, Thermql, Nyxana, acadiangel, ThisIsHab, lilygant
+**S1 (20):** Abdalain, acadiangel, brinkwhy, DatGuyAdam, JaeHasNoMaidens, JamestheDouglas, JoshC2, Krimm, lilygant, Nyxana, Pelycosaur, RedAjayDaBunny, Sluggyg, SmolHatChild, strategy, SummerBqsh, Thermql, ThisIsHab, wowjennawow, zac083
 
-**S2 (15):** Nintendoshi, Dj8ninja, Broseph, kalleina, Psykl0ne, SandyyChan, aalaan, Crafters, DevoyTTV, ShyGus, vynil, Brodator, DancersTalon, Yveltql, SiahStone
+**S2 (15):** aalaan, Brodator, Broseph, Crafters, DancersTalon, DevoyTTV, Dj8ninja, kalleina, Nintendoshi, Psykl0ne, SandyyChan, ShyGus, SiahStone, vynil, Yveltql
 
-**S3 (9):** Fra49, Bofishkix, 4EyedSlime, CHAINGE, Espik, Anorable, Regifloat, Davidsid, Emerric
+**S3 (9):** 4EyedSlime, Anorable, Bofishkix, CHAINGE, Davidsid, Emerric, Espik, Fra49, Regifloat
 
-**S4 (8):** Slooshyy, Fourbitplayer, FrostBros, ScottPirie, MaxEvasion, nFang, St0rmplayz, SpaceFenix
+**S4 (8):** Fourbitplayer, FrostBros, MaxEvasion, nFang, ScottPirie, Slooshyy, SpaceFenix, St0rmplayz
 
 ---

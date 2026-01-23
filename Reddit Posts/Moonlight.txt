@@ -49,6 +49,61 @@
 ---
 ### Kills
 
+**1st - Fcrm (18):** _1mmortal_ (S1), ScaryPumpkinFace (S1), grantfaker (S2), DogOfKrondor (S2), OneMoreWeek (S2), IrishandProud (S2), MineKG (S2), boyyoo (S2), kabobaa (S2), HeyItsJBug (S3), Clemjo (S3), kabobaa (S3), ScaryPumpkinFace (S3), DevoyTTV (S3), Pgy (S3), AirInAirOut (S3), Broseph (S4), Ryfri (S4)
+
+**2nd - kawaiibunri (7):** Stravilight (S4), ItsShqky (S4), ImChile (S4), HUQTER (S4), RomeoG0401 (S4), Fearx_ (S4), noktime (S4)
+
+**3rd - kabobaa (5):** Blind4ndD34f (S2), Kaismartypants (S2), BoltsInCharge (S2), King_Aiden (S4), ShootingGoats (S4)
+
+**4th - DevoyTTV (4):** broccoliar (S2), ItsShqky (S3), ArcticSeagull (S3), broccoliar (S3)
+
+**4th - DJoee (4):** DogOfKrondor (S4), grantfaker (S4), Pgy (S4), Bulbexe (S4)
+
+**4th - ImChile (4):** Bobbytheturtle (S4), JampoJohn (S4), ScaryPumpkinFace (S4), kabobaa (S4)
+
+**4th - LightingMC (4):** ShootingGoats (S2), JampoJohn (S2), GuyNamedKreo (S2), EroseMC (S3)
+
+**8th - broccoliar (3):** boyyoo (S3), Blind4ndD34f (S3), vDyre (S3)
+
+**8th - ItsShqky (3):** zoeywithawhy (S2), MichaelPlayMC (S3), broccoliar (S4)
+
+**8th - JustStefqn (3):** Fcrm (S1), MichaelPlayMC (S1), Dreamfall (S1)
+
+**8th - noktime (3):** vDyre (S4), Fcrm (S4), SpaceFenix (S4)
+
+**8th - Stravilight (3):** vDyre (S2), LightingMC (S2), ScaryPumpkinFace (S2)
+
+**13th - AirInAirOut (2):** JampoJohn (S3), BEANJEE (S3)
+
+**13th - BoltsInCharge (2):** MichaelPlayMC (S2), AirInAirOut (S2)
+
+**13th - boyyoo (2):** JampoJohn (S1), LightingMC (S3)
+
+**13th - Bulbexe (2):** omchris (S4), kawaiibunri (S4)
+
+**13th - Dreamfall (2):** Kaismartypants (S1), JustStefqn (S1)
+
+**13th - Fearx_ (2):** Karliffu (S4), boyyoo (S4)
+
+**13th - grantfaker (2):** boyyoo (S1), acadiangel (S4)
+
+**13th - JampoJohn (2):** rae0vr (S1), DevoyTTV (S2)
+
+**13th - Pgy (2):** ArcticSeagull (S4), EndestroyerEpic (S4)
+
+**13th - ScaryPumpkinFace (2):** ItsShqky (S2), CAMKART100 (S4)
+
+**23rd - ArcticSeagull (1):** Random_Penguin72 (S3)
+
+**23rd - Evzenitable (1):** Ninetals38 (S1)
+
+**23rd - Ninetals38 (1):** DogOfKrondor (S1)
+
+**23rd - omchris (1):** OneMoreWeek (S4)
+
+**23rd - Ryfri (1):** MrMasterball (S4)
+
+**23rd - SpaceFenix (1):** MichaelPlayMC (S4)
 
 ---
 ### PvE Deaths
@@ -61,12 +116,12 @@
 ---
 ### Debutants
 
-**S1 (17):** _1mmortal_, ScaryPumpkinFace, Kaismartypants, Fcrm, kabobaa, MichaelPlayMC, ItsShqky, Dreamfall, JustStefqn, rae0vr, JampoJohn, boyyoo, DogOfKrondor, Ninetals38, Evzenitable, grantfaker, IrishandProud
+**S1 (17):** _1mmortal_, boyyoo, DogOfKrondor, Dreamfall, Evzenitable, Fcrm, grantfaker, IrishandProud, ItsShqky, JampoJohn, JustStefqn, kabobaa, Kaismartypants, MichaelPlayMC, Ninetals38, rae0vr, ScaryPumpkinFace
 
-**S2 (13):** broccoliar, DevoyTTV, vDyre, ShootingGoats, zoeywithawhy, GuyNamedKreo, OneMoreWeek, LightingMC, AirInAirOut, Blind4ndD34f, MineKG, BoltsInCharge, Stravilight
+**S2 (13):** AirInAirOut, Blind4ndD34f, BoltsInCharge, broccoliar, DevoyTTV, GuyNamedKreo, LightingMC, MineKG, OneMoreWeek, ShootingGoats, Stravilight, vDyre, zoeywithawhy
 
-**S3 (8):** HeyItsJBug, EroseMC, gasosaurus518, Clemjo, Random_Penguin72, ArcticSeagull, Pgy, BEANJEE
+**S3 (8):** ArcticSeagull, BEANJEE, Clemjo, EroseMC, gasosaurus518, HeyItsJBug, Pgy, Random_Penguin72
 
-**S4 (19):** CAMKART100, Bobbytheturtle, acadiangel, King_Aiden, ImChile, HUQTER, MrMasterball, RomeoG0401, Broseph, Ryfri, EndestroyerEpic, Karliffu, omchris, Fearx_, SpaceFenix, noktime, kawaiibunri, Bulbexe, DJoee
+**S4 (19):** acadiangel, Bobbytheturtle, Broseph, Bulbexe, CAMKART100, DJoee, EndestroyerEpic, Fearx_, HUQTER, ImChile, Karliffu, kawaiibunri, King_Aiden, MrMasterball, noktime, omchris, RomeoG0401, Ryfri, SpaceFenix
 
 ---

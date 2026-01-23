@@ -49,6 +49,49 @@
 ---
 ### Kills
 
+**1st - NetherrRush (8):** Katshkee (S1), xRyan98 (S1), Spikemc (S1), Aslandier (S1), RwDragon (S1), ConnorsGameTips (S1), xXMaximusMC (S1), TheRealHagrid (S1)
+
+**2nd - AJSteel (5):** Digitil (S4), BraydenCFA (S4), YaojaDzn (S4), Lighte (S4), Spikemc (S4)
+
+**2nd - GRLH (5):** pigghetti (S3), Abdalain (S3), OGJalen (S4), FrozenUHC (S4), elitemaster2 (S4)
+
+**2nd - MaxEvasion (5):** Jordtim (S2), Abdalain (S2), OGJalen (S2), HaHaYes (S2), Exee (S2)
+
+**5th - Spikemc (4):** DiarWolfe (S1), GRLH (S3), Nirro_ (S3), HoneyFromHell (S3)
+
+**6th - _JJL (3):** HoneyFromHell (S1), Bulbae (S1), HaHaYes (S1)
+
+**6th - elitemaster2 (3):** TheRealHagrid (S2), HoneyFromHell (S2), LongaVita (S4)
+
+**8th - bananasash (2):** LongaVita (S2), xXMaximusMC (S2)
+
+**8th - Lighte (2):** Shadowlego (S4), xXMaximusMC (S4)
+
+**8th - TheRealHagrid (2):** _JJL (S1), xXMaximusMC (S3)
+
+**8th - xXMaximusMC (2):** RwDragon (S3), Spikemc (S3)
+
+**8th - Yoshiwacko (2):** hazel_doe (S2), Digitil (S2)
+
+**13th - Abdalain (1):** Lighte (S3)
+
+**13th - Bulbae (1):** Eroe (S1)
+
+**13th - Eroe (1):** Maxwellfifty (S1)
+
+**13th - HaHaYes (1):** Yoshiwacko (S2)
+
+**13th - HoneyFromHell (1):** swishduck (S1)
+
+**13th - Maxwellfifty (1):** tagggz (S1)
+
+**13th - Nirro_ (1):** FazedMC (S2)
+
+**13th - OGJalen (1):** Nirro_ (S2)
+
+**13th - pigghetti (1):** Katshkee (S3)
+
+**13th - swishduck (1):** MushroomStalker (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +104,12 @@
 ---
 ### Debutants
 
-**S1 (20):** elitemaster2, MushroomStalker, swishduck, HoneyFromHell, Katshkee, tagggz, DiarWolfe, xRyan98, Maxwellfifty, Spikemc, Eroe, Aslandier, RwDragon, ConnorsGameTips, Bulbae, HaHaYes, _JJL, xXMaximusMC, TheRealHagrid, NetherrRush
+**S1 (20):** _JJL, Aslandier, Bulbae, ConnorsGameTips, DiarWolfe, elitemaster2, Eroe, HaHaYes, HoneyFromHell, Katshkee, Maxwellfifty, MushroomStalker, NetherrRush, RwDragon, Spikemc, swishduck, tagggz, TheRealHagrid, xRyan98, xXMaximusMC
 
-**S2 (14):** hazel_doe, Digitil, Jordtim, Abdalain, FazedMC, Nirro_, OGJalen, Yoshiwacko, LongaVita, Exee, MaxEvasion, bananasash, EighteenQs, LuckyLucario99
+**S2 (14):** Abdalain, bananasash, Digitil, EighteenQs, Exee, FazedMC, hazel_doe, Jordtim, LongaVita, LuckyLucario99, MaxEvasion, Nirro_, OGJalen, Yoshiwacko
 
-**S3 (3):** pigghetti, Lighte, GRLH
+**S3 (3):** GRLH, Lighte, pigghetti
 
-**S4 (5):** BraydenCFA, YaojaDzn, Shadowlego, FrozenUHC, AJSteel
+**S4 (5):** AJSteel, BraydenCFA, FrozenUHC, Shadowlego, YaojaDzn
 
 ---

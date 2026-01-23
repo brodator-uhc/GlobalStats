@@ -61,6 +61,87 @@
 ---
 ### Kills
 
+**1st - Austronomical (14):** Zachf01 (S1), oDogLFC (S2), Zachf01 (S3), Beastaxel (S3), Fensua (S3), SoulRawr (S3), Jayzize (S3), cherryblawsom (S3), Jayzize (S4), NajaOxiana (S4), Ryfri (S5), zCent (S5), zCent (S7), FrostBros (S7)
+
+**2nd - Ryfri (12):** IzunaLoli (S1), automavic (S1), Jayzize (S2), Kaismartypants (S2), MercuryParadox (S3), Chipzzy (S3), Jrose (S4), zCent (S6), TalonBX (S6), Kaismartypants (S6), Spongey (S6), vishs (S7)
+
+**3rd - PLENT (9):** Kaismartypants (S3), PauloSSB (S4), cherryblawsom (S4), Potsie (S6), _mrcool (S6), DrJamezz (S6), Jayzize (S6), Zakkeagle (S6), cherryblawsom (S6)
+
+**4th - DrJamezz (8):** NajaOxiana (S3), PLENT (S4), ShyGus (S4), 319phoenix (S4), Austronomical (S5), 319phoenix (S5), ShyGus (S5), Austronomical (S6)
+
+**5th - PauloSSB (7):** FrostBros (S1), Ryfri (S1), Canman (S2), automavic (S2), Keelando (S7), Fensua (S7), Jayzize (S7)
+
+**6th - cherryblawsom (6):** MercuryParadox (S2), Wilsonkong (S2), Jrose (S3), _mrcool (S3), Lucityy (S4), lexicuhl (S4)
+
+**6th - Zakkeagle (6):** PenguinBagels (S5), Potsie (S5), chloesad (S6), Bluests (S6), MajorWoof (S6), YellowVitt (S7)
+
+**8th - _mrcool (5):** C_money (S4), zCent (S4), vishs (S5), Bluests (S5), Beastaxel (S5)
+
+**8th - Fensua (5):** chloesad (S3), TommySuX (S3), Bluests (S3), PLENT (S3), Ryfri (S6)
+
+**8th - lexicuhl (5):** Ryfri (S4), YellowVitt (S6), Lucityy (S7), PauloSSB (S7), thebbers (S7)
+
+**11th - Arich (4):** andrewbaseball99 (S2), Beastaxel (S2), PauloSSB (S2), Kaismartypants (S5)
+
+**11th - Bluests (4):** DrJamezz (S3), SoulRawr (S4), _mrcool (S4), Jayzize (S5)
+
+**11th - FrostBros (4):** LqndSlide (S1), ChainingVermin2 (S1), CountryCutie (S1), EyeHasNoIdea (S7)
+
+**11th - Phoraxe (4):** CountryCutie (S5), Arich (S6), CountryCutie (S6), chloesad (S7)
+
+**11th - Potsie (4):** Chipzzy (S4), Keelando (S4), vishs (S4), Bluests (S4)
+
+**11th - swishduck (4):** TalonBX (S7), cherryblawsom (S7), Spongey (S7), Potsie (S7)
+
+**17th - IceshardEleven (3):** Spongey (S2), Ryfri (S2), GoldenNs (S2)
+
+**17th - Spongey (3):** Wolfaye (S6), Phoraxe (S6), Bacan (S7)
+
+**17th - vishs (3):** Arich (S5), lexicuhl (S6), MajorWoof (S7)
+
+**17th - zCent (3):** Phoraxe (S5), Spongey (S5), cherryblawsom (S5)
+
+**21st - GoldenNs (2):** Bluests (S2), Arich (S2)
+
+**21st - Jayzize (2):** Austronomical (S7), Ryfri (S7)
+
+**21st - patriotsfan75 (2):** TalonBX (S1), IceshardEleven (S1)
+
+**21st - ShyGus (2):** Potsie (S4), Zakkeagle (S5)
+
+**21st - TommySuX (2):** FrostBros (S3), Ryfri (S3)
+
+**26th - 319phoenix (1):** Austronomical (S4)
+
+**26th - automavic (1):** Austronomical (S1)
+
+**26th - Beastaxel (1):** chloesad (S2)
+
+**26th - ChainingVermin2 (1):** cherryblawsom (S1)
+
+**26th - Dj8ninja (1):** 016Nojr (S2)
+
+**26th - IzunaLoli (1):** Dj8ninja (S1)
+
+**26th - Kaismartypants (1):** Phoraxe (S7)
+
+**26th - LqndSlide (1):** patriotsfan75 (S1)
+
+**26th - Lucityy (1):** swishduck (S7)
+
+**26th - NajaOxiana (1):** Dj8ninja (S3)
+
+**26th - oDogLFC (1):** DrJamezz (S2)
+
+**26th - SoulRawr (1):** PauloSSB (S3)
+
+**26th - Wilsonkong (1):** Dj8ninja (S2)
+
+**26th - Wolfaye (1):** PenguinBagels (S6)
+
+**26th - YellowVitt (1):** Kaismartypants (S7)
+
+**26th - Zachf01 (1):** ShyGus (S3)
 
 ---
 ### PvE Deaths
@@ -73,18 +154,18 @@
 ---
 ### Debutants
 
-**S1 (16):** cherryblawsom, TalonBX, IceshardEleven, patriotsfan75, LqndSlide, ChainingVermin2, Zachf01, Dj8ninja, IzunaLoli, CountryCutie, Austronomical, FrostBros, automavic, Ryfri, Kaismartypants, PauloSSB
+**S1 (16):** Austronomical, automavic, ChainingVermin2, cherryblawsom, CountryCutie, Dj8ninja, FrostBros, IceshardEleven, IzunaLoli, Kaismartypants, LqndSlide, patriotsfan75, PauloSSB, Ryfri, TalonBX, Zachf01
 
-**S2 (16):** PLENT, Bluests, crazy_monkey7531, andrewbaseball99, 016Nojr, MercuryParadox, Spongey, chloesad, Canman, Beastaxel, DrJamezz, oDogLFC, Jayzize, Arich, GoldenNs, Wilsonkong
+**S2 (16):** 016Nojr, andrewbaseball99, Arich, Beastaxel, Bluests, Canman, chloesad, crazy_monkey7531, DrJamezz, GoldenNs, Jayzize, MercuryParadox, oDogLFC, PLENT, Spongey, Wilsonkong
 
-**S3 (9):** _itslennard14, Jrose, ShyGus, _mrcool, NajaOxiana, Chipzzy, TommySuX, Fensua, SoulRawr
+**S3 (9):** _itslennard14, _mrcool, Chipzzy, Fensua, Jrose, NajaOxiana, ShyGus, SoulRawr, TommySuX
 
-**S4 (8):** C_money, Keelando, vishs, Lucityy, lexicuhl, zCent, Potsie, 319phoenix
+**S4 (8):** 319phoenix, C_money, Keelando, lexicuhl, Lucityy, Potsie, vishs, zCent
 
 **S5 (3):** PenguinBagels, Phoraxe, Zakkeagle
 
-**S6 (3):** Wolfaye, YellowVitt, MajorWoof
+**S6 (3):** MajorWoof, Wolfaye, YellowVitt
 
-**S7 (5):** Bacan, EyeHasNoIdea, swishduck, vynil, thebbers
+**S7 (5):** Bacan, EyeHasNoIdea, swishduck, thebbers, vynil
 
 ---

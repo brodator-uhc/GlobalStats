@@ -45,6 +45,53 @@
 ---
 ### Kills
 
+**1st - flameh (5):** Spacepod_ (S3), Coolust (S3), Cyndic (S3), SmooveManeuver (S3), tuxster (S3)
+
+**2nd - _Glen (4):** Jinko42 (S1), BSBrent (S2), Purpdan (S2), luxime (S3)
+
+**3rd - Gabey (3):** emulie (S2), SimplySam (S3), BENYN (S3)
+
+**3rd - Purpdan (3):** LeonTG (S2), spoood (S2), Hecticity (S2)
+
+**3rd - Skysey (3):** IonJ (S1), bjr201111 (S1), Haama_ (S1)
+
+**3rd - SmooveManeuver (3):** brodioh (S3), Purpdan (S3), Hazzzard_ (S3)
+
+**7th - AJSteel (2):** Gps02 (S2), vileee (S2)
+
+**7th - Jinko42 (2):** OnlyCosmia (S1), Elykoo (S1)
+
+**7th - KaBoom (2):** Tatters (S2), T0n35 (S2)
+
+**7th - MajorWoof (2):** I_is_cheesecake (S1), _Glen (S1)
+
+**7th - Tatters (2):** SimplySam (S2), AJSteel (S2)
+
+**7th - tuxster (2):** hammer_fan (S3), LeonTG (S3)
+
+**13th - BENYN (1):** OnlyCosmia (S2)
+
+**13th - Cyndic (1):** Dylanthesnake (S3)
+
+**13th - Elykoo (1):** Evader22 (S1)
+
+**13th - emulie (1):** Spacepod_ (S2)
+
+**13th - FSP_Ninja (1):** Skysey (S1)
+
+**13th - Hecticity (1):** KaBoom (S2)
+
+**13th - I_is_cheesecake (1):** Phoebe (S1)
+
+**13th - IonJ (1):** BSBrent (S1)
+
+**13th - LeonTG (1):** CHANGA (S3)
+
+**13th - SimplySam (1):** Gabey (S2)
+
+**13th - spoood (1):** BENYN (S2)
+
+**13th - T0n35 (1):** Hazzzard_ (S2)
 
 ---
 ### PvE Deaths
@@ -57,10 +104,10 @@
 ---
 ### Debutants
 
-**S1 (15):** Kingsy_, OnlyCosmia, Evader22, Elykoo, BSBrent, IonJ, Jinko42, bjr201111, Phoebe, Haama_, Skysey, I_is_cheesecake, _Glen, FSP_Ninja, MajorWoof
+**S1 (15):** _Glen, bjr201111, BSBrent, Elykoo, Evader22, FSP_Ninja, Haama_, I_is_cheesecake, IonJ, Jinko42, Kingsy_, MajorWoof, OnlyCosmia, Phoebe, Skysey
 
-**S2 (16):** Spacepod_, emulie, Gabey, Gps02, vileee, BENYN, LeonTG, spoood, SimplySam, AJSteel, Tatters, Hazzzard_, T0n35, KaBoom, Hecticity, Purpdan
+**S2 (16):** AJSteel, BENYN, emulie, Gabey, Gps02, Hazzzard_, Hecticity, KaBoom, LeonTG, Purpdan, SimplySam, Spacepod_, spoood, T0n35, Tatters, vileee
 
-**S3 (10):** brodioh, luxime, hammer_fan, Coolust, Dylanthesnake, CHANGA, Cyndic, SmooveManeuver, tuxster, flameh
+**S3 (10):** brodioh, CHANGA, Coolust, Cyndic, Dylanthesnake, flameh, hammer_fan, luxime, SmooveManeuver, tuxster
 
 ---

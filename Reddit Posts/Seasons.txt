@@ -49,6 +49,41 @@
 ---
 ### Kills
 
+**1st - MercuryParadox (7):** CaesarOctavius (S1), ACommonKiwi (S1), Prisma (S1), FluffyAri (S1), Queequa (S1), CaesarOctavius (S2), TehBaconBrawlerZ (S3)
+
+**2nd - pierce981 (6):** kirbey (S1), Taivax (S2), lasdarling (S2), ShootingGoats (S4), MuchoLinguine (S4), CrowJRC (S4)
+
+**3rd - Hecticity (5):** ShootingGoats (S2), ProGirlGamer (S2), Destoony (S3), MuchoLinguine (S3), MercuryParadox (S3)
+
+**4th - kirbey (4):** Sadwics (S1), Hecticity (S2), Sadwics (S2), Kaismartypants (S3)
+
+**4th - MuchoLinguine (4):** vinny212 (S1), ShootingGoats (S3), Destoony (S4), FluffyAri (S4)
+
+**4th - ProGirlGamer (4):** duhswag (S2), TehBaconBrawlerZ (S4), duhswag (S4), MercuryParadox (S4)
+
+**4th - Zakkeagle (4):** FluffyAri (S3), vinny212 (S3), lasdarling (S3), kirbey (S3)
+
+**8th - ImChile (3):** _Nickolas (S1), ProGirlGamer (S1), pierce981 (S1)
+
+**8th - Prisma (3):** FluffyAri (S2), MuchoLinguine (S2), kirbey (S2)
+
+**8th - ShootingGoats (3):** ACommonKiwi (S2), _Nickolas (S3), Brodator (S3)
+
+**11th - CrowJRC (2):** Timmyxo_ (S4), ACommonKiwi (S4)
+
+**11th - duhswag (2):** L0C4L_ju (S4), Prisma (S4)
+
+**11th - lasdarling (2):** MercuryParadox (S2), Destoony (S2)
+
+**14th - Kaismartypants (1):** ProGirlGamer (S3)
+
+**14th - Plushy33 (1):** Prisma (S3)
+
+**14th - Taivax (1):** _Nickolas (S2)
+
+**14th - TehBaconBrawlerZ (1):** duhswag (S3)
+
+**14th - vinny212 (1):** MuchoLinguine (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +96,12 @@
 ---
 ### Debutants
 
-**S1 (14):** CaesarOctavius, _Nickolas, ProGirlGamer, ACommonKiwi, vinny212, MuchoLinguine, Sadwics, kirbey, pierce981, Prisma, FluffyAri, Queequa, ImChile, MercuryParadox
+**S1 (14):** _Nickolas, ACommonKiwi, CaesarOctavius, FluffyAri, ImChile, kirbey, MercuryParadox, MuchoLinguine, pierce981, Prisma, ProGirlGamer, Queequa, Sadwics, vinny212
 
-**S2 (7):** NerdThatsAGeek, duhswag, ShootingGoats, Hecticity, Destoony, Taivax, lasdarling
+**S2 (7):** Destoony, duhswag, Hecticity, lasdarling, NerdThatsAGeek, ShootingGoats, Taivax
 
-**S3 (8):** L0C4L_ju, Plushy33, Mr_305, Kaismartypants, Brodator, TehBaconBrawlerZ, IcyshadowMC, Zakkeagle
+**S3 (8):** Brodator, IcyshadowMC, Kaismartypants, L0C4L_ju, Mr_305, Plushy33, TehBaconBrawlerZ, Zakkeagle
 
-**S4 (2):** Timmyxo_, CrowJRC
+**S4 (2):** CrowJRC, Timmyxo_
 
 ---

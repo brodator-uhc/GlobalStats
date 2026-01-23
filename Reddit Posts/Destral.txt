@@ -49,6 +49,49 @@
 ---
 ### Kills
 
+**1st - krangxd (6):** Frxnkey (S1), Codwhy (S2), Djmandude (S2), Djmandude (S3), LoafOZ (S3), InProper (S3)
+
+**2nd - Fcrm (5):** Diisu (S2), natsuvi (S4), St0rmplayz (S4), brinkwhy (S4), Sharkbob94349 (S4)
+
+**2nd - InProper (5):** violetwoah (S3), natsuvi (S3), Frxnkey (S3), Zcin (S3), LexTank (S3)
+
+**4th - FerreMC (4):** ZebraPantz (S4), ItzRealMe (S4), Andronify (S4), CipherKai (S4)
+
+**5th - AdobeNerd (3):** Sneaky26 (S1), Fcrm (S1), violetwoah (S1)
+
+**5th - AtomicCrossbow (3):** Wilsonkong (S1), HyperTotodile (S1), AdobeNerd (S1)
+
+**5th - JaqOnCraq (3):** xExtro (S1), TheRealHagrid (S1), krangxd (S1)
+
+**5th - Jorgeeay (3):** NeededCheese (S2), Fcrm (S2), ZebraPantz (S2)
+
+**5th - Sharkbob94349 (3):** LoafOZ (S4), FerreMC (S4), JaqOnCraq (S4)
+
+**10th - Djmandude (2):** Jorgeeay (S2), HyperTotodile (S2)
+
+**10th - Frxnkey (2):** Andronify (S1), LoafOZ (S1)
+
+**10th - HyperTotodile (2):** HigmanFreud (S1), LoafOZ (S2)
+
+**10th - LexTank (2):** AtomicCrossbow (S3), FerreMC (S3)
+
+**10th - xExtro (2):** AtomicCrossbow (S1), NeededCheese (S1)
+
+**10th - ZebraPantz (2):** Andronify (S2), violetwoah (S2)
+
+**16th - Andronify (1):** FrostBros (S4)
+
+**16th - brinkwhy (1):** ikyy (S4)
+
+**16th - LoafOZ (1):** ZebraPantz (S3)
+
+**16th - natsuvi (1):** Chugabunga (S3)
+
+**16th - Sneaky26 (1):** ZebraPantz (S1)
+
+**16th - TheRealHagrid (1):** Djmandude (S1)
+
+**16th - violetwoah (1):** Caydone (S2)
 
 ---
 ### PvE Deaths
@@ -61,12 +104,12 @@
 ---
 ### Debutants
 
-**S1 (18):** Djmandude, HigmanFreud, ZebraPantz, Sneaky26, Andronify, Wilsonkong, Fcrm, violetwoah, HyperTotodile, AdobeNerd, AtomicCrossbow, NeededCheese, xExtro, LoafOZ, Frxnkey, TheRealHagrid, krangxd, JaqOnCraq
+**S1 (18):** AdobeNerd, Andronify, AtomicCrossbow, Djmandude, Fcrm, Frxnkey, HigmanFreud, HyperTotodile, JaqOnCraq, krangxd, LoafOZ, NeededCheese, Sneaky26, TheRealHagrid, violetwoah, Wilsonkong, xExtro, ZebraPantz
 
-**S2 (4):** Diisu, Codwhy, Caydone, Jorgeeay
+**S2 (4):** Caydone, Codwhy, Diisu, Jorgeeay
 
-**S3 (7):** Sharkbob94349, Chugabunga, natsuvi, Zcin, FerreMC, LexTank, InProper
+**S3 (7):** Chugabunga, FerreMC, InProper, LexTank, natsuvi, Sharkbob94349, Zcin
 
-**S4 (6):** ikyy, St0rmplayz, ItzRealMe, FrostBros, CipherKai, brinkwhy
+**S4 (6):** brinkwhy, CipherKai, FrostBros, ikyy, ItzRealMe, St0rmplayz
 
 ---

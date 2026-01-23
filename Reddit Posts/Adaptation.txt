@@ -37,6 +37,13 @@
 ---
 ### Kills
 
+**1st - natsuvi (4):** Slooshyy (S1), DBird (S1), BoltsInCharge (S1), DevoyTTV (S1)
+
+**2nd - BoltsInCharge (2):** Crafters (S1), Karliffu (S1)
+
+**2nd - DevoyTTV (2):** JaqOnCraq (S1), _ChrisMS (S1)
+
+**2nd - JaqOnCraq (2):** Plushy33 (S1), ItsJustSherm (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +56,6 @@
 ---
 ### Debutants
 
-**S1 (15):** MaxEvasion, Dragon1ce, mickae, Plushy33, ItsJustSherm, JaqOnCraq, Slooshyy, RqDix, Crafters, DBird, Karliffu, BoltsInCharge, _ChrisMS, DevoyTTV, natsuvi
+**S1 (15):** _ChrisMS, BoltsInCharge, Crafters, DBird, DevoyTTV, Dragon1ce, ItsJustSherm, JaqOnCraq, Karliffu, MaxEvasion, mickae, natsuvi, Plushy33, RqDix, Slooshyy
 
 ---

@@ -45,6 +45,41 @@
 ---
 ### Kills
 
+**1st - ToucanTom (6):** NajaOxiana (S1), TorinFBF (S2), Markedbooboy (S2), Jahrod (S2), pigghetti (S2), aalaan (S2)
+
+**2nd - PwincessVanessa (5):** wibbol (S1), strategy (S1), Regifloat (S1), Ninjajaja (S1), Greeples (S1)
+
+**3rd - ProGirlGamer (4):** zoeywithawhy (S3), chloesad (S3), cherryblawsom (S3), _1mmortal_ (S3)
+
+**4th - MaxEvasion (3):** Brodator (S2), WackoFlipper (S2), CodeJoshua (S2)
+
+**4th - Ninetals38 (3):** acadiangel (S3), ProGirlGamer (S3), DancersTalon (S3)
+
+**6th - Brodator (2):** Ninetals38 (S3), omchris (S3)
+
+**6th - LordLaelaps (2):** Brodator (S1), ToucanTom (S1)
+
+**6th - omchris (2):** Ryfri (S3), Karliffu (S3)
+
+**6th - pigghetti (2):** Rohcket (S2), Charrlottie (S2)
+
+**6th - strategy (2):** ElGavinoSupremo (S1), JaeHasNoMaidens (S1)
+
+**11th - aalaan (1):** MaxEvasion (S2)
+
+**11th - acadiangel (1):** centraleric (S3)
+
+**11th - ChainingVermin2 (1):** kirbey (S3)
+
+**11th - CodeJoshua (1):** TheSheepMasters (S2)
+
+**11th - Greeples (1):** LordLaelaps (S1)
+
+**11th - JaeHasNoMaidens (1):** TheBP (S1)
+
+**11th - kirbey (1):** Brodator (S3)
+
+**11th - Ryfri (1):** Greeples (S3)
 
 ---
 ### PvE Deaths
@@ -57,10 +92,10 @@
 ---
 ### Debutants
 
-**S1 (13):** TheBP, NajaOxiana, ElGavinoSupremo, Brodator, wibbol, JaeHasNoMaidens, strategy, ToucanTom, Regifloat, Ninjajaja, LordLaelaps, Greeples, PwincessVanessa
+**S1 (13):** Brodator, ElGavinoSupremo, Greeples, JaeHasNoMaidens, LordLaelaps, NajaOxiana, Ninjajaja, PwincessVanessa, Regifloat, strategy, TheBP, ToucanTom, wibbol
 
-**S2 (11):** WackoFlipper, TorinFBF, TheSheepMasters, Markedbooboy, CodeJoshua, Jahrod, Rohcket, Charrlottie, MaxEvasion, pigghetti, aalaan
+**S2 (11):** aalaan, Charrlottie, CodeJoshua, Jahrod, Markedbooboy, MaxEvasion, pigghetti, Rohcket, TheSheepMasters, TorinFBF, WackoFlipper
 
-**S3 (14):** zoeywithawhy, chloesad, centraleric, cherryblawsom, Ryfri, Karliffu, _1mmortal_, acadiangel, ProGirlGamer, DancersTalon, Ninetals38, omchris, kirbey, ChainingVermin2
+**S3 (14):** _1mmortal_, acadiangel, centraleric, ChainingVermin2, cherryblawsom, chloesad, DancersTalon, Karliffu, kirbey, Ninetals38, omchris, ProGirlGamer, Ryfri, zoeywithawhy
 
 ---

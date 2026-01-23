@@ -49,6 +49,77 @@
 ---
 ### Kills
 
+**1st - Walshy (9):** LightningS7 (S1), Cryptic (S1), Stellios_Cantos (S1), Ncah (S1), scotteh (S3), hammer_fan (S3), SmooveManeuver (S3), 1eeg (S3), MINETWON (S3)
+
+**2nd - Ncah (8):** SmooveManeuver (S1), Jakekub (S1), TommySuX (S1), xMisha (S1), slowpr0 (S1), CedGhoss (S2), TheGamerCool (S2), Walshy (S2)
+
+**3rd - Purpdan (7):** xenon__54 (S2), vinny212 (S3), Chippytoothy (S3), upriserryker (S4), SmooveManeuver (S4), PhenomCloud (S4), Cryptic (S4)
+
+**4th - Bobbytheturtle (6):** vinny212 (S1), Guep (S2), Micale (S3), Lach (S3), 1eeg (S4), _Glen (S4)
+
+**4th - briquan (6):** xMisha (S2), ShutUpBrick (S3), xMisha (S3), tuxpeng (S3), Stellios_Cantos (S3), Walshy (S3)
+
+**4th - Lach (6):** MINETWON (S2), Tootikins (S2), Ncah (S2), Jinko42 (S3), PhenomCloud (S3), liflaf (S3)
+
+**4th - SmooveManeuver (6):** Stellios_Cantos (S2), Purpdan (S2), cappyrappy (S2), vinny212 (S2), xhockey (S3), Tragik (S3)
+
+**8th - Hunter_ (5):** Chippytoothy (S2), Shortgamer (S2), LightningS7 (S2), Bobbytheturtle (S2), upriserryker (S2)
+
+**8th - slowpr0 (5):** 1eeg (S1), OblivionTU (S1), Hoppy (S1), Guep (S1), CedGhoss (S1)
+
+**8th - vinny212 (5):** Micale (S2), hammer_fan (S2), slowpr0 (S2), bjr201111 (S3), Walshy (S4)
+
+**11th - _Glen (4):** OblivionTU (S4), BENYN (S4), Spacepod_ (S4), brodioh (S4)
+
+**11th - Guep (4):** Tragik (S1), Tragik (S2), Spacepod_ (S3), HUNTERKUN (S3)
+
+**11th - MINETWON (4):** lampbro (S3), LightningS7 (S3), SimplySam (S3), Bobbytheturtle (S3)
+
+**11th - tuxpeng (4):** Hoppy (S3), Daffz (S4), Dylanthesnake (S4), hammer_fan (S4)
+
+**11th - upriserryker (4):** ShutUpBrick (S2), HUNTERKUN (S2), PhenomCloud (S2), Lach (S2)
+
+**16th - 1eeg (3):** Jinko42 (S1), OhBehave (S3), ShutUpBrick (S4)
+
+**16th - cappyrappy (3):** brodioh (S2), Bobbytheturtle (S4), Purpdan (S4)
+
+**16th - Jinko42 (3):** gnty (S4), Guep (S4), CedGhoss (S4)
+
+**16th - PhenomCloud (3):** 1eeg (S2), Shadoune666 (S4), Micale (S4)
+
+**20th - bjr201111 (2):** LightningS7 (S4), xMisha (S4)
+
+**20th - brodioh (2):** Bobbytheturtle (S1), tuxpeng (S4)
+
+**20th - CedGhoss (2):** MrCraftinator (S1), brodioh (S1)
+
+**20th - Cryptic (2):** PhenomCloud (S1), bjr201111 (S4)
+
+**20th - hammer_fan (2):** OblivionTU (S3), vinny212 (S4)
+
+**20th - HUNTERKUN (2):** Coolust (S2), SimplySam (S2)
+
+**20th - liflaf (2):** Jakekub (S3), Guep (S3)
+
+**20th - OhBehave (2):** cappyrappy (S3), Invasionnn (S3)
+
+**20th - SimplySam (2):** OblivionTU (S2), CedGhoss (S3)
+
+**20th - Stellios_Cantos (2):** xenon__54 (S3), Purpdan (S3)
+
+**20th - xhockey (2):** MrCraftinator (S2), briquan (S2)
+
+**31st - BENYN (1):** Jakekub (S4)
+
+**31st - Invasionnn (1):** brodioh (S3)
+
+**31st - LightningS7 (1):** xhockey (S2)
+
+**31st - MrCraftinator (1):** SimplySam (S1)
+
+**31st - OblivionTU (1):** Tootikins (S3)
+
+**31st - scotteh (1):** upriserryker (S3)
 
 ---
 ### PvE Deaths
@@ -61,12 +132,12 @@
 ---
 ### Debutants
 
-**S1 (25):** Thebestcandy, xenon__54, SimplySam, LightningS7, SmooveManeuver, Jinko42, 1eeg, MrCraftinator, PhenomCloud, Cryptic, vinny212, Bobbytheturtle, Jakekub, Tragik, brodioh, OblivionTU, TommySuX, Hoppy, Stellios_Cantos, Guep, xMisha, CedGhoss, slowpr0, Ncah, Walshy
+**S1 (25):** 1eeg, Bobbytheturtle, brodioh, CedGhoss, Cryptic, Guep, Hoppy, Jakekub, Jinko42, LightningS7, MrCraftinator, Ncah, OblivionTU, PhenomCloud, SimplySam, slowpr0, SmooveManeuver, Stellios_Cantos, Thebestcandy, TommySuX, Tragik, vinny212, Walshy, xenon__54, xMisha
 
-**S2 (17):** TheGamerCool, Micale, ShutUpBrick, Coolust, hammer_fan, briquan, MINETWON, Chippytoothy, Shortgamer, Tootikins, Purpdan, xhockey, HUNTERKUN, cappyrappy, Lach, upriserryker, Hunter_
+**S2 (17):** briquan, cappyrappy, Chippytoothy, Coolust, hammer_fan, Hunter_, HUNTERKUN, Lach, Micale, MINETWON, Purpdan, Shortgamer, ShutUpBrick, TheGamerCool, Tootikins, upriserryker, xhockey
 
-**S3 (8):** lampbro, bjr201111, scotteh, Spacepod_, Invasionnn, OhBehave, liflaf, tuxpeng
+**S3 (8):** bjr201111, Invasionnn, lampbro, liflaf, OhBehave, scotteh, Spacepod_, tuxpeng
 
-**S4 (6):** Daffz, Shadoune666, BENYN, gnty, Dylanthesnake, _Glen
+**S4 (6):** _Glen, BENYN, Daffz, Dylanthesnake, gnty, Shadoune666
 
 ---

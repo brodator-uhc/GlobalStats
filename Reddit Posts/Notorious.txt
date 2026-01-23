@@ -53,6 +53,81 @@
 ---
 ### Kills
 
+**1st - natsuvi (9):** wizarde (S2), Djmandude (S2), Brodator (S2), LoafOZ (S5), CipherKai (S5), _1mmortal_ (S5), azoof (S5), JaqOnCraq (S5), notjustin_ (S5)
+
+**2nd - Andronify (7):** ZebraPantz (S2), TacoDab (S3), Sharkbob94349 (S3), JaeHasNoMaidens (S3), ElTioDodo (S3), Glarza (S5), Brodator (S5)
+
+**2nd - CipherKai (7):** LoafOZ (S1), TonyEatWorld (S1), Diisu (S2), MaxEvasion (S2), Andronify (S2), milkpoptart (S2), DarkySheep (S4)
+
+**4th - automavic (6):** DarkySheep (S2), Frxnkey (S2), WaferCaker (S3), Rohcket (S3), Djmandude (S3), SiahStone (S3)
+
+**5th - krangxd (5):** Sneaky26 (S1), natsuvi (S2), LoafOZ (S2), TacoDab (S2), CipherKai (S4)
+
+**6th - Djmandude (4):** LoafOZ (S3), natsuvi (S3), Andronify (S3), JaqOnCraq (S3)
+
+**6th - ElTioDodo (4):** Alekii (S3), hazel_doe (S4), Fcrm (S4), ThatTurtleMan (S5)
+
+**6th - LoafOZ (4):** TheNinjaPenguin_ (S3), natsuvi (S4), MaxEvasion (S4), poWpaH (S5)
+
+**6th - typicaltrevon (4):** TacoDab (S5), ElTioDodo (S5), natsuvi (S5), Fcrm (S5)
+
+**10th - _1mmortal_ (3):** lasdarling (S5), Sicced (S5), ColdBac (S5)
+
+**10th - Frxnkey (3):** Flouzemaker (S2), nFang (S2), automavic (S2)
+
+**10th - milkpoptart (3):** GeniRCT (S2), JaeHasNoMaidens (S2), krangxd (S2)
+
+**10th - SiahStone (3):** ZebraPantz (S3), Cooooldude (S4), krangxd (S4)
+
+**10th - TheNinjaPenguin_ (3):** Hairybaby123 (S1), krangxd (S1), JaeHasNoMaidens (S1)
+
+**15th - azoof (2):** ohh_lia (S5), benidk (S5)
+
+**15th - Carbonate_ (2):** Brodator (S1), TheNinjaPenguin_ (S1)
+
+**15th - gctwenty (2):** Rohcket (S4), SiahStone (S4)
+
+**15th - JaeHasNoMaidens (2):** nFang (S1), MellowYellow253 (S1)
+
+**15th - JaqOnCraq (2):** Fra49 (S1), Carbonate_ (S1)
+
+**15th - MaxEvasion (2):** ElTioDodo (S4), Sharkbob94349 (S4)
+
+**15th - MellowYellow253 (2):** OneLittleLynx (S1), p1an (S1)
+
+**15th - notjustin_ (2):** ZebraPantz (S5), AtomicCrossbow (S5)
+
+**15th - p1an (2):** MSI_Pig (S1), Sharkbob94349 (S1)
+
+**15th - TacoDab (2):** Bofishkix (S2), Caffeindiazepine (S2)
+
+**25th - AtomicCrossbow (1):** Andronify (S5)
+
+**25th - Brodator (1):** NeededCheese (S3)
+
+**25th - DarkySheep (1):** azoof (S4)
+
+**25th - Fcrm (1):** TheMainMiek (S5)
+
+**25th - Fra49 (1):** Andronify (S1)
+
+**25th - Glarza (1):** Codwhy (S4)
+
+**25th - Hairybaby123 (1):** NeededCheese (S1)
+
+**25th - hazel_doe (1):** Brodator (S4)
+
+**25th - JustTiny (1):** Flouzemaker (S1)
+
+**25th - MSI_Pig (1):** DevoyTTV (S1)
+
+**25th - NeededCheese (1):** Brodator (S3)
+
+**25th - Sharkbob94349 (1):** Sneaky26 (S3)
+
+**25th - Sneaky26 (1):** Cooooldude (S5)
+
+**25th - ZebraPantz (1):** Sneaky26 (S5)
 
 ---
 ### PvE Deaths
@@ -65,14 +140,14 @@
 ---
 ### Debutants
 
-**S1 (24):** DarkySheep, LoafOZ, Andronify, Brodator, Flouzemaker, TonyEatWorld, OneLittleLynx, Sneaky26, DevoyTTV, MSI_Pig, Sharkbob94349, Fra49, nFang, NeededCheese, Hairybaby123, p1an, krangxd, MellowYellow253, JaeHasNoMaidens, TheNinjaPenguin_, Carbonate_, CipherKai, JaqOnCraq, JustTiny
+**S1 (24):** Andronify, Brodator, Carbonate_, CipherKai, DarkySheep, DevoyTTV, Flouzemaker, Fra49, Hairybaby123, JaeHasNoMaidens, JaqOnCraq, JustTiny, krangxd, LoafOZ, MellowYellow253, MSI_Pig, NeededCheese, nFang, OneLittleLynx, p1an, Sharkbob94349, Sneaky26, TheNinjaPenguin_, TonyEatWorld
 
-**S2 (13):** wizarde, Djmandude, natsuvi, GeniRCT, Diisu, Bofishkix, Caffeindiazepine, MaxEvasion, Frxnkey, automavic, TacoDab, ZebraPantz, milkpoptart
+**S2 (13):** automavic, Bofishkix, Caffeindiazepine, Diisu, Djmandude, Frxnkey, GeniRCT, MaxEvasion, milkpoptart, natsuvi, TacoDab, wizarde, ZebraPantz
 
-**S3 (6):** UglySheep, WaferCaker, Alekii, Rohcket, ElTioDodo, SiahStone
+**S3 (6):** Alekii, ElTioDodo, Rohcket, SiahStone, UglySheep, WaferCaker
 
-**S4 (7):** hazel_doe, azoof, Fcrm, Cooooldude, Codwhy, gctwenty, Glarza
+**S4 (7):** azoof, Codwhy, Cooooldude, Fcrm, gctwenty, Glarza, hazel_doe
 
-**S5 (12):** ohh_lia, benidk, TheMainMiek, poWpaH, lasdarling, Sicced, ColdBac, ThatTurtleMan, _1mmortal_, AtomicCrossbow, notjustin_, typicaltrevon
+**S5 (12):** _1mmortal_, AtomicCrossbow, benidk, ColdBac, lasdarling, notjustin_, ohh_lia, poWpaH, Sicced, ThatTurtleMan, TheMainMiek, typicaltrevon
 
 ---

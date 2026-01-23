@@ -37,6 +37,15 @@
 ---
 ### Kills
 
+**1st - benidk (5):** HeyItsJBug (S1), ItsShqky (S1), CAMKART100 (S1), broccoliar (S1), Fcrm (S1)
+
+**2nd - Fcrm (4):** AdonisGaming (S1), JayshonYT (S1), MarcC5M (S1), kawaiibunri (S1)
+
+**3rd - broccoliar (2):** Kaismartypants (S1), bayweafs (S1)
+
+**3rd - Kaismartypants (2):** BuildingBard300 (S1), PotteryTNT (S1)
+
+**3rd - kawaiibunri (2):** GuyNamedKreo (S1), DevoyTTV (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +58,6 @@
 ---
 ### Debutants
 
-**S1 (16):** HeyItsJBug, AdonisGaming, BuildingBard300, JayshonYT, PotteryTNT, Kaismartypants, GuyNamedKreo, bayweafs, ItsShqky, DevoyTTV, CAMKART100, MarcC5M, broccoliar, kawaiibunri, Fcrm, benidk
+**S1 (16):** AdonisGaming, bayweafs, benidk, broccoliar, BuildingBard300, CAMKART100, DevoyTTV, Fcrm, GuyNamedKreo, HeyItsJBug, ItsShqky, JayshonYT, Kaismartypants, kawaiibunri, MarcC5M, PotteryTNT
 
 ---

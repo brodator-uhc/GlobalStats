@@ -41,6 +41,35 @@
 ---
 ### Kills
 
+**1st - Abandoned (8):** PoofessorP (S2), reverse094 (S2), JoshC2 (S2), NotMyLights (S2), Kaismartypants (S2), cards4in_ (S2), ItsChristiannn (S2), ItsPqnda (S2)
+
+**2nd - patriotsfan75 (3):** Abandoned (S1), TonyEatWorld (S1), Zahkari (S1)
+
+**2nd - vSolo (3):** FireApsect (S2), nh177O13 (S2), ParkMc (S2)
+
+**4th - frogsella (2):** vSolo (S2), Sluggyg (S2)
+
+**4th - Gepple (2):** TonyEatWorld (S2), lilygant (S2)
+
+**4th - ItsPqnda (2):** CanadianWafflez (S2), frogsella (S2)
+
+**4th - Kaismartypants (2):** iQuick_ (S1), JaeHasNoMaidens (S2)
+
+**4th - Kelawesome (2):** Ahzora (S1), patriotsfan75 (S1)
+
+**4th - NotMyLights (2):** iNighty (S2), BardMain2 (S2)
+
+**10th - Abdalain (1):** MCmattFTW (S1)
+
+**10th - JaeHasNoMaidens (1):** LqndSlide (S1)
+
+**10th - LqndSlide (1):** JaeHasNoMaidens (S1)
+
+**10th - ParkMc (1):** JahMuis (S2)
+
+**10th - reverse094 (1):** Gepple (S2)
+
+**10th - Zahkari (1):** IzunaLoli (S1)
 
 ---
 ### PvE Deaths
@@ -53,8 +82,8 @@
 ---
 ### Debutants
 
-**S1 (15):** wisam, iQuick_, Ahzora, JaeHasNoMaidens, LqndSlide, reverse094, MCmattFTW, Abdalain, IzunaLoli, Abandoned, TonyEatWorld, Zahkari, patriotsfan75, Kelawesome, Kaismartypants
+**S1 (15):** Abandoned, Abdalain, Ahzora, iQuick_, IzunaLoli, JaeHasNoMaidens, Kaismartypants, Kelawesome, LqndSlide, MCmattFTW, patriotsfan75, reverse094, TonyEatWorld, wisam, Zahkari
 
-**S2 (19):** stardark, PoofessorP, CanadianWafflez, FireApsect, JahMuis, iNighty, lilygant, nh177O13, Gepple, JoshC2, BardMain2, ParkMc, vSolo, NotMyLights, cards4in_, ItsChristiannn, Sluggyg, frogsella, ItsPqnda
+**S2 (19):** BardMain2, CanadianWafflez, cards4in_, FireApsect, frogsella, Gepple, iNighty, ItsChristiannn, ItsPqnda, JahMuis, JoshC2, lilygant, nh177O13, NotMyLights, ParkMc, PoofessorP, Sluggyg, stardark, vSolo
 
 ---

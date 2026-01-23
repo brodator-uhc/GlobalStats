@@ -49,6 +49,51 @@
 ---
 ### Kills
 
+**1st - Pelycosaur (19):** Markedbooboy (S1), NickPlaysGames15 (S1), SergeantM (S1), Evzenitable (S1), TheSheepMasters (S1), Crafters (S1), JamestheDouglas (S1), MichaelPlayMC (S3), NickPlaysGames15 (S3), Charrlottie (S3), egl_ (S3), Zcin (S3), Dargxn (S3), JaeHasNoMaidens (S3), TayUHC (S4), TehBaconBrawlerZ (S4), NickPlaysGames15 (S4), Dargxn (S4), _Fost_ (S4)
+
+**2nd - _Fost_ (7):** ItsShqky (S1), Alisa_Muffins (S2), NickPlaysGames15 (S2), Psykl0ne (S2), ItsShqky (S2), Captinn (S3), Rebelghost (S4)
+
+**2nd - Dargxn (7):** Plushy33 (S2), Zcin (S2), Brodator (S3), Evzenitable (S3), CodeJoshua (S3), _Fost_ (S3), Jahrod (S4)
+
+**4th - Captinn (6):** Dargxn (S2), Fourbitplayer (S3), poWpaH (S3), Vetmire (S3), SergeantM (S3), poWpaH (S4)
+
+**5th - JamestheDouglas (5):** Zcin (S1), egl_ (S1), Blarkslol (S2), egl_ (S2), MichaelPlayMC (S2)
+
+**6th - ArcticSeagull (4):** _Fost_ (S2), Captinn (S2), Rebelghost (S2), Phyrrus (S4)
+
+**6th - Fra49 (4):** Pelycosaur (S4), Bofishkix (S4), ArcticSeagull (S4), Vetmire (S4)
+
+**8th - egl_ (3):** ArcticSeagull (S1), _Fost_ (S1), Bofishkix (S1)
+
+**8th - NickPlaysGames15 (3):** AdonisGaming (S1), Alisa_Muffins (S3), 78ford (S4)
+
+**8th - Vetmire (3):** ItsShqky (S3), ArcticSeagull (S3), Blarkslol (S4)
+
+**11th - Blarkslol (2):** Evzenitable (S2), Bofishkix (S3)
+
+**11th - Bofishkix (2):** Zcin (S4), Captinn (S4)
+
+**11th - Evzenitable (2):** TayUHC (S3), Rebelghost (S3)
+
+**11th - JaeHasNoMaidens (2):** Phyrrus (S3), Blarkslol (S3)
+
+**11th - MaxEvasion (2):** SergeantM (S4), Fra49 (S4)
+
+**11th - MichaelPlayMC (2):** Codwhy (S3), kirbey (S3)
+
+**17th - ItsShqky (1):** SergeantM (S2)
+
+**17th - Phyrrus (1):** PwincessVanessa (S4)
+
+**17th - poWpaH (1):** AdonisGaming (S3)
+
+**17th - PwincessVanessa (1):** kirbey (S4)
+
+**17th - SergeantM (1):** Fourbitplayer (S1)
+
+**17th - TayUHC (1):** Plushy33 (S1)
+
+**17th - TheSheepMasters (1):** TayUHC (S1)
 
 ---
 ### PvE Deaths
@@ -61,12 +106,12 @@
 ---
 ### Debutants
 
-**S1 (18):** ArcticSeagull, AdonisGaming, Markedbooboy, ItsShqky, _Fost_, Fourbitplayer, NickPlaysGames15, SergeantM, Evzenitable, Bofishkix, Plushy33, Zcin, TayUHC, TheSheepMasters, egl_, Crafters, JamestheDouglas, Pelycosaur
+**S1 (18):** _Fost_, AdonisGaming, ArcticSeagull, Bofishkix, Crafters, egl_, Evzenitable, Fourbitplayer, ItsShqky, JamestheDouglas, Markedbooboy, NickPlaysGames15, Pelycosaur, Plushy33, SergeantM, TayUHC, TheSheepMasters, Zcin
 
-**S2 (8):** Alisa_Muffins, Brodator, Dargxn, Psykl0ne, Blarkslol, Captinn, MichaelPlayMC, Rebelghost
+**S2 (8):** Alisa_Muffins, Blarkslol, Brodator, Captinn, Dargxn, MichaelPlayMC, Psykl0ne, Rebelghost
 
-**S3 (8):** poWpaH, Codwhy, kirbey, Phyrrus, Charrlottie, Vetmire, CodeJoshua, JaeHasNoMaidens
+**S3 (8):** Charrlottie, CodeJoshua, Codwhy, JaeHasNoMaidens, kirbey, Phyrrus, poWpaH, Vetmire
 
-**S4 (6):** 78ford, TehBaconBrawlerZ, Jahrod, PwincessVanessa, Fra49, MaxEvasion
+**S4 (6):** 78ford, Fra49, Jahrod, MaxEvasion, PwincessVanessa, TehBaconBrawlerZ
 
 ---

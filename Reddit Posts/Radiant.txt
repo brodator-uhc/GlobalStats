@@ -37,6 +37,23 @@
 ---
 ### Kills
 
+**1st - Caydone (3):** Fcrm (S1), KOKeowner (S1), stupidsylvia (S1)
+
+**1st - dahii (3):** TehBaconBrawlerZ (S1), ShyGus (S1), Bobbytheturtle (S1)
+
+**1st - Gorgerous (3):** Brodator (S1), cherryblawsom (S1), Omertosa (S1)
+
+**4th - benidk (2):** Greeples (S1), LoafOZ (S1)
+
+**5th - ChrisCD (1):** T0n35 (S1)
+
+**5th - Fcrm (1):** Hecticity (S1)
+
+**5th - Greeples (1):** Potsie (S1)
+
+**5th - Omertosa (1):** Klickacat (S1)
+
+**5th - ShyGus (1):** ChrisCD (S1)
 
 ---
 ### PvE Deaths
@@ -49,6 +66,6 @@
 ---
 ### Debutants
 
-**S1 (20):** T0n35, TehBaconBrawlerZ, Hecticity, Potsie, ChrisCD, ShyGus, Brodator, Fcrm, Greeples, LoafOZ, KOKeowner, stupidsylvia, cherryblawsom, Bobbytheturtle, Klickacat, Omertosa, benidk, Gorgerous, dahii, Caydone
+**S1 (20):** benidk, Bobbytheturtle, Brodator, Caydone, cherryblawsom, ChrisCD, dahii, Fcrm, Gorgerous, Greeples, Hecticity, Klickacat, KOKeowner, LoafOZ, Omertosa, Potsie, ShyGus, stupidsylvia, T0n35, TehBaconBrawlerZ
 
 ---

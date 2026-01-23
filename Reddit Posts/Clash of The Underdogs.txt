@@ -57,6 +57,81 @@
 ---
 ### Kills
 
+**1st - Markedbooboy (8):** Microus (S2), MeadowMoos (S4), Espik (S4), BardMain2 (S4), Flohp (S5), Klickacat (S5), aalaan (S5), BuildingBard300 (S6)
+
+**1st - wibbol (8):** Plushy33 (S3), ghostblurr (S3), JoshC2 (S3), Fourbitplayer (S3), Microus (S4), aalaan (S4), 3Dspoders (S4), Ninjajaja (S5)
+
+**3rd - BardMain2 (7):** PedroLeGamer (S3), Microus (S3), 3Dspoders (S3), TorinFBF (S4), Mop19 (S4), CaptainRichy (S5), SoulvG (S5)
+
+**3rd - ChainingVermin2 (7):** Westcraft00 (S6), Jalapinecone (S6), MarcC5M (S6), Blackbelt244 (S6), Psykl0ne (S6), Espik (S6), rnaa (S6)
+
+**5th - Davelions (6):** JoshC2 (S2), 3Dspoders (S2), Slooshyy (S2), ElGavinoSupremo (S2), Greeples (S3), dango989 (S3)
+
+**5th - Sluggyg (6):** SidGarcia (S1), Anorable (S1), dango989 (S1), 3Dspoders (S1), Slooshyy (S1), Flouzemaker (S1)
+
+**7th - 3Dspoders (5):** SmolHatChild (S1), KirbyMD (S1), kalleina (S1), Ninjajaja (S3), MeadowMoos (S5)
+
+**7th - Bofishkix (5):** 78ford (S2), Caffeindiazepine (S2), Markedbooboy (S2), Nie200 (S2), Plushy33 (S2)
+
+**7th - Brodator (5):** kalleina (S2), aalaan (S2), Greeples (S2), Davelions (S2), Fancyyy (S2)
+
+**7th - Flouzemaker (5):** Frostbreath (S1), _Frankie (S1), LongaVita (S1), Markedbooboy (S5), SidGarcia (S6)
+
+**11th - Nuclearsugar (4):** Greeples (S6), Ninetals38 (S6), Flouzemaker (S6), ChainingVermin2 (S6)
+
+**11th - Slooshyy (4):** TorinFBF (S1), Bofishkix (S2), ElGavinoSupremo (S3), MarcC5M (S4)
+
+**11th - TonyEatWorld (4):** TastyBaconZ (S3), wibbol (S3), BardMain2 (S3), Davelions (S3)
+
+**14th - Anorable (3):** aalaan (S3), Markedbooboy (S3), Flouzemaker (S3)
+
+**14th - ElGavinoSupremo (3):** Anorable (S2), LongaVita (S2), Slooshyy (S3)
+
+**14th - miles1baseball (3):** wibbol (S4), Slooshyy (S4), Pie212_123 (S4)
+
+**14th - Pie212_123 (3):** Davelions (S4), Markedbooboy (S4), LegoBeast (S5)
+
+**14th - rnaa (3):** Hamishhhh (S6), 78ford (S6), Markedbooboy (S6)
+
+**14th - TheBP (3):** DogOfKrondor (S5), Pie212_123 (S5), BardMain2 (S5)
+
+**20th - aalaan (2):** nFang (S2), Fancyyy (S3)
+
+**20th - dango989 (2):** aalaan (S1), SummerBqsh (S1)
+
+**20th - Espik (2):** DogOfKrondor (S6), DancersTalon (S6)
+
+**20th - Fancyyy (2):** Mop19 (S1), DancersTalon (S1)
+
+**20th - Flohp (2):** wibbol (S5), 78ford (S5)
+
+**20th - Greeples (2):** nihontiger (S2), Flouzemaker (S2)
+
+**20th - Ninjajaja (2):** KatyLawson (S3), 78ford (S3)
+
+**27th - _Frankie (1):** Nie200 (S1)
+
+**27th - 78ford (1):** Mop19 (S3)
+
+**27th - DancersTalon (1):** Plushy33 (S1)
+
+**27th - Fourbitplayer (1):** LongaVita (S3)
+
+**27th - kalleina (1):** Krimm (S1)
+
+**27th - Krimm (1):** Long_Journey (S1)
+
+**27th - LongaVita (1):** wibbol (S1)
+
+**27th - MarcC5M (1):** ElGavinoSupremo (S4)
+
+**27th - MeadowMoos (1):** TastyBaconZ (S4)
+
+**27th - nihontiger (1):** Sten_Stone (S2)
+
+**27th - Psykl0ne (1):** ZenonX_ (S6)
+
+**27th - SummerBqsh (1):** Fancyyy (S1)
 
 ---
 ### PvE Deaths
@@ -69,16 +144,16 @@
 ---
 ### Debutants
 
-**S1 (25):** wibbol, SmolHatChild, LegoBeast, Long_Journey, aalaan, Mop19, Plushy33, DancersTalon, Fancyyy, SummerBqsh, SidGarcia, Krimm, Anorable, Nie200, KirbyMD, dango989, TorinFBF, Frostbreath, kalleina, 3Dspoders, _Frankie, Slooshyy, LongaVita, Flouzemaker, Sluggyg
+**S1 (25):** _Frankie, 3Dspoders, aalaan, Anorable, DancersTalon, dango989, Fancyyy, Flouzemaker, Frostbreath, kalleina, KirbyMD, Krimm, LegoBeast, Long_Journey, LongaVita, Mop19, Nie200, Plushy33, SidGarcia, Slooshyy, Sluggyg, SmolHatChild, SummerBqsh, TorinFBF, wibbol
 
-**S2 (15):** TonyEatWorld, cynnamon, 78ford, JoshC2, Caffeindiazepine, Microus, Markedbooboy, nFang, Sten_Stone, nihontiger, Greeples, Bofishkix, ElGavinoSupremo, Davelions, Brodator
+**S2 (15):** 78ford, Bofishkix, Brodator, Caffeindiazepine, cynnamon, Davelions, ElGavinoSupremo, Greeples, JoshC2, Markedbooboy, Microus, nFang, nihontiger, Sten_Stone, TonyEatWorld
 
-**S3 (7):** PedroLeGamer, ghostblurr, KatyLawson, Fourbitplayer, Ninjajaja, TastyBaconZ, BardMain2
+**S3 (7):** BardMain2, Fourbitplayer, ghostblurr, KatyLawson, Ninjajaja, PedroLeGamer, TastyBaconZ
 
-**S4 (5):** MeadowMoos, Espik, MarcC5M, Pie212_123, miles1baseball
+**S4 (5):** Espik, MarcC5M, MeadowMoos, miles1baseball, Pie212_123
 
-**S5 (8):** H_L_llama, CaptainRichy, Flohp, DogOfKrondor, SoulvG, Klickacat, Charrlottie, TheBP
+**S5 (8):** CaptainRichy, Charrlottie, DogOfKrondor, Flohp, H_L_llama, Klickacat, SoulvG, TheBP
 
-**S6 (12):** MichaelPlayMC, Hamishhhh, Westcraft00, BuildingBard300, Jalapinecone, ZenonX_, Blackbelt244, Ninetals38, Psykl0ne, rnaa, ChainingVermin2, Nuclearsugar
+**S6 (12):** Blackbelt244, BuildingBard300, ChainingVermin2, Hamishhhh, Jalapinecone, MichaelPlayMC, Ninetals38, Nuclearsugar, Psykl0ne, rnaa, Westcraft00, ZenonX_
 
 ---
