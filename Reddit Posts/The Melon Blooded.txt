@@ -81,6 +81,8 @@
 
 **S39: TheSlimeBrother (1)**, *TonyEatWorld (1)*
 
+**S40: _1mmortal_ (0), Spongey (0), TheRealHagrid (0), zeesue (1)**
+
 **S41:** *braidenOW (13), Fcrm (5)*
 
 **S42: ColdBac (2)**, *Plushy33 (1), tagggz (3)*
@@ -165,6 +167,8 @@
 **S38:** gsjan (0), Sadwics (0)
 
 **S39:** DEREKAST (3), Fearx_ (0)
+
+**S40:** AHSOKATANOSTAN (0), Brodator (2), CommanderK22_ (0), DevoyTTV (2), Evzenitable (0), GoldenNs (0), Kaddyn (2), Kaismartypants (1), Kingko24 (0), omchris (4), Renais (0), Sadwics (0), Supersun_ (0), Vetmire (2), wizarde (0)
 
 **S41:** ItsColinn (4)
 
@@ -251,6 +255,8 @@
 
 **S39:** DEREKAST (3)
 
+**S40:** omchris (4)
+
 **S41:** braidenOW (13)
 
 **S42:** Fcrm (9)
@@ -335,6 +341,8 @@
 **S38:** Bornyo (5), kirkomode (7)
 
 **S39:** Fearx_(0), DEREKAST (3)
+
+**S40:** AHSOKATANOSTAN(0), omchris (4), Vetmire (2), wizarde(0)
 
 **S41:** N/A
 
@@ -421,6 +429,8 @@
 
 **S39:** Fearx_ (0:5:38)
 
+**S40:** Kaismartypants (0:1:14)
+
 **S41:** AHSOKATANOSTAN (0:0:40)
 
 **S42:** KaiokenNas (0:1:0)
@@ -505,6 +515,8 @@
 **S38:** Sadwics (1:37:22)
 
 **S39:** Kaismartypants (0:49:51)
+
+**S40:** Evzenitable (2:9:39)
 
 **S41:** omchris (1:48:33)
 
@@ -591,6 +603,8 @@
 
 **S39:** kirbey & Kaismartypants (Double Kill)
 
+**S40:** Codwhy (gsjan)
+
 **S41:** kawaiibunri (SiahStone)
 
 **S42:** noktime (PresidentFleb)
@@ -676,6 +690,8 @@
 
 **S39:** Kaismartypants & kirbey (Double Kill)
 
+**S40:** gsjan (Codwhy)
+
 **S41:** Truzoi (Creeper)
 
 **S42:** PresidentFleb (noktime)
@@ -693,13 +709,13 @@
 
 **5th - Bornyo (15):** HeyImHungry (S16), SlowATSV (S16), Kaismartypants (S21), Jwillnot (S25), kirkomode (S25), PauloSSB (S25), JaeHasNoMaidens (S25), Caligators (S25), Krimm (S25), Kaismartypants (S26), Qmos (S38), Prisma (S38), gmann (S38), Kaismartypants (S38), Sadwics (S38)
 
+**5th - Kaismartypants (15):** CreativeVillager (S1), thedarkknight151 (S1), PleaseTry (S12), Dylad (S13), AtomicAdam10 (S18), BreakfastBacon (S19), Bornyo (S21), Krimm (S22), TheTrueNinja (S22), Krimm (S27), 66Sixela_ (S29), Caligators (S35), kirbey (S39), gmann (S40), Michaelted (S41)
+
 **5th - Qmos (15):** Spencerdood (S18), Krimm (S18), 66Sixela_ (S22), kirkomode (S22), RetroSidekick (S22), broccoliar (S37), 360NoSc0p3_F4Z3d (S37), broccoliar (S39), FluffyAri (S41), Kaismartypants (S41), JohnzRIP (S42), hashtagmat (S42), Sadwics (S42), ChainingVermin2 (S42), IcyshadowMC (S42)
 
-**7th - Fcrm (14):** Archibold (S41), Krimm (S41), Spongey (S41), ItsColinn (S41), braidenOW (S41), benidk (S42), strategy (S42), _1mmortal_ (S42), FluffyAri (S42), ProGirlGamer (S42), primyrss (S42), PhatPanda (S42), Qmos (S42), Plushy33 (S42)
+**8th - Fcrm (14):** Archibold (S41), Krimm (S41), Spongey (S41), ItsColinn (S41), braidenOW (S41), benidk (S42), strategy (S42), _1mmortal_ (S42), FluffyAri (S42), ProGirlGamer (S42), primyrss (S42), PhatPanda (S42), Qmos (S42), Plushy33 (S42)
 
-**7th - Kaismartypants (14):** CreativeVillager (S1), thedarkknight151 (S1), PleaseTry (S12), Dylad (S13), AtomicAdam10 (S18), BreakfastBacon (S19), Bornyo (S21), Krimm (S22), TheTrueNinja (S22), Krimm (S27), 66Sixela_ (S29), Caligators (S35), kirbey (S39), Michaelted (S41)
-
-**7th - St0rmplayz (14):** Sassybunion (S28), Dj8ninja (S32), HyperOutHere (S32), VanzJustKnifedU (S32), Ferno_the_Knight (S32), JoshC2 (S32), Krimm (S33), Thanalox (S36), Plushy33 (S36), JoshC2 (S36), DatGuyAdam (S36), Jovon (S36), vDyre (S36), zDrimzi (S36)
+**8th - St0rmplayz (14):** Sassybunion (S28), Dj8ninja (S32), HyperOutHere (S32), VanzJustKnifedU (S32), Ferno_the_Knight (S32), JoshC2 (S32), Krimm (S33), Thanalox (S36), Plushy33 (S36), JoshC2 (S36), DatGuyAdam (S36), Jovon (S36), vDyre (S36), zDrimzi (S36)
 
 **10th - braidenOW (13):** Arospity (S41), HeroGolem5 (S41), Scyles (S41), kawaiibunri (S41), Psykl0ne (S41), Ledwidgez (S41), Fearx_ (S41), Sadwics (S41), omchris (S41), Brodator (S41), AHSOKATANOSTAN (S41), Flacce (S41), Fcrm (S41)
 
@@ -761,268 +777,278 @@
 
 **33rd - Ledwidgez (5):** ajackson6199 (S6), ambarlos (S27), TheJavaHacker (S27), Caligators (S27), Thanalox (S27)
 
+**33rd - omchris (5):** Bornyo (S40), NerdThatsAGeek (S40), RadicalRat47 (S40), ModernPine (S40), heroninja112 (S41)
+
 **33rd - Prisma (5):** Ledwidgez (S2), Ledwidgez (S3), ProGirlGamer (S37), Caligators (S42), pierce981 (S42)
 
 **33rd - vDyre (5):** CaptainGavino (S15), Perzano (S15), iQuick_ (S15), Bornyo (S15), HeyImHungry (S15)
 
-**42nd - Dragon_Vapes (4):** Potsie (S16), Aegl (S16), BluiesReborn (S19), DALLAS_THA_MAN (S21)
+**43rd - DevoyTTV (4):** brinkwhy (S33), Caligators (S33), azoof (S40), Dj8ninja (S40)
 
-**42nd - drewxd (4):** kirkomode (S15), kirkomode (S24), ChaseOwO (S24), Jwillnot (S24)
+**43rd - Dragon_Vapes (4):** Potsie (S16), Aegl (S16), BluiesReborn (S19), DALLAS_THA_MAN (S21)
 
-**42nd - Dylan_YD (4):** CLEATU5 (S12), PandaLogic (S12), zemnoz (S12), Scyles (S12)
+**43rd - drewxd (4):** kirkomode (S15), kirkomode (S24), ChaseOwO (S24), Jwillnot (S24)
 
-**42nd - HeyitsDan (4):** ChaseOwO (S18), BreakfastBacon (S18), Thanalox (S18), Prisma (S18)
+**43rd - Dylan_YD (4):** CLEATU5 (S12), PandaLogic (S12), zemnoz (S12), Scyles (S12)
 
-**42nd - Natural44 (4):** TellyKing (S3), xTranslucenTx (S3), deydiry7 (S3), Big_Z60 (S8)
+**43rd - HeyitsDan (4):** ChaseOwO (S18), BreakfastBacon (S18), Thanalox (S18), Prisma (S18)
 
-**42nd - noktime (4):** PleaseTry (S41), Qmos (S41), PresidentFleb (S42), PrattBN (S42)
+**43rd - Natural44 (4):** TellyKing (S3), xTranslucenTx (S3), deydiry7 (S3), Big_Z60 (S8)
 
-**42nd - PauloSSB (4):** CLEATU5 (S25), FlightVapeHacker (S25), ItsStrqfe (S25), brinkwhy (S25)
+**43rd - noktime (4):** PleaseTry (S41), Qmos (S41), PresidentFleb (S42), PrattBN (S42)
 
-**42nd - PleaseTry (4):** Qmos (S16), CLEATU5 (S16), BreakfastBacon (S16), CanadianWafflez (S26)
+**43rd - PauloSSB (4):** CLEATU5 (S25), FlightVapeHacker (S25), ItsStrqfe (S25), brinkwhy (S25)
 
-**42nd - Potsie (4):** reverse094 (S14), DiarWolfe (S14), YaojaDzn (S14), Chaotically (S14)
+**43rd - PleaseTry (4):** Qmos (S16), CLEATU5 (S16), BreakfastBacon (S16), CanadianWafflez (S26)
 
-**42nd - RavenJD (4):** GmacLad (S4), HeyitsDan (S4), SlowATSV (S4), Treyten (S4)
+**43rd - Potsie (4):** reverse094 (S14), DiarWolfe (S14), YaojaDzn (S14), Chaotically (S14)
 
-**42nd - Sinuar (4):** CreativeVillager (S2), Bubblezzz (S2), TheJavaHacker (S14), Bornyo (S14)
+**43rd - RavenJD (4):** GmacLad (S4), HeyitsDan (S4), SlowATSV (S4), Treyten (S4)
 
-**42nd - Tneesh (4):** Davelions (S12), JacobBrown (S15), brinkwhy (S15), Krimm (S15)
+**43rd - Sinuar (4):** CreativeVillager (S2), Bubblezzz (S2), TheJavaHacker (S14), Bornyo (S14)
 
-**54th - _1mmortal_ (3):** Renais (S42), Gorgerous (S42), Fra49 (S42)
+**43rd - Tneesh (4):** Davelions (S12), JacobBrown (S15), brinkwhy (S15), Krimm (S15)
 
-**54th - 360NoSc0p3_F4Z3d (3):** wizarde (S14), StevenSharp (S16), iQuick_ (S20)
+**56th - _1mmortal_ (3):** Renais (S42), Gorgerous (S42), Fra49 (S42)
 
-**54th - ArcticSeagull (3):** GodlySteal (S42), Kaismartypants (S42), omchris (S42)
+**56th - 360NoSc0p3_F4Z3d (3):** wizarde (S14), StevenSharp (S16), iQuick_ (S20)
 
-**54th - Arnqv (3):** Dragon_Vapes (S18), regrow (S18), JaydenFrBruh (S18)
+**56th - ArcticSeagull (3):** GodlySteal (S42), Kaismartypants (S42), omchris (S42)
 
-**54th - BootyPebbles (3):** SneakyAllen (S28), Kaismartypants (S28), lapps (S28)
+**56th - Arnqv (3):** Dragon_Vapes (S18), regrow (S18), JaydenFrBruh (S18)
 
-**54th - Brocko (3):** BardMain2 (S31), Fleeky (S32), St0rmplayz (S33)
+**56th - BootyPebbles (3):** SneakyAllen (S28), Kaismartypants (S28), lapps (S28)
 
-**54th - Canadian_Mitch (3):** bevey (S5), Kaismartypants (S5), Drkrai (S17)
+**56th - Brocko (3):** BardMain2 (S31), Fleeky (S32), St0rmplayz (S33)
 
-**54th - centraleric (3):** 360NoSc0p3_F4Z3d (S20), CLEATU5 (S30), Krimm (S30)
+**56th - Brodator (3):** _Fost_ (S40), SmokedPiggy (S40), johnnywest2013 (S41)
 
-**54th - ChainingVermin2 (3):** KaiokenNas (S42), CHAINGE (S42), ADinoPlayingMC (S42)
+**56th - Canadian_Mitch (3):** bevey (S5), Kaismartypants (S5), Drkrai (S17)
 
-**54th - Chaotically (3):** ajackson6199 (S4), Kaismartypants (S4), bevey (S4)
+**56th - centraleric (3):** 360NoSc0p3_F4Z3d (S20), CLEATU5 (S30), Krimm (S30)
 
-**54th - chugmitchell (3):** LadyNarwhal (S14), xNerd (S18), kirkomode (S18)
+**56th - ChainingVermin2 (3):** KaiokenNas (S42), CHAINGE (S42), ADinoPlayingMC (S42)
 
-**54th - Dylad (3):** Tneesh (S13), Canadian_Mitch (S13), cyberVAPES (S13)
+**56th - Chaotically (3):** ajackson6199 (S4), Kaismartypants (S4), bevey (S4)
 
-**54th - gsjan (3):** Prisma (S37), Jwillnot (S37), SlowATSV (S41)
+**56th - chugmitchell (3):** LadyNarwhal (S14), xNerd (S18), kirkomode (S18)
 
-**54th - HyperOutHere (3):** St0rmplayz (S31), Fearx_ (S31), Blakeeze (S31)
+**56th - Dj8ninja (3):** TheSlimeBrother (S40), PleaseTry (S42), Markedbooboy (S42)
 
-**54th - ItsGinger (3):** Jwillnot (S31), Brocko (S31), Krimm (S31)
+**56th - Dylad (3):** Tneesh (S13), Canadian_Mitch (S13), cyberVAPES (S13)
 
-**54th - Pengulink (3):** Broseph (S36), Fearx_ (S36), brinkwhy (S36)
+**56th - gsjan (3):** Prisma (S37), Jwillnot (S37), SlowATSV (S41)
 
-**54th - PickaxeLoverFTW (3):** Jasonvac (S7), Chaotically (S7), Bricka (S7)
+**56th - HyperOutHere (3):** St0rmplayz (S31), Fearx_ (S31), Blakeeze (S31)
 
-**54th - Sassybunion (3):** TheJavaHacker (S28), St0rmplayz (S32), Krimm (S32)
+**56th - ItsGinger (3):** Jwillnot (S31), Brocko (S31), Krimm (S31)
 
-**54th - Sneaky26 (3):** Caligators (S34), JoshC2 (S34), St0rmplayz (S34)
+**56th - kawaiibunri (3):** broccoliar (S40), SiahStone (S41), Cyclops (S41)
 
-**54th - tagggz (3):** Fearx_ (S42), noktime (S42), Prisma (S42)
+**56th - Pengulink (3):** Broseph (S36), Fearx_ (S36), brinkwhy (S36)
 
-**54th - Tamable (3):** Renais (S22), Sadwics (S22), Qmos (S22)
+**56th - PickaxeLoverFTW (3):** Jasonvac (S7), Chaotically (S7), Bricka (S7)
 
-**54th - Thanalox (3):** ItzDouublePvp (S7), Cordinei (S35), Ferno_the_Knight (S36)
+**56th - Sassybunion (3):** TheJavaHacker (S28), St0rmplayz (S32), Krimm (S32)
 
-**54th - TonyEatWorld (3):** Tawvo (S37), MadmanAxel (S37), Fearx_ (S39)
+**56th - Sneaky26 (3):** Caligators (S34), JoshC2 (S34), St0rmplayz (S34)
 
-**54th - Wqbbit (3):** CanadianWafflez (S36), Axeslayer (S36), St0rmplayz (S36)
+**56th - tagggz (3):** Fearx_ (S42), noktime (S42), Prisma (S42)
 
-**78th - Avarca (2):** JoshC2 (S31), GraceC2_ (S31)
+**56th - Tamable (3):** Renais (S22), Sadwics (S22), Qmos (S22)
 
-**78th - Blakeeze (2):** reverse094 (S30), Ferno_the_Knight (S30)
+**56th - Thanalox (3):** ItzDouublePvp (S7), Cordinei (S35), Ferno_the_Knight (S36)
 
-**78th - BluiesReborn (2):** Kaismartypants (S29), Cristehn (S29)
+**56th - TonyEatWorld (3):** Tawvo (S37), MadmanAxel (S37), Fearx_ (S39)
 
-**78th - CallMeDJ (2):** Dragon_Vapes (S16), Caligators (S17)
+**56th - Wqbbit (3):** CanadianWafflez (S36), Axeslayer (S36), St0rmplayz (S36)
 
-**78th - CaptainGavino (2):** Kaismartypants (S11), jack4392 (S17)
+**83rd - Avarca (2):** JoshC2 (S31), GraceC2_ (S31)
 
-**78th - ColdBac (2):** Fcrm (S42), ItsColinn (S42)
+**83rd - Blakeeze (2):** reverse094 (S30), Ferno_the_Knight (S30)
 
-**78th - Cristehn (2):** SummerBqsh (S29), Prisma (S35)
+**83rd - BluiesReborn (2):** Kaismartypants (S29), Cristehn (S29)
 
-**78th - DevoyTTV (2):** brinkwhy (S33), Caligators (S33)
+**83rd - CallMeDJ (2):** Dragon_Vapes (S16), Caligators (S17)
 
-**78th - Dj8ninja (2):** PleaseTry (S42), Markedbooboy (S42)
+**83rd - CaptainGavino (2):** Kaismartypants (S11), jack4392 (S17)
 
-**78th - Envified_ (2):** JoshC2 (S27), DEREKAST (S27)
+**83rd - ColdBac (2):** Fcrm (S42), ItsColinn (S42)
 
-**78th - Fearx_ (2):** LadyNarwhal (S19), StevenSharp (S41)
+**83rd - Cristehn (2):** SummerBqsh (S29), Prisma (S35)
 
-**78th - Fleeky (2):** GmacLad (S32), Brocko (S32)
+**83rd - Envified_ (2):** JoshC2 (S27), DEREKAST (S27)
 
-**78th - GavinGamer10 (2):** Krimm (S10), Fearx_ (S10)
+**83rd - Fearx_ (2):** LadyNarwhal (S19), StevenSharp (S41)
 
-**78th - GoldenNs (2):** PhatPanda (S41), TheSheepMasters (S41)
+**83rd - Fleeky (2):** GmacLad (S32), Brocko (S32)
 
-**78th - iGotGapples (2):** Krimm (S12), vDyre (S12)
+**83rd - GavinGamer10 (2):** Krimm (S10), Fearx_ (S10)
 
-**78th - iLoveBoris (2):** allen_ (S12), gummywroms (S12)
+**83rd - GoldenNs (2):** PhatPanda (S41), TheSheepMasters (S41)
 
-**78th - ItsNickb (2):** SlowATSV (S20), reverse094 (S20)
+**83rd - iGotGapples (2):** Krimm (S12), vDyre (S12)
 
-**78th - jack4392 (2):** Spencerdood (S17), CLEATU5 (S17)
+**83rd - iLoveBoris (2):** allen_ (S12), gummywroms (S12)
 
-**78th - JoshC2 (2):** Canadian_Mitch (S26), GraceC2_ (S36)
+**83rd - ItsNickb (2):** SlowATSV (S20), reverse094 (S20)
 
-**78th - JustLethal (2):** iQuick_ (S22), centraleric (S22)
+**83rd - jack4392 (2):** Spencerdood (S17), CLEATU5 (S17)
 
-**78th - kawaiibunri (2):** SiahStone (S41), Cyclops (S41)
+**83rd - JoshC2 (2):** Canadian_Mitch (S26), GraceC2_ (S36)
 
-**78th - Michaelted (2):** SirAdqmCactusYT (S9), JoshvsGaming (S17)
+**83rd - JustLethal (2):** iQuick_ (S22), centraleric (S22)
 
-**78th - MickeyDEC (2):** Treyten (S2), Vesyll (S2)
+**83rd - Kaddyn (2):** Codwhy (S40), kawaiibunri (S40)
 
-**78th - Plexsy (2):** SlowATSV (S14), Potsie (S14)
+**83rd - Michaelted (2):** SirAdqmCactusYT (S9), JoshvsGaming (S17)
 
-**78th - PoofessorP (2):** IcyshadowMC (S26), ambarlos (S26)
+**83rd - MickeyDEC (2):** Treyten (S2), Vesyll (S2)
 
-**78th - Psykl0ne (2):** TonyEatWorld (S37), 66Sixela_ (S41)
+**83rd - Plexsy (2):** SlowATSV (S14), Potsie (S14)
 
-**78th - SirAdqmCactusYT (2):** Ahzora (S9), kirkomode (S9)
+**83rd - PoofessorP (2):** IcyshadowMC (S26), ambarlos (S26)
 
-**78th - SlowATSV (2):** Bornyo (S16), bevey (S21)
+**83rd - Psykl0ne (2):** TonyEatWorld (S37), 66Sixela_ (S41)
 
-**78th - Spongey (2):** gmann (S41), Jwillnot (S41)
+**83rd - SirAdqmCactusYT (2):** Ahzora (S9), kirkomode (S9)
 
-**78th - thechickenleader (2):** Demon_Drake (S7), cyberVAPES (S7)
+**83rd - SlowATSV (2):** Bornyo (S16), bevey (S21)
 
-**78th - VanzJustKnifedU (2):** Thanalox (S24), Kaismartypants (S32)
+**83rd - Spongey (2):** gmann (S41), Jwillnot (S41)
 
-**78th - xTranslucenTx (2):** AtomicAdam10 (S3), Kaismartypants (S3)
+**83rd - thechickenleader (2):** Demon_Drake (S7), cyberVAPES (S7)
 
-**78th - YaojaDzn (2):** RavenJD (S4), bevey (S19)
+**83rd - VanzJustKnifedU (2):** Thanalox (S24), Kaismartypants (S32)
 
-**111th - Aerotilas (1):** tagggz (S7)
+**83rd - Vetmire (2):** HeroGolem5 (S40), Caligators (S40)
 
-**111th - AHSOKATANOSTAN (1):** gsjan (S41)
+**83rd - xTranslucenTx (2):** AtomicAdam10 (S3), Kaismartypants (S3)
 
-**111th - Archibold (1):** BreakfastBacon (S25)
+**83rd - YaojaDzn (2):** RavenJD (S4), bevey (S19)
 
-**111th - AvyleZ (1):** DukieJr (S42)
+**115th - Aerotilas (1):** tagggz (S7)
 
-**111th - Axeslayer (1):** broccoliar (S41)
+**115th - AHSOKATANOSTAN (1):** gsjan (S41)
 
-**111th - Bill_isnt_Chill (1):** wizarde (S13)
+**115th - Archibold (1):** BreakfastBacon (S25)
 
-**111th - BreakfastBacon (1):** Dragon_Vapes (S20)
+**115th - AvyleZ (1):** DukieJr (S42)
 
-**111th - Brodator (1):** johnnywest2013 (S41)
+**115th - Axeslayer (1):** broccoliar (S41)
 
-**111th - CanadianWafflez (1):** SummerBqsh (S36)
+**115th - Bill_isnt_Chill (1):** wizarde (S13)
 
-**111th - cards4in_ (1):** PleaseTry (S16)
+**115th - BreakfastBacon (1):** Dragon_Vapes (S20)
 
-**111th - Centrios (1):** Aegl (S15)
+**115th - CanadianWafflez (1):** SummerBqsh (S36)
 
-**111th - ChosenFate (1):** Canadian_Mitch (S14)
+**115th - cards4in_ (1):** PleaseTry (S16)
 
-**111th - Cordinei (1):** HeyImHungry (S35)
+**115th - Centrios (1):** Aegl (S15)
 
-**111th - CreativeVillager (1):** AtomicAdam10 (S1)
+**115th - ChosenFate (1):** Canadian_Mitch (S14)
 
-**111th - Cyclops (1):** JoshC2 (S41)
+**115th - Codwhy (1):** gsjan (S40)
 
-**111th - Davelions (1):** TheJavaHacker (S12)
+**115th - Cordinei (1):** HeyImHungry (S35)
 
-**111th - Dergahnn (1):** Caligators (S7)
+**115th - CreativeVillager (1):** AtomicAdam10 (S1)
 
-**111th - deydiry7 (1):** Bubblezzz (S3)
+**115th - Cyclops (1):** JoshC2 (S41)
 
-**111th - Drkrai (1):** Txmp (S16)
+**115th - Davelions (1):** TheJavaHacker (S12)
 
-**111th - DukieJr (1):** Dj8ninja (S42)
+**115th - Dergahnn (1):** Caligators (S7)
 
-**111th - Eternql (1):** YaojaDzn (S7)
+**115th - deydiry7 (1):** Bubblezzz (S3)
 
-**111th - ferrier100 (1):** kirkomode (S27)
+**115th - Drkrai (1):** Txmp (S16)
 
-**111th - Fizz12 (1):** Caligators (S13)
+**115th - DukieJr (1):** Dj8ninja (S42)
 
-**111th - Flcnt (1):** TheRealHagrid (S41)
+**115th - Eternql (1):** YaojaDzn (S7)
 
-**111th - FlightVapeHacker (1):** Bornyo (S24)
+**115th - ferrier100 (1):** kirkomode (S27)
 
-**111th - Fra49 (1):** vDyre (S42)
+**115th - Fizz12 (1):** Caligators (S13)
 
-**111th - FrozenUHC (1):** reverse094 (S12)
+**115th - Flcnt (1):** TheRealHagrid (S41)
 
-**111th - FroztiSnowman (1):** _1mmortal_ (S41)
+**115th - FlightVapeHacker (1):** Bornyo (S24)
 
-**111th - GirlOnFire181 (1):** GmacLad (S7)
+**115th - Fra49 (1):** vDyre (S42)
 
-**111th - gummywroms (1):** Eriq_ (S12)
+**115th - FrozenUHC (1):** reverse094 (S12)
 
-**111th - HeroGolem5 (1):** FrostBros (S41)
+**115th - FroztiSnowman (1):** _1mmortal_ (S41)
 
-**111th - HeyImHungry (1):** Sadwics (S29)
+**115th - GirlOnFire181 (1):** GmacLad (S7)
 
-**111th - iQuick_ (1):** Ginzburg (S23)
+**115th - gummywroms (1):** Eriq_ (S12)
 
-**111th - Jasonvac (1):** ajackson6199 (S5)
+**115th - HeroGolem5 (1):** FrostBros (S41)
 
-**111th - JaydenFrBruh (1):** kirkomode (S21)
+**115th - HeyImHungry (1):** Sadwics (S29)
 
-**111th - johnnywest2013 (1):** Vesyll (S41)
+**115th - iQuick_ (1):** Ginzburg (S23)
 
-**111th - kirbey (1):** Kaismartypants (S39)
+**115th - Jasonvac (1):** ajackson6199 (S5)
 
-**111th - lapps (1):** Jwillnot (S28)
+**115th - JaydenFrBruh (1):** kirkomode (S21)
 
-**111th - Meven (1):** Sofiea (S8)
+**115th - johnnywest2013 (1):** Vesyll (S41)
 
-**111th - Muffinman16 (1):** bevey (S17)
+**115th - kirbey (1):** Kaismartypants (S39)
 
-**111th - omchris (1):** heroninja112 (S41)
+**115th - lapps (1):** Jwillnot (S28)
 
-**111th - Perzano (1):** TheTrueNinja (S15)
+**115th - Meven (1):** Sofiea (S8)
 
-**111th - Plushy33 (1):** Zenithu (S42)
+**115th - Muffinman16 (1):** bevey (S17)
 
-**111th - ProGirlGamer (1):** GoldenNs (S41)
+**115th - Perzano (1):** TheTrueNinja (S15)
 
-**111th - regrow (1):** brinkwhy (S26)
+**115th - Plushy33 (1):** Zenithu (S42)
 
-**111th - Sofiea (1):** RavenJD (S8)
+**115th - ProGirlGamer (1):** GoldenNs (S41)
 
-**111th - TellyKing (1):** Eriq_ (S3)
+**115th - RadicalRat47 (1):** FluffyAri (S40)
 
-**111th - TheBhav (1):** thechickenleader (S7)
+**115th - regrow (1):** brinkwhy (S26)
 
-**111th - TheJavaHacker (1):** PleaseTry (S27)
+**115th - Sofiea (1):** RavenJD (S8)
 
-**111th - TheRealHagrid (1):** Flcnt (S41)
+**115th - TellyKing (1):** Eriq_ (S3)
 
-**111th - TheSheepMasters (1):** Qmos (S39)
+**115th - TheBhav (1):** thechickenleader (S7)
 
-**111th - TheSlimeBrother (1):** DEREKAST (S39)
+**115th - TheJavaHacker (1):** PleaseTry (S27)
 
-**111th - Vesyll (1):** Sinuar (S2)
+**115th - TheRealHagrid (1):** Flcnt (S41)
 
-**111th - xNerd (1):** Bill_Nue (S18)
+**115th - TheSheepMasters (1):** Qmos (S39)
 
-**111th - zDrimzi (1):** Sassybunion (S36)
+**115th - TheSlimeBrother (1):** DEREKAST (S39)
 
-**111th - ZippedFolder (1):** Kaismartypants (S9)
+**115th - Vesyll (1):** Sinuar (S2)
+
+**115th - xNerd (1):** Bill_Nue (S18)
+
+**115th - zDrimzi (1):** Sassybunion (S36)
+
+**115th - zeesue (1):** StevenSharp (S40)
+
+**115th - ZippedFolder (1):** Kaismartypants (S9)
 
 ---
 ### PvE Deaths
 
-**Fall (37):** Treyten (S1), Prisma (S2), a_b_c_d_e (S3), MickeyDEC (S3), GmacLad (S5), Sinuar (S5), Andraea (S9), Bubblezzz (S9), Aupho (S9), TheChemicalSiren (S12), Apextarget (S12), SlowATSV (S13), coolarabella (S13), Wqbbit (S13), Scyles (S13), bevey (S13), Bill_isnt_Chill (S13), ChaseOwO (S19), Kaismartypants (S20), SlowATSV (S21), braidenOW (S21), Bornyo (S23), Fearx_ (S26), pierce981 (S27), Strqfe_ (S28), Strqfe_ (S30), vDyre (S30), kirkomode (S31), GraceC2_ (S32), Prisma (S33), JaydenFrBruh (S34), Kaismartypants (S34), TheJavaHacker (S36), GraceC2_ (S41), Freaknock (S41), Krimm (S42), AvyleZ (S42)
+**Fall (39):** Treyten (S1), Prisma (S2), a_b_c_d_e (S3), MickeyDEC (S3), GmacLad (S5), Sinuar (S5), Andraea (S9), Bubblezzz (S9), Aupho (S9), TheChemicalSiren (S12), Apextarget (S12), SlowATSV (S13), coolarabella (S13), Wqbbit (S13), Scyles (S13), bevey (S13), Bill_isnt_Chill (S13), ChaseOwO (S19), Kaismartypants (S20), SlowATSV (S21), braidenOW (S21), Bornyo (S23), Fearx_ (S26), pierce981 (S27), Strqfe_ (S28), Strqfe_ (S30), vDyre (S30), kirkomode (S31), GraceC2_ (S32), Prisma (S33), JaydenFrBruh (S34), Kaismartypants (S34), TheJavaHacker (S36), Flcnt (S40), AshRiolu100985 (S40), GraceC2_ (S41), Freaknock (S41), Krimm (S42), AvyleZ (S42)
 
 **Zombie (23):** DEREKAST (S1), TheJavaHacker (S1), UltimateVillager (S2), SlowATSV (S2), TheJavaHacker (S2), bevey (S2), Pandie674 (S3), DiarWolfe (S5), Canadian_Mitch (S6), TheJavaHacker (S6), yoshiguy19 (S6), YepItsJustDirt (S8), TheJavaHacker (S10), Sinuar (S12), chugmitchell (S17), Dragon_Vapes (S17), Sinuar (S20), BreakfastBacon (S20), Krimm (S21), Krimm (S28), piggy218 (S28), CyKrez (S34), Pengulink (S34)
 
-**Lava (17):** Thanalox (S3), SlowATSV (S5), TheBhav (S7), GavinGamer10 (S10), Caligators (S11), LadyNarwhal (S11), HeyitsDan (S13), TheChemicalSiren (S17), Scyles (S18), Bornyo (S19), Envified_ (S20), chugmitchell (S20), Ahzora (S20), braidenOW (S22), Strqfe_ (S27), brinkwhy (S27), Cordinei (S41)
+**Lava (18):** Thanalox (S3), SlowATSV (S5), TheBhav (S7), GavinGamer10 (S10), Caligators (S11), LadyNarwhal (S11), HeyitsDan (S13), TheChemicalSiren (S17), Scyles (S18), Bornyo (S19), Envified_ (S20), chugmitchell (S20), Ahzora (S20), braidenOW (S22), Strqfe_ (S27), brinkwhy (S27), hashtagmat (S40), Cordinei (S41)
 
 **Left (17):** a_b_c_d_e (S2), Treyten (S5), SeanZipper (S6), Supercrafter724 (S6), BornKyle (S6), Actionjack2012 (S9), Krimm (S9), Muffinman16 (S10), TheMuffinDoge (S14), walkerstalker48 (S15), iQuick_ (S17), Txmp (S17), Arnqv (S18), Jwillnot (S20), reverse094 (S21), CanadianWafflez (S23), Prisma (S32)
 
@@ -1063,9 +1089,9 @@
 ---
 ### Participation
 
-**42 Seasons (0):** 
+**42 Seasons (1):** Kaismartypants (S1-S42)
 
-**41 Seasons (1):** Kaismartypants (S1-S39,S41-S42)
+**41 Seasons (0):** 
 
 **40 Seasons (0):** 
 
@@ -1101,9 +1127,9 @@
 
 **24 Seasons (0):** 
 
-**23 Seasons (1):** kirkomode (S7-S15,S17-S19,S21-S22,S24-S27,S31-S33,S36,S38)
+**23 Seasons (2):** Caligators (S7,S10-S13,S15-S21,S25-S28,S30,S33-S35,S38,S40,S42), kirkomode (S7-S15,S17-S19,S21-S22,S24-S27,S31-S33,S36,S38)
 
-**22 Seasons (1):** Caligators (S7,S10-S13,S15-S21,S25-S28,S30,S33-S35,S38,S42)
+**22 Seasons (0):** 
 
 **21 Seasons (0):** 
 
@@ -1111,15 +1137,15 @@
 
 **19 Seasons (0):** 
 
-**18 Seasons (1):** TheJavaHacker (S1-S2,S5-S6,S9-S10,S12,S14,S22-S23,S26-S28,S30,S32,S35-S36,S41)
+**18 Seasons (2):** TheJavaHacker (S1-S2,S5-S6,S9-S10,S12,S14,S22-S23,S26-S28,S30,S32,S35-S36,S41), Sadwics (S17-S22,S24-S25,S28-S30,S33,S36-S38,S40-S42)
 
-**17 Seasons (1):** Sadwics (S17-S22,S24-S25,S28-S30,S33,S36-S38,S41-S42)
+**17 Seasons (0):** 
 
 **16 Seasons (0):** 
 
-**15 Seasons (0):** 
+**15 Seasons (1):** Bornyo (S13-S16,S18-S21,S23-S26,S37-S38,S40)
 
-**14 Seasons (2):** Fearx_ (S10-S11,S16-S17,S19,S23-S24,S26,S31,S36,S38-S39,S41-S42), Bornyo (S13-S16,S18-S21,S23-S26,S37-S38)
+**14 Seasons (1):** Fearx_ (S10-S11,S16-S17,S19,S23-S24,S26,S31,S36,S38-S39,S41-S42)
 
 **13 Seasons (1):** brinkwhy (S14-S15,S17,S20-S21,S23-S27,S32-S33,S36)
 
@@ -1133,19 +1159,19 @@
 
 **8 Seasons (1):** DEREKAST (S1,S16-S17,S19-S20,S24,S27,S39)
 
-**7 Seasons (9):** AtomicAdam10 (S1,S3,S18-S20,S26-S27), Canadian_Mitch (S5-S6,S12-S14,S17,S26), JaydenFrBruh (S12,S18-S21,S32,S34), PleaseTry (S12,S16,S22,S26-S27,S41-S42), ProGirlGamer (S12,S25-S26,S37-S38,S41-S42), reverse094 (S12-S15,S20-S21,S30), Dragon_Vapes (S15-S21), BreakfastBacon (S16,S18-S21,S24-S25), JoshC2 (S26-S27,S31-S32,S34,S36,S41)
+**7 Seasons (10):** AtomicAdam10 (S1,S3,S18-S20,S26-S27), Canadian_Mitch (S5-S6,S12-S14,S17,S26), JaydenFrBruh (S12,S18-S21,S32,S34), PleaseTry (S12,S16,S22,S26-S27,S41-S42), ProGirlGamer (S12,S25-S26,S37-S38,S41-S42), reverse094 (S12-S15,S20-S21,S30), Dragon_Vapes (S15-S21), BreakfastBacon (S16,S18-S21,S24-S25), Renais (S19-S20,S22-S23,S26,S40,S42), JoshC2 (S26-S27,S31-S32,S34,S36,S41)
 
-**6 Seasons (11):** Ferno_the_Knight (S2,S30-S33,S36), Ledwidgez (S2-S3,S6,S21,S27,S41), cyberVAPES (S7-S8,S10,S13,S16-S17), Michaelted (S9,S16-S17,S19-S20,S41), Scyles (S9,S12-S14,S18,S41), 360NoSc0p3_F4Z3d (S11,S14,S16,S20,S23,S37), chugmitchell (S13-S14,S17-S20), ChaseOwO (S17-S19,S24,S37-S38), Renais (S19-S20,S22-S23,S26,S42), Broseph (S28,S30,S32-S33,S36-S37), St0rmplayz (S28,S31-S34,S36)
+**6 Seasons (10):** Ferno_the_Knight (S2,S30-S33,S36), Ledwidgez (S2-S3,S6,S21,S27,S41), cyberVAPES (S7-S8,S10,S13,S16-S17), Michaelted (S9,S16-S17,S19-S20,S41), Scyles (S9,S12-S14,S18,S41), 360NoSc0p3_F4Z3d (S11,S14,S16,S20,S23,S37), chugmitchell (S13-S14,S17-S20), ChaseOwO (S17-S19,S24,S37-S38), Broseph (S28,S30,S32-S33,S36-S37), St0rmplayz (S28,S31-S34,S36)
 
-**5 Seasons (10):** Treyten (S1-S2,S4-S5,S10), GmacLad (S4-S5,S7,S32,S34), Ahzora (S9,S11-S12,S20,S30), CaptainGavino (S11-S12,S15,S17,S26), PandaLogic (S12-S13,S19,S23,S30), iQuick_ (S15,S17,S20,S22-S23), Envified_ (S19-S20,S23-S24,S27), CyKrez (S23,S26,S31,S34,S37), Cristehn (S29,S32-S33,S35-S36), GraceC2_ (S31-S32,S34,S36,S41)
+**5 Seasons (12):** Treyten (S1-S2,S4-S5,S10), GmacLad (S4-S5,S7,S32,S34), Ahzora (S9,S11-S12,S20,S30), CaptainGavino (S11-S12,S15,S17,S26), PandaLogic (S12-S13,S19,S23,S30), wizarde (S12-S15,S40), iQuick_ (S15,S17,S20,S22-S23), Envified_ (S19-S20,S23-S24,S27), CyKrez (S23,S26,S31,S34,S37), Cristehn (S29,S32-S33,S35-S36), GraceC2_ (S31-S32,S34,S36,S41), broccoliar (S37,S39-S42)
 
-**4 Seasons (16):** YaojaDzn (S4,S7,S14,S19), DiarWolfe (S5,S10,S14,S19), wizarde (S12-S15), zemnoz (S12,S15,S17-S18), HeyImHungry (S15-S16,S29,S35), regrow (S15-S16,S18,S26), Spencerdood (S15,S17-S19), Tawvo (S15,S27-S28,S37), TheTrueNinja (S15,S19-S20,S22), CanadianWafflez (S16,S23,S26,S36), pierce981 (S18,S27-S28,S42), centraleric (S19-S20,S22,S30), VanzJustKnifedU (S24,S32-S33,S35), BardMain2 (S28,S30-S31,S37), Sassybunion (S28,S31-S32,S36), broccoliar (S37,S39,S41-S42)
+**4 Seasons (17):** YaojaDzn (S4,S7,S14,S19), DiarWolfe (S5,S10,S14,S19), zemnoz (S12,S15,S17-S18), HeyImHungry (S15-S16,S29,S35), regrow (S15-S16,S18,S26), Spencerdood (S15,S17-S19), Tawvo (S15,S27-S28,S37), TheTrueNinja (S15,S19-S20,S22), CanadianWafflez (S16,S23,S26,S36), StevenSharp (S16,S19,S40-S41), pierce981 (S18,S27-S28,S42), centraleric (S19-S20,S22,S30), VanzJustKnifedU (S24,S32-S33,S35), BardMain2 (S28,S30-S31,S37), Sassybunion (S28,S31-S32,S36), DevoyTTV (S33,S35,S40,S42), gsjan (S37-S38,S40-S41)
 
-**3 Seasons (36):** Bubblezzz (S2-S3,S9), Codzyy (S2-S3,S11), ajackson6199 (S4-S6), Chaotically (S4,S7,S14), HeyitsDan (S4,S13,S18), RavenJD (S4,S8,S10), RCDominance (S4,S6-S7), jack4392 (S7,S17,S38), FlightVapeHacker (S8,S24-S25), Honoropz (S8,S12,S18), LadyNarwhal (S11,S14,S19), Txmp (S11,S16-S17), Mostaccioli (S12,S23,S28), Tneesh (S12-S13,S15), Dylad (S13,S16,S18), Wqbbit (S13,S20,S36), ambarlos (S14,S26-S27), CallMeDJ (S16-S18), cards4in_ (S16-S17,S19), StevenSharp (S16,S19,S41), xNerd (S17-S19), BluiesReborn (S18-S19,S29), braidenOW (S21-S22,S41), Avarca (S22,S31,S33), JaeHasNoMaidens (S25,S32-S33), IcyshadowMC (S26,S30,S42), PhatPanda (S26,S41-S42), PoofessorP (S26-S27,S33), Strqfe_ (S27-S28,S30), Blakeeze (S30-S31,S33), TheSheepMasters (S30,S39,S41), TonyEatWorld (S30,S37,S39), Brocko (S31-S33), DevoyTTV (S33,S35,S42), Plushy33 (S33,S36,S42), gsjan (S37-S38,S41)
+**3 Seasons (40):** Bubblezzz (S2-S3,S9), Codzyy (S2-S3,S11), ajackson6199 (S4-S6), Chaotically (S4,S7,S14), HeyitsDan (S4,S13,S18), RavenJD (S4,S8,S10), RCDominance (S4,S6-S7), jack4392 (S7,S17,S38), FlightVapeHacker (S8,S24-S25), Honoropz (S8,S12,S18), LadyNarwhal (S11,S14,S19), Txmp (S11,S16-S17), Mostaccioli (S12,S23,S28), Tneesh (S12-S13,S15), Dylad (S13,S16,S18), Wqbbit (S13,S20,S36), ambarlos (S14,S26-S27), CallMeDJ (S16-S18), cards4in_ (S16-S17,S19), xNerd (S17-S19), BluiesReborn (S18-S19,S29), braidenOW (S21-S22,S41), Avarca (S22,S31,S33), JaeHasNoMaidens (S25,S32-S33), IcyshadowMC (S26,S30,S42), PhatPanda (S26,S41-S42), PoofessorP (S26-S27,S33), Strqfe_ (S27-S28,S30), Blakeeze (S30-S31,S33), TheSheepMasters (S30,S39,S41), TonyEatWorld (S30,S37,S39), Brocko (S31-S33), Dj8ninja (S32,S40,S42), Plushy33 (S33,S36,S42), gmann (S38,S40-S41), TheSlimeBrother (S39-S41), _1mmortal_ (S40-S42), FluffyAri (S40-S42), hashtagmat (S40-S42), omchris (S40-S42)
 
-**2 Seasons (53):** CreativeVillager (S1-S2), TellyKing (S1,S3), a_b_c_d_e (S2-S3), MickeyDEC (S2-S3), Vesyll (S2,S41), Eriq_ (S3,S12), Natural44 (S3,S8), YepItsJustDirt (S3,S8), Jasonvac (S5,S7), Sofiea (S7-S8), tagggz (S7,S42), GavinGamer10 (S10,S30), Muffinman16 (S10,S17), ChosenFate (S11,S14), allen_ (S12,S29), Bill_isnt_Chill (S12-S13), ferrier100 (S12,S27), TheChemicalSiren (S12,S17), xxxtanner (S13,S16), ItsNickb (S14,S20), Potsie (S14,S16), Aegl (S15-S16), Centrios (S15,S30), drewxd (S15,S24), Perzano (S15,S23), Drkrai (S16-S17), UncleBenFranklin (S16-S17), Ginzburg (S19,S23), DALLAS_THA_MAN (S21-S22), ChoiBoii (S23,S30), Archibold (S25,S41), DatGuyAdam (S26,S36), Truzoi (S28,S41), SummerBqsh (S29,S36), HyperOutHere (S31-S32), Slaybate (S31,S36), Dj8ninja (S32,S42), Fleeky (S32-S33), Sneaky26 (S32,S34), Pengulink (S34,S36), Cordinei (S35,S41), Axeslayer (S36,S41), Psykl0ne (S37,S41), gmann (S38,S41), TheSlimeBrother (S39,S41), _1mmortal_ (S41-S42), Fcrm (S41-S42), FluffyAri (S41-S42), hashtagmat (S41-S42), ItsColinn (S41-S42), noktime (S41-S42), omchris (S41-S42), primyrss (S41-S42)
+**2 Seasons (55):** CreativeVillager (S1-S2), TellyKing (S1,S3), a_b_c_d_e (S2-S3), MickeyDEC (S2-S3), Vesyll (S2,S41), Eriq_ (S3,S12), Natural44 (S3,S8), YepItsJustDirt (S3,S8), Jasonvac (S5,S7), Sofiea (S7-S8), tagggz (S7,S42), GavinGamer10 (S10,S30), Muffinman16 (S10,S17), ChosenFate (S11,S14), allen_ (S12,S29), Bill_isnt_Chill (S12-S13), ferrier100 (S12,S27), TheChemicalSiren (S12,S17), xxxtanner (S13,S16), ItsNickb (S14,S20), Potsie (S14,S16), Aegl (S15-S16), Centrios (S15,S30), drewxd (S15,S24), Perzano (S15,S23), Drkrai (S16-S17), UncleBenFranklin (S16-S17), Ginzburg (S19,S23), DALLAS_THA_MAN (S21-S22), ChoiBoii (S23,S30), Archibold (S25,S41), DatGuyAdam (S26,S36), Truzoi (S28,S41), SummerBqsh (S29,S36), HyperOutHere (S31-S32), Slaybate (S31,S36), Fleeky (S32-S33), Sneaky26 (S32,S34), Pengulink (S34,S36), Cordinei (S35,S41), Axeslayer (S36,S41), Psykl0ne (S37,S41), AHSOKATANOSTAN (S40-S41), Brodator (S40-S41), Evzenitable (S40-S41), Flcnt (S40-S41), GoldenNs (S40-S41), HeroGolem5 (S40-S41), kawaiibunri (S40-S41), Spongey (S40-S41), TheRealHagrid (S40-S41), Fcrm (S41-S42), ItsColinn (S41-S42), noktime (S41-S42), primyrss (S41-S42)
 
-**1 Season (113):** thedarkknight151 (S1), UltimateVillager (S2), deydiry7 (S3), Fishbutt307 (S3), Pandie674 (S3), xTranslucenTx (S3), Desire_Z (S4), BornKyle (S6), SeanZipper (S6), Supercrafter724 (S6), yoshiguy19 (S6), Aerotilas (S7), Bricka (S7), Demon_Drake (S7), Dergahnn (S7), Eternql (S7), GirlOnFire181 (S7), ItzDouublePvp (S7), PickaxeLoverFTW (S7), TheBhav (S7), thechickenleader (S7), Big_Z60 (S8), Lunarashi (S8), Meven (S8), Viqer (S8), Actionjack2012 (S9), Andraea (S9), Aupho (S9), SirAdqmCactusYT (S9), ZippedFolder (S9), DancePartyFilms (S11), Papermate (S11), RubiksPlaysMC (S11), TJTheMuffinMan (S11), Apextarget (S12), Davelions (S12), Dylan_YD (S12), FrozenUHC (S12), gummywroms (S12), iGotGapples (S12), iLoveBoris (S12), Ratchet6859 (S12), tbhjosh (S12), whohaw (S12), coolarabella (S13), Fizz12 (S13), Auburn (S14), Plexsy (S14), TheMuffinDoge (S14), JacobBrown (S15), walkerstalker48 (S15), JoshvsGaming (S17), MrLazeo101 (S17), Arnqv (S18), Bill_Nue (S18), DBoss (S19), JustLethal (S22), RetroSidekick (S22), Tamable (S22), PhoenixRising_ (S23), DrJamezz (S25), ItsStrqfe (S25), PauloSSB (S25), BootyPebbles (S28), Geckq (S28), lapps (S28), piggy218 (S28), SneakyAllen (S28), ItsGinger (S31), Angryboi (S33), Jovon (S36), Ripski (S36), zDrimzi (S36), MadmanAxel (S37), ItzAndrewPvp (S38), kirbey (S39), WolfieLiam (S39), AHSOKATANOSTAN (S41), Arospity (S41), Brodator (S41), Cyclops (S41), Evzenitable (S41), Flacce (S41), Flcnt (S41), Freaknock (S41), FrostBros (S41), FroztiSnowman (S41), GoldenNs (S41), HeroGolem5 (S41), heroninja112 (S41), johnnywest2013 (S41), kawaiibunri (S41), SiahStone (S41), Spongey (S41), TheRealHagrid (S41), ADinoPlayingMC (S42), ArcticSeagull (S42), AvyleZ (S42), benidk (S42), CHAINGE (S42), ChainingVermin2 (S42), ColdBac (S42), DukieJr (S42), Fra49 (S42), GodlySteal (S42), Gorgerous (S42), JohnzRIP (S42), KaiokenNas (S42), Markedbooboy (S42), PrattBN (S42), PresidentFleb (S42), strategy (S42), Zenithu (S42)
+**1 Season (118):** thedarkknight151 (S1), UltimateVillager (S2), deydiry7 (S3), Fishbutt307 (S3), Pandie674 (S3), xTranslucenTx (S3), Desire_Z (S4), BornKyle (S6), SeanZipper (S6), Supercrafter724 (S6), yoshiguy19 (S6), Aerotilas (S7), Bricka (S7), Demon_Drake (S7), Dergahnn (S7), Eternql (S7), GirlOnFire181 (S7), ItzDouublePvp (S7), PickaxeLoverFTW (S7), TheBhav (S7), thechickenleader (S7), Big_Z60 (S8), Lunarashi (S8), Meven (S8), Viqer (S8), Actionjack2012 (S9), Andraea (S9), Aupho (S9), SirAdqmCactusYT (S9), ZippedFolder (S9), DancePartyFilms (S11), Papermate (S11), RubiksPlaysMC (S11), TJTheMuffinMan (S11), Apextarget (S12), Davelions (S12), Dylan_YD (S12), FrozenUHC (S12), gummywroms (S12), iGotGapples (S12), iLoveBoris (S12), Ratchet6859 (S12), tbhjosh (S12), whohaw (S12), coolarabella (S13), Fizz12 (S13), Auburn (S14), Plexsy (S14), TheMuffinDoge (S14), JacobBrown (S15), walkerstalker48 (S15), JoshvsGaming (S17), MrLazeo101 (S17), Arnqv (S18), Bill_Nue (S18), DBoss (S19), JustLethal (S22), RetroSidekick (S22), Tamable (S22), PhoenixRising_ (S23), DrJamezz (S25), ItsStrqfe (S25), PauloSSB (S25), BootyPebbles (S28), Geckq (S28), lapps (S28), piggy218 (S28), SneakyAllen (S28), ItsGinger (S31), Angryboi (S33), Jovon (S36), Ripski (S36), zDrimzi (S36), MadmanAxel (S37), ItzAndrewPvp (S38), kirbey (S39), WolfieLiam (S39), _Fost_ (S40), AshRiolu100985 (S40), azoof (S40), Codwhy (S40), CommanderK22_ (S40), Kaddyn (S40), Kingko24 (S40), ModernPine (S40), NerdThatsAGeek (S40), RadicalRat47 (S40), SmokedPiggy (S40), Supersun_ (S40), Vetmire (S40), zeesue (S40), Arospity (S41), Cyclops (S41), Flacce (S41), Freaknock (S41), FrostBros (S41), FroztiSnowman (S41), heroninja112 (S41), johnnywest2013 (S41), SiahStone (S41), ADinoPlayingMC (S42), ArcticSeagull (S42), AvyleZ (S42), benidk (S42), CHAINGE (S42), ChainingVermin2 (S42), ColdBac (S42), DukieJr (S42), Fra49 (S42), GodlySteal (S42), Gorgerous (S42), JohnzRIP (S42), KaiokenNas (S42), Markedbooboy (S42), PrattBN (S42), PresidentFleb (S42), strategy (S42), Zenithu (S42)
 
 ---
 ### Debutants
@@ -1228,7 +1254,7 @@
 
 **S39 (3):** kirbey, TheSlimeBrother, WolfieLiam
 
-**S40 (27):** HeroGolem5, Flcnt, hashtagmat, FluffyAri, AshRiolu100985, Codwhy, _Fost_, azoof, kawaiibunri, NerdThatsAGeek, RadicalRat47, ModernPine, SmokedPiggy, CommanderK22_, GoldenNs, AHSOKATANOSTAN, omchris, Vetmire, Brodator, Kingko24, Supersun_, Kaddyn, Evzenitable, _1mmortal_, Spongey, TheRealHagrid, zeesue
+**S40 (27):** _1mmortal_, _Fost_, AHSOKATANOSTAN, AshRiolu100985, azoof, Brodator, Codwhy, CommanderK22_, Evzenitable, Flcnt, FluffyAri, GoldenNs, hashtagmat, HeroGolem5, Kaddyn, kawaiibunri, Kingko24, ModernPine, NerdThatsAGeek, omchris, RadicalRat47, SmokedPiggy, Spongey, Supersun_, TheRealHagrid, Vetmire, zeesue
 
 **S41 (13):** Arospity, Cyclops, Fcrm, Flacce, Freaknock, FrostBros, FroztiSnowman, heroninja112, ItsColinn, johnnywest2013, noktime, primyrss, SiahStone
 
