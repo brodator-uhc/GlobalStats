@@ -131,7 +131,9 @@ Dictionary<String, int> rp_kills = new Dictionary<String, int>();
 Dictionary<String, String> rp_kills_list = new Dictionary<String, String>();
 Dictionary<String, int> rp_pvedeaths = new Dictionary<String, int>();
 Dictionary<String, String> rp_pvedeaths_list = new Dictionary<String, String>();
-List<String> rp_participations = new List<String>();
+Dictionary<String, int> rp_seasonsplayed = new Dictionary<String, int>();
+Dictionary<String, String> rp_lastseasonplayed = new Dictionary<String, String>();
+Dictionary<String, String> rp_stringseasonplayed = new Dictionary<String, String>();
 List<String> rp_debutants = new List<String>();
 
 //Goes through every stats tabs on the doc
@@ -417,6 +419,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             //Formats the debutants for reddit posts
             seasonAlive.Sort();
             seasonDebutant.Sort();
+            seasonRoster.Sort();
             foreach (String debutant in seasonDebutant)
             {
                 season_debutant += debutant + ", ";
@@ -431,8 +434,45 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                 rp_debutants.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
             }
 
+            foreach (String player in seasonRoster)
+            {
+                if (rp_seasonsplayed.ContainsKey(player))
+                {
+                    rp_seasonsplayed[player] += 1;
+                }
+                else
+                {
+                    rp_seasonsplayed.Add(player, 1);
+                    rp_lastseasonplayed.Add(player, worksheet.Cell(1, firstDataColumn).GetString());
+                    rp_stringseasonplayed.Add(player, "");
+                }
+
+                if (rp_lastseasonplayed[player].Equals(worksheet.Cell(1, firstDataColumn).GetString()))
+                {
+                    rp_stringseasonplayed[player] = "(S" + worksheet.Cell(1, firstDataColumn).GetString();
+                }
+                else if (rp_lastseasonplayed[player].Equals(worksheet.Cell(1, firstDataColumn).CellLeft().CellLeft().CellLeft().GetString()))
+                {
+                    char char_season = rp_stringseasonplayed[player][rp_stringseasonplayed[player].Length - (worksheet.Cell(1, firstDataColumn).CellLeft().CellLeft().CellLeft().GetString().Length + 2)];
+                    if (char_season.Equals('-'))
+                    {
+                        rp_stringseasonplayed[player] = rp_stringseasonplayed[player].Remove(rp_stringseasonplayed[player].Length - (worksheet.Cell(1, firstDataColumn).CellLeft().CellLeft().CellLeft().GetString().Length + 1));
+                        rp_stringseasonplayed[player] += "S" + worksheet.Cell(1, firstDataColumn).GetString();
+                    }
+                    else
+                    {
+                        rp_stringseasonplayed[player] += "-S" + worksheet.Cell(1, firstDataColumn).GetString();
+                    }
+                    rp_lastseasonplayed[player] = worksheet.Cell(1, firstDataColumn).GetString();
+                }
+                else
+                {
+                    rp_stringseasonplayed[player] += ",S" + worksheet.Cell(1, firstDataColumn).GetString();
+                    rp_lastseasonplayed[player] = worksheet.Cell(1, firstDataColumn).GetString();
+                }
+            }
+
             //Adds rosters to a list for the sheet, skips non-reddit for the alternate page
-            seasonRoster.Sort();
             ar_rosters.Add(seasonRoster);
             if (!worksheet.Cell(1, lastDataColumn).GetString().Equals("NR"))
             {
@@ -962,7 +1002,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                                 most_team_kills += player + "(0), ";
                             }
                         }
-                        
+
                         if (!most_team_kills.Equals(""))
                         {
                             most_team_kills = most_team_kills.Remove(most_team_kills.Length - 2);
@@ -1617,8 +1657,31 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         File.AppendAllText(rppath, "**" + pvedeaths + " (" + rp_pvedeaths[pvedeaths] + "):** " + rp_pvedeaths_list[pvedeaths] + Environment.NewLine + Environment.NewLine);
     }
     File.AppendAllText(rppath, "---");
-    File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine);
-    File.AppendAllText(rppath, Environment.NewLine + Environment.NewLine + "---");
+    File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine + Environment.NewLine);
+    for (int seasons = (worksheet.Columns().Count() - 1) / 3; seasons > 0; seasons--)
+    {
+        String season_part = "";
+        foreach (String player in rp_seasonsplayed.Keys)
+        {
+            if (rp_seasonsplayed[player] == seasons)
+            {
+                season_part += player + " " + rp_stringseasonplayed[player] + ")" + ", ";
+            }
+        }
+        int count = season_part.Count(c => c == ' ') / 2;
+        if (count > 0)
+        {
+            season_part = season_part.Remove(season_part.Length - 2);
+        }
+        if (seasons == 1)
+        {
+            File.AppendAllText(rppath, "**" + seasons.ToString() + " Season (" + count.ToString() + "):** " + season_part + Environment.NewLine + Environment.NewLine);
+        } else
+        {
+            File.AppendAllText(rppath, "**" + seasons.ToString() + " Seasons (" + count.ToString() + "):** " + season_part + Environment.NewLine + Environment.NewLine);
+        }
+    }
+    File.AppendAllText(rppath, "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Debutants" + Environment.NewLine + Environment.NewLine);
     foreach (String debutants in rp_debutants)
     {
@@ -1638,6 +1701,9 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     rp_kills_list.Clear();
     rp_pvedeaths.Clear();
     rp_pvedeaths_list.Clear();
+    rp_seasonsplayed.Clear();
+    rp_stringseasonplayed.Clear();
+    rp_lastseasonplayed.Clear();
     rp_debutants.Clear();
 }
 
