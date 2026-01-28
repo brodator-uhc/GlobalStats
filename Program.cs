@@ -555,7 +555,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             }
                             else
                             {
-                                most_team_kills += player + "(0), ";
+                                most_team_kills += player + " (0), ";
                             }
                         }
 
@@ -1727,7 +1727,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
                             }
                             else
                             {
-                                most_team_kills += player + "(0), ";
+                                most_team_kills += player + " (0), ";
                             }
                         }
 
