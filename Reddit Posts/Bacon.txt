@@ -1,0 +1,175 @@
+## Bacon Statistics
+
+---
+### Winners
+
+**S0: Cqsh (0), Elite_Frenzy (4)**
+
+**S1: ImSilentYT (2), Truzoi (2)**
+
+**S2: Krimm (5)**, *vDyre (4)*
+
+**S3: Krimm (2), Txmp (1)**
+
+**S4: vDyre (3)**
+
+---
+### Runner Ups
+
+**S0:** kfcbeast12 (0), Krimm (0)
+
+**S1:** A_Greedy_Dragon (1), reverse094 (0)
+
+**S2:** lifeDoesYT (0), Txmp (0)
+
+**S3:** FlightVapeHacker (0), Kaismartypants (0)
+
+**S4:** Kaismartypants (1)
+
+---
+### Most Kills
+
+**S0:** Elite_Frenzy (4)
+
+**S1:** ImSilentYT, Tawvo, Truzoi, vDyre (2)
+
+**S2:** Krimm (5)
+
+**S3:** Krimm (2)
+
+**S4:** vDyre (3)
+
+---
+### Most Kills (Team)
+
+**S0:** Cqsh (0), Elite_Frenzy (4)
+
+**S1:** ImSilentYT (2), Truzoi (2)
+
+**S2:** Krimm (5), vDyre (4)
+
+**S3:** Krimm (2), Txmp (1)
+
+**S4:** N/A
+
+---
+### First Damage
+
+**S0:*
+
+**S1:*
+
+**S2:*
+
+**S3:*
+
+**S4:*
+
+---
+### Ironman
+
+**S0:*
+
+**S1:*
+
+**S2:*
+
+**S3:*
+
+**S4:*
+
+---
+### First Blood
+
+**S0:** Elite_Frenzy (vDyre)
+
+**S1:** Tawvo (SkrubQueen)
+
+**S2:** vDyre (Balakae)
+
+**S3:** CallMeDJ (66Sixela_)
+
+**S4:** vDyre (Txmp)
+
+---
+### First Death
+
+**S0:** MrFrolicGaming (Enderman)
+
+**S1:** Cocho334 (Left)
+
+**S2:** MrFrolicGaming (Fall)
+
+**S3:** Woofares (Creeper)
+
+**S4:** Txmp (vDyre)
+
+---
+### Kills
+
+**1st - vDyre (9):** Krimm (S1), Renais (S1), Balakae (S2), kirkomode (S2), iCarson (S2), H5ODelirious (S2), Txmp (S4), Cqsh (S4), Kaismartypants (S4)
+
+**2nd - Krimm (8):** Truzoi (S2), reverse094 (S2), Cocho334 (S2), Txmp (S2), lifeDoesYT (S2), FlightVapeHacker (S3), Kaismartypants (S3), Fearx_ (S4)
+
+**3rd - Elite_Frenzy (4):** vDyre (S0), Txmp (S0), ItsElixir (S0), Krimm (S0)
+
+**4th - ImSilentYT (2):** vDyre (S1), Tawvo (S1)
+
+**4th - Tawvo (2):** SkrubQueen (S1), Mostaccioli (S1)
+
+**4th - Truzoi (2):** Change_Name (S1), A_Greedy_Dragon (S1)
+
+**7th - _KingWolf (1):** vDyre (S3)
+
+**7th - A_Greedy_Dragon (1):** reverse094 (S1)
+
+**7th - CallMeDJ (1):** 66Sixela_ (S3)
+
+**7th - Cocho334 (1):** vDyre (S2)
+
+**7th - Kaismartypants (1):** Krimm (S4)
+
+**7th - Txmp (1):** _KingWolf (S3)
+
+---
+### PvE Deaths
+
+**Fall (3):** TheJavaHacker (S0), MrFrolicGaming (S2), Xurki (S2)
+
+**Burning (2):** kfcbeast12 (S0), Thanalox (S1)
+
+**Creeper (2):** A_Greedy_Dragon (S0), Woofares (S3)
+
+**Death (2):** CallMeDJ (S3), AdeptPvP (S3)
+
+**Enderman (1):** MrFrolicGaming (S0)
+
+**Left (1):** Cocho334 (S1)
+
+---
+### Participation
+
+**5 Seasons (2):** Krimm (S0-S4), vDyre (S0-S4)
+
+**4 Seasons (1):** Txmp (S0,S2-S4)
+
+**3 Seasons (0):** 
+
+**2 Seasons (7):** A_Greedy_Dragon (S0-S1), Cqsh (S0,S4), MrFrolicGaming (S0,S2), Cocho334 (S1-S2), reverse094 (S1-S2), Truzoi (S1-S2), Kaismartypants (S3-S4)
+
+**1 Season (24):** Elite_Frenzy (S0), ItsElixir (S0), kfcbeast12 (S0), TheJavaHacker (S0), Change_Name (S1), ImSilentYT (S1), Mostaccioli (S1), Renais (S1), SkrubQueen (S1), Tawvo (S1), Thanalox (S1), Balakae (S2), H5ODelirious (S2), iCarson (S2), kirkomode (S2), lifeDoesYT (S2), Xurki (S2), _KingWolf (S3), 66Sixela_ (S3), AdeptPvP (S3), CallMeDJ (S3), FlightVapeHacker (S3), Woofares (S3), Fearx_ (S4)
+
+---
+### Debutants
+
+**S0 (10):** A_Greedy_Dragon, Cqsh, Elite_Frenzy, ItsElixir, kfcbeast12, Krimm, MrFrolicGaming, TheJavaHacker, Txmp, vDyre
+
+**S1 (10):** Change_Name, Cocho334, ImSilentYT, Mostaccioli, Renais, reverse094, SkrubQueen, Tawvo, Thanalox, Truzoi
+
+**S2 (6):** Balakae, H5ODelirious, iCarson, kirkomode, lifeDoesYT, Xurki
+
+**S3 (7):** _KingWolf, 66Sixela_, AdeptPvP, CallMeDJ, FlightVapeHacker, Kaismartypants, Woofares
+
+**S4 (1):** Fearx_
+
+---

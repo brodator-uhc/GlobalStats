@@ -1,0 +1,179 @@
+## Chopping Block Statistics
+
+---
+### Winners
+
+**S1: TastyBaconZ (2)**, *LPlateGamer (0)*
+
+**S2: Flouzemaker (4), TheCatMurgatroyd (2)**, *KoreyKeipe (2)*
+
+**S3: TheSonicJoey (11)**, *InterstellarFish (0), KoreyKeipe (2), wer57 (1)*
+
+**S4: TastyBaconZ (3)**, *TheCatMurgatroyd (0)*
+
+---
+### Runner Ups
+
+**S1:** OmniShade (4), trillibytes (1)
+
+**S2:** CameronJacob00 (4), Eagris (0), spanky196 (0)
+
+**S3:** Apallos (0), prbaker (0), Sten_Stone (0), TheCatMurgatroyd (0)
+
+**S4:** Flouzemaker (2), SoberBartender (0)
+
+---
+### Most Kills
+
+**S1:** Sten_Stone (6)
+
+**S2:** CameronJacob00, Flouzemaker (4)
+
+**S3:** TheSonicJoey (11)
+
+**S4:** BannedEnergy, TastyBaconZ (3)
+
+---
+### Most Kills (Team)
+
+**S1:** Sten_Stone (6), Andy8399 (0)
+
+**S2:** Flouzemaker (4), TheCatMurgatroyd (2), KoreyKeipe (2)
+
+**S3:** InterstellarFish (0), TheSonicJoey (11), KoreyKeipe (2), wer57 (1)
+
+**S4:** TastyBaconZ (3), TheCatMurgatroyd (0) & BannedEnergy (3), CaptainRichy (0)
+
+---
+### First Damage
+
+**S1:** AmaraBella33
+
+**S2:** edmote60
+
+**S3:** Fnassau
+
+**S4:** Sten_Stone
+
+---
+### Ironman
+
+**S1:** SILSKY
+
+**S2:** Banji3000
+
+**S3:** trillibytes
+
+**S4:** Banji3000
+
+---
+### First Blood
+
+**S1:** trillibytes (IoEther)
+
+**S2:** CameronJacob00 (edmote60)
+
+**S3:** TheSonicJoey (InterstellarFish)
+
+**S4:** Fnassau (CaptainRichy)
+
+---
+### First Death
+
+**S1:** wer57 (Creeper)
+
+**S2:** Eagris (Creeper)
+
+**S3:** prbaker (Creeper)
+
+**S4:** Kayker (Creeper)
+
+---
+### Kills
+
+**1st - TheSonicJoey (12):** InterstellarFish (S3), Banji3000 (S3), IoEther (S3), double0mat (S3), Eagris (S3), MegaGran (S3), AmaraBella33 (S3), Lazmark (S3), Zobymaruu (S3), CaptainRichy (S3), TheCatMurgatroyd (S3), TheCatMurgatroyd (S4)
+
+**2nd - Sten_Stone (10):** BigDamnArtist (S1), AmaraBella33 (S1), Andyesque (S1), the_digs (S1), Ollie (S1), trillibytes (S1), AkineaGames (S2), Plutosion (S2), cbss (S4), HappierUpHere (S4)
+
+**3rd - Flouzemaker (8):** spanky196 (S2), trillibytes (S2), Sten_Stone (S2), CameronJacob00 (S2), Fnassau (S3), SILSKY (S3), WIPACA (S4), Sten_Stone (S4)
+
+**4th - Andyesque (5):** Banji3000 (S1), SILSKY (S1), ACanadianBacon (S1), Dog365 (S1), Andy8399 (S1)
+
+**4th - TastyBaconZ (5):** Fnassau (S1), OmniShade (S1), TheSonicJoey (S4), SoberBartender (S4), Flouzemaker (S4)
+
+**6th - CameronJacob00 (4):** edmote60 (S2), Fnassau (S2), double0mat (S2), KoreyKeipe (S2)
+
+**6th - KoreyKeipe (4):** TastyBaconZ (S2), AmaraBella33 (S2), CameronJacob00 (S3), Flouzemaker (S3)
+
+**6th - OmniShade (4):** DiscoJessnie (S1), Hariboe (S1), double0mat (S1), Sten_Stone (S1)
+
+**9th - BannedEnergy (3):** trillibytes (S4), Fnassau (S4), MegaGran (S4)
+
+**9th - Fnassau (3):** GapingCorn (S1), keepertim19 (S2), CaptainRichy (S4)
+
+**11th - TheCatMurgatroyd (2):** MegaGran (S2), SILSKY (S2)
+
+**12th - cbss (1):** BannedEnergy (S4)
+
+**12th - double0mat (1):** Banji3000 (S2)
+
+**12th - Eagris (1):** KoreyKeipe (S3)
+
+**12th - MegaGran (1):** SofaSeven (S3)
+
+**12th - trillibytes (1):** IoEther (S1)
+
+**12th - wer57 (1):** trillibytes (S3)
+
+**12th - Zobymaruu (1):** wer57 (S3)
+
+---
+### PvE Deaths
+
+**Creeper (11):** wer57 (S1), Flouzemaker (S1), FalingDutchman (S1), Blugy (S1), Eagris (S2), Hefaistros (S2), prbaker (S3), TastyBaconZ (S3), Kayker (S4), SofaSeven (S4), Hefaistros (S4)
+
+**Suffocation (6):** Wagzal (S1), ClassicChad (S3), OmniShade (S3), FalingDutchman (S3), Banji3000 (S4), Zobymaruu (S4)
+
+**Skeleton (4):** LPlateGamer (S1), Dog365 (S2), CaptainRichy (S2), SofaSeven (S2)
+
+**Lava (3):** spanky196 (S1), Ninjasiah (S1), Kayker (S3)
+
+**Zombie (3):** RatGoof11 (S1), CaptainRichy (S1), FalingDutchman (S2)
+
+**Enderman (2):** immortalcarcass (S1), wer57 (S2)
+
+**Fall (2):** ACanadianBacon (S2), Karabiner98 (S2)
+
+**Zombified Piglin (2):** Hefaistros (S1), KoreyKeipe (S1)
+
+**Blaze (1):** Apallos (S3)
+
+**Burning (1):** Sten_Stone (S3)
+
+**Cave Spider (1):** prbaker (S1)
+
+**Witch (1):** AmaraBella33 (S4)
+
+---
+### Participation
+
+**4 Seasons (8):** AmaraBella33 (S1-S4), Banji3000 (S1-S4), CaptainRichy (S1-S4), Flouzemaker (S1-S4), Fnassau (S1-S4), Sten_Stone (S1-S4), TastyBaconZ (S1-S4), trillibytes (S1-S4)
+
+**3 Seasons (9):** double0mat (S1-S3), FalingDutchman (S1-S3), Hefaistros (S1-S2,S4), KoreyKeipe (S1-S3), SILSKY (S1-S3), wer57 (S1-S3), MegaGran (S2-S4), SofaSeven (S2-S4), TheCatMurgatroyd (S2-S4)
+
+**2 Seasons (11):** ACanadianBacon (S1-S2), Dog365 (S1-S2), IoEther (S1,S3), OmniShade (S1,S3), prbaker (S1,S3), spanky196 (S1-S2), CameronJacob00 (S2-S3), Eagris (S2-S3), Kayker (S3-S4), TheSonicJoey (S3-S4), Zobymaruu (S3-S4)
+
+**1 Season (28):** Andy8399 (S1), Andyesque (S1), BigDamnArtist (S1), Blugy (S1), DiscoJessnie (S1), GapingCorn (S1), Hariboe (S1), immortalcarcass (S1), LPlateGamer (S1), Ninjasiah (S1), Ollie (S1), RatGoof11 (S1), the_digs (S1), Wagzal (S1), AkineaGames (S2), edmote60 (S2), Karabiner98 (S2), keepertim19 (S2), Plutosion (S2), Apallos (S3), ClassicChad (S3), InterstellarFish (S3), Lazmark (S3), BannedEnergy (S4), cbss (S4), HappierUpHere (S4), SoberBartender (S4), WIPACA (S4)
+
+---
+### Debutants
+
+**S1 (34):** ACanadianBacon, AmaraBella33, Andy8399, Andyesque, Banji3000, BigDamnArtist, Blugy, CaptainRichy, DiscoJessnie, Dog365, double0mat, FalingDutchman, Flouzemaker, Fnassau, GapingCorn, Hariboe, Hefaistros, immortalcarcass, IoEther, KoreyKeipe, LPlateGamer, Ninjasiah, Ollie, OmniShade, prbaker, RatGoof11, SILSKY, spanky196, Sten_Stone, TastyBaconZ, the_digs, trillibytes, Wagzal, wer57
+
+**S2 (10):** AkineaGames, CameronJacob00, Eagris, edmote60, Karabiner98, keepertim19, MegaGran, Plutosion, SofaSeven, TheCatMurgatroyd
+
+**S3 (7):** Apallos, ClassicChad, InterstellarFish, Kayker, Lazmark, TheSonicJoey, Zobymaruu
+
+**S4 (5):** BannedEnergy, cbss, HappierUpHere, SoberBartender, WIPACA
+
+---

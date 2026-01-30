@@ -1,0 +1,757 @@
+## rHermitcraft Statistics
+
+---
+### Winners
+
+**S1: Vince_M (5)**, *edang (0)*
+
+**S2: GoldenAppleGuy (0), PaleoLabs (1), Vince_M (1)**, *tegsirat (2)*
+
+**S3: Aschilon (2), Vince_M (4)**, *RavingPlatypi (1)*
+
+**S4: __Fi__ (0), kalleina (0), Regifloat (1), Staticpast (1)**
+
+**S5: lexicuhl (3)**, *__Fi__ (0)*
+
+**S6: brinkwhy (3), lexicuhl (2), Regifloat (3)**
+
+**S7: __Fi__ (0), Anorable (0), KirbyMD (0), Kyster (0)**
+
+**S8: MarcC5M (8), PhD_Phil (3)**
+
+**S9: 3Dspoders (0), Absentduck (2)**, *Aschilon (0)*
+
+**S10: lexicuhl (4)**
+
+**S11: jamertxn (5), Kyster (3)**, *GoldenAppleGuy (0)*
+
+**S12: QuilJ1 (7)**, *jamertxn (2)*
+
+**S13: 3Dspoders (0), Anorable (0), lexicuhl (3)**
+
+**S14: Kyster (2), QuilJ1 (1)**
+
+**S15: 3Dspoders (1)**, *Aschilon (0)*
+
+**S16: 78ford (1), JoshC2 (2), MistaUnicorn (2)**
+
+**S17: Mouro (4)**
+
+**S18: Slowths (2), SoulvG (4)**, *OkayPvp_YT (0)*
+
+**S19: QuilJ1 (4)**, *Nordiago (0)*
+
+**S20: MistaUnicorn (5)**
+
+**S21: Dj8ninja (3)**, *ItsABigError (0)*
+
+**S22: Dj8ninja (6), ntoskrnl (1)**, *ItsABigError (0)*
+
+**S23: a_utumnn (0), Aschilon (1), chromatickyle (1), Dj8ninja (4), GoldenAppleGuy (1)**, *bman7653 (0), ItsABigError (0)*
+
+**S24: MistaUnicorn (2), Slowths (2)**
+
+**S25: LucaSingapore (3)**, *GoldenAppleGuy (0)*
+
+**S26: Slowths (4)**
+
+**S27: Lyarrah (0), Mouro (1)**
+
+**S28: marcaron (3)**
+
+**S30: QuilJ1 (2)**
+
+---
+### Runner Ups
+
+**S1:** nihontiger (0), Vertci (0)
+
+**S2:** 78ford (0), Aschilon (0), edang (0), kalleina (0)
+
+**S3:** kalleina (0), MCSmelter (0), SkyZombie (0)
+
+**S4:** edang (0), geek_fox (2), harveyrice (0), RavingPlatypi (3)
+
+**S5:** Balone (0), marcaron (2)
+
+**S6:** Anorable (0), jamertxn (0), TheRealMrShire (0)
+
+**S7:** Absentduck (1), lexicuhl (3), MarcC5M (1), Vince_M (2)
+
+**S8:** Anorable (0), TimGB (0)
+
+**S9:** BBR_ (0), kalleina (0), MarcC5M (3)
+
+**S10:** MistaUnicorn (2)
+
+**S11:** KarmaKix (0), Nordiago (0), TheChrisD (0)
+
+**S12:** Aschilon (0), nihontiger (1)
+
+**S13:** GoldenAppleGuy (0), Kyster (0), MistaUnicorn (0)
+
+**S14:** Aschilon (1), SoulvG (0)
+
+**S15:** MistaUnicorn (3), nay1thee (0)
+
+**S16:** Aschilon (0), JadeLake (1), Lyarrah (0)
+
+**S17:** 78ford (1)
+
+**S18:** KirbyMD (0), Mouro (1), QuilJ1 (0)
+
+**S19:** BBR_ (3), W3non (2)
+
+**S20:** QuilJ1 (6)
+
+**S21:** Slowths (2), W3non (0)
+
+**S22:** Darkstorm77 (1), marcaron (4), Mouro (1)
+
+**S23:** Anorable (0), Darkstorm77 (0), DavethePie (0), Lyarrah (0), PotatofyGaming (1), QuilJ1 (1), TheHermitcraft (0)
+
+**S24:** a_utumnn (1), Darkstorm77 (2)
+
+**S25:** chromatickyle (5), Mesaswah (0)
+
+**S26:** QuilJ1 (4)
+
+**S27:** MacyTPham (0), QuilJ1 (4)
+
+**S28:** 78ford (0)
+
+**S30:** a_utumnn (1)
+
+---
+### Most Kills
+
+**S1:** Vince_M (5)
+
+**S2:** tegsirat (2)
+
+**S3:** Vince_M (4)
+
+**S4:** RavingPlatypi (3)
+
+**S5:** MarcC5M (4)
+
+**S6:** brinkwhy, JSXonovan, Regifloat (3)
+
+**S7:** Balone, jamertxn, lexicuhl (3)
+
+**S8:** MarcC5M (8)
+
+**S9:** MarcC5M (3)
+
+**S10:** lexicuhl (4)
+
+**S11:** jamertxn (5)
+
+**S12:** QuilJ1 (7)
+
+**S13:** lexicuhl (3)
+
+**S14:** JoshC2 (3)
+
+**S15:** MistaUnicorn (3)
+
+**S16:** OkayPvp_YT (3)
+
+**S17:** BBR_, Mouro (4)
+
+**S18:** SoulvG (4)
+
+**S19:** QuilJ1 (4)
+
+**S20:** QuilJ1 (6)
+
+**S21:** Dj8ninja (3)
+
+**S22:** Dj8ninja (6)
+
+**S23:** Dj8ninja (4)
+
+**S24:** PotatofyGaming (4)
+
+**S25:** chromatickyle (5)
+
+**S26:** QuilJ1, Slowths (4)
+
+**S27:** QuilJ1 (4)
+
+**S28:** marcaron (3)
+
+**S30:** QuilJ1 (2)
+
+---
+### Most Kills (Team)
+
+**S1:** Vince_M (5), edang (0)
+
+**S2:** GoldenAppleGuy (0), PaleoLabs (1), Vince_M (1), tegsirat (2)
+
+**S3:** Aschilon (2), RavingPlatypi (1), Vince_M (4)
+
+**S4:** RavingPlatypi (3), edang (0), geek_fox (2), harveyrice (0)
+
+**S5:** Anorable (0), MarcC5M (4)
+
+**S6:** Regifloat (3), brinkwhy (3), lexicuhl (2)
+
+**S7:** Absentduck (1), MarcC5M (1), Vince_M (2), lexicuhl (3)
+
+**S8:** MarcC5M (8), PhD_Phil (3)
+
+**S9:** BBR_ (0), kalleina (0), MarcC5M (3)
+
+**S10:** N/A
+
+**S11:** GoldenAppleGuy (0), jamertxn (5), Kyster (3)
+
+**S12:** QuilJ1 (7), jamertxn (2)
+
+**S13:** 3Dspoders (0), Anorable (0), lexicuhl (3)
+
+**S14:** Anorable (2), JoshC2 (3)
+
+**S15:** 78ford (1), W3non (2) & MistaUnicorn (3), nay1thee (0)
+
+**S16:** 78ford (1), JoshC2 (2), MistaUnicorn (2)
+
+**S17:** N/A
+
+**S18:** OkayPvp_YT (0), Slowths (2), SoulvG (4)
+
+**S19:** BBR_ (3), W3non (2)
+
+**S20:** N/A
+
+**S21:** Dj8ninja (3), ItsABigError (0)
+
+**S22:** Dj8ninja (6), ItsABigError (0), ntoskrnl (1)
+
+**S23:** Aschilon (1), a_utumnn (0), bman7653 (0), chromatickyle (1), Dj8ninja (4), GoldenAppleGuy (1), ItsABigError (0)
+
+**S24:** bman7653 (0), PotatofyGaming (4) & MistaUnicorn (2), Slowths (2)
+
+**S25:** chromatickyle (5), Mesaswah (0)
+
+**S26:** N/A
+
+**S27:** MacyTPham (0), QuilJ1 (4)
+
+**S28:** N/A
+
+**S30:** N/A
+
+---
+### First Damage
+
+**S1:*
+
+**S2:*
+
+**S3:** lexicuhl (0:4:27)
+
+**S4:** geek_fox (0:5:15)
+
+**S5:** Anorable (0:8:15)
+
+**S6:** GoldenAppleGuy (0:0:52)
+
+**S7:** AmbientDan (0:2:36)
+
+**S8:** GoldenAppleGuy (0:6:40)
+
+**S9:** Dj8ninja (0:2:33)
+
+**S10:** Kean900000000 (0:3:2)
+
+**S11:** GoldenAppleGuy (0:2:23)
+
+**S12:** Mouro (0:5:19)
+
+**S13:** lexicuhl (0:3:16)
+
+**S14:** Lyarrah (0:1:33)
+
+**S15:** JoshC2 (0:10:2)
+
+**S16:** JoshC2 (0:5:44)
+
+**S17:** W3non (0:4:11)
+
+**S18:** QuilJ1 (0:1:50)
+
+**S19:** ItsABigError (0:12:55)
+
+**S20:** Slowths (0:2:22)
+
+**S21:** Nordiago (0:3:20)
+
+**S22:** DavethePie (0:0:2)
+
+**S23:** DavethePie (0:0:51)
+
+**S24:** bman7653 (0:13:36)
+
+**S25:** DavethePie, MacyTPham (0:1:35)
+
+**S26:** Lyarrah (0:2:6)
+
+**S27:** Mesaswah (0:0:36)
+
+**S28:*
+
+**S30:*
+
+---
+### Ironman
+
+**S1:** RavingPlatypi
+
+**S2:** Vince_M
+
+**S3:** kalleina (2:39:5)
+
+**S4:** __Fi__
+
+**S5:** __Fi__ (2:7:35)
+
+**S6:** brinkwhy (1:16:55)
+
+**S7:** __Fi__ (2:0:58)
+
+**S8:** nihontiger (2:31:1)
+
+**S9:** kalleina (2:24:48)
+
+**S10:** BBR_ (1:47:3)
+
+**S11:** __Fi__ (1:22:6)
+
+**S12:** nihontiger (2:1:45)
+
+**S13:** Anorable (2:2:40)
+
+**S14:** Anorable (1:46:26)
+
+**S15:** jaiwi (1:46:54)
+
+**S16:** 78ford (1:51:40)
+
+**S17:** MistaUnicorn (1:53:52)
+
+**S18:** Darkstorm77 (0:58:42)
+
+**S19:** Kyster (1:40:50)
+
+**S20:*
+
+**S21:** W3non (0:39:31)
+
+**S22:*
+
+**S23:** TheHermitcraft (1:55:47)
+
+**S24:** TheHermitcraft (0:58:6)
+
+**S25:** GoldenAppleGuy (2:1:33)
+
+**S26:** TheHermitcraft (1:14:54)
+
+**S27:** Lyarrah (2:5:22)
+
+**S28:** QuilJ1
+
+**S30:*
+
+---
+### First Blood
+
+**S1:** itotallyrock (edang)
+
+**S2:** tegsirat (edang)
+
+**S3:** Aschilon (SkyZombie)
+
+**S4:** jamertxn (GoldenAppleGuy)
+
+**S5:** MarcC5M (TimGB)
+
+**S6:** JSXonovan (Puppyball)
+
+**S7:** RedstoneJunkyard (Professer_TNT)
+
+**S8:** Professer_TNT (Balone)
+
+**S9:** jamertxn (GoldenAppleGuy)
+
+**S10:** KirbyMD (Kean900000000)
+
+**S11:** Kyster (KirbyMD)
+
+**S12:** jamertxn (YDYT)
+
+**S13:** lexicuhl (78ford)
+
+**S14:** Anorable (Lyarrah)
+
+**S15:** 78ford (_Chikn_)
+
+**S16:** 78ford (ItsABigError)
+
+**S17:** SoulvG (Anorable)
+
+**S18:** BBR_ (JoshC2)
+
+**S19:** W3non (247PartyDude)
+
+**S20:** Dj8ninja (MG_Builder)
+
+**S21:** BBR_ (RK06)
+
+**S22:** chromatickyle (MG_Builder)
+
+**S23:** PotatofyGaming (ItsABigError)
+
+**S24:** SoulvG (bman7653)
+
+**S25:** DavethePie (MacyTPham)
+
+**S26:** Slowths (SoulvG)
+
+**S27:** QuilJ1 (Mesaswah)
+
+**S28:** marbou9 (bman7653)
+
+**S30:** bman7653 (Mesaswah)
+
+---
+### First Death
+
+**S1:** edang (itotallyrock)
+
+**S2:** Aschilon (Creeper)
+
+**S3:** Slimefrost (Lava)
+
+**S4:** Slimefrost (Left)
+
+**S5:** TimGB (MarcC5M)
+
+**S6:** GoldenAppleGuy (Burning)
+
+**S7:** AlphaKnight59 (Burning)
+
+**S8:** Slowths (Lava)
+
+**S9:** BBR_ (Creeper)
+
+**S10:** SONICNINJA82 (Burning)
+
+**S11:** Nordiago (Creeper)
+
+**S12:** nay1thee (Lava)
+
+**S13:** MistaUnicorn (Cave Spider)
+
+**S14:** Lyarrah (Anorable)
+
+**S15:** ItsABigError (Fall)
+
+**S16:** ItsABigError (78ford)
+
+**S17:** W3non (Skeleton)
+
+**S18:** JadeLake (Fall)
+
+**S19:** ItsABigError (Skeleton)
+
+**S20:** MG_Builder (Dj8ninja)
+
+**S21:** MG_Builder (Skeleton)
+
+**S22:** a_utumnn (Creeper)
+
+**S23:** ItsABigError (PotatofyGaming)
+
+**S24:** bman7653 (SoulvG)
+
+**S25:** Mesaswah (Lava)
+
+**S26:** popperman99 (Zombie)
+
+**S27:** MacyTPham (Zombie)
+
+**S28:** BBR_ (Zombie)
+
+**S30:** DanMetro (Fall)
+
+---
+### Kills
+
+**1st - QuilJ1 (33):** Kyster (S12), Mouro (S12), Darkstorm77 (S12), TuxedoCat721 (S12), _Soodle_ (S12), nihontiger (S12), Aschilon (S12), Aschilon (S14), JoshC2 (S15), TheHermitcraft (S15), Lyarrah (S17), ntoskrnl (S19), Aschilon (S19), W3non (S19), Nordiago (S19), Dj8ninja (S20), RK06 (S20), a_utumnn (S20), 78ford (S20), Anorable (S20), Slowths (S20), bman7653 (S23), Nordiago (S26), TheHermitcraft (S26), Lyarrah (S26), 78ford (S26), Mesaswah (S27), popperman99 (S27), TastyBaconZ (S27), TheHermitcraft (S27), a_utumnn (S28), 78ford (S30), a_utumnn (S30)
+
+**2nd - MarcC5M (16):** TimGB (S5), Vince_M (S5), edang (S5), GoldenAppleGuy (S5), RavingPlatypi (S7), Regifloat (S8), marcaron (S8), Professer_TNT (S8), Absentduck (S8), 78ford (S8), __Fi__ (S8), nihontiger (S8), Anorable (S8), BobFrapples49 (S9), Balone (S9), Aschilon (S9)
+
+**3rd - Dj8ninja (15):** MG_Builder (S20), TheHermitcraft (S20), Mouro (S21), Slowths (S21), W3non (S21), QuilJ1 (S22), Dan_i_Am_88 (S22), Plasmetallic (S22), TastyBaconZ (S22), Darkstorm77 (S22), Mouro (S22), PotatofyGaming (S23), Darkstorm77 (S23), DavethePie (S23), Lyarrah (S23)
+
+**3rd - lexicuhl (15):** Regifloat (S5), jamertxn (S5), marcaron (S5), TheRealMrShire (S6), Anorable (S6), AmbientDan (S7), PhD_Phil (S7), jamertxn (S7), Mouro (S10), BBR_ (S10), Balone (S10), MistaUnicorn (S10), 78ford (S13), Kyster (S13), GoldenAppleGuy (S13)
+
+**5th - jamertxn (14):** GoldenAppleGuy (S4), TimGB (S7), GoldenAppleGuy (S7), MarcC5M (S7), BZSTEVE (S8), kalleina (S8), GoldenAppleGuy (S9), KarmaKix (S11), Aschilon (S11), 78ford (S11), BobFrapples49 (S11), TheChrisD (S11), YDYT (S12), GoldenAppleGuy (S12)
+
+**5th - MistaUnicorn (14):** marcaron (S10), GoldenAppleGuy (S10), jaiwi (S15), Anorable (S15), QuilJ1 (S15), Anorable (S16), Aschilon (S16), Mouro (S20), JoshC2 (S20), Kyster (S20), Rover1_ (S20), QuilJ1 (S20), PotatofyGaming (S24), a_utumnn (S24)
+
+**5th - Vince_M (14):** itotallyrock (S1), Nicksantaniello2 (S1), Aschilon (S1), RavingPlatypi (S1), nihontiger (S1), 78ford (S2), ArcherOnSkis (S3), GoldenAppleGuy (S3), Nyry7899 (S3), kalleina (S3), edang (S4), Anorable (S5), Slowths (S7), RedstoneJunkyard (S7)
+
+**8th - BBR_ (12):** Aschilon (S10), jamertxn (S10), QuilJ1 (S17), JadeLake (S17), ItsABigError (S17), Autocats (S17), JoshC2 (S18), Lyarrah (S18), Anorable (S19), 78ford (S19), TheHermitcraft (S19), RK06 (S21)
+
+**9th - marcaron (11):** harveyrice (S4), __Fi__ (S5), MarcC5M (S5), TuxedoCat721 (S10), chromatickyle (S22), Kirby92 (S22), PotatofyGaming (S22), SoulvG (S22), marbou9 (S28), QuilJ1 (S28), 78ford (S28)
+
+**9th - Slowths (11):** 78ford (S18), ItsABigError (S18), GoldenAppleGuy (S20), Nordiago (S21), Aschilon (S21), RK06 (S24), Darkstorm77 (S24), SoulvG (S26), TastyBaconZ (S26), chromatickyle (S26), QuilJ1 (S26)
+
+**11th - chromatickyle (9):** MG_Builder (S22), TheHermitcraft (S23), PotatofyGaming (S25), Jahai (S25), Mouro (S25), popperman99 (S25), GoldenAppleGuy (S25), Dj8ninja (S26), PotatofyGaming (S26)
+
+**12th - Mouro (8):** jamertxn (S12), MistaUnicorn (S17), BBR_ (S17), 3Dspoders (S17), 78ford (S17), Darkstorm77 (S18), TheChrisD (S22), QuilJ1 (S27)
+
+**12th - Regifloat (8):** Acornsmasher (S3), lexicuhl (S3), RavingPlatypi (S3), jamertxn (S4), BZSTEVE (S6), marcaron (S6), MarcC5M (S6), lexicuhl (S8)
+
+**12th - SoulvG (8):** Anorable (S17), KirbyMD (S18), QuilJ1 (S18), BBR_ (S18), Mouro (S18), DavethePie (S22), Perdlo (S22), bman7653 (S24)
+
+**15th - Balone (7):** marcaron (S7), Aryya88 (S7), lexicuhl (S7), jamertxn (S9), MistaUnicorn (S9), KirbyMD (S10), Dj8ninja (S10)
+
+**15th - RavingPlatypi (7):** marcaron (S1), ArcherOnSkis (S1), MCSmelter (S3), Ethkas (S4), MarcC5M (S4), Vince_M (S4), JSXonovan (S6)
+
+**17th - Aschilon (6):** SkyZombie (S3), Regifloat (S3), W3non (S14), Autocats (S18), Autocats (S21), QuilJ1 (S23)
+
+**18th - JoshC2 (5):** Darkstorm77 (S14), SoulvG (S14), FifeM (S14), BBR_ (S16), OkayPvp_YT (S16)
+
+**18th - Kyster (5):** KirbyMD (S11), __Fi__ (S11), Mouro (S11), Anorable (S14), JoshC2 (S14)
+
+**18th - PotatofyGaming (5):** ItsABigError (S23), SoulvG (S24), TheChrisD (S24), Plasmetallic (S24), 78ford (S24)
+
+**21st - Absentduck (4):** Balone (S7), GoldenAppleGuy (S8), kalleina (S9), MarcC5M (S9)
+
+**21st - Darkstorm77 (4):** Aschilon (S18), 78ford (S22), QuilJ1 (S24), TheHermitcraft (S24)
+
+**21st - PhD_Phil (4):** Vince_M (S7), edang (S8), jamertxn (S8), TimGB (S8)
+
+**21st - Professer_TNT (4):** Balone (S8), Kyster (S8), Aschilon (S8), ArcherOnSkis (S8)
+
+**21st - W3non (4):** Bexy1 (S15), Lyarrah (S15), 247PartyDude (S19), Kyster (S19)
+
+**26th - 78ford (3):** _Chikn_ (S15), ItsABigError (S16), SoulvG (S17)
+
+**26th - brinkwhy (3):** Kyster (S6), RavingPlatypi (S6), jamertxn (S6)
+
+**26th - GoldenAppleGuy (3):** marcaron (S3), juspeczyk (S7), Anorable (S23)
+
+**26th - JSXonovan (3):** Puppyball (S6), edang (S6), Balone (S6)
+
+**26th - LucaSingapore (3):** marcaron (S25), 78ford (S25), chromatickyle (S25)
+
+**26th - OkayPvp_YT (3):** JadeLake (S16), Lyarrah (S16), Mouro (S16)
+
+**26th - TastyBaconZ (3):** Dan_i_Am_88 (S26), 78ford (S27), chromatickyle (S27)
+
+**33rd - 3Dspoders (2):** MistaUnicorn (S15), JoshC2 (S17)
+
+**33rd - a_utumnn (2):** ntoskrnl (S24), bman7653 (S30)
+
+**33rd - Anorable (2):** Lyarrah (S14), 78ford (S14)
+
+**33rd - FifeM (2):** Mezmo14 (S14), TheHermitcraft (S14)
+
+**33rd - geek_fox (2):** ArcherOnSkis (S4), marcaron (S4)
+
+**33rd - Lyarrah (2):** 78ford (S15), W3non (S15)
+
+**33rd - tegsirat (2):** edang (S2), kalleina (S2)
+
+**33rd - TheHermitcraft (2):** Felix_J (S14), Aschilon (S26)
+
+**41st - ArcherOnSkis (1):** RavingPlatypi (S4)
+
+**41st - Autocats (1):** 247PartyDude (S17)
+
+**41st - bman7653 (1):** Mesaswah (S30)
+
+**41st - DavethePie (1):** MacyTPham (S25)
+
+**41st - itotallyrock (1):** edang (S1)
+
+**41st - JadeLake (1):** SoulvG (S16)
+
+**41st - KirbyMD (1):** Kean900000000 (S10)
+
+**41st - marbou9 (1):** bman7653 (S28)
+
+**41st - nihontiger (1):** 78ford (S12)
+
+**41st - ntoskrnl (1):** marcaron (S22)
+
+**41st - PaleoLabs (1):** tegsirat (S2)
+
+**41st - RedstoneJunkyard (1):** Professer_TNT (S7)
+
+**41st - Staticpast (1):** geek_fox (S4)
+
+---
+### PvE Deaths
+
+**Creeper (11):** Aschilon (S2), GamingMes (S7), BBR_ (S9), Nordiago (S11), SoulvG (S13), TheHermitcraft (S13), QuilJ1 (S13), Aschilon (S13), SoulvG (S15), Aschilon (S15), a_utumnn (S22)
+
+**Fall (8):** Vertci (S1), AmbientDan (S6), Regifloat (S7), ItsABigError (S15), nay1thee (S15), JadeLake (S18), OkayPvp_YT (S18), DanMetro (S30)
+
+**Skeleton (6):** W3non (S17), ItsABigError (S19), MG_Builder (S21), GoldenAppleGuy (S21), ItsABigError (S22), DavethePie (S25)
+
+**Burning (5):** GoldenAppleGuy (S6), SazzernIsBad (S6), AlphaKnight59 (S7), SONICNINJA82 (S10), Rover1_ (S22)
+
+**Lava (5):** Slimefrost (S3), Slowths (S8), RavingPlatypi (S8), nay1thee (S12), Mesaswah (S25)
+
+**Zombie (5):** Mouro (S13), 78ford (S21), popperman99 (S26), MacyTPham (S27), BBR_ (S28)
+
+**Arrow (3):** Balone (S5), Absentduck (S7), Vince_M (S8)
+
+**Explosion (3):** ItsABigError (S21), SoulvG (S21), BBR_ (S21)
+
+**Suffocation (3):** YDYT (S13), W3non (S13), JoshC2 (S13)
+
+**Blaze (2):** jamertxn (S1), GoldenAppleGuy (S1)
+
+**Wither Skeleton (2):** Dj8ninja (S9), Dj8ninja (S17)
+
+**Cave Spider (1):** MistaUnicorn (S13)
+
+**Death (1):** BBR_ (S19)
+
+**Ghast (1):** edang (S3)
+
+**Left (1):** Slimefrost (S4)
+
+**Spider (1):** GoldenAppleGuy (S11)
+
+---
+### Participation
+
+**29 Seasons (0):** 
+
+**28 Seasons (0):** 
+
+**27 Seasons (0):** 
+
+**26 Seasons (0):** 
+
+**25 Seasons (0):** 
+
+**24 Seasons (0):** 
+
+**23 Seasons (0):** 
+
+**22 Seasons (0):** 
+
+**21 Seasons (0):** 
+
+**20 Seasons (1):** 78ford (S2,S8,S11-S22,S24-S30)
+
+**19 Seasons (0):** 
+
+**18 Seasons (0):** 
+
+**17 Seasons (2):** Aschilon (S1-S3,S8-S16,S18-S19,S21,S23,S26), GoldenAppleGuy (S1-S13,S20-S21,S23,S25)
+
+**16 Seasons (0):** 
+
+**15 Seasons (1):** QuilJ1 (S12-S15,S17-S20,S22-S24,S26-S30)
+
+**14 Seasons (0):** 
+
+**13 Seasons (0):** 
+
+**12 Seasons (2):** Anorable (S5-S8,S13-S17,S19-S20,S23), Mouro (S10-S13,S16-S18,S20-S22,S25,S27)
+
+**11 Seasons (1):** marcaron (S1,S3-S8,S10,S22,S25,S28)
+
+**10 Seasons (2):** jamertxn (S1,S4-S12), SoulvG (S13-S18,S21-S22,S24,S26)
+
+**9 Seasons (2):** Kyster (S6-S8,S11-S14,S19-S20), TheHermitcraft (S13-S15,S19-S20,S23-S24,S26-S27)
+
+**8 Seasons (5):** BBR_ (S9-S10,S16-S19,S21,S28), Dj8ninja (S9-S10,S17,S20-S23,S26), MistaUnicorn (S9-S10,S13,S15-S17,S20,S24), Lyarrah (S14-S18,S23,S26-S27), ItsABigError (S15-S19,S21-S23)
+
+**7 Seasons (5):** edang (S1-S6,S8), Vince_M (S1-S5,S7-S8), lexicuhl (S3,S5-S8,S10,S13), Slowths (S7-S8,S18,S20-S21,S24,S26), JoshC2 (S13-S18,S20)
+
+**6 Seasons (7):** RavingPlatypi (S1,S3-S4,S6-S8), Regifloat (S3-S8), MarcC5M (S4-S9), Balone (S5-S10), Darkstorm77 (S12,S14,S18,S22-S24), W3non (S13-S15,S17,S19,S21), a_utumnn (S20,S22-S24,S28-S30)
+
+**5 Seasons (4):** kalleina (S2-S4,S8-S9), __Fi__ (S4-S5,S7-S8,S11), chromatickyle (S22-S23,S25-S27), PotatofyGaming (S22-S26)
+
+**4 Seasons (5):** ArcherOnSkis (S1,S3-S4,S8), KirbyMD (S7,S10-S11,S18), 3Dspoders (S9,S13,S15,S17), Nordiago (S11,S19,S21,S26), bman7653 (S23-S24,S28-S30)
+
+**3 Seasons (13):** nihontiger (S1,S8,S12), TimGB (S5,S7-S8), Absentduck (S7-S9), TheChrisD (S11,S22,S24), JadeLake (S16-S18), Autocats (S17-S18,S21), ntoskrnl (S19,S22,S24), MG_Builder (S20-S22), RK06 (S20-S21,S24), DavethePie (S22-S23,S25), TastyBaconZ (S22,S26-S27), Mesaswah (S25,S27,S30), popperman99 (S25-S27)
+
+**2 Seasons (15):** Slimefrost (S3-S4), AmbientDan (S6-S7), BZSTEVE (S6,S8), PhD_Phil (S7-S8), Professer_TNT (S7-S8), BobFrapples49 (S9,S11), TuxedoCat721 (S10,S12), nay1thee (S12,S15), YDYT (S12-S13), OkayPvp_YT (S16,S18), 247PartyDude (S17,S19), Rover1_ (S20,S22), Dan_i_Am_88 (S22,S26), Plasmetallic (S22,S24), MacyTPham (S25,S27)
+
+**1 Season (39):** itotallyrock (S1), Nicksantaniello2 (S1), Vertci (S1), PaleoLabs (S2), tegsirat (S2), Acornsmasher (S3), MCSmelter (S3), Nyry7899 (S3), SkyZombie (S3), Ethkas (S4), geek_fox (S4), harveyrice (S4), Staticpast (S4), brinkwhy (S6), JSXonovan (S6), Puppyball (S6), SazzernIsBad (S6), TheRealMrShire (S6), AlphaKnight59 (S7), Aryya88 (S7), GamingMes (S7), juspeczyk (S7), RedstoneJunkyard (S7), Kean900000000 (S10), SONICNINJA82 (S10), KarmaKix (S11), _Soodle_ (S12), Felix_J (S14), FifeM (S14), Mezmo14 (S14), _Chikn_ (S15), Bexy1 (S15), jaiwi (S15), Kirby92 (S22), Perdlo (S22), Jahai (S25), LucaSingapore (S25), marbou9 (S28), DanMetro (S30)
+
+---
+### Debutants
+
+**S1 (12):** ArcherOnSkis, Aschilon, edang, GoldenAppleGuy, itotallyrock, jamertxn, marcaron, Nicksantaniello2, nihontiger, RavingPlatypi, Vertci, Vince_M
+
+**S2 (4):** 78ford, kalleina, PaleoLabs, tegsirat
+
+**S3 (7):** Acornsmasher, lexicuhl, MCSmelter, Nyry7899, Regifloat, SkyZombie, Slimefrost
+
+**S4 (6):** __Fi__, Ethkas, geek_fox, harveyrice, MarcC5M, Staticpast
+
+**S5 (3):** Anorable, Balone, TimGB
+
+**S6 (8):** AmbientDan, brinkwhy, BZSTEVE, JSXonovan, Kyster, Puppyball, SazzernIsBad, TheRealMrShire
+
+**S7 (10):** Absentduck, AlphaKnight59, Aryya88, GamingMes, juspeczyk, KirbyMD, PhD_Phil, Professer_TNT, RedstoneJunkyard, Slowths
+
+**S8 (0):** 
+
+**S9 (5):** 3Dspoders, BBR_, BobFrapples49, Dj8ninja, MistaUnicorn
+
+**S10 (4):** Kean900000000, Mouro, SONICNINJA82, TuxedoCat721
+
+**S11 (3):** KarmaKix, Nordiago, TheChrisD
+
+**S12 (5):** _Soodle_, Darkstorm77, nay1thee, QuilJ1, YDYT
+
+**S13 (4):** JoshC2, SoulvG, TheHermitcraft, W3non
+
+**S14 (4):** Felix_J, FifeM, Lyarrah, Mezmo14
+
+**S15 (4):** _Chikn_, Bexy1, ItsABigError, jaiwi
+
+**S16 (2):** JadeLake, OkayPvp_YT
+
+**S17 (2):** 247PartyDude, Autocats
+
+**S18 (0):** 
+
+**S19 (1):** ntoskrnl
+
+**S20 (4):** a_utumnn, MG_Builder, RK06, Rover1_
+
+**S21 (0):** 
+
+**S22 (8):** chromatickyle, Dan_i_Am_88, DavethePie, Kirby92, Perdlo, Plasmetallic, PotatofyGaming, TastyBaconZ
+
+**S23 (1):** bman7653
+
+**S24 (0):** 
+
+**S25 (5):** Jahai, LucaSingapore, MacyTPham, Mesaswah, popperman99
+
+**S26 (0):** 
+
+**S27 (0):** 
+
+**S28 (1):** marbou9
+
+**S30 (1):** DanMetro
+
+---

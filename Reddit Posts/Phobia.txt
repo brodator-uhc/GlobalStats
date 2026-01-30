@@ -57,6 +57,8 @@
 
 **S27: fruitlogic (3), Pehnk (2)**, *Zevulpes (1)*
 
+**S28: Bobbytheturtle (13)**, *Brodator (2)*
+
 ---
 ### Runner Ups
 
@@ -113,6 +115,8 @@
 **S26:** 5hup (1), Brodator (1), DancersTalon (0), Exee (0)
 
 **S27:** Brodator (2), Maxwellfifty (3), starlxghtmoon (0)
+
+**S28:** MercuryParadox (2), Nintendoshi (1)
 
 ---
 ### Most Kills
@@ -171,6 +175,8 @@
 
 **S27:** Bobbytheturtle (4)
 
+**S28:** Bobbytheturtle (13)
+
 ---
 ### Most Kills (Team)
 
@@ -227,6 +233,8 @@
 **S26:** fruitlogic (5), Maxwellfifty (4), Micale (1), starlxghtmoon (0)
 
 **S27:** Bobbytheturtle (4), Kidfo (3), Mjora (1)
+
+**S28:** Brodator (2), Bobbytheturtle (13)
 
 ---
 ### First Damage
@@ -285,6 +293,8 @@
 
 **S27:** Kidfo (0:0:12)
 
+**S28:** Gorgerous (0:2:51)
+
 ---
 ### Ironman
 
@@ -341,6 +351,8 @@
 **S26:** fruitlogic (1:44:0)
 
 **S27:** I_is_cheesecake (1:36:13)
+
+**S28:** MercuryParadox (1:29:21)
 
 ---
 ### First Blood
@@ -399,6 +411,8 @@
 
 **S27:** Maxwellfifty (marcaron)
 
+**S28:** Nintendoshi (TheRealHagrid)
+
 ---
 ### First Death
 
@@ -456,6 +470,8 @@
 
 **S27:** DancersTalon (Enderman)
 
+**S28:** wibbol (Iron Golem)
+
 ---
 ### Kills
 
@@ -467,206 +483,236 @@
 
 **4th - BBR_ (20):** Bergasms (S10), jamertxn (S10), LongaVita (S15), NTBama (S15), Cyonal (S15), Ninjajaja (S15), Micale (S15), Ninjajaja (S17), Bacan (S17), Cyonal (S18), ShutUpBrick (S18), Emerric (S18), KatyLawson (S19), ShutUpBrick (S19), brodioh (S19), I_is_cheesecake (S19), Bacan (S19), Brodator (S19), Bacan (S23), MarcC5M (S24)
 
-**5th - Brodator (18):** MistaUnicorn (S17), ToucanTom (S18), SidGarcia (S18), Maxwellfifty (S19), MeadowMoos (S22), Cyonal (S23), Emerric (S23), oworca (S23), Greeples (S23), KatyLawson (S24), buttergolem1 (S24), brodioh (S24), Cyonal (S24), 5hup (S24), Micale (S24), Chasmic (S26), Jakekub (S27), MeadowMoos (S27)
+**4th - Brodator (20):** MistaUnicorn (S17), ToucanTom (S18), SidGarcia (S18), Maxwellfifty (S19), MeadowMoos (S22), Cyonal (S23), Emerric (S23), oworca (S23), Greeples (S23), KatyLawson (S24), buttergolem1 (S24), brodioh (S24), Cyonal (S24), 5hup (S24), Micale (S24), Chasmic (S26), Jakekub (S27), MeadowMoos (S27), Fourbitplayer (S28), tagggz (S28)
 
-**5th - oworca (18):** Fairyjuice (S2), DarkCrystalFlame (S7), TicedUp (S7), Fairyjuice (S8), MarcC5M (S8), Balone (S9), Regifloat (S9), AndrizzlePC (S9), TommySuX (S10), ShutUpBrick (S11), TicedUp (S11), Timonscholte (S12), jamertxn (S13), Cyonal (S13), DianaB (S15), MrCraftinator (S17), DarkCrystalFlame (S20), Havenhand (S23)
+**6th - Maxwellfifty (18):** 5hup (S19), SimplySam (S22), 5hup (S22), Bacan (S22), H_L_llama (S23), 5hup (S23), Bacan (S24), Chasmic (S24), Brodator (S24), Mjora (S26), 5hup (S26), ColdBac (S26), Brodator (S26), marcaron (S27), buttergolem1 (S27), Bobbytheturtle (S27), Exee (S28), Nintendoshi (S28)
 
-**5th - TicedUp (18):** ScottishNutcase (S3), ColdFusion5 (S3), Snuggelz007 (S3), boyceterous (S3), DarkCrystalFlame (S4), Snuggelz007 (S4), MrTeamRaven (S4), MPMG (S4), EighteenQs (S5), beastboyrolf (S5), Snuggelz007 (S5), MarcC5M (S5), oworca (S7), _Frankie (S16), Kieranborn (S16), TommySuX (S16), Marky_Ross (S25), Brodator (S25)
+**6th - oworca (18):** Fairyjuice (S2), DarkCrystalFlame (S7), TicedUp (S7), Fairyjuice (S8), MarcC5M (S8), Balone (S9), Regifloat (S9), AndrizzlePC (S9), TommySuX (S10), ShutUpBrick (S11), TicedUp (S11), Timonscholte (S12), jamertxn (S13), Cyonal (S13), DianaB (S15), MrCraftinator (S17), DarkCrystalFlame (S20), Havenhand (S23)
 
-**5th - TommySuX (18):** AndrizzlePC (S4), scriblur (S6), Kakintse (S7), AndrizzlePC (S7), scriblur (S9), MrCraftinator (S9), KirbyMD (S9), ThePeridotKnight (S11), LongaVita (S12), Cyonal (S12), jamertxn (S12), scriblur (S12), LeonTG (S12), Micale (S16), Regifloat (S16), VeniiiD (S16), TastyBaconZ (S22), Regifloat (S24)
+**6th - TicedUp (18):** ScottishNutcase (S3), ColdFusion5 (S3), Snuggelz007 (S3), boyceterous (S3), DarkCrystalFlame (S4), Snuggelz007 (S4), MrTeamRaven (S4), MPMG (S4), EighteenQs (S5), beastboyrolf (S5), Snuggelz007 (S5), MarcC5M (S5), oworca (S7), _Frankie (S16), Kieranborn (S16), TommySuX (S16), Marky_Ross (S25), Brodator (S25)
 
-**9th - 5kylord (16):** Regifloat (S12), DianaB (S13), oworca (S13), MarcC5M (S13), Flouzemaker (S13), MrCraftinator (S14), oworca (S15), Cyonal (S16), Chasmic (S18), buttergolem1 (S18), Micale (S18), ColdBac (S18), Frostbreath (S18), Bergasms (S19), OddBaller (S19), Pehnk (S25)
+**6th - TommySuX (18):** AndrizzlePC (S4), scriblur (S6), Kakintse (S7), AndrizzlePC (S7), scriblur (S9), MrCraftinator (S9), KirbyMD (S9), ThePeridotKnight (S11), LongaVita (S12), Cyonal (S12), jamertxn (S12), scriblur (S12), LeonTG (S12), Micale (S16), Regifloat (S16), VeniiiD (S16), TastyBaconZ (S22), Regifloat (S24)
 
-**9th - Maxwellfifty (16):** 5hup (S19), SimplySam (S22), 5hup (S22), Bacan (S22), H_L_llama (S23), 5hup (S23), Bacan (S24), Chasmic (S24), Brodator (S24), Mjora (S26), 5hup (S26), ColdBac (S26), Brodator (S26), marcaron (S27), buttergolem1 (S27), Bobbytheturtle (S27)
+**10th - Bobbytheturtle (17):** 5hup (S27), SpaceFenix (S27), Greeples (S27), TastyBaconZ (S27), Hoppy (S28), MaxEvasion (S28), buttergolem1 (S28), ShootingGoats (S28), cherryblawsom (S28), centraleric (S28), WackoFlipper (S28), Havenhand (S28), TheKevGuy (S28), Maxwellfifty (S28), MarcC5M (S28), SpaceFenix (S28), MercuryParadox (S28)
 
-**11th - Havenhand (15):** Emerric (S21), I_is_cheesecake (S21), MeadowMoos (S21), Greeples (S21), KatyLawson (S22), I_is_cheesecake (S23), ShutUpBrick (S23), VintageBeef (S23), MarcC5M (S23), Jakekub (S24), DianaB (S24), Heralen (S25), Bacan (S25), fruitlogic (S25), Kubaslov (S25)
+**11th - 5kylord (16):** Regifloat (S12), DianaB (S13), oworca (S13), MarcC5M (S13), Flouzemaker (S13), MrCraftinator (S14), oworca (S15), Cyonal (S16), Chasmic (S18), buttergolem1 (S18), Micale (S18), ColdBac (S18), Frostbreath (S18), Bergasms (S19), OddBaller (S19), Pehnk (S25)
 
-**11th - MarcC5M (15):** boyceterous (S1), MrTeamRaven (S1), Marky_Ross (S4), EighteenQs (S4), boyceterous (S4), Scott_XD (S8), jamertxn (S11), DarkCrystalFlame (S11), Chasmic (S12), Chasmic (S17), TastyBaconZ (S18), Emerric (S20), MeadowMoos (S25), DancersTalon (S26), 5kylord (S26)
+**11th - MarcC5M (16):** boyceterous (S1), MrTeamRaven (S1), Marky_Ross (S4), EighteenQs (S4), boyceterous (S4), Scott_XD (S8), jamertxn (S11), DarkCrystalFlame (S11), Chasmic (S12), Chasmic (S17), TastyBaconZ (S18), Emerric (S20), MeadowMoos (S25), DancersTalon (S26), 5kylord (S26), Pehnk (S28)
 
-**13th - ColdBac (13):** Brodator (S18), oworca (S18), Greeples (S20), jamertxn (S22), Flouzemaker (S22), ShyGus (S23), Chasmic (S23), fruitlogic (S23), buttergolem1 (S25), Exee (S25), Jakekub (S25), Micale (S27), ToucanTom (S27)
+**13th - Havenhand (15):** Emerric (S21), I_is_cheesecake (S21), MeadowMoos (S21), Greeples (S21), KatyLawson (S22), I_is_cheesecake (S23), ShutUpBrick (S23), VintageBeef (S23), MarcC5M (S23), Jakekub (S24), DianaB (S24), Heralen (S25), Bacan (S25), fruitlogic (S25), Kubaslov (S25)
 
-**13th - I_is_cheesecake (13):** MarcC5M (S19), Havenhand (S19), 5kylord (S19), rippersteveM5 (S21), Flouzemaker (S21), Marky_Ross (S21), BSBrent (S21), Chasmic (S21), Micale (S22), Jakekub (S23), BSBrent (S24), ShyGus (S24), DianaB (S27)
+**14th - ColdBac (13):** Brodator (S18), oworca (S18), Greeples (S20), jamertxn (S22), Flouzemaker (S22), ShyGus (S23), Chasmic (S23), fruitlogic (S23), buttergolem1 (S25), Exee (S25), Jakekub (S25), Micale (S27), ToucanTom (S27)
 
-**13th - Jakekub (13):** Greeples (S17), BBR_ (S17), AndrizzlePC (S17), Emerric (S17), QuilJ1 (S20), KirbyMD (S20), BreakSalad (S20), SidGarcia (S22), buttergolem1 (S22), Rohcket (S25), brodioh (S25), Jahrod (S26), buttergolem1 (S26)
+**14th - I_is_cheesecake (13):** MarcC5M (S19), Havenhand (S19), 5kylord (S19), rippersteveM5 (S21), Flouzemaker (S21), Marky_Ross (S21), BSBrent (S21), Chasmic (S21), Micale (S22), Jakekub (S23), BSBrent (S24), ShyGus (S24), DianaB (S27)
 
-**16th - fruitlogic (12):** 5kylord (S23), Chasmic (S25), Micale (S25), 5kylord (S25), Rohcket (S26), Havenhand (S26), Emerric (S26), Exee (S26), PhenomCloud (S26), starlxghtmoon (S27), Brodator (S27), Chasmic (S27)
+**14th - Jakekub (13):** Greeples (S17), BBR_ (S17), AndrizzlePC (S17), Emerric (S17), QuilJ1 (S20), KirbyMD (S20), BreakSalad (S20), SidGarcia (S22), buttergolem1 (S22), Rohcket (S25), brodioh (S25), Jahrod (S26), buttergolem1 (S26)
 
-**17th - PhenomCloud (11):** VeniiiD (S15), AvaCos (S15), Chasmic (S15), BBR_ (S15), TastyBaconZ (S15), Flouzemaker (S15), Regifloat (S15), rippersteveM5 (S15), 5kylord (S15), MarcC5M (S26), Jakekub (S26)
+**17th - fruitlogic (12):** 5kylord (S23), Chasmic (S25), Micale (S25), 5kylord (S25), Rohcket (S26), Havenhand (S26), Emerric (S26), Exee (S26), PhenomCloud (S26), starlxghtmoon (S27), Brodator (S27), Chasmic (S27)
 
-**17th - ToucanTom (11):** LordLaelaps (S20), OddBaller (S20), VeniiiD (S20), Mop19 (S20), KatyLawson (S21), Flohp (S25), Zarky (S25), brodioh (S26), starlxghtmoon (S26), brodioh (S27), ShootingGoats (S27)
+**18th - PhenomCloud (11):** VeniiiD (S15), AvaCos (S15), Chasmic (S15), BBR_ (S15), TastyBaconZ (S15), Flouzemaker (S15), Regifloat (S15), rippersteveM5 (S15), 5kylord (S15), MarcC5M (S26), Jakekub (S26)
 
-**19th - Bacan (10):** rippersteveM5 (S19), ColdBac (S22), VintageBeef (S22), TommySuX (S22), Cyonal (S22), TastyBaconZ (S23), BBR_ (S25), Emerric (S25), BJPlays (S25), MarcC5M (S25)
+**18th - ToucanTom (11):** LordLaelaps (S20), OddBaller (S20), VeniiiD (S20), Mop19 (S20), KatyLawson (S21), Flohp (S25), Zarky (S25), brodioh (S26), starlxghtmoon (S26), brodioh (S27), ShootingGoats (S27)
 
-**20th - Chasmic (9):** scriblur (S11), oworca (S11), Fairyjuice (S11), DianaB (S17), KatyLawson (S18), Regifloat (S21), Micale (S23), SidGarcia (S23), I_is_cheesecake (S27)
+**20th - Bacan (10):** rippersteveM5 (S19), ColdBac (S22), VintageBeef (S22), TommySuX (S22), Cyonal (S22), TastyBaconZ (S23), BBR_ (S25), Emerric (S25), BJPlays (S25), MarcC5M (S25)
 
-**21st - 5hup (8):** Cyonal (S19), Greeples (S19), ElGavinoSupremo (S21), Havenhand (S21), Micale (S21), BSBrent (S23), BBR_ (S23), ShyGus (S26)
+**21st - Chasmic (9):** scriblur (S11), oworca (S11), Fairyjuice (S11), DianaB (S17), KatyLawson (S18), Regifloat (S21), Micale (S23), SidGarcia (S23), I_is_cheesecake (S27)
 
-**21st - Fukano (8):** Micale (S9), Fairyjuice (S9), MarcC5M (S11), Flouzemaker (S11), CMattznes (S11), LeonTG (S11), oworca (S12), BBR_ (S12)
+**22nd - 5hup (8):** Cyonal (S19), Greeples (S19), ElGavinoSupremo (S21), Havenhand (S21), Micale (S21), BSBrent (S23), BBR_ (S23), ShyGus (S26)
 
-**21st - Jahrod (8):** NTBama (S22), Jakekub (S22), Flouzemaker (S24), Marky_Ross (S24), Emerric (S24), ShyGus (S25), Zevulpes (S25), ShutUpBrick (S25)
+**22nd - Fukano (8):** Micale (S9), Fairyjuice (S9), MarcC5M (S11), Flouzemaker (S11), CMattznes (S11), LeonTG (S11), oworca (S12), BBR_ (S12)
 
-**21st - NTBama (8):** MarcC5M (S17), scriblur (S17), Flouzemaker (S17), Jakekub (S17), oworca (S17), BBR_ (S22), Kubaslov (S23), Maxwellfifty (S23)
+**22nd - Jahrod (8):** NTBama (S22), Jakekub (S22), Flouzemaker (S24), Marky_Ross (S24), Emerric (S24), ShyGus (S25), Zevulpes (S25), ShutUpBrick (S25)
 
-**21st - Shortgamer (8):** ColdFusion5 (S2), Pippiter (S2), ShutUpBrick (S2), GeistBuster7 (S2), VeniiiD (S3), MrTeamRaven (S10), BJPlays (S10), Kassiie (S10)
+**22nd - NTBama (8):** MarcC5M (S17), scriblur (S17), Flouzemaker (S17), Jakekub (S17), oworca (S17), BBR_ (S22), Kubaslov (S23), Maxwellfifty (S23)
 
-**26th - buttergolem1 (7):** Regifloat (S18), ToucanTom (S19), wibbol (S20), Kubaslov (S22), TastyBaconZ (S24), Kidfo (S27), Mjora (S27)
+**22nd - Shortgamer (8):** ColdFusion5 (S2), Pippiter (S2), ShutUpBrick (S2), GeistBuster7 (S2), VeniiiD (S3), MrTeamRaven (S10), BJPlays (S10), Kassiie (S10)
 
-**26th - GeistBuster7 (7):** Bergasms (S2), EirenePneuma (S2), Marky_Ross (S3), GlitchyRainbow (S4), Bergasms (S4), MarcC5M (S4), MPMG (S5)
+**27th - buttergolem1 (7):** Regifloat (S18), ToucanTom (S19), wibbol (S20), Kubaslov (S22), TastyBaconZ (S24), Kidfo (S27), Mjora (S27)
 
-**26th - Kubaslov (7):** buttergolem1 (S21), ShyGus (S22), SimplySam (S23), ToucanTom (S25), Regifloat (S25), ColdBac (S25), Jahrod (S25)
+**27th - GeistBuster7 (7):** Bergasms (S2), EirenePneuma (S2), Marky_Ross (S3), GlitchyRainbow (S4), Bergasms (S4), MarcC5M (S4), MPMG (S5)
 
-**26th - scriblur (7):** Pippiter (S1), Belrus (S1), Doornbread (S1), ShutUpBrick (S3), MarcC5M (S3), bytexal (S7), BJPlays (S15)
+**27th - Kubaslov (7):** buttergolem1 (S21), ShyGus (S22), SimplySam (S23), ToucanTom (S25), Regifloat (S25), ColdBac (S25), Jahrod (S25)
 
-**26th - VeniiiD (7):** ScottishNutcase (S2), MPMG (S3), Kassiie (S8), Fairyjuice (S12), KirbyMD (S12), KatyLawson (S15), Kassiie (S16)
+**27th - scriblur (7):** Pippiter (S1), Belrus (S1), Doornbread (S1), ShutUpBrick (S3), MarcC5M (S3), bytexal (S7), BJPlays (S15)
 
-**31st - AndrizzlePC (6):** Doornbread (S5), NTBama (S5), MrTeamRaven (S6), Scott_XD (S6), VeniiiD (S9), LongaVita (S10)
+**27th - VeniiiD (7):** ScottishNutcase (S2), MPMG (S3), Kassiie (S8), Fairyjuice (S12), KirbyMD (S12), KatyLawson (S15), Kassiie (S16)
 
-**31st - brodioh (6):** wibbol (S18), Greeples (S18), Timonscholte (S19), joeykin (S20), KatyLawson (S25), Kubaslov (S26)
+**32nd - AndrizzlePC (6):** Doornbread (S5), NTBama (S5), MrTeamRaven (S6), Scott_XD (S6), VeniiiD (S9), LongaVita (S10)
 
-**31st - BSBrent (6):** Cyonal (S21), Maxwellfifty (S21), ColdBac (S21), MrTeamRaven (S22), Zevulpes (S22), Jahrod (S22)
+**32nd - brodioh (6):** wibbol (S18), Greeples (S18), Timonscholte (S19), joeykin (S20), KatyLawson (S25), Kubaslov (S26)
 
-**31st - Kassiie (6):** AndrizzlePC (S8), VeniiiD (S8), Frostbreath (S9), Shortgamer (S10), Balone (S11), Frostbreath (S11)
+**32nd - BSBrent (6):** Cyonal (S21), Maxwellfifty (S21), ColdBac (S21), MrTeamRaven (S22), Zevulpes (S22), Jahrod (S22)
 
-**31st - MrTeamRaven (6):** ShutUpBrick (S1), Marky_Ross (S1), beastboyrolf (S1), Fairyjuice (S4), pigghetti (S20), Cyonal (S20)
+**32nd - Kassiie (6):** AndrizzlePC (S8), VeniiiD (S8), Frostbreath (S9), Shortgamer (S10), Balone (S11), Frostbreath (S11)
 
-**36th - boyceterous (5):** MaltoseMatt (S1), Fairyjuice (S3), ShutUpBrick (S4), TommySuX (S4), TicedUp (S4)
+**32nd - MrTeamRaven (6):** ShutUpBrick (S1), Marky_Ross (S1), beastboyrolf (S1), Fairyjuice (S4), pigghetti (S20), Cyonal (S20)
 
-**36th - Dylarno (5):** VeniiiD (S6), DarkCrystalFlame (S6), AndrizzlePC (S6), Mentally (S6), Scott_XD (S7)
+**37th - boyceterous (5):** MaltoseMatt (S1), Fairyjuice (S3), ShutUpBrick (S4), TommySuX (S4), TicedUp (S4)
 
-**36th - Emerric (5):** ToucanTom (S16), 5kylord (S16), Brodator (S17), BBR_ (S18), Regifloat (S20)
+**37th - Dylarno (5):** VeniiiD (S6), DarkCrystalFlame (S6), AndrizzlePC (S6), Mentally (S6), Scott_XD (S7)
 
-**36th - Greeples (5):** NTBama (S14), TastyBaconZ (S14), dnnyys (S15), ThePeridotKnight (S23), MeadowMoos (S24)
+**37th - Emerric (5):** ToucanTom (S16), 5kylord (S16), Brodator (S17), BBR_ (S18), Regifloat (S20)
 
-**36th - OblivionTU (5):** Micale (S17), AvaCos (S17), 5kylord (S17), ToucanTom (S17), wibbol (S22)
+**37th - Flouzemaker (5):** BBR_ (S11), Chasmic (S11), Frostbreath (S12), VeniiiD (S12), firefoxvulpix (S28)
 
-**36th - Regifloat (5):** scriblur (S8), MarcC5M (S12), Chasmic (S14), Greeples (S15), TastyBaconZ (S19)
+**37th - Greeples (5):** NTBama (S14), TastyBaconZ (S14), dnnyys (S15), ThePeridotKnight (S23), MeadowMoos (S24)
 
-**36th - ShyGus (5):** Kidfo (S22), OblivionTU (S22), Chasmic (S22), jamertxn (S23), MeadowMoos (S23)
+**37th - OblivionTU (5):** Micale (S17), AvaCos (S17), 5kylord (S17), ToucanTom (S17), wibbol (S22)
 
-**43rd - Bobbytheturtle (4):** 5hup (S27), SpaceFenix (S27), Greeples (S27), TastyBaconZ (S27)
+**37th - pigghetti (5):** Micale (S20), MajorWoof (S28), Kubaslov (S28), YellowVitt (S28), KOKeowner (S28)
 
-**43rd - Fairyjuice (4):** MarcC5M (S2), oworca (S2), TicedUp (S8), Bergasms (S13)
+**37th - Regifloat (5):** scriblur (S8), MarcC5M (S12), Chasmic (S14), Greeples (S15), TastyBaconZ (S19)
 
-**43rd - Flouzemaker (4):** BBR_ (S11), Chasmic (S11), Frostbreath (S12), VeniiiD (S12)
+**37th - ShyGus (5):** Kidfo (S22), OblivionTU (S22), Chasmic (S22), jamertxn (S23), MeadowMoos (S23)
 
-**43rd - KirbyMD (4):** Snuggelz007 (S9), ScottishNutcase (S10), GlitchyRainbow (S10), Fairyjuice (S20)
+**46th - Fairyjuice (4):** MarcC5M (S2), oworca (S2), TicedUp (S8), Bergasms (S13)
 
-**43rd - MeadowMoos (4):** TastyBaconZ (S21), Kubaslov (S21), 5kylord (S21), ColdBac (S27)
+**46th - KirbyMD (4):** Snuggelz007 (S9), ScottishNutcase (S10), GlitchyRainbow (S10), Fairyjuice (S20)
 
-**43rd - Pehnk (4):** Mjora (S25), TicedUp (S25), AvaCos (S27), Maxwellfifty (S27)
+**46th - KOKeowner (4):** Jakekub (S20), Ratchet6859 (S20), TheSonicJoey (S20), Jahrod (S28)
 
-**43rd - wibbol (4):** PhenomCloud (S19), Jahrod (S23), NTBama (S23), Brodator (S23)
+**46th - MeadowMoos (4):** TastyBaconZ (S21), Kubaslov (S21), 5kylord (S21), ColdBac (S27)
 
-**50th - Bergasms (3):** scriblur (S3), GlitchyRainbow (S3), Fukano (S10)
+**46th - Pehnk (4):** Mjora (S25), TicedUp (S25), AvaCos (S27), Maxwellfifty (S27)
 
-**50th - Cyonal (3):** Timonscholte (S14), wibbol (S17), H_L_llama (S22)
+**46th - wibbol (4):** PhenomCloud (S19), Jahrod (S23), NTBama (S23), Brodator (S23)
 
-**50th - Exee (3):** Greeples (S25), oworca (S25), rippersteveM5 (S25)
+**52nd - Bergasms (3):** scriblur (S3), GlitchyRainbow (S3), Fukano (S10)
 
-**50th - joeykin (3):** sonmica (S20), BJPlays (S20), brodioh (S20)
+**52nd - Cyonal (3):** Timonscholte (S14), wibbol (S17), H_L_llama (S22)
 
-**50th - Kidfo (3):** wibbol (S27), Zevulpes (S27), Kubaslov (S27)
+**52nd - DJoee (3):** Greeples (S28), fruitlogic (S28), Brodator (S28)
 
-**50th - KOKeowner (3):** Jakekub (S20), Ratchet6859 (S20), TheSonicJoey (S20)
+**52nd - Exee (3):** Greeples (S25), oworca (S25), rippersteveM5 (S25)
 
-**50th - KTRBoT (3):** BBR_ (S10), VeniiiD (S10), Balone (S10)
+**52nd - joeykin (3):** sonmica (S20), BJPlays (S20), brodioh (S20)
 
-**50th - Mentally (3):** Mjora (S6), ScottishNutcase (S6), GlitchyRainbow (S6)
+**52nd - Kidfo (3):** wibbol (S27), Zevulpes (S27), Kubaslov (S27)
 
-**50th - Mjora (3):** Fukano (S8), Micale (S26), jamertxn (S27)
+**52nd - KTRBoT (3):** BBR_ (S10), VeniiiD (S10), Balone (S10)
 
-**50th - Scott_XD (3):** oworca (S6), Regifloat (S8), Shadowlego (S8)
+**52nd - Mentally (3):** Mjora (S6), ScottishNutcase (S6), GlitchyRainbow (S6)
 
-**50th - SimplySam (3):** Jahrod (S21), Brodator (S22), AvaCos (S22)
+**52nd - Mjora (3):** Fukano (S8), Micale (S26), jamertxn (S27)
 
-**61st - Balone (2):** Chasmic (S10), KirbyMD (S11)
+**52nd - Scott_XD (3):** oworca (S6), Regifloat (S8), Shadowlego (S8)
 
-**61st - CMattznes (2):** TommySuX (S11), Kassiie (S11)
+**52nd - SimplySam (3):** Jahrod (S21), Brodator (S22), AvaCos (S22)
 
-**61st - DianaB (2):** Emerric (S14), TommySuX (S24)
+**52nd - SpaceFenix (3):** DancersTalon (S28), JaeHasNoMaidens (S28), Gorgerous (S28)
 
-**61st - GlitchyRainbow (2):** Bergasms (S3), ShutUpBrick (S6)
+**64th - Balone (2):** Chasmic (S10), KirbyMD (S11)
 
-**61st - kloosman (2):** wibbol (S16), Bacan (S16)
+**64th - CMattznes (2):** TommySuX (S11), Kassiie (S11)
 
-**61st - LeonTG (2):** OblivionTU (S11), Micale (S11)
+**64th - DianaB (2):** Emerric (S14), TommySuX (S24)
 
-**61st - MPMG (2):** oworca (S4), GeistBuster7 (S5)
+**64th - GlitchyRainbow (2):** Bergasms (S3), ShutUpBrick (S6)
 
-**61st - MrCraftinator (2):** ShutUpBrick (S9), ShutUpBrick (S14)
+**64th - kloosman (2):** wibbol (S16), Bacan (S16)
 
-**61st - Pippiter (2):** Shortgamer (S1), VeniiiD (S2)
+**64th - LeonTG (2):** OblivionTU (S11), Micale (S11)
 
-**61st - silverteeth (2):** Brodator (S20), ColdBac (S20)
+**64th - MercuryParadox (2):** ChainingVermin2 (S28), pigghetti (S28)
 
-**61st - Snuggelz007 (2):** MaltoseMatt (S4), ShutUpBrick (S5)
+**64th - MPMG (2):** oworca (S4), GeistBuster7 (S5)
 
-**61st - TastyBaconZ (2):** JonnyFairplay (S14), MarcC5M (S18)
+**64th - MrCraftinator (2):** ShutUpBrick (S9), ShutUpBrick (S14)
 
-**61st - ThePeridotKnight (2):** Flouzemaker (S23), buttergolem1 (S23)
+**64th - Pippiter (2):** Shortgamer (S1), VeniiiD (S2)
 
-**61st - TheSonicJoey (2):** Krenzinator (S20), nihontiger (S20)
+**64th - ShootingGoats (2):** Jahrod (S27), brodioh (S28)
 
-**61st - Zevulpes (2):** Kakintse (S22), MarcC5M (S27)
+**64th - silverteeth (2):** Brodator (S20), ColdBac (S20)
 
-**76th - Bagpipehero (1):** Shortgamer (S3)
+**64th - Snuggelz007 (2):** MaltoseMatt (S4), ShutUpBrick (S5)
 
-**76th - beastboyrolf (1):** MaltoseMatt (S6)
+**64th - TastyBaconZ (2):** JonnyFairplay (S14), MarcC5M (S18)
 
-**76th - BJPlays (1):** KTRBoT (S10)
+**64th - ThePeridotKnight (2):** Flouzemaker (S23), buttergolem1 (S23)
 
-**76th - ColdFusion5 (1):** MaltoseMatt (S2)
+**64th - TheSonicJoey (2):** Krenzinator (S20), nihontiger (S20)
 
-**76th - DarkCrystalFlame (1):** TommySuX (S6)
+**64th - Zevulpes (2):** Kakintse (S22), MarcC5M (S27)
 
-**76th - ElGavinoSupremo (1):** kloosman (S16)
+**81st - Bagpipehero (1):** Shortgamer (S3)
 
-**76th - firefoxvulpix (1):** Bergasms (S27)
+**81st - beastboyrolf (1):** MaltoseMatt (S6)
 
-**76th - Frostbreath (1):** 5kylord (S12)
+**81st - BJPlays (1):** KTRBoT (S10)
 
-**76th - jamertxn (1):** TastyBaconZ (S20)
+**81st - centraleric (1):** Chasmic (S28)
 
-**76th - Kakintse (1):** MarcC5M (S22)
+**81st - chloesad (1):** Flouzemaker (S28)
 
-**76th - KatyLawson (1):** Emerric (S19)
+**81st - ColdFusion5 (1):** MaltoseMatt (S2)
 
-**76th - Krenzinator (1):** oworca (S20)
+**81st - CrowJRC (1):** warriorcat (S28)
 
-**76th - MaltoseMatt (1):** ScottishNutcase (S4)
+**81st - DarkCrystalFlame (1):** TommySuX (S6)
 
-**76th - Marky_Ross (1):** SidGarcia (S5)
+**81st - ElGavinoSupremo (1):** kloosman (S16)
 
-**76th - OddBaller (1):** _Frankie (S19)
+**81st - firefoxvulpix (1):** Bergasms (S27)
 
-**76th - pigghetti (1):** Micale (S20)
+**81st - Frostbreath (1):** 5kylord (S12)
 
-**76th - Ratchet6859 (1):** Ninjajaja (S20)
+**81st - Gorgerous (1):** CrowJRC (S28)
 
-**76th - rippersteveM5 (1):** Havenhand (S24)
+**81st - JaeHasNoMaidens (1):** chloesad (S28)
 
-**76th - Rohcket (1):** DianaB (S25)
+**81st - jamertxn (1):** TastyBaconZ (S20)
 
-**76th - Shadowlego (1):** Fukano (S12)
+**81st - Kakintse (1):** MarcC5M (S22)
 
-**76th - ShootingGoats (1):** Jahrod (S27)
+**81st - KatyLawson (1):** Emerric (S19)
 
-**76th - VintageBeef (1):** I_is_cheesecake (S22)
+**81st - Krenzinator (1):** oworca (S20)
 
-**76th - Zarky (1):** Chasmic (S19)
+**81st - MajorWoof (1):** BSBrent (S28)
+
+**81st - MaltoseMatt (1):** ScottishNutcase (S4)
+
+**81st - Marky_Ross (1):** SidGarcia (S5)
+
+**81st - MaxEvasion (1):** jamertxn (S28)
+
+**81st - Nintendoshi (1):** TheRealHagrid (S28)
+
+**81st - OddBaller (1):** _Frankie (S19)
+
+**81st - Ratchet6859 (1):** Ninjajaja (S20)
+
+**81st - rippersteveM5 (1):** Havenhand (S24)
+
+**81st - Rohcket (1):** DianaB (S25)
+
+**81st - Shadowlego (1):** Fukano (S12)
+
+**81st - VintageBeef (1):** I_is_cheesecake (S22)
+
+**81st - WackoFlipper (1):** Klickacat (S28)
+
+**81st - YellowVitt (1):** 5kylord (S28)
+
+**81st - Zarky (1):** Chasmic (S19)
 
 ---
 ### PvE Deaths
 
-**Creeper (16):** MPMG (S1), ScottishNutcase (S1), MPMG (S2), oworca (S3), Marky_Ross (S5), MarcC5M (S10), oworca (S10), VeniiiD (S14), Kassiie (S14), Chasmic (S20), Flouzemaker (S20), ToucanTom (S20), BBR_ (S21), Pehnk (S24), TorinFBF (S25), VeniiiD (S27)
+**Creeper (17):** MPMG (S1), ScottishNutcase (S1), MPMG (S2), oworca (S3), Marky_Ross (S5), MarcC5M (S10), oworca (S10), VeniiiD (S14), Kassiie (S14), Chasmic (S20), Flouzemaker (S20), ToucanTom (S20), BBR_ (S21), Pehnk (S24), TorinFBF (S25), VeniiiD (S27), ToucanTom (S28)
 
-**Fall (14):** GeistBuster7 (S1), OddyC (S1), Doornbread (S2), Mjora (S7), bytexal (S11), MrTeamRaven (S11), scriblur (S15), ElGavinoSupremo (S19), Ninjajaja (S19), TicedUp (S19), Regifloat (S19), Kidfo (S21), MarcC5M (S21), Greeples (S22)
+**Fall (15):** GeistBuster7 (S1), OddyC (S1), Doornbread (S2), Mjora (S7), bytexal (S11), MrTeamRaven (S11), scriblur (S15), ElGavinoSupremo (S19), Ninjajaja (S19), TicedUp (S19), Regifloat (S19), Kidfo (S21), MarcC5M (S21), Greeples (S22), 78ford (S28)
 
 **Burning (12):** MrTeamRaven (S3), Bagpipehero (S4), CMattznes (S5), MrCraftinator (S10), ShutUpBrick (S10), Micale (S10), AndrizzlePC (S10), VeniiiD (S11), LongaVita (S13), fruitlogic (S24), Kidfo (S26), Flouzemaker (S26)
 
 **Skeleton (9):** beastboyrolf (S2), ElGavinoSupremo (S15), KatyLawson (S16), Doornbread (S17), KatyLawson (S20), ElGavinoSupremo (S20), SidGarcia (S20), boyceterous (S20), Bergasms (S20)
 
 **Void (5):** VeniiiD (S13), beastboyrolf (S13), MrCraftinator (S13), EighteenQs (S13), scriblur (S13)
+
+**Drowned (3):** Bacan (S21), Potsie (S28), Hacn35 (S28)
+
+**Ghost (3):** lottebunny (S28), Micale (S28), starlxghtmoon (S28)
 
 **Zombie (3):** Neoscys (S3), Neoscys (S4), NTBama (S20)
 
@@ -684,20 +730,24 @@
 
 **Spider (2):** TommySuX (S8), ElGavinoSupremo (S22)
 
+**Suffocation (2):** MrTeamRaven (S2), kirbey (S28)
+
 **Vindicator (2):** Brodator (S21), DianaB (S26)
 
-**Drowned (1):** Bacan (S21)
+**Disqualified (1):** DJoee (S28)
 
 **Enderman (1):** DancersTalon (S27)
 
 **Go To Hell (1):** wibbol (S26)
 
-**Lava (1):** Bacan (S18)
+**Iron Golem (1):** wibbol (S28)
 
-**Suffocation (1):** MrTeamRaven (S2)
+**Lava (1):** Bacan (S18)
 
 ---
 ### Participation
+
+**28 Seasons (0):** 
 
 **27 Seasons (0):** 
 
@@ -705,53 +755,53 @@
 
 **25 Seasons (0):** 
 
-**24 Seasons (0):** 
+**24 Seasons (1):** MarcC5M (S1-S5,S7-S13,S17-S28)
 
-**23 Seasons (1):** MarcC5M (S1-S5,S7-S13,S17-S27)
+**23 Seasons (0):** 
 
 **22 Seasons (0):** 
 
-**21 Seasons (0):** 
+**21 Seasons (1):** Micale (S7-S11,S13-S28)
 
-**20 Seasons (1):** Micale (S7-S11,S13-S27)
+**20 Seasons (0):** 
 
 **19 Seasons (0):** 
 
-**18 Seasons (1):** oworca (S2-S4,S6-S15,S17-S18,S20,S23,S25)
+**18 Seasons (2):** oworca (S2-S4,S6-S15,S17-S18,S20,S23,S25), Chasmic (S10-S15,S17-S28)
 
-**17 Seasons (1):** Chasmic (S10-S15,S17-S27)
+**17 Seasons (0):** 
 
 **16 Seasons (1):** ShutUpBrick (S1-S7,S9-S11,S14,S17-S19,S23,S25)
 
 **15 Seasons (1):** VeniiiD (S2-S3,S6-S16,S20,S27)
 
-**14 Seasons (2):** Regifloat (S7-S9,S12-S16,S18-S21,S24-S25), BBR_ (S10-S15,S17-S19,S21-S25)
+**14 Seasons (4):** Regifloat (S7-S9,S12-S16,S18-S21,S24-S25), BBR_ (S10-S15,S17-S19,S21-S25), Flouzemaker (S11-S13,S15,S17,S19-S24,S26-S28), 5kylord (S12-S19,S21-S23,S25-S26,S28)
 
-**13 Seasons (3):** Flouzemaker (S11-S13,S15,S17,S19-S24,S26-S27), 5kylord (S12-S19,S21-S23,S25-S26), Cyonal (S12-S24)
+**13 Seasons (2):** Cyonal (S12-S24), Greeples (S14-S15,S17-S25,S27-S28)
 
-**12 Seasons (4):** scriblur (S1,S3,S6-S9,S11-S15,S17), TommySuX (S4-S12,S16,S22,S24), DianaB (S11-S15,S17,S19,S21,S24-S27), Greeples (S14-S15,S17-S25,S27)
+**12 Seasons (5):** scriblur (S1,S3,S6-S9,S11-S15,S17), TommySuX (S4-S12,S16,S22,S24), jamertxn (S10-S15,S20-S23,S27-S28), DianaB (S11-S15,S17,S19,S21,S24-S27), Brodator (S17-S28)
 
-**11 Seasons (3):** jamertxn (S10-S15,S20-S23,S27), Emerric (S14,S16-S21,S23-S26), Brodator (S17-S27)
+**11 Seasons (2):** Emerric (S14,S16-S21,S23-S26), buttergolem1 (S18-S28)
 
-**10 Seasons (7):** MrTeamRaven (S1-S6,S10-S11,S20,S22), Bergasms (S2-S4,S6-S7,S10,S13,S19-S20,S27), Fairyjuice (S2-S5,S8-S9,S11-S13,S20), TicedUp (S3-S5,S7-S8,S11,S16-S17,S19,S25), TastyBaconZ (S14-S15,S18-S24,S27), KatyLawson (S15-S16,S18-S25), buttergolem1 (S18-S27)
+**10 Seasons (8):** MrTeamRaven (S1-S6,S10-S11,S20,S22), Bergasms (S2-S4,S6-S7,S10,S13,S19-S20,S27), Fairyjuice (S2-S5,S8-S9,S11-S13,S20), TicedUp (S3-S5,S7-S8,S11,S16-S17,S19,S25), TastyBaconZ (S14-S15,S18-S24,S27), KatyLawson (S15-S16,S18-S25), ToucanTom (S16-S21,S25-S28), wibbol (S16-S20,S22-S23,S26-S28)
 
-**9 Seasons (5):** Marky_Ross (S1-S5,S21-S22,S24-S25), Bacan (S16-S19,S21-S25), ToucanTom (S16-S21,S25-S27), wibbol (S16-S20,S22-S23,S26-S27), ColdBac (S18,S20-S27)
+**9 Seasons (5):** Marky_Ross (S1-S5,S21-S22,S24-S25), Bacan (S16-S19,S21-S25), brodioh (S18-S21,S24-S28), ColdBac (S18,S20-S27), Maxwellfifty (S19,S21-S28)
 
-**8 Seasons (5):** AndrizzlePC (S4-S10,S17), AvaCos (S13-S15,S17,S19-S20,S22,S27), Jakekub (S17,S20,S22-S27), brodioh (S18-S21,S24-S27), Maxwellfifty (S19,S21-S27)
+**8 Seasons (6):** AndrizzlePC (S4-S10,S17), AvaCos (S13-S15,S17,S19-S20,S22,S27), Jakekub (S17,S20,S22-S27), Havenhand (S19,S21-S26,S28), Kubaslov (S20-S23,S25-S28), Jahrod (S21-S28)
 
-**7 Seasons (9):** NTBama (S5,S14-S15,S17,S20,S22-S23), SidGarcia (S5,S11,S14,S18,S20,S22-S23), Kassiie (S7-S11,S14,S16), rippersteveM5 (S14-S15,S19-S21,S24-S25), ElGavinoSupremo (S15-S17,S19-S22), 5hup (S19,S21-S24,S26-S27), Havenhand (S19,S21-S26), Kubaslov (S20-S23,S25-S27), Jahrod (S21-S27)
+**7 Seasons (6):** NTBama (S5,S14-S15,S17,S20,S22-S23), SidGarcia (S5,S11,S14,S18,S20,S22-S23), Kassiie (S7-S11,S14,S16), rippersteveM5 (S14-S15,S19-S21,S24-S25), ElGavinoSupremo (S15-S17,S19-S22), 5hup (S19,S21-S24,S26-S27)
 
-**6 Seasons (8):** beastboyrolf (S1-S2,S5-S7,S13), ScottishNutcase (S1-S4,S6,S10), DarkCrystalFlame (S4-S7,S11,S20), Mjora (S6-S8,S25-S27), Fukano (S8-S12,S14), LongaVita (S10-S13,S15,S19), I_is_cheesecake (S19,S21-S24,S27), MeadowMoos (S21-S25,S27)
+**6 Seasons (9):** beastboyrolf (S1-S2,S5-S7,S13), ScottishNutcase (S1-S4,S6,S10), DarkCrystalFlame (S4-S7,S11,S20), Mjora (S6-S8,S25-S27), Fukano (S8-S12,S14), LongaVita (S10-S13,S15,S19), I_is_cheesecake (S19,S21-S24,S27), MeadowMoos (S21-S25,S27), fruitlogic (S23-S28)
 
-**5 Seasons (9):** boyceterous (S1,S3-S4,S6,S20), GeistBuster7 (S1-S5), MPMG (S1-S5), Snuggelz007 (S3-S6,S9), Scott_XD (S6-S9,S11), KirbyMD (S9-S12,S20), MrCraftinator (S9-S10,S13-S14,S17), ShyGus (S22-S26), fruitlogic (S23-S27)
+**5 Seasons (9):** boyceterous (S1,S3-S4,S6,S20), GeistBuster7 (S1-S5), MPMG (S1-S5), Snuggelz007 (S3-S6,S9), Scott_XD (S6-S9,S11), KirbyMD (S9-S12,S20), MrCraftinator (S9-S10,S13-S14,S17), BSBrent (S21-S24,S28), ShyGus (S22-S26)
 
-**4 Seasons (12):** Doornbread (S1-S2,S5,S17), MaltoseMatt (S1-S2,S4,S6), Shortgamer (S1-S3,S10), GlitchyRainbow (S3-S4,S6,S10), Timonscholte (S6,S12,S14,S19), Kakintse (S7-S8,S10,S22), Frostbreath (S9,S11-S12,S18), BJPlays (S10,S15,S20,S25), OblivionTU (S11,S14,S17,S22), Ninjajaja (S15,S17,S19-S20), BSBrent (S21-S24), Kidfo (S21-S22,S26-S27)
+**4 Seasons (12):** Doornbread (S1-S2,S5,S17), MaltoseMatt (S1-S2,S4,S6), Shortgamer (S1-S3,S10), GlitchyRainbow (S3-S4,S6,S10), Timonscholte (S6,S12,S14,S19), Kakintse (S7-S8,S10,S22), Frostbreath (S9,S11-S12,S18), BJPlays (S10,S15,S20,S25), OblivionTU (S11,S14,S17,S22), Ninjajaja (S15,S17,S19-S20), Kidfo (S21-S22,S26-S27), Pehnk (S24-S25,S27-S28)
 
-**3 Seasons (9):** EighteenQs (S4-S5,S13), CMattznes (S5-S6,S11), Balone (S9-S11), ThePeridotKnight (S11,S13,S23), Zarky (S11,S19,S25), PhenomCloud (S15,S19,S26), SimplySam (S21-S23), Zevulpes (S22,S25,S27), Pehnk (S24-S25,S27)
+**3 Seasons (11):** EighteenQs (S4-S5,S13), CMattznes (S5-S6,S11), Balone (S9-S11), ThePeridotKnight (S11,S13,S23), Zarky (S11,S19,S25), PhenomCloud (S15,S19,S26), SimplySam (S21-S23), Zevulpes (S22,S25,S27), Exee (S25-S26,S28), DancersTalon (S26-S28), starlxghtmoon (S26-S28)
 
-**2 Seasons (17):** Pippiter (S1-S2), ColdFusion5 (S2-S3), Bagpipehero (S3-S4), Neoscys (S3-S4), Dylarno (S6-S7), bytexal (S7,S11), Shadowlego (S8,S12), LeonTG (S11-S12), _Frankie (S16,S19), OddBaller (S19-S20), H_L_llama (S22-S23), VintageBeef (S22-S23), TorinFBF (S24-S25), Exee (S25-S26), Rohcket (S25-S26), DancersTalon (S26-S27), starlxghtmoon (S26-S27)
+**2 Seasons (20):** Pippiter (S1-S2), ColdFusion5 (S2-S3), Bagpipehero (S3-S4), Neoscys (S3-S4), Dylarno (S6-S7), bytexal (S7,S11), Shadowlego (S8,S12), LeonTG (S11-S12), _Frankie (S16,S19), OddBaller (S19-S20), KOKeowner (S20,S28), pigghetti (S20,S28), H_L_llama (S22-S23), VintageBeef (S22-S23), TorinFBF (S24-S25), Rohcket (S25-S26), Bobbytheturtle (S27-S28), firefoxvulpix (S27-S28), ShootingGoats (S27-S28), SpaceFenix (S27-S28)
 
-**1 Season (31):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), KOKeowner (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), pigghetti (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), Bobbytheturtle (S27), firefoxvulpix (S27), marcaron (S27), ShootingGoats (S27), SpaceFenix (S27)
+**1 Season (51):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), marcaron (S27), 78ford (S28), centraleric (S28), ChainingVermin2 (S28), cherryblawsom (S28), chloesad (S28), CrowJRC (S28), DJoee (S28), Fourbitplayer (S28), Gorgerous (S28), Hacn35 (S28), Hoppy (S28), JaeHasNoMaidens (S28), kirbey (S28), Klickacat (S28), lottebunny (S28), MajorWoof (S28), MaxEvasion (S28), MercuryParadox (S28), Nintendoshi (S28), Potsie (S28), tagggz (S28), TheKevGuy (S28), TheRealHagrid (S28), WackoFlipper (S28), warriorcat (S28), YellowVitt (S28)
 
 ---
 ### Debutants
@@ -809,5 +859,7 @@
 **S26 (2):** DancersTalon, starlxghtmoon
 
 **S27 (5):** Bobbytheturtle, firefoxvulpix, marcaron, ShootingGoats, SpaceFenix
+
+**S28 (26):** 78ford, centraleric, ChainingVermin2, cherryblawsom, chloesad, CrowJRC, DJoee, Fourbitplayer, Gorgerous, Hacn35, Hoppy, JaeHasNoMaidens, kirbey, Klickacat, lottebunny, MajorWoof, MaxEvasion, MercuryParadox, Nintendoshi, Potsie, tagggz, TheKevGuy, TheRealHagrid, WackoFlipper, warriorcat, YellowVitt
 
 ---

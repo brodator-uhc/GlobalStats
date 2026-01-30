@@ -10,7 +10,7 @@
 ---
 ### Runner Ups
 
-**S1:** boyceterous (0), dnnyys (1), TheBestGinger13 (0)
+**S1:** boyceterous (1), dnnyys (1), TheBestGinger13 (0)
 
 **S2:** DarenKao (0), Kurtit (2)
 
@@ -69,6 +69,8 @@
 
 **5th - benebeneben2 (1):** Tylarzz (S2)
 
+**5th - boyceterous (1):** benebeneben2 (S1)
+
 **5th - DarenKao (1):** OmegaMatt_ (S1)
 
 **5th - dnnyys (1):** DarenKao (S1)
@@ -87,8 +89,6 @@
 
 ---
 ### PvE Deaths
-
-**Boyceterous (1):** benebeneben2 (S1)
 
 **Creeper (1):** TheBestGinger13 (S2)
 

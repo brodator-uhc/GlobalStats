@@ -47,6 +47,8 @@
 
 **S21: Applepie78 (4)**
 
+**S22: Bobbytheturtle (11)**, *Kidfo (0)*
+
 ---
 ### Runner Ups
 
@@ -93,6 +95,8 @@
 **S20:** bjr201111 (0), Harmen (0), Jordtim (0), Omertosa (2), sonmica (0)
 
 **S21:** mqson (3)
+
+**S22:** miles1baseball (1), SidGarcia (1)
 
 ---
 ### Most Kills
@@ -141,6 +145,8 @@
 
 **S21:** Applepie78, ColdBac (4)
 
+**S22:** Bobbytheturtle (11)
+
 ---
 ### Most Kills (Team)
 
@@ -187,6 +193,8 @@
 **S20:** DjTalica (4), Flohp (0), Macdde (0), oworca (4), TommySuX (0)
 
 **S21:** N/A
+
+**S22:** Bobbytheturtle (11), Kidfo (0)
 
 ---
 ### First Damage
@@ -235,6 +243,8 @@
 
 **S21:** RobertBadlose (0:2:14)
 
+**S22:** Kidfo (0:0:27)
+
 ---
 ### Ironman
 
@@ -281,6 +291,8 @@
 **S20:** rippersteveM5 (0:58:35)
 
 **S21:** MercuryParadox (1:7:33)
+
+**S22:** Bobbytheturtle (2:49:8)
 
 ---
 ### First Blood
@@ -329,6 +341,8 @@
 
 **S21:** ShAydenelley (MeadowMoos)
 
+**S22:** BJPlays (Kidfo)
+
 ---
 ### First Death
 
@@ -376,6 +390,8 @@
 
 **S21:** SiahStone (Creeper)
 
+**S22:** Kidfo (BJPlays)
+
 ---
 ### Kills
 
@@ -383,157 +399,165 @@
 
 **2nd - bigfoot_ (36):** Creeper2Danknee (S2), NickNitro3 (S2), GlitchyRainbow (S2), Kampel125 (S2), PoshNPie (S2), KingCynare (S2), Exee (S2), Exee (S3), Bandias (S5), miccx (S6), Creeper2Danknee (S6), nolyd (S6), Kampel125 (S7), JimmyF69 (S7), Kidfo (S7), nolyd (S7), Gillieeeee (S8), BJPlays (S8), Kidfo (S8), Omertosa (S8), MadSainter (S8), Bergasms (S9), ElementalYT (S9), SandraStorm (S9), Creeper2Danknee (S9), DjTalica (S10), BJPlays (S10), ItzBliz (S13), LordLaelaps (S16), Jakekub (S16), Topspinpiggles (S16), Kieranborn (S16), sonmica (S17), DjTalica (S17), dw0w (S17), I_is_cheesecake (S18)
 
-**3rd - brodioh (28):** TommySuX (S9), GlitchyRainbow (S9), PoshNPie (S9), Kidfo (S10), rippersteveM5 (S10), Exee (S10), MadSainter (S10), bigfoot_ (S10), SidGarcia (S11a), jamietheelite (S11a), GlitchyRainbow (S11b), ItzBliz (S12), ElementalYT (S12), Kidfo (S12), gnty (S13), sorlite (S13), Exee (S13), SandraStorm (S13), rippersteveM5 (S13), Bandias (S15), 5hup (S15), Bergasms (S16), Micale (S17), Mjora (S17), Applepie78 (S17), dango989 (S17), Jordtim (S19), Awticon (S21)
+**3rd - brodioh (29):** TommySuX (S9), GlitchyRainbow (S9), PoshNPie (S9), Kidfo (S10), rippersteveM5 (S10), Exee (S10), MadSainter (S10), bigfoot_ (S10), SidGarcia (S11a), jamietheelite (S11a), GlitchyRainbow (S11b), ItzBliz (S12), ElementalYT (S12), Kidfo (S12), gnty (S13), sorlite (S13), Exee (S13), SandraStorm (S13), rippersteveM5 (S13), Bandias (S15), 5hup (S15), Bergasms (S16), Micale (S17), Mjora (S17), Applepie78 (S17), dango989 (S17), Jordtim (S19), Awticon (S21), RobertBadlose (S22)
 
 **4th - Exee (24):** OnlyShero (S1), OmegaMatt_ (S1), Bandias (S2), SuddenlyBeagles (S4), bigfoot_ (S5), Omertosa (S5), nolyd (S5), Kurtit (S7), gnty (S8), Mjora (S8), Cryptic (S8), Jakekub (S8), Bergasms (S8), Theawesomehi (S8), GlitchyRainbow (S10), TommySuX (S10), lsperlo (S14), bytexal (S14), brodioh (S17), Omertosa (S17), warriorcat (S18), Micale (S19), scriblur (S19), Harryb2k (S19)
 
-**5th - BJPlays (19):** BlazeThePolymath (S4), WaXmAn24 (S4), Exee (S4), bigfoot_ (S4), Exee (S5), DrDiablon (S5), Mjora (S6), Exee (S6), jamietheelite (S6), sorlite (S8), Cryptic (S10), QuilJ1 (S10), QuilJ1 (S11b), Gillieeeee (S11b), Exee (S11b), BreakSalad (S12), Micale (S16), dango989 (S16), bjr201111 (S19)
+**5th - BJPlays (20):** BlazeThePolymath (S4), WaXmAn24 (S4), Exee (S4), bigfoot_ (S4), Exee (S5), DrDiablon (S5), Mjora (S6), Exee (S6), jamietheelite (S6), sorlite (S8), Cryptic (S10), QuilJ1 (S10), QuilJ1 (S11b), Gillieeeee (S11b), Exee (S11b), BreakSalad (S12), Micale (S16), dango989 (S16), bjr201111 (S19), Kidfo (S22)
 
-**6th - 5hup (17):** BJPlays (S12), SandraStorm (S12), Soshikun (S13), Jakekub (S14), warriorcat (S14), ItzBliz (S14), Topspinpiggles (S15), Micale (S15), Thebestcandy (S15), Exee (S16), bjr201111 (S16), AvaCos (S16), Bandias (S16), Jakekub (S17), rippersteveM5 (S17), jamietheelite (S18), Omertosa (S21)
+**6th - 5hup (19):** BJPlays (S12), SandraStorm (S12), Soshikun (S13), Jakekub (S14), warriorcat (S14), ItzBliz (S14), Topspinpiggles (S15), Micale (S15), Thebestcandy (S15), Exee (S16), bjr201111 (S16), AvaCos (S16), Bandias (S16), Jakekub (S17), rippersteveM5 (S17), jamietheelite (S18), Omertosa (S21), ShAydenelley (S22), scriblur (S22)
 
 **7th - DjTalica (15):** LinkOcarinaTime (S10), Gillieeeee (S11a), Mjora (S11a), Bergasms (S11a), GlitchyRainbow (S11a), brodioh (S12), jamietheelite (S12), 5hup (S12), Micale (S13), Phoebe (S15), Macdde (S17), TheSonicJoey (S20), Applepie78 (S20), Emerric (S20), Awticon (S20)
 
 **7th - jamietheelite (15):** MadSainter (S6), Ezkimoz (S6), Snusty (S6), bigfoot_ (S6), Kampel125 (S6), Jakekub (S11a), Kidfo (S11b), bytexal (S11b), joeykin (S12), lsperlo (S12), gnty (S14), Kampel125 (S14), bigfoot_ (S18), Exee (S20), Harmen (S20)
 
-**9th - Cryptic (12):** Jakekub (S10), MadSainter (S11a), Zevulpes (S11b), SidGarcia (S12), bigfoot_ (S13), ElementalYT (S13), Phoebe (S13), warriorcat (S13), PoshNPie (S13), Bandias (S14), Exee (S14), oworca (S14)
+**9th - mqson (13):** brodioh (S20), dw0w (S20), Bobbytheturtle (S21), ColdBac (S21), oworca (S21), Exee (S22), Mjora (S22), SiahStone (S22), Greeples (S22), awau (S22), Chasmic (S22), Flohp (S22), warriorcat (S22)
 
-**9th - Jakekub (12):** Creeper2Danknee (S8), Zevulpes (S9), LordLaelaps (S12), SidGarcia (S13), Zaahnn (S15), LordLaelaps (S15), BJPlays (S16), DjTalica (S18), Omertosa (S18), Exee (S18), oworca (S18), Macdde (S19)
+**10th - Cryptic (12):** Jakekub (S10), MadSainter (S11a), Zevulpes (S11b), SidGarcia (S12), bigfoot_ (S13), ElementalYT (S13), Phoebe (S13), warriorcat (S13), PoshNPie (S13), Bandias (S14), Exee (S14), oworca (S14)
 
-**9th - Kidfo (12):** Mjora (S7), Flohp (S8), BlazeThePolymath (S9), gnty (S11a), ElementalYT (S11a), rippersteveM5 (S11a), Cryptic (S11a), Kurtit (S11a), brodioh (S11a), SandraStorm (S11a), Cryptic (S11b), Flohp (S13)
+**10th - Jakekub (12):** Creeper2Danknee (S8), Zevulpes (S9), LordLaelaps (S12), SidGarcia (S13), Zaahnn (S15), LordLaelaps (S15), BJPlays (S16), DjTalica (S18), Omertosa (S18), Exee (S18), oworca (S18), Macdde (S19)
 
-**12th - lsperlo (10):** Exee (S9), bigfoot_ (S9), oworca (S9), Cryptic (S12), QuilJ1 (S12), OnlyShero (S14), sonmica (S14), Micale (S14), TicedUp (S14), 5hup (S14)
+**10th - Kidfo (12):** Mjora (S7), Flohp (S8), BlazeThePolymath (S9), gnty (S11a), ElementalYT (S11a), rippersteveM5 (S11a), Cryptic (S11a), Kurtit (S11a), brodioh (S11a), SandraStorm (S11a), Cryptic (S11b), Flohp (S13)
 
-**13th - Applepie78 (9):** sonmica (S16), joeykin (S17), Antigrate (S18), Jakekub (S20), MeadowMoos (S20), I_is_cheesecake (S21), MercuryParadox (S21), QuilJ1 (S21), mqson (S21)
+**13th - Applepie78 (11):** sonmica (S16), joeykin (S17), Antigrate (S18), Jakekub (S20), MeadowMoos (S20), I_is_cheesecake (S21), MercuryParadox (S21), QuilJ1 (S21), mqson (S21), QuilJ1 (S22), TheSonicJoey (S22)
 
-**14th - WaXmAn24 (8):** ThirteenCurry (S2), dw0w (S8), LordLaelaps (S17), AvaCos (S17), Exee (S17), bigfoot_ (S17), BreakSalad (S18), mqson (S20)
+**13th - Bobbytheturtle (11):** MercuryParadox (S22), bjr201111 (S22), JonnyFairplay (S22), Jakekub (S22), oworca (S22), Phoebe (S22), brodioh (S22), ElementalYT (S22), 5hup (S22), Omertosa (S22), miles1baseball (S22)
 
-**15th - Fazz2 (7):** scriblur (S18), Chasmic (S19), Maxwellfifty (S19), Flohp (S19), WaXmAn24 (S19), Exee (S19), BJPlays (S19)
+**15th - lsperlo (10):** Exee (S9), bigfoot_ (S9), oworca (S9), Cryptic (S12), QuilJ1 (S12), OnlyShero (S14), sonmica (S14), Micale (S14), TicedUp (S14), 5hup (S14)
 
-**15th - gnty (7):** miccx (S5), KingCynare (S5), Gillieeeee (S9), rippersteveM5 (S9), QuilJ1 (S9), LordLaelaps (S13), BJPlays (S17)
+**16th - WaXmAn24 (9):** ThirteenCurry (S2), dw0w (S8), LordLaelaps (S17), AvaCos (S17), Exee (S17), bigfoot_ (S17), BreakSalad (S18), mqson (S20), MeadowMoos (S22)
 
-**15th - nolyd (7):** sorlite (S3), oworca (S3), OmegaMatt_ (S3), JimmyF69 (S3), Mjora (S5), OnlyShero (S5), BreakSalad (S5)
+**17th - gnty (8):** miccx (S5), KingCynare (S5), Gillieeeee (S9), rippersteveM5 (S9), QuilJ1 (S9), LordLaelaps (S13), BJPlays (S17), TicedUp (S22)
 
-**15th - TicedUp (7):** jamietheelite (S8), Mjora (S10), Phoebe (S12), jamietheelite (S14), TGMB1 (S16), BreakSalad (S17), QuilJ1 (S17)
+**17th - Omertosa (8):** DrDiablon (S7), Phoebe (S17), rippersteveM5 (S19), Macdde (S20), QuilJ1 (S20), Jordtim (S22), AvaCos (S22), mqson (S22)
 
-**15th - warriorcat (7):** DjTalica (S13), TommySuX (S13), miles1baseball (S16), brodioh (S16), TicedUp (S16), 5hup (S16), Kieranborn (S17)
+**17th - warriorcat (8):** DjTalica (S13), TommySuX (S13), miles1baseball (S16), brodioh (S16), TicedUp (S16), 5hup (S16), Kieranborn (S17), Applepie78 (S22)
 
-**20th - ColdBac (6):** Fazz2 (S20), SiahStone (S20), WaXmAn24 (S21), ShAydenelley (S21), Jakekub (S21), brodioh (S21)
+**20th - dw0w (7):** Jordtim (S17), LordLaelaps (S18), miles1baseball (S18), Bergasms (S18), ShAydenelley (S18), Mjora (S20), gnty (S22)
 
-**20th - dw0w (6):** Jordtim (S17), LordLaelaps (S18), miles1baseball (S18), Bergasms (S18), ShAydenelley (S18), Mjora (S20)
+**20th - Fazz2 (7):** scriblur (S18), Chasmic (S19), Maxwellfifty (S19), Flohp (S19), WaXmAn24 (S19), Exee (S19), BJPlays (S19)
 
-**20th - Kurtit (6):** Creeper2Danknee (S4), TicedUp (S10), Exee (S11a), Mjora (S11b), jamietheelite (S11b), brodioh (S11b)
+**20th - nolyd (7):** sorlite (S3), oworca (S3), OmegaMatt_ (S3), JimmyF69 (S3), Mjora (S5), OnlyShero (S5), BreakSalad (S5)
 
-**20th - MadSainter (6):** Kurtit (S10), ElementalYT (S10), oworca (S11b), PoshNPie (S11b), DjTalica (S11b), BJPlays (S11b)
+**20th - TicedUp (7):** jamietheelite (S8), Mjora (S10), Phoebe (S12), jamietheelite (S14), TGMB1 (S16), BreakSalad (S17), QuilJ1 (S17)
 
-**20th - Micale (6):** ElementalYT (S14), Zevulpes (S15), BreakSalad (S15), Flohp (S17), TheSonicJoey (S17), miles1baseball (S17)
+**24th - AvaCos (6):** Applepie78 (S16), 5hup (S17), oworca (S17), BJPlays (S21), WaXmAn24 (S22), rippersteveM5 (S22)
 
-**20th - Phoebe (6):** 5hup (S13), LordLaelaps (S14), Exee (S15), warriorcat (S16), BurningT (S17), warriorcat (S17)
+**24th - ColdBac (6):** Fazz2 (S20), SiahStone (S20), WaXmAn24 (S21), ShAydenelley (S21), Jakekub (S21), brodioh (S21)
 
-**26th - Awticon (5):** ColdBac (S20), jamietheelite (S20), rippersteveM5 (S20), TommySuX (S20), Flohp (S20)
+**24th - Kurtit (6):** Creeper2Danknee (S4), TicedUp (S10), Exee (S11a), Mjora (S11b), jamietheelite (S11b), brodioh (S11b)
 
-**26th - Creeper2Danknee (5):** OnlyShero (S2), sorlite (S7), Exee (S7), bigfoot_ (S7), oworca (S7)
+**24th - MadSainter (6):** Kurtit (S10), ElementalYT (S10), oworca (S11b), PoshNPie (S11b), DjTalica (S11b), BJPlays (S11b)
 
-**26th - Jordtim (5):** jamietheelite (S5), Ezkimoz (S5), OnlyShero (S18), TheSonicJoey (S18), KingCynare (S19)
+**24th - Micale (6):** ElementalYT (S14), Zevulpes (S15), BreakSalad (S15), Flohp (S17), TheSonicJoey (S17), miles1baseball (S17)
 
-**26th - mqson (5):** brodioh (S20), dw0w (S20), Bobbytheturtle (S21), ColdBac (S21), oworca (S21)
+**24th - Phoebe (6):** 5hup (S13), LordLaelaps (S14), Exee (S15), warriorcat (S16), BurningT (S17), warriorcat (S17)
 
-**26th - Omertosa (5):** DrDiablon (S7), Phoebe (S17), rippersteveM5 (S19), Macdde (S20), QuilJ1 (S20)
+**30th - Awticon (5):** ColdBac (S20), jamietheelite (S20), rippersteveM5 (S20), TommySuX (S20), Flohp (S20)
 
-**26th - PoshNPie (5):** Flohp (S9), QuilJ1 (S13), lsperlo (S13), oworca (S13), Topspinpiggles (S14)
+**30th - Creeper2Danknee (5):** OnlyShero (S2), sorlite (S7), Exee (S7), bigfoot_ (S7), oworca (S7)
 
-**26th - TommySuX (5):** DrDiablon (S8), Exee (S8), oworca (S8), GenerationOzzie (S10), brodioh (S13)
+**30th - Jordtim (5):** jamietheelite (S5), Ezkimoz (S5), OnlyShero (S18), TheSonicJoey (S18), KingCynare (S19)
 
-**33rd - AvaCos (4):** Applepie78 (S16), 5hup (S17), oworca (S17), BJPlays (S21)
+**30th - PoshNPie (5):** Flohp (S9), QuilJ1 (S13), lsperlo (S13), oworca (S13), Topspinpiggles (S14)
 
-**33rd - scriblur (4):** Kampel125 (S15), QuilJ1 (S15), joeykin (S15), JonnyFairplay (S17)
+**30th - TommySuX (5):** DrDiablon (S8), Exee (S8), oworca (S8), GenerationOzzie (S10), brodioh (S13)
 
-**33rd - ShAydenelley (4):** miccx (S17), DrDiablon (S17), dango989 (S18), MeadowMoos (S21)
+**35th - QuilJ1 (4):** Exee (S12), brodioh (S14), RobertBadlose (S21), dw0w (S22)
 
-**33rd - SiahStone (4):** ThePeridotKnight (S18), Harryb2k (S18), 5hup (S20), WaXmAn24 (S20)
+**35th - scriblur (4):** Kampel125 (S15), QuilJ1 (S15), joeykin (S15), JonnyFairplay (S17)
 
-**33rd - Theawesomehi (4):** Kurtit (S4), Kampel125 (S4), BJPlays (S4), Bandias (S4)
+**35th - ShAydenelley (4):** miccx (S17), DrDiablon (S17), dango989 (S18), MeadowMoos (S21)
 
-**38th - Bandias (3):** BJPlays (S3), BlazeThePolymath (S3), oworca (S5)
+**35th - SiahStone (4):** ThePeridotKnight (S18), Harryb2k (S18), 5hup (S20), WaXmAn24 (S20)
 
-**38th - Chasmic (3):** KingCynare (S17), TicedUp (S17), bjr201111 (S17)
+**35th - Theawesomehi (4):** Kurtit (S4), Kampel125 (S4), BJPlays (S4), Bandias (S4)
 
-**38th - ElementalYT (3):** Jakekub (S9), oworca (S10), BreakSalad (S13)
+**40th - Bandias (3):** BJPlays (S3), BlazeThePolymath (S3), oworca (S5)
 
-**38th - I_is_cheesecake (3):** gnty (S18), dw0w (S19), mqson (S19)
+**40th - Chasmic (3):** KingCynare (S17), TicedUp (S17), bjr201111 (S17)
 
-**38th - ItzBliz (3):** Kidfo (S13), Kieranborn (S14), Soshikun (S14)
+**40th - ElementalYT (3):** Jakekub (S9), oworca (S10), BreakSalad (S13)
 
-**38th - joeykin (3):** rippersteveM5 (S15), ThirteenCurry (S17), NickNitro3 (S17)
+**40th - I_is_cheesecake (3):** gnty (S18), dw0w (S19), mqson (S19)
 
-**38th - Macdde (3):** Fairyjuice (S17), Bergasms (S17), I_is_cheesecake (S17)
+**40th - ItzBliz (3):** Kidfo (S13), Kieranborn (S14), Soshikun (S14)
 
-**38th - OmegaMatt_ (3):** WaXmAn24 (S1), gnty (S1), Kampel125 (S1)
+**40th - joeykin (3):** rippersteveM5 (S15), ThirteenCurry (S17), NickNitro3 (S17)
 
-**38th - QuilJ1 (3):** Exee (S12), brodioh (S14), RobertBadlose (S21)
+**40th - Macdde (3):** Fairyjuice (S17), Bergasms (S17), I_is_cheesecake (S17)
 
-**38th - rippersteveM5 (3):** TicedUp (S12), oworca (S12), TheSonicJoey (S12)
+**40th - OmegaMatt_ (3):** WaXmAn24 (S1), gnty (S1), Kampel125 (S1)
 
-**38th - TheSonicJoey (3):** Kidfo (S17), OnlyShero (S17), Fazz2 (S18)
+**40th - rippersteveM5 (3):** TicedUp (S12), oworca (S12), TheSonicJoey (S12)
 
-**49th - Bergasms (2):** LinkOcarinaTime (S9), DjTalica (S9)
+**40th - TheSonicJoey (3):** Kidfo (S17), OnlyShero (S17), Fazz2 (S18)
 
-**49th - bjr201111 (2):** sonmica (S19), OnlyShero (S19)
+**50th - Bergasms (2):** LinkOcarinaTime (S9), DjTalica (S9)
 
-**49th - Emerric (2):** Harryb2k (S20), BJPlays (S20)
+**50th - bjr201111 (2):** sonmica (S19), OnlyShero (S19)
 
-**49th - Flohp (2):** TheSonicJoey (S13), dango989 (S19)
+**50th - Emerric (2):** Harryb2k (S20), BJPlays (S20)
 
-**49th - Kampel125 (2):** GlitchyRainbow (S6), KingCynare (S6)
+**50th - Flohp (2):** TheSonicJoey (S13), dango989 (S19)
 
-**49th - Kieranborn (2):** QuilJ1 (S14), ShAydenelley (S17)
+**50th - Kampel125 (2):** GlitchyRainbow (S6), KingCynare (S6)
 
-**49th - KingCynare (2):** Rhi (S5), OnlyShero (S6)
+**50th - Kieranborn (2):** QuilJ1 (S14), ShAydenelley (S17)
 
-**49th - Mjora (2):** jamietheelite (S7), Kampel125 (S8)
+**50th - KingCynare (2):** Rhi (S5), OnlyShero (S6)
 
-**49th - NickNitro3 (2):** miccx (S2), Macdde (S18)
+**50th - miles1baseball (2):** QuilJ1 (S16), Awticon (S22)
 
-**49th - OnlyShero (2):** GreenDoomsDay (S4), Zevulpes (S17)
+**50th - Mjora (2):** jamietheelite (S7), Kampel125 (S8)
 
-**49th - sorlite (2):** bigfoot_ (S3), Omertosa (S7)
+**50th - NickNitro3 (2):** miccx (S2), Macdde (S18)
 
-**49th - Zevulpes (2):** gnty (S9), dango989 (S14)
+**50th - OnlyShero (2):** GreenDoomsDay (S4), Zevulpes (S17)
 
-**61st - 2NZ (1):** Creeper2Danknee (S7)
+**50th - sorlite (2):** bigfoot_ (S3), Omertosa (S7)
 
-**61st - BreakSalad (1):** gnty (S5)
+**50th - Zevulpes (2):** gnty (S9), dango989 (S14)
 
-**61st - bytexal (1):** Jakekub (S11b)
+**63rd - 2NZ (1):** Creeper2Danknee (S7)
 
-**61st - dango989 (1):** PoshNPie (S14)
+**63rd - awau (1):** LordLaelaps (S22)
 
-**61st - GlitchyRainbow (1):** lsperlo (S11a)
+**63rd - BreakSalad (1):** gnty (S5)
 
-**61st - GreenDoomsDay (1):** oworca (S4)
+**63rd - bytexal (1):** Jakekub (S11b)
 
-**61st - JonnyFairplay (1):** gnty (S17)
+**63rd - dango989 (1):** PoshNPie (S14)
 
-**61st - Leriella (1):** Zevulpes (S14)
+**63rd - GlitchyRainbow (1):** lsperlo (S11a)
 
-**61st - LinkOcarinaTime (1):** Kampel125 (S9)
+**63rd - GreenDoomsDay (1):** oworca (S4)
 
-**61st - LordLaelaps (1):** sonmica (S15)
+**63rd - JonnyFairplay (1):** gnty (S17)
 
-**61st - Maxwellfifty (1):** JonnyFairplay (S19)
+**63rd - Leriella (1):** Zevulpes (S14)
 
-**61st - miccx (1):** OmegaMatt_ (S2)
+**63rd - LinkOcarinaTime (1):** Kampel125 (S9)
 
-**61st - miles1baseball (1):** QuilJ1 (S16)
+**63rd - LordLaelaps (1):** sonmica (S15)
 
-**61st - Obicount (1):** 2NZ (S7)
+**63rd - Maxwellfifty (1):** JonnyFairplay (S19)
 
-**61st - Soshikun (1):** Jakekub (S13)
+**63rd - MercuryParadox (1):** SidGarcia (S22)
 
-**61st - SuddenlyBeagles (1):** OnlyShero (S4)
+**63rd - miccx (1):** OmegaMatt_ (S2)
 
-**61st - TGMB1 (1):** Soshikun (S16)
+**63rd - Obicount (1):** 2NZ (S7)
 
-**61st - Thebestcandy (1):** Flouzemaker (S15)
+**63rd - SidGarcia (1):** BJPlays (S22)
+
+**63rd - Soshikun (1):** Jakekub (S13)
+
+**63rd - SuddenlyBeagles (1):** OnlyShero (S4)
+
+**63rd - TGMB1 (1):** Soshikun (S16)
+
+**63rd - Thebestcandy (1):** Flouzemaker (S15)
 
 ---
 ### PvE Deaths
@@ -579,11 +603,13 @@
 ---
 ### Participation
 
-**22 Seasons (1):** Exee (S1-S21)
+**23 Seasons (1):** Exee (S1-S22)
 
-**21 Seasons (0):** 
+**22 Seasons (0):** 
 
-**20 Seasons (2):** BJPlays (S1-S8,S10-S12,S14-S21), oworca (S3-S21)
+**21 Seasons (2):** BJPlays (S1-S8,S10-S12,S14-S22), oworca (S3-S22)
+
+**20 Seasons (0):** 
 
 **19 Seasons (0):** 
 
@@ -591,37 +617,37 @@
 
 **17 Seasons (0):** 
 
-**16 Seasons (0):** 
+**16 Seasons (1):** Jakekub (S8-S22)
 
-**15 Seasons (1):** Jakekub (S8-S21)
+**15 Seasons (1):** brodioh (S9-S22)
 
-**14 Seasons (1):** brodioh (S9-S21)
+**14 Seasons (1):** gnty (S1-S5,S7-S9,S11a,S13-S14,S17-S18,S22)
 
-**13 Seasons (2):** gnty (S1-S5,S7-S9,S11a,S13-S14,S17-S18), bigfoot_ (S2-S10,S13,S16-S18)
+**13 Seasons (3):** bigfoot_ (S2-S10,S13,S16-S18), Mjora (S4-S8,S10-S12,S17,S20-S22), QuilJ1 (S9-S10,S11b-S17,S19-S22)
 
-**12 Seasons (3):** Kampel125 (S1-S10,S14-S15), Mjora (S4-S8,S10-S12,S17,S20-S21), QuilJ1 (S9-S10,S11b-S17,S19-S21)
+**12 Seasons (2):** Kampel125 (S1-S10,S14-S15), LordLaelaps (S9-S18,S22)
 
-**11 Seasons (3):** OnlyShero (S1-S6,S14-S15,S17-S19), DjTalica (S9-S13,S15-S18,S20), LordLaelaps (S9-S18)
+**11 Seasons (6):** OnlyShero (S1-S6,S14-S15,S17-S19), WaXmAn24 (S1-S2,S4,S7-S8,S17-S22), Kidfo (S7-S14,S17,S22), DjTalica (S9-S13,S15-S18,S20), rippersteveM5 (S9-S11a,S12-S15,S17,S19-S20,S22), 5hup (S12-S22)
 
-**10 Seasons (7):** Bandias (S1-S6,S14-S16,S19), WaXmAn24 (S1-S2,S4,S7-S8,S17-S21), BreakSalad (S5-S6,S12-S15,S17-S20), jamietheelite (S5-S8,S11a-S12,S14,S18,S20), Kidfo (S7-S14,S17), rippersteveM5 (S9-S11a,S12-S15,S17,S19-S20), 5hup (S12-S21)
+**10 Seasons (4):** Bandias (S1-S6,S14-S16,S19), BreakSalad (S5-S6,S12-S15,S17-S20), jamietheelite (S5-S8,S11a-S12,S14,S18,S20), Omertosa (S5-S8,S17-S22)
 
-**9 Seasons (1):** Omertosa (S5-S8,S17-S21)
+**9 Seasons (2):** Jordtim (S1-S2,S4-S5,S17-S20,S22), Phoebe (S12-S19,S22)
 
-**8 Seasons (5):** Jordtim (S1-S2,S4-S5,S17-S20), GlitchyRainbow (S2,S6-S7,S9-S12), KingCynare (S2-S3,S5-S6,S17-S20), Phoebe (S12-S19), sonmica (S14-S21)
+**8 Seasons (5):** GlitchyRainbow (S2,S6-S7,S9-S12), KingCynare (S2-S3,S5-S6,S17-S20), Flohp (S8-S9,S13,S17-S20,S22), ElementalYT (S9-S14,S22), sonmica (S14-S21)
 
-**7 Seasons (4):** Zevulpes (S7,S9,S11b,S14-S15,S17,S19), Cryptic (S8,S10-S14), Flohp (S8-S9,S13,S17-S20), ElementalYT (S9-S14)
+**7 Seasons (4):** Zevulpes (S7,S9,S11b,S14-S15,S17,S19), Cryptic (S8,S10-S14), TicedUp (S8,S10,S12,S14,S16-S17,S22), Applepie78 (S16-S22)
 
-**6 Seasons (13):** Creeper2Danknee (S2,S4,S6-S9), PoshNPie (S2,S9,S11a-S11b,S13-S14), Kurtit (S4,S6-S7,S10-S11b), MadSainter (S6-S8,S10-S11b), TommySuX (S6,S8-S10,S13,S20), Gillieeeee (S7-S11b), Bergasms (S8-S9,S11a,S16-S18), TicedUp (S8,S10,S12,S14,S16-S17), lsperlo (S9,S11a,S12-S15), SandraStorm (S9-S13), Soshikun (S11b-S14,S16-S17), Micale (S13-S17,S19), Applepie78 (S16-S21)
+**6 Seasons (16):** Creeper2Danknee (S2,S4,S6-S9), PoshNPie (S2,S9,S11a-S11b,S13-S14), Kurtit (S4,S6-S7,S10-S11b), MadSainter (S6-S8,S10-S11b), TommySuX (S6,S8-S10,S13,S20), Gillieeeee (S7-S11b), Bergasms (S8-S9,S11a,S16-S18), dw0w (S8,S17-S20,S22), lsperlo (S9,S11a,S12-S15), SandraStorm (S9-S13), Soshikun (S11b-S14,S16-S17), TheSonicJoey (S12-S13,S17-S18,S20,S22), Micale (S13-S17,S19), warriorcat (S13-S14,S16-S18,S22), bjr201111 (S16-S20,S22), miles1baseball (S16-S20,S22)
 
-**5 Seasons (8):** miccx (S2,S4-S6,S17), DrDiablon (S5-S8,S17), dw0w (S8,S17-S20), TheSonicJoey (S12-S13,S17-S18,S20), warriorcat (S13-S14,S16-S18), dango989 (S14,S16-S19), bjr201111 (S16-S20), miles1baseball (S16-S20)
+**5 Seasons (6):** miccx (S2,S4-S6,S17), DrDiablon (S5-S8,S17), SidGarcia (S11a,S12-S13,S20,S22), dango989 (S14,S16-S19), scriblur (S15,S17-S19,S22), SiahStone (S18-S22)
 
-**4 Seasons (11):** BlazeThePolymath (S3-S4,S7,S9), nolyd (S3,S5-S7), sorlite (S3,S7-S8,S13), Theawesomehi (S4-S6,S8), bytexal (S7,S11a-S11b,S14), SidGarcia (S11a,S12-S13,S20), Kieranborn (S14,S16-S17,S21), scriblur (S15,S17-S19), I_is_cheesecake (S17-S19,S21), Macdde (S17-S20), SiahStone (S18-S21)
+**4 Seasons (12):** BlazeThePolymath (S3-S4,S7,S9), nolyd (S3,S5-S7), sorlite (S3,S7-S8,S13), Theawesomehi (S4-S6,S8), bytexal (S7,S11a-S11b,S14), Kieranborn (S14,S16-S17,S21), AvaCos (S16-S17,S21-S22), Chasmic (S17-S19,S22), I_is_cheesecake (S17-S19,S21), Macdde (S17-S20), ShAydenelley (S17-S18,S21-S22), mqson (S19-S22)
 
-**3 Seasons (16):** OmegaMatt_ (S1-S3), ThirteenCurry (S1-S2,S17), NickNitro3 (S2,S17-S18), JimmyF69 (S3,S7-S8), Obicount (S4,S6-S7), LinkOcarinaTime (S5,S9-S10), ItzBliz (S12-S14), joeykin (S12,S15,S17), Topspinpiggles (S14-S16), AvaCos (S16-S17,S21), Chasmic (S17-S19), ShAydenelley (S17-S18,S21), Fazz2 (S18-S20), Harmen (S18-S20), Harryb2k (S18-S20), mqson (S19-S21)
+**3 Seasons (15):** OmegaMatt_ (S1-S3), ThirteenCurry (S1-S2,S17), NickNitro3 (S2,S17-S18), JimmyF69 (S3,S7-S8), Obicount (S4,S6-S7), LinkOcarinaTime (S5,S9-S10), ItzBliz (S12-S14), joeykin (S12,S15,S17), Topspinpiggles (S14-S16), JonnyFairplay (S17,S19,S22), Fazz2 (S18-S20), Harmen (S18-S20), Harryb2k (S18-S20), Awticon (S20-S22), MeadowMoos (S20-S22)
 
-**2 Seasons (9):** 2NZ (S2,S7), Antigrate (S3,S18), Ezkimoz (S5-S6), ThePeridotKnight (S16,S18), JonnyFairplay (S17,S19), Maxwellfifty (S19-S20), Awticon (S20-S21), ColdBac (S20-S21), MeadowMoos (S20-S21)
+**2 Seasons (9):** 2NZ (S2,S7), Antigrate (S3,S18), Ezkimoz (S5-S6), ThePeridotKnight (S16,S18), Maxwellfifty (S19-S20), ColdBac (S20-S21), Bobbytheturtle (S21-S22), MercuryParadox (S21-S22), RobertBadlose (S21-S22)
 
-**1 Season (17):** GreenDoomsDay (S4), SuddenlyBeagles (S4), Rhi (S5), Snusty (S6), dans1988 (S8), GenerationOzzie (S10), Leriella (S14), Flouzemaker (S15), Thebestcandy (S15), Zaahnn (S15), TGMB1 (S16), BurningT (S17), Fairyjuice (S17), Emerric (S20), Bobbytheturtle (S21), MercuryParadox (S21), RobertBadlose (S21)
+**1 Season (16):** GreenDoomsDay (S4), SuddenlyBeagles (S4), Rhi (S5), Snusty (S6), dans1988 (S8), GenerationOzzie (S10), Leriella (S14), Flouzemaker (S15), Thebestcandy (S15), Zaahnn (S15), TGMB1 (S16), BurningT (S17), Fairyjuice (S17), Emerric (S20), awau (S22), Greeples (S22)
 
 ---
 ### Debutants
@@ -669,5 +695,7 @@
 **S20 (4):** Awticon, ColdBac, Emerric, MeadowMoos
 
 **S21 (3):** Bobbytheturtle, MercuryParadox, RobertBadlose
+
+**S22 (2):** awau, Greeples
 
 ---

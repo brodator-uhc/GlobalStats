@@ -1,0 +1,185 @@
+## Overhaul Live Statistics
+
+---
+### Winners
+
+**S1: Captureee (6)**, *checog (0)*
+
+**S2: Fcrm (1), PupperKun (1), sgouche (4)**
+
+**S3: 5ize (3)**
+
+**S4: Ginzburg (4)**, *PupperKun (3)*
+
+---
+### Runner Ups
+
+**S1:** benidk (3), dahii (1)
+
+**S2:** alexnv (1), benidk (2), SOAKLE (6)
+
+**S3:** Cloversss (5)
+
+**S4:** GrassPiece (0), skyzfy (5)
+
+---
+### Most Kills
+
+**S1:** Captureee (6)
+
+**S2:** SOAKLE (6)
+
+**S3:** Cloversss (5)
+
+**S4:** skyzfy (5)
+
+---
+### Most Kills (Team)
+
+**S1:** Captureee (6), checog (0)
+
+**S2:** alexnv (1), benidk (2), SOAKLE (6)
+
+**S3:** N/A
+
+**S4:** Ginzburg (4), PupperKun (3)
+
+---
+### First Damage
+
+**S1:** PotatoPlayer_
+
+**S2:** Flcnt
+
+**S3:** sgouche (0:0:33)
+
+**S4:** Fearx_
+
+---
+### Ironman
+
+**S1:** GodlySteal
+
+**S2:** _carn
+
+**S3:** SAYNAR (0:37:11)
+
+**S4:** CommanderK22_
+
+---
+### First Blood
+
+**S1:** PotatoPlayer_ (skyzfy)
+
+**S2:** zCent (CHAINGE)
+
+**S3:** _Dieter (CurdledDrip)
+
+**S4:** HalfLechuga (ArcticSeagull)
+
+---
+### First Death
+
+**S1:** skyzfy (PotatoPlayer_)
+
+**S2:** CHAINGE (zCent)
+
+**S3:** kawaiibunri (Fall)
+
+**S4:** ArcticSeagull (HalfLechuga)
+
+---
+### Kills
+
+**1st - Cloversss (8):** sgouche (S3), broccoliar (S3), Kaismartypants (S3), bayweafs (S3), _Dieter (S3), sgouche (S4), Fcrm (S4), onstep (S4)
+
+**1st - Ginzburg (8):** zCent (S1), DumbThiccNick (S1), GrassPiece (S1), carterwarterbear (S1), Fearx_ (S4), SAYNAR (S4), Cloversss (S4), skyzfy (S4)
+
+**1st - skyzfy (8):** broccoliar (S2), zCent (S2), swishduck (S2), ItsShqky (S4), Kaismartypants (S4), Colozi (S4), CHAINGE (S4), PupperKun (S4)
+
+**1st - SOAKLE (8):** ScaryPumpkinFace (S1), RollRealQuick (S2), _1mmortal_ (S2), GrassPiece (S2), skyzfy (S2), Spongey (S2), SAYNAR (S2), HUQTER (S3)
+
+**5th - Captureee (6):** Cahmn (S1), CHAINGE (S1), Fcrm (S1), onstep (S1), PotatoPlayer_ (S1), benidk (S1)
+
+**5th - CurdledDrip (6):** zohhhh (S1), sgouche (S1), Ryfri (S1), strategy (S1), Ryfri (S4), FroztiSnowman (S4)
+
+**7th - benidk (5):** SAYNAR (S1), Spongey (S1), PupperKun (S1), DumbThiccNick (S2), _carn (S2)
+
+**7th - broccoliar (5):** onstep (S2), Flcnt (S2), Bornyo (S4), bayweafs (S4), CommanderK22_ (S4)
+
+**9th - CHAINGE (4):** checog (S1), Fcrm (S3), GodlySteal (S4), HalfLechuga (S4)
+
+**9th - PupperKun (4):** alexnv (S2), benidk (S4), zCent (S4), CurdledDrip (S4)
+
+**9th - sgouche (4):** Cloversss (S2), _pbo (S2), benidk (S2), SOAKLE (S2)
+
+**9th - zCent (4):** CHAINGE (S2), Kaddyn (S2), checog (S2), Kaismartypants (S2)
+
+**13th - _Dieter (3):** CurdledDrip (S3), PotatoPlayer_ (S3), strategy (S3)
+
+**13th - 5ize (3):** SOAKLE (S3), CHAINGE (S3), Cloversss (S3)
+
+**13th - Spongey (3):** _carn (S1), Ginzburg (S1), CurdledDrip (S1)
+
+**16th - alexnv (2):** Glarza (S2), SPEEDYDIGS (S3)
+
+**16th - carterwarterbear (2):** SOAKLE (S1), _1mmortal_ (S1)
+
+**16th - Fcrm (2):** Stravilight (S2), SAYNAR (S3)
+
+**16th - PotatoPlayer_ (2):** skyzfy (S1), kawaiibunri (S1)
+
+**16th - SAYNAR (2):** DJoee (S2), GrassPiece (S4)
+
+**16th - strategy (2):** CommanderK22_ (S1), ArcticSeagull (S3)
+
+**22nd - bayweafs (1):** BoltsInCharge (S4)
+
+**22nd - CommanderK22_ (1):** DJoee (S1)
+
+**22nd - dahii (1):** GodlySteal (S1)
+
+**22nd - Glarza (1):** FishManIsPotato (S2)
+
+**22nd - HalfLechuga (1):** ArcticSeagull (S4)
+
+**22nd - Kaismartypants (1):** _1mmortal_ (S3)
+
+**22nd - onstep (1):** dahii (S1)
+
+**22nd - ScaryPumpkinFace (1):** alexnv (S1)
+
+**22nd - SPEEDYDIGS (1):** dahii (S3)
+
+**22nd - Stravilight (1):** dahii (S2)
+
+---
+### PvE Deaths
+
+**Fall (2):** kawaiibunri (S3), alexnv (S3)
+
+**Anvil (1):** broccoliar (S4)
+
+---
+### Participation
+
+**4 Seasons (4):** CHAINGE (S1-S4), Fcrm (S1-S4), SAYNAR (S1-S4), sgouche (S1-S4)
+
+**3 Seasons (14):** _1mmortal_ (S1-S3), alexnv (S1-S3), benidk (S1-S2,S4), CurdledDrip (S1,S3-S4), dahii (S1-S3), GrassPiece (S1-S2,S4), onstep (S1-S2,S4), PupperKun (S1-S2,S4), skyzfy (S1-S2,S4), SOAKLE (S1-S3), zCent (S1-S2,S4), broccoliar (S2-S4), Cloversss (S2-S4), Kaismartypants (S2-S4)
+
+**2 Seasons (14):** _carn (S1-S2), checog (S1-S2), CommanderK22_ (S1,S4), DJoee (S1-S2), DumbThiccNick (S1-S2), Ginzburg (S1,S4), GodlySteal (S1,S4), kawaiibunri (S1,S3), PotatoPlayer_ (S1,S3), Ryfri (S1,S4), Spongey (S1-S2), strategy (S1,S3), ArcticSeagull (S3-S4), bayweafs (S3-S4)
+
+**1 Season (24):** Cahmn (S1), Captureee (S1), carterwarterbear (S1), ScaryPumpkinFace (S1), zohhhh (S1), _pbo (S2), FishManIsPotato (S2), Flcnt (S2), Glarza (S2), Kaddyn (S2), RollRealQuick (S2), Stravilight (S2), swishduck (S2), _Dieter (S3), 5ize (S3), HUQTER (S3), SPEEDYDIGS (S3), BoltsInCharge (S4), Bornyo (S4), Colozi (S4), Fearx_ (S4), FroztiSnowman (S4), HalfLechuga (S4), ItsShqky (S4)
+
+---
+### Debutants
+
+**S1 (32):** _1mmortal_, _carn, alexnv, benidk, Cahmn, Captureee, carterwarterbear, CHAINGE, checog, CommanderK22_, CurdledDrip, dahii, DJoee, DumbThiccNick, Fcrm, Ginzburg, GodlySteal, GrassPiece, kawaiibunri, onstep, PotatoPlayer_, PupperKun, Ryfri, SAYNAR, ScaryPumpkinFace, sgouche, skyzfy, SOAKLE, Spongey, strategy, zCent, zohhhh
+
+**S2 (11):** _pbo, broccoliar, Cloversss, FishManIsPotato, Flcnt, Glarza, Kaddyn, Kaismartypants, RollRealQuick, Stravilight, swishduck
+
+**S3 (6):** _Dieter, 5ize, ArcticSeagull, bayweafs, HUQTER, SPEEDYDIGS
+
+**S4 (7):** BoltsInCharge, Bornyo, Colozi, Fearx_, FroztiSnowman, HalfLechuga, ItsShqky
+
+---
