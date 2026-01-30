@@ -40,7 +40,7 @@
 
 **S7:** CharliesNotCool (0), navcelium (0)
 
-**S8:** ItsFlynn (0), kawaiihorizons (1), MilkyMajime (2), xRaltz (2)
+**S8:** ItsFlynn (0), kawaiihorizons (1), MilkyMajime (2), xRaltz (3)
 
 **S9:** AshleyMashley (0), Calliwags (0), glitterazzi (0), HeyItsJBug (2), ItsEth (0), Jammill (0), kawaiihorizons (0), MatthewDiamandis (0), softpinks (0), SonOfAMermaid (0), xRaltz (0)
 
@@ -195,11 +195,11 @@
 
 **4th - Quinnton (10):** Gravity_Faller (S7), bwolforiginals (S7), J05HUA14 (S9), cocoflourish (S9), PhoenixofHope (S10), Chattiexo (S10), Aaerons (S10), AaronLoves (S10), ItsFlynn (S10), Synexthal (S10)
 
-**5th - basicallybea (8):** Chqr (S8), MadalynPlayz (S8), Synexthal (S8), Jammill (S8), softpinks (S8), DyslecticAttack (S8), CloverDotPNG (S8), xRaltz (S8)
+**5th - xRaltz (9):** SxraGames (S4), Shaunaaaaa (S5), CloverDotPNG (S5), Quinnton (S8), LeeWantsToGame (S8), Calliwags (S8), Erdql (S10), ExcuseMeImJack (S10), HeyItsJBug (S10)
 
-**5th - Synexthal (8):** Infinitty (S2), wishyjerry (S2), Kriannah (S7), CharliesNotCool (S7), kawaiihorizons (S7), navcelium (S7), kawaiihorizons (S8), ExcuseMeImJenny_ (S10)
+**6th - basicallybea (8):** Chqr (S8), MadalynPlayz (S8), Synexthal (S8), Jammill (S8), softpinks (S8), DyslecticAttack (S8), CloverDotPNG (S8), xRaltz (S8)
 
-**5th - xRaltz (8):** SxraGames (S4), Shaunaaaaa (S5), CloverDotPNG (S5), Quinnton (S8), Calliwags (S8), Erdql (S10), ExcuseMeImJack (S10), HeyItsJBug (S10)
+**6th - Synexthal (8):** Infinitty (S2), wishyjerry (S2), Kriannah (S7), CharliesNotCool (S7), kawaiihorizons (S7), navcelium (S7), kawaiihorizons (S8), ExcuseMeImJenny_ (S10)
 
 **8th - DerpIsTooDerpy (6):** Synexthal (S5), Walker_Plays (S5), navcelium (S5), friedriceu (S7), Quinnton (S7), HeyItsJBug (S7)
 
@@ -297,8 +297,6 @@
 **Skeleton (2):** Lilliexx (S4), luvvlana (S6)
 
 **Enderman (1):** ItsFlynn (S9)
-
-**N/A (1):** LeeWantsToGame (S8)
 
 ---
 ### Participation

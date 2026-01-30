@@ -7,11 +7,11 @@
 
 **S2: Linaxox (1)**, *Cloudful (2)*
 
-**S3: _Fost_ (4)**, *GamingStarr (2)*
+**S3: \_Fost\_ (4)**, *GamingStarr (2)*
 
 **S4: ItzIgglesPiggles (5)**, *MineKG (0)*
 
-**S5: Aglz (0), Alisa_Muffins (0), Flpz (0)**
+**S5: Aglz (0), Alisa\_Muffins (0), Flpz (0)**
 
 **S6: Pelycosaur (8)**
 
@@ -30,7 +30,7 @@
 
 **S4:** AirInAirOut (1), Bofishkix (1)
 
-**S5:** _Fost_ (1), DakotaB15 (1), DoggyGamingMC (0), GamingStarr (0), HeyItsJBug (0), ItsJustPanda (0), ItzIgglesPiggles (0), l4yte (0), Linaxox (1), LinusStudios (0), MatthewDiamandis (0), MrEzzo (2), Nikanod (0), SofaSeven (0), SumChunkyBoi (0), TastyBaconZ (2), TehBaconBrawlerZ (0)
+**S5:** \_Fost\_ (1), DakotaB15 (1), DoggyGamingMC (0), GamingStarr (0), HeyItsJBug (0), ItsJustPanda (0), ItzIgglesPiggles (0), l4yte (0), Linaxox (1), LinusStudios (0), MatthewDiamandis (0), MrEzzo (2), Nikanod (0), SofaSeven (0), SumChunkyBoi (0), TastyBaconZ (2), TehBaconBrawlerZ (0)
 
 **S6:** GamingStarr (2)
 
@@ -64,7 +64,7 @@
 
 **S2:** AshleyMashley (5), J05HUA14 (0)
 
-**S3:** Pelycosaur (6), TehBaconBrawlerZ (0) & GamingStarr (2), _Fost_ (4)
+**S3:** Pelycosaur (6), TehBaconBrawlerZ (0) & GamingStarr (2), \_Fost\_ (4)
 
 **S4:** Pelycosaur (4), GamingStarr (2)
 
@@ -102,7 +102,7 @@
 
 **S2:** Anerrec
 
-**S3:** _Fost_
+**S3:** \_Fost\_
 
 **S4:** Aglz
 
@@ -155,7 +155,7 @@
 ---
 ### Kills
 
-**1st - Pelycosaur (26):** WolfII1313 (S3), Queenstown (S3), AkaIroniq (S3), J05HUA14 (S3), HeyItsJBug (S3), KolbertAlert (S3), Aqua51 (S4), MrEzzo (S4), GReimer (S4), _Fost_ (S4), Erdql (S6), MrEzzo (S6), _Fost_ (S6), kirbey (S6), brayuhn (S6), Kaismartypants (S6), Aglz (S6), GamingStarr (S6), MatthewDiamandis (S7), HeyItsJBug (S7), CodeJoshua (S7), ItsJustPanda (S7), kirbey (S7), BigJedo (S7), Aglz (S7), SofaSeven (S7)
+**1st - Pelycosaur (26):** WolfII1313 (S3), Queenstown (S3), AkaIroniq (S3), J05HUA14 (S3), HeyItsJBug (S3), KolbertAlert (S3), Aqua51 (S4), MrEzzo (S4), GReimer (S4), \_Fost\_ (S4), Erdql (S6), MrEzzo (S6), \_Fost\_ (S6), kirbey (S6), brayuhn (S6), Kaismartypants (S6), Aglz (S6), GamingStarr (S6), MatthewDiamandis (S7), HeyItsJBug (S7), CodeJoshua (S7), ItsJustPanda (S7), kirbey (S7), BigJedo (S7), Aglz (S7), SofaSeven (S7)
 
 **2nd - DakotaB15 (17):** HeyItsVincey (S1), Hikaio (S1), KolbertAlert (S1), Platys (S1), ItsFlynn (S1), J05HUA14 (S1), HeyItsJBug (S1), DerpIsTooDerpy (S1), J05HUA14 (S2), Sammleys (S2), rhimads (S2), DoggyGamingMC (S2), GamingStarr (S3), eluate (S5), J05HUA14 (S6), eluate (S6), CodeJoshua (S6)
 
@@ -167,7 +167,7 @@
 
 **5th - HeyItsJBug (6):** Mousea (S1), DakotaB15 (S4), MatthewDiamandis (S4), SofaSeven (S4), TastyBaconZ (S6), DakotaB15 (S6)
 
-**7th - _Fost_ (5):** CalebD52 (S3), MineKG (S3), Pelycosaur (S3), DakotaB15 (S3), GReimer (S5)
+**7th - \_Fost\_ (5):** CalebD52 (S3), MineKG (S3), Pelycosaur (S3), DakotaB15 (S3), GReimer (S5)
 
 **8th - AirInAirOut (4):** HeyItsJBug (S4), Kaismartypants (S8), DakotaB15 (S8), GamingStarr (S8)
 
@@ -185,7 +185,7 @@
 
 **11th - Kotskii (3):** CalebD52 (S7), PhoenixofHope (S7), Jqmalll (S7)
 
-**11th - TastyBaconZ (3):** Hikaio (S5), PatTheBecky (S5), Alisa_Muffins (S6)
+**11th - TastyBaconZ (3):** Hikaio (S5), PatTheBecky (S5), Alisa\_Muffins (S6)
 
 **17th - AkaIroniq (2):** GamingStarr (S2), DakotaB15 (S2)
 
@@ -199,7 +199,7 @@
 
 **17th - LinusStudios (2):** bwolforiginals (S3), MrEzzo (S3)
 
-**17th - Platys (2):** Flarp_Master (S1), Anerrac (S1)
+**17th - Platys (2):** Flarp\_Master (S1), Anerrac (S1)
 
 **24th - ArcticSeagull (1):** GamingStarr (S7)
 
@@ -221,7 +221,7 @@
 
 **24th - Sammleys (1):** kirbey (S5)
 
-**24th - TehBaconBrawlerZ (1):** Alisa_Muffins (S4)
+**24th - TehBaconBrawlerZ (1):** Alisa\_Muffins (S4)
 
 **24th - WishyNathan (1):** ItsJustPanda (S6)
 
@@ -275,24 +275,24 @@
 
 **5 Seasons (7):** AshleyMashley (S2-S4,S7-S8), MatthewDiamandis (S2,S4-S5,S7-S8), MineKG (S2-S6), MrEzzo (S2-S6), TehBaconBrawlerZ (S3-S7), Aglz (S4-S8), ItzIgglesPiggles (S4-S8)
 
-**4 Seasons (9):** ItsFlynn (S1-S2,S5,S7), Linaxox (S1-S2,S5,S7), Kotskii (S2,S5-S7), softpinks (S2,S4-S5,S7), _Fost_ (S3-S6), Pelycosaur (S3-S4,S6-S7), SofaSeven (S4-S7), Erdql (S5-S8), ItsJustPanda (S5-S8)
+**4 Seasons (9):** ItsFlynn (S1-S2,S5,S7), Linaxox (S1-S2,S5,S7), Kotskii (S2,S5-S7), softpinks (S2,S4-S5,S7), \_Fost\_ (S3-S6), Pelycosaur (S3-S4,S6-S7), SofaSeven (S4-S7), Erdql (S5-S8), ItsJustPanda (S5-S8)
 
-**3 Seasons (10):** CodeJoshua (S1,S6-S7), DoggyGamingMC (S1-S2,S5), Hikaio (S1,S3,S5), Aqua51 (S2-S4), CalebD52 (S2-S3,S7), Alisa_Muffins (S4-S6), eluate (S4-S6), GReimer (S4-S6), Flpz (S5-S7), Kaismartypants (S5-S6,S8)
+**3 Seasons (10):** CodeJoshua (S1,S6-S7), DoggyGamingMC (S1-S2,S5), Hikaio (S1,S3,S5), Aqua51 (S2-S4), CalebD52 (S2-S3,S7), Alisa\_Muffins (S4-S6), eluate (S4-S6), GReimer (S4-S6), Flpz (S5-S7), Kaismartypants (S5-S6,S8)
 
 **2 Seasons (16):** Cloudful (S1-S2), DerpIsTooDerpy (S1,S5), KolbertAlert (S1,S3), AkaIroniq (S2-S3), BarelyPink (S2-S3), BlueNerd (S2-S3), Sammleys (S2,S5), LinusStudios (S3,S5), MeliaJenae (S3,S5), AirInAirOut (S4,S8), Bofishkix (S4-S5), TastyBaconZ (S5-S6), Aqua54 (S6-S7), ArcticSeagull (S7-S8), Brodator (S7-S8), PhoenixofHope (S7-S8)
 
-**1 Season (42):** Anerrac (S1), Flarp_Master (S1), HeyItsVincey (S1), Mousea (S1), mythkid (S1), Platys (S1), QuackMyCheeks (S1), WoodFloor (S1), Anerrec (S2), AntixPlays (S2), EzPoiint (S2), Lilliexx (S2), LuckBearExe (S2), Mattabulous (S2), RedVaporeon (S2), rhimads (S2), Ungratefulbird (S2), Veridiss (S2), bwolforiginals (S3), Fizzeh (S3), Queenstown (S3), WolfII1313 (S3), Willerhide (S4), AmaraBella33 (S5), ButterflyDad (S5), DevoyTTV (S5), l4yte (S5), luvvlana (S5), nFang (S5), Nikanod (S5), PatTheBecky (S5), SumChunkyBoi (S5), TayUHC (S5), brayuhn (S6), WishyNathan (S6), BigJedo (S7), ColleVAs (S7), Eagris (S7), Jqmalll (S7), KindOceanNova (S7), LovelyAngwl (S7), taikhoom1806 (S7)
+**1 Season (42):** Anerrac (S1), Flarp\_Master (S1), HeyItsVincey (S1), Mousea (S1), mythkid (S1), Platys (S1), QuackMyCheeks (S1), WoodFloor (S1), Anerrec (S2), AntixPlays (S2), EzPoiint (S2), Lilliexx (S2), LuckBearExe (S2), Mattabulous (S2), RedVaporeon (S2), rhimads (S2), Ungratefulbird (S2), Veridiss (S2), bwolforiginals (S3), Fizzeh (S3), Queenstown (S3), WolfII1313 (S3), Willerhide (S4), AmaraBella33 (S5), ButterflyDad (S5), DevoyTTV (S5), l4yte (S5), luvvlana (S5), nFang (S5), Nikanod (S5), PatTheBecky (S5), SumChunkyBoi (S5), TayUHC (S5), brayuhn (S6), WishyNathan (S6), BigJedo (S7), ColleVAs (S7), Eagris (S7), Jqmalll (S7), KindOceanNova (S7), LovelyAngwl (S7), taikhoom1806 (S7)
 
 ---
 ### Debutants
 
-**S1 (19):** Anerrac, Cloudful, CodeJoshua, DakotaB15, DerpIsTooDerpy, DoggyGamingMC, Flarp_Master, HeyItsJBug, HeyItsVincey, Hikaio, ItsFlynn, J05HUA14, KolbertAlert, Linaxox, Mousea, mythkid, Platys, QuackMyCheeks, WoodFloor
+**S1 (19):** Anerrac, Cloudful, CodeJoshua, DakotaB15, DerpIsTooDerpy, DoggyGamingMC, Flarp\_Master, HeyItsJBug, HeyItsVincey, Hikaio, ItsFlynn, J05HUA14, KolbertAlert, Linaxox, Mousea, mythkid, Platys, QuackMyCheeks, WoodFloor
 
 **S2 (24):** AkaIroniq, Anerrec, AntixPlays, Aqua51, AshleyMashley, BarelyPink, BlueNerd, CalebD52, EzPoiint, GamingStarr, kirbey, Kotskii, Lilliexx, LuckBearExe, Mattabulous, MatthewDiamandis, MineKG, MrEzzo, RedVaporeon, rhimads, Sammleys, softpinks, Ungratefulbird, Veridiss
 
-**S3 (9):** _Fost_, bwolforiginals, Fizzeh, LinusStudios, MeliaJenae, Pelycosaur, Queenstown, TehBaconBrawlerZ, WolfII1313
+**S3 (9):** \_Fost\_, bwolforiginals, Fizzeh, LinusStudios, MeliaJenae, Pelycosaur, Queenstown, TehBaconBrawlerZ, WolfII1313
 
-**S4 (9):** Aglz, AirInAirOut, Alisa_Muffins, Bofishkix, eluate, GReimer, ItzIgglesPiggles, SofaSeven, Willerhide
+**S4 (9):** Aglz, AirInAirOut, Alisa\_Muffins, Bofishkix, eluate, GReimer, ItzIgglesPiggles, SofaSeven, Willerhide
 
 **S5 (15):** AmaraBella33, ButterflyDad, DevoyTTV, Erdql, Flpz, ItsJustPanda, Kaismartypants, l4yte, luvvlana, nFang, Nikanod, PatTheBecky, SumChunkyBoi, TastyBaconZ, TayUHC
 

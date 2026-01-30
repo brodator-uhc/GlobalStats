@@ -173,6 +173,8 @@
 
 **16th - Dj8ninja (2):** QuilJ1 (S6), Kyster (S6)
 
+**16th - DrShnig (2):** QuilJ1 (S7), SoulvG (S7)
+
 **16th - Helioseus (2):** RavingPlatypi (S2), Regifloat (S2)
 
 **16th - jamertxn (2):** BZSTEVE (S1), Drumgod97 (S1)
@@ -187,37 +189,35 @@
 
 **16th - TheChrisD (2):** Anorable (S4), 78ford (S4)
 
-**25th - __Fi__ (1):** ItzEngel (S5)
+**26th - __Fi__ (1):** ItzEngel (S5)
 
-**25th - Bangbus_ (1):** maxwelldd (S5)
+**26th - Bangbus_ (1):** maxwelldd (S5)
 
-**25th - Chasmic (1):** BBR_ (S6)
+**26th - Chasmic (1):** BBR_ (S6)
 
-**25th - Dan (1):** octagonalpaul (S3)
+**26th - Dan (1):** octagonalpaul (S3)
 
-**25th - DannyBoy104 (1):** elKingMorgan (S3)
+**26th - DannyBoy104 (1):** elKingMorgan (S3)
 
-**25th - DePAKed (1):** tielarina (S5)
+**26th - DePAKed (1):** tielarina (S5)
 
-**25th - DrShnig (1):** SoulvG (S7)
+**26th - Gameslayer989 (1):** Davelions (S4)
 
-**25th - Gameslayer989 (1):** Davelions (S4)
+**26th - GoldenAppleGuy (1):** Anorable (S5)
 
-**25th - GoldenAppleGuy (1):** Anorable (S5)
+**26th - iPerson (1):** Slowths (S5)
 
-**25th - iPerson (1):** Slowths (S5)
+**26th - MarcC5M (1):** Piegonmc (S2)
 
-**25th - MarcC5M (1):** Piegonmc (S2)
+**26th - Piegonmc (1):** Kryotos (S2)
 
-**25th - Piegonmc (1):** Kryotos (S2)
+**26th - RavingRaven (1):** Absentduck (S2)
 
-**25th - RavingRaven (1):** Absentduck (S2)
+**26th - SoulvG (1):** Pizzarcato (S7)
 
-**25th - SoulvG (1):** Pizzarcato (S7)
+**26th - StoneAgedGaming (1):** Darkstorm77 (S6)
 
-**25th - StoneAgedGaming (1):** Darkstorm77 (S6)
-
-**25th - ULTIMATE7FALCON (1):** BZSTEVE (S3)
+**26th - ULTIMATE7FALCON (1):** BZSTEVE (S3)
 
 ---
 ### PvE Deaths
@@ -233,8 +233,6 @@
 **Creeper (1):** SidGarcia (S6)
 
 **Fall (1):** star2wars3 (S6)
-
-**N/A (1):** QuilJ1 (S7)
 
 **Zombie (1):** JoshC2 (S6)
 

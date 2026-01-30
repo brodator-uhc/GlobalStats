@@ -742,7 +742,7 @@
 
 **S18:** Tonks (Lava)
 
-**S19:** BCA (N/A)
+**S19:** BCA (Creeper)
 
 **S20:** Saor (Zombie)
 
@@ -932,7 +932,7 @@
 
 **Fall (24):** Creepersr3venge (S1), Fallen43Kyle (S1), DarkAngel2393 (S3), Creepersr3venge (S4), BlackDeath (S4), S0ulreaper (S4), Daedalushunter (S5), MisplacedManiac (S7), itotallyrock (S8), KBDShadow (S9), BCA (S11), KolbyZW (S16), Tonks (S17), ADH (S19), duckywatson (S21), Regifloat (S34), Balone (S34), dangers93 (S34), Vince_M (S36), Professer_TNT (S37), Silverthief (S39), Professer_TNT (S47), 78ford (S50), lexicuhl (S50)
 
-**Creeper (17):** 78ford (S3), DarkAngel2393 (S4), ThePropHat (S8), Gabby_Horaceffa (S14), itotallyrock (S18), marcaron (S28), PaleoLabs (S31a), GoldenAppleGuy (S33), Anorable (S34), Deathlark (S37), Glenvillecowmilk (S42), Anorable (S44), Aschilon (S46), BBR_ (S46), JamestheDouglas (S46), nihontiger (S47), Anorable (S47)
+**Creeper (18):** 78ford (S3), DarkAngel2393 (S4), ThePropHat (S8), Gabby_Horaceffa (S14), itotallyrock (S18), BCA (S19), marcaron (S28), PaleoLabs (S31a), GoldenAppleGuy (S33), Anorable (S34), Deathlark (S37), Glenvillecowmilk (S42), Anorable (S44), Aschilon (S46), BBR_ (S46), JamestheDouglas (S46), nihontiger (S47), Anorable (S47)
 
 **Lava (13):** Fallen43Kyle (S6), ThePropHat (S7), DeathCheata (S10), KolbyZW (S12), jackoj11 (S14), KolbyZW (S17), Tonks (S18), week3 (S19), Vince_M (S20), jackoj11 (S22), J0rdan (S33), Kryotos (S38), TommySuX (S46)
 
@@ -969,8 +969,6 @@
 **Enderman (1):** BlackDeath (S3)
 
 **Guardian (1):** dangers93 (S44)
-
-**N/A (1):** BCA (S19)
 
 **Silverfish (1):** MarcC5M (S37)
 

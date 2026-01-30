@@ -272,13 +272,11 @@
 ---
 ### PvE Deaths
 
-**Death (5):** Tyxbo (S1), aypierre (S3), Notitou (S5), Guep (S8), Newtiteuf (S9)
+**Death (6):** Tyxbo (S1), aypierre (S3), Notitou (S5), Guep (S8), Newtiteuf (S9), Julgane (S10)
 
 **Creeper (3):** Tchobax (S2), Jasur80 (S7), MathoX (S8)
 
 **Left (1):** Setrox_ (S4)
-
-**N/A (1):** Julgane (S10)
 
 **Spider (1):** Jasur80 (S2)
 

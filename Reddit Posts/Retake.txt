@@ -59,9 +59,9 @@
 ---
 ### Kills
 
-**1st - DevoyTTV (8):** Rebelghost (S1), Bofishkix (S1), Hardkour (S1), TonyEatWorld (S1), Thermql (S1), ohh_lia (S2), Kelawesome (S2), PresidentFleb (S2)
+**1st - DevoyTTV (8):** Rebelghost (S1), Bofishkix (S1), Hardkour (S1), TonyEatWorld (S1), Thermql (S1), ohh\_lia (S2), Kelawesome (S2), PresidentFleb (S2)
 
-**2nd - Brocko (4):** KlutzySphere (S1), _Fost_ (S1), SmolHatChild (S1), Brodator (S1)
+**2nd - Brocko (4):** KlutzySphere (S1), \_Fost\_ (S1), SmolHatChild (S1), Brodator (S1)
 
 **2nd - CipherKai (4):** cahsowo (S2), BigJedo (S2), Fcrm (S2), Broseph (S2)
 
@@ -97,13 +97,13 @@
 
 **2 Seasons (3):** Brodator (S1-S2), DevoyTTV (S1-S2), FrostBros (S1-S2)
 
-**1 Season (32):** _Fost_ (S1), aalaan (S1), Bofishkix (S1), Brocko (S1), Caffeindiazepine (S1), CHAINGE (S1), Hardkour (S1), KlutzySphere (S1), Lucarrio (S1), Pelycosaur (S1), Rebelghost (S1), RqDix (S1), SmolHatChild (S1), TastyBaconZ (S1), Thermql (S1), TonyEatWorld (S1), ZachMcD (S1), ArcticSeagull (S2), Arich (S2), BigJedo (S2), Broseph (S2), cahsowo (S2), CipherKai (S2), Codwhy (S2), DJoee (S2), Fcrm (S2), Glarza (S2), Kaismartypants (S2), Kelawesome (S2), Markedbooboy (S2), ohh_lia (S2), PresidentFleb (S2)
+**1 Season (32):** \_Fost\_ (S1), aalaan (S1), Bofishkix (S1), Brocko (S1), Caffeindiazepine (S1), CHAINGE (S1), Hardkour (S1), KlutzySphere (S1), Lucarrio (S1), Pelycosaur (S1), Rebelghost (S1), RqDix (S1), SmolHatChild (S1), TastyBaconZ (S1), Thermql (S1), TonyEatWorld (S1), ZachMcD (S1), ArcticSeagull (S2), Arich (S2), BigJedo (S2), Broseph (S2), cahsowo (S2), CipherKai (S2), Codwhy (S2), DJoee (S2), Fcrm (S2), Glarza (S2), Kaismartypants (S2), Kelawesome (S2), Markedbooboy (S2), ohh\_lia (S2), PresidentFleb (S2)
 
 ---
 ### Debutants
 
-**S1 (20):** _Fost_, aalaan, Bofishkix, Brocko, Brodator, Caffeindiazepine, CHAINGE, DevoyTTV, FrostBros, Hardkour, KlutzySphere, Lucarrio, Pelycosaur, Rebelghost, RqDix, SmolHatChild, TastyBaconZ, Thermql, TonyEatWorld, ZachMcD
+**S1 (20):** \_Fost\_, aalaan, Bofishkix, Brocko, Brodator, Caffeindiazepine, CHAINGE, DevoyTTV, FrostBros, Hardkour, KlutzySphere, Lucarrio, Pelycosaur, Rebelghost, RqDix, SmolHatChild, TastyBaconZ, Thermql, TonyEatWorld, ZachMcD
 
-**S2 (15):** ArcticSeagull, Arich, BigJedo, Broseph, cahsowo, CipherKai, Codwhy, DJoee, Fcrm, Glarza, Kaismartypants, Kelawesome, Markedbooboy, ohh_lia, PresidentFleb
+**S2 (15):** ArcticSeagull, Arich, BigJedo, Broseph, cahsowo, CipherKai, Codwhy, DJoee, Fcrm, Glarza, Kaismartypants, Kelawesome, Markedbooboy, ohh\_lia, PresidentFleb
 
 ---

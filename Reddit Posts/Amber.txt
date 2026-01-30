@@ -11,7 +11,7 @@
 
 **S4: Sassybunion (4)**, *Slaybate (0), TurboNinja03 (0)*
 
-**S5: AnubisStreams (2), brinkwhy (5), Jixposa (2)**
+**S5: brinkwhy (5), Jixposa (2), Woobis (2)**
 
 **S6: brinkwhy (1)**
 
@@ -78,7 +78,7 @@
 
 **S16:** _1mmortal_ (2), AdonisGaming (0)
 
-**S17:** AnubisStreams (1), DavidAdams (0)
+**S17:** DavidAdams (0), Woobis (1)
 
 **S18:** MichaelPlayMC (1), Pelycosaur (2)
 
@@ -140,7 +140,7 @@
 
 **S4:** Jaxx (0), Jixposa (1), AHSOKATANOSTAN (7)
 
-**S5:** AnubisStreams (2), Jixposa (2), brinkwhy (5)
+**S5:** Woobis (2), Jixposa (2), brinkwhy (5)
 
 **S6:** N/A
 
@@ -230,7 +230,7 @@
 
 **S6:** chrisgames2k
 
-**S7:** AnubisStreams
+**S7:** Woobis
 
 **S8:** SergeantM
 
@@ -248,7 +248,7 @@
 
 **S15:** Blarkslol
 
-**S16:** AnubisStreams
+**S16:** Woobis
 
 **S17:** brinkwhy
 
@@ -265,7 +265,7 @@
 
 **S2:** JustLethal (St0rmplayz)
 
-**S3:** TurboNinja03 (AnubisStreams)
+**S3:** TurboNinja03 (Woobis)
 
 **S4:** Sassybunion (Slaybate)
 
@@ -347,13 +347,13 @@
 ---
 ### Kills
 
-**1st - brinkwhy (29):** HeyImHungry (S1), TurboNinja03 (S3), Sassybunion (S3), SergeantM (S5), GeckoG33k (S5), SimplyGlaceon (S5), Icecreeper30 (S5), DatGuyAdam (S5), Dragon_Vapes (S6), Drkrai (S7), orangeman2000 (S7), mhuggins5 (S7), AnubisStreams (S7), PleaseTry (S7), Dragon_Vapes (S7), Fancyyy (S8), Slooshyy (S8), Jorgeeay (S8), DatGuyAdam (S8), Jorgeeay (S9), Plushy33 (S14), ItsShqky (S14), AnubisStreams (S14), AdonisGaming (S14), braidenOW (S14), PotteryTNT (S14), Yesnobody (S17), _1mmortal_ (S17), AnubisStreams (S17)
+**1st - brinkwhy (29):** HeyImHungry (S1), TurboNinja03 (S3), Sassybunion (S3), SergeantM (S5), GeckoG33k (S5), SimplyGlaceon (S5), Icecreeper30 (S5), DatGuyAdam (S5), Dragon_Vapes (S6), Drkrai (S7), orangeman2000 (S7), mhuggins5 (S7), Woobis (S7), PleaseTry (S7), Dragon_Vapes (S7), Fancyyy (S8), Slooshyy (S8), Jorgeeay (S8), DatGuyAdam (S8), Jorgeeay (S9), Plushy33 (S14), ItsShqky (S14), Woobis (S14), AdonisGaming (S14), braidenOW (S14), PotteryTNT (S14), Yesnobody (S17), _1mmortal_ (S17), Woobis (S17)
 
 **2nd - AHSOKATANOSTAN (15):** Jixposa (S3), SergeantM (S3), mhuggins5 (S3), St0rmplayz (S3), Yist (S4), brinkwhy (S4), braidenOW (S4), SuchAqua (S4), St0rmplayz (S4), GodlyGoomys (S4), TurboNinja03 (S4), yungAMW (S7), SergeantM (S7), Fancyyy (S7), ItsShqky (S7)
 
-**3rd - St0rmplayz (12):** AHSOKATANOSTAN (S1), SergeantM (S1), SergeantM (S9), nsket (S9), strategy (S9), Flcnt (S19), Shinrai_ (S19), mhuggins5 (S20), MichaelPlayMC (S20), _1mmortal_ (S20), AnubisStreams (S20), BloodBlack (S20)
+**3rd - St0rmplayz (12):** AHSOKATANOSTAN (S1), SergeantM (S1), SergeantM (S9), nsket (S9), strategy (S9), Flcnt (S19), Shinrai_ (S19), mhuggins5 (S20), MichaelPlayMC (S20), _1mmortal_ (S20), Woobis (S20), BloodBlack (S20)
 
-**4th - DatGuyAdam (9):** JustLethal (S1), JustLethal (S2), RedditPlayer (S2), Sneaky26 (S2), AJEvolved (S2), AnubisStreams (S2), ItsShqky (S8), Dragon_Vapes (S8), _ChaosKaz_ (S8)
+**4th - DatGuyAdam (9):** JustLethal (S1), JustLethal (S2), RedditPlayer (S2), Sneaky26 (S2), AJEvolved (S2), Woobis (S2), ItsShqky (S8), Dragon_Vapes (S8), _ChaosKaz_ (S8)
 
 **5th - ItsColinn (8):** Jorgeeay (S10), St0rmplayz (S10), natsuvi (S10), mhuggins5 (S10), DevoyTTV (S10), DatGuyAdam (S10), SergeantM (S10), PotteryTNT (S10)
 
@@ -361,15 +361,13 @@
 
 **7th - _1mmortal_ (6):** ItsShqky (S16), MichaelPlayMC (S16), DatGuyAdam (S17), Bofishkix (S17), Julse (S18), TayUHC (S18)
 
-**7th - Krbreb (6):** SergeantM (S16), AnubisStreams (S16), CodeJoshua (S16), _Fost_ (S16), Rebelghost (S16), _1mmortal_ (S16)
+**7th - Krbreb (6):** SergeantM (S16), Woobis (S16), CodeJoshua (S16), _Fost_ (S16), Rebelghost (S16), _1mmortal_ (S16)
 
 **9th - MichaelPlayMC (5):** Bofishkix (S13), St0rmplayz (S15), HeyItsJBug (S17), SergeantM (S17), Pelycosaur (S18)
 
 **9th - Pelycosaur (5):** DatGuyAdam (S9), St0rmplayz (S9), Frisky_Savage (S12), Vetmire (S18), MichaelPlayMC (S18)
 
 **9th - SergeantM (5):** JoshC2 (S12), Djmandude (S14), ArcticSeagull (S16), Djmandude (S16), Vetmire (S16)
-
-**12th - AnubisStreams (4):** TurboNinja03 (S5), yungAMW (S5), Yesnobody (S16), Charrlottie (S17)
 
 **12th - broccoliar (4):** ArcticSeagull (S13), _1mmortal_ (S19), Cinnamiinii (S19), AdonisGaming (S20)
 
@@ -385,11 +383,13 @@
 
 **12th - Sassybunion (4):** Slaybate (S4), IyaIsMad (S4), Jixposa (S4), AHSOKATANOSTAN (S4)
 
+**12th - Woobis (4):** TurboNinja03 (S5), yungAMW (S5), Yesnobody (S16), Charrlottie (S17)
+
 **20th - ArcticSeagull (3):** AdonisGaming (S13), MichaelPlayMC (S13), iiLynnell (S16)
 
 **20th - DatBoiMudkip (3):** GodlyGoomys (S2), SergeantM (S2), DatGuyAdam (S2)
 
-**20th - DevoyTTV (3):** AnubisStreams (S11), CodeJoshua (S11), CharizOVO (S11)
+**20th - DevoyTTV (3):** Woobis (S11), CodeJoshua (S11), CharizOVO (S11)
 
 **20th - Frisky_Savage (3):** Plushy33 (S11), Thermql (S11), DevoyTTV (S11)
 
@@ -409,7 +409,7 @@
 
 **20th - Vetmire (3):** ArcticSeagull (S18), SergeantM (S18), Shinrai_ (S18)
 
-**20th - Yesnobody (3):** AnubisStreams (S15), ItsShqky (S17), MichaelPlayMC (S17)
+**20th - Yesnobody (3):** Woobis (S15), ItsShqky (S17), MichaelPlayMC (S17)
 
 **20th - yungAMW (3):** mhuggins5 (S6), JustLethal (S6), Drkrai (S6)
 
@@ -435,7 +435,7 @@
 
 **34th - Rebelghost (2):** Plushy33 (S13), JaqOnCraq (S13)
 
-**34th - TurboNinja03 (2):** AnubisStreams (S3), DatGuyAdam (S3)
+**34th - TurboNinja03 (2):** Woobis (S3), DatGuyAdam (S3)
 
 **34th - zeesue (2):** broccoliar (S20), Kaddyn (S20)
 
@@ -484,7 +484,7 @@
 
 **Fall (8):** RedditPlayer (S1), AJEvolved (S4), Brocko (S5), Sassybunion (S7), St0rmplayz (S7), Slooshyy (S10), Bofishkix (S16), Kaddyn (S19)
 
-**Lava (4):** NinjaBatHat (S1), chrisgames2k (S1), AnubisStreams (S1), ArcticSeagull (S12)
+**Lava (4):** NinjaBatHat (S1), chrisgames2k (S1), Woobis (S1), ArcticSeagull (S12)
 
 **Burning (2):** yungAMW (S6), JaqOnCraq (S10)
 
@@ -519,7 +519,7 @@
 
 **12 Seasons (0):** 
 
-**11 Seasons (3):** AnubisStreams (S1-S3,S5,S7,S11,S14-S17,S20), brinkwhy (S1,S3-S9,S12,S14,S17), St0rmplayz (S1-S5,S7,S9-S10,S15,S19-S20)
+**11 Seasons (3):** brinkwhy (S1,S3-S9,S12,S14,S17), St0rmplayz (S1-S5,S7,S9-S10,S15,S19-S20), Woobis (S1-S3,S5,S7,S11,S14-S17,S20)
 
 **10 Seasons (1):** DatGuyAdam (S1-S5,S7-S10,S17)
 
@@ -544,7 +544,7 @@
 ---
 ### Debutants
 
-**S1 (11):** AHSOKATANOSTAN, AnubisStreams, brinkwhy, chrisgames2k, DatGuyAdam, HeyImHungry, JustLethal, NinjaBatHat, RedditPlayer, SergeantM, St0rmplayz
+**S1 (11):** AHSOKATANOSTAN, brinkwhy, chrisgames2k, DatGuyAdam, HeyImHungry, JustLethal, NinjaBatHat, RedditPlayer, SergeantM, St0rmplayz, Woobis
 
 **S2 (5):** AJEvolved, DatBoiMudkip, GodlyGoomys, Shinrai_, Sneaky26
 

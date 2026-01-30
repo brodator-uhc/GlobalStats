@@ -95,7 +95,7 @@
 
 **5th - Senkhi (2):** AdonisGaming (S2), ArcticSeagull (S2)
 
-**5th - Zcin (2):** AnubisStreams (S3), egl_ (S3)
+**5th - Zcin (2):** Woobis (S3), egl_ (S3)
 
 **12th - Jorgeeay (1):** MineKG (S1)
 
@@ -125,7 +125,7 @@
 
 **2 Seasons (2):** Slooshyy (S1-S2), AdonisGaming (S2-S3)
 
-**1 Season (34):** 123SteveBob (S1), AiroKun (S1), Andronify (S1), AtomicBelch (S1), Bofishkix (S1), brinkwhy (S1), ExtinguishYT (S1), Jorgeeay (S1), Karliffu (S1), mickae (S1), MineKG (S1), natsuvi (S1), SandyyChan (S1), SeaHqwk (S1), Thermql (S1), xRaltz (S1), ZebraPantz (S1), broccoliar (S2), Hendysaurus (S2), Plushy33 (S2), Senkhi (S2), T1mT0m (S2), Woex (S2), AnubisStreams (S3), Blarkslol (S3), Captinn (S3), egl_ (S3), HeyItsJBug (S3), iiLynnell (S3), JamDoggie (S3), KingmegaB (S3), love_gem4164 (S3), TayUHC (S3), Zcin (S3)
+**1 Season (34):** 123SteveBob (S1), AiroKun (S1), Andronify (S1), AtomicBelch (S1), Bofishkix (S1), brinkwhy (S1), ExtinguishYT (S1), Jorgeeay (S1), Karliffu (S1), mickae (S1), MineKG (S1), natsuvi (S1), SandyyChan (S1), SeaHqwk (S1), Thermql (S1), xRaltz (S1), ZebraPantz (S1), broccoliar (S2), Hendysaurus (S2), Plushy33 (S2), Senkhi (S2), T1mT0m (S2), Woex (S2), Blarkslol (S3), Captinn (S3), egl_ (S3), HeyItsJBug (S3), iiLynnell (S3), JamDoggie (S3), KingmegaB (S3), love_gem4164 (S3), TayUHC (S3), Woobis (S3), Zcin (S3)
 
 ---
 ### Debutants
@@ -134,6 +134,6 @@
 
 **S2 (7):** AdonisGaming, broccoliar, Hendysaurus, Plushy33, Senkhi, T1mT0m, Woex
 
-**S3 (11):** AnubisStreams, Blarkslol, Captinn, egl_, HeyItsJBug, iiLynnell, JamDoggie, KingmegaB, love_gem4164, TayUHC, Zcin
+**S3 (11):** Blarkslol, Captinn, egl_, HeyItsJBug, iiLynnell, JamDoggie, KingmegaB, love_gem4164, TayUHC, Woobis, Zcin
 
 ---

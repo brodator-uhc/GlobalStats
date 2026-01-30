@@ -58,7 +58,7 @@
 
 **S9:** JoblessGarrett (0), ryguyrocky (0)
 
-**S10:** Jaybull (1), UnspeakableGame (2)
+**S10:** Jaybull (1), UnspeakableGame (3)
 
 **S11:** AviatorGaming (0), Jaybull (1)
 
@@ -95,7 +95,7 @@
 
 **S9:** ItsMooseCraft, LeahAshe (1)
 
-**S10:** UnspeakableGame (2)
+**S10:** UnspeakableGame (3)
 
 **S11:** ItsMooseCraft (3)
 
@@ -130,7 +130,7 @@
 
 **S9:** ItsMooseCraft (1), LeahAshe (1)
 
-**S10:** Jaybull (1), UnspeakableGame (2)
+**S10:** Jaybull (1), UnspeakableGame (3)
 
 **S11:** ItsMooseCraft (3), UnspeakableGame (0)
 
@@ -295,7 +295,7 @@
 ---
 ### Kills
 
-**1st - UnspeakableGame (11):** Megannplays (S1), JoblessGarrett (S1), Jaybull (S1), AviatorGaming (S4), BurtDude (S4), SladeBlade (S4), ItsMooseCraft (S4), FavreMySabre (S4), ryguyrocky (S8), AviatorGaming (S10), Megannplays (S10)
+**1st - UnspeakableGame (12):** Megannplays (S1), JoblessGarrett (S1), Jaybull (S1), AviatorGaming (S4), BurtDude (S4), SladeBlade (S4), ItsMooseCraft (S4), FavreMySabre (S4), ryguyrocky (S8), AviatorGaming (S10), Megannplays (S10), JoblessGarrett (S10)
 
 **2nd - ItsMooseCraft (9):** ryguyrocky (S1), LeahAshe (S1), LeahAshe (S7), Jaybull (S8), ryguyrocky (S9), Jaybull (S10), Ash503 (S11), BurtDude (S11), Jaybull (S11)
 
@@ -337,8 +337,6 @@
 **Drowning (1):** AviatorGaming (S14)
 
 **Lava (1):** AviatorGaming (S13)
-
-**N/A (1):** JoblessGarrett (S10)
 
 **Silverfish (1):** Jaybull (S5)
 

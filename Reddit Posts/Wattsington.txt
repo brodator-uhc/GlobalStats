@@ -10,7 +10,7 @@
 ---
 ### Runner Ups
 
-**S1:** _Dieter (0), JaqOnCraq (0), tbhjosh (0)
+**S1:** \_Dieter (0), JaqOnCraq (0), tbhjosh (0)
 
 **S2:** CipherKai (4)
 
@@ -45,7 +45,7 @@
 ---
 ### First Blood
 
-**S1:** _ChrisMS (natsuvi)
+**S1:** \_ChrisMS (natsuvi)
 
 **S2:** Codwhy (natsuvi)
 
@@ -63,17 +63,17 @@
 
 **2nd - Bofishkix (3):** Karliffu (S1), nFang (S2), SiahStone (S2)
 
-**2nd - Broseph (3):** TheSheepMasters (S1), _ChrisMS (S1), Brodator (S1)
+**2nd - Broseph (3):** TheSheepMasters (S1), \_ChrisMS (S1), Brodator (S1)
 
-**2nd - Caydone (3):** TheSheepMasters (S2), ohh_lia (S2), CipherKai (S2)
+**2nd - Caydone (3):** TheSheepMasters (S2), ohh\_lia (S2), CipherKai (S2)
 
 **2nd - lilygant (3):** tbhjosh (S1), Normoh (S1), JaqOnCraq (S1)
 
-**6th - chugmitchell (2):** _Dieter (S1), Bofishkix (S2)
+**6th - chugmitchell (2):** \_Dieter (S1), Bofishkix (S2)
 
 **6th - Codwhy (2):** natsuvi (S2), Pelycosaur (S2)
 
-**8th - _ChrisMS (1):** natsuvi (S1)
+**8th - \_ChrisMS (1):** natsuvi (S1)
 
 **8th - Brodator (1):** Bofishkix (S1)
 
@@ -94,7 +94,7 @@
 
 **Skeleton (2):** Banji3000 (S2), ToggleFPS (S2)
 
-**Left (1):** kendawg_g (S2)
+**Left (1):** kendawg\_g (S2)
 
 **Slime (1):** Jorgeeay (S1)
 
@@ -105,13 +105,13 @@
 
 **2 Seasons (10):** Bofishkix (S1-S2), Caydone (S1-S2), chugmitchell (S1-S2), CipherKai (S1-S2), DevoyTTV (S1-S2), Fra49 (S1-S2), Karliffu (S1-S2), natsuvi (S1-S2), TheSheepMasters (S1-S2), ToggleFPS (S1-S2)
 
-**1 Season (21):** _ChrisMS (S1), _Dieter (S1), 123SteveBob (S1), alexnv (S1), Brodator (S1), Broseph (S1), JaqOnCraq (S1), Jorgeeay (S1), lilygant (S1), Normoh (S1), tbhjosh (S1), Banji3000 (S2), CaptainRichy (S2), Codwhy (S2), Fcrm (S2), kendawg_g (S2), nFang (S2), NickPlaysGames15 (S2), ohh_lia (S2), Pelycosaur (S2), SiahStone (S2)
+**1 Season (21):** \_ChrisMS (S1), \_Dieter (S1), 123SteveBob (S1), alexnv (S1), Brodator (S1), Broseph (S1), JaqOnCraq (S1), Jorgeeay (S1), lilygant (S1), Normoh (S1), tbhjosh (S1), Banji3000 (S2), CaptainRichy (S2), Codwhy (S2), Fcrm (S2), kendawg\_g (S2), nFang (S2), NickPlaysGames15 (S2), ohh\_lia (S2), Pelycosaur (S2), SiahStone (S2)
 
 ---
 ### Debutants
 
-**S1 (21):** _ChrisMS, _Dieter, 123SteveBob, alexnv, Bofishkix, Brodator, Broseph, Caydone, chugmitchell, CipherKai, DevoyTTV, Fra49, JaqOnCraq, Jorgeeay, Karliffu, lilygant, natsuvi, Normoh, tbhjosh, TheSheepMasters, ToggleFPS
+**S1 (21):** \_ChrisMS, \_Dieter, 123SteveBob, alexnv, Bofishkix, Brodator, Broseph, Caydone, chugmitchell, CipherKai, DevoyTTV, Fra49, JaqOnCraq, Jorgeeay, Karliffu, lilygant, natsuvi, Normoh, tbhjosh, TheSheepMasters, ToggleFPS
 
-**S2 (10):** Banji3000, CaptainRichy, Codwhy, Fcrm, kendawg_g, nFang, NickPlaysGames15, ohh_lia, Pelycosaur, SiahStone
+**S2 (10):** Banji3000, CaptainRichy, Codwhy, Fcrm, kendawg\_g, nFang, NickPlaysGames15, ohh\_lia, Pelycosaur, SiahStone
 
 ---

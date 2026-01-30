@@ -10,14 +10,14 @@
 ---
 ### Runner Ups
 
-**S1:** JemanaJade (0), Omastar (1)
+**S1:** JemanaJade (0), Omastar (2)
 
 **S2:** Linea (0), Tiffany (2)
 
 ---
 ### Most Kills
 
-**S1:** C0DVIDZ, Devon_Mines, Izeeee, MrTechnocrack (2)
+**S1:** C0DVIDZ, Devon_Mines, Izeeee, MrTechnocrack, Omastar (2)
 
 **S2:** SnoopyK9 (7)
 
@@ -45,7 +45,7 @@
 ---
 ### First Blood
 
-**S1:** Omastar (haileylovesyew)
+**S1:** Omastar (stephacality)
 
 **S2:** SnoopyK9 (JemanaJade)
 
@@ -71,15 +71,15 @@
 
 **2nd - MsMissyMinecraft (2):** Gir_28 (S2), haileylovesyew (S2)
 
+**2nd - Omastar (2):** stephacality (S1), haileylovesyew (S1)
+
 **2nd - Tiffany (2):** daylarae (S2), ugheddie (S2)
 
-**8th - haileylovesyew (1):** HeyImNatalia (S2)
+**9th - haileylovesyew (1):** HeyImNatalia (S2)
 
-**8th - HeyImNatalia (1):** ILYTiger (S2)
+**9th - HeyImNatalia (1):** ILYTiger (S2)
 
-**8th - Omastar (1):** haileylovesyew (S1)
-
-**8th - TOXICWASTEll (1):** Tiffany (S1)
+**9th - TOXICWASTEll (1):** Tiffany (S1)
 
 ---
 ### PvE Deaths
@@ -93,8 +93,6 @@
 **Enderman (1):** kennedyclair (S2)
 
 **Lava (1):** MsMissyMinecraft (S1)
-
-**N/A (1):** stephacality (S1)
 
 ---
 ### Participation

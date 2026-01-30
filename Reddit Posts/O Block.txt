@@ -38,7 +38,7 @@
 ---
 ### Ironman
 
-**S1:** meeles_yea4reelz (1:48:47)
+**S1:** meeles\_yea4reelz (1:48:47)
 
 **S2:** FishToEscapeWife (1:39:5)
 
@@ -59,13 +59,13 @@
 ---
 ### Kills
 
-**1st - Brodator (15):** meeles_yea4reelz (S1), jimmyjegs (S1), DoctorCrazy89 (S1), Klobb (S1), GamingStarr (S1), draylor09 (S2), omnikrxn (S2), jimmyjegs (S2), DogOfKrondor (S2), Xzeaulor (S2), H_L_llama (S2), FishToEscapeWife (S2), Jalapinecone (S2), ProMapleSyrup (S2), LinusStudios (S2)
+**1st - Brodator (15):** meeles\_yea4reelz (S1), jimmyjegs (S1), DoctorCrazy89 (S1), Klobb (S1), GamingStarr (S1), draylor09 (S2), omnikrxn (S2), jimmyjegs (S2), DogOfKrondor (S2), Xzeaulor (S2), H\_L\_llama (S2), FishToEscapeWife (S2), Jalapinecone (S2), ProMapleSyrup (S2), LinusStudios (S2)
 
-**2nd - fruitlogic (7):** BigBenGold (S1), BuildingBard300 (S1), ProMapleSyrup (S1), Jalapinecone (S2), ProMapleSyrup (S2), H_L_llama (S2), starlxghtmoon (S2)
+**2nd - fruitlogic (7):** BigBenGold (S1), BuildingBard300 (S1), ProMapleSyrup (S1), Jalapinecone (S2), ProMapleSyrup (S2), H\_L\_llama (S2), starlxghtmoon (S2)
 
-**3rd - FishToEscapeWife (6):** LinusStudios (S2), H_L_llama (S2), Plushy33 (S2), Brodator (S2), Klobb (S2), Xzeaulor (S2)
+**3rd - FishToEscapeWife (6):** LinusStudios (S2), H\_L\_llama (S2), Plushy33 (S2), Brodator (S2), Klobb (S2), Xzeaulor (S2)
 
-**4th - H_L_llama (3):** DogOfKrondor (S2), ZebraTonic (S2), Brodator (S2)
+**4th - H\_L\_llama (3):** DogOfKrondor (S2), ZebraTonic (S2), Brodator (S2)
 
 **4th - jimmyjegs (3):** DogOfKrondor (S1), Klobb (S2), BuildingBard300 (S2)
 
@@ -73,9 +73,9 @@
 
 **4th - Ninetals38 (3):** 798abc (S1), Jalapinecone (S1), Brodator (S1)
 
-**4th - Plushy33 (3):** starlxghtmoon (S2), H_L_llama (S2), Xzeaulor (S2)
+**4th - Plushy33 (3):** starlxghtmoon (S2), H\_L\_llama (S2), Xzeaulor (S2)
 
-**4th - ProMapleSyrup (3):** jimmyjegs (S2), DogOfKrondor (S2), ZenonX_ (S2)
+**4th - ProMapleSyrup (3):** jimmyjegs (S2), DogOfKrondor (S2), ZenonX\_ (S2)
 
 **4th - Xzeaulor (3):** omnikrxn (S1), omnikrxn (S2), Plushy33 (S2)
 
@@ -98,7 +98,7 @@
 ---
 ### PvE Deaths
 
-**Creeper (1):** H_L_llama (S2)
+**Creeper (1):** H\_L\_llama (S2)
 
 **Fall (1):** omnikrxn (S2)
 
@@ -109,13 +109,13 @@
 
 **2 Seasons (12):** Brodator (S1-S2), BuildingBard300 (S1-S2), DogOfKrondor (S1-S2), fruitlogic (S1-S2), Jalapinecone (S1-S2), jimmyjegs (S1-S2), Klobb (S1-S2), omnikrxn (S1-S2), ProMapleSyrup (S1-S2), starlxghtmoon (S1-S2), Xzeaulor (S1-S2), ZebraTonic (S1-S2)
 
-**1 Season (18):** 798abc (S1), ArcaneAxolotl (S1), BigBenGold (S1), CharityTheGreat (S1), DoctorCrazy89 (S1), GamingStarr (S1), meeles_yea4reelz (S1), Ninetals38 (S1), Nyxbee (S1), Scrub72 (S1), TehBaconBrawlerZ (S1), WinnerSkye (S1), draylor09 (S2), FishToEscapeWife (S2), H_L_llama (S2), LinusStudios (S2), Plushy33 (S2), ZenonX_ (S2)
+**1 Season (18):** 798abc (S1), ArcaneAxolotl (S1), BigBenGold (S1), CharityTheGreat (S1), DoctorCrazy89 (S1), GamingStarr (S1), meeles\_yea4reelz (S1), Ninetals38 (S1), Nyxbee (S1), Scrub72 (S1), TehBaconBrawlerZ (S1), WinnerSkye (S1), draylor09 (S2), FishToEscapeWife (S2), H\_L\_llama (S2), LinusStudios (S2), Plushy33 (S2), ZenonX\_ (S2)
 
 ---
 ### Debutants
 
-**S1 (24):** 798abc, ArcaneAxolotl, BigBenGold, Brodator, BuildingBard300, CharityTheGreat, DoctorCrazy89, DogOfKrondor, fruitlogic, GamingStarr, Jalapinecone, jimmyjegs, Klobb, meeles_yea4reelz, Ninetals38, Nyxbee, omnikrxn, ProMapleSyrup, Scrub72, starlxghtmoon, TehBaconBrawlerZ, WinnerSkye, Xzeaulor, ZebraTonic
+**S1 (24):** 798abc, ArcaneAxolotl, BigBenGold, Brodator, BuildingBard300, CharityTheGreat, DoctorCrazy89, DogOfKrondor, fruitlogic, GamingStarr, Jalapinecone, jimmyjegs, Klobb, meeles\_yea4reelz, Ninetals38, Nyxbee, omnikrxn, ProMapleSyrup, Scrub72, starlxghtmoon, TehBaconBrawlerZ, WinnerSkye, Xzeaulor, ZebraTonic
 
-**S2 (6):** draylor09, FishToEscapeWife, H_L_llama, LinusStudios, Plushy33, ZenonX_
+**S2 (6):** draylor09, FishToEscapeWife, H\_L\_llama, LinusStudios, Plushy33, ZenonX\_
 
 ---

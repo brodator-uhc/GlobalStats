@@ -624,7 +624,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             if (worksheet.Cell(10, firstDataColumn).GetString().Equals(""))
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
+                //Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
             }
             else
             {
@@ -655,7 +655,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             if (worksheet.Cell(6, firstDataColumn).GetString().Equals(""))
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
+                //Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
             }
             else
             {
@@ -694,7 +694,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             if (worksheet.Cell(12, firstDataColumn).GetString().Equals(""))
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
+                //Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
             }
             else
             {
@@ -726,7 +726,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
             if (worksheet.Cell(8, firstDataColumn).GetString().Equals(""))
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
+                //Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
             }
             else
             {
@@ -2247,6 +2247,10 @@ static String getPvEDeath(IXLCell cell)
     else if (cell.CellLeft().GetString().Contains("magic"))//Magic
     {
         pvedeath = "Potion";
+    }
+    else if (cell.CellLeft().GetString().Contains("lightning"))//Lightning
+    {
+        pvedeath = "Lightning";
     }
     else if (cell.CellLeft().GetString().Contains("shot"))//Arrow
     {

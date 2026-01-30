@@ -9,11 +9,11 @@
 
 **S3: Bofishkix (0), jakeyx3 (0), Kelawesome (2)**
 
-**S4: alexnv (2), Coward (7)**, *Codwhy (0), egl_ (0)*
+**S4: alexnv (2), Coward (7)**, *Codwhy (0), egl\_ (0)*
 
 **S5: Cyndic (5)**, *EnergyPulse (2)*
 
-**S6: _ChrisMS (5)**
+**S6: \_ChrisMS (5)**
 
 **S7: alexnv (7)**, *nFang (0), Pelycosaur (0), SummerBqsh (3)*
 
@@ -26,7 +26,7 @@
 
 **S2:** Digdude (1), Greeples (0), InsertDotJpeg (0), JustNolan (2), SiahStone (1)
 
-**S3:** _JJL (0), Andrew512 (0), Broseph (0), cherryblawsom (0), CipherKai (0), cynnamon (0), DevoyTTV (3), Fra49 (0), JustNolan (0), Pelycosaur (1), SiahStone (0), SmolHatChild (0), Ullti (0)
+**S3:** \_JJL (0), Andrew512 (0), Broseph (0), cherryblawsom (0), CipherKai (0), cynnamon (0), DevoyTTV (3), Fra49 (0), JustNolan (0), Pelycosaur (1), SiahStone (0), SmolHatChild (0), Ullti (0)
 
 **S4:** Bofishkix (0), cherryblawsom (2), Fra49 (0), ItsColinn (4), JamestheDouglas (0), Ullti (0)
 
@@ -34,7 +34,7 @@
 
 **S6:** Brodator (5)
 
-**S7:** _Fost_ (0), CipherKai (6), Rebelghost (1), Zebobo10 (3)
+**S7:** \_Fost\_ (0), CipherKai (6), Rebelghost (1), Zebobo10 (3)
 
 **S8:** alexnv (2), Bofishkix (1), Broseph (2), Codwhy (2), Fcrm (2), Kaismartypants (0)
 
@@ -51,7 +51,7 @@
 
 **S5:** JustNolan (7)
 
-**S6:** _ChrisMS, Brodator, Pelycosaur (5)
+**S6:** \_ChrisMS, Brodator, Pelycosaur (5)
 
 **S7:** alexnv (7)
 
@@ -66,13 +66,13 @@
 
 **S3:** Pelycosaur (1), CHAINGE (0), DevoyTTV (3)
 
-**S4:** Codwhy (0), alexnv (2), egl_ (0), Coward (7)
+**S4:** Codwhy (0), alexnv (2), egl\_ (0), Coward (7)
 
 **S5:** Abdalain (6), JustNolan (7)
 
 **S6:** N/A
 
-**S7:** SummerBqsh (3), Pelycosaur (0), alexnv (7), nFang (0) & Zebobo10 (3), _Fost_ (0), Rebelghost (1), CipherKai (6)
+**S7:** SummerBqsh (3), Pelycosaur (0), alexnv (7), nFang (0) & Zebobo10 (3), \_Fost\_ (0), Rebelghost (1), CipherKai (6)
 
 **S8:** ShyGus (4), vynil (1), InsertDotJpeg (0), MaxEvasion (4), cherryblawsom (2), Brodator (0)
 
@@ -89,7 +89,7 @@
 
 **S5:** alexnv
 
-**S6:** _ChrisMS
+**S6:** \_ChrisMS
 
 **S7:** Broseph
 
@@ -102,7 +102,7 @@
 
 **S2:** Bofishkix
 
-**S3:** _JJL
+**S3:** \_JJL
 
 **S4:** JamestheDouglas
 
@@ -155,7 +155,7 @@
 ---
 ### Kills
 
-**1st - alexnv (12):** Bofishkix (S4), Andrew512 (S4), egl_ (S5), Caydone (S7), ohh_lia (S7), CHAINGE (S7), pigghetti (S7), _Fost_ (S7), Rebelghost (S7), Zebobo10 (S7), Pelycosaur (S8), SiahStone (S8)
+**1st - alexnv (12):** Bofishkix (S4), Andrew512 (S4), egl\_ (S5), Caydone (S7), ohh\_lia (S7), CHAINGE (S7), pigghetti (S7), \_Fost\_ (S7), Rebelghost (S7), Zebobo10 (S7), Pelycosaur (S8), SiahStone (S8)
 
 **1st - JustNolan (12):** ERHDude (S2), DevoyTTV (S2), nFang (S5), zac083 (S5), Eroe (S5), Potsie (S5), Kelawesome (S5), HigmanFreud (S5), Brodator (S5), Alacan (S6), Cyndic (S6), Zebobo10 (S6)
 
@@ -163,17 +163,17 @@
 
 **4th - Pelycosaur (9):** SummerBqsh (S2), Greeples (S2), InsertDotJpeg (S3), Drake132667596 (S6), aalaan (S6), Kelawesome (S6), alexnv (S6), SiahStone (S6), Fra49 (S8)
 
-**5th - Lighte (8):** FrostBros (S1), Codwhy (S1), Dj8ninja (S1), colbay (S1), ohh_lia (S4), egl_ (S4), SiahStone (S4), Ullti (S4)
+**5th - Lighte (8):** FrostBros (S1), Codwhy (S1), Dj8ninja (S1), colbay (S1), ohh\_lia (S4), egl\_ (S4), SiahStone (S4), Ullti (S4)
 
-**6th - Broseph (7):** Digdude (S1), Prisma (S1), _ChrisMS (S5), Greeples (S5), Blarkslol (S6), aalaan (S8), Codwhy (S8)
+**6th - Broseph (7):** Digdude (S1), Prisma (S1), \_ChrisMS (S5), Greeples (S5), Blarkslol (S6), aalaan (S8), Codwhy (S8)
 
 **6th - CipherKai (7):** Microus (S5), SiahStone (S7), Cyndic (S7), EnergyPulse (S7), Fra49 (S7), SharkeyJaws (S7), Kelawesome (S7)
 
-**6th - Coward (7):** tbhjosh (S4), HigmanFreud (S4), DevoyTTV (S4), _ChrisMS (S4), ItsColinn (S4), cherryblawsom (S4), JamestheDouglas (S4)
+**6th - Coward (7):** tbhjosh (S4), HigmanFreud (S4), DevoyTTV (S4), \_ChrisMS (S4), ItsColinn (S4), cherryblawsom (S4), JamestheDouglas (S4)
 
 **6th - HigmanFreud (7):** ERHDude (S4), RabidChipmunk (S4), Pelycosaur (S4), ghostblurr (S5), nFang (S6), Microus (S6), pigghetti (S6)
 
-**10th - _ChrisMS (6):** CipherKai (S6), MaxEvasion (S6), cherryblawsom (S6), JamestheDouglas (S6), Brodator (S6), Markedbooboy (S8)
+**10th - \_ChrisMS (6):** CipherKai (S6), MaxEvasion (S6), cherryblawsom (S6), JamestheDouglas (S6), Brodator (S6), Markedbooboy (S8)
 
 **10th - Abdalain (6):** aalaan (S5), SmolHatChild (S5), pigghetti (S5), Espik (S5), Fcrm (S5), nyaaia (S5)
 
@@ -183,17 +183,17 @@
 
 **10th - ShyGus (6):** ERHDude (S5), Broseph (S5), ghostblurr (S8), Bofishkix (S8), Stravilight (S8), tbhjosh (S8)
 
-**10th - SiahStone (6):** nsket (S2), DevoyTTV (S6), egl_ (S6), InsertDotJpeg (S6), ghostblurr (S7), nFang (S8)
+**10th - SiahStone (6):** nsket (S2), DevoyTTV (S6), egl\_ (S6), InsertDotJpeg (S6), ghostblurr (S7), nFang (S8)
 
 **16th - cherryblawsom (5):** Fra49 (S2), CHAINGE (S4), ghostblurr (S4), CrowJRC (S8), FrostBros (S8)
 
-**16th - MaxEvasion (5):** CHAINGE (S3), nyaaia (S8), Caydone (S8), egl_ (S8), alexnv (S8)
+**16th - MaxEvasion (5):** CHAINGE (S3), nyaaia (S8), Caydone (S8), egl\_ (S8), alexnv (S8)
 
 **16th - nsket (5):** Abdalain (S1), aalaan (S1), FumoSnake (S1), lexicuhl (S1), Dj8ninja (S2)
 
 **19th - Alacan (4):** JustNolan (S2), InsertDotJpeg (S2), Harryb2k (S5), PedroLeGamer (S5)
 
-**19th - Caydone (4):** Lighte (S8), Kaismartypants (S8), _ChrisMS (S8), DevoyTTV (S8)
+**19th - Caydone (4):** Lighte (S8), Kaismartypants (S8), \_ChrisMS (S8), DevoyTTV (S8)
 
 **19th - FrostBros (4):** Ullti (S6), HigmanFreud (S6), Pelycosaur (S6), Fcrm (S8)
 
@@ -209,9 +209,9 @@
 
 **26th - Digdude (3):** InsertDotJpeg (S1), SmolHatChild (S1), Ullti (S2)
 
-**26th - egl_ (3):** TorinFBF (S5), lexicuhl (S8), Broseph (S8)
+**26th - egl\_ (3):** TorinFBF (S5), lexicuhl (S8), Broseph (S8)
 
-**26th - ERHDude (3):** SiahStone (S5), Fra49 (S6), ohh_lia (S6)
+**26th - ERHDude (3):** SiahStone (S5), Fra49 (S6), ohh\_lia (S6)
 
 **26th - Fcrm (3):** Ullti (S7), nsket (S8), pigghetti (S8)
 
@@ -301,13 +301,13 @@
 
 **5 Seasons (4):** CipherKai (S3,S5-S8), MaxEvasion (S3-S6,S8), alexnv (S4-S8), ghostblurr (S4-S8)
 
-**4 Seasons (10):** SmolHatChild (S1,S3,S5,S8), JustNolan (S2-S3,S5-S6), SummerBqsh (S2,S5-S7), Kelawesome (S3,S5-S7), _ChrisMS (S4-S6,S8), egl_ (S4-S6,S8), JamestheDouglas (S4-S7), Fcrm (S5-S8), nFang (S5-S8), pigghetti (S5-S8)
+**4 Seasons (10):** SmolHatChild (S1,S3,S5,S8), JustNolan (S2-S3,S5-S6), SummerBqsh (S2,S5-S7), Kelawesome (S3,S5-S7), \_ChrisMS (S4-S6,S8), egl\_ (S4-S6,S8), JamestheDouglas (S4-S7), Fcrm (S5-S8), nFang (S5-S8), pigghetti (S5-S8)
 
-**3 Seasons (23):** Abdalain (S1,S3,S5), Codwhy (S1,S4,S8), cynnamon (S1,S3-S4), Digdude (S1-S2,S4), EnergyPulse (S1,S5,S7), Espik (S1,S4-S5), FrostBros (S1,S6,S8), lexicuhl (S1-S2,S8), Lighte (S1,S4,S8), Normoh (S1-S2,S8), nsket (S1-S2,S8), nyaaia (S1,S5,S8), Alacan (S2,S5-S6), Andrew512 (S3-S5), CHAINGE (S3-S4,S7), TorinFBF (S3,S5,S8), HigmanFreud (S4-S6), ohh_lia (S4,S6-S7), Blarkslol (S5-S7), Cyndic (S5-S7), PedroLeGamer (S5-S7), ShyGus (S5,S7-S8), Zebobo10 (S6-S8)
+**3 Seasons (23):** Abdalain (S1,S3,S5), Codwhy (S1,S4,S8), cynnamon (S1,S3-S4), Digdude (S1-S2,S4), EnergyPulse (S1,S5,S7), Espik (S1,S4-S5), FrostBros (S1,S6,S8), lexicuhl (S1-S2,S8), Lighte (S1,S4,S8), Normoh (S1-S2,S8), nsket (S1-S2,S8), nyaaia (S1,S5,S8), Alacan (S2,S5-S6), Andrew512 (S3-S5), CHAINGE (S3-S4,S7), TorinFBF (S3,S5,S8), HigmanFreud (S4-S6), ohh\_lia (S4,S6-S7), Blarkslol (S5-S7), Cyndic (S5-S7), PedroLeGamer (S5-S7), ShyGus (S5,S7-S8), Zebobo10 (S6-S8)
 
 **2 Seasons (12):** Dj8ninja (S1-S2), Greeples (S2,S5), jakeyx3 (S3,S5), RabidChipmunk (S4,S6), Rebelghost (S4,S7), tbhjosh (S4,S8), Drake132667596 (S5-S6), Microus (S5-S6), Stravilight (S5,S8), zac083 (S5,S8), Caydone (S7-S8), Markedbooboy (S7-S8)
 
-**1 Season (24):** colbay (S1), FumoSnake (S1), Prisma (S1), ChainingVermin2 (S2), _JJL (S3), nh177O13 (S3), brinkwhy (S4), Coward (S4), ItsColinn (S4), Centrios (S5), Eroe (S5), Exstreme (S5), Harryb2k (S5), m4ku (S5), Potsie (S5), Psykl0ne (S5), _Fost_ (S7), SharkeyJaws (S7), CrowJRC (S8), ElGavinoSupremo (S8), Kaismartypants (S8), natsuvi (S8), strategy (S8), vynil (S8)
+**1 Season (24):** colbay (S1), FumoSnake (S1), Prisma (S1), ChainingVermin2 (S2), \_JJL (S3), nh177O13 (S3), brinkwhy (S4), Coward (S4), ItsColinn (S4), Centrios (S5), Eroe (S5), Exstreme (S5), Harryb2k (S5), m4ku (S5), Potsie (S5), Psykl0ne (S5), \_Fost\_ (S7), SharkeyJaws (S7), CrowJRC (S8), ElGavinoSupremo (S8), Kaismartypants (S8), natsuvi (S8), strategy (S8), vynil (S8)
 
 ---
 ### Debutants
@@ -316,15 +316,15 @@
 
 **S2 (6):** Alacan, ChainingVermin2, Fra49, Greeples, JustNolan, SummerBqsh
 
-**S3 (9):** _JJL, Andrew512, CHAINGE, CipherKai, jakeyx3, Kelawesome, MaxEvasion, nh177O13, TorinFBF
+**S3 (9):** \_JJL, Andrew512, CHAINGE, CipherKai, jakeyx3, Kelawesome, MaxEvasion, nh177O13, TorinFBF
 
-**S4 (13):** _ChrisMS, alexnv, brinkwhy, Coward, egl_, ghostblurr, HigmanFreud, ItsColinn, JamestheDouglas, ohh_lia, RabidChipmunk, Rebelghost, tbhjosh
+**S4 (13):** \_ChrisMS, alexnv, brinkwhy, Coward, egl\_, ghostblurr, HigmanFreud, ItsColinn, JamestheDouglas, ohh\_lia, RabidChipmunk, Rebelghost, tbhjosh
 
 **S5 (18):** Blarkslol, Centrios, Cyndic, Drake132667596, Eroe, Exstreme, Fcrm, Harryb2k, m4ku, Microus, nFang, PedroLeGamer, pigghetti, Potsie, Psykl0ne, ShyGus, Stravilight, zac083
 
 **S6 (1):** Zebobo10
 
-**S7 (4):** _Fost_, Caydone, Markedbooboy, SharkeyJaws
+**S7 (4):** \_Fost\_, Caydone, Markedbooboy, SharkeyJaws
 
 **S8 (6):** CrowJRC, ElGavinoSupremo, Kaismartypants, natsuvi, strategy, vynil
 

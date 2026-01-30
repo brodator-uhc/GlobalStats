@@ -123,7 +123,7 @@
 
 **S3:** Cxypinn (CloseYourLegs)
 
-**S4:** Ormax & JoshC2 (Double Kill)
+**S4:** Ormax (DarkType)
 
 **S5:** HeyImAqua (Weak)
 
@@ -161,13 +161,13 @@
 
 **2nd - HDOP (10):** Gamernety (S1), Jeezh (S1), FlawlessAerial (S2), CheeseJamez (S2), JoshC2 (S6), Jorgeeay (S7), St0rmplayz (S7), BigJedo (S7), Slaybate (S7), ronanci (S7)
 
-**4th - TwistedGoose (9):** chrisgames2k (S4), The_Left_ClickYT (S4), CheeseJamez (S4), xNKS (S4), CloseYourLegs (S4), BreakfastBacon (S4), HeyImAqua (S4), RedditPlayer (S4), TastyMilk (S4)
+**2nd - Ormax (10):** DarkType (S4), xJavascript (S4), JoshC2 (S4), DatGuyAdam (S5), hawkiskwah (S5), CraftingMagicYT (S5), CheeseJamez (S6), HDOP (S6), Sneaky26 (S7), CloseYourLegs (S7)
 
-**5th - Ormax (8):** JoshC2 (S4), DatGuyAdam (S5), hawkiskwah (S5), CraftingMagicYT (S5), CheeseJamez (S6), HDOP (S6), Sneaky26 (S7), CloseYourLegs (S7)
+**5th - TwistedGoose (9):** chrisgames2k (S4), The_Left_ClickYT (S4), CheeseJamez (S4), xNKS (S4), CloseYourLegs (S4), BreakfastBacon (S4), HeyImAqua (S4), RedditPlayer (S4), TastyMilk (S4)
 
-**5th - SwiftnessXVI (8):** mikeydrox (S3), DoubleHitGod (S3), Zoroh (S3), Sneaky26 (S6), RecklessCombo (S6), DatGuyAdam (S8), TheLuckyAsian (S8), ADinoPlayingMC (S8)
+**6th - SwiftnessXVI (8):** mikeydrox (S3), DoubleHitGod (S3), Zoroh (S3), Sneaky26 (S6), RecklessCombo (S6), DatGuyAdam (S8), TheLuckyAsian (S8), ADinoPlayingMC (S8)
 
-**5th - Zoroh (8):** brinkwhy (S3), iHazer (S3), Ormax (S3), markbom (S3), collowollo (S3), racer59 (S3), Blazar (S3), chrisgames2k (S5)
+**6th - Zoroh (8):** brinkwhy (S3), iHazer (S3), Ormax (S3), markbom (S3), collowollo (S3), racer59 (S3), Blazar (S3), chrisgames2k (S5)
 
 **8th - BigJedo (5):** Aioda (S3), MemeClient (S3), FlawlessAerial (S3), JohnzRIP (S7), Slooshyy (S7)
 
@@ -254,8 +254,6 @@
 
 **Left (5):** SeeLion (S3), Zoroh (S4), JustLethal (S4), SwiftnessXVI (S4), BreakfastBacon (S5)
 
-**N/A (3):** HDOP (S2), DarkType (S4), xJavascript (S4)
-
 **Creeper (2):** bh1747 (S7), ItsShqky (S8)
 
 **Explosion (2):** dnkin (S3), NefarialPhantom (S5)
@@ -263,6 +261,8 @@
 **Cave Spider (1):** CheeseJamez (S5)
 
 **Lava (1):** CallMeBqse (S7)
+
+**Lightning (1):** HDOP (S2)
 
 ---
 ### Participation

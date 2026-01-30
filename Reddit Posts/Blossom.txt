@@ -3,71 +3,149 @@
 ---
 ### Winners
 
-**S1: benidk (10)**
+**S1: ADinoPlayingMC (1), BigJedo (1)**
+
+**S2: GrounZZero (3), stupidsylvia (6)**
+
+**S3: JamestheDouglas (3)**
+
+**S4: xJC (2)**, *Cat6376 (1)*
 
 ---
 ### Runner Ups
 
-**S1:** Markedbooboy (0)
+**S1:** ACommonKiwi (0), grayisawkward (0)
+
+**S2:** SoloNavy (0), TianaReese (0)
+
+**S3:** Nickpizzable (1)
+
+**S4:** JamestheDouglas (1), Nickpizzable (1)
 
 ---
 ### Most Kills
 
-**S1:** benidk (10)
+**S1:** Zenger (3)
+
+**S2:** stupidsylvia (6)
+
+**S3:** JamestheDouglas (3)
+
+**S4:** xJC (2)
 
 ---
 ### Most Kills (Team)
 
-**S1:** N/A
+**S1:** Zenger (3)
+
+**S2:** GrounZZero (3), stupidsylvia (6)
+
+**S3:** N/A
+
+**S4:** Cat6376 (1), xJC (2)
 
 ---
 ### First Damage
 
-**S1:*
+**S1:** PinkFusi0n (0:2:15)
+
+**S2:** riguydun (0:1:49)
+
+**S3:** MetrohYT (0:7:8)
+
+**S4:** ImTJ (0:1:52)
 
 ---
 ### Ironman
 
-**S1:** DogOfKrondor
+**S1:** Zenger (1:7:33)
+
+**S2:** GrounZZero (0:54:57)
+
+**S3:** ACommonKiwi, Nickpizzable (1:51:33)
+
+**S4:** Nickpizzable (0:57:36)
 
 ---
 ### First Blood
 
-**S1:** Glarza & Psykl0ne (Double Kill)
+**S1:** Zenger (JamestheDouglas)
+
+**S2:** JamestheDouglas (SoloNavy)
+
+**S3:** MetrohYT (grayisawkward)
+
+**S4:** gamer__girl34 (seewasp)
 
 ---
 ### First Death
 
-**S1:** Psykl0ne & Glarza (Double Kill)
+**S1:** PulseFX (Fall)
+
+**S2:** NoHacksJustCoke (Creeper)
+
+**S3:** Captaingamer12MC (Creeper)
+
+**S4:** grayisawkward (Creeper)
 
 ---
 ### Kills
 
-**1st - benidk (10):** ArcticSeagull (S1), fruitlogic (S1), natsuvi (S1), Bornyo (S1), Charrlottie (S1), MichaelPlayMC (S1), thnead (S1), noktime (S1), Kaismartypants (S1), Markedbooboy (S1)
+**1st - JamestheDouglas (6):** SoloNavy (S2), xIStats (S2), Strobez (S3), SaraBumbleBee (S3), Nickpizzable (S3), ImTJ (S4)
 
-**2nd - noktime (3):** HeyItsJBug (S1), DogOfKrondor (S1), StickerLicker (S1)
+**1st - stupidsylvia (6):** grayisawkward (S2), riguydun (S2), Mister_Lagalot (S2), PinkFusi0n (S2), SaraBumbleBee (S2), RejectedHexxit (S2)
 
-**3rd - _1mmortal_ (1):** QueenxPetty (S1)
+**3rd - GrounZZero (3):** WildGrovyle (S2), ACommonKiwi (S2), TianaReese (S2)
 
-**3rd - Glarza (1):** Psykl0ne (S1)
+**3rd - Zenger (3):** JamestheDouglas (S1), grayisawkward (S1), Mister_Lagalot (S1)
 
-**3rd - Kaismartypants (1):** ItsShqky (S1)
+**5th - Nickpizzable (2):** ACommonKiwi (S3), Cat6376 (S4)
 
-**3rd - Psykl0ne (1):** Glarza (S1)
+**5th - xJC (2):** gamer__girl34 (S4), JamestheDouglas (S4)
 
-**3rd - QueenxPetty (1):** _1mmortal_ (S1)
+**7th - ADinoPlayingMC (1):** Zenger (S1)
+
+**7th - BigJedo (1):** ACommonKiwi (S1)
+
+**7th - Cat6376 (1):** Nickpizzable (S4)
+
+**7th - gamer__girl34 (1):** seewasp (S4)
+
+**7th - MetrohYT (1):** grayisawkward (S3)
+
+**7th - WildGrovyle (1):** JamestheDouglas (S2)
 
 ---
 ### PvE Deaths
 
+**Creeper (3):** NoHacksJustCoke (S2), Captaingamer12MC (S3), grayisawkward (S4)
+
+**Burning (2):** Critter9998 (S3), MetrohYT (S3)
+
+**Fall (2):** PulseFX (S1), IIJesterII (S3)
+
+**Skeleton (2):** PinkFusi0n (S1), Skrubling (S3)
+
 ---
 ### Participation
 
-**1 Season (19):** _1mmortal_ (S1), ArcticSeagull (S1), benidk (S1), Bornyo (S1), Charrlottie (S1), DogOfKrondor (S1), fruitlogic (S1), Glarza (S1), HeyItsJBug (S1), ItsShqky (S1), Kaismartypants (S1), Markedbooboy (S1), MichaelPlayMC (S1), natsuvi (S1), noktime (S1), Psykl0ne (S1), QueenxPetty (S1), StickerLicker (S1), thnead (S1)
+**4 Seasons (2):** grayisawkward (S1-S4), JamestheDouglas (S1-S4)
+
+**3 Seasons (1):** ACommonKiwi (S1-S3)
+
+**2 Seasons (4):** Mister_Lagalot (S1-S2), PinkFusi0n (S1-S2), SaraBumbleBee (S2-S3), Nickpizzable (S3-S4)
+
+**1 Season (24):** ADinoPlayingMC (S1), BigJedo (S1), PulseFX (S1), Zenger (S1), GrounZZero (S2), NoHacksJustCoke (S2), RejectedHexxit (S2), riguydun (S2), SoloNavy (S2), stupidsylvia (S2), TianaReese (S2), WildGrovyle (S2), xIStats (S2), Captaingamer12MC (S3), Critter9998 (S3), IIJesterII (S3), MetrohYT (S3), Skrubling (S3), Strobez (S3), Cat6376 (S4), gamer__girl34 (S4), ImTJ (S4), seewasp (S4), xJC (S4)
 
 ---
 ### Debutants
 
-**S1 (19):** _1mmortal_, ArcticSeagull, benidk, Bornyo, Charrlottie, DogOfKrondor, fruitlogic, Glarza, HeyItsJBug, ItsShqky, Kaismartypants, Markedbooboy, MichaelPlayMC, natsuvi, noktime, Psykl0ne, QueenxPetty, StickerLicker, thnead
+**S1 (9):** ACommonKiwi, ADinoPlayingMC, BigJedo, grayisawkward, JamestheDouglas, Mister_Lagalot, PinkFusi0n, PulseFX, Zenger
+
+**S2 (10):** GrounZZero, NoHacksJustCoke, RejectedHexxit, riguydun, SaraBumbleBee, SoloNavy, stupidsylvia, TianaReese, WildGrovyle, xIStats
+
+**S3 (7):** Captaingamer12MC, Critter9998, IIJesterII, MetrohYT, Nickpizzable, Skrubling, Strobez
+
+**S4 (5):** Cat6376, gamer__girl34, ImTJ, seewasp, xJC
 
 ---
