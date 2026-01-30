@@ -266,17 +266,17 @@
 
 **S1:** N/A
 
-**S2:** Kaismartypants(0), Sinuar (2) & MickeyDEC (2), Treyten(0)
+**S2:** Kaismartypants (0), Sinuar (2) & MickeyDEC (2), Treyten (0)
 
-**S3:** Natural44 (3), YepItsJustDirt(0), xTranslucenTx (2)
+**S3:** Natural44 (3), YepItsJustDirt (0), xTranslucenTx (2)
 
-**S4:** Chaotically (3), YaojaDzn (1) & RavenJD (4), ajackson6199(0)
+**S4:** Chaotically (3), YaojaDzn (1) & RavenJD (4), ajackson6199 (0)
 
-**S5:** Canadian_Mitch (2), Sinuar(0)
+**S5:** Canadian_Mitch (2), Sinuar (0)
 
 **S6:** N/A
 
-**S7:** Caligators (2), GmacLad (2), kirkomode (2), tagggz(0)
+**S7:** Caligators (2), GmacLad (2), kirkomode (2), tagggz (0)
 
 **S8:** Honoropz (8), Sofiea (1)
 
@@ -284,23 +284,23 @@
 
 **S10:** N/A
 
-**S11:** Kaismartypants(0), TJTheMuffinMan (6), kirkomode (4)
+**S11:** Kaismartypants (0), TJTheMuffinMan (6), kirkomode (4)
 
-**S12:** Bill_isnt_Chill(0), Caligators (3), Dylan_YD (4), Honoropz (1)
+**S12:** Bill_isnt_Chill (0), Caligators (3), Dylan_YD (4), Honoropz (1)
 
 **S13:** N/A
 
 **S14:** ambarlos (3), wizarde (4)
 
-**S15:** Aegl(0), Caligators (1), JacobBrown(0), Krimm(0), Jwillnot (1), Sinuar(0), Tawvo(0), TheTrueNinja(0), brinkwhy(0), drewxd (1), reverse094 (1), vDyre (5), wizarde (1), zemnoz (3)
+**S15:** Aegl (0), Caligators (1), JacobBrown (0), Krimm (0), Jwillnot (1), Sinuar (0), Tawvo (0), TheTrueNinja (0), brinkwhy (0), drewxd (1), reverse094 (1), vDyre (5), wizarde (1), zemnoz (3)
 
-**S16:** SlowATSV (1), Txmp(0), UncleBenFranklin (10), DEREKAST (1)
+**S16:** SlowATSV (1), Txmp (0), UncleBenFranklin (10), DEREKAST (1)
 
 **S17:** ChaseOwO (2), zemnoz (13)
 
-**S18:** BluiesReborn(0), CLEATU5(0), zemnoz (8)
+**S18:** BluiesReborn (0), CLEATU5 (0), zemnoz (8)
 
-**S19:** ChaseOwO(0), CLEATU5 (6), Ginzburg (7), PandaLogic (5)
+**S19:** ChaseOwO (0), CLEATU5 (6), Ginzburg (7), PandaLogic (5)
 
 **S20:** Sadwics (4), TheTrueNinja (3)
 
@@ -308,41 +308,41 @@
 
 **S22:** JustLethal (2), Qmos (3), Sadwics (1)
 
-**S23:** CLEATU5 (4), Ginzburg (3), Krimm(0), TheJavaHacker(0)
+**S23:** CLEATU5 (4), Ginzburg (3), Krimm (0), TheJavaHacker (0)
 
 **S24:** brinkwhy (3), drewxd (3)
 
 **S25:** N/A
 
-**S26:** CanadianWafflez(0), Fearx_(0), Kaismartypants(0), Renais (6), ambarlos (2), brinkwhy (1)
+**S26:** CanadianWafflez (0), Fearx_ (0), Kaismartypants (0), Renais (6), ambarlos (2), brinkwhy (1)
 
-**S27:** AtomicAdam10 (3), Ledwidgez (4), Thanalox(0), TheJavaHacker (1)
+**S27:** AtomicAdam10 (3), Ledwidgez (4), Thanalox (0), TheJavaHacker (1)
 
 **S28:** Caligators (1), pierce981 (5)
 
 **S29:** N/A
 
-**S30:** BardMain2 (3), Broseph(0), centraleric (2)
+**S30:** BardMain2 (3), Broseph (0), centraleric (2)
 
 **S31:** HyperOutHere (3), ItsGinger (3)
 
-**S32:** St0rmplayz (5), Cristehn(0), Brocko (1), GraceC2_(0)
+**S32:** St0rmplayz (5), Cristehn (0), Brocko (1), GraceC2_ (0)
 
-**S33:** DevoyTTV (2), JaeHasNoMaidens (7), PoofessorP(0)
+**S33:** DevoyTTV (2), JaeHasNoMaidens (7), PoofessorP (0)
 
 **S34:** GmacLad (2), Sneaky26 (3)
 
 **S35:** Caligators (3), Cordinei (1)
 
-**S36:** Sassybunion(0), St0rmplayz (7), brinkwhy (2)
+**S36:** Sassybunion (0), St0rmplayz (7), brinkwhy (2)
 
 **S37:** Broseph (4), Qmos (2)
 
 **S38:** Bornyo (5), kirkomode (7)
 
-**S39:** Fearx_(0), DEREKAST (3)
+**S39:** Fearx_ (0), DEREKAST (3)
 
-**S40:** AHSOKATANOSTAN(0), omchris (4), Vetmire (2), wizarde(0)
+**S40:** AHSOKATANOSTAN (0), omchris (4), Vetmire (2), wizarde (0)
 
 **S41:** N/A
 

@@ -226,17 +226,17 @@
 
 **S2:** Pro_ (6), zMoTo (1)
 
-**S3:** Kurdie(0), Pro_ (7)
+**S3:** Kurdie (0), Pro_ (7)
 
 **S4:** N/A
 
-**S5:** KJay(0), vinny212 (3), Verified_Walrus (2), lampbro (1) & TommySuX (5), Ab0veAverage(0), cappyrappy (1), Dadkub(0) & Tragik (2), Archer_(0), Crazy3210(0), Camocratic (4)
+**S5:** KJay (0), vinny212 (3), Verified_Walrus (2), lampbro (1) & TommySuX (5), Ab0veAverage (0), cappyrappy (1), Dadkub (0) & Tragik (2), Archer_ (0), Crazy3210 (0), Camocratic (4)
 
 **S6:** Tragik (2), MrProBow (5), Kurdie (1)
 
-**S7:** HunterWolf(0), vinny212 (2), dragonpasa (4), zMoTo (2)
+**S7:** HunterWolf (0), vinny212 (2), dragonpasa (4), zMoTo (2)
 
-**S8:** DianaB(0), Micale (3), Kurdie (1), ShutUpBrick (2), TommySuX (4)
+**S8:** DianaB (0), Micale (3), Kurdie (1), ShutUpBrick (2), TommySuX (4)
 
 **S9:** N/A
 
@@ -246,17 +246,17 @@
 
 **S12:** SD_UHC (4), IonJ (2), ShyGus (2), Egth (1)
 
-**S13:** Micale (3), ShutUpBrick (3), IonJ (1), ShyGus(0) & OblivionTU (1), Trevstacks (1), lampbro(0), LeonTG (5)
+**S13:** Micale (3), ShutUpBrick (3), IonJ (1), ShyGus (0) & OblivionTU (1), Trevstacks (1), lampbro (0), LeonTG (5)
 
 **S14:** AJSteel (7), Soshikun (1), AvaCos (4)
 
-**S15:** Apex_Twinkie (1), HUNTERKUN (5), IonJ (2), Osha(0)
+**S15:** Apex_Twinkie (1), HUNTERKUN (5), IonJ (2), Osha (0)
 
 **S16:** Apex_Twinkie (3), Micale (4)
 
 **S17:** bjr201111 (5), Ixolock (2), ThePeridotKnight (1)
 
-**S18:** ShutUpBrick (3), oworca(0), Cyndic (4), automavic(0)
+**S18:** ShutUpBrick (3), oworca (0), Cyndic (4), automavic (0)
 
 **S19:** Apex_Twinkie (5), warriorcat (1), SD_UHC (3)
 
@@ -266,21 +266,21 @@
 
 **S22:** bjr201111 (6), Dida (1)
 
-**S23:** I_is_cheesecake(0), chloesad (2), fruitberries (4)
+**S23:** I_is_cheesecake (0), chloesad (2), fruitberries (4)
 
-**S24:** Apex_Twinkie (1), DianaB (1), HUNTERKUN (5), Natural44(0)
+**S24:** Apex_Twinkie (1), DianaB (1), HUNTERKUN (5), Natural44 (0)
 
 **S25:** ColdBac (1), Natural44 (1), pigghetti (3)
 
 **S26:** DeluxeSniper (4), Evader22 (1), Natural44 (2)
 
-**S27:** bjr201111 (5), Greeples(0)
+**S27:** bjr201111 (5), Greeples (0)
 
 **S28:** CrowJRC (4), Cyndic (3), DeluxeSniper (3), AvaCos (1)
 
 **S29:** chloesad (3), CipherKai (3), Kelawesome (3), lexicuhl (3)
 
-**S30a:** DianaB(0), DJoee (4)
+**S30a:** DianaB (0), DJoee (4)
 
 **S30b:** Greeples (4), Kelawesome (3), pigghetti (1)
 
@@ -290,7 +290,7 @@
 
 **S33:** benidk (2), brodioh (1), Chasmic (1) & AJSteel (1), Apex_Twinkie (2), Drkrai (1)
 
-**S34:** Brodator (3), CHAINGE (2), Chasmic(0) & Kelawesome (2), PresidentFleb (2), m4ku (1)
+**S34:** Brodator (3), CHAINGE (2), Chasmic (0) & Kelawesome (2), PresidentFleb (2), m4ku (1)
 
 ---
 ### First Damage

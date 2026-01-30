@@ -30,9 +30,9 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Bofishkix (2), ChainingVermin2(0), ConBeanJones (2), SpaceFenix (1)
+**S1:** Bofishkix (2), ChainingVermin2 (0), ConBeanJones (2), SpaceFenix (1)
 
-**S2:** 4EyedSlime (8), azoof (2), Codwhy (2), SiahStone(0), ToontownOnline (1)
+**S2:** 4EyedSlime (8), azoof (2), Codwhy (2), SiahStone (0), ToontownOnline (1)
 
 **S3:** N/A
 

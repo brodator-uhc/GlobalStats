@@ -96,15 +96,15 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Karliffu (5), Dawncy(0), broccoliar (2), xRaltz (1)
+**S1:** Karliffu (5), Dawncy (0), broccoliar (2), xRaltz (1)
 
 **S2:** natsuvi (4), Crafters (1)
 
 **S3:** N/A
 
-**S4:** Karliffu (2), MichaelPlayMC(0), Rebelghost (3) & Codwhy (3), _Fost_ (2), PresidentFleb(0)
+**S4:** Karliffu (2), MichaelPlayMC (0), Rebelghost (3) & Codwhy (3), _Fost_ (2), PresidentFleb (0)
 
-**S5:** Dawncy(0), Caydone (4), NickPlaysGames15 (1), Zebobo10 (2)
+**S5:** Dawncy (0), Caydone (4), NickPlaysGames15 (1), Zebobo10 (2)
 
 **S6:** Cubic44 (3), Zebobo10 (2)
 
@@ -114,15 +114,15 @@
 
 **S9:** 4EyedSlime (7), Stravilight (6)
 
-**S10:** alexnv (2), JaeHasNoMaidens (3), MangoPlayz (1), NickPlaysGames15(0)
+**S10:** alexnv (2), JaeHasNoMaidens (3), MangoPlayz (1), NickPlaysGames15 (0)
 
 **S11:** N/A
 
 **S12:** broccoliar (1), Evzenitable (2), SpaceFenix (3)
 
-**S13:** CHAINGE (4), Evzenitable(0), Caydone (1), Normoh (1)
+**S13:** CHAINGE (4), Evzenitable (0), Caydone (1), Normoh (1)
 
-**S14:** AdonisGaming(0), Brodator (6), Fcrm (6)
+**S14:** AdonisGaming (0), Brodator (6), Fcrm (6)
 
 ---
 ### First Damage

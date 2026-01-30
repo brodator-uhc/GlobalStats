@@ -132,27 +132,27 @@
 ---
 ### Most Kills (Team)
 
-**S1:** DatGuyAdam(0), GRLH (2), ThisIsHab (5)
+**S1:** DatGuyAdam (0), GRLH (2), ThisIsHab (5)
 
-**S2:** HigmanFreud (8), PoofessorP(0)
+**S2:** HigmanFreud (8), PoofessorP (0)
 
-**S3:** Broseph (1), CipherKai (6), honestlyhunter(0), Jahrod(0)
+**S3:** Broseph (1), CipherKai (6), honestlyhunter (0), Jahrod (0)
 
 **S4:** HigmanFreud (8), SiahStone (2), TheSonicJoey (1)
 
-**S5:** brinkwhy (5), Crafters(0), Fcrm(0), Caydone (4) & Flouzemaker (1), DevoyTTV (6), JamestheDouglas (2), TastyBaconZ(0)
+**S5:** brinkwhy (5), Crafters (0), Fcrm (0), Caydone (4) & Flouzemaker (1), DevoyTTV (6), JamestheDouglas (2), TastyBaconZ (0)
 
 **S6:** CipherKai (3), TastyBaconZ (2) & Caydone (4), Markedbooboy (1) & Fcrm (4), Microus (1)
 
-**S7:** Fancyyy (1), Fcrm (5), Flouzemaker(0), Pelycosaur (5), nFang (2)
+**S7:** Fancyyy (1), Fcrm (5), Flouzemaker (0), Pelycosaur (5), nFang (2)
 
 **S8:** natsuvi (2), Flouzemaker (1), ghostblurr (4)
 
 **S9:** Andronify (4), draylor09 (2), Fra49 (2), TheRealHagrid (3)
 
-**S10:** ghostblurr (1), NickPlaysGames15 (1), Sten_Stone (4) & _ChrisMS (4), Andronify (2), CaptainRichy(0) & HigmanFreud (4), SummerBqsh (1), WackoFlipper (1)
+**S10:** ghostblurr (1), NickPlaysGames15 (1), Sten_Stone (4) & _ChrisMS (4), Andronify (2), CaptainRichy (0) & HigmanFreud (4), SummerBqsh (1), WackoFlipper (1)
 
-**S11:** Chasmic (1), Fcrm (6), Flouzemaker(0), Rohcket (3), WackoFlipper (2)
+**S11:** Chasmic (1), Fcrm (6), Flouzemaker (0), Rohcket (3), WackoFlipper (2)
 
 **S12:** Andronify (3), Fra49 (1), Sten_Stone (2) & Fcrm (3), Greeples (1), Kaismartypants (2)
 
@@ -160,17 +160,17 @@
 
 **S14:** broccoliar (4), Fcrm (3), PresidentFleb (2), starlxghtmoon (2)
 
-**S15:** DJoee (4), Markedbooboy(0), natsuvi (8)
+**S15:** DJoee (4), Markedbooboy (0), natsuvi (8)
 
-**S16:** BoltsInCharge (3), Kaismartypants(0), NickPlaysGames15 (2), natsuvi (5)
+**S16:** BoltsInCharge (3), Kaismartypants (0), NickPlaysGames15 (2), natsuvi (5)
 
 **S17:** Andronify (3), DevoyTTV (3), 123SteveBob (4)
 
-**S18:** Eagris(0), Kaismartypants (1), natsuvi (6), ohh_lia (1), wizarde (2) & Phyrrus(0), broccoliar (3), Kaddyn (4), NickPlaysGames15 (1), Ninetals38 (2)
+**S18:** Eagris (0), Kaismartypants (1), natsuvi (6), ohh_lia (1), wizarde (2) & Phyrrus (0), broccoliar (3), Kaddyn (4), NickPlaysGames15 (1), Ninetals38 (2)
 
-**S19:** Markedbooboy(0), Vetmire (3), ZebraPantz (7)
+**S19:** Markedbooboy (0), Vetmire (3), ZebraPantz (7)
 
-**S20:** _ChrisMS(0), Brodator (4), Dj8ninja (1), Fcrm (5)
+**S20:** _ChrisMS (0), Brodator (4), Dj8ninja (1), Fcrm (5)
 
 ---
 ### First Damage

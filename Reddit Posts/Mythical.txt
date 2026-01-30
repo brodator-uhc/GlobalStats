@@ -126,25 +126,25 @@
 
 **S3:** Broseph (1), nyaaia (2), JustNolan (3), omchris (3)
 
-**S4:** ERHDude (5), Cyndic(0), Brodator(0), Potsie (2) & cherryblawsom (6), pigghetti (1)
+**S4:** ERHDude (5), Cyndic (0), Brodator (0), Potsie (2) & cherryblawsom (6), pigghetti (1)
 
-**S5:** cherryblawsom (4), pigghetti (7) & PedroLeGamer(0), Wilsonkong (2), CipherKai (9)
+**S5:** cherryblawsom (4), pigghetti (7) & PedroLeGamer (0), Wilsonkong (2), CipherKai (9)
 
-**S6:** JustNolan (10), MaxEvasion(0)
+**S6:** JustNolan (10), MaxEvasion (0)
 
-**S7:** aalaan(0), Brodator (2), GoldenNs (4), JustNolan (5), WillBrisk(0)
+**S7:** aalaan (0), Brodator (2), GoldenNs (4), JustNolan (5), WillBrisk (0)
 
-**S8:** Fcrm (6), SiahStone(0), CHAINGE(0), Potsie (1)
+**S8:** Fcrm (6), SiahStone (0), CHAINGE (0), Potsie (1)
 
 **S9:** Brodator (1), Fcrm (4), Prisma (1)
 
-**S10:** 78ford(0), ItsColinn(0), RqDix (5), ToontownOnline (4)
+**S10:** 78ford (0), ItsColinn (0), RqDix (5), ToontownOnline (4)
 
-**S11:** ArcticSeagull (1), Brodator (1), DeluxeSniper (1), DKPMatt(0), Greeples(0), ItsColinn (6), omchris (4), Ryfri(0), strategy(0)
+**S11:** ArcticSeagull (1), Brodator (1), DeluxeSniper (1), DKPMatt (0), Greeples (0), ItsColinn (6), omchris (4), Ryfri (0), strategy (0)
 
 **S12:** ERHDude (3), JustNolan (3)
 
-**S13:** _carn (1), CipherKai (1), Fcrm (6), Rohcket(0)
+**S13:** _carn (1), CipherKai (1), Fcrm (6), Rohcket (0)
 
 **S14:** Greeples (2), Kelawesome (4), nyaaia (3) & Chasmic (3), CipherKai (4), TheRealHagrid (2)
 
@@ -154,7 +154,7 @@
 
 **S17:** acadiangel (2), ChainingVermin2 (5)
 
-**S18:** Broseph(0), Charrlottie(0), Kelawesome (6), RqDix (3) & Brodator (1), checog (5), GoldenNs (3), SpaceFenix(0)
+**S18:** Broseph (0), Charrlottie (0), Kelawesome (6), RqDix (3) & Brodator (1), checog (5), GoldenNs (3), SpaceFenix (0)
 
 ---
 ### First Damage

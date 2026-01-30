@@ -76,19 +76,19 @@
 
 **S2:** JamestheDouglas (1), DBird (3)
 
-**S3:** Pat_N (2), DBird (1), OwlTin(0), JamestheDouglas(0)
+**S3:** Pat_N (2), DBird (1), OwlTin (0), JamestheDouglas (0)
 
-**S4:** Pat_N(0), Balone (4)
+**S4:** Pat_N (0), Balone (4)
 
-**S5:** JamestheDouglas (2), 3Dspoders (1), Maxwellfifty(0)
+**S5:** JamestheDouglas (2), 3Dspoders (1), Maxwellfifty (0)
 
-**S6:** JamestheDouglas (3), Chasmic(0)
+**S6:** JamestheDouglas (3), Chasmic (0)
 
 **S7:** Pat_N (4), JamestheDouglas (1)
 
-**S8:** BadMur(0), JoshC2(0), mickae (2), Pat_N(0) & 3Dspoders(0), DBird(0), DevoyTTV(0), JamestheDouglas (2)
+**S8:** BadMur (0), JoshC2 (0), mickae (2), Pat_N (0) & 3Dspoders (0), DBird (0), DevoyTTV (0), JamestheDouglas (2)
 
-**S9:** 343Kento(0), Krimm (1)
+**S9:** 343Kento (0), Krimm (1)
 
 **S10:** Krimm (2), JamestheDouglas (2)
 

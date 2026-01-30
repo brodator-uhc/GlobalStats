@@ -102,11 +102,11 @@
 ---
 ### Most Kills (Team)
 
-**S1:** _1mmortal_ (3), Bornyo(0), checog (3), Nuclearsugar(0) & bayweafs (1), DJoee (2), sgouche (2), ScaryPumpkinFace (1)
+**S1:** _1mmortal_ (3), Bornyo (0), checog (3), Nuclearsugar (0) & bayweafs (1), DJoee (2), sgouche (2), ScaryPumpkinFace (1)
 
 **S2:** _carn (6), kawaiibunri (3)
 
-**S3:** Batusko (1), benidk (3), CipherKai (5), natsuvi (4), ZebraPantz(0)
+**S3:** Batusko (1), benidk (3), CipherKai (5), natsuvi (4), ZebraPantz (0)
 
 **S4:** N/A
 
@@ -118,7 +118,7 @@
 
 **S8:** CharizOVO (1), sgouche (6)
 
-**S9:** Blarkslol(0), CHAINGE (1), SPEEDYDIGS (1), Spongey (2), zCent (6)
+**S9:** Blarkslol (0), CHAINGE (1), SPEEDYDIGS (1), Spongey (2), zCent (6)
 
 **S10:** ArcticSeagull (5), kawaiibunri (3)
 
@@ -130,7 +130,7 @@
 
 **S14:** grantfaker (5), skyzfy (3)
 
-**S15:** _carn (4), acadiangel (2), FroztiSnowman (2), vynil (3), zCent(0)
+**S15:** _carn (4), acadiangel (2), FroztiSnowman (2), vynil (3), zCent (0)
 
 ---
 ### First Damage

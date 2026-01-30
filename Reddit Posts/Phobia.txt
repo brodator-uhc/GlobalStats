@@ -176,15 +176,15 @@
 
 **S1:** boyceterous (1), MrTeamRaven (3)
 
-**S2:** Marky_Ross(0), ScottishNutcase(0), Shortgamer (4)
+**S2:** Marky_Ross (0), ScottishNutcase (0), Shortgamer (4)
 
-**S3:** Bagpipehero (1), TicedUp (4), Marky_Ross(0), VeniiiD (1)
+**S3:** Bagpipehero (1), TicedUp (4), Marky_Ross (0), VeniiiD (1)
 
-**S4:** GeistBuster7 (3), boyceterous (3), Neoscys(0)
+**S4:** GeistBuster7 (3), boyceterous (3), Neoscys (0)
 
-**S5:** TommySuX(0), TicedUp (4)
+**S5:** TommySuX (0), TicedUp (4)
 
-**S6:** Dylarno (4), beastboyrolf (1), GlitchyRainbow (1) & ShutUpBrick (6), MaltoseMatt(0), CMattznes(0) & DarkCrystalFlame (1), AndrizzlePC (2), Mentally (3)
+**S6:** Dylarno (4), beastboyrolf (1), GlitchyRainbow (1) & ShutUpBrick (6), MaltoseMatt (0), CMattznes (0) & DarkCrystalFlame (1), AndrizzlePC (2), Mentally (3)
 
 **S7:** N/A
 
@@ -192,17 +192,17 @@
 
 **S9:** Fukano (2), TommySuX (3), oworca (3)
 
-**S10:** KirbyMD (2), Kakintse(0), Shortgamer (3), oworca (1)
+**S10:** KirbyMD (2), Kakintse (0), Shortgamer (3), oworca (1)
 
-**S11:** Flouzemaker (2), Kassiie (2) & CMattznes (2), LeonTG (2) & Frostbreath(0), Fukano (4)
+**S11:** Flouzemaker (2), Kassiie (2) & CMattznes (2), LeonTG (2) & Frostbreath (0), Fukano (4)
 
 **S12:** Flouzemaker (2), Shadowlego (1), TommySuX (5)
 
 **S13:** N/A
 
-**S14:** AvaCos (9), TastyBaconZ (1), Emerric(0), Timonscholte(0), VeniiiD(0)
+**S14:** AvaCos (9), TastyBaconZ (1), Emerric (0), Timonscholte (0), VeniiiD (0)
 
-**S15:** NTBama(0), DianaB(0), PhenomCloud (9)
+**S15:** NTBama (0), DianaB (0), PhenomCloud (9)
 
 **S16:** ElGavinoSupremo (1), TicedUp (3), Emerric (2)
 
@@ -210,21 +210,21 @@
 
 **S18:** N/A
 
-**S19:** BBR_ (6), Micale (7), Ninjajaja(0), TastyBaconZ(0)
+**S19:** BBR_ (6), Micale (7), Ninjajaja (0), TastyBaconZ (0)
 
 **S20:** KOKeowner (3), AvaCos (6)
 
-**S21:** Havenhand (4), Micale (5), rippersteveM5(0)
+**S21:** Havenhand (4), Micale (5), rippersteveM5 (0)
 
-**S22:** 5kylord(0), BSBrent (3), Marky_Ross(0), Maxwellfifty (3) & Bacan (4), BBR_(0), ElGavinoSupremo(0), Jahrod (2)
+**S22:** 5kylord (0), BSBrent (3), Marky_Ross (0), Maxwellfifty (3) & Bacan (4), BBR_ (0), ElGavinoSupremo (0), Jahrod (2)
 
-**S23:** ColdBac (3), wibbol (3), MeadowMoos(0)
+**S23:** ColdBac (3), wibbol (3), MeadowMoos (0)
 
 **S24:** Brodator (6), Jahrod (3)
 
 **S25:** Bacan (4), Exee (3), Jakekub (2)
 
-**S26:** fruitlogic (5), Maxwellfifty (4), Micale (1), starlxghtmoon(0)
+**S26:** fruitlogic (5), Maxwellfifty (4), Micale (1), starlxghtmoon (0)
 
 **S27:** Bobbytheturtle (4), Kidfo (3), Mjora (1)
 

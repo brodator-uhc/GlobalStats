@@ -26,7 +26,7 @@
 
 **S1:** Cqson (1), GhostGunner (4)
 
-**S2:** natsuvi (3), Cqson (5), MarExists(0), MercuryParadox (2)
+**S2:** natsuvi (3), Cqson (5), MarExists (0), MercuryParadox (2)
 
 ---
 ### First Damage

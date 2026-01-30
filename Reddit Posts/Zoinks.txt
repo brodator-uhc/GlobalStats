@@ -60,9 +60,9 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Biwitch (1), Brodator(0), cherryblawsom (3)
+**S1:** Biwitch (1), Brodator (0), cherryblawsom (3)
 
-**S2:** Brodator (4), omchris(0), Spongey (1)
+**S2:** Brodator (4), omchris (0), Spongey (1)
 
 **S3:** lexicuhl (3), TalonBX (2)
 
@@ -72,9 +72,9 @@
 
 **S6:** fruitlogic (7), ShootingGoats (1)
 
-**S7:** Brodator (1), Greeples (2), MaxEvasion(0) & Flohp(0), fruitlogic (1), Vetmire (2)
+**S7:** Brodator (1), Greeples (2), MaxEvasion (0) & Flohp (0), fruitlogic (1), Vetmire (2)
 
-**S8a:** ProGirlGamer (2), Rohcket(0), ShootingGoats (2), Spongey (1)
+**S8a:** ProGirlGamer (2), Rohcket (0), ShootingGoats (2), Spongey (1)
 
 ---
 ### First Damage

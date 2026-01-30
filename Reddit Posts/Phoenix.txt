@@ -36,13 +36,13 @@
 ---
 ### Most Kills (Team)
 
-**S1:** BoltsInCharge (5), kirbey (1), Pehnk (3), SmolHatChild(0)
+**S1:** BoltsInCharge (5), kirbey (1), Pehnk (3), SmolHatChild (0)
 
 **S2:** BoltsInCharge (4), broccoliar (2), ShootingGoats (2)
 
 **S3:** N/A
 
-**S4:** Brodator (5), CommanderK22_ (1), EndestroyerEpic(0), omchris(0)
+**S4:** Brodator (5), CommanderK22_ (1), EndestroyerEpic (0), omchris (0)
 
 ---
 ### First Damage

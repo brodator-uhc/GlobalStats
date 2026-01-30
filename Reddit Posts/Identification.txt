@@ -102,21 +102,21 @@
 ---
 ### Most Kills (Team)
 
-**S1:** _Dieter (4), Charrlottie(0), CodeJoshua (1), Fcrm (1), Flcnt (4), Glarza (1), Rebelghost (1), strategy(0), wizarde (3)
+**S1:** _Dieter (4), Charrlottie (0), CodeJoshua (1), Fcrm (1), Flcnt (4), Glarza (1), Rebelghost (1), strategy (0), wizarde (3)
 
 **S2:** CodeJoshua (4), Fcrm (4)
 
-**S3:** benidk (2), _ChrisMS (2), Fcrm(0), xDiversity (5)
+**S3:** benidk (2), _ChrisMS (2), Fcrm (0), xDiversity (5)
 
 **S4:** N/A
 
-**S5:** _carn (4), Brodator (3), Fcrm(0), Glarza (2), Kaddyn (3), Karliffu(0), Kelawesome (2), strategy (1), wizarde(0)
+**S5:** _carn (4), Brodator (3), Fcrm (0), Glarza (2), Kaddyn (3), Karliffu (0), Kelawesome (2), strategy (1), wizarde (0)
 
 **S6:** Captureee (6), fruitlogic (3), natsuvi (1), zCent (5)
 
 **S7:** checog (6), DevoyTTV (1), Stravilight (4)
 
-**S8:** Fcrm (7), m4ku (4), SpyroJ(0)
+**S8:** Fcrm (7), m4ku (4), SpyroJ (0)
 
 **S9:** N/A
 
@@ -124,13 +124,13 @@
 
 **S11:** Glarza (5), SiahStone (1), SOAKLE (3) & benidk (7), Fra49 (1), zCent (1)
 
-**S12a:** CommanderK22_(0), kawaiibunri (2), natsuvi (1), SAYNAR (6)
+**S12a:** CommanderK22_ (0), kawaiibunri (2), natsuvi (1), SAYNAR (6)
 
-**S12b:** _carn (4), Drake132667596(0), DripGodDavid (3), SOAKLE (3) & AuroreIkuyo (3), dahii (6), DJoee(0), kawaiibunri (1)
+**S12b:** _carn (4), Drake132667596 (0), DripGodDavid (3), SOAKLE (3) & AuroreIkuyo (3), dahii (6), DJoee (0), kawaiibunri (1)
 
 **S13:** broccoliar (3), Caydone (3), Plushy33 (2), tonylmao (5)
 
-**S14:** 5idekick (5), CommanderK22_(0), CurdledDrip (11), Drake132667596 (1)
+**S14:** 5idekick (5), CommanderK22_ (0), CurdledDrip (11), Drake132667596 (1)
 
 ---
 ### First Damage

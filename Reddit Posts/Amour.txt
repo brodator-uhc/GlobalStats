@@ -44,11 +44,11 @@
 
 **S1:** Fcrm (4), MaxEvasion (3)
 
-**S2:** CHAINGE(0), Drake132667596 (1), Glarza (7), WackoFlipper (2)
+**S2:** CHAINGE (0), Drake132667596 (1), Glarza (7), WackoFlipper (2)
 
 **S3:** MaxEvasion (3), Codwhy (2)
 
-**S4:** _Dieter(0), DJoee (8)
+**S4:** _Dieter (0), DJoee (8)
 
 **S5:** _1mmortal_ (1), dahii (4), zCent (3)
 

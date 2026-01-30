@@ -228,15 +228,15 @@
 ---
 ### Most Kills (Team)
 
-**S1:** CHAINGE (3), silent_spriicket(0), Zebobo10 (3)
+**S1:** CHAINGE (3), silent_spriicket (0), Zebobo10 (3)
 
-**S2:** Lsnce (1), uhwell(0), moltens (4), Spencer042 (2)
+**S2:** Lsnce (1), uhwell (0), moltens (4), Spencer042 (2)
 
-**S3:** Evzenitable (1), uhwell(0), ObsidianFractal (2), Rebelghost (4)
+**S3:** Evzenitable (1), uhwell (0), ObsidianFractal (2), Rebelghost (4)
 
-**S4:** CHAINGE (6), natsuvi (1), lay1aa(0)
+**S4:** CHAINGE (6), natsuvi (1), lay1aa (0)
 
-**S5:** kirbey(0), Lsnce (4), hashtagmat (1), Suleiman_II(0), SummerBqsh (1) & emi1iano (1), Kaismartypants(0), Men2(0), OddishThoughts (2), Plushy33 (3)
+**S5:** kirbey (0), Lsnce (4), hashtagmat (1), Suleiman_II (0), SummerBqsh (1) & emi1iano (1), Kaismartypants (0), Men2 (0), OddishThoughts (2), Plushy33 (3)
 
 **S6:** David63 (4), sr8611 (4)
 
@@ -244,27 +244,27 @@
 
 **S8:** CHAINGE (7), ghost_ttv (2), JaeHasNoMaidens (1)
 
-**S9:** Aloysius14(0), CHAINGE (1), PresidentFleb (2), ShyGus (4) & Brodator (2), Broseph (5), Jewelified(0), WackoFlipper(0)
+**S9:** Aloysius14 (0), CHAINGE (1), PresidentFleb (2), ShyGus (4) & Brodator (2), Broseph (5), Jewelified (0), WackoFlipper (0)
 
-**S10:** Broseph (5), natsuvi (4), Kaismartypants (3), ShyGus (5), silent_spriicket(0)
+**S10:** Broseph (5), natsuvi (4), Kaismartypants (3), ShyGus (5), silent_spriicket (0)
 
-**S11:** Lsnce (3), MaxEvasion (5), silent_spriicket(0)
+**S11:** Lsnce (3), MaxEvasion (5), silent_spriicket (0)
 
 **S12:** NickPlaysGames15 (5), Zebobo10 (6)
 
-**S13:** Brodator (3), Fra49(0), JaqOnCraq (5)
+**S13:** Brodator (3), Fra49 (0), JaqOnCraq (5)
 
-**S14:** CHAINGE (6), JaqOnCraq (1), LoafOZ (1), LocSen(0)
+**S14:** CHAINGE (6), JaqOnCraq (1), LoafOZ (1), LocSen (0)
 
 **S15:** 78ford (2), azoof (2), Dj8ninja (1), PresidentFleb (1), kirbey (1), SpaceFenix (1), TehBaconBrawlerZ (2)
 
 **S16:** TehBaconBrawlerZ (1), WackoFlipper (5) & Fen_Real (3), Jahrod (3) & _Fost_ (5), Dawncy (1)
 
-**S17:** Broseph(0), PresidentFleb (2), Jahrod (3), BardMain2 (3)
+**S17:** Broseph (0), PresidentFleb (2), Jahrod (3), BardMain2 (3)
 
-**S18:** Broseph (2), CHAINGE (4), Glarza (1), ItsShqky (5), jommyappleseed(0), kirbey(0)
+**S18:** Broseph (2), CHAINGE (4), Glarza (1), ItsShqky (5), jommyappleseed (0), kirbey (0)
 
-**S19:** Brodator (3), Fra49 (1), LocSen(0), Randehh (3), ZebraPantz (4)
+**S19:** Brodator (3), Fra49 (1), LocSen (0), Randehh (3), ZebraPantz (4)
 
 **S20:** centraleric (4), CHAINGE (4), Kramie (4)
 
@@ -272,31 +272,31 @@
 
 **S22:** Glarza (4), lasdarling (2), silent_spriicket (1), SterlingOwell (2)
 
-**S23:** Mysticals_ (3), Gorgerous(0), Cqson(0), Fra49(0), emi1iano (4), Hrray (2), Kaismartypants(0), kirbey(0), lazys(0), Lsnce (1), Mr_Litty (1), TehBaconBrawlerZ(0)
+**S23:** Mysticals_ (3), Gorgerous (0), Cqson (0), Fra49 (0), emi1iano (4), Hrray (2), Kaismartypants (0), kirbey (0), lazys (0), Lsnce (1), Mr_Litty (1), TehBaconBrawlerZ (0)
 
 **S24:** CHAINGE (5), lasdarling (1), ScaryPumpkinFace (3)
 
-**S25:** ChinDog (1), Men2(0), pufferfish_lite (1), ItsShqky (4), silent_spriicket(0)
+**S25:** ChinDog (1), Men2 (0), pufferfish_lite (1), ItsShqky (4), silent_spriicket (0)
 
-**S26:** Biwitch (7), Mr_Litty(0), Randehh (3), ScaryPumpkinFace (2)
+**S26:** Biwitch (7), Mr_Litty (0), Randehh (3), ScaryPumpkinFace (2)
 
 **S27:** CHAINGE (6), lay1aa (4)
 
-**S28:** CHAINGE (6), Lsnce (2), ObsidianFractal(0), droopylace(0), SoggyHotdogMaker(0)
+**S28:** CHAINGE (6), Lsnce (2), ObsidianFractal (0), droopylace (0), SoggyHotdogMaker (0)
 
-**S29:** Cheetah_16 (4), Ghosteyy(0), OddishThoughts (1), tagggz (4)
+**S29:** Cheetah_16 (4), Ghosteyy (0), OddishThoughts (1), tagggz (4)
 
-**S30:** Abracassandra(0), CHAINGE (9), moltens (7), Spencer042 (9)
+**S30:** Abracassandra (0), CHAINGE (9), moltens (7), Spencer042 (9)
 
 **S31:** Cheetah_16 (4), SeanCena_17 (2) & ItsShqky (4), stupidsylvia (2)
 
-**S32:** CHAINGE (4), HalfLechuga (3), Jewelified (3), SnowyTurnip(0)
+**S32:** CHAINGE (4), HalfLechuga (3), Jewelified (3), SnowyTurnip (0)
 
 **S33:** LightingMC (9), Randehh (4)
 
-**S34:** aNameless(0), NajaOxiana(0), emi1iano(0), Kaismartypants (6), kirbey (4), MrkyMoo22(0), qFern (1)
+**S34:** aNameless (0), NajaOxiana (0), emi1iano (0), Kaismartypants (6), kirbey (4), MrkyMoo22 (0), qFern (1)
 
-**S35:** qFern(0), Randehh (6), SiahStone (3), ZebraPantz (3)
+**S35:** qFern (0), Randehh (6), SiahStone (3), ZebraPantz (3)
 
 **S36:** bayweafs (1), Biwitch (1), MinimanTurtle (6)
 

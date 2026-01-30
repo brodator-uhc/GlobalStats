@@ -68,21 +68,21 @@
 
 **S1:** N/A
 
-**S2:** BurningT(0), Mentally (3), uZaaX (6)
+**S2:** BurningT (0), Mentally (3), uZaaX (6)
 
 **S3:** uZaaX (2), xNestorio (5)
 
-**S4:** Sneegsnag(0), Frostbreath(0), Mentally (3), Kurtit (4)
+**S4:** Sneegsnag (0), Frostbreath (0), Mentally (3), Kurtit (4)
 
 **S5:** N/A
 
 **S6:** Frostbreath (1), ScOpE_H3ad (5), xNestorio (6)
 
-**S7:** Havenhand(0), xNestorio (6) & Oyubook (5), Naecoo (1)
+**S7:** Havenhand (0), xNestorio (6) & Oyubook (5), Naecoo (1)
 
-**S8:** Micale(0), BurningT (1), CedGhoss (2), Tylarzz (6)
+**S8:** Micale (0), BurningT (1), CedGhoss (2), Tylarzz (6)
 
-**S9:** Chapter_III(0), TicedUp (1), Tylarzz (9)
+**S9:** Chapter_III (0), TicedUp (1), Tylarzz (9)
 
 ---
 ### First Damage

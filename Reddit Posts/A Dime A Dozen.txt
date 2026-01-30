@@ -78,7 +78,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** hazel_doe (5), chloesad(0), Fourbitplayer(0)
+**S1:** hazel_doe (5), chloesad (0), Fourbitplayer (0)
 
 **S2:** awesomemacD (2), Bandias (7)
 
@@ -86,17 +86,17 @@
 
 **S4:** wibbol (5), lexicuhl (5), MajorWoof (3)
 
-**S5:** centraleric (7), chloesad(0)
+**S5:** centraleric (7), chloesad (0)
 
 **S6:** Greeples (3), centraleric (4), chloesad (2)
 
-**S7:** Blarkslol (2), buttergolem1(0), Jahrod (2), starlxghtmoon (2)
+**S7:** Blarkslol (2), buttergolem1 (0), Jahrod (2), starlxghtmoon (2)
 
 **S8:** Blarkslol (2), Chasmic (2)
 
-**S9:** buttergolem1 (3), centraleric (3), Keelando(0)
+**S9:** buttergolem1 (3), centraleric (3), Keelando (0)
 
-**S10:** AronBaynes (1), centraleric (4), MajorWoof (2), WackoFlipper(0) & CrowJRC (2), Eluniel (2), Jahrod (3), Klickacat(0)
+**S10:** AronBaynes (1), centraleric (4), MajorWoof (2), WackoFlipper (0) & CrowJRC (2), Eluniel (2), Jahrod (3), Klickacat (0)
 
 **S11:** Codwhy (1), CrowJRC (4) & Blarkslol (4), WackoFlipper (1)
 

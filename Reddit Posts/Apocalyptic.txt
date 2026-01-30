@@ -136,39 +136,39 @@
 
 **S2:** Heddit (1), DevoyTTV (1)
 
-**S3:** JaqOnCraq (7), Pelycosaur(0)
+**S3:** JaqOnCraq (7), Pelycosaur (0)
 
-**S4:** brinkwhy (4), natsuvi (1), Heddit(0), JaqOnCraq (2), Karliffu (2)
+**S4:** brinkwhy (4), natsuvi (1), Heddit (0), JaqOnCraq (2), Karliffu (2)
 
 **S5:** N/A
 
-**S6:** Bofishkix(0), CipherKai (4), DakotaB15 (2), p1an(0) & broccoliar (1), JaqOnCraq(0), Pelycosaur (4), Vetmire (1)
+**S6:** Bofishkix (0), CipherKai (4), DakotaB15 (2), p1an (0) & broccoliar (1), JaqOnCraq (0), Pelycosaur (4), Vetmire (1)
 
 **S7:** AiroKun (9), broccoliar (2), Evzenitable (1), Caydone (3), Stravilight (2)
 
 **S8:** ohh_lia (2), DevoyTTV (6)
 
-**S9:** Caydone(0), St0rmplayz (2), Vetmire (7), ZachMcD (2)
+**S9:** Caydone (0), St0rmplayz (2), Vetmire (7), ZachMcD (2)
 
-**S10:** Evzenitable(0), BigJedo (4), Jaysonn (5)
+**S10:** Evzenitable (0), BigJedo (4), Jaysonn (5)
 
-**S11:** CipherKai (1), egl_ (1), ItsColinn (6), Stravilight (1), Vetmire(0)
+**S11:** CipherKai (1), egl_ (1), ItsColinn (6), Stravilight (1), Vetmire (0)
 
 **S12:** Brodator (1), Fcrm (6), OnlyHalf (3), PikachuNumbers (1)
 
 **S13:** N/A
 
-**S14:** Chrominize(0), Codwhy (3), Kelawesome (10)
+**S14:** Chrominize (0), Codwhy (3), Kelawesome (10)
 
 **S15:** DJoee (3), OnlyHalf (2)
 
-**S16:** AiroKun (3), poWpaH (2), FrostBros (1), Karliffu (6), Stravilight(0)
+**S16:** AiroKun (3), poWpaH (2), FrostBros (1), Karliffu (6), Stravilight (0)
 
-**S17:** CodeJoshua (1), Kaddyn(0), Kelawesome (8)
+**S17:** CodeJoshua (1), Kaddyn (0), Kelawesome (8)
 
 **S18:** Captinn (4), Karliffu (4)
 
-**S19:** ArcticSeagull(0), Gorgerous (2), Fcrm (5), DevoyTTV (2)
+**S19:** ArcticSeagull (0), Gorgerous (2), Fcrm (5), DevoyTTV (2)
 
 **S20:** N/A
 

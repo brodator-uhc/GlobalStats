@@ -78,13 +78,13 @@
 ---
 ### Most Kills (Team)
 
-**S1:** aggarnir (1), clefairy(0), iSluff (4)
+**S1:** aggarnir (1), clefairy (0), iSluff (4)
 
-**S2:** AttackZach_(0), Jinko42(0), JMoose (8), silh (1)
+**S2:** AttackZach_ (0), Jinko42 (0), JMoose (8), silh (1)
 
 **S3:** 1eeg (2), Paean (4)
 
-**S4:** Elite_Squirrels (1), FDeath(0), taperturtle (5), vinny212(0), Egth (1)
+**S4:** Elite_Squirrels (1), FDeath (0), taperturtle (5), vinny212 (0), Egth (1)
 
 **S5:** N/A
 
@@ -96,7 +96,7 @@
 
 **S9:** BENYN (3), Purpdan (2), SmooveManeuver (2), Spacepod_ (2)
 
-**S10:** Dylanthesnake (3), Lefo_ (2), OblivionTU (2) & Daffz(0), Purpdan (6), Egth (1)
+**S10:** Dylanthesnake (3), Lefo_ (2), OblivionTU (2) & Daffz (0), Purpdan (6), Egth (1)
 
 **S11:** SmooveManeuver (4), vinny212 (4)
 

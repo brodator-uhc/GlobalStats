@@ -74,23 +74,23 @@
 
 **S1:** Andrew512 (4), Regifloat (2), Wilsonkong (2)
 
-**S2:** AmbientDan (1), Austronomical (2), buttergolem1 (2), chloesad(0)
+**S2:** AmbientDan (1), Austronomical (2), buttergolem1 (2), chloesad (0)
 
 **S3:** Austronomical (8), automavic (2), YellowVitt (2)
 
 **S4:** Austronomical (6), JaeHasNoMaidens (4)
 
-**S5:** Daffz (3), frogsella (2), Microus(0), ShyGus (1), YellowVitt(0)
+**S5:** Daffz (3), frogsella (2), Microus (0), ShyGus (1), YellowVitt (0)
 
-**S6:** buttergolem1 (2), Flouzemaker(0), Maxwellfifty (5)
+**S6:** buttergolem1 (2), Flouzemaker (0), Maxwellfifty (5)
 
 **S7:** Chasmic (4), Maxwellfifty (3)
 
-**S8:** KirbyMD(0), Maxwellfifty (5), Potsie (2), TheSonicJoey (1)
+**S8:** KirbyMD (0), Maxwellfifty (5), Potsie (2), TheSonicJoey (1)
 
-**S9:** buttergolem1 (2), Chasmic (2), Emerric (1), LongaVita(0), warriorcat (5)
+**S9:** buttergolem1 (2), Chasmic (2), Emerric (1), LongaVita (0), warriorcat (5)
 
-**S10:** Emerric (2), Flouzemaker(0), vynil (6)
+**S10:** Emerric (2), Flouzemaker (0), vynil (6)
 
 ---
 ### First Damage

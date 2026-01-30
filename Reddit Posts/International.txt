@@ -180,31 +180,31 @@
 
 **S3:** RedValour (2), WitzIpedia (4)
 
-**S4:** starwebs1(0), Parinfinity (8), __Yoyo (1)
+**S4:** starwebs1 (0), Parinfinity (8), __Yoyo (1)
 
-**S5:** Long_Journey (1), Parinfinity (1) & starwebs1 (2), flxnwolf(0)
+**S5:** Long_Journey (1), Parinfinity (1) & starwebs1 (2), flxnwolf (0)
 
-**S6:** Space_Face87 (1), Parinfinity (5), Mat_HD(0)
+**S6:** Space_Face87 (1), Parinfinity (5), Mat_HD (0)
 
 **S7:** N/A
 
 **S8:** dRawry (4), DjTalica (2)
 
-**S9:** Jillamy(0), dRawry (1), Kidfo (5)
+**S9:** Jillamy (0), dRawry (1), Kidfo (5)
 
 **S10:** ToucanTom (1), Evader22 (2), Pehnk (3), 5kylord (1)
 
 **S11:** TheBP (2), Franz (3)
 
-**S12:** Kieranborn(0), MooM_ (3), bobjomac(0), Franz (2), 5kylord (5)
+**S12:** Kieranborn (0), MooM_ (3), bobjomac (0), Franz (2), 5kylord (5)
 
-**S13:** rippersteveM5 (4), Long_Journey(0), MooM_ (1)
+**S13:** rippersteveM5 (4), Long_Journey (0), MooM_ (1)
 
 **S14:** Flouzemaker (1), TommySuX (8), VeniiiD (1)
 
 **S15:** VeniiiD (5), _Frankie (4), Flouzemaker (2), Just_Gerald (1)
 
-**S16:** Arich (2), ToucanTom(0) & Flouzemaker (2), TheBP(0) & Greeples (2), Long_Journey(0)
+**S16:** Arich (2), ToucanTom (0) & Flouzemaker (2), TheBP (0) & Greeples (2), Long_Journey (0)
 
 **S17:** Arich (3), Greeples (4), dRawry (2)
 
@@ -214,19 +214,19 @@
 
 **S20:** Brodator (4), WackoFlipper (4)
 
-**S21:** CodeJoshua (4), ElGavinoSupremo(0), Rohcket (2), wibbol (3)
+**S21:** CodeJoshua (4), ElGavinoSupremo (0), Rohcket (2), wibbol (3)
 
 **S22:** Brodator (8), TastyBaconZ (2), TheSlimeBrother (2)
 
 **S23:** Brodator (2), Phyrrus (3)
 
-**S24:** DancersTalon(0), Kubaslov (3) & CodeJoshua (3), Rohcket(0)
+**S24:** DancersTalon (0), Kubaslov (3) & CodeJoshua (3), Rohcket (0)
 
-**S25:** DogOfKrondor(0), ElGavinoSupremo(0), Randehh (5), SiahStone (4)
+**S25:** DogOfKrondor (0), ElGavinoSupremo (0), Randehh (5), SiahStone (4)
 
-**S26:** ChainingVermin2 (6), DogOfKrondor(0), powermc (1)
+**S26:** ChainingVermin2 (6), DogOfKrondor (0), powermc (1)
 
-**S27:** ColdBac (2), DogOfKrondor(0), InsertDotJpeg (4), Randehh (3)
+**S27:** ColdBac (2), DogOfKrondor (0), InsertDotJpeg (4), Randehh (3)
 
 ---
 ### First Damage

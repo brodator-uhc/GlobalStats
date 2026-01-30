@@ -124,11 +124,11 @@
 
 **S2:** DaMobFTW (1), ItsPqnda (4), AHSOKATANOSTAN (4)
 
-**S3:** Broseph(0), _itslennard14(0), cherryblawsom (3), SoulRawr (4)
+**S3:** Broseph (0), _itslennard14 (0), cherryblawsom (3), SoulRawr (4)
 
-**S4:** Envified_(0), nh177O13 (2), IyaIsMad (1), AHSOKATANOSTAN (4) & frogsella (2), SiahStone (2), TonyEatWorld(0), xCindeR_(0), Zahkari (3)
+**S4:** Envified_ (0), nh177O13 (2), IyaIsMad (1), AHSOKATANOSTAN (4) & frogsella (2), SiahStone (2), TonyEatWorld (0), xCindeR_ (0), Zahkari (3)
 
-**S5:** AnUncreativeCat(0), vynil (4)
+**S5:** AnUncreativeCat (0), vynil (4)
 
 **S6:** N/A
 
@@ -136,9 +136,9 @@
 
 **S8:** Normoh (5), SiahStone (4)
 
-**S9:** Jordtim (1), Normoh (5), pigghetti (1), silent_spriicket(0) & Espik (2), Glarza (1), Lighte (3), TalonBX (1) & Broseph(0), Charrlottie(0), Karliffu (4), SoulRawr (3)
+**S9:** Jordtim (1), Normoh (5), pigghetti (1), silent_spriicket (0) & Espik (2), Glarza (1), Lighte (3), TalonBX (1) & Broseph (0), Charrlottie (0), Karliffu (4), SoulRawr (3)
 
-**S10:** Lighte (7), xCand(0)
+**S10:** Lighte (7), xCand (0)
 
 **S11:** _Dieter (6), ColdBac (1), Glarza (5), TheSlimeBrother (4)
 
@@ -146,9 +146,9 @@
 
 **S13:** Aybel (3), Glarza (2), lexicuhl (4), SiahStone (1)
 
-**S14:** alexnv (5), Glarza (4), MajorWoof(0), nsket (3), Thimburrr (1)
+**S14:** alexnv (5), Glarza (4), MajorWoof (0), nsket (3), Thimburrr (1)
 
-**S15:** Bornyo (8), Brodator(0), Fra49(0)
+**S15:** Bornyo (8), Brodator (0), Fra49 (0)
 
 **S16:** N/A
 

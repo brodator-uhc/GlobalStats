@@ -42,13 +42,13 @@
 ---
 ### Most Kills (Team)
 
-**S1:** AtomicCrossbow (3), CHAINGE (3), natsuvi (2) & Cubic44 (1), JaqOnCraq (7), Phyrrus(0)
+**S1:** AtomicCrossbow (3), CHAINGE (3), natsuvi (2) & Cubic44 (1), JaqOnCraq (7), Phyrrus (0)
 
-**S2:** _Fost_(0), egl_ (4), Rebelghost (1), IyaIsMad (3)
+**S2:** _Fost_ (0), egl_ (4), Rebelghost (1), IyaIsMad (3)
 
-**S3:** RqDix (1), ZachMcD (3) & Ryfri (4), Spongey(0)
+**S3:** RqDix (1), ZachMcD (3) & Ryfri (4), Spongey (0)
 
-**S4:** ArcticSeagull (4), FrostBros(0), Ryfri (2)
+**S4:** ArcticSeagull (4), FrostBros (0), Ryfri (2)
 
 **S5:** N/A
 

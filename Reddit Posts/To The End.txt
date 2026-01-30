@@ -176,49 +176,49 @@
 
 **S4:** N/A
 
-**S5:** NiFear(0), PythonRrR (5), VeniiiD(0), XFROSTXFIREX (1)
+**S5:** NiFear (0), PythonRrR (5), VeniiiD (0), XFROSTXFIREX (1)
 
 **S6:** GlowingNeon (7), NiFear (7)
 
-**S7:** Hollymatman(0), Stollaz (1), Dark_rust (5)
+**S7:** Hollymatman (0), Stollaz (1), Dark_rust (5)
 
 **S8:** N/A
 
-**S9:** Coolust (3), hammer_fan (4), Stooof (1), Timonscholte(0)
+**S9:** Coolust (3), hammer_fan (4), Stooof (1), Timonscholte (0)
 
-**S10:** Jakekub (2), Maniacmagee (2), VeryNice (1), VeniiiD (1) & CedGhoss (4), jamietheelite(0), Hoppy (1), PythonRrR (1)
+**S10:** Jakekub (2), Maniacmagee (2), VeryNice (1), VeniiiD (1) & CedGhoss (4), jamietheelite (0), Hoppy (1), PythonRrR (1)
 
 **S11:** hammer_fan (2), CedGhoss (7)
 
-**S12:** CedGhoss (5), jamietheelite(0), hammer_fan (1), SidGarcia(0), Frostbreath(0), Hollymatman(0), Kiinako_ (1), Maniacmagee (2), Cookiecrumble_(0), VeryNice(0), wibbol(0), TheSonicJoey (3)
+**S12:** CedGhoss (5), jamietheelite (0), hammer_fan (1), SidGarcia (0), Frostbreath (0), Hollymatman (0), Kiinako_ (1), Maniacmagee (2), Cookiecrumble_ (0), VeryNice (0), wibbol (0), TheSonicJoey (3)
 
-**S13:** bjr201111 (3), Jakekub (3), LongaVita(0)
+**S13:** bjr201111 (3), Jakekub (3), LongaVita (0)
 
 **S14:** N/A
 
-**S15:** CedGhoss (2), hammer_fan (1), Incipiens(0), oworca (4)
+**S15:** CedGhoss (2), hammer_fan (1), Incipiens (0), oworca (4)
 
 **S16:** Coolust (4), hammer_fan (6)
 
-**S17:** CedGhoss (2), FazedMC(0), TheSonicJoey (5)
+**S17:** CedGhoss (2), FazedMC (0), TheSonicJoey (5)
 
-**S18:** Chasmic (6), dRawry(0), _Frankie (1)
+**S18:** Chasmic (6), dRawry (0), _Frankie (1)
 
-**S19:** BBR_ (4), Emerric(0), _Frankie (3), Micale (3)
+**S19:** BBR_ (4), Emerric (0), _Frankie (3), Micale (3)
 
 **S20:** N/A
 
-**S21:** BBR_ (3), Greeples(0) & Emerric (3), oworca(0) & discoczibi (1), ScottPirie (2) & wibbol(0), Hecticity (3)
+**S21:** BBR_ (3), Greeples (0) & Emerric (3), oworca (0) & discoczibi (1), ScottPirie (2) & wibbol (0), Hecticity (3)
 
-**S22:** 5kylord (5), Kiinako_(0), Krenzinator(0), typhlo0o (4)
+**S22:** 5kylord (5), Kiinako_ (0), Krenzinator (0), typhlo0o (4)
 
 **S23:** Emylyl (2), WackoFlipper (4), lottebunny (7)
 
-**S24:** Emylyl(0), MrPolzerino (5)
+**S24:** Emylyl (0), MrPolzerino (5)
 
-**S25:** jamertxn (2), lottebunny (2), Rohcket(0), tagggz (1)
+**S25:** jamertxn (2), lottebunny (2), Rohcket (0), tagggz (1)
 
-**S26:** bjr201111 (4), Kubaslov (5), TorinFBF(0)
+**S26:** bjr201111 (4), Kubaslov (5), TorinFBF (0)
 
 ---
 ### First Damage

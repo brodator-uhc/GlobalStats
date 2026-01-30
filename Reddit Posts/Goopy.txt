@@ -56,7 +56,7 @@
 
 **S1:** TayUHC (3), xRosss (4)
 
-**S2:** aalaan(0), acadiangel (5), Pelycosaur (5), TayUHC(0)
+**S2:** aalaan (0), acadiangel (5), Pelycosaur (5), TayUHC (0)
 
 **S3:** poWpaH (3), Karliffu (4), Pelycosaur (1)
 
@@ -64,7 +64,7 @@
 
 **S5:** Bobbytheturtle (4), Brodator (4), CodeJoshua (1)
 
-**S6:** alexnv (8), DJoee (2), Westcraft00(0)
+**S6:** alexnv (8), DJoee (2), Westcraft00 (0)
 
 **S7:** _Dieter (4), kawaiibunri (2)
 

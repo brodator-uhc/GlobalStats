@@ -26,7 +26,7 @@
 
 **S1:** N/A
 
-**S2:** MarcC5M (3), Fukano (1), jamertxn(0)
+**S2:** MarcC5M (3), Fukano (1), jamertxn (0)
 
 ---
 ### First Damage

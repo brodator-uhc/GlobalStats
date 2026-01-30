@@ -50,9 +50,9 @@
 
 **S1:** ERHDude (3), ethodog (1), Prisma (4)
 
-**S2:** brocktober (1), Cyndic (5), ethodog(0), Prisma (3)
+**S2:** brocktober (1), Cyndic (5), ethodog (0), Prisma (3)
 
-**S3:** GoldenNs(0), Greeples (4), omchris (3)
+**S3:** GoldenNs (0), Greeples (4), omchris (3)
 
 **S4:** Bacan (1), Demomaker (2), Kelawesome (3), _pbo (2)
 

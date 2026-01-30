@@ -72,17 +72,17 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Domo6466(0), sigilyph (4)
+**S1:** Domo6466 (0), sigilyph (4)
 
-**S2:** IceMan8030(0), MonkeyMF(0), MajorWoof (1), JaeHasNoMaidens (5)
+**S2:** IceMan8030 (0), MonkeyMF (0), MajorWoof (1), JaeHasNoMaidens (5)
 
-**S3:** frogsella(0), WillBrisk (1), _mrcool (6)
+**S3:** frogsella (0), WillBrisk (1), _mrcool (6)
 
 **S4:** N/A
 
-**S5:** Kaismartypants (1), BlackGarrett(0), ConBeanJones (3), Hecticity (8)
+**S5:** Kaismartypants (1), BlackGarrett (0), ConBeanJones (3), Hecticity (8)
 
-**S6:** Fancyyy(0), Bradzi (2), Austronomical (3) & JamestheDouglas (1), MajorWoof (4)
+**S6:** Fancyyy (0), Bradzi (2), Austronomical (3) & JamestheDouglas (1), MajorWoof (4)
 
 **S7:** spoocS_ (1), cherryblawsom (5)
 
@@ -90,7 +90,7 @@
 
 **S9:** Bradzi (4), Brodator (2), Espik (1), zac083 (3)
 
-**S10:** CHAINGE (8), chloesad(0)
+**S10:** CHAINGE (8), chloesad (0)
 
 ---
 ### First Damage

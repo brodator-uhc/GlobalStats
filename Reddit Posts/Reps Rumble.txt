@@ -60,7 +60,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** dRawry (2), Greeples (3), bobjomac (3), VeniiiD(0)
+**S1:** dRawry (2), Greeples (3), bobjomac (3), VeniiiD (0)
 
 **S2:** TheSonicJoey (5), Emerric (4), Dj8ninja (3), FazedMC (3)
 
@@ -68,11 +68,11 @@
 
 **S3b:** MaxEvasion (3), Brodator (5), Flouzemaker (1), SiahStone (2)
 
-**S3c:** Ancient_Bunny(0), CrowJRC (6), Jahrod (5), MegaGran(0)
+**S3c:** Ancient_Bunny (0), CrowJRC (6), Jahrod (5), MegaGran (0)
 
-**S4:** buttergolem1 (2), Emerric (7), Greeples (2), Sten_Stone(0)
+**S4:** buttergolem1 (2), Emerric (7), Greeples (2), Sten_Stone (0)
 
-**S5:** Dj8ninja (8), FumoSnake(0), SiahStone (1), Westcraft00 (3)
+**S5:** Dj8ninja (8), FumoSnake (0), SiahStone (1), Westcraft00 (3)
 
 **S6:** aalaan (2), Maxwellfifty (9), omchris (1), Ullti (3)
 

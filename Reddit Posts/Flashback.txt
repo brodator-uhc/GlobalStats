@@ -30,11 +30,11 @@
 ---
 ### Most Kills (Team)
 
-**S1:** BardMain2(0), Lighte (8), SiahStone (1), vynil (3)
+**S1:** BardMain2 (0), Lighte (8), SiahStone (1), vynil (3)
 
-**S2:** Gorgerous (2), pigghetti (4), PresidentFleb(0), RqDix (6)
+**S2:** Gorgerous (2), pigghetti (4), PresidentFleb (0), RqDix (6)
 
-**S3:** Brodator (2), MercuryParadox(0), Potsie (4), Spongey (4)
+**S3:** Brodator (2), MercuryParadox (0), Potsie (4), Spongey (4)
 
 ---
 ### First Damage

@@ -150,11 +150,11 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Pelycosaur (2), Rebelghost (2) & _ChrisMS (4), Brocko(0)
+**S1:** Pelycosaur (2), Rebelghost (2) & _ChrisMS (4), Brocko (0)
 
 **S2:** Djmandude (2), Brocko (5), zack502rh (1)
 
-**S3:** Glarza (3), MichaelPlayMC(0), AHSOKATANOSTAN (8), Rebelghost(0)
+**S3:** Glarza (3), MichaelPlayMC (0), AHSOKATANOSTAN (8), Rebelghost (0)
 
 **S4:** N/A
 
@@ -162,19 +162,19 @@
 
 **S6:** natsuvi (3), Glarza (2), sr8611 (2)
 
-**S7:** CodeJoshua (2), ImChile (1), Rebelghost(0), TheSlimeBrother (4)
+**S7:** CodeJoshua (2), ImChile (1), Rebelghost (0), TheSlimeBrother (4)
 
-**S8:** Captinn (4), Espik(0), TheSlimeBrother (2)
+**S8:** Captinn (4), Espik (0), TheSlimeBrother (2)
 
 **S9:** CodeJoshua (1), Mikemino321 (6)
 
-**S10:** Charrlottie(0), Karliffu (6), TheSlimeBrother (4)
+**S10:** Charrlottie (0), Karliffu (6), TheSlimeBrother (4)
 
-**S11:** Captinn (4), Glarza (3), Kaismartypants(0), Ninetals38 (1)
+**S11:** Captinn (4), Glarza (3), Kaismartypants (0), Ninetals38 (1)
 
 **S12:** Mikemino321 (2), Stravilight (3), TheSlimeBrother (1)
 
-**S13:** Karasu994(0), RohanSmashBro (5) & broccoliar (3), Kaismartypants (2)
+**S13:** Karasu994 (0), RohanSmashBro (5) & broccoliar (3), Kaismartypants (2)
 
 **S14:** Kaismartypants (4), Zebobo10 (3)
 
@@ -182,13 +182,13 @@
 
 **S16:** MaxEvasion (4), ArcticSeagull (4)
 
-**S17:** broccoliar (2), Kaddyn (2), nug17(0)
+**S17:** broccoliar (2), Kaddyn (2), nug17 (0)
 
-**S18:** brinkwhy (5), CAMKART100(0)
+**S18:** brinkwhy (5), CAMKART100 (0)
 
-**S19:** brinkwhy(0), CAMKART100(0), DatGuyAdam (7) & Jalapinecone(0), natsuvi (7), noktime(0)
+**S19:** brinkwhy (0), CAMKART100 (0), DatGuyAdam (7) & Jalapinecone (0), natsuvi (7), noktime (0)
 
-**S20:** Fcrm (7), ShootingGoats(0) & BoltsInCharge (5), Westcraft00 (2)
+**S20:** Fcrm (7), ShootingGoats (0) & BoltsInCharge (5), Westcraft00 (2)
 
 **S21:** Fcrm (3), JampoJohn (1), TheSlimeBrother (2)
 

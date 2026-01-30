@@ -82,15 +82,15 @@
 
 **S2:** N/A
 
-**S3:** BreakSalad(0), ScOpE_H3ad (6), SergeantGnome (3)
+**S3:** BreakSalad (0), ScOpE_H3ad (6), SergeantGnome (3)
 
-**S4:** Sneegsnag(0), Maddognils (1), Kit10s (1), ShutUpBrick (6)
+**S4:** Sneegsnag (0), Maddognils (1), Kit10s (1), ShutUpBrick (6)
 
 **S5:** JakeAladarSmith (1), joeykin (5)
 
 **S6:** N/A
 
-**S7:** Mop19(0), Hollymatman (2), joeykin (1), TheBestGinger13 (6)
+**S7:** Mop19 (0), Hollymatman (2), joeykin (1), TheBestGinger13 (6)
 
 **S8:** Kurtit (1), Zarky (2), SSiafs (5)
 
@@ -98,7 +98,7 @@
 
 **S10:** OddBaller (1), ShutUpBrick (5)
 
-**S11:** CMattznes (1), HUNTERKUN (4), DianaB(0), Raydur (2)
+**S11:** CMattznes (1), HUNTERKUN (4), DianaB (0), Raydur (2)
 
 ---
 ### First Damage

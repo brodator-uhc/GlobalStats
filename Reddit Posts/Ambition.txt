@@ -230,7 +230,7 @@
 
 **S4:** EirenePneuma (4), scriblur (1)
 
-**S5:** scriblur (2), Scott_XD (3), AzaleaComet (1), PokeLP(0), txbill(0), Chippytoothy (4)
+**S5:** scriblur (2), Scott_XD (3), AzaleaComet (1), PokeLP (0), txbill (0), Chippytoothy (4)
 
 **S6:** Kaleeka (2), Likean00b (5), Kelt78 (2)
 
@@ -240,37 +240,37 @@
 
 **S9:** 4D_Pixel (1), Ab0veAverage (1), Kaleeka (3), Shortgamer (3)
 
-**S10:** Kelt78(0), Huntree (2), Shadowlego(0), TicedUp (2), Sneegsnag (3)
+**S10:** Kelt78 (0), Huntree (2), Shadowlego (0), TicedUp (2), Sneegsnag (3)
 
 **S11:** MrTeamRaven (3), Costanza (4), Scott_XD (3)
 
-**S12:** Huntree(0), Micale (6)
+**S12:** Huntree (0), Micale (6)
 
-**S13:** kloosman(0), Micale(0), Chippytoothy (4), TommySuX (3)
+**S13:** kloosman (0), Micale (0), Chippytoothy (4), TommySuX (3)
 
 **S14:** N/A
 
-**S15:** Likean00b (2), Soshikun(0), Ricardo_A (2), cappyrappy (4)
+**S15:** Likean00b (2), Soshikun (0), Ricardo_A (2), cappyrappy (4)
 
 **S16:** brodioh (1), kloosman (1), KOKeowner (5)
 
-**S17:** Nie200(0), Jinko42 (6)
+**S17:** Nie200 (0), Jinko42 (6)
 
-**S18:** Fortwerth(0), Ricardo_A (1), EPICSACKVILLE (3), Likean00b (5), Scott_XD (1)
+**S18:** Fortwerth (0), Ricardo_A (1), EPICSACKVILLE (3), Likean00b (5), Scott_XD (1)
 
-**S19:** JonnyFairplay(0), brodioh (3), Bobbytheturtle (4)
+**S19:** JonnyFairplay (0), brodioh (3), Bobbytheturtle (4)
 
-**S20:** Nate2gamer(0), Likean00b (1), Fortwerth (3), Jinko42 (11)
+**S20:** Nate2gamer (0), Likean00b (1), Fortwerth (3), Jinko42 (11)
 
 **S21:** Ricardo_A (1), Fortwerth (5), Bobbytheturtle (2)
 
-**S22:** sirples (2), miles1baseball(0), MercuryParadox(0), Micale (5), Bobbytheturtle (5)
+**S22:** sirples (2), miles1baseball (0), MercuryParadox (0), Micale (5), Bobbytheturtle (5)
 
-**S23:** Fensua(0), Jinko42 (7)
+**S23:** Fensua (0), Jinko42 (7)
 
 **S24:** Grantonic (4), Jinko42 (9), Likean00b (1), ShyGus (3)
 
-**S25:** Fensua(0), Huntree (1), KOKeowner(0), cappyrappy (4), oworca (3)
+**S25:** Fensua (0), Huntree (1), KOKeowner (0), cappyrappy (4), oworca (3)
 
 **S26:** Jinko42 (6), LegoBeast (1)
 
@@ -278,19 +278,19 @@
 
 **S28:** N/A
 
-**S29:** Fensua(0), guugs (3), Jinko42 (11), pkee (1)
+**S29:** Fensua (0), guugs (3), Jinko42 (11), pkee (1)
 
 **S30:** Purpdan (5), sleepingxd (4)
 
-**S31:** Jinko42 (4), Fortwerth(0), Rawkeyy(0)
+**S31:** Jinko42 (4), Fortwerth (0), Rawkeyy (0)
 
-**S32:** automavic (5), bjr201111 (3), Bobbytheturtle (2), cappyrappy (1), Huntree(0), Jakekub(0)
+**S32:** automavic (5), bjr201111 (3), Bobbytheturtle (2), cappyrappy (1), Huntree (0), Jakekub (0)
 
 **S33:** cappyrappy (4), swishduck (5), T0n35 (1) & Micale (1), NTBama (4), ShyGus (4), tiffaroni (1)
 
 **S34:** Bobbytheturtle (10), KOKeowner (3), TicedUp (5)
 
-**S35:** Bobbytheturtle (6), Brodator (2), CHANGA(0), Micale(0), nsket (4), Plushy33 (3), swishduck (2), zCent(0)
+**S35:** Bobbytheturtle (6), Brodator (2), CHANGA (0), Micale (0), nsket (4), Plushy33 (3), swishduck (2), zCent (0)
 
 ---
 ### First Damage

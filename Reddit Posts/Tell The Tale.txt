@@ -30,7 +30,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Professer_TNT(0), Psykl0ne (1), Vawqer (4), YellowVitt(0)
+**S1:** Professer_TNT (0), Psykl0ne (1), Vawqer (4), YellowVitt (0)
 
 **S2:** lexicuhl (3), brinkwhy (3)
 

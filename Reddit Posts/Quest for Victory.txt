@@ -32,9 +32,9 @@
 
 **S1:** Lilbuses (1), hazel_doe (5)
 
-**S2:** Qenis(0), Bri(0), Osha (2), SuitedPig (2) & oDogLFC (2), hazel_doe(0), Diatu (2), Dylan_SF(0)
+**S2:** Qenis (0), Bri (0), Osha (2), SuitedPig (2) & oDogLFC (2), hazel_doe (0), Diatu (2), Dylan_SF (0)
 
-**S3:** Big_Z60 (2), Dylan_SF (8), Entity_Error(0)
+**S3:** Big_Z60 (2), Dylan_SF (8), Entity_Error (0)
 
 ---
 ### First Damage

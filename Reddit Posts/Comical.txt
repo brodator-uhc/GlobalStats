@@ -30,11 +30,11 @@
 ---
 ### Most Kills (Team)
 
-**S1:** egl_(0), JamestheDouglas (3), TonyEatWorld (1), Vetmire (3)
+**S1:** egl_ (0), JamestheDouglas (3), TonyEatWorld (1), Vetmire (3)
 
 **S2:** N/A
 
-**S3:** Fcrm (1), Glarza (1), Tharve (4) & Karliffu (3), Stravilight(0), TheSlimeBrother (3)
+**S3:** Fcrm (1), Glarza (1), Tharve (4) & Karliffu (3), Stravilight (0), TheSlimeBrother (3)
 
 ---
 ### First Damage

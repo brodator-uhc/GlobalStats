@@ -68,15 +68,15 @@
 
 **S1:** N/A
 
-**S2:** TicedUp (5), upriserryker(0)
+**S2:** TicedUp (5), upriserryker (0)
 
 **S3:** 4D_Pixel (1), Blissinz (1), Kelt78 (2), upriserryker (5)
 
 **S4:** N/A
 
-**S5:** MarcC5M(0), Learning(0), TheBestGinger13 (4), xNestorio (8)
+**S5:** MarcC5M (0), Learning (0), TheBestGinger13 (4), xNestorio (8)
 
-**S6:** Fukano(0), Zarky (1), xNestorio (8)
+**S6:** Fukano (0), Zarky (1), xNestorio (8)
 
 **S7:** N/A
 

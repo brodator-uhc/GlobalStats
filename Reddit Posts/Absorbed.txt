@@ -172,7 +172,7 @@
 
 **S5:** DevoyTTV (4), Dredex (4)
 
-**S6:** Blarkslol (8), AvyleZ (1), Cyawn(0)
+**S6:** Blarkslol (8), AvyleZ (1), Cyawn (0)
 
 **S7:** N/A
 
@@ -180,29 +180,29 @@
 
 **S9:** N/A
 
-**S10:** natsuvi (5), HeyItsJBug(0), Normoh (3), TheSlimeBrother(0)
+**S10:** natsuvi (5), HeyItsJBug (0), Normoh (3), TheSlimeBrother (0)
 
 **S11:** PotteryTNT (2), ItsShqky (4)
 
 **S12:** N/A
 
-**S13:** poWpaH (4), broccoliar (3), Krbreb (7), Markedbooboy(0)
+**S13:** poWpaH (4), broccoliar (3), Krbreb (7), Markedbooboy (0)
 
-**S14:** Fcrm (9), PotteryTNT(0)
+**S14:** Fcrm (9), PotteryTNT (0)
 
-**S15:** benidk (8), jimmyjegs (3), RollRealQuick(0)
+**S15:** benidk (8), jimmyjegs (3), RollRealQuick (0)
 
-**S16:** bayweafs (3), BuildingBard300(0), DJoee (8)
+**S16:** bayweafs (3), BuildingBard300 (0), DJoee (8)
 
-**S17:** Cynthionic(0), Flcnt (4), Greeples (4), ScaryPumpkinFace(0)
+**S17:** Cynthionic (0), Flcnt (4), Greeples (4), ScaryPumpkinFace (0)
 
-**S18:** Bornyo (8), CommanderK22_(0), ItsLittleT(0), Viatic_(0)
+**S18:** Bornyo (8), CommanderK22_ (0), ItsLittleT (0), Viatic_ (0)
 
-**S19:** ArcticSeagull(0), AUPinqer(0), benidk (4), DJoee (6), lasdarling (2)
+**S19:** ArcticSeagull (0), AUPinqer (0), benidk (4), DJoee (6), lasdarling (2)
 
 **S20:** N/A
 
-**S21:** _1mmortal_ (5), AirInAirOut(0), ShootingGoats (4) & DevoyTTV (3), DogOfKrondor(0), Fcrm (6)
+**S21:** _1mmortal_ (5), AirInAirOut (0), ShootingGoats (4) & DevoyTTV (3), DogOfKrondor (0), Fcrm (6)
 
 **S22:** AirInAirOut (4), BoltsInCharge (3)
 
@@ -210,7 +210,7 @@
 
 **S24:** N/A
 
-**S25:** BigJedo(0), BlackPants (3), JampoJohn (1), Moonlitess (1) & Fcrm (2), Haydcn (2), Markedbooboy (1), thnead(0) & _1mmortal_ (3), AlkuranZak(0), boyyoo (2), MineKG(0)
+**S25:** BigJedo (0), BlackPants (3), JampoJohn (1), Moonlitess (1) & Fcrm (2), Haydcn (2), Markedbooboy (1), thnead (0) & _1mmortal_ (3), AlkuranZak (0), boyyoo (2), MineKG (0)
 
 ---
 ### First Damage

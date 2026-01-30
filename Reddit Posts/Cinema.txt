@@ -116,13 +116,13 @@
 
 **S4:** N/A
 
-**S5:** ColdBac (3), Edviin_ (6), Fairyjuice (2), LordLaelaps(0)
+**S5:** ColdBac (3), Edviin_ (6), Fairyjuice (2), LordLaelaps (0)
 
-**S6:** Flouzemaker (1), tagggz(0), lottebunny (4) & BBR_(0), LordLaelaps(0), Potsie (5)
+**S6:** Flouzemaker (1), tagggz (0), lottebunny (4) & BBR_ (0), LordLaelaps (0), Potsie (5)
 
 **S7:** chloesad (1), ColdBac (5), QuilJ1 (1), tilargo (3)
 
-**S8:** dRawry(0), vynil (5)
+**S8:** dRawry (0), vynil (5)
 
 **S9:** Daffz (2), tagggz (2), TheRealHagrid (2)
 
@@ -132,7 +132,7 @@
 
 **S12:** Chasmic (2), Hacn35 (4), WackoFlipper (2)
 
-**S13:** Omertosa (3), QuilJ1(0), mqson(0), MercuryParadox (1), Rohcket (2), MaxEvasion (2)
+**S13:** Omertosa (3), QuilJ1 (0), mqson (0), MercuryParadox (1), Rohcket (2), MaxEvasion (2)
 
 **S14:** DjTalica (4), Omertosa (4), mqson (2)
 

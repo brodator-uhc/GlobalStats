@@ -164,41 +164,41 @@
 
 **S1:** N/A
 
-**S2:** GeeSam (1), ShyGus(0), Grantonic (4)
+**S2:** GeeSam (1), ShyGus (0), Grantonic (4)
 
-**S3:** Lefo_ (2), NajaOxiana (1), zachattack416 (1) & friigiid(0), jvevo (1), Brendnn (1), Sean081799(0), QuilJ1 (1), CH0CK (1)
+**S3:** Lefo_ (2), NajaOxiana (1), zachattack416 (1) & friigiid (0), jvevo (1), Brendnn (1), Sean081799 (0), QuilJ1 (1), CH0CK (1)
 
 **S4:** Do_You_Minecraft (3), tuxpeng (5)
 
 **S5:** DarrenBGP (7), Pie212_123 (1), Walshy (4)
 
-**S6:** Apex_Twinkie (2), Kidfo(0), ShyGus (4), silh(0)
+**S6:** Apex_Twinkie (2), Kidfo (0), ShyGus (4), silh (0)
 
 **S7:** N/A
 
 **S8:** Jakekub (6), 5hup (6)
 
-**S9:** TheKevGuy (4), Chasmic(0), DarrenBGP (2), OnlyCosmia (1), CH0CK (2), Bacan(0), Evader22 (1), thebbers (5)
+**S9:** TheKevGuy (4), Chasmic (0), DarrenBGP (2), OnlyCosmia (1), CH0CK (2), Bacan (0), Evader22 (1), thebbers (5)
 
-**S10:** oworca(0), eurasianlynx(0), Cyndic (8)
+**S10:** oworca (0), eurasianlynx (0), Cyndic (8)
 
-**S11:** ThwipThwip(0), ColdBac (7)
+**S11:** ThwipThwip (0), ColdBac (7)
 
 **S12:** QuilJ1 (1), c1n (3), warriorcat (2), Apex_Twinkie (7)
 
-**S13:** Kelawesome (5), c1n (3), tooooobin(0)
+**S13:** Kelawesome (5), c1n (3), tooooobin (0)
 
-**S14:** automavic (3), brodioh (3), 6dayna6(0), Arich (5)
+**S14:** automavic (3), brodioh (3), 6dayna6 (0), Arich (5)
 
-**S15:** Bacan (3), Kelawesome (3), Chasmic(0), c1n (4), lexicuhl (1) & wibbol(0), MBeaar (3), lottebunny (3), miles1baseball(0), swishduck (5)
+**S15:** Bacan (3), Kelawesome (3), Chasmic (0), c1n (4), lexicuhl (1) & wibbol (0), MBeaar (3), lottebunny (3), miles1baseball (0), swishduck (5)
 
-**S16:** NajaOxiana (4), cherryblawsom (5), Psykl0ne(0)
+**S16:** NajaOxiana (4), cherryblawsom (5), Psykl0ne (0)
 
 **S17:** flameorb (3), Purpdan (4)
 
 **S18:** N/A
 
-**S19:** Chasmic (3), _Fost_ (4), ScottPirie(0), xMisha (5)
+**S19:** Chasmic (3), _Fost_ (4), ScottPirie (0), xMisha (5)
 
 **S20:** Chasmic (2), DareDevilDawson (5), _pbo (2), swishduck (11)
 
@@ -206,11 +206,11 @@
 
 **S22:** Kelawesome (7), MarcC5M (4), YellowVitt (2)
 
-**S23:** KOKeowner (3), lexicuhl (6), pigghetti(0), SiahStone (2)
+**S23:** KOKeowner (3), lexicuhl (6), pigghetti (0), SiahStone (2)
 
 **S24:** HigmanFreud (6), pigghetti (5)
 
-**S25:** Bobbytheturtle (7), KOKeowner(0), MercuryParadox(0), Micale (1)
+**S25:** Bobbytheturtle (7), KOKeowner (0), MercuryParadox (0), Micale (1)
 
 ---
 ### First Damage

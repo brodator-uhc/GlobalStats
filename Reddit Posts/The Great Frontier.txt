@@ -102,35 +102,35 @@
 ---
 ### Most Kills (Team)
 
-**S1:** seanlol(0), IceshardEleven (3), MercuryParadox (1)
+**S1:** seanlol (0), IceshardEleven (3), MercuryParadox (1)
 
 **S2:** N/A
 
-**S3:** SoulRawr(0), GoldenNs (4), SiahStone(0), Spongey (2)
+**S3:** SoulRawr (0), GoldenNs (4), SiahStone (0), Spongey (2)
 
-**S4:** TheRealHagrid(0), lexicuhl (2), _mrcool (1), tuxpeng (4), Do_You_Minecraft (2)
+**S4:** TheRealHagrid (0), lexicuhl (2), _mrcool (1), tuxpeng (4), Do_You_Minecraft (2)
 
 **S5:** IzunaLoli (2), Potsie (5), tuxpeng (9)
 
 **S6:** Spongey (3), SoulRawr (4)
 
-**S7a:** SoulRawr (3), Sluggyg(0), Chessa (1), Beastaxel (2) & Austronomical (1), DaPenguin19 (1), Spongey (3), tilargo (1)
+**S7a:** SoulRawr (3), Sluggyg (0), Chessa (1), Beastaxel (2) & Austronomical (1), DaPenguin19 (1), Spongey (3), tilargo (1)
 
-**S7b:** chloesad(0), spoocS_ (1), Broseph (3), DJblak (2) & SoulRawr (2), lexicuhl (1), ShyGus (2), tilargo (1)
+**S7b:** chloesad (0), spoocS_ (1), Broseph (3), DJblak (2) & SoulRawr (2), lexicuhl (1), ShyGus (2), tilargo (1)
 
-**S8:** zCent(0), Ryfri (3), GoldenNs (3)
+**S8:** zCent (0), Ryfri (3), GoldenNs (3)
 
-**S9:** Spacepod_ (2), buttergolem1 (3), OnlyCosmia (1), Chasmic (1) & GoldenNs (4), SiahStone(0), BlackGarrett(0), Normoh (3)
+**S9:** Spacepod_ (2), buttergolem1 (3), OnlyCosmia (1), Chasmic (1) & GoldenNs (4), SiahStone (0), BlackGarrett (0), Normoh (3)
 
 **S10:** Abdalain (2), Fensua (4), ConBeanJones (4)
 
-**S11:** Arich(0), Fensua (5), Flouzemaker(0), ScottPirie (4)
+**S11:** Arich (0), Fensua (5), Flouzemaker (0), ScottPirie (4)
 
 **S12:** Bobbytheturtle (7), Fensua (3)
 
 **S13:** ohh_lia (2), lexicuhl (2), wizarde (4)
 
-**S14:** Kelawesome (9), pigghetti(0)
+**S14:** Kelawesome (9), pigghetti (0)
 
 ---
 ### First Damage

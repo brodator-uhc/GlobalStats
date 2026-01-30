@@ -120,37 +120,37 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Brodator (2), Chasmic (2), DogOfKrondor(0), Randehh (3)
+**S1:** Brodator (2), Chasmic (2), DogOfKrondor (0), Randehh (3)
 
 **S2:** Chasmic (1), fruitlogic (3)
 
-**S3:** Charrlottie(0), Chasmic (1), Eluniel (4) & Brodator(0), kirbey (4), WackoFlipper (1)
+**S3:** Charrlottie (0), Chasmic (1), Eluniel (4) & Brodator (0), kirbey (4), WackoFlipper (1)
 
-**S4:** MaxEvasion (2), azoof (6), Codwhy (2), Flouzemaker(0), Klickacat(0) & 78ford(0), Brodator (4), Chasmic (2), jimmyjegs (4), rippersteveM5(0)
+**S4:** MaxEvasion (2), azoof (6), Codwhy (2), Flouzemaker (0), Klickacat (0) & 78ford (0), Brodator (4), Chasmic (2), jimmyjegs (4), rippersteveM5 (0)
 
-**S5:** Greeples (4), jimmyjegs(0), Klickacat(0), lexicuhl (5)
+**S5:** Greeples (4), jimmyjegs (0), Klickacat (0), lexicuhl (5)
 
 **S6:** Greeples (2), TheSonicJoey (3)
 
 **S7:** 78ford (1), fruitlogic (2), Jahrod (5)
 
-**S8:** Brodator (3), DancersTalon(0), Klobb (3), TheSonicJoey (3)
+**S8:** Brodator (3), DancersTalon (0), Klobb (3), TheSonicJoey (3)
 
-**S9:** Applepie78 (2), Dj8ninja (1), MeadowMoos (2), TheBP(0), TheSonicJoey (2) & Brodator (2), CaptainRichy (1), Kaismartypants (2), Ninetals38(0), Randehh (2)
+**S9:** Applepie78 (2), Dj8ninja (1), MeadowMoos (2), TheBP (0), TheSonicJoey (2) & Brodator (2), CaptainRichy (1), Kaismartypants (2), Ninetals38 (0), Randehh (2)
 
 **S10:** CrowJRC (1), Klobb (7)
 
 **S11:** jimmyjegs (3), Randehh (5)
 
-**S12:** AirInAirOut (3), ChainingVermin2 (2), Paxtona(0), SiahStone (3), ShootingGoats (3)
+**S12:** AirInAirOut (3), ChainingVermin2 (2), Paxtona (0), SiahStone (3), ShootingGoats (3)
 
 **S13:** Charrlottie (1), powermc (1), Randehh (1), SiahStone (5)
 
 **S14:** Brodator (3), pigghetti (3), ShootingGoats (1)
 
-**S15:** AirInAirOut (3), Gorgerous (6), Dj8ninja (2), WinnerSkye(0)
+**S15:** AirInAirOut (3), Gorgerous (6), Dj8ninja (2), WinnerSkye (0)
 
-**S16:** AirInAirOut (1), Exee (5), Flouzemaker(0)
+**S16:** AirInAirOut (1), Exee (5), Flouzemaker (0)
 
 **S17:** Brodator (4), CrowJRC (3), SpaceFenix (2), SpyroJ (2), starlxghtmoon (2)
 

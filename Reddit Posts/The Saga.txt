@@ -36,13 +36,13 @@
 ---
 ### Most Kills (Team)
 
-**S1:** MaxEvasion(0), Jordtim(0), Kelawesome (4), pigghetti (1) & Gorgerous(0), Codwhy(0), Rohcket(0), WackoFlipper (5)
+**S1:** MaxEvasion (0), Jordtim (0), Kelawesome (4), pigghetti (1) & Gorgerous (0), Codwhy (0), Rohcket (0), WackoFlipper (5)
 
-**S2:** Kelawesome (6), Kiinako_(0), Ratchet6859(0)
+**S2:** Kelawesome (6), Kiinako_ (0), Ratchet6859 (0)
 
 **S3:** ERHDude (4), pigghetti (2)
 
-**S4:** Brodator (1), Kelawesome (3), lexicuhl (5), MajorWoof(0)
+**S4:** Brodator (1), Kelawesome (3), lexicuhl (5), MajorWoof (0)
 
 ---
 ### First Damage

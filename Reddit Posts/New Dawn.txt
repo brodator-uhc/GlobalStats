@@ -146,9 +146,9 @@
 
 **S1:** N/A
 
-**S2:** bigfoot_ (7), OnlyShero(0)
+**S2:** bigfoot_ (7), OnlyShero (0)
 
-**S3:** Bandias (2), gnty(0), nolyd (4)
+**S3:** Bandias (2), gnty (0), nolyd (4)
 
 **S4:** N/A
 
@@ -156,23 +156,23 @@
 
 **S6:** jamietheelite (5), oworca (6)
 
-**S7:** 2NZ (1), bigfoot_ (4), oworca (5), sorlite (1), WaXmAn24(0)
+**S7:** 2NZ (1), bigfoot_ (4), oworca (5), sorlite (1), WaXmAn24 (0)
 
 **S8:** bigfoot_ (5), TommySuX (3)
 
-**S9:** brodioh (3), gnty (3), LinkOcarinaTime (1), LordLaelaps(0), lsperlo (3)
+**S9:** brodioh (3), gnty (3), LinkOcarinaTime (1), LordLaelaps (0), lsperlo (3)
 
 **S10:** N/A
 
-**S11a:** Kidfo (7), MadSainter(0)
+**S11a:** Kidfo (7), MadSainter (0)
 
 **S11b:** BJPlays (3), Kurtit (3)
 
-**S12:** DjTalica (3), Kidfo(0), lsperlo (2), rippersteveM5 (3), SidGarcia(0), Soshikun(0)
+**S12:** DjTalica (3), Kidfo (0), lsperlo (2), rippersteveM5 (3), SidGarcia (0), Soshikun (0)
 
 **S13:** brodioh (5), ElementalYT (1), Phoebe (1), warriorcat (2)
 
-**S14:** ElementalYT(0), jamietheelite (2), lsperlo (5)
+**S14:** ElementalYT (0), jamietheelite (2), lsperlo (5)
 
 **S15:** N/A
 
@@ -184,7 +184,7 @@
 
 **S19:** Fazz2 (6), oworca (6)
 
-**S20:** DjTalica (4), Flohp(0), Macdde(0), oworca (4), TommySuX(0)
+**S20:** DjTalica (4), Flohp (0), Macdde (0), oworca (4), TommySuX (0)
 
 **S21:** N/A
 

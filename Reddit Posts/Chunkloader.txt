@@ -42,7 +42,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** sigilyph(0), LightningS7 (4), Jinko42 (3)
+**S1:** sigilyph (0), LightningS7 (4), Jinko42 (3)
 
 **S2:** Dylan_SF (2), tuxpeng (1), Supah_Matt (1), Grantonic (3)
 

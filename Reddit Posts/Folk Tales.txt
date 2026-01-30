@@ -40,7 +40,7 @@
 
 **S2:** 5hup (3), Maxwellfifty (3)
 
-**S3:** Kingsy_(0), Flouzemaker (1), _Bogo (4), Swedish_ (1)
+**S3:** Kingsy_ (0), Flouzemaker (1), _Bogo (4), Swedish_ (1)
 
 **S4:** N/A
 

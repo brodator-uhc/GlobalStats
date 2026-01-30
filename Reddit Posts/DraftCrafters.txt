@@ -62,7 +62,7 @@
 
 **S1:** N/A
 
-**S2:** CMattznes (1), exetonline (2) & TicedUp(0), Stollaz (3)
+**S2:** CMattznes (1), exetonline (2) & TicedUp (0), Stollaz (3)
 
 **S3:** N/A
 
@@ -72,7 +72,7 @@
 
 **S6:** N/A
 
-**S7:** VeniiiD(0), Havenhand(0), Kiinako_ (5)
+**S7:** VeniiiD (0), Havenhand (0), Kiinako_ (5)
 
 **S8:** TheSonicJoey (3), TommySuX (2)
 

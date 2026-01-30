@@ -24,9 +24,9 @@
 ---
 ### Most Kills (Team)
 
-**S1:** ColdBac (4), MajorWoof(0), MBeaar (5), SiahStone(0)
+**S1:** ColdBac (4), MajorWoof (0), MBeaar (5), SiahStone (0)
 
-**S2:** centraleric (2), CrowJRC (6), TorinFBF(0)
+**S2:** centraleric (2), CrowJRC (6), TorinFBF (0)
 
 ---
 ### First Damage

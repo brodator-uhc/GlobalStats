@@ -150,13 +150,13 @@
 ---
 ### Most Kills (Team)
 
-**S1:** DanQ_CC (1), TheChrisD (2), Ubermarklar(0)
+**S1:** DanQ_CC (1), TheChrisD (2), Ubermarklar (0)
 
-**S2:** Ubermarklar (3), MadDjinn(0)
+**S2:** Ubermarklar (3), MadDjinn (0)
 
 **S3:** CanusAlbinus (2), Makahlua (1)
 
-**S4:** Makahlua(0), Ubermarklar (4)
+**S4:** Makahlua (0), Ubermarklar (4)
 
 **S5:** GrimVek (3), MLS (1)
 
@@ -164,29 +164,29 @@
 
 **S7:** DanQ_CC (1), Eag (3)
 
-**S8:** CanusAlbinus (4), MLS(0)
+**S8:** CanusAlbinus (4), MLS (0)
 
 **S9:** CanusAlbinus (2), Eag (3)
 
-**S10:** GrimVek (2), TheChrisD (1), Aschilon(0), fuzzyfractal42(0)
+**S10:** GrimVek (2), TheChrisD (1), Aschilon (0), fuzzyfractal42 (0)
 
 **S11:** Izmir_Stinger (1), TheChrisD (2)
 
 **S12:** CanusAlbinus (2), MadDjinn (3)
 
-**S13:** Aschilon (1), Makahlua(0)
+**S13:** Aschilon (1), Makahlua (0)
 
 **S14:** Eag (4), MadDjinn (2)
 
 **S15:** Davelions (1), Aschilon (1)
 
-**S16:** DanQ_CC (1), Aschilon(0)
+**S16:** DanQ_CC (1), Aschilon (0)
 
-**S17:** 78ford(0), Aschilon (3), Makahlua(0)
+**S17:** 78ford (0), Aschilon (3), Makahlua (0)
 
 **S18:** 78ford (1), TheChrisD (5)
 
-**S19:** Davelions(0), TheChrisD (3), zosh127 (1)
+**S19:** Davelions (0), TheChrisD (3), zosh127 (1)
 
 **S20:** Balone (3), Aschilon (1) & KirbyMD (2), MadDjinn (2)
 
@@ -194,7 +194,7 @@
 
 **S22:** BBR_ (2), TheChrisD (3)
 
-**S23:** TheChrisD (2), TheMeInTeam(0)
+**S23:** TheChrisD (2), TheMeInTeam (0)
 
 ---
 ### First Damage

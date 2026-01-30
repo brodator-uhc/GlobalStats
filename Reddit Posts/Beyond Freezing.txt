@@ -48,7 +48,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** AvyleZ (7), fruitlogic (2), nug17(0)
+**S1:** AvyleZ (7), fruitlogic (2), nug17 (0)
 
 **S2:** pkee (1), PresidentFleb (4)
 
@@ -58,7 +58,7 @@
 
 **S5:** dolphinman_rl (6), kawaiibunri (5)
 
-**S6:** ColdBac (3), Pacman_2022 (3), sr8611 (3), TehBaconBrawlerZ(0)
+**S6:** ColdBac (3), Pacman_2022 (3), sr8611 (3), TehBaconBrawlerZ (0)
 
 ---
 ### First Damage

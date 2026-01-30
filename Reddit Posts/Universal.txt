@@ -220,9 +220,9 @@
 
 **S2:** Bobbytheturtle (5), OblivionTU (3) & Gleoss (5), Zoroh (3)
 
-**S3:** LUCRODIUM(0), xMisha (4), Zoroh (8)
+**S3:** LUCRODIUM (0), xMisha (4), Zoroh (8)
 
-**S4:** benidk (7), CHAINGE (1), dahii (2), SiahStone(0), strategy (2)
+**S4:** benidk (7), CHAINGE (1), dahii (2), SiahStone (0), strategy (2)
 
 **S5:** N/A
 
@@ -230,7 +230,7 @@
 
 **S7:** carterwarterbear (5), CHAINGE (10), Fcrm (4)
 
-**S8:** Captureee (3), checog (5), CommanderK22_(0), Dopamine (4), Ginzburg (1), Kaddyn(0), LightingMC (2), RohanSmashBro (1), skyzfy (5)
+**S8:** Captureee (3), checog (5), CommanderK22_ (0), Dopamine (4), Ginzburg (1), Kaddyn (0), LightingMC (2), RohanSmashBro (1), skyzfy (5)
 
 **S9:** PotatoPlayer_ (9), SOAKLE (5)
 
@@ -244,7 +244,7 @@
 
 **S14:** Ginzburg (5), PupperKun (6), SOAKLE (6)
 
-**S15:** brinkwhy (2), BuildingBard300(0), checog (4), MaxCringe (1), sgouche(0), skyzfy (4)
+**S15:** brinkwhy (2), BuildingBard300 (0), checog (4), MaxCringe (1), sgouche (0), skyzfy (4)
 
 **S16:** skyzfy (7), SOAKLE (6)
 
@@ -254,7 +254,7 @@
 
 **S19:** onstep (3), skyzfy (6) & SAYNAR (8), SOAKLE (1)
 
-**S20:** BuildingBard300(0), Cocunut233(0), Dopamine(0), FalkoYT (1), Kaismartypants(0), kendawg_g (2), onstep (4), Shu_MCSG (2), skyzfy (3) & _1mmortal_(0), benidk (2), BoltsInCharge (3), checog (4), IdkKiller (1), LightingMC (1), noktime(0), Spongey(0), zCent (1)
+**S20:** BuildingBard300 (0), Cocunut233 (0), Dopamine (0), FalkoYT (1), Kaismartypants (0), kendawg_g (2), onstep (4), Shu_MCSG (2), skyzfy (3) & _1mmortal_ (0), benidk (2), BoltsInCharge (3), checog (4), IdkKiller (1), LightingMC (1), noktime (0), Spongey (0), zCent (1)
 
 **S21:** N/A
 
@@ -262,19 +262,19 @@
 
 **S23:** benidk (5), dahii (2) & painterwanabe (1), skyzfy (6)
 
-**S24:** Fcrm (3), Kaddyn(0), onstep (7), sgouche (9)
+**S24:** Fcrm (3), Kaddyn (0), onstep (7), sgouche (9)
 
 **S25:** N/A
 
-**S26:** carterwarterbear (10), SAYNAR(0)
+**S26:** carterwarterbear (10), SAYNAR (0)
 
-**S27:** _1mmortal_(0), Bornyo (7), carterwarterbear (9), DJoee (4), Hecticity (4), rae0vr(0), ScaryPumpkinFace (1)
+**S27:** _1mmortal_ (0), Bornyo (7), carterwarterbear (9), DJoee (4), Hecticity (4), rae0vr (0), ScaryPumpkinFace (1)
 
 **S28:** _carn (4), dahii (4), RemyChingling (6)
 
 **S29:** N/A
 
-**S30:** _1mmortal_(0), Batusko (6), brinkwhy (1), Cahmn (1), checog (8), ChrisCD (2), Cloversss (2), DevoyTTV (1), DJoee (1), JampoJohn(0), peppermint (2), Skillexio(0), vynil (1)
+**S30:** _1mmortal_ (0), Batusko (6), brinkwhy (1), Cahmn (1), checog (8), ChrisCD (2), Cloversss (2), DevoyTTV (1), DJoee (1), JampoJohn (0), peppermint (2), Skillexio (0), vynil (1)
 
 **S31:** CurdledDrip (10), kendawg_g (6)
 

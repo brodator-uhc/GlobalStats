@@ -72,25 +72,25 @@
 ---
 ### Most Kills (Team)
 
-**S1:** dashdude(0), automavic (2), Zcka (7)
+**S1:** dashdude (0), automavic (2), Zcka (7)
 
-**S2:** DianaB(0), Fygedew(0), JustNolan (6), Phoraxe (4) & CH0CK (4), DKPMatt (6), PotaTomas(0), RabidChipmunk(0)
+**S2:** DianaB (0), Fygedew (0), JustNolan (6), Phoraxe (4) & CH0CK (4), DKPMatt (6), PotaTomas (0), RabidChipmunk (0)
 
 **S3:** Awticon (6), Fensua (3)
 
-**S4:** Nie200(0), Phoraxe (5), WackoFlipper (1)
+**S4:** Nie200 (0), Phoraxe (5), WackoFlipper (1)
 
-**S5:** CameraLagg(0), Fra49(0), omchris(0), PauloSSB (9)
+**S5:** CameraLagg (0), Fra49 (0), omchris (0), PauloSSB (9)
 
 **S6:** Drake132667596 (4), WackoFlipper (4)
 
-**S7:** CrowJRC (7), dashdude(0), ghostblurr (3), Keelando(0), Lighte (4)
+**S7:** CrowJRC (7), dashdude (0), ghostblurr (3), Keelando (0), Lighte (4)
 
-**S8:** Austronomical (6), Fygedew (7), Ratchet6859(0), WackoFlipper (1)
+**S8:** Austronomical (6), Fygedew (7), Ratchet6859 (0), WackoFlipper (1)
 
-**S9:** Drake132667596 (3), Kubaslov (5), lexicuhl(0)
+**S9:** Drake132667596 (3), Kubaslov (5), lexicuhl (0)
 
-**S10:** Cyndic (4), Klickacat(0), TheRealHagrid (3)
+**S10:** Cyndic (4), Klickacat (0), TheRealHagrid (3)
 
 ---
 ### First Damage

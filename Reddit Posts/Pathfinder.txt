@@ -144,33 +144,33 @@
 ---
 ### Most Kills (Team)
 
-**S1:** TheSonicJoey (1), Mathyy (4), Dida(0)
+**S1:** TheSonicJoey (1), Mathyy (4), Dida (0)
 
-**S2:** QuilJ1 (4), MeadowMoos(0)
+**S2:** QuilJ1 (4), MeadowMoos (0)
 
-**S3:** FazedMC (1), OddBaller (3), SidGarcia(0), TommySuX (3)
+**S3:** FazedMC (1), OddBaller (3), SidGarcia (0), TommySuX (3)
 
 **S4:** N/A
 
 **S5:** TheSonicJoey (1), Maxwellfifty (1), Chasmic (4)
 
-**S6:** TheKevGuy (1), brodioh (5), Chasmic(0), firefoxvulpix (1)
+**S6:** TheKevGuy (1), brodioh (5), Chasmic (0), firefoxvulpix (1)
 
 **S7:** VeryNice (1), Jakekub (8)
 
 **S8:** Mathyy (2), Maxwellfifty (4), EighteenQs (1)
 
-**S9:** firefoxvulpix (2), Emerric (3), OddBaller(0), ThePeridotKnight (5)
+**S9:** firefoxvulpix (2), Emerric (3), OddBaller (0), ThePeridotKnight (5)
 
-**S10:** QuilJ1(0), dRawry (7), oDogLFC (2), Mathyy (3)
+**S10:** QuilJ1 (0), dRawry (7), oDogLFC (2), Mathyy (3)
 
 **S11:** brodioh (4), Chasmic (2), VeniiiD (3)
 
-**S12:** buttergolem1 (6), Jakekub (5), Greeples (3), 78ford(0)
+**S12:** buttergolem1 (6), Jakekub (5), Greeples (3), 78ford (0)
 
-**S13:** Jakekub (11), Ninjajaja(0)
+**S13:** Jakekub (11), Ninjajaja (0)
 
-**S14:** Fancyyy (6), wibbol(0), DaPenguin19 (3)
+**S14:** Fancyyy (6), wibbol (0), DaPenguin19 (3)
 
 **S15:** Fancyyy (3), DancersTalon (7), TheBP (2), WackoFlipper (2)
 
@@ -180,7 +180,7 @@
 
 **S18:** Chasmic (4), SoulvG (1), WackoFlipper (5)
 
-**S19:** DancersTalon (1), ElGavinoSupremo(0), Greeples (4), QuilJ1 (2)
+**S19:** DancersTalon (1), ElGavinoSupremo (0), Greeples (4), QuilJ1 (2)
 
 **S20:** brodioh (3), Exee (2), MeadowMoos (3)
 

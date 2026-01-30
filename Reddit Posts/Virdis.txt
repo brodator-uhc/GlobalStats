@@ -24,7 +24,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** TheRedBlockMC(0), DoctorTP_ (3)
+**S1:** TheRedBlockMC (0), DoctorTP_ (3)
 
 **S2:** TobyPMC (1), CrazyRusher (3), TheKappaNation (2)
 

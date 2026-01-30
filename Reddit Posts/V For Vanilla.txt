@@ -72,7 +72,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** PhD_Phil (2), Cr8torGames(0), TheBagelNebula (2)
+**S1:** PhD_Phil (2), Cr8torGames (0), TheBagelNebula (2)
 
 **S2:** dvngal (2), rainbowdashx99 (2) & ImExtortion (1), C_money (3)
 
@@ -80,15 +80,15 @@
 
 **S4:** Kawsiphek (2), Xotixz (1), BucketOfJam (2)
 
-**S5:** PhD_Phil(0), RedstoneJunkyard (7)
+**S5:** PhD_Phil (0), RedstoneJunkyard (7)
 
 **S6:** HungrySquid (4), RedstoneJunkyard (4), BucketOfJam (4)
 
-**S7:** Xotixz(0), C_money (2), GaminSoy (2) & Mystical_Goddess (1), HungrySquid (2), Digimazter (1)
+**S7:** Xotixz (0), C_money (2), GaminSoy (2) & Mystical_Goddess (1), HungrySquid (2), Digimazter (1)
 
 **S8:** N/A
 
-**S9:** C_money (5), Xotixz (1), RedstoneJunkyard (1), PhD_Phil(0), Mystical_Goddess(0), DaDoza(0), TrickyPiston(0), DefyingPeace(0), Aylad(0), CryinMo(0)
+**S9:** C_money (5), Xotixz (1), RedstoneJunkyard (1), PhD_Phil (0), Mystical_Goddess (0), DaDoza (0), TrickyPiston (0), DefyingPeace (0), Aylad (0), CryinMo (0)
 
 **S10:** RedstoneJunkyard (3), RustedSteele (1) & BrickWaffle (2), PhD_Phil (2)
 

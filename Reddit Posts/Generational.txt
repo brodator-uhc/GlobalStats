@@ -36,7 +36,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** _carn(0), ArcticSeagull(0), broccoliar(0), Brodator (1), dahii(0), Fcrm (3), Glarza (3), Gleoss (1), Greeples(0), MercuryParadox(0), Psykl0ne(0), PupperKun (5), SpaceFenix (1), Spongey(0), vynil (1), wizarde (2), Zoroh(0)
+**S1:** _carn (0), ArcticSeagull (0), broccoliar (0), Brodator (1), dahii (0), Fcrm (3), Glarza (3), Gleoss (1), Greeples (0), MercuryParadox (0), Psykl0ne (0), PupperKun (5), SpaceFenix (1), Spongey (0), vynil (1), wizarde (2), Zoroh (0)
 
 **S2:** carterwarterbear (3), dahii (5)
 
