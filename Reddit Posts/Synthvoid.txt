@@ -5,59 +5,105 @@
 
 **S1: _1mmortal_ (3), poWpaH (6)**, *Blarkslol (0), BoltsInCharge (1)*
 
+**S2: CodeJoshua (3), DarrenBGP (2), ShootingGoats (1), Vetmire (0), wizarde (1)**
+
 ---
 ### Runner Ups
 
 **S1:** Geroot (0), ItsShqky (1), Nuclearsugar (0), Vetmire (1)
+
+**S2:** Broseph (2), EndestroyerEpic (1), grantfaker (0), jsr_ (0), strategy (0)
 
 ---
 ### Most Kills
 
 **S1:** poWpaH (6)
 
+**S2:** _1mmortal_ (4)
+
 ---
 ### Most Kills (Team)
 
 **S1:** _1mmortal_ (3), Blarkslol (0), BoltsInCharge (1), poWpaH (6)
+
+**S2:** 5kylord (2), broccoliar (3), Greeples (0), MaxEvasion (3), Nuclearsugar (0)
 
 ---
 ### First Damage
 
 **S1:** Geroot (0:3:52)
 
+**S2:** Kaismartypants (0:0:21)
+
 ---
 ### Ironman
 
 **S1:** Nuclearsugar (1:49:15)
+
+**S2:** CodeJoshua (1:33:11)
 
 ---
 ### First Blood
 
 **S1:** ItsShqky (Ryfri)
 
+**S2:** DJoee (Sharkbob94349)
+
 ---
 ### First Death
 
 **S1:** ArcticSeagull (Creeper)
 
+**S2:** Sharkbob94349 (DJoee)
+
 ---
 ### Kills
 
-**1st - poWpaH (6):** ChainingVermin2 (S1), ShootingGoats (S1), Geroot (S1), broccoliar (S1), fruitlogic (S1), Nuclearsugar (S1)
+**1st - _1mmortal_ (7):** CommanderK22_ (S1), lasdarling (S1), Vetmire (S1), Greeples (S2), Blarkslol (S2), DJoee (S2), Kaismartypants (S2)
 
-**2nd - _1mmortal_ (3):** CommanderK22_ (S1), lasdarling (S1), Vetmire (S1)
+**2nd - poWpaH (6):** ChainingVermin2 (S1), ShootingGoats (S1), Geroot (S1), broccoliar (S1), fruitlogic (S1), Nuclearsugar (S1)
 
-**3rd - broccoliar (2):** ItsShqky (S1), grantfaker (S1)
+**3rd - broccoliar (5):** ItsShqky (S1), grantfaker (S1), Br8dy_ (S2), _1mmortal_ (S2), Caydone (S2)
 
-**3rd - CommanderK22_ (2):** Stravilight (S1), Blarkslol (S1)
+**4th - CodeJoshua (3):** jsr_ (S2), 5kylord (S2), ChainingVermin2 (S2)
 
-**5th - BoltsInCharge (1):** DarrenBGP (S1)
+**4th - MaxEvasion (3):** SoupestGlobe (S2), Ryfri (S2), ItzBeeZ (S2)
 
-**5th - ItsShqky (1):** Ryfri (S1)
+**6th - 5kylord (2):** JustNolan (S2), Westcraft00 (S2)
 
-**5th - Stravilight (1):** BoltsInCharge (S1)
+**6th - BoltsInCharge (2):** DarrenBGP (S1), m4ku (S2)
 
-**5th - Vetmire (1):** CodeJoshua (S1)
+**6th - Broseph (2):** Nuclearsugar (S2), grantfaker (S2)
+
+**6th - CommanderK22_ (2):** Stravilight (S1), Blarkslol (S1)
+
+**6th - DarrenBGP (2):** MercuryParadox (S2), EndestroyerEpic (S2)
+
+**11th - Caydone (1):** strategy (S2)
+
+**11th - ChainingVermin2 (1):** CAMKART100 (S2)
+
+**11th - DJoee (1):** Sharkbob94349 (S2)
+
+**11th - EndestroyerEpic (1):** omchris (S2)
+
+**11th - ItsShqky (1):** Ryfri (S1)
+
+**11th - JustNolan (1):** CommanderK22_ (S2)
+
+**11th - MercuryParadox (1):** BoltsInCharge (S2)
+
+**11th - omchris (1):** Broseph (S2)
+
+**11th - ShootingGoats (1):** MaxEvasion (S2)
+
+**11th - Stravilight (1):** BoltsInCharge (S1)
+
+**11th - Vetmire (1):** CodeJoshua (S1)
+
+**11th - Westcraft00 (1):** Klickacat (S2)
+
+**11th - wizarde (1):** broccoliar (S2)
 
 ---
 ### PvE Deaths
@@ -67,11 +113,15 @@
 ---
 ### Participation
 
-**1 Season (20):** _1mmortal_ (S1), ArcticSeagull (S1), Blarkslol (S1), BoltsInCharge (S1), broccoliar (S1), ChainingVermin2 (S1), CodeJoshua (S1), CommanderK22_ (S1), DarrenBGP (S1), fruitlogic (S1), Geroot (S1), grantfaker (S1), ItsShqky (S1), lasdarling (S1), Nuclearsugar (S1), poWpaH (S1), Ryfri (S1), ShootingGoats (S1), Stravilight (S1), Vetmire (S1)
+**2 Seasons (13):** _1mmortal_ (S1-S2), Blarkslol (S1-S2), BoltsInCharge (S1-S2), broccoliar (S1-S2), ChainingVermin2 (S1-S2), CodeJoshua (S1-S2), CommanderK22_ (S1-S2), DarrenBGP (S1-S2), grantfaker (S1-S2), Nuclearsugar (S1-S2), Ryfri (S1-S2), ShootingGoats (S1-S2), Vetmire (S1-S2)
+
+**1 Season (29):** ArcticSeagull (S1), fruitlogic (S1), Geroot (S1), ItsShqky (S1), lasdarling (S1), poWpaH (S1), Stravilight (S1), 5kylord (S2), Br8dy_ (S2), Broseph (S2), CAMKART100 (S2), Caydone (S2), DJoee (S2), EndestroyerEpic (S2), Greeples (S2), ItzBeeZ (S2), jsr_ (S2), JustNolan (S2), Kaismartypants (S2), Klickacat (S2), m4ku (S2), MaxEvasion (S2), MercuryParadox (S2), omchris (S2), Sharkbob94349 (S2), SoupestGlobe (S2), strategy (S2), Westcraft00 (S2), wizarde (S2)
 
 ---
 ### Debutants
 
 **S1 (20):** _1mmortal_, ArcticSeagull, Blarkslol, BoltsInCharge, broccoliar, ChainingVermin2, CodeJoshua, CommanderK22_, DarrenBGP, fruitlogic, Geroot, grantfaker, ItsShqky, lasdarling, Nuclearsugar, poWpaH, Ryfri, ShootingGoats, Stravilight, Vetmire
+
+**S2 (22):** 5kylord, Br8dy_, Broseph, CAMKART100, Caydone, DJoee, EndestroyerEpic, Greeples, ItzBeeZ, jsr_, JustNolan, Kaismartypants, Klickacat, m4ku, MaxEvasion, MercuryParadox, omchris, Sharkbob94349, SoupestGlobe, strategy, Westcraft00, wizarde
 
 ---

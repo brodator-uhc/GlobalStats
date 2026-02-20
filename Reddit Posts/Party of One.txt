@@ -41,6 +41,8 @@
 
 **S18b: SmolHatChild (4)**
 
+**S19: CrowJRC (5)**
+
 ---
 ### Runner Ups
 
@@ -81,6 +83,8 @@
 **S18a:** Ninetals38 (2)
 
 **S18b:** MercuryParadox (0)
+
+**S19:** MercuryParadox (1)
 
 ---
 ### Most Kills
@@ -123,6 +127,8 @@
 
 **S18b:** AirInAirOut, Brodator, SmolHatChild (4)
 
+**S19:** CrowJRC (5)
+
 ---
 ### Most Kills (Team)
 
@@ -163,6 +169,8 @@
 **S18a:** N/A
 
 **S18b:** N/A
+
+**S19:** N/A
 
 ---
 ### First Damage
@@ -205,6 +213,8 @@
 
 **S18b:** _Fost_ (0:5:15)
 
+**S19:** Codwhy (0:2:23)
+
 ---
 ### Ironman
 
@@ -245,6 +255,8 @@
 **S18a:** MercuryParadox (1:27:27)
 
 **S18b:** MercuryParadox (2:43:55)
+
+**S19:** DogOfKrondor (0:50:0)
 
 ---
 ### First Blood
@@ -287,6 +299,8 @@
 
 **S18b:** Brodator (_Fost_)
 
+**S19:** TehBaconBrawlerZ (Nuclearsugar)
+
 ---
 ### First Death
 
@@ -328,36 +342,38 @@
 
 **S18b:** _Fost_ (Brodator)
 
+**S19:** Klanke (Skeleton)
+
 ---
 ### Kills
 
-**1st - Brodator (34):** EmIsThem (S1), ToucanTom (S1), SmolHatChild (S1), AyeeSammy (S2), JamestheDouglas (S2), Dj8ninja (S2), ThePeridotKnight (S2), CrowJRC (S2), ElGavinoSupremo (S3), whitetimewolf (S3), CrowJRC (S3), SmearBear (S3), tooooobin (S4), CodeJoshua (S4), FieryFate (S4), Markedbooboy (S4), Microus (S6), Rohcket (S6), TehBaconBrawlerZ (S6), CodeJoshua (S8), Microus (S8), MarcC5M (S8), PrinceSix (S8), SmolHatChild (S12), DogOfKrondor (S12), lexicuhl (S14), Compieuter (S15), DancersTalon (S16), DogOfKrondor (S17), DancersTalon (S18a), _Fost_ (S18b), ElGavinoSupremo (S18b), Greeples (S18b), MaxEvasion (S18b)
+**1st - Brodator (38):** EmIsThem (S1), ToucanTom (S1), SmolHatChild (S1), AyeeSammy (S2), JamestheDouglas (S2), Dj8ninja (S2), ThePeridotKnight (S2), CrowJRC (S2), ElGavinoSupremo (S3), whitetimewolf (S3), CrowJRC (S3), SmearBear (S3), tooooobin (S4), CodeJoshua (S4), FieryFate (S4), Markedbooboy (S4), Microus (S6), Rohcket (S6), TehBaconBrawlerZ (S6), CodeJoshua (S8), Microus (S8), MarcC5M (S8), PrinceSix (S8), SmolHatChild (S12), DogOfKrondor (S12), lexicuhl (S14), Compieuter (S15), DancersTalon (S16), DogOfKrondor (S17), DancersTalon (S18a), _Fost_ (S18b), ElGavinoSupremo (S18b), Greeples (S18b), MaxEvasion (S18b), CodeJoshua (S19), Kaddyn (S19), Codwhy (S19), fruitlogic (S19)
 
-**2nd - CrowJRC (26):** Slooshyy (S1), Greeples (S1), FieryFate (S1), QuilJ1 (S1), JamestheDouglas (S1), SummerBqsh (S1), Greeples (S2), TaylorLive (S2), SummerBqsh (S2), Markedbooboy (S2), nFang (S2), kalleina (S2), SiahStone (S3), Markedbooboy (S3), Fourbitplayer (S4), Kaddyn (S10), Fourbitplayer (S10), QuilJ1 (S10), lexicuhl (S10), CodeJoshua (S10), PrinceSix (S10), fruitlogic (S10), Greeples (S17), Nuclearsugar (S17), fruitlogic (S17), DancersTalon (S18b)
+**2nd - CrowJRC (31):** Slooshyy (S1), Greeples (S1), FieryFate (S1), QuilJ1 (S1), JamestheDouglas (S1), SummerBqsh (S1), Greeples (S2), TaylorLive (S2), SummerBqsh (S2), Markedbooboy (S2), nFang (S2), kalleina (S2), SiahStone (S3), Markedbooboy (S3), Fourbitplayer (S4), Kaddyn (S10), Fourbitplayer (S10), QuilJ1 (S10), lexicuhl (S10), CodeJoshua (S10), PrinceSix (S10), fruitlogic (S10), Greeples (S17), Nuclearsugar (S17), fruitlogic (S17), DancersTalon (S18b), AirInAirOut (S19), Kubaslov (S19), ShootingGoats (S19), Espik (S19), MercuryParadox (S19)
 
-**3rd - Kaddyn (23):** Sluggyg (S5), lexicuhl (S9), fruitlogic (S9), Greeples (S12), MaxEvasion (S12), Brodator (S12), fruitlogic (S12), Jahrod (S12), Rohcket (S12), ghostblurr (S12), TommySuX (S13), fruitlogic (S13), _Fost_ (S13), Jahrod (S13), Greeples (S13), Keelando (S14), c1n (S15), AirInAirOut (S15), CodeJoshua (S15), Espik (S15), Klobb (S16), MarcC5M (S16), fruitlogic (S16)
+**3rd - Kaddyn (25):** Sluggyg (S5), lexicuhl (S9), fruitlogic (S9), Greeples (S12), MaxEvasion (S12), Brodator (S12), fruitlogic (S12), Jahrod (S12), Rohcket (S12), ghostblurr (S12), TommySuX (S13), fruitlogic (S13), _Fost_ (S13), Jahrod (S13), Greeples (S13), Keelando (S14), c1n (S15), AirInAirOut (S15), CodeJoshua (S15), Espik (S15), Klobb (S16), MarcC5M (S16), fruitlogic (S16), DogOfKrondor (S19), Dj8ninja (S19)
 
-**3rd - SmolHatChild (23):** ToucanTom (S4), ElGavinoSupremo (S4), Jahrod (S4), CrowJRC (S4), Greeples (S4), tooooobin (S5), Greeples (S5), Jahrod (S5), nFang (S6), aalaan (S13), Dj8ninja (S13), WaXmAn24 (S13), Brodator (S13), CodeJoshua (S14), Cyonal (S14), Greeples (S14), Compieuter (S14), Markedbooboy (S16), Compieuter (S17), Brodator (S18b), AirInAirOut (S18b), 3Dspoders (S18b), MercuryParadox (S18b)
+**4th - SmolHatChild (23):** ToucanTom (S4), ElGavinoSupremo (S4), Jahrod (S4), CrowJRC (S4), Greeples (S4), tooooobin (S5), Greeples (S5), Jahrod (S5), nFang (S6), aalaan (S13), Dj8ninja (S13), WaXmAn24 (S13), Brodator (S13), CodeJoshua (S14), Cyonal (S14), Greeples (S14), Compieuter (S14), Markedbooboy (S16), Compieuter (S17), Brodator (S18b), AirInAirOut (S18b), 3Dspoders (S18b), MercuryParadox (S18b)
 
-**5th - TehBaconBrawlerZ (21):** Greeples (S6), Markedbooboy (S6), buttergolem1 (S6), aalaan (S6), ethodog (S6), Markedbooboy (S13), Fourbitplayer (S14), SmolHatChild (S14), DogOfKrondor (S14), Jahrod (S14), Kaddyn (S15), fruitlogic (S15), Klobb (S15), SmolHatChild (S17), MercuryParadox (S17), rippersteveM5 (S18a), Kaddyn (S18a), AirInAirOut (S18a), Ninetals38 (S18a), Rohcket (S18b), ShootingGoats (S18b)
+**4th - TehBaconBrawlerZ (23):** Greeples (S6), Markedbooboy (S6), buttergolem1 (S6), aalaan (S6), ethodog (S6), Markedbooboy (S13), Fourbitplayer (S14), SmolHatChild (S14), DogOfKrondor (S14), Jahrod (S14), Kaddyn (S15), fruitlogic (S15), Klobb (S15), SmolHatChild (S17), MercuryParadox (S17), rippersteveM5 (S18a), Kaddyn (S18a), AirInAirOut (S18a), Ninetals38 (S18a), Rohcket (S18b), ShootingGoats (S18b), Nuclearsugar (S19), DancersTalon (S19)
+
+**6th - AirInAirOut (14):** DogOfKrondor (S16), lexicuhl (S17), TehBaconBrawlerZ (S17), CodeJoshua (S17), CrowJRC (S17), Klobb (S18a), brodioh (S18a), fruitlogic (S18a), Rohcket (S18a), Karliffu (S18b), CrowJRC (S18b), JDwb (S18b), fruitlogic (S18b), Greeples (S19)
 
 **6th - ethodog (14):** SmolHatChild (S6), CodeJoshua (S6), FieryFate (S6), Dj8ninja (S6), rippersteveM5 (S6), Markedbooboy (S10), Charrlottie (S10), Compieuter (S11), buttergolem1 (S11), MeadowMoos (S11), Kaddyn (S11), TehBaconBrawlerZ (S11), fruitlogic (S11), lexicuhl (S11)
-
-**7th - AirInAirOut (13):** DogOfKrondor (S16), lexicuhl (S17), TehBaconBrawlerZ (S17), CodeJoshua (S17), CrowJRC (S17), Klobb (S18a), brodioh (S18a), fruitlogic (S18a), Rohcket (S18a), Karliffu (S18b), CrowJRC (S18b), JDwb (S18b), fruitlogic (S18b)
 
 **8th - c1n (11):** ElGavinoSupremo (S1), Sluggyg (S1), Markedbooboy (S1), CrowJRC (S1), TehBaconBrawlerZ (S3), Fourbitplayer (S3), wibbol (S3), rippersteveM5 (S3), Sluggyg (S3), Brodator (S3), buttergolem1 (S13)
 
 **8th - CodeJoshua (11):** Dawncy (S4), DogOfKrondor (S10), rippersteveM5 (S10), MarcC5M (S10), TheSonicJoey (S10), Markedbooboy (S12), PatrickTN_ (S16), _Fost_ (S16), Kaddyn (S17), Markedbooboy (S17), DancersTalon (S17)
 
+**8th - Greeples (11):** TheSonicJoey (S1), Psykl0ne (S4), kalleina (S4), Brodator (S4), Fourbitplayer (S5), TheSonicJoey (S5), ghostblurr (S11), Charrlottie (S12), LocSen (S13), kirbey (S18a), SmolHatChild (S19)
+
 **8th - lexicuhl (11):** Kaddyn (S8), WaXmAn24 (S8), ToucanTom (S8), TaylorLive (S8), ElGavinoSupremo (S8), SmolHatChild (S10), Dawncy (S10), Rohcket (S10), Greeples (S11), c1n (S17), MeadowMoos (S17)
 
 **8th - TheSonicJoey (11):** TehBaconBrawlerZ (S4), Dawncy (S5), Davelions (S5), CodeJoshua (S5), Dj8ninja (S9), Dawncy (S9), buttergolem1 (S9), ethodog (S9), Kaddyn (S9), BardMain2 (S9), Microus (S10)
 
-**12th - buttergolem1 (10):** Kaddyn (S5), Dj8ninja (S5), Broseph (S5), SmolHatChild (S5), ghostblurr (S6), Kaddyn (S6), DogOfKrondor (S6), Keelando (S6), Davelions (S7), Markedbooboy (S9)
+**13th - buttergolem1 (10):** Kaddyn (S5), Dj8ninja (S5), Broseph (S5), SmolHatChild (S5), ghostblurr (S6), Kaddyn (S6), DogOfKrondor (S6), Keelando (S6), Davelions (S7), Markedbooboy (S9)
 
-**12th - Greeples (10):** TheSonicJoey (S1), Psykl0ne (S4), kalleina (S4), Brodator (S4), Fourbitplayer (S5), TheSonicJoey (S5), ghostblurr (S11), Charrlottie (S12), LocSen (S13), kirbey (S18a)
-
-**12th - ToucanTom (10):** Broseph (S8), Davelions (S8), aalaan (S8), TehBaconBrawlerZ (S9), Fourbitplayer (S9), aalaan (S9), Rohcket (S9), SiahStone (S9), MaxEvasion (S9), ElGavinoSupremo (S10)
+**13th - ToucanTom (10):** Broseph (S8), Davelions (S8), aalaan (S8), TehBaconBrawlerZ (S9), Fourbitplayer (S9), aalaan (S9), Rohcket (S9), SiahStone (S9), MaxEvasion (S9), ElGavinoSupremo (S10)
 
 **15th - Jahrod (8):** EmIsThem (S3), aalaan (S3), Dj8ninja (S4), FieryFate (S5), Markedbooboy (S5), Keelando (S11), aalaan (S12), fruitlogic (S14)
 
@@ -395,6 +411,8 @@
 
 **32nd - aalaan (2):** Dawncy (S6), lexicuhl (S12)
 
+**32nd - Codwhy (2):** MercuryParadox (S16), buttergolem1 (S19)
+
 **32nd - FieryFate (2):** SmolHatChild (S3), Klanke (S4)
 
 **32nd - Microus (2):** Markedbooboy (S7), Markedbooboy (S8)
@@ -405,48 +423,52 @@
 
 **32nd - WaXmAn24 (2):** QuilJ1 (S6), Dawncy (S13)
 
-**38th - brodioh (1):** CrowJRC (S18a)
+**39th - brodioh (1):** CrowJRC (S18a)
 
-**38th - Codwhy (1):** MercuryParadox (S16)
+**39th - Espik (1):** Codwhy (S16)
 
-**38th - Espik (1):** Codwhy (S16)
+**39th - InsertDotJpeg (1):** DancersTalon (S15)
 
-**38th - InsertDotJpeg (1):** DancersTalon (S15)
+**39th - JDwb (1):** TehBaconBrawlerZ (S18b)
 
-**38th - JDwb (1):** TehBaconBrawlerZ (S18b)
+**39th - Karliffu (1):** Ullti (S18b)
 
-**38th - Karliffu (1):** Ullti (S18b)
+**39th - Keelando (1):** WaXmAn24 (S6)
 
-**38th - Keelando (1):** WaXmAn24 (S6)
+**39th - Klobb (1):** SmolHatChild (S15)
 
-**38th - Klobb (1):** SmolHatChild (S15)
+**39th - Kubaslov (1):** aalaan (S19)
 
-**38th - MaxEvasion (1):** Dawncy (S11)
+**39th - MaxEvasion (1):** Dawncy (S11)
 
-**38th - MeadowMoos (1):** CodeJoshua (S11)
+**39th - MeadowMoos (1):** CodeJoshua (S11)
 
-**38th - nFang (1):** SiahStone (S2)
+**39th - MercuryParadox (1):** TehBaconBrawlerZ (S19)
 
-**38th - PatrickTN_ (1):** lexicuhl (S16)
+**39th - nFang (1):** SiahStone (S2)
 
-**38th - Sluggyg (1):** Dawncy (S3)
+**39th - PatrickTN_ (1):** lexicuhl (S16)
 
-**38th - TommySuX (1):** lexicuhl (S13)
+**39th - ShootingGoats (1):** Brodator (S19)
+
+**39th - Sluggyg (1):** Dawncy (S3)
+
+**39th - TommySuX (1):** lexicuhl (S13)
 
 ---
 ### PvE Deaths
 
-**Skeleton (11):** QuilJ1 (S2), ElGavinoSupremo (S5), Dawncy (S7), TehBaconBrawlerZ (S7), Broseph (S7), Zevulpes (S7), ToucanTom (S7), c1n (S7), _Fost_ (S12), ElGavinoSupremo (S13), JoshC2 (S16)
+**Skeleton (14):** QuilJ1 (S2), ElGavinoSupremo (S5), Dawncy (S7), TehBaconBrawlerZ (S7), Broseph (S7), Zevulpes (S7), ToucanTom (S7), c1n (S7), _Fost_ (S12), ElGavinoSupremo (S13), JoshC2 (S16), Klanke (S19), Ullti (S19), Slooshyy (S19)
 
-**Fall (10):** Psykl0ne (S2), Psykl0ne (S6), Psykl0ne (S7), ethodog (S7), 78ford (S7), SmolHatChild (S9), SmolHatChild (S13), Brodator (S14), Keelando (S15), ElGavinoSupremo (S16)
+**Fall (11):** Psykl0ne (S2), Psykl0ne (S6), Psykl0ne (S7), ethodog (S7), 78ford (S7), SmolHatChild (S9), SmolHatChild (S13), Brodator (S14), Keelando (S15), ElGavinoSupremo (S16), zoeywithawhy (S19)
 
 **Zombie (9):** aalaan (S2), TehBaconBrawlerZ (S5), ElGavinoSupremo (S7), WaXmAn24 (S7), DogOfKrondor (S8), Microus (S9), NikoAnimation (S12), JoshC2 (S14), ElGavinoSupremo (S14)
 
 **Creeper (7):** whitetimewolf (S1), Brodator (S7), Charrlottie (S7), DogOfKrondor (S11), Dawncy (S14), Klobb (S14), Demomaker (S18a)
 
-**Enderman (4):** Greeples (S7), rippersteveM5 (S7), 78ford (S12), MercuryParadox (S15)
+**Blaze (4):** c1n (S6), ToucanTom (S10), Dj8ninja (S17), _Fost_ (S19)
 
-**Blaze (3):** c1n (S6), ToucanTom (S10), Dj8ninja (S17)
+**Enderman (4):** Greeples (S7), rippersteveM5 (S7), 78ford (S12), MercuryParadox (S15)
 
 **Burning (3):** Dj8ninja (S1), Sluggyg (S2), chloesad (S8)
 
@@ -485,43 +507,45 @@
 ---
 ### Participation
 
-**19 Seasons (1):** Brodator (S1-S18b)
+**20 Seasons (1):** Brodator (S1-S19)
 
-**18 Seasons (1):** SmolHatChild (S1-S6,S8-S18b)
+**19 Seasons (1):** SmolHatChild (S1-S6,S8-S19)
+
+**18 Seasons (0):** 
 
 **17 Seasons (0):** 
 
 **16 Seasons (1):** Markedbooboy (S1-S13,S16-S17,S18b)
 
-**15 Seasons (1):** ElGavinoSupremo (S1,S3-S5,S7-S8,S10-S11,S13-S18b)
+**15 Seasons (3):** ElGavinoSupremo (S1,S3-S5,S7-S8,S10-S11,S13-S18b), Greeples (S1-S2,S4-S7,S11-S14,S16-S19), TehBaconBrawlerZ (S3-S7,S9,S11,S13-S19)
 
-**14 Seasons (2):** Greeples (S1-S2,S4-S7,S11-S14,S16-S18b), TehBaconBrawlerZ (S3-S7,S9,S11,S13-S18b)
+**14 Seasons (1):** Kaddyn (S5-S6,S8-S18a,S19)
 
-**13 Seasons (1):** Kaddyn (S5-S6,S8-S18a)
+**13 Seasons (0):** 
 
-**12 Seasons (0):** 
+**12 Seasons (3):** aalaan (S2-S6,S8-S9,S11-S13,S18b-S19), CodeJoshua (S4-S6,S8,S10-S12,S14-S17,S19), fruitlogic (S9-S19)
 
-**11 Seasons (4):** aalaan (S2-S6,S8-S9,S11-S13,S18b), Dawncy (S3-S7,S9-S11,S13-S14,S17), CodeJoshua (S4-S6,S8,S10-S12,S14-S17), fruitlogic (S9-S18b)
+**11 Seasons (1):** Dawncy (S3-S7,S9-S11,S13-S14,S17)
 
-**10 Seasons (2):** Jahrod (S3-S5,S7,S10-S15), lexicuhl (S8-S17)
+**10 Seasons (3):** Jahrod (S3-S5,S7,S10-S15), DogOfKrondor (S6,S8,S10-S12,S14-S17,S19), lexicuhl (S8-S17)
 
-**9 Seasons (3):** Fourbitplayer (S1,S3-S5,S7,S9-S11,S14), rippersteveM5 (S1,S3,S6-S8,S10,S15-S16,S18a), DogOfKrondor (S6,S8,S10-S12,S14-S17)
+**9 Seasons (4):** CrowJRC (S1-S4,S10,S17-S19), Dj8ninja (S1-S2,S4-S6,S9,S13,S17,S19), Fourbitplayer (S1,S3-S5,S7,S9-S11,S14), rippersteveM5 (S1,S3,S6-S8,S10,S15-S16,S18a)
 
-**8 Seasons (4):** c1n (S1,S3,S6-S7,S10,S13,S15,S17), CrowJRC (S1-S4,S10,S17-S18b), Dj8ninja (S1-S2,S4-S6,S9,S13,S17), Rohcket (S6-S10,S12,S18a-S18b)
+**8 Seasons (3):** c1n (S1,S3,S6-S7,S10,S13,S15,S17), buttergolem1 (S5-S7,S9-S11,S13,S19), Rohcket (S6-S10,S12,S18a-S18b)
 
-**7 Seasons (2):** TheSonicJoey (S1,S4-S5,S9-S10,S12,S16), buttergolem1 (S5-S7,S9-S11,S13)
+**7 Seasons (1):** TheSonicJoey (S1,S4-S5,S9-S10,S12,S16)
 
-**6 Seasons (2):** ToucanTom (S1,S4,S7-S10), ethodog (S6-S11)
+**6 Seasons (5):** ToucanTom (S1,S4,S7-S10), ethodog (S6-S11), AirInAirOut (S15-S19), DancersTalon (S15-S19), MercuryParadox (S15-S19)
 
-**5 Seasons (8):** FieryFate (S1,S3-S6), QuilJ1 (S1-S2,S6,S10-S11), nFang (S2-S6), Microus (S6-S10), MaxEvasion (S9-S12,S18b), AirInAirOut (S15-S18b), DancersTalon (S15-S18b), MercuryParadox (S15-S18b)
+**5 Seasons (7):** FieryFate (S1,S3-S6), QuilJ1 (S1-S2,S6,S10-S11), nFang (S2-S6), Microus (S6-S10), MaxEvasion (S9-S12,S18b), Espik (S11,S15-S17,S19), _Fost_ (S12-S13,S16,S18b-S19)
 
-**4 Seasons (13):** Sluggyg (S1-S3,S5), Psykl0ne (S2,S4,S6-S7), SiahStone (S2-S3,S9-S10), TaylorLive (S2,S7-S8,S13), Broseph (S4-S5,S7-S8), ghostblurr (S6,S8,S11-S12), Keelando (S6,S11,S14-S15), WaXmAn24 (S6-S8,S13), MarcC5M (S8,S10,S15-S16), Compieuter (S11,S14-S15,S17), Espik (S11,S15-S17), _Fost_ (S12-S13,S16,S18b), Klobb (S14-S16,S18a)
+**4 Seasons (11):** Sluggyg (S1-S3,S5), Psykl0ne (S2,S4,S6-S7), SiahStone (S2-S3,S9-S10), TaylorLive (S2,S7-S8,S13), Broseph (S4-S5,S7-S8), ghostblurr (S6,S8,S11-S12), Keelando (S6,S11,S14-S15), WaXmAn24 (S6-S8,S13), MarcC5M (S8,S10,S15-S16), Compieuter (S11,S14-S15,S17), Klobb (S14-S16,S18a)
 
-**3 Seasons (7):** EmIsThem (S1,S3-S4), SummerBqsh (S1-S2,S4), whitetimewolf (S1,S3,S10), Davelions (S5,S7-S8), Charrlottie (S7,S10,S12), MeadowMoos (S10-S11,S17), Nyxbee (S11,S14,S17)
+**3 Seasons (9):** EmIsThem (S1,S3-S4), Slooshyy (S1-S2,S19), SummerBqsh (S1-S2,S4), whitetimewolf (S1,S3,S10), Davelions (S5,S7-S8), Charrlottie (S7,S10,S12), MeadowMoos (S10-S11,S17), Nyxbee (S11,S14,S17), zoeywithawhy (S17-S18a,S19)
 
-**2 Seasons (15):** JamestheDouglas (S1-S2), Slooshyy (S1-S2), kalleina (S2,S4), SmearBear (S3,S7), wibbol (S3,S5), tooooobin (S4-S5), 78ford (S7,S12), Ghaosty (S8,S12), Jordtim (S8-S9), PrinceSix (S8,S10), JoshC2 (S14,S16), InsertDotJpeg (S15,S18a), kirbey (S15,S18a), zoeywithawhy (S17-S18a), Ninetals38 (S18a-S18b)
+**2 Seasons (18):** JamestheDouglas (S1-S2), kalleina (S2,S4), SmearBear (S3,S7), wibbol (S3,S5), Klanke (S4,S19), tooooobin (S4-S5), 78ford (S7,S12), Ghaosty (S8,S12), Jordtim (S8-S9), PrinceSix (S8,S10), JoshC2 (S14,S16), InsertDotJpeg (S15,S18a), kirbey (S15,S18a), Codwhy (S16,S19), Nuclearsugar (S17,S19), Ninetals38 (S18a-S18b), ShootingGoats (S18b-S19), Ullti (S18b-S19)
 
-**1 Season (26):** Regifloat (S1), AyeeSammy (S2), ThePeridotKnight (S2), Klanke (S4), Zevulpes (S7), chloesad (S8), NajaOxiana (S8), BardMain2 (S9), Klickacat (S9), BreakSalad (S11), Calliwags (S12), NikoAnimation (S12), LocSen (S13), TommySuX (S13), Cyonal (S14), Codwhy (S16), Dactus_ (S16), PatrickTN_ (S16), Nuclearsugar (S17), brodioh (S18a), Demomaker (S18a), 3Dspoders (S18b), JDwb (S18b), Karliffu (S18b), ShootingGoats (S18b), Ullti (S18b)
+**1 Season (22):** Regifloat (S1), AyeeSammy (S2), ThePeridotKnight (S2), Zevulpes (S7), chloesad (S8), NajaOxiana (S8), BardMain2 (S9), Klickacat (S9), BreakSalad (S11), Calliwags (S12), NikoAnimation (S12), LocSen (S13), TommySuX (S13), Cyonal (S14), Dactus_ (S16), PatrickTN_ (S16), brodioh (S18a), Demomaker (S18a), 3Dspoders (S18b), JDwb (S18b), Karliffu (S18b), Kubaslov (S19)
 
 ---
 ### Debutants
@@ -563,5 +587,7 @@
 **S18a (3):** brodioh, Demomaker, Ninetals38
 
 **S18b (5):** 3Dspoders, JDwb, Karliffu, ShootingGoats, Ullti
+
+**S19 (1):** Kubaslov
 
 ---

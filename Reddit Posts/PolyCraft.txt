@@ -362,7 +362,7 @@
 
 **S8:** MLS (Creeper)
 
-**S9:** Aschilon (Suffocation)
+**S9:** Aschilon (Void)
 
 **S10:** Izmir_Stinger (Skeleton)
 
@@ -448,15 +448,13 @@
 
 **Blaze (6):** MadDjinn (S2), MLS (S6), MLS (S13), Davelions (S16), MadDjinn (S21), Gameslayer989 (S22)
 
+**Void (6):** Aschilon (S9), MadDjinn (S9), GrimVek (S9), GrimVek (S13), KirbyMD (S22), DanQ_CC (S23)
+
 **Fall (5):** ixias0 (S4), ekat2468 (S6), MLS (S9), DanQ_CC (S10), CanusAlbinus (S13)
 
 **Enderman (4):** AlphaShard (S6), AlphaShard (S13), TheMeInTeam (S14), elKingMorgan (S16)
 
 **Spider (3):** MadDjinn (S15), 78ford (S18), MadDjinn (S23)
-
-**Suffocation (3):** Aschilon (S9), GrimVek (S13), KirbyMD (S22)
-
-**Void (3):** MadDjinn (S9), GrimVek (S9), DanQ_CC (S23)
 
 **Cave Spider (2):** Balone (S21), Makahlua (S21)
 

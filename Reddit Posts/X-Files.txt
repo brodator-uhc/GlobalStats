@@ -19,6 +19,8 @@
 
 **S8: acadiangel (3), SiahStone (3)**, *Drake132667596 (1)*
 
+**S9: acadiangel (4), TehBaconBrawlerZ (2)**
+
 ---
 ### Runner Ups
 
@@ -37,6 +39,8 @@
 **S7:** _Fost_ (1), Dawncy (0), Greeples (1), SoupestGlobe (0)
 
 **S8:** ChainingVermin2 (1), Espik (0), MaxEvasion (0)
+
+**S9:** _ChrisMS (0), 4EyedSlime (1)
 
 ---
 ### Most Kills
@@ -57,6 +61,8 @@
 
 **S8:** acadiangel, SiahStone (3)
 
+**S9:** acadiangel (4)
+
 ---
 ### Most Kills (Team)
 
@@ -75,6 +81,8 @@
 **S7:** DJoee (5), Fra49 (0), SpaceFenix (2), WackoFlipper (2), pigghetti (2)
 
 **S8:** acadiangel (3), Drake132667596 (1), SiahStone (3)
+
+**S9:** acadiangel (4), TehBaconBrawlerZ (2)
 
 ---
 ### First Damage
@@ -95,6 +103,8 @@
 
 **S8:** Kaismartypants (0:0:25)
 
+**S9:** Kaismartypants (0:0:29)
+
 ---
 ### Ironman
 
@@ -113,6 +123,8 @@
 **S7:** Paxtona (1:9:50)
 
 **S8:** JaeHasNoMaidens (1:0:58)
+
+**S9:** 4EyedSlime (1:22:4)
 
 ---
 ### First Blood
@@ -133,6 +145,8 @@
 
 **S8:** fruitlogic (Gorgerous)
 
+**S9:** fruitlogic (SmolHatChild)
+
 ---
 ### First Death
 
@@ -152,6 +166,8 @@
 
 **S8:** Gorgerous (fruitlogic)
 
+**S9:** SmolHatChild (fruitlogic)
+
 ---
 ### Kills
 
@@ -161,89 +177,93 @@
 
 **3rd - WackoFlipper (9):** Drake132667596 (S1), HyperOutHere (S1), Pelycosaur (S2), Greeples (S3), SiahStone (S3), nFang (S4), hazel_doe (S5), Dawncy (S7), Microus (S7)
 
+**4th - 4EyedSlime (8):** Centrios (S1), FearlessRedHawk (S1), DjTalica (S1), Brodator (S1), ERHDude (S2), lexicuhl (S3), Espik (S8), 78ford (S9)
+
 **4th - ScottPirie (8):** Dj8ninja (S1), Arich (S2), Sluggyg (S3), Pelycosaur (S3), Codwhy (S3), Drake132667596 (S6), Allioideae (S6), SpaceFenix (S6)
 
 **4th - ShyGus (8):** Fourbitplayer (S4), 78ford (S5), Eroe (S5), pigghetti (S7), SiahStone (S7), MaxEvasion (S7), Espik (S7), CipherKai (S7)
 
-**6th - 4EyedSlime (7):** Centrios (S1), FearlessRedHawk (S1), DjTalica (S1), Brodator (S1), ERHDude (S2), lexicuhl (S3), Espik (S8)
+**7th - acadiangel (7):** Allioideae (S8), _Fost_ (S8), ChainingVermin2 (S8), SpaceFenix (S9), Espik (S9), Ryfri (S9), ChainingVermin2 (S9)
 
-**6th - ConBeanJones (7):** Mop19 (S1), BreakSalad (S1), SiahStone (S1), Sluggyg (S1), SiahStone (S4), FrostBros (S4), Fra49 (S4)
+**7th - ConBeanJones (7):** Mop19 (S1), BreakSalad (S1), SiahStone (S1), Sluggyg (S1), SiahStone (S4), FrostBros (S4), Fra49 (S4)
 
-**6th - xRosss (7):** SiahStone (S2), QuilJ1 (S2), SmolHatChild (S2), Codwhy (S2), Greeples (S2), Haama_ (S2), 4EyedSlime (S4)
+**7th - xRosss (7):** SiahStone (S2), QuilJ1 (S2), SmolHatChild (S2), Codwhy (S2), Greeples (S2), Haama_ (S2), 4EyedSlime (S4)
 
-**9th - SpaceFenix (6):** 4EyedSlime (S1), pigghetti (S6), Kaismartypants (S7), Greeples (S7), MaxEvasion (S8), Drake132667596 (S8)
+**10th - SpaceFenix (6):** 4EyedSlime (S1), pigghetti (S6), Kaismartypants (S7), Greeples (S7), MaxEvasion (S8), Drake132667596 (S8)
 
-**10th - DJoee (5):** Allioideae (S7), Andronify (S7), _Fost_ (S7), Drake132667596 (S7), FrostBros (S7)
+**11th - DJoee (5):** Allioideae (S7), Andronify (S7), _Fost_ (S7), Drake132667596 (S7), FrostBros (S7)
 
-**10th - Kelawesome (5):** kalleina (S5), SiahStone (S5), CipherKai (S5), SoupestGlobe (S6), Andronify (S6)
+**11th - Kelawesome (5):** kalleina (S5), SiahStone (S5), CipherKai (S5), SoupestGlobe (S6), Andronify (S6)
 
-**10th - SiahStone (5):** CipherKai (S3), Fra49 (S5), SoupestGlobe (S8), SpaceFenix (S8), JaeHasNoMaidens (S8)
+**11th - SiahStone (5):** CipherKai (S3), Fra49 (S5), SoupestGlobe (S8), SpaceFenix (S8), JaeHasNoMaidens (S8)
 
-**13th - Brodator (4):** 6BU (S1), SmolHatChild (S1), automavic (S1), MrCanada (S2)
+**14th - Brodator (4):** 6BU (S1), SmolHatChild (S1), automavic (S1), MrCanada (S2)
 
-**13th - Codwhy (4):** ScottPirie (S2), Psykl0ne (S2), FrostBros (S2), FearlessRedHawk (S3)
+**14th - Codwhy (4):** ScottPirie (S2), Psykl0ne (S2), FrostBros (S2), FearlessRedHawk (S3)
 
-**13th - ERHDude (4):** Haama_ (S3), Mathyy (S3), Microus (S3), Rohcket (S5)
+**14th - ERHDude (4):** Haama_ (S3), Mathyy (S3), Microus (S3), Rohcket (S5)
 
-**13th - FrostBros (4):** Sluggyg (S2), Daffz (S2), WackoFlipper (S2), 78ford (S4)
+**14th - FrostBros (4):** Sluggyg (S2), Daffz (S2), WackoFlipper (S2), 78ford (S4)
 
-**13th - pigghetti (4):** ShyGus (S5), 4EyedSlime (S6), Eroe (S7), Klickacat (S7)
+**14th - Kaismartypants (4):** SiahStone (S6), Paxtona (S7), SmolHatChild (S8), brinkwhy (S9)
 
-**13th - SmolHatChild (4):** 4EyedSlime (S2), Brodator (S4), Pelycosaur (S4), Kaismartypants (S8)
+**14th - MaxEvasion (4):** _ChrisMS (S7), Eluniel (S7), Dawncy (S9), Allioideae (S9)
 
-**19th - acadiangel (3):** Allioideae (S8), _Fost_ (S8), ChainingVermin2 (S8)
+**14th - pigghetti (4):** ShyGus (S5), 4EyedSlime (S6), Eroe (S7), Klickacat (S7)
 
-**19th - cherryblawsom (3):** centraleric (S3), WackoFlipper (S3), SpaceFenix (S5)
+**14th - SmolHatChild (4):** 4EyedSlime (S2), Brodator (S4), Pelycosaur (S4), Kaismartypants (S8)
 
-**19th - Fra49 (3):** WackoFlipper (S1), ShyGus (S4), _Fost_ (S4)
+**22nd - ChainingVermin2 (3):** fruitlogic (S8), Drake132667596 (S9), _ChrisMS (S9)
 
-**19th - Greeples (3):** Microus (S2), Andronify (S3), WackoFlipper (S7)
+**22nd - cherryblawsom (3):** centraleric (S3), WackoFlipper (S3), SpaceFenix (S5)
 
-**19th - Haama_ (3):** HyperOutHere (S2), nFang (S2), lexicuhl (S2)
+**22nd - Fra49 (3):** WackoFlipper (S1), ShyGus (S4), _Fost_ (S4)
 
-**19th - Kaismartypants (3):** SiahStone (S6), Paxtona (S7), SmolHatChild (S8)
+**22nd - Greeples (3):** Microus (S2), Andronify (S3), WackoFlipper (S7)
 
-**19th - Pelycosaur (3):** Drake132667596 (S2), Brodator (S2), Mathyy (S4)
+**22nd - Haama_ (3):** HyperOutHere (S2), nFang (S2), lexicuhl (S2)
 
-**26th - Arich (2):** Jordtim (S6), Kelawesome (S6)
+**22nd - Pelycosaur (3):** Drake132667596 (S2), Brodator (S2), Mathyy (S4)
 
-**26th - Mathyy (2):** 4EyedSlime (S3), lexicuhl (S4)
+**22nd - Ryfri (3):** fruitlogic (S9), MaxEvasion (S9), WackoFlipper (S9)
 
-**26th - MaxEvasion (2):** _ChrisMS (S7), Eluniel (S7)
+**29th - Arich (2):** Jordtim (S6), Kelawesome (S6)
 
-**26th - Microus (2):** Fra49 (S3), BreakSalad (S3)
+**29th - fruitlogic (2):** Gorgerous (S8), SmolHatChild (S9)
 
-**26th - miles1baseball (2):** Kaismartypants (S6), Arich (S6)
+**29th - Mathyy (2):** 4EyedSlime (S3), lexicuhl (S4)
 
-**31st - _ChrisMS (1):** Brodator (S3)
+**29th - Microus (2):** Fra49 (S3), BreakSalad (S3)
 
-**31st - Allioideae (1):** Gorgerous (S6)
+**29th - miles1baseball (2):** Kaismartypants (S6), Arich (S6)
 
-**31st - automavic (1):** Fra49 (S1)
+**29th - TehBaconBrawlerZ (2):** Kaismartypants (S9), 4EyedSlime (S9)
 
-**31st - BreakSalad (1):** WaXmAn24 (S3)
+**35th - _ChrisMS (1):** Brodator (S3)
 
-**31st - ChainingVermin2 (1):** fruitlogic (S8)
+**35th - Allioideae (1):** Gorgerous (S6)
 
-**31st - Cyonal (1):** ConBeanJones (S1)
+**35th - automavic (1):** Fra49 (S1)
 
-**31st - Daffz (1):** _ChrisMS (S2)
+**35th - BreakSalad (1):** WaXmAn24 (S3)
 
-**31st - Dawncy (1):** cherryblawsom (S5)
+**35th - Cyonal (1):** ConBeanJones (S1)
 
-**31st - Dj8ninja (1):** chloesad (S1)
+**35th - Daffz (1):** _ChrisMS (S2)
 
-**31st - Drake132667596 (1):** jakeyx3 (S8)
+**35th - Dawncy (1):** cherryblawsom (S5)
 
-**31st - dRawry (1):** SpaceFenix (S1)
+**35th - Dj8ninja (1):** chloesad (S1)
 
-**31st - FearlessRedHawk (1):** Kaismartypants (S4)
+**35th - Drake132667596 (1):** jakeyx3 (S8)
 
-**31st - fruitlogic (1):** Gorgerous (S8)
+**35th - dRawry (1):** SpaceFenix (S1)
 
-**31st - lexicuhl (1):** Microus (S4)
+**35th - FearlessRedHawk (1):** Kaismartypants (S4)
 
-**31st - Paxtona (1):** 4EyedSlime (S5)
+**35th - lexicuhl (1):** Microus (S4)
+
+**35th - Paxtona (1):** 4EyedSlime (S5)
 
 ---
 ### PvE Deaths
@@ -259,21 +279,23 @@
 ---
 ### Participation
 
-**8 Seasons (1):** SiahStone (S1-S8)
+**9 Seasons (0):** 
 
-**7 Seasons (1):** 4EyedSlime (S1-S6,S8)
+**8 Seasons (2):** 4EyedSlime (S1-S6,S8-S9), SiahStone (S1-S8)
 
-**6 Seasons (2):** SpaceFenix (S1-S2,S5-S8), WackoFlipper (S1-S5,S7)
+**7 Seasons (2):** SpaceFenix (S1-S2,S5-S9), WackoFlipper (S1-S5,S7,S9)
 
-**5 Seasons (6):** Brodator (S1-S5), CipherKai (S1,S3-S5,S7), Drake132667596 (S1-S2,S6-S8), Fra49 (S1,S3-S5,S7), Microus (S2-S5,S7), Kaismartypants (S4-S8)
+**6 Seasons (2):** Drake132667596 (S1-S2,S6-S9), Kaismartypants (S4-S9)
 
-**4 Seasons (6):** ScottPirie (S1-S3,S6), SmolHatChild (S1-S2,S4,S8), Greeples (S2-S3,S5,S7), nFang (S2-S5), cherryblawsom (S3-S5,S8), _Fost_ (S4-S5,S7-S8)
+**5 Seasons (5):** Brodator (S1-S5), CipherKai (S1,S3-S5,S7), Fra49 (S1,S3-S5,S7), SmolHatChild (S1-S2,S4,S8-S9), Microus (S2-S5,S7)
 
-**3 Seasons (16):** FearlessRedHawk (S1,S3-S4), Sluggyg (S1-S3), _ChrisMS (S2-S3,S7), Codwhy (S2-S4), ERHDude (S2-S3,S5), FrostBros (S2,S4,S7), lexicuhl (S2-S4), Pelycosaur (S2-S4), Andronify (S3,S6-S7), Dawncy (S4-S5,S7), Eroe (S4-S5,S7), ShyGus (S4-S5,S7), pigghetti (S5-S7), Allioideae (S6-S8), Espik (S6-S8), SoupestGlobe (S6-S8)
+**4 Seasons (9):** ScottPirie (S1-S3,S6), _ChrisMS (S2-S3,S7,S9), Greeples (S2-S3,S5,S7), nFang (S2-S5), cherryblawsom (S3-S5,S8), _Fost_ (S4-S5,S7-S8), Dawncy (S4-S5,S7,S9), Allioideae (S6-S9), Espik (S6-S9)
 
-**2 Seasons (15):** BreakSalad (S1,S3), Centrios (S1,S4), ConBeanJones (S1,S4), HyperOutHere (S1-S2), Arich (S2,S6), Haama_ (S2-S3), xRosss (S2,S4), centraleric (S3-S4), Mathyy (S3-S4), 78ford (S4-S5), miles1baseball (S4,S6), Kelawesome (S5-S6), Paxtona (S5,S7), Gorgerous (S6,S8), MaxEvasion (S7-S8)
+**3 Seasons (14):** FearlessRedHawk (S1,S3-S4), Sluggyg (S1-S3), Codwhy (S2-S4), ERHDude (S2-S3,S5), FrostBros (S2,S4,S7), lexicuhl (S2-S4), Pelycosaur (S2-S4), Andronify (S3,S6-S7), 78ford (S4-S5,S9), Eroe (S4-S5,S7), ShyGus (S4-S5,S7), pigghetti (S5-S7), SoupestGlobe (S6-S8), MaxEvasion (S7-S9)
 
-**1 Season (26):** 6BU (S1), automavic (S1), chloesad (S1), Cyonal (S1), Dj8ninja (S1), DjTalica (S1), dRawry (S1), Mop19 (S1), Daffz (S2), MrCanada (S2), Psykl0ne (S2), QuilJ1 (S2), WaXmAn24 (S3), Fourbitplayer (S4), hazel_doe (S5), kalleina (S5), Rohcket (S5), Jordtim (S6), DJoee (S7), Eluniel (S7), Klickacat (S7), acadiangel (S8), ChainingVermin2 (S8), fruitlogic (S8), JaeHasNoMaidens (S8), jakeyx3 (S8)
+**2 Seasons (16):** BreakSalad (S1,S3), Centrios (S1,S4), ConBeanJones (S1,S4), HyperOutHere (S1-S2), Arich (S2,S6), Haama_ (S2-S3), xRosss (S2,S4), centraleric (S3-S4), Mathyy (S3-S4), miles1baseball (S4,S6), Kelawesome (S5-S6), Paxtona (S5,S7), Gorgerous (S6,S8), acadiangel (S8-S9), ChainingVermin2 (S8-S9), fruitlogic (S8-S9)
+
+**1 Season (26):** 6BU (S1), automavic (S1), chloesad (S1), Cyonal (S1), Dj8ninja (S1), DjTalica (S1), dRawry (S1), Mop19 (S1), Daffz (S2), MrCanada (S2), Psykl0ne (S2), QuilJ1 (S2), WaXmAn24 (S3), Fourbitplayer (S4), hazel_doe (S5), kalleina (S5), Rohcket (S5), Jordtim (S6), DJoee (S7), Eluniel (S7), Klickacat (S7), JaeHasNoMaidens (S8), jakeyx3 (S8), brinkwhy (S9), Ryfri (S9), TehBaconBrawlerZ (S9)
 
 ---
 ### Debutants
@@ -293,5 +315,7 @@
 **S7 (4):** DJoee, Eluniel, Klickacat, MaxEvasion
 
 **S8 (5):** acadiangel, ChainingVermin2, fruitlogic, JaeHasNoMaidens, jakeyx3
+
+**S9 (3):** brinkwhy, Ryfri, TehBaconBrawlerZ
 
 ---
