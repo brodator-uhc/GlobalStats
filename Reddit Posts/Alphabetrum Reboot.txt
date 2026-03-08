@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - alexnv (17):** DevoyTTV (S1), Nuclearsugar (S1), CipherKai (S1), dahii (S1), Fcrm (S1), Fearx_ (S3), rae0vr (S3), GodlySteal (S3), _Dieter (S3), 5idekick (S3), DevoyTTV (S4), CAMKART100 (S4), Westcraft00 (S4), peutetrepetra (S4), CommanderK22_ (S4), skyzfy (S4), kabobaa (S4)
+**1st - alexnv (17):** DevoyTTV (S1), Nuclearsugar (S1), CipherKai (S1), dahii (S1), Fcrm (S1), Fearx_ (S3), rae0vr (S3), GodlySteal (S3), _Dieter (S3), _shi (S3), DevoyTTV (S4), CAMKART100 (S4), Westcraft00 (S4), peutetrepetra (S4), CommanderK22_ (S4), skyzfy (S4), kabobaa (S4)
 
 **2nd - skyzfy (15):** strategy (S2), DripGodDavid (S2), DJoee (S2), ChainingVermin2 (S2), DevoyTTV (S2), FroztiSnowman (S2), MangoPlayz (S2), PresidentFleb (S3), ArcticSeagull (S3), Karliffu (S3), strategy (S3), kawaiibunri (S3), alexnv (S3), Dj8ninja (S4), wizarde (S4)
 
@@ -109,9 +109,9 @@
 
 **9th - Broseph (4):** SAYNAR (S3), skyzfy (S3), acadiangel (S3), strategy (S4)
 
-**9th - Fcrm (4):** 5idekick (S1), poWpaH (S1), Bulbexe (S1), LightingMC (S2)
+**9th - Fcrm (4):** _shi (S1), poWpaH (S1), Bulbexe (S1), LightingMC (S2)
 
-**9th - kabobaa (4):** Kaismartypants (S3), FroztiSnowman (S4), vynil (S4), 5idekick (S4)
+**9th - kabobaa (4):** Kaismartypants (S3), FroztiSnowman (S4), vynil (S4), _shi (S4)
 
 **12th - _1mmortal_ (3):** ArcticSeagull (S2), Bobbytheturtle (S2), Fcrm (S4)
 
@@ -121,7 +121,7 @@
 
 **12th - SPEEDYDIGS (3):** kawaiibunri (S2), grantfaker (S2), Fcrm (S2)
 
-**16th - 5idekick (2):** broccoliar (S1), broccoliar (S3)
+**16th - _shi (2):** broccoliar (S1), broccoliar (S3)
 
 **16th - acadiangel (2):** LightingMC (S3), CommanderK22_ (S3)
 
@@ -197,7 +197,7 @@
 
 **4 Seasons (5):** broccoliar (S1-S4), CommanderK22_ (S1-S4), DevoyTTV (S1-S4), kawaiibunri (S1-S4), strategy (S1-S4)
 
-**3 Seasons (20):** _carn (S1,S3-S4), 5idekick (S1,S3-S4), acadiangel (S1,S3-S4), alexnv (S1,S3-S4), ArcticSeagull (S1-S3), benidk (S1-S3), Bobbytheturtle (S1-S2,S4), BoltsInCharge (S1-S2,S4), brinkwhy (S1-S2,S4), ChainingVermin2 (S1-S3), DJoee (S1-S2,S4), DripGodDavid (S1-S2,S4), Fcrm (S1-S2,S4), grantfaker (S1-S3), Karliffu (S1,S3-S4), ProGirlGamer (S1-S2,S4), Broseph (S2-S4), FroztiSnowman (S2-S4), skyzfy (S2-S4), Stravilight (S2-S4)
+**3 Seasons (20):** _carn (S1,S3-S4), _shi (S1,S3-S4), acadiangel (S1,S3-S4), alexnv (S1,S3-S4), ArcticSeagull (S1-S3), benidk (S1-S3), Bobbytheturtle (S1-S2,S4), BoltsInCharge (S1-S2,S4), brinkwhy (S1-S2,S4), ChainingVermin2 (S1-S3), DJoee (S1-S2,S4), DripGodDavid (S1-S2,S4), Fcrm (S1-S2,S4), grantfaker (S1-S3), Karliffu (S1,S3-S4), ProGirlGamer (S1-S2,S4), Broseph (S2-S4), FroztiSnowman (S2-S4), skyzfy (S2-S4), Stravilight (S2-S4)
 
 **2 Seasons (25):** AuroreIkuyo (S1,S4), Flcnt (S1-S2), FrostBros (S1-S2), GoldenNs (S1-S2), Gorgerous (S1,S4), SpaceFenix (S1-S2), SPEEDYDIGS (S1-S2), Westcraft00 (S1,S4), _1mmortal_ (S2,S4), _Dieter (S2-S3), LightingMC (S2-S3), noktime (S2,S4), 4EyedSlime (S3-S4), boyyoo (S3-S4), CAMKART100 (S3-S4), CurdledDrip (S3-S4), EndestroyerEpic (S3-S4), GodlySteal (S3-S4), kabobaa (S3-S4), Kaismartypants (S3-S4), m4ku (S3-S4), peutetrepetra (S3-S4), PresidentFleb (S3-S4), SAYNAR (S3-S4), wizarde (S3-S4)
 
@@ -206,7 +206,7 @@
 ---
 ### Debutants
 
-**S1 (37):** _carn, 5idekick, acadiangel, alexnv, ArcticSeagull, AuroreIkuyo, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, broccoliar, Bulbexe, ChainingVermin2, CipherKai, CommanderK22_, dahii, DevoyTTV, DJoee, DripGodDavid, Fcrm, Flcnt, FrostBros, gartbak, GoldenNs, Gorgerous, grantfaker, Karliffu, kawaiibunri, natsuvi, Nuclearsugar, poWpaH, ProGirlGamer, SpaceFenix, SPEEDYDIGS, strategy, stupidsylvia, Westcraft00
+**S1 (37):** _carn, _shi, acadiangel, alexnv, ArcticSeagull, AuroreIkuyo, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, broccoliar, Bulbexe, ChainingVermin2, CipherKai, CommanderK22_, dahii, DevoyTTV, DJoee, DripGodDavid, Fcrm, Flcnt, FrostBros, gartbak, GoldenNs, Gorgerous, grantfaker, Karliffu, kawaiibunri, natsuvi, Nuclearsugar, poWpaH, ProGirlGamer, SpaceFenix, SPEEDYDIGS, strategy, stupidsylvia, Westcraft00
 
 **S2 (11):** _1mmortal_, _Dieter, Broseph, FroztiSnowman, LightingMC, MangoPlayz, noktime, pierce981, skyzfy, Stravilight, TehBaconBrawlerZ
 

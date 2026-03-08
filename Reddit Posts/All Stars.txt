@@ -21,6 +21,8 @@
 
 **S9: Austronomical (2), automavic (5), Ixolock (2)**, *LoafOZ (0)*
 
+**S10: DJoee (7)**, *_carn (2), CodeJoshua (3), Fra49 (1)*
+
 ---
 ### Runner Ups
 
@@ -41,6 +43,8 @@
 **S8:** Cyndic (7), ElGavinoSupremo (0), Livin423 (0), omchris (1)
 
 **S9:** BoltsInCharge (4), CrowJRC (1), DogOfKrondor (0), Ninetals38 (0)
+
+**S10:** CommanderK22_ (4), noktime (0), TehBaconBrawlerZ (4), WinnerSkye (1)
 
 ---
 ### Most Kills
@@ -63,6 +67,8 @@
 
 **S9:** Fcrm, Kelawesome (6)
 
+**S10:** DJoee (7)
+
 ---
 ### Most Kills (Team)
 
@@ -83,6 +89,8 @@
 **S8:** Klickacat (0), Lighte (7), Paxtona (2), QuilJ1 (0)
 
 **S9:** Broseph (2), Glarza (5), TheSlimeBrother (1), vynil (3) & Gorgerous (0), Fcrm (6), Rohcket (1), wizarde (4)
+
+**S10:** _carn (2), CodeJoshua (3), DJoee (7), Fra49 (1)
 
 ---
 ### First Damage
@@ -105,6 +113,8 @@
 
 **S9:** Kubaslov (0:18:0)
 
+**S10:** TheRealHagrid (0:1:23)
+
 ---
 ### Ironman
 
@@ -125,6 +135,8 @@
 **S8:** pigghetti (1:49:15)
 
 **S9:** Ninetals38 (2:0:30)
+
+**S10:** aalaan (1:15:19)
 
 ---
 ### First Blood
@@ -147,6 +159,8 @@
 
 **S9:** Jakekub (KOKeowner)
 
+**S10:** _carn (TheSonicJoey)
+
 ---
 ### First Death
 
@@ -168,282 +182,316 @@
 
 **S9:** Ryfri (Fall)
 
+**S10:** TheSonicJoey (_carn)
+
 ---
 ### Kills
+
+**1st - Kelawesome (14):** Cyonal (S8), Andronify (S8), powermc (S9), CodeJoshua (S9), YellowVitt (S9), Chasmic (S9), 5hup (S9), TheSlimeBrother (S9), Micale (S10), Bobbytheturtle (S10), KOKeowner (S10), Sten_Stone (S10), buttergolem1 (S10), Greeples (S10)
 
 **1st - Purpdan (14):** KatyLawson (S5), VeryNice (S5), VeniiiD (S5), lottebunny (S5), BushieHalf (S5), Pie212_123 (S5), KirbyMD (S5), discoczibi (S5), Apex_Twinkie (S5), sirples (S5), Grantonic (S5), tagggz (S8), pigghetti (S8), dw0w (S8)
 
 **1st - xNestorio (14):** Jakekub (S2), Blaikie (S2), Bergasms (S2), WintherMaw (S2), Frostbreath (S2), Havenhand (S2), CMattznes (S2), TicedUp (S2), dans1988 (S2), LongaVita (S2), VeryNice (S2), Kiinako_ (S3), Evader22 (S3), MarcC5M (S3)
 
-**3rd - automavic (13):** Mathyy (S6), Apex_Twinkie (S6), Dida (S6), RabidChipmunk (S7), chloesad (S7), I_is_cheesecake (S7), Chasmic (S7), I_is_cheesecake (S8), lexicuhl (S9), MeadowMoos (S9), lottebunny (S9), Applepie78 (S9), pigghetti (S9)
+**4th - automavic (13):** Mathyy (S6), Apex_Twinkie (S6), Dida (S6), RabidChipmunk (S7), chloesad (S7), I_is_cheesecake (S7), Chasmic (S7), I_is_cheesecake (S8), lexicuhl (S9), MeadowMoos (S9), lottebunny (S9), Applepie78 (S9), pigghetti (S9)
 
-**4th - Austronomical (11):** bobjomac (S6), ToucanTom (S6), KOKeowner (S6), WackoFlipper (S6), OnlyCosmia (S7), Purpdan (S7), 5kylord (S7), Ullti (S8), SimplySam (S8), jamertxn (S9), vynil (S9)
+**4th - Micale (13):** nihontiger (S3), Mop19 (S3), OddBaller (S3), scriblur (S3), TicedUp (S3), xMisha (S3), Flouzemaker (S3), Tragik (S3), chloesad (S5), EighteenQs (S5), ShootingGoats (S10), AirInAirOut (S10), Zebobo10 (S10)
 
-**5th - Cyndic (10):** Digdude (S8), Chasmic (S8), Micale (S8), 4EyedSlime (S8), Harryb2k (S8), TheRealHagrid (S8), Omertosa (S8), Kubaslov (S9), Flouzemaker (S9), LoafOZ (S9)
+**6th - Austronomical (11):** bobjomac (S6), ToucanTom (S6), KOKeowner (S6), WackoFlipper (S6), OnlyCosmia (S7), Purpdan (S7), 5kylord (S7), Ullti (S8), SimplySam (S8), jamertxn (S9), vynil (S9)
 
-**5th - Micale (10):** nihontiger (S3), Mop19 (S3), OddBaller (S3), scriblur (S3), TicedUp (S3), xMisha (S3), Flouzemaker (S3), Tragik (S3), chloesad (S5), EighteenQs (S5)
+**6th - Bobbytheturtle (11):** KTRBoT (S4), TheSonicJoey (S5), BSBrent (S6), Spacepod_ (S7), WackoFlipper (S8), Potsie (S9), Kaismartypants (S9), CrowJRC (S9), Brodator (S10), 4EyedSlime (S10), St0rmplayz (S10)
 
-**7th - HUNTERKUN (9):** GlitchyRainbow (S3), Cryptic (S3), Mjora (S3), Jinko42 (S4), ShutUpBrick (S4), scriblur (S4), QuilJ1 (S4), 1eeg (S4), bjr201111 (S4)
+**8th - Cyndic (10):** Digdude (S8), Chasmic (S8), Micale (S8), 4EyedSlime (S8), Harryb2k (S8), TheRealHagrid (S8), Omertosa (S8), Kubaslov (S9), Flouzemaker (S9), LoafOZ (S9)
 
-**8th - Bobbytheturtle (8):** KTRBoT (S4), TheSonicJoey (S5), BSBrent (S6), Spacepod_ (S7), WackoFlipper (S8), Potsie (S9), Kaismartypants (S9), CrowJRC (S9)
+**9th - HUNTERKUN (9):** GlitchyRainbow (S3), Cryptic (S3), Mjora (S3), Jinko42 (S4), ShutUpBrick (S4), scriblur (S4), QuilJ1 (S4), 1eeg (S4), bjr201111 (S4)
 
-**8th - Fcrm (8):** Kelawesome (S8), Klickacat (S8), ColdBac (S9), FazedMC (S9), TorinFBF (S9), DancersTalon (S9), Guardaxion (S9), wibbol (S9)
+**10th - DJoee (8):** Jinko42 (S9), brinkwhy (S10), Jahrod (S10), Dj8ninja (S10), Blarkslol (S10), Kelawesome (S10), vynil (S10), TehBaconBrawlerZ (S10)
 
-**8th - Kelawesome (8):** Cyonal (S8), Andronify (S8), powermc (S9), CodeJoshua (S9), YellowVitt (S9), Chasmic (S9), 5hup (S9), TheSlimeBrother (S9)
+**10th - Fcrm (8):** Kelawesome (S8), Klickacat (S8), ColdBac (S9), FazedMC (S9), TorinFBF (S9), DancersTalon (S9), Guardaxion (S9), wibbol (S9)
 
-**11th - Lighte (7):** DaPenguin19 (S8), Mathyy (S8), c1n (S8), lottebunny (S8), WaXmAn24 (S8), Fcrm (S8), Brodator (S8)
+**12th - Lighte (7):** DaPenguin19 (S8), Mathyy (S8), c1n (S8), lottebunny (S8), WaXmAn24 (S8), Fcrm (S8), Brodator (S8)
 
-**11th - ShutUpBrick (7):** MeadowMoos (S1), Timonscholte (S1), JakeAladarSmith (S1), Heralen (S1), oworca (S2), BJPlays (S2), PhenomCloud (S4)
+**12th - ShutUpBrick (7):** MeadowMoos (S1), Timonscholte (S1), JakeAladarSmith (S1), Heralen (S1), oworca (S2), BJPlays (S2), PhenomCloud (S4)
 
-**11th - TheBestGinger13 (7):** Arich (S2), TommySuX (S2), yjite (S2), fadingdeath (S2), Maddognils (S2), dnnyys (S2), Fairyjuice (S2)
+**12th - TheBestGinger13 (7):** Arich (S2), TommySuX (S2), yjite (S2), fadingdeath (S2), Maddognils (S2), dnnyys (S2), Fairyjuice (S2)
 
-**11th - TheKevGuy (7):** jamertxn (S6), BBR_ (S6), ShyGus (S7), QuilJ1 (S7), MarcC5M (S7), Bobbytheturtle (S7), Pie212_123 (S8)
+**12th - TheKevGuy (7):** jamertxn (S6), BBR_ (S6), ShyGus (S7), QuilJ1 (S7), MarcC5M (S7), Bobbytheturtle (S7), Pie212_123 (S8)
 
-**11th - TicedUp (7):** VeniiiD (S1), discoczibi (S1), AzaleaComet (S1), iDanzah (S1), MrTeamRaven (S1), KOKeowner (S1), Heralen (S3)
+**12th - TicedUp (7):** VeniiiD (S1), discoczibi (S1), AzaleaComet (S1), iDanzah (S1), MrTeamRaven (S1), KOKeowner (S1), Heralen (S3)
 
-**11th - Tragik (7):** smellyburrito (S3), Hannilala (S3), MrCraftinator (S3), Tootikins (S3), Bobbytheturtle (S4), Edviin_ (S4), BJPlays (S4)
+**12th - Tragik (7):** smellyburrito (S3), Hannilala (S3), MrCraftinator (S3), Tootikins (S3), Bobbytheturtle (S4), Edviin_ (S4), BJPlays (S4)
 
-**17th - Havenhand (6):** Shortgamer (S1), Evader22 (S5), HUNTERKUN (S5), DianaB (S5), Timonscholte (S5), MrCraftinator (S5)
+**18th - Havenhand (6):** Shortgamer (S1), Evader22 (S5), HUNTERKUN (S5), DianaB (S5), Timonscholte (S5), MrCraftinator (S5)
 
-**17th - Zenniker (6):** Fairyjuice (S3), EPICSACKVILLE (S3), Timonscholte (S3), sirples (S3), xNestorio (S3), Chippytoothy (S3)
+**18th - vynil (6):** ERHDude (S9), aalaan (S9), buttergolem1 (S9), broccoliar (S10), zachattack416 (S10), noktime (S10)
 
-**19th - Apex_Twinkie (5):** Daffz (S5), lexicuhl (S5), Zakkeagle (S5), Livin423 (S6), cherryblawsom (S9)
+**18th - Zenniker (6):** Fairyjuice (S3), EPICSACKVILLE (S3), Timonscholte (S3), sirples (S3), xNestorio (S3), Chippytoothy (S3)
 
-**19th - bjr201111 (5):** BJPlays (S5), oworca (S5), Zarky (S5), Sean081799 (S5), Kakintse (S5)
+**21st - Apex_Twinkie (5):** Daffz (S5), lexicuhl (S5), Zakkeagle (S5), Livin423 (S6), cherryblawsom (S9)
 
-**19th - Chasmic (5):** Balone (S4), SirQuackens (S5), ShyGus (S6), TheKevGuy (S6), TheSonicJoey (S7)
+**21st - bjr201111 (5):** BJPlays (S5), oworca (S5), Zarky (S5), Sean081799 (S5), Kakintse (S5)
 
-**19th - Glarza (5):** Ghaosty (S9), Brodator (S9), Normoh (S9), AmbientDan (S9), Kelawesome (S9)
+**21st - Chasmic (5):** Balone (S4), SirQuackens (S5), ShyGus (S6), TheKevGuy (S6), TheSonicJoey (S7)
 
-**19th - jamertxn (5):** Zermbeeh (S5), Jakekub (S5), Emerric (S5), SmooveManeuver (S5), Daffz (S6)
+**21st - Glarza (5):** Ghaosty (S9), Brodator (S9), Normoh (S9), AmbientDan (S9), Kelawesome (S9)
 
-**19th - lottebunny (5):** Gilzor (S5), SimplySam (S5), 5hup (S8), QuilJ1 (S9), Kidfo (S9)
+**21st - jamertxn (5):** Zermbeeh (S5), Jakekub (S5), Emerric (S5), SmooveManeuver (S5), Daffz (S6)
 
-**19th - pigghetti (5):** omchris (S8), Omertosa (S9), Fcrm (S9), Cyndic (S9), Apex_Twinkie (S9)
+**21st - lottebunny (5):** Gilzor (S5), SimplySam (S5), 5hup (S8), QuilJ1 (S9), Kidfo (S9)
 
-**19th - Scott_XD (5):** Kelt78 (S2), Kurtit (S2), DJoee (S9), DogOfKrondor (S9), Ninetals38 (S9)
+**21st - pigghetti (5):** omchris (S8), Omertosa (S9), Fcrm (S9), Cyndic (S9), Apex_Twinkie (S9)
 
-**27th - awesomemacD (4):** SammyR2D2 (S6), scriblur (S6), Bobbytheturtle (S6), TheRealHagrid (S6)
+**21st - Scott_XD (5):** Kelt78 (S2), Kurtit (S2), DJoee (S9), DogOfKrondor (S9), Ninetals38 (S9)
 
-**27th - BoltsInCharge (4):** Rohcket (S9), Bobbytheturtle (S9), Scott_XD (S9), Glarza (S9)
+**29th - awesomemacD (4):** SammyR2D2 (S6), scriblur (S6), Bobbytheturtle (S6), TheRealHagrid (S6)
 
-**27th - brodioh (4):** Flouzemaker (S4), Emerric (S4), Tragik (S4), Walshy (S4)
+**29th - BoltsInCharge (4):** Rohcket (S9), Bobbytheturtle (S9), Scott_XD (S9), Glarza (S9)
 
-**27th - buttergolem1 (4):** TalonBX (S9), Do_You_Minecraft (S9), friigiid (S9), swishduck (S9)
+**29th - brodioh (4):** Flouzemaker (S4), Emerric (S4), Tragik (S4), Walshy (S4)
 
-**27th - Coolust (4):** SimplySam (S4), wibbol (S5), weeuy (S5), hammer_fan (S5)
+**29th - buttergolem1 (4):** TalonBX (S9), Do_You_Minecraft (S9), friigiid (S9), swishduck (S9)
 
-**27th - DarrenBGP (4):** Chasmic (S6), DianaB (S6), ColdBac (S6), automavic (S6)
+**29th - CommanderK22_ (4):** aalaan (S10), SmolHatChild (S10), TheRealHagrid (S10), Gorgerous (S10)
 
-**27th - Kit10s (4):** Kiinako_ (S1), Audicy (S1), Frostbreath (S1), ShutUpBrick (S1)
+**29th - Coolust (4):** SimplySam (S4), wibbol (S5), weeuy (S5), hammer_fan (S5)
 
-**27th - OblivionTU (4):** Pie212_123 (S7), WackoFlipper (S7), Applepie78 (S7), tagggz (S7)
+**29th - DarrenBGP (4):** Chasmic (S6), DianaB (S6), ColdBac (S6), automavic (S6)
 
-**27th - ScottPirie (4):** dashdude (S6), Fortwerth (S6), Kiinako_ (S6), Drake132667596 (S6)
+**29th - Kit10s (4):** Kiinako_ (S1), Audicy (S1), Frostbreath (S1), ShutUpBrick (S1)
 
-**27th - Shortgamer (4):** Schmeon (S1), BurningT (S1), shikenzaned (S1), EighteenQs (S1)
+**29th - KOKeowner (4):** Learning (S2), flameorb (S7), NickPlaysGames15 (S10), FrostBros (S10)
 
-**27th - SmooveManeuver (4):** bjr201111 (S5), Microus (S5), ShyGus (S5), jamertxn (S5)
+**29th - OblivionTU (4):** Pie212_123 (S7), WackoFlipper (S7), Applepie78 (S7), tagggz (S7)
 
-**27th - Timonscholte (4):** beastboyrolf (S1), Gilzor (S2), VeryNice (S3), VeniiiD (S3)
+**29th - ScottPirie (4):** dashdude (S6), Fortwerth (S6), Kiinako_ (S6), Drake132667596 (S6)
 
-**27th - VeniiiD (4):** Fairyjuice (S4), Bergasms (S4), LongaVita (S5), Edviin_ (S5)
+**29th - Shortgamer (4):** Schmeon (S1), BurningT (S1), shikenzaned (S1), EighteenQs (S1)
 
-**27th - wizarde (4):** Sten_Stone (S9), TheSonicJoey (S9), Jakekub (S9), silverteeth (S9)
+**29th - SmooveManeuver (4):** bjr201111 (S5), Microus (S5), ShyGus (S5), jamertxn (S5)
 
-**41st - Cryptic (3):** Maxwellfifty (S4), Hollymatman (S4), Joeylinks (S4)
+**29th - TehBaconBrawlerZ (4):** MercuryParadox (S10), Psykl0ne (S10), benidk (S10), _carn (S10)
 
-**41st - DianaB (3):** KOKeowner (S4), WhitePikmin (S6), AJSteel (S6)
+**29th - Timonscholte (4):** beastboyrolf (S1), Gilzor (S2), VeryNice (S3), VeniiiD (S3)
 
-**41st - discoczibi (3):** Havenhand (S5), Coolust (S5), thaunking (S6)
+**29th - VeniiiD (4):** Fairyjuice (S4), Bergasms (S4), LongaVita (S5), Edviin_ (S5)
 
-**41st - Edviin_ (3):** Coolust (S4), Scott_XD (S4), AvaCos (S4)
+**29th - wizarde (4):** Sten_Stone (S9), TheSonicJoey (S9), Jakekub (S9), silverteeth (S9)
 
-**41st - Emerric (3):** KOKeowner (S5), Bobbytheturtle (S5), Dylanthesnake (S5)
+**46th - CodeJoshua (3):** Dee957 (S10), wibbol (S10), ZebraPantz (S10)
 
-**41st - Jakekub (3):** Chasmic (S5), Jahrod (S8), KOKeowner (S9)
+**46th - Cryptic (3):** Maxwellfifty (S4), Hollymatman (S4), Joeylinks (S4)
 
-**41st - MrTeamRaven (3):** BreakSalad (S1), dans1988 (S1), Bergasms (S1)
+**46th - DianaB (3):** KOKeowner (S4), WhitePikmin (S6), AJSteel (S6)
 
-**41st - TheSonicJoey (3):** miles1baseball (S5), ColdBac (S7), QuilJ1 (S8)
+**46th - discoczibi (3):** Havenhand (S5), Coolust (S5), thaunking (S6)
 
-**41st - vynil (3):** ERHDude (S9), aalaan (S9), buttergolem1 (S9)
+**46th - Edviin_ (3):** Coolust (S4), Scott_XD (S4), AvaCos (S4)
 
-**50th - Arich (2):** Ullti (S9), DianaB (S9)
+**46th - Emerric (3):** KOKeowner (S5), Bobbytheturtle (S5), Dylanthesnake (S5)
 
-**50th - BBR_ (2):** Pie212_123 (S6), BardMain2 (S8)
+**46th - Jakekub (3):** Chasmic (S5), Jahrod (S8), KOKeowner (S9)
 
-**50th - BJPlays (2):** Frostbreath (S4), Egth (S4)
+**46th - MrTeamRaven (3):** BreakSalad (S1), dans1988 (S1), Bergasms (S1)
 
-**50th - Brodator (2):** Greeples (S8), Paxtona (S8)
+**46th - TheSonicJoey (3):** miles1baseball (S5), ColdBac (S7), QuilJ1 (S8)
 
-**50th - Broseph (2):** ElGavinoSupremo (S9), Arich (S9)
+**46th - ZebraPantz (3):** Chasmic (S10), CodeJoshua (S10), Fra49 (S10)
 
-**50th - bytexal (2):** TheSonicJoey (S4), HUNTERKUN (S4)
+**56th - _carn (2):** TheSonicJoey (S10), DancersTalon (S10)
 
-**50th - cappyrappy (2):** Lighte (S8), Jakekub (S8)
+**56th - Arich (2):** Ullti (S9), DianaB (S9)
 
-**50th - centraleric (2):** frogsella (S7), Potsie (S7)
+**56th - BBR_ (2):** Pie212_123 (S6), BardMain2 (S8)
 
-**50th - DarkCrystalFlame (2):** Chasmic (S4), sirples (S4)
+**56th - benidk (2):** ChainingVermin2 (S10), CommanderK22_ (S10)
 
-**50th - dw0w (2):** Sten_Stone (S8), ColdBac (S8)
+**56th - BJPlays (2):** Frostbreath (S4), Egth (S4)
 
-**50th - fadingdeath (2):** AndrizzlePC (S2), Sneegsnag (S2)
+**56th - Brodator (2):** Greeples (S8), Paxtona (S8)
 
-**50th - Fairyjuice (2):** Blissinz (S2), Incipiens (S4)
+**56th - Broseph (2):** ElGavinoSupremo (S9), Arich (S9)
 
-**50th - Frostbreath (2):** CMattznes (S4), Pizzadudes7 (S4)
+**56th - bytexal (2):** TheSonicJoey (S4), HUNTERKUN (S4)
 
-**50th - Grantonic (2):** Blaikie (S5), _Frankie (S5)
+**56th - cappyrappy (2):** Lighte (S8), Jakekub (S8)
 
-**50th - Greeples (2):** OblivionTU (S7), TheKevGuy (S7)
+**56th - centraleric (2):** frogsella (S7), Potsie (S7)
 
-**50th - hammer_fan (2):** Sneegsnag (S5), brodioh (S5)
+**56th - ChainingVermin2 (2):** lottebunny (S10), zCent (S10)
 
-**50th - Ixolock (2):** Broseph (S9), BoltsInCharge (S9)
+**56th - DarkCrystalFlame (2):** Chasmic (S4), sirples (S4)
 
-**50th - Jahrod (2):** Bacan (S8), ERHDude (S8)
+**56th - dw0w (2):** Sten_Stone (S8), ColdBac (S8)
 
-**50th - Jinko42 (2):** Kassiie (S4), vinny212 (S4)
+**56th - fadingdeath (2):** AndrizzlePC (S2), Sneegsnag (S2)
 
-**50th - Kaismartypants (2):** Maxwellfifty (S9), zCent (S9)
+**56th - Fairyjuice (2):** Blissinz (S2), Incipiens (S4)
 
-**50th - Kelt78 (2):** ShutUpBrick (S2), Havenhand (S3)
+**56th - Fensua (2):** BSBrent (S9), PresidentFleb (S10)
 
-**50th - KOKeowner (2):** Learning (S2), flameorb (S7)
+**56th - Frostbreath (2):** CMattznes (S4), Pizzadudes7 (S4)
 
-**50th - OddBaller (2):** Krenzinator (S3), BurningT (S3)
+**56th - Grantonic (2):** Blaikie (S5), _Frankie (S5)
 
-**50th - Paxtona (2):** TheSonicJoey (S8), TheKevGuy (S8)
+**56th - Greeples (2):** OblivionTU (S7), TheKevGuy (S7)
 
-**50th - Pie212_123 (2):** Fra49 (S8), automavic (S8)
+**56th - hammer_fan (2):** Sneegsnag (S5), brodioh (S5)
 
-**50th - Pizzadudes7 (2):** VeniiiD (S4), wibbol (S4)
+**56th - Ixolock (2):** Broseph (S9), BoltsInCharge (S9)
 
-**50th - SimplySam (2):** Kakintse (S4), Fukano (S4)
+**56th - Jahrod (2):** Bacan (S8), ERHDude (S8)
 
-**50th - Spacepod_ (2):** miles1baseball (S7), silverteeth (S7)
+**56th - Jinko42 (2):** Kassiie (S4), vinny212 (S4)
 
-**50th - tagggz (2):** Ratchet6859 (S7), KOKeowner (S7)
+**56th - Kaismartypants (2):** Maxwellfifty (S9), zCent (S9)
 
-**50th - TheRealHagrid (2):** chloesad (S6), cherryblawsom (S8)
+**56th - Kelt78 (2):** ShutUpBrick (S2), Havenhand (S3)
 
-**50th - TommySuX (2):** Fairyjuice (S5), rippersteveM5 (S5)
+**56th - OddBaller (2):** Krenzinator (S3), BurningT (S3)
 
-**50th - xMisha (2):** Kelt78 (S3), AndrizzlePC (S3)
+**56th - Paxtona (2):** TheSonicJoey (S8), TheKevGuy (S8)
 
-**50th - yjite (2):** KOKeowner (S2), Scott_XD (S2)
+**56th - Pie212_123 (2):** Fra49 (S8), automavic (S8)
 
-**83rd - 1eeg (1):** Chippytoothy (S4)
+**56th - Pizzadudes7 (2):** VeniiiD (S4), wibbol (S4)
 
-**83rd - 4EyedSlime (1):** Livin423 (S8)
+**56th - SimplySam (2):** Kakintse (S4), Fukano (S4)
 
-**83rd - 5hup (1):** Austronomical (S8)
+**56th - Spacepod_ (2):** miles1baseball (S7), silverteeth (S7)
 
-**83rd - AmbientDan (1):** Fensua (S9)
+**56th - tagggz (2):** Ratchet6859 (S7), KOKeowner (S7)
 
-**83rd - AvaCos (1):** zfiascoz (S4)
+**56th - TheRealHagrid (2):** chloesad (S6), cherryblawsom (S8)
 
-**83rd - AzaleaComet (1):** GlitchyRainbow (S1)
+**56th - TommySuX (2):** Fairyjuice (S5), rippersteveM5 (S5)
 
-**83rd - beastboyrolf (1):** MrPolzerino (S1)
+**56th - xMisha (2):** Kelt78 (S3), AndrizzlePC (S3)
 
-**83rd - c1n (1):** Zachf01 (S8)
+**56th - yjite (2):** KOKeowner (S2), Scott_XD (S2)
 
-**83rd - CHAINGE (1):** egl_ (S9)
+**92nd - 1eeg (1):** Chippytoothy (S4)
 
-**83rd - Chippytoothy (1):** ShutUpBrick (S3)
+**92nd - 4EyedSlime (1):** Livin423 (S8)
 
-**83rd - ColdBac (1):** Bacan (S6)
+**92nd - 5hup (1):** Austronomical (S8)
 
-**83rd - CrowJRC (1):** wizarde (S9)
+**92nd - AmbientDan (1):** Fensua (S9)
 
-**83rd - Dida (1):** Potsie (S6)
+**92nd - AvaCos (1):** zfiascoz (S4)
 
-**83rd - Digdude (1):** ElGavinoSupremo (S8)
+**92nd - AzaleaComet (1):** GlitchyRainbow (S1)
 
-**83rd - DJoee (1):** Jinko42 (S9)
+**92nd - beastboyrolf (1):** MrPolzerino (S1)
 
-**83rd - Drake132667596 (1):** DarrenBGP (S6)
+**92nd - broccoliar (1):** Broseph (S10)
 
-**83rd - Dylanthesnake (1):** Kiinako_ (S5)
+**92nd - c1n (1):** Zachf01 (S8)
 
-**83rd - egl_ (1):** CHAINGE (S9)
+**92nd - CHAINGE (1):** egl_ (S9)
 
-**83rd - ERHDude (1):** Psykl0ne (S8)
+**92nd - Chippytoothy (1):** ShutUpBrick (S3)
 
-**83rd - Evader22 (1):** dragonpasa (S3)
+**92nd - ColdBac (1):** Bacan (S6)
 
-**83rd - FazedMC (1):** MercuryParadox (S9)
+**92nd - CrowJRC (1):** wizarde (S9)
 
-**83rd - Fensua (1):** BSBrent (S9)
+**92nd - DancersTalon (1):** VeniiiD (S10)
 
-**83rd - flameorb (1):** rippersteveM5 (S7)
+**92nd - Dida (1):** Potsie (S6)
 
-**83rd - Flohp (1):** AHSOKATANOSTAN (S8)
+**92nd - Digdude (1):** ElGavinoSupremo (S8)
 
-**83rd - Flouzemaker (1):** Frostbreath (S3)
+**92nd - Drake132667596 (1):** DarrenBGP (S6)
 
-**83rd - Ghaosty (1):** TehBaconBrawlerZ (S9)
+**92nd - Dylanthesnake (1):** Kiinako_ (S5)
 
-**83rd - GlitchyRainbow (1):** Scott_XD (S1)
+**92nd - egl_ (1):** CHAINGE (S9)
 
-**83rd - Hannilala (1):** HUNTERKUN (S3)
+**92nd - ERHDude (1):** Psykl0ne (S8)
 
-**83rd - Heralen (1):** stingswitch (S3)
+**92nd - Evader22 (1):** dragonpasa (S3)
 
-**83rd - Hollymatman (1):** DianaB (S4)
+**92nd - FazedMC (1):** MercuryParadox (S9)
 
-**83rd - I_is_cheesecake (1):** centraleric (S7)
+**92nd - flameorb (1):** rippersteveM5 (S7)
 
-**83rd - iDanzah (1):** Kurtit (S1)
+**92nd - Flohp (1):** AHSOKATANOSTAN (S8)
 
-**83rd - Joeylinks (1):** LegoBeast (S4)
+**92nd - Flouzemaker (1):** Frostbreath (S3)
 
-**83rd - Kiinako_ (1):** Joeylinks (S5)
+**92nd - Fra49 (1):** BoltsInCharge (S10)
 
-**83rd - LegoBeast (1):** Cyndic (S8)
+**92nd - FrostBros (1):** Fensua (S10)
 
-**83rd - lexicuhl (1):** Micale (S5)
+**92nd - Ghaosty (1):** TehBaconBrawlerZ (S9)
 
-**83rd - MarcC5M (1):** Gorgerous (S9)
+**92nd - GlitchyRainbow (1):** Scott_XD (S1)
 
-**83rd - omchris (1):** Fairyjuice (S8)
+**92nd - Gorgerous (1):** YellowVitt (S10)
 
-**83rd - Omertosa (1):** wibbol (S8)
+**92nd - Hannilala (1):** HUNTERKUN (S3)
 
-**83rd - OnlyCosmia (1):** Zevulpes (S7)
+**92nd - Heralen (1):** stingswitch (S3)
 
-**83rd - PhenomCloud (1):** DarkCrystalFlame (S4)
+**92nd - Hollymatman (1):** DianaB (S4)
 
-**83rd - Potsie (1):** TaylorLive (S7)
+**92nd - I_is_cheesecake (1):** centraleric (S7)
 
-**83rd - Psykl0ne (1):** BBR_ (S8)
+**92nd - iDanzah (1):** Kurtit (S1)
 
-**83rd - RabidChipmunk (1):** brodioh (S7)
+**92nd - Joeylinks (1):** LegoBeast (S4)
 
-**83rd - rippersteveM5 (1):** AvaCos (S5)
+**92nd - Kiinako_ (1):** Joeylinks (S5)
 
-**83rd - Rohcket (1):** MarcC5M (S9)
+**92nd - LegoBeast (1):** Cyndic (S8)
 
-**83rd - ShyGus (1):** MistaUnicorn (S6)
+**92nd - lexicuhl (1):** Micale (S5)
 
-**83rd - sirples (1):** TommySuX (S5)
+**92nd - MarcC5M (1):** Gorgerous (S9)
 
-**83rd - stingswitch (1):** KOKeowner (S3)
+**92nd - MercuryParadox (1):** WinnerSkye (S10)
 
-**83rd - TheSlimeBrother (1):** RqDix (S9)
+**92nd - omchris (1):** Fairyjuice (S8)
 
-**83rd - Tootikins (1):** DianaB (S3)
+**92nd - Omertosa (1):** wibbol (S8)
 
-**83rd - WackoFlipper (1):** I_is_cheesecake (S6)
+**92nd - OnlyCosmia (1):** Zevulpes (S7)
 
-**83rd - Walshy (1):** Kieranborn (S4)
+**92nd - PhenomCloud (1):** DarkCrystalFlame (S4)
 
-**83rd - WaXmAn24 (1):** Flohp (S8)
+**92nd - Potsie (1):** TaylorLive (S7)
 
-**83rd - zfiascoz (1):** PokeLP (S4)
+**92nd - Psykl0ne (1):** BBR_ (S8)
+
+**92nd - RabidChipmunk (1):** brodioh (S7)
+
+**92nd - rippersteveM5 (1):** AvaCos (S5)
+
+**92nd - Rohcket (1):** MarcC5M (S9)
+
+**92nd - ShyGus (1):** MistaUnicorn (S6)
+
+**92nd - sirples (1):** TommySuX (S5)
+
+**92nd - stingswitch (1):** KOKeowner (S3)
+
+**92nd - TheSlimeBrother (1):** RqDix (S9)
+
+**92nd - Tootikins (1):** DianaB (S3)
+
+**92nd - WackoFlipper (1):** I_is_cheesecake (S6)
+
+**92nd - Walshy (1):** Kieranborn (S4)
+
+**92nd - WaXmAn24 (1):** Flohp (S8)
+
+**92nd - WinnerSkye (1):** Kaddyn (S10)
+
+**92nd - zachattack416 (1):** automavic (S10)
+
+**92nd - zCent (1):** Aybel (S10)
+
+**92nd - zfiascoz (1):** PokeLP (S4)
 
 ---
 ### PvE Deaths
@@ -454,28 +502,32 @@
 
 **Creeper (2):** dnnyys (S1), dnnyys (S5)
 
+**Dripstone (1):** ERHDude (S10)
+
 **Suffocation (1):** bjr201111 (S9)
 
 ---
 ### Participation
 
-**9 Seasons (0):** 
+**10 Seasons (0):** 
 
-**8 Seasons (1):** KOKeowner (S1-S7,S9)
+**9 Seasons (1):** KOKeowner (S1-S7,S9-S10)
 
-**7 Seasons (0):** 
+**8 Seasons (0):** 
 
-**6 Seasons (2):** Bobbytheturtle (S4-S9), Chasmic (S4-S9)
+**7 Seasons (2):** Bobbytheturtle (S4-S10), Chasmic (S4-S10)
 
-**5 Seasons (4):** Fairyjuice (S2-S5,S8), Jakekub (S2-S3,S5,S8-S9), DianaB (S3-S6,S9), TheSonicJoey (S4-S5,S7-S9)
+**6 Seasons (1):** TheSonicJoey (S4-S5,S7-S10)
 
-**4 Seasons (14):** Frostbreath (S1-S4), Havenhand (S1-S3,S5), Kiinako_ (S1,S3,S5-S6), Scott_XD (S1-S2,S4,S9), ShutUpBrick (S1-S4), Timonscholte (S1-S3,S5), VeniiiD (S1,S3-S5), Micale (S3-S5,S8), QuilJ1 (S4,S7-S9), wibbol (S4-S5,S8-S9), Pie212_123 (S5-S8), Austronomical (S6-S9), automavic (S6-S9), ColdBac (S6-S9)
+**5 Seasons (7):** VeniiiD (S1,S3-S5,S10), Fairyjuice (S2-S5,S8), Jakekub (S2-S3,S5,S8-S9), DianaB (S3-S6,S9), Micale (S3-S5,S8,S10), wibbol (S4-S5,S8-S10), automavic (S6-S10)
 
-**3 Seasons (25):** Bergasms (S1-S2,S4), discoczibi (S1,S5-S6), dnnyys (S1-S2,S5), TicedUp (S1-S3), BJPlays (S2,S4-S5), Coolust (S2,S4-S5), VeryNice (S2-S3,S5), Flouzemaker (S3-S4,S9), HUNTERKUN (S3-S5), MarcC5M (S3,S7,S9), scriblur (S3-S4,S6), sirples (S3-S5), bjr201111 (S4-S5,S9), brodioh (S4-S5,S7), SimplySam (S4-S5,S8), Apex_Twinkie (S5-S6,S9), chloesad (S5-S7), jamertxn (S5-S6,S9), lottebunny (S5,S8-S9), Purpdan (S5,S7-S8), ShyGus (S5-S7), I_is_cheesecake (S6-S8), Potsie (S6-S7,S9), TheKevGuy (S6-S8), WackoFlipper (S6-S8)
+**4 Seasons (11):** Frostbreath (S1-S4), Havenhand (S1-S3,S5), Kiinako_ (S1,S3,S5-S6), Scott_XD (S1-S2,S4,S9), ShutUpBrick (S1-S4), Timonscholte (S1-S3,S5), QuilJ1 (S4,S7-S9), lottebunny (S5,S8-S10), Pie212_123 (S5-S8), Austronomical (S6-S9), ColdBac (S6-S9)
 
-**2 Seasons (59):** BurningT (S1,S3), dans1988 (S1-S2), EighteenQs (S1,S5), GlitchyRainbow (S1,S3), Heralen (S1,S3), Kurtit (S1-S2), MeadowMoos (S1,S9), MrTeamRaven (S1-S2), AndrizzlePC (S2-S3), Arich (S2,S9), Blaikie (S2,S5), CMattznes (S2,S4), Gilzor (S2,S5), Kelt78 (S2-S3), LongaVita (S2,S5), Mjora (S2-S3), oworca (S2,S5), Sneegsnag (S2,S5), TommySuX (S2,S5), xNestorio (S2-S3), Chippytoothy (S3-S4), Cryptic (S3-S4), Evader22 (S3,S5), MrCraftinator (S3,S5), Tragik (S3-S4), AvaCos (S4-S5), Edviin_ (S4-S5), Emerric (S4-S5), Jinko42 (S4,S9), Joeylinks (S4-S5), Kakintse (S4-S5), LegoBeast (S4,S8), Maxwellfifty (S4,S9), Daffz (S5-S6), lexicuhl (S5,S9), miles1baseball (S5,S7), rippersteveM5 (S5,S7), Bacan (S6,S8), BBR_ (S6,S8), BSBrent (S6,S9), Livin423 (S6,S8), Mathyy (S6,S8), TheRealHagrid (S6,S8), Applepie78 (S7,S9), Greeples (S7-S8), silverteeth (S7,S9), tagggz (S7-S8), 5hup (S8-S9), Brodator (S8-S9), cherryblawsom (S8-S9), Cyndic (S8-S9), ElGavinoSupremo (S8-S9), ERHDude (S8-S9), Fcrm (S8-S9), Kelawesome (S8-S9), Omertosa (S8-S9), pigghetti (S8-S9), Sten_Stone (S8-S9), Ullti (S8-S9)
+**3 Seasons (30):** Bergasms (S1-S2,S4), discoczibi (S1,S5-S6), dnnyys (S1-S2,S5), TicedUp (S1-S3), BJPlays (S2,S4-S5), Coolust (S2,S4-S5), VeryNice (S2-S3,S5), Flouzemaker (S3-S4,S9), HUNTERKUN (S3-S5), MarcC5M (S3,S7,S9), scriblur (S3-S4,S6), sirples (S3-S5), bjr201111 (S4-S5,S9), brodioh (S4-S5,S7), SimplySam (S4-S5,S8), Apex_Twinkie (S5-S6,S9), chloesad (S5-S7), jamertxn (S5-S6,S9), Purpdan (S5,S7-S8), ShyGus (S5-S7), I_is_cheesecake (S6-S8), Potsie (S6-S7,S9), TheKevGuy (S6-S8), TheRealHagrid (S6,S8,S10), WackoFlipper (S6-S8), Greeples (S7-S8,S10), Brodator (S8-S10), ERHDude (S8-S10), Kelawesome (S8-S10), Sten_Stone (S8-S10)
 
-**1 Season (151):** Audicy (S1), AzaleaComet (S1), beastboyrolf (S1), BreakSalad (S1), iDanzah (S1), JakeAladarSmith (S1), Kit10s (S1), MrPolzerino (S1), Schmeon (S1), shikenzaned (S1), Shortgamer (S1), Blissinz (S2), fadingdeath (S2), Learning (S2), Maddognils (S2), TheBestGinger13 (S2), WintherMaw (S2), yjite (S2), dragonpasa (S3), EPICSACKVILLE (S3), Hannilala (S3), Krenzinator (S3), Mop19 (S3), nihontiger (S3), OddBaller (S3), smellyburrito (S3), stingswitch (S3), Tootikins (S3), xMisha (S3), Zenniker (S3), 1eeg (S4), Balone (S4), bytexal (S4), DarkCrystalFlame (S4), Egth (S4), Fukano (S4), Hollymatman (S4), Incipiens (S4), Kassiie (S4), Kieranborn (S4), KTRBoT (S4), PhenomCloud (S4), Pizzadudes7 (S4), PokeLP (S4), vinny212 (S4), Walshy (S4), zfiascoz (S4), _Frankie (S5), BushieHalf (S5), Dylanthesnake (S5), Grantonic (S5), hammer_fan (S5), KatyLawson (S5), KirbyMD (S5), Microus (S5), Sean081799 (S5), SirQuackens (S5), SmooveManeuver (S5), weeuy (S5), Zakkeagle (S5), Zarky (S5), Zermbeeh (S5), AJSteel (S6), awesomemacD (S6), bobjomac (S6), DarrenBGP (S6), dashdude (S6), Dida (S6), Drake132667596 (S6), Fortwerth (S6), MistaUnicorn (S6), SammyR2D2 (S6), ScottPirie (S6), thaunking (S6), ToucanTom (S6), WhitePikmin (S6), 5kylord (S7), centraleric (S7), flameorb (S7), frogsella (S7), Ninjajaja (S7), OblivionTU (S7), OnlyCosmia (S7), RabidChipmunk (S7), Ratchet6859 (S7), Spacepod_ (S7), TaylorLive (S7), Zevulpes (S7), 4EyedSlime (S8), AHSOKATANOSTAN (S8), Andronify (S8), BardMain2 (S8), c1n (S8), cappyrappy (S8), Cyonal (S8), DaPenguin19 (S8), Digdude (S8), dw0w (S8), Flohp (S8), Fra49 (S8), Harryb2k (S8), Jahrod (S8), jvevo (S8), Klickacat (S8), Lighte (S8), omchris (S8), Paxtona (S8), Psykl0ne (S8), WaXmAn24 (S8), Zachf01 (S8), aalaan (S9), AmbientDan (S9), BoltsInCharge (S9), Broseph (S9), buttergolem1 (S9), CHAINGE (S9), CodeJoshua (S9), CrowJRC (S9), DancersTalon (S9), DJoee (S9), Do_You_Minecraft (S9), DogOfKrondor (S9), egl_ (S9), FazedMC (S9), Fensua (S9), friigiid (S9), Ghaosty (S9), Glarza (S9), Gorgerous (S9), Guardaxion (S9), Ixolock (S9), Kaismartypants (S9), Kidfo (S9), Kubaslov (S9), LoafOZ (S9), MercuryParadox (S9), Ninetals38 (S9), Normoh (S9), powermc (S9), Rohcket (S9), RqDix (S9), Ryfri (S9), swishduck (S9), TalonBX (S9), TehBaconBrawlerZ (S9), TheSlimeBrother (S9), TorinFBF (S9), vynil (S9), wizarde (S9), YellowVitt (S9), zCent (S9)
+**2 Seasons (71):** BurningT (S1,S3), dans1988 (S1-S2), EighteenQs (S1,S5), GlitchyRainbow (S1,S3), Heralen (S1,S3), Kurtit (S1-S2), MeadowMoos (S1,S9), MrTeamRaven (S1-S2), AndrizzlePC (S2-S3), Arich (S2,S9), Blaikie (S2,S5), CMattznes (S2,S4), Gilzor (S2,S5), Kelt78 (S2-S3), LongaVita (S2,S5), Mjora (S2-S3), oworca (S2,S5), Sneegsnag (S2,S5), TommySuX (S2,S5), xNestorio (S2-S3), Chippytoothy (S3-S4), Cryptic (S3-S4), Evader22 (S3,S5), MrCraftinator (S3,S5), Tragik (S3-S4), AvaCos (S4-S5), Edviin_ (S4-S5), Emerric (S4-S5), Jinko42 (S4,S9), Joeylinks (S4-S5), Kakintse (S4-S5), LegoBeast (S4,S8), Maxwellfifty (S4,S9), Daffz (S5-S6), lexicuhl (S5,S9), miles1baseball (S5,S7), rippersteveM5 (S5,S7), Bacan (S6,S8), BBR_ (S6,S8), BSBrent (S6,S9), Livin423 (S6,S8), Mathyy (S6,S8), Applepie78 (S7,S9), silverteeth (S7,S9), tagggz (S7-S8), 4EyedSlime (S8,S10), 5hup (S8-S9), cherryblawsom (S8-S9), Cyndic (S8-S9), ElGavinoSupremo (S8-S9), Fcrm (S8-S9), Fra49 (S8,S10), Jahrod (S8,S10), Omertosa (S8-S9), pigghetti (S8-S9), Psykl0ne (S8,S10), Ullti (S8-S9), aalaan (S9-S10), BoltsInCharge (S9-S10), Broseph (S9-S10), buttergolem1 (S9-S10), CodeJoshua (S9-S10), DancersTalon (S9-S10), DJoee (S9-S10), Fensua (S9-S10), Gorgerous (S9-S10), MercuryParadox (S9-S10), TehBaconBrawlerZ (S9-S10), vynil (S9-S10), YellowVitt (S9-S10), zCent (S9-S10)
+
+**1 Season (156):** Audicy (S1), AzaleaComet (S1), beastboyrolf (S1), BreakSalad (S1), iDanzah (S1), JakeAladarSmith (S1), Kit10s (S1), MrPolzerino (S1), Schmeon (S1), shikenzaned (S1), Shortgamer (S1), Blissinz (S2), fadingdeath (S2), Learning (S2), Maddognils (S2), TheBestGinger13 (S2), WintherMaw (S2), yjite (S2), dragonpasa (S3), EPICSACKVILLE (S3), Hannilala (S3), Krenzinator (S3), Mop19 (S3), nihontiger (S3), OddBaller (S3), smellyburrito (S3), stingswitch (S3), Tootikins (S3), xMisha (S3), Zenniker (S3), 1eeg (S4), Balone (S4), bytexal (S4), DarkCrystalFlame (S4), Egth (S4), Fukano (S4), Hollymatman (S4), Incipiens (S4), Kassiie (S4), Kieranborn (S4), KTRBoT (S4), PhenomCloud (S4), Pizzadudes7 (S4), PokeLP (S4), vinny212 (S4), Walshy (S4), zfiascoz (S4), _Frankie (S5), BushieHalf (S5), Dylanthesnake (S5), Grantonic (S5), hammer_fan (S5), KatyLawson (S5), KirbyMD (S5), Microus (S5), Sean081799 (S5), SirQuackens (S5), SmooveManeuver (S5), weeuy (S5), Zakkeagle (S5), Zarky (S5), Zermbeeh (S5), AJSteel (S6), awesomemacD (S6), bobjomac (S6), DarrenBGP (S6), dashdude (S6), Dida (S6), Drake132667596 (S6), Fortwerth (S6), MistaUnicorn (S6), SammyR2D2 (S6), ScottPirie (S6), thaunking (S6), ToucanTom (S6), WhitePikmin (S6), 5kylord (S7), centraleric (S7), flameorb (S7), frogsella (S7), Ninjajaja (S7), OblivionTU (S7), OnlyCosmia (S7), RabidChipmunk (S7), Ratchet6859 (S7), Spacepod_ (S7), TaylorLive (S7), Zevulpes (S7), AHSOKATANOSTAN (S8), Andronify (S8), BardMain2 (S8), c1n (S8), cappyrappy (S8), Cyonal (S8), DaPenguin19 (S8), Digdude (S8), dw0w (S8), Flohp (S8), Harryb2k (S8), jvevo (S8), Klickacat (S8), Lighte (S8), omchris (S8), Paxtona (S8), WaXmAn24 (S8), Zachf01 (S8), AmbientDan (S9), CHAINGE (S9), CrowJRC (S9), Do_You_Minecraft (S9), DogOfKrondor (S9), egl_ (S9), FazedMC (S9), friigiid (S9), Ghaosty (S9), Glarza (S9), Guardaxion (S9), Ixolock (S9), Kaismartypants (S9), Kidfo (S9), Kubaslov (S9), LoafOZ (S9), Ninetals38 (S9), Normoh (S9), powermc (S9), Rohcket (S9), RqDix (S9), Ryfri (S9), swishduck (S9), TalonBX (S9), TheSlimeBrother (S9), TorinFBF (S9), wizarde (S9), _carn (S10), AirInAirOut (S10), Aybel (S10), benidk (S10), Blarkslol (S10), brinkwhy (S10), broccoliar (S10), ChainingVermin2 (S10), CommanderK22_ (S10), Dee957 (S10), Dj8ninja (S10), FrostBros (S10), Kaddyn (S10), NickPlaysGames15 (S10), noktime (S10), PresidentFleb (S10), ShootingGoats (S10), SmolHatChild (S10), St0rmplayz (S10), WinnerSkye (S10), zachattack416 (S10), Zebobo10 (S10), ZebraPantz (S10)
 
 ---
 ### Debutants
@@ -497,5 +549,7 @@
 **S8 (34):** 4EyedSlime, 5hup, AHSOKATANOSTAN, Andronify, BardMain2, Brodator, c1n, cappyrappy, cherryblawsom, Cyndic, Cyonal, DaPenguin19, Digdude, dw0w, ElGavinoSupremo, ERHDude, Fcrm, Flohp, Fra49, Harryb2k, Jahrod, jvevo, Kelawesome, Klickacat, Lighte, omchris, Omertosa, Paxtona, pigghetti, Psykl0ne, Sten_Stone, Ullti, WaXmAn24, Zachf01
 
 **S9 (41):** aalaan, AmbientDan, BoltsInCharge, Broseph, buttergolem1, CHAINGE, CodeJoshua, CrowJRC, DancersTalon, DJoee, Do_You_Minecraft, DogOfKrondor, egl_, FazedMC, Fensua, friigiid, Ghaosty, Glarza, Gorgerous, Guardaxion, Ixolock, Kaismartypants, Kidfo, Kubaslov, LoafOZ, MercuryParadox, Ninetals38, Normoh, powermc, Rohcket, RqDix, Ryfri, swishduck, TalonBX, TehBaconBrawlerZ, TheSlimeBrother, TorinFBF, vynil, wizarde, YellowVitt, zCent
+
+**S10 (23):** _carn, AirInAirOut, Aybel, benidk, Blarkslol, brinkwhy, broccoliar, ChainingVermin2, CommanderK22_, Dee957, Dj8ninja, FrostBros, Kaddyn, NickPlaysGames15, noktime, PresidentFleb, ShootingGoats, SmolHatChild, St0rmplayz, WinnerSkye, zachattack416, Zebobo10, ZebraPantz
 
 ---

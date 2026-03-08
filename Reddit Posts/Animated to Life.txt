@@ -263,7 +263,7 @@
 
 **19th - Codwhy (5):** ConBeanJones (S4), JamestheDouglas (S7), JaeHasNoMaidens (S9), centraleric (S10), Broseph (S11)
 
-**19th - Kaismartypants (5):** _mrcool (S3), lexicuhl (S3), 5idekick (S6), Lighte (S8), PresidentFleb (S12)
+**19th - Kaismartypants (5):** _mrcool (S3), lexicuhl (S3), _shi (S6), Lighte (S8), PresidentFleb (S12)
 
 **19th - Professer_TNT (5):** Ryfri (S2), Wilsonkong (S2), JahMuis (S2), Psykl0ne (S3), NajaOxiana (S3)
 
@@ -319,7 +319,7 @@
 
 **41st - zac083 (2):** Ryfri (S11), FrostBros (S11)
 
-**51st - 5idekick (1):** Kaismartypants (S6)
+**51st - _shi (1):** Kaismartypants (S6)
 
 **51st - centraleric (1):** FrostBros (S2)
 
@@ -421,7 +421,7 @@
 
 **2 Seasons (25):** Heracross (S1-S2), JahMuis (S1-S2), Starflash (S1-S2), Mincrooft (S2,S5), Ryfri (S2,S11), Psykl0ne (S3,S5), spoocS_ (S3,S5), Abdalain (S4,S6), Anorable (S4-S5), Flufayy (S4,S6), Thermql (S4,S7), PenguinBagels (S5,S7), JaeHasNoMaidens (S6,S9), Paxtona (S6-S7), vynil (S6,S12), eliexists (S7,S9), wowjennawow (S7,S10), Daltun (S8-S9), ERHDude (S9-S10), cherryblawsom (S10,S12), Charrlottie (S11-S12), ColdBac (S11-S12), DJoee (S11-S12), Flcnt (S11-S12), ohh_lia (S11-S12)
 
-**1 Season (30):** 319phoenix (S1), DyeItTight (S1), GRLH (S1), honestlyhunter (S1), sigilyph (S1), Topspinpiggles (S1), chloesad (S3), MercuryParadox (S3), JoshC2 (S4), WillBrisk (S4), WackoFlipper (S5), 5idekick (S6), Dee957 (S6), Jpgesus (S6), BBR_ (S7), Honiahaka (S7), wibbol (S8), Distantshooter (S9), Rebelghost (S9), Harryb2k (S10), JustNolan (S10), strategy (S10), tagggz (S10), Cyndic (S11), InsertDotJpeg (S11), SoupestGlobe (S11), DeluxeSniper (S12), Livin423 (S12), omchris (S12), Rohcket (S12)
+**1 Season (30):** 319phoenix (S1), DyeItTight (S1), GRLH (S1), honestlyhunter (S1), sigilyph (S1), Topspinpiggles (S1), chloesad (S3), MercuryParadox (S3), JoshC2 (S4), WillBrisk (S4), WackoFlipper (S5), _shi (S6), Dee957 (S6), Jpgesus (S6), BBR_ (S7), Honiahaka (S7), wibbol (S8), Distantshooter (S9), Rebelghost (S9), Harryb2k (S10), JustNolan (S10), strategy (S10), tagggz (S10), Cyndic (S11), InsertDotJpeg (S11), SoupestGlobe (S11), DeluxeSniper (S12), Livin423 (S12), omchris (S12), Rohcket (S12)
 
 ---
 ### Debutants
@@ -436,7 +436,7 @@
 
 **S5 (7):** Drkrai, Hardkour, Pelycosaur, PenguinBagels, Prisma, SummerBqsh, WackoFlipper
 
-**S6 (11):** 5idekick, Dee957, JaeHasNoMaidens, Jpgesus, Normoh, Paxtona, Potsie, SmolHatChild, vynil, warriorcat, ZachMcD
+**S6 (11):** _shi, Dee957, JaeHasNoMaidens, Jpgesus, Normoh, Paxtona, Potsie, SmolHatChild, vynil, warriorcat, ZachMcD
 
 **S7 (6):** Arich, BBR_, eliexists, Greeples, Honiahaka, wowjennawow
 

@@ -179,7 +179,7 @@
 
 **4th - _Cleg (10):** IsaacMT (S1), Mop19 (S1), Skymeagle (S1), Daffz (S1), Reeppm (S1), Chasmic (S1), FazedMC (S1), CaesarOctavius (S1), Omyga (S3), Awticon (S3)
 
-**4th - Bobbytheturtle (10):** Faqunn (S5), m4ku (S5), Kubaslov (S7), centraleric (S9), Zylen (S9), GungL9 (S9), JohnHorrid (S9), _Dieter (S9), 5idekick (S9), RemyChingling (S9)
+**4th - Bobbytheturtle (10):** Faqunn (S5), m4ku (S5), Kubaslov (S7), centraleric (S9), Zylen (S9), GungL9 (S9), JohnHorrid (S9), _Dieter (S9), _shi (S9), RemyChingling (S9)
 
 **4th - poWpaH (10):** Fancyyy (S5), InsertDotJpeg (S5), Fensua (S5), Radical24 (S5), TheAuri (S5), spittoon (S5), Tharve (S8), Applepie78 (S8), Fra49 (S8), WALRUS_TIME (S8)
 
@@ -237,7 +237,7 @@
 
 **33rd - _Dieter (3):** spoood (S6), _1mmortal_ (S9), zCent (S9)
 
-**33rd - 5idekick (3):** DancersTalon (S9), TheKevGuy (S9), Ten10TH (S9)
+**33rd - _shi (3):** DancersTalon (S9), TheKevGuy (S9), Ten10TH (S9)
 
 **33rd - Ferkikudo (3):** Jpgesus (S3), Fancyyy (S3), MajorWoof (S3)
 
@@ -407,7 +407,7 @@
 
 **2 Seasons (35):** 016Nojr (S1,S5), Axer_ (S1,S3), BaneOfSmite (S1,S3), chloesad (S1-S2), Odennn (S1,S5), pierce981 (S1,S3), rippersteveM5 (S1-S2), Haama_ (S2,S4), Jpgesus (S2-S3), TheSonicJoey (S2,S4), xote2000 (S2-S3), lottebunny (S3,S9), Omyga (S3,S5), aalaan (S4,S8), ScottPirie (S4-S5), wibbol (S4-S5), Eluniel (S5,S7), Fensua (S5,S8), Keelando (S5,S7), Radical24 (S5,S9), wizarde (S5,S8), _Dieter (S6,S9), checog (S6,S9), DarV2 (S6-S7), PLENT (S6,S9), ItsColinn (S7-S8), MaxCringe (S7,S9), Rohcket (S7-S8), Ten10TH (S7,S9), Valnius (S7,S9), CHAINGE (S8-S9), DJoee (S8-S9), IMZ_imanzaza (S8-S9), kipr (S8-S9), TheSlimeBrother (S8-S9)
 
-**1 Season (115):** CaesarOctavius (S1), Chipzzy (S1), FazedMC (S1), FrozenBenny (S1), GRLH (S1), Mop19 (S1), rattyplayz (S1), Reeppm (S1), Skymeagle (S1), Edviin_ (S2), Long_Journey (S2), oworca (S2), powermc (S2), Shadoune666 (S2), sirples (S2), AvaCos (S3), awesomemacD (S3), Dancoqui (S3), Emylyl (S3), Ferkikudo (S3), flameorb (S3), HoneyFromHell (S3), Hoookey (S3), IncredibleDino (S3), JamestheDouglas (S3), Krenzinator (S3), MajorWoof (S3), matking91 (S3), Maxwellfifty (S3), Nykke420 (S3), PMC_Sanji (S3), QuilJ1 (S3), vynil (S3), Jordtim (S4), LegoBeast (S4), ThePeridotKnight (S4), Wqbbit (S4), _Glen (S5), BardMain2 (S5), bjr201111 (S5), Brodator (S5), Broseph (S5), CocoBenja (S5), ColdBac (S5), Emerric (S5), Faqunn (S5), FunnyWill_ (S5), ghostblurr (S5), I_is_cheesecake (S5), Just_Gerald (S5), Kieranborn (S5), KOKeowner (S5), Linkelf0rz (S5), MBeaar (S5), Micale (S5), Nek0r_ (S5), neonpoop (S5), nFang (S5), PedroLeGamer (S5), PhatManuMaster (S5), PotaTomas (S5), PresidentFleb (S5), Riloox (S5), SrSebas (S5), TheAuri (S5), Ullti (S5), WackoFlipper (S5), Bradzi (S6), c1n (S6), ethodog (S6), Flcnt (S6), Jakekub (S6), jamertxn (S6), MarcC5M (S6), spoood (S6), TheBP (S6), Zevulpes (S6), Captureee (S7), CipherKai (S7), discoczibi (S7), Greeples (S7), Hecticity (S7), ItsMeAR10 (S7), ItsShqky (S7), JokTwo (S7), Lighte (S7), qFern (S7), ShimamuraUzuki (S7), T1mT0m (S7), TorinFBF (S7), Applepie78 (S8), Clemjo (S8), flameh (S8), Randehh (S8), Stravilight (S8), tagggz (S8), _1mmortal_ (S9), 5idekick (S9), broccoliar (S9), brodioh (S9), centraleric (S9), ChrisCD (S9), DevoyTTV (S9), Exee (S9), Gabey (S9), GungL9 (S9), JohnHorrid (S9), JosephCFC18 (S9), marcusmtm (S9), Mrakoslav (S9), ShyGus (S9), solnyki (S9), TheKevGuy (S9), tonylmao (S9), zCent (S9)
+**1 Season (115):** CaesarOctavius (S1), Chipzzy (S1), FazedMC (S1), FrozenBenny (S1), GRLH (S1), Mop19 (S1), rattyplayz (S1), Reeppm (S1), Skymeagle (S1), Edviin_ (S2), Long_Journey (S2), oworca (S2), powermc (S2), Shadoune666 (S2), sirples (S2), AvaCos (S3), awesomemacD (S3), Dancoqui (S3), Emylyl (S3), Ferkikudo (S3), flameorb (S3), HoneyFromHell (S3), Hoookey (S3), IncredibleDino (S3), JamestheDouglas (S3), Krenzinator (S3), MajorWoof (S3), matking91 (S3), Maxwellfifty (S3), Nykke420 (S3), PMC_Sanji (S3), QuilJ1 (S3), vynil (S3), Jordtim (S4), LegoBeast (S4), ThePeridotKnight (S4), Wqbbit (S4), _Glen (S5), BardMain2 (S5), bjr201111 (S5), Brodator (S5), Broseph (S5), CocoBenja (S5), ColdBac (S5), Emerric (S5), Faqunn (S5), FunnyWill_ (S5), ghostblurr (S5), I_is_cheesecake (S5), Just_Gerald (S5), Kieranborn (S5), KOKeowner (S5), Linkelf0rz (S5), MBeaar (S5), Micale (S5), Nek0r_ (S5), neonpoop (S5), nFang (S5), PedroLeGamer (S5), PhatManuMaster (S5), PotaTomas (S5), PresidentFleb (S5), Riloox (S5), SrSebas (S5), TheAuri (S5), Ullti (S5), WackoFlipper (S5), Bradzi (S6), c1n (S6), ethodog (S6), Flcnt (S6), Jakekub (S6), jamertxn (S6), MarcC5M (S6), spoood (S6), TheBP (S6), Zevulpes (S6), Captureee (S7), CipherKai (S7), discoczibi (S7), Greeples (S7), Hecticity (S7), ItsMeAR10 (S7), ItsShqky (S7), JokTwo (S7), Lighte (S7), qFern (S7), ShimamuraUzuki (S7), T1mT0m (S7), TorinFBF (S7), Applepie78 (S8), Clemjo (S8), flameh (S8), Randehh (S8), Stravilight (S8), tagggz (S8), _1mmortal_ (S9), _shi (S9), broccoliar (S9), brodioh (S9), centraleric (S9), ChrisCD (S9), DevoyTTV (S9), Exee (S9), Gabey (S9), GungL9 (S9), JohnHorrid (S9), JosephCFC18 (S9), marcusmtm (S9), Mrakoslav (S9), ShyGus (S9), solnyki (S9), TheKevGuy (S9), tonylmao (S9), zCent (S9)
 
 ---
 ### Debutants
@@ -428,6 +428,6 @@
 
 **S8 (11):** Applepie78, CHAINGE, Clemjo, DJoee, flameh, IMZ_imanzaza, kipr, Randehh, Stravilight, tagggz, TheSlimeBrother
 
-**S9 (19):** _1mmortal_, 5idekick, broccoliar, brodioh, centraleric, ChrisCD, DevoyTTV, Exee, Gabey, GungL9, JohnHorrid, JosephCFC18, marcusmtm, Mrakoslav, ShyGus, solnyki, TheKevGuy, tonylmao, zCent
+**S9 (19):** _1mmortal_, _shi, broccoliar, brodioh, centraleric, ChrisCD, DevoyTTV, Exee, Gabey, GungL9, JohnHorrid, JosephCFC18, marcusmtm, Mrakoslav, ShyGus, solnyki, TheKevGuy, tonylmao, zCent
 
 ---

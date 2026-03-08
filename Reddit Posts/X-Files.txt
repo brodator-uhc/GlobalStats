@@ -7,7 +7,7 @@
 
 **S2: SpaceFenix (0), xRosss (6)**
 
-**S3: cherryblawsom (2)**
+**S3: _ChrisMS (1), cherryblawsom (2), ERHDude (3)**
 
 **S4: ConBeanJones (3)**, *_Fost_ (3), Dawncy (0), Eroe (0)*
 
@@ -28,7 +28,7 @@
 
 **S2:** Haama_ (3), WackoFlipper (1)
 
-**S3:** ERHDude (3)
+**S3:** WackoFlipper (2)
 
 **S4:** CipherKai (8), Fra49 (2), Microus (0), nFang (0)
 
@@ -70,7 +70,7 @@
 
 **S2:** SpaceFenix (0), xRosss (6)
 
-**S3:** N/A
+**S3:** _ChrisMS (1), cherryblawsom (2), ERHDude (3)
 
 **S4:** CipherKai (8), Fra49 (2), Microus (0), nFang (0)
 

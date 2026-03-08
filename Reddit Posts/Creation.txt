@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - xMisha (12):** FrostBros (S2), _itslennard14 (S2), Plushy33 (S2), zac083 (S3), SiahStone (S3), Dj8ninja (S4), ElGavinoSupremo (S4), WackoFlipper (S4), rippersteveM5 (S4), brinkwhy (S4), 5idekick (S4), Jayzize (S4)
+**1st - xMisha (12):** FrostBros (S2), _itslennard14 (S2), Plushy33 (S2), zac083 (S3), SiahStone (S3), Dj8ninja (S4), ElGavinoSupremo (S4), WackoFlipper (S4), rippersteveM5 (S4), brinkwhy (S4), _shi (S4), Jayzize (S4)
 
 **2nd - brinkwhy (10):** ElGavinoSupremo (S1), Thermql (S2), _mrcool (S2), 4EyedSlime (S2), QuilJ1 (S2), SiahStone (S2), Dj8ninja (S3), xMisha (S3), Bradzi (S4), Jordtim (S4)
 
@@ -119,9 +119,9 @@
 
 **10th - SummerBqsh (2):** Potsie (S3), Prisma (S3)
 
-**15th - 4EyedSlime (1):** xMisha (S2)
+**15th - _shi (1):** SiahStone (S4)
 
-**15th - 5idekick (1):** SiahStone (S4)
+**15th - 4EyedSlime (1):** xMisha (S2)
 
 **15th - Brodator (1):** Abdalain (S2)
 
@@ -161,7 +161,7 @@
 
 **2 Seasons (14):** Abdalain (S1-S2), Davidsid (S1-S2), QuilJ1 (S1-S2), SmolHatChild (S1,S3), 4EyedSlime (S2,S4), Brodator (S2-S3), Espik (S2-S3), Plushy33 (S2-S3), SummerBqsh (S2-S3), TheRealHagrid (S2-S3), JoshC2 (S3-S4), MaxEvasion (S3-S4), wizarde (S3-S4), zac083 (S3-S4)
 
-**1 Season (22):** jommyappleseed (S1), TorinFBF (S1), _itslennard14 (S2), _mrcool (S2), JamestheDouglas (S2), Mincrooft (S2), ScottPirie (S2), Thermql (S2), ArcticSeagull (S3), Potsie (S3), Prisma (S3), ThwipThwip (S3), 5idekick (S4), 78ford (S4), FieryFate (S4), Jayzize (S4), Jordtim (S4), Paxtona (S4), rippersteveM5 (S4), Ryfri (S4), Topspinpiggles (S4), WackoFlipper (S4)
+**1 Season (22):** jommyappleseed (S1), TorinFBF (S1), _itslennard14 (S2), _mrcool (S2), JamestheDouglas (S2), Mincrooft (S2), ScottPirie (S2), Thermql (S2), ArcticSeagull (S3), Potsie (S3), Prisma (S3), ThwipThwip (S3), _shi (S4), 78ford (S4), FieryFate (S4), Jayzize (S4), Jordtim (S4), Paxtona (S4), rippersteveM5 (S4), Ryfri (S4), Topspinpiggles (S4), WackoFlipper (S4)
 
 ---
 ### Debutants
@@ -172,6 +172,6 @@
 
 **S3 (8):** ArcticSeagull, JoshC2, MaxEvasion, Potsie, Prisma, ThwipThwip, wizarde, zac083
 
-**S4 (10):** 5idekick, 78ford, FieryFate, Jayzize, Jordtim, Paxtona, rippersteveM5, Ryfri, Topspinpiggles, WackoFlipper
+**S4 (10):** _shi, 78ford, FieryFate, Jayzize, Jordtim, Paxtona, rippersteveM5, Ryfri, Topspinpiggles, WackoFlipper
 
 ---
