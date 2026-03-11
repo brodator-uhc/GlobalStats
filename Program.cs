@@ -144,9 +144,15 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     //Collecting the Name, the total amount of seasons & the date of S1 for the round
     var worksheet = workbook.Worksheet(sheet);
     String round_name = worksheet.Name;
+    String post_name = "";
     if (round_name.Contains("Sheet"))
     {
         round_name = "???";
+        post_name = "3 Question Marks";
+    }
+    else
+    {
+        post_name = round_name;
     }
     rl_rounds.Add(round_name);
     rl_seasons.Add((worksheet.Columns().Count() - 1) / 3);
@@ -204,6 +210,16 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         }
         String season_number = worksheet.Cell(1, firstDataColumn).GetString();
         DateTime season_date = worksheet.Cell(2, firstDataColumn).GetDateTime();
+
+        //Checks for season date not working chronologically
+        if (season_number != "1")
+        {
+            if (season_date < worksheet.Cell(2, firstDataColumn).CellLeft().CellLeft().CellLeft().GetDateTime())
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("ERROR: " + round_name + " S" + season_number + " has an invalid date!");
+            }
+        }
 
         //Sets name of round to contain both names for crossovers
         if (round_name.Equals("Phobia") && season_number.Equals("20"))
@@ -1640,7 +1656,8 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         if (seasonTeams.Count == 1 && !seasonWinnerDead.First().Equals("Ender Dragon"))
         {
             rp_runnerups.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
-        } else
+        }
+        else
         {
             runnerup_post = runnerup_post.Remove(runnerup_post.Length - 2);
             rp_runnerups.Add("**S" + worksheet.Cell(1, firstDataColumn).GetString() + ":** " + runnerup_post + Environment.NewLine);
@@ -1648,7 +1665,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     }
 
     rl_rostersizes.Add(roundRoster.Count);
-    String rppath = "..\\..\\..\\Reddit Posts\\" + worksheet.Name + ".txt";
+    String rppath = "..\\..\\..\\Reddit Posts\\" + post_name + ".txt";
     String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th",
                             "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th",
                             "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th",
@@ -1683,7 +1700,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     int ties = 1;
     int currentkill = 0;
 
-    File.WriteAllText(rppath, "## " + worksheet.Name + " Statistics" + Environment.NewLine);
+    File.WriteAllText(rppath, "## " + post_name + " Statistics" + Environment.NewLine);
     File.AppendAllText(rppath, Environment.NewLine + "---");
     File.AppendAllText(rppath, Environment.NewLine + "### Winners" + Environment.NewLine + Environment.NewLine);
     foreach (String winner in rp_winners)
