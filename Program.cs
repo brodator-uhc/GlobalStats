@@ -2,9 +2,9 @@
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-string filePath = "..\\..\\..\\Global RR Stats Community Document.xlsx";
-//string filePath = "..\\..\\..\\Non-Reddit Stats Community Document.xlsx";
-//string filePath = "..\\..\\..\\Global Live Round Stats Community Document.xlsx";
+string filePath = "..\\..\\..\\Global Docs\\Global RR Stats Community Document.xlsx";
+//string filePath = "..\\..\\..\\Global Docs\\Non-Reddit Stats Community Document.xlsx";
+//string filePath = "..\\..\\..\\Global Docs\\Global Live Round Stats Community Document.xlsx";
 
 if (!File.Exists(filePath))
 {
@@ -2107,10 +2107,10 @@ kill_records.Cell("E1").InsertData(kr_date.Values);
 kill_records.Sort(1);
 
 //Saves the new docs
-roundlist.SaveAs("..\\..\\..\\Round_List.xlsx");
-statscompiled.SaveAs("..\\..\\..\\Stats_Compiled.xlsx");
-globalstats.SaveAs("..\\..\\..\\Global_Stats.xlsx");
-rrdebut.SaveAs("..\\..\\..\\RR_Debuts.xlsx");
+roundlist.SaveAs("..\\..\\..\\Stats Sheet\\Round_List.xlsx");
+statscompiled.SaveAs("..\\..\\..\\Stats Sheet\\Stats_Compiled.xlsx");
+globalstats.SaveAs("..\\..\\..\\Stats Sheet\\Global_Stats.xlsx");
+rrdebut.SaveAs("..\\..\\..\\Stats Sheet\\RR_Debuts.xlsx");
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("Stats are now compiled!");
 

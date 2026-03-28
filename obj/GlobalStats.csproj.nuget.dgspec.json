@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\GlobalStats.csproj": {}
+    "C:\\Users\\William\\Desktop\\Stats\\GlobalStats\\GlobalStats.csproj": {}
   },
   "projects": {
-    "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\GlobalStats.csproj": {
+    "C:\\Users\\William\\Desktop\\Stats\\GlobalStats\\GlobalStats.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\GlobalStats.csproj",
+        "projectUniqueName": "C:\\Users\\William\\Desktop\\Stats\\GlobalStats\\GlobalStats.csproj",
         "projectName": "GlobalStats",
-        "projectPath": "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\GlobalStats.csproj",
+        "projectPath": "C:\\Users\\William\\Desktop\\Stats\\GlobalStats\\GlobalStats.csproj",
         "packagesPath": "C:\\Users\\William\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\William\\Desktop\\Stats\\Global-Stats\\GlobalStats\\obj\\",
+        "outputPath": "C:\\Users\\William\\Desktop\\Stats\\GlobalStats\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\William\\AppData\\Roaming\\NuGet\\NuGet.Config"
