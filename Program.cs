@@ -2,9 +2,34 @@
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
 
-string filePath = "..\\..\\..\\Global Docs\\Global RR Stats Community Document.xlsx";
-//string filePath = "..\\..\\..\\Global Docs\\Non-Reddit Stats Community Document.xlsx";
-//string filePath = "..\\..\\..\\Global Docs\\Global Live Round Stats Community Document.xlsx";
+int statDoc = 1;
+string filePath;
+string postFolder;
+int skipSheet;
+
+switch (statDoc)
+{
+    case 1:
+        filePath = "..\\..\\..\\Global Docs\\Global RR Stats Community Document.xlsx";
+        postFolder = "Reddit";
+        skipSheet = 8;
+        break;
+    case 2:
+        filePath = "..\\..\\..\\Global Docs\\Non-Reddit Stats Community Document.xlsx";
+        postFolder = "NonReddit";
+        skipSheet = 6;
+        break;
+    case 3:
+        filePath = "..\\..\\..\\Global Docs\\Global Live Round Stats Community Document.xlsx";
+        postFolder = "Live";
+        skipSheet = 6;
+        break;
+    default:
+        filePath = "..\\..\\..\\Global Docs\\Global RR Stats Community Document.xlsx";
+        postFolder = "Reddit";
+        skipSheet = 8;
+        break;
+}
 
 if (!File.Exists(filePath))
 {
@@ -138,7 +163,7 @@ List<String> rp_debutants = new List<String>();
 
 //Goes through every stats tabs on the doc
 using var workbook = new XLWorkbook(filePath);
-for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
+for (int sheet = skipSheet; sheet <= workbook.Worksheets.Count; sheet++)
 {
     List<String> roundRoster = new List<String>();
     //Collecting the Name, the total amount of seasons & the date of S1 for the round
@@ -221,7 +246,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         DateTime season_date = worksheet.Cell(2, firstDataColumn).GetDateTime();
 
         //Checks for season date not working chronologically
-        if (season_number != "1")
+        if (season > 1)
         {
             if (season_date < worksheet.Cell(2, firstDataColumn).CellLeft().CellLeft().CellLeft().GetDateTime())
             {
@@ -1674,7 +1699,7 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
     }
 
     rl_rostersizes.Add(roundRoster.Count);
-    String rppath = "..\\..\\..\\Reddit Posts\\" + post_name + ".txt";
+    String rppath = "..\\..\\..\\Reddit Posts\\" + postFolder + "\\" + post_name + ".txt";
     String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th",
                             "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th",
                             "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th",

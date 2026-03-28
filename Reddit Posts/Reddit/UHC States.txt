@@ -1,0 +1,131 @@
+## UHC States Statistics
+
+---
+### Winners
+
+**S1: Cloversss (7)**
+
+**S2: skyzfy (5)**, *noktime (1)*
+
+---
+### Runner Ups
+
+**S1:** SAYNAR (4)
+
+**S2:** ColdBac (4), Fcrm (2)
+
+---
+### Most Kills
+
+**S1:** Cloversss (7)
+
+**S2:** skyzfy (5)
+
+---
+### Most Kills (Team)
+
+**S1:** N/A
+
+**S2:** ColdBac (4), Fcrm (2) & noktime (1), skyzfy (5)
+
+---
+### First Damage
+
+**S1:** Evzenitable (0:0:20)
+
+**S2:** ImChile (0:1:0)
+
+---
+### Ironman
+
+**S1:** SiahStone (0:48:20)
+
+**S2:** DarrenBGP (0:57:14)
+
+---
+### First Blood
+
+**S1:** ohh_lia (Evzenitable)
+
+**S2:** noktime (fruitlogic)
+
+---
+### First Death
+
+**S1:** Evzenitable (ohh_lia)
+
+**S2:** fruitlogic (noktime)
+
+---
+### Kills
+
+**1st - Cloversss (7):** BoltsInCharge (S1), Kelawesome (S1), nsket (S1), GrassPiece (S1), Shu_MCSG (S1), skyzfy (S1), SAYNAR (S1)
+
+**2nd - skyzfy (6):** brinkwhy (S1), ToucanTom (S2), 4EyedSlime (S2), Markedbooboy (S2), Fcrm (S2), ColdBac (S2)
+
+**3rd - Bobbytheturtle (4):** Kaddyn (S1), SiahStone (S1), ToontownOnline (S2), Bulbexe (S2)
+
+**3rd - ColdBac (4):** ImChile (S2), Zakkeagle (S2), Spongey (S2), kawaiibunri (S2)
+
+**3rd - SAYNAR (4):** QuilJ1 (S1), Bobbytheturtle (S1), DevoyTTV (S1), SOAKLE (S1)
+
+**6th - _shi (3):** BEANJEE (S2), grantfaker (S2), TicedUp (S2)
+
+**6th - ItsColinn (3):** Glarza (S2), Zebobo10 (S2), DevoyTTV (S2)
+
+**6th - Kaismartypants (3):** MercuryParadox (S1), bayweafs (S1), Glarza (S1)
+
+**9th - bayweafs (2):** Stravilight (S1), kirbey (S1)
+
+**9th - benidk (2):** 4EyedSlime (S1), natsuvi (S1)
+
+**9th - Bulbexe (2):** DJoee (S2), Bobbytheturtle (S2)
+
+**9th - ChainingVermin2 (2):** TalonBX (S1), HalfLechuga (S1)
+
+**9th - Fcrm (2):** FrostBros (S2), _shi (S2)
+
+**9th - Glarza (2):** ChainingVermin2 (S1), mekolame (S2)
+
+**9th - GrassPiece (2):** kawaiibunri (S1), benidk (S1)
+
+**9th - kawaiibunri (2):** DarrenBGP (S2), SPEEDYDIGS (S2)
+
+**9th - Spongey (2):** Broseph (S2), ItsColinn (S2)
+
+**18th - 4EyedSlime (1):** Cloversss (S2)
+
+**18th - DevoyTTV (1):** Kaismartypants (S1)
+
+**18th - Kaddyn (1):** ItsColinn (S1)
+
+**18th - noktime (1):** fruitlogic (S2)
+
+**18th - ohh_lia (1):** Evzenitable (S1)
+
+**18th - SiahStone (1):** Greeples (S1)
+
+**18th - SOAKLE (1):** ohh_lia (S1)
+
+**18th - ToucanTom (1):** noktime (S2)
+
+---
+### PvE Deaths
+
+**Skeleton (1):** omchris (S1)
+
+---
+### Participation
+
+**2 Seasons (8):** 4EyedSlime (S1-S2), Bobbytheturtle (S1-S2), Cloversss (S1-S2), DevoyTTV (S1-S2), Glarza (S1-S2), ItsColinn (S1-S2), kawaiibunri (S1-S2), skyzfy (S1-S2)
+
+**1 Season (47):** bayweafs (S1), benidk (S1), BoltsInCharge (S1), brinkwhy (S1), ChainingVermin2 (S1), Evzenitable (S1), GrassPiece (S1), Greeples (S1), HalfLechuga (S1), Kaddyn (S1), Kaismartypants (S1), Kelawesome (S1), kirbey (S1), MercuryParadox (S1), natsuvi (S1), nsket (S1), ohh_lia (S1), omchris (S1), QuilJ1 (S1), SAYNAR (S1), Shu_MCSG (S1), SiahStone (S1), SOAKLE (S1), Stravilight (S1), TalonBX (S1), _shi (S2), BEANJEE (S2), Broseph (S2), Bulbexe (S2), ColdBac (S2), DarrenBGP (S2), DJoee (S2), Fcrm (S2), FrostBros (S2), fruitlogic (S2), grantfaker (S2), ImChile (S2), Markedbooboy (S2), mekolame (S2), noktime (S2), SPEEDYDIGS (S2), Spongey (S2), TicedUp (S2), ToontownOnline (S2), ToucanTom (S2), Zakkeagle (S2), Zebobo10 (S2)
+
+---
+### Debutants
+
+**S1 (33):** 4EyedSlime, bayweafs, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, ChainingVermin2, Cloversss, DevoyTTV, Evzenitable, Glarza, GrassPiece, Greeples, HalfLechuga, ItsColinn, Kaddyn, Kaismartypants, kawaiibunri, Kelawesome, kirbey, MercuryParadox, natsuvi, nsket, ohh_lia, omchris, QuilJ1, SAYNAR, Shu_MCSG, SiahStone, skyzfy, SOAKLE, Stravilight, TalonBX
+
+**S2 (22):** _shi, BEANJEE, Broseph, Bulbexe, ColdBac, DarrenBGP, DJoee, Fcrm, FrostBros, fruitlogic, grantfaker, ImChile, Markedbooboy, mekolame, noktime, SPEEDYDIGS, Spongey, TicedUp, ToontownOnline, ToucanTom, Zakkeagle, Zebobo10
+
+---
