@@ -167,8 +167,17 @@ for (int sheet = 8; sheet <= workbook.Worksheets.Count; sheet++)
         //Gets the row for the start of the death log & sets cell locations relative to the season
         IXLCell victimsStart = worksheet.Search("Kill List (include alive)").First();
         var rangeUsed = worksheet.RangeUsed();
+        int lastDataRow;
+        if (rangeUsed == null)
+        {
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("ERROR: " + round_name + " is empty!");
+            return;
+        } else
+        {
+            lastDataRow = rangeUsed.LastRowUsed().RowNumber();
+        }
         int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
-        int lastDataRow = rangeUsed.LastRowUsed().RowNumber();
         int firstDataColumn = season + 1;
         int middleDataColumn = season + 2;
         int lastDataColumn = season + 3;

@@ -5,33 +5,33 @@
 
 **S1: BoltsInCharge (10)**, *Eagris (0), KoreyKeipe (2)*
 
-**S2: Brodator (7)**, *Ancient_Bunny (0), FalingDutchman (0), Magnam_Indie (0)*
+**S2: Brodator (7)**, *Ancient\_Bunny (0), FalingDutchman (0), Magnam\_Indie (0)*
 
-**S3: Ancient_Bunny (1), Flouzemaker (4)**
+**S3: Ancient\_Bunny (1), Flouzemaker (4)**
 
-**S4: 1ime (1), Ancient_Bunny (0), Bofishkix (2)**, *trillibytes (0)*
+**S4: 1ime (1), Ancient\_Bunny (0), Bofishkix (2)**, *trillibytes (0)*
 
 **S5: 1ime (6), Karliffu (2)**, *TheCatMurgatroyd (0)*
 
-**S6: _ChrisMS (6), Psykl0ne (2)**
+**S6: \_ChrisMS (6), Psykl0ne (2)**
 
-**S7: draylor09 (3), GReimer (1)**, *_ChrisMS (5), CaptainRichy (0)*
+**S7: draylor09 (3), GReimer (1)**, *\_ChrisMS (5), CaptainRichy (0)*
 
-**S8: _ChrisMS (2), _Fost_ (1), Alisa_Muffins (1), Ancient_Bunny (0), Eagris (0), NickPlaysGames15 (1), Tallone55 (2), TastyBaconZ (1), Trinan6918 (0), ZebraPantz (1)**, *Bofishkix (1), Caffeindiazepine (0), egl_ (3), Pelycosaur (1)*
+**S8: \_ChrisMS (2), \_Fost\_ (1), Alisa\_Muffins (1), Ancient\_Bunny (0), Eagris (0), NickPlaysGames15 (1), Tallone55 (2), TastyBaconZ (1), Trinan6918 (0), ZebraPantz (1)**, *Bofishkix (1), Caffeindiazepine (0), egl\_ (3), Pelycosaur (1)*
 
 **S9: 1ime (7), Plushy33 (5)**, *DogOfKrondor (0)*
 
-**S10: Alisa_Muffins (2), CrowJRC (4), FullRunThrough (1), JaeHasNoMaidens (5)**
+**S10: Alisa\_Muffins (2), CrowJRC (4), FullRunThrough (1), JaeHasNoMaidens (5)**
 
 **S11: 4EyedSlime (6)**, *ElGavinoSupremo (0), EmIsThem (0), nFang (0)*
 
-**S12: _Fost_ (2), Zeiyuri (2)**, *Sparky_Taz (0)*
+**S12: \_Fost\_ (2), Zeiyuri (2)**, *Sparky\_Taz (0)*
 
 **S13: CrowJRC (6)**, *Eagris (0), FullRunThrough (0), nFang (2)*
 
 **S14: Eluniel (2), Jahrod (3), Ninetals38 (0)**
 
-**S15: CrowJRC (6), Fra49 (3), H_L_llama (1)**, *SpyroJ (0)*
+**S15: CrowJRC (6), Fra49 (3), H\_L\_llama (1)**, *SpyroJ (0)*
 
 **S16: Ninetals38 (2), Zeiyuri (4)**
 
@@ -39,9 +39,9 @@
 
 **S18: Flouzemaker (1), Jahrod (2), nFang (1), pigghetti (1)**
 
-**S19: pigghetti (3), Sten_Stone (2)**, *TheCatMurgatroyd (0)*
+**S19: pigghetti (3), Sten\_Stone (2)**, *TheCatMurgatroyd (0)*
 
-**S20: Rohcket (6)**, *FalingDutchman (0), Ghaosty (0), Sten_Stone (0)*
+**S20: Rohcket (6)**, *FalingDutchman (0), Ghaosty (0), Sten\_Stone (0)*
 
 **S21: MarcC5M (3)**, *SiahStone (3)*
 
@@ -55,7 +55,7 @@
 
 **S26: fruitlogic (6)**, *CaptainRichy (0), ShootingGoats (5)*
 
-**S27: Sfqkeur_ (4)**
+**S27: Sfqkeur\_ (4)**
 
 ---
 ### Runner Ups
@@ -72,17 +72,17 @@
 
 **S6:** Bofishkix (2), NickPlaysGames15 (4)
 
-**S7:** Ancient_Bunny (0), egl_ (3), JamestheDouglas (3), whitetimewolf (0)
+**S7:** Ancient\_Bunny (0), egl\_ (3), JamestheDouglas (3), whitetimewolf (0)
 
-**S8:** 1ime (0), 798abc (0), Brodator (0), DogOfKrondor (0), draylor09 (3), GReimer (0), MegaGran (0), nFang (0), Ninetals38 (0), Psykl0ne (0), QuilJ1 (0), Skrebur (0), Sparky_Taz (0), trillibytes (0)
+**S8:** 1ime (0), 798abc (0), Brodator (0), DogOfKrondor (0), draylor09 (3), GReimer (0), MegaGran (0), nFang (0), Ninetals38 (0), Psykl0ne (0), QuilJ1 (0), Skrebur (0), Sparky\_Taz (0), trillibytes (0)
 
-**S9:** Bofishkix (3), egl_ (6), whitetimewolf (0)
+**S9:** Bofishkix (3), egl\_ (6), whitetimewolf (0)
 
-**S10:** _ChrisMS (0), Brodator (1), Ghaosty (2), nFang (1)
+**S10:** \_ChrisMS (0), Brodator (1), Ghaosty (2), nFang (1)
 
 **S11:** Brodator (0), Charrlottie (0), Plushy33 (2), Zeiyuri (4)
 
-**S12:** 798abc (0), Alisa_Muffins (3), Pelycosaur (5)
+**S12:** 798abc (0), Alisa\_Muffins (3), Pelycosaur (5)
 
 **S13:** 78ford (0), 798abc (1), CodeJoshua (1), NickPlaysGames15 (3)
 
@@ -90,9 +90,9 @@
 
 **S15:** AlesandroDeMoor (0), CodeJoshua (1), Jalapinecone (1), Ninetals38 (0)
 
-**S16:** H_L_llama (1), jimmyjegs (3)
+**S16:** H\_L\_llama (1), jimmyjegs (3)
 
-**S17:** Ancient_Bunny (1), breakbeat (0), ItsShqky (2), Sparky_Taz (0)
+**S17:** Ancient\_Bunny (1), breakbeat (0), ItsShqky (2), Sparky\_Taz (0)
 
 **S18:** Demomaker (2), ElGavinoSupremo (2), ItsShqky (3), SilverShelby (0)
 
@@ -108,9 +108,9 @@
 
 **S24:** Charrlottie (3), Jahrod (0), Ninetals38 (1), pigghetti (3)
 
-**S25:** Flouzemaker (2), JaeHasNoMaidens (1), Sfqkeur_ (0)
+**S25:** Flouzemaker (2), JaeHasNoMaidens (1), Sfqkeur\_ (0)
 
-**S26:** CodeJoshua (3), Karliffu (2), Treyyyl_ (0)
+**S26:** CodeJoshua (3), Karliffu (2), Treyyyl\_ (0)
 
 **S27:** CodeJoshua (5)
 
@@ -127,11 +127,11 @@
 
 **S5:** 1ime (6)
 
-**S6:** _ChrisMS (6)
+**S6:** \_ChrisMS (6)
 
-**S7:** _ChrisMS (5)
+**S7:** \_ChrisMS (5)
 
-**S8:** draylor09, egl_ (3)
+**S8:** draylor09, egl\_ (3)
 
 **S9:** 1ime (7)
 
@@ -176,33 +176,33 @@
 
 **S1:** BoltsInCharge (10), Eagris (0), KoreyKeipe (2)
 
-**S2:** Ancient_Bunny (0), Brodator (7), FalingDutchman (0), Magnam_Indie (0)
+**S2:** Ancient\_Bunny (0), Brodator (7), FalingDutchman (0), Magnam\_Indie (0)
 
-**S3:** Ancient_Bunny (1), Flouzemaker (4) & Brodator (4), trillibytes (1) & Banji3000 (1), CameronJacob00 (4)
+**S3:** Ancient\_Bunny (1), Flouzemaker (4) & Brodator (4), trillibytes (1) & Banji3000 (1), CameronJacob00 (4)
 
 **S4:** Flouzemaker (4), Jahrod (3), Lazmark (0), SofaSeven (0)
 
 **S5:** 1ime (6), Karliffu (2), TheCatMurgatroyd (0)
 
-**S6:** _ChrisMS (6), Psykl0ne (2)
+**S6:** \_ChrisMS (6), Psykl0ne (2)
 
-**S7:** _ChrisMS (5), CaptainRichy (0), draylor09 (3), GReimer (1)
+**S7:** \_ChrisMS (5), CaptainRichy (0), draylor09 (3), GReimer (1)
 
-**S8:** _ChrisMS (2), _Fost_ (1), Alisa_Muffins (1), Ancient_Bunny (0), Bofishkix (1), Caffeindiazepine (0), Eagris (0), egl_ (3), NickPlaysGames15 (1), Pelycosaur (1), Tallone55 (2), TastyBaconZ (1), Trinan6918 (0), ZebraPantz (1)
+**S8:** \_ChrisMS (2), \_Fost\_ (1), Alisa\_Muffins (1), Ancient\_Bunny (0), Bofishkix (1), Caffeindiazepine (0), Eagris (0), egl\_ (3), NickPlaysGames15 (1), Pelycosaur (1), Tallone55 (2), TastyBaconZ (1), Trinan6918 (0), ZebraPantz (1)
 
 **S9:** 1ime (7), DogOfKrondor (0), Plushy33 (5)
 
-**S10:** Alisa_Muffins (2), CrowJRC (4), FullRunThrough (1), JaeHasNoMaidens (5)
+**S10:** Alisa\_Muffins (2), CrowJRC (4), FullRunThrough (1), JaeHasNoMaidens (5)
 
 **S11:** 4EyedSlime (6), ElGavinoSupremo (0), EmIsThem (0), nFang (0) & Brodator (0), Charrlottie (0), Plushy33 (2), Zeiyuri (4)
 
-**S12:** 798abc (0), Alisa_Muffins (3), Pelycosaur (5)
+**S12:** 798abc (0), Alisa\_Muffins (3), Pelycosaur (5)
 
 **S13:** CrowJRC (6), Eagris (0), FullRunThrough (0), nFang (2)
 
 **S14:** Eluniel (2), Jahrod (3), Ninetals38 (0) & 798abc (0), AlesandroDeMoor (3), Jordtim (2)
 
-**S15:** CrowJRC (6), Fra49 (3), H_L_llama (1), SpyroJ (0)
+**S15:** CrowJRC (6), Fra49 (3), H\_L\_llama (1), SpyroJ (0)
 
 **S16:** Ninetals38 (2), Zeiyuri (4)
 
@@ -226,14 +226,14 @@
 
 **S26:** CaptainRichy (0), fruitlogic (6), ShootingGoats (5)
 
-**S27:** Brodator (0), CaptainRichy (0), Chasmic (0), ColdBac (4), ElGavinoSupremo (0), Flouzemaker (0), Greeples (0), Kaismartypants (1), plumjuice (1), ShootingGoats (1), starlxghtmoon (0), TastyBaconZ (0), TehBaconBrawlerZ (0), Toxic_Rex7 (0), Westcraft00 (0)
+**S27:** Brodator (0), CaptainRichy (0), Chasmic (0), ColdBac (4), ElGavinoSupremo (0), Flouzemaker (0), Greeples (0), Kaismartypants (1), plumjuice (1), ShootingGoats (1), starlxghtmoon (0), TastyBaconZ (0), TehBaconBrawlerZ (0), Toxic\_Rex7 (0), Westcraft00 (0)
 
 ---
 ### First Damage
 
 **S1:** Lusa (0:0:27)
 
-**S2:** Magnam_Indie (0:0:58)
+**S2:** Magnam\_Indie (0:0:58)
 
 **S3:** motherofmermaids (0:1:39)
 
@@ -247,7 +247,7 @@
 
 **S8:** GReimer (0:9:17)
 
-**S9:** _ChrisMS (0:0:31)
+**S9:** \_ChrisMS (0:0:31)
 
 **S10:** Flishko (0:1:30)
 
@@ -255,25 +255,25 @@
 
 **S12:** ArcticSeagull (0:11:28)
 
-**S13:** Sparky_Taz (0:5:56)
+**S13:** Sparky\_Taz (0:5:56)
 
 **S14:** Kaismartypants (0:0:26)
 
-**S15:** _ChrisMS (0:0:22)
+**S15:** \_ChrisMS (0:0:22)
 
-**S16:** Sten_Stone (0:1:32)
+**S16:** Sten\_Stone (0:1:32)
 
 **S17:** Kaismartypants (0:0:23)
 
-**S18:** _Fost_ (0:1:28)
+**S18:** \_Fost\_ (0:1:28)
 
 **S19:** Kaismartypants (0:0:22)
 
 **S20:** Kaismartypants (0:0:22)
 
-**S21:** egl_ (0:1:37)
+**S21:** egl\_ (0:1:37)
 
-**S22:** Sten_Stone (0:9:48)
+**S22:** Sten\_Stone (0:9:48)
 
 **S23:** Jalapinecone (0:9:39)
 
@@ -296,7 +296,7 @@
 
 **S4:** trillibytes (1:35:5)
 
-**S5:** Ancient_Bunny (1:48:36)
+**S5:** Ancient\_Bunny (1:48:36)
 
 **S6:** MegaGran (1:17:34)
 
@@ -304,7 +304,7 @@
 
 **S8:** nFang (1:53:25)
 
-**S9:** Sparky_Taz (1:46:9)
+**S9:** Sparky\_Taz (1:46:9)
 
 **S10:** MegaGran (1:41:8)
 
@@ -316,11 +316,11 @@
 
 **S14:** Jahrod (1:31:33)
 
-**S15:** Ancient_Bunny (1:56:50)
+**S15:** Ancient\_Bunny (1:56:50)
 
 **S16:** NickPlaysGames15 (1:19:26)
 
-**S17:** Ancient_Bunny (0:9:47)
+**S17:** Ancient\_Bunny (0:9:47)
 
 **S18:** nFang (1:52:41)
 
@@ -351,15 +351,15 @@
 
 **S3:** TheCatMurgatroyd (ArrowsofCara)
 
-**S4:** Flouzemaker (Magnam_Indie)
+**S4:** Flouzemaker (Magnam\_Indie)
 
 **S5:** natsuvi (SofaSeven)
 
 **S6:** CameronJacob00 (SILSKY)
 
-**S7:** Pelycosaur (Sparky_Taz)
+**S7:** Pelycosaur (Sparky\_Taz)
 
-**S8:** egl_ (Sparky_Taz)
+**S8:** egl\_ (Sparky\_Taz)
 
 **S9:** Pelycosaur (CrowJRC)
 
@@ -369,7 +369,7 @@
 
 **S12:** 4EyedSlime (Eluniel)
 
-**S13:** Jalapinecone (Sparky_Taz)
+**S13:** Jalapinecone (Sparky\_Taz)
 
 **S14:** Flouzemaker (Brodator)
 
@@ -395,7 +395,7 @@
 
 **S25:** BoltsInCharge (Greeples)
 
-**S26:** _Fost_ (Brodator)
+**S26:** \_Fost\_ (Brodator)
 
 **S27:** CodeJoshua (Westcraft00)
 
@@ -420,13 +420,13 @@
 
 **S9:** TheCatMurgatroyd (Creeper)
 
-**S10:** Magnam_Indie (Creeper)
+**S10:** Magnam\_Indie (Creeper)
 
 **S11:** AWhivenGuy (Skeleton)
 
 **S12:** Charrlottie (Zombie)
 
-**S13:** Sparky_Taz (Jalapinecone)
+**S13:** Sparky\_Taz (Jalapinecone)
 
 **S14:** Brodator (Flouzemaker)
 
@@ -452,92 +452,92 @@
 
 **S25:** Jalapinecone (Skeleton)
 
-**S26:** Brodator (_Fost_)
+**S26:** Brodator (\_Fost\_)
 
 **S27:** TastyBaconZ (Fall)
 
 ---
 ### Kills
 
-**1st - Brodator (30):** Banji3000 (S1), natsuvi (S2), SoberBartender (S2), Lazmark (S2), trillibytes (S2), BoltsInCharge (S2), MegaGran (S2), lizziekraft (S2), Pommes_Peter (S3), SofaSeven (S3), Bofishkix (S3), Eagris (S3), natsuvi (S5), TastyBaconZ (S6), Trinan6918 (S6), CaptainRichy (S6), TheSonicJoey (S6), NickPlaysGames15 (S10), CaptainRichy (S12), 798abc (S13), draylor09 (S15), Chasmic (S19), ItsShqky (S19), Fnassau (S20), jimmyjegs (S23), Kaismartypants (S23), BoltsInCharge (S24), Chasmic (S24), Ninetals38 (S24), Charrlottie (S24)
+**1st - Brodator (30):** Banji3000 (S1), natsuvi (S2), SoberBartender (S2), Lazmark (S2), trillibytes (S2), BoltsInCharge (S2), MegaGran (S2), lizziekraft (S2), Pommes\_Peter (S3), SofaSeven (S3), Bofishkix (S3), Eagris (S3), natsuvi (S5), TastyBaconZ (S6), Trinan6918 (S6), CaptainRichy (S6), TheSonicJoey (S6), NickPlaysGames15 (S10), CaptainRichy (S12), 798abc (S13), draylor09 (S15), Chasmic (S19), ItsShqky (S19), Fnassau (S20), jimmyjegs (S23), Kaismartypants (S23), BoltsInCharge (S24), Chasmic (S24), Ninetals38 (S24), Charrlottie (S24)
 
-**2nd - 4EyedSlime (22):** GAMERxCOWBOY (S4), CaptainRichy (S4), Flouzemaker (S4), SofaSeven (S4), _Fost_ (S7), TheSonicJoey (S10), CaptainRichy (S10), Sparky_Taz (S11), 78ford (S11), Bofishkix (S11), Charrlottie (S11), Plushy33 (S11), Zeiyuri (S11), Eluniel (S12), Sparky_Taz (S12), Ghaosty (S12), Ullti (S12), Ninetals38 (S12), TheSonicJoey (S12), Flouzemaker (S12), 78ford (S21), jimmyjegs (S21)
+**2nd - 4EyedSlime (22):** GAMERxCOWBOY (S4), CaptainRichy (S4), Flouzemaker (S4), SofaSeven (S4), \_Fost\_ (S7), TheSonicJoey (S10), CaptainRichy (S10), Sparky\_Taz (S11), 78ford (S11), Bofishkix (S11), Charrlottie (S11), Plushy33 (S11), Zeiyuri (S11), Eluniel (S12), Sparky\_Taz (S12), Ghaosty (S12), Ullti (S12), Ninetals38 (S12), TheSonicJoey (S12), Flouzemaker (S12), 78ford (S21), jimmyjegs (S21)
 
-**3rd - CrowJRC (21):** draylor09 (S10), Bofishkix (S10), Brodator (S10), 4EyedSlime (S10), CaptainRichy (S13), Flouzemaker (S13), ZebraPantz (S13), Ancient_Bunny (S13), NickPlaysGames15 (S13), CodeJoshua (S13), jimmyjegs (S15), AirInAirOut (S15), TehBaconBrawlerZ (S15), Ullti (S15), AlesandroDeMoor (S15), Jalapinecone (S15), Klickacat (S17), H_L_llama (S17), ItsShqky (S17), Ancient_Bunny (S17), WackoFlipper (S26)
+**3rd - CrowJRC (21):** draylor09 (S10), Bofishkix (S10), Brodator (S10), 4EyedSlime (S10), CaptainRichy (S13), Flouzemaker (S13), ZebraPantz (S13), Ancient\_Bunny (S13), NickPlaysGames15 (S13), CodeJoshua (S13), jimmyjegs (S15), AirInAirOut (S15), TehBaconBrawlerZ (S15), Ullti (S15), AlesandroDeMoor (S15), Jalapinecone (S15), Klickacat (S17), H\_L\_llama (S17), ItsShqky (S17), Ancient\_Bunny (S17), WackoFlipper (S26)
 
-**3rd - Jahrod (21):** cbss (S4), CCRascal (S4), _ChrisMS (S4), EmIsThem (S7), ghostblurr (S7), MegaGran (S10), TastyBaconZ (S10), Ghaosty (S11), Charrlottie (S13), Charrlottie (S14), AWhivenGuy (S14), AlesandroDeMoor (S14), Ullti (S18), Chasmic (S18), Fra49 (S20), Jordtim (S20), Jalapinecone (S23), pigghetti (S23), nFang (S23), MarcC5M (S23), JaeHasNoMaidens (S25)
+**3rd - Jahrod (21):** cbss (S4), CCRascal (S4), \_ChrisMS (S4), EmIsThem (S7), ghostblurr (S7), MegaGran (S10), TastyBaconZ (S10), Ghaosty (S11), Charrlottie (S13), Charrlottie (S14), AWhivenGuy (S14), AlesandroDeMoor (S14), Ullti (S18), Chasmic (S18), Fra49 (S20), Jordtim (S20), Jalapinecone (S23), pigghetti (S23), nFang (S23), MarcC5M (S23), JaeHasNoMaidens (S25)
 
-**5th - Flouzemaker (19):** HappierUpHere (S1), natsuvi (S1), TheCatMurgatroyd (S3), lizziekraft (S3), trillibytes (S3), 1ime (S3), Magnam_Indie (S4), SILSKY (S4), Touatink (S4), StarkTehShark (S4), Brodator (S14), ItsShqky (S18), draylor09 (S19), DogOfKrondor (S19), RoseCuycuy (S22), Alisa_Muffins (S22), JaeHasNoMaidens (S22), DogOfKrondor (S25), ShootingGoats (S25)
+**5th - Flouzemaker (19):** HappierUpHere (S1), natsuvi (S1), TheCatMurgatroyd (S3), lizziekraft (S3), trillibytes (S3), 1ime (S3), Magnam\_Indie (S4), SILSKY (S4), Touatink (S4), StarkTehShark (S4), Brodator (S14), ItsShqky (S18), draylor09 (S19), DogOfKrondor (S19), RoseCuycuy (S22), Alisa\_Muffins (S22), JaeHasNoMaidens (S22), DogOfKrondor (S25), ShootingGoats (S25)
 
-**6th - 1ime (18):** SoberBartender (S3), CameronJacob00 (S3), Brodator (S3), SoberBartender (S4), TastyBaconZ (S5), Fcrm (S5), DevoyTTV (S5), Brodator (S5), Ancient_Bunny (S5), Bofishkix (S5), Ancient_Bunny (S6), Pelycosaur (S9), SofaSeven (S9), FullRunThrough (S9), Sparky_Taz (S9), _ChrisMS (S9), TastyBaconZ (S9), Jahrod (S9)
+**6th - 1ime (18):** SoberBartender (S3), CameronJacob00 (S3), Brodator (S3), SoberBartender (S4), TastyBaconZ (S5), Fcrm (S5), DevoyTTV (S5), Brodator (S5), Ancient\_Bunny (S5), Bofishkix (S5), Ancient\_Bunny (S6), Pelycosaur (S9), SofaSeven (S9), FullRunThrough (S9), Sparky\_Taz (S9), \_ChrisMS (S9), TastyBaconZ (S9), Jahrod (S9)
 
-**7th - NickPlaysGames15 (17):** nFang (S6), MegaGran (S6), GReimer (S6), Flouzemaker (S6), MartyBoy392 (S7), Bofishkix (S7), C8sun (S7), nFang (S8), Zeiyuri (S10), _Fost_ (S10), Brodator (S11), Klobb (S13), Jordtim (S13), nFang (S13), ItsShqky (S14), chloesad (S15), ArcticSeagull (S16)
+**7th - NickPlaysGames15 (17):** nFang (S6), MegaGran (S6), GReimer (S6), Flouzemaker (S6), MartyBoy392 (S7), Bofishkix (S7), C8sun (S7), nFang (S8), Zeiyuri (S10), \_Fost\_ (S10), Brodator (S11), Klobb (S13), Jordtim (S13), nFang (S13), ItsShqky (S14), chloesad (S15), ArcticSeagull (S16)
 
-**8th - _ChrisMS (16):** Lazmark (S4), HappierUpHere (S6), draylor09 (S6), 1ime (S6), Brodator (S6), NickPlaysGames15 (S6), Bofishkix (S6), DogOfKrondor (S7), Jahrod (S7), 4EyedSlime (S7), TastyBaconZ (S7), NickPlaysGames15 (S7), 1ime (S8), GReimer (S8), Eluniel (S15), Sparky_Taz (S20)
+**8th - \_ChrisMS (16):** Lazmark (S4), HappierUpHere (S6), draylor09 (S6), 1ime (S6), Brodator (S6), NickPlaysGames15 (S6), Bofishkix (S6), DogOfKrondor (S7), Jahrod (S7), 4EyedSlime (S7), TastyBaconZ (S7), NickPlaysGames15 (S7), 1ime (S8), GReimer (S8), Eluniel (S15), Sparky\_Taz (S20)
 
 **8th - BoltsInCharge (16):** Blugy (S1), Ixtaccihuatl (S1), InterstellarFish (S1), trillibytes (S1), CameronJacob00 (S1), lizziekraft (S1), Flouzemaker (S1), Lusa (S1), FullRunThrough (S1), Brodator (S1), Ixtaccihuatl (S2), DogOfKrondor (S22), Flouzemaker (S24), FullRunThrough (S24), Jahrod (S24), Greeples (S25)
 
-**8th - CodeJoshua (16):** Brodator (S12), 798abc (S12), Banji3000 (S13), ItsShqky (S15), AirInAirOut (S16), Chasmic (S16), Flouzemaker (S17), Toxic_Rex7 (S19), Ullti (S26), CrowJRC (S26), Chasmic (S26), Westcraft00 (S27), Kaismartypants (S27), plumjuice (S27), starlxghtmoon (S27), Queequa (S27)
+**8th - CodeJoshua (16):** Brodator (S12), 798abc (S12), Banji3000 (S13), ItsShqky (S15), AirInAirOut (S16), Chasmic (S16), Flouzemaker (S17), Toxic\_Rex7 (S19), Ullti (S26), CrowJRC (S26), Chasmic (S26), Westcraft00 (S27), Kaismartypants (S27), plumjuice (S27), starlxghtmoon (S27), Queequa (S27)
 
-**8th - pigghetti (16):** Fra49 (S14), Kaismartypants (S14), Demomaker (S17), CodeJoshua (S17), Xzeaulor (S18), ZebraTonic (S19), Blackbelt244 (S19), starlxghtmoon (S19), egl_ (S21), CodeJoshua (S21), Ninetals38 (S21), Plushy33 (S21), DogOfKrondor (S23), DogOfKrondor (S24), Kaismartypants (S24), CodeJoshua (S24)
+**8th - pigghetti (16):** Fra49 (S14), Kaismartypants (S14), Demomaker (S17), CodeJoshua (S17), Xzeaulor (S18), ZebraTonic (S19), Blackbelt244 (S19), starlxghtmoon (S19), egl\_ (S21), CodeJoshua (S21), Ninetals38 (S21), Plushy33 (S21), DogOfKrondor (S23), DogOfKrondor (S24), Kaismartypants (S24), CodeJoshua (S24)
 
 **8th - Rohcket (16):** ArcticSeagull (S18), DogOfKrondor (S18), CodeJoshua (S19), CaptainRichy (S19), TehBaconBrawlerZ (S19), ElGavinoSupremo (S19), Ninetals38 (S20), Eagris (S20), ZebraTonic (S20), QuilJ1 (S20), Fcrm (S20), SiahStone (S20), FalingDutchman (S22), AirInAirOut (S22), MarcC5M (S22), TheSonicJoey (S24)
 
-**13th - SiahStone (15):** DogOfKrondor (S17), _ChrisMS (S17), Klobb (S17), MajesticV (S20), MegaGran (S20), Magnam_Indie (S20), Trinan6918 (S20), Jalapinecone (S20), BoltsInCharge (S21), Demomaker (S21), starlxghtmoon (S21), Nuclearsugar (S22), Phyrrus (S25), Maxwellfifty (S25), Flouzemaker (S25)
+**13th - SiahStone (15):** DogOfKrondor (S17), \_ChrisMS (S17), Klobb (S17), MajesticV (S20), MegaGran (S20), Magnam\_Indie (S20), Trinan6918 (S20), Jalapinecone (S20), BoltsInCharge (S21), Demomaker (S21), starlxghtmoon (S21), Nuclearsugar (S22), Phyrrus (S25), Maxwellfifty (S25), Flouzemaker (S25)
 
-**14th - egl_ (14):** CameronJacob00 (S6), Brodator (S7), Pelycosaur (S7), _ChrisMS (S7), Sparky_Taz (S8), 798abc (S8), Ninetals38 (S8), Ninetals38 (S9), Brodator (S9), Flouzemaker (S9), Klobb (S9), Eagris (S9), _Fost_ (S9), DogOfKrondor (S21)
+**14th - egl\_ (14):** CameronJacob00 (S6), Brodator (S7), Pelycosaur (S7), \_ChrisMS (S7), Sparky\_Taz (S8), 798abc (S8), Ninetals38 (S8), Ninetals38 (S9), Brodator (S9), Flouzemaker (S9), Klobb (S9), Eagris (S9), \_Fost\_ (S9), DogOfKrondor (S21)
 
 **15th - Bofishkix (13):** FalingDutchman (S2), CameronJacob00 (S2), Kayker (S3), 4EyedSlime (S4), MegaGran (S4), Banji3000 (S6), SofaSeven (S6), MegaGran (S8), GReimer (S9), 798abc (S9), Tallone55 (S9), MegaGran (S11), ZebraPantz (S11)
 
-**15th - JaeHasNoMaidens (13):** Flishko (S10), ZebraPantz (S10), Karliffu (S10), _ChrisMS (S10), GReimer (S10), ItsShqky (S21), SpyroJ (S21), Charrlottie (S21), pigghetti (S21), Klobb (S21), SiahStone (S21), Karliffu (S25), TehBaconBrawlerZ (S27)
+**15th - JaeHasNoMaidens (13):** Flishko (S10), ZebraPantz (S10), Karliffu (S10), \_ChrisMS (S10), GReimer (S10), ItsShqky (S21), SpyroJ (S21), Charrlottie (S21), pigghetti (S21), Klobb (S21), SiahStone (S21), Karliffu (S25), TehBaconBrawlerZ (S27)
 
-**15th - MarcC5M (13):** SpyroJ (S20), _Fost_ (S20), Ancient_Bunny (S20), AirInAirOut (S20), Flouzemaker (S21), JaeHasNoMaidens (S21), 4EyedSlime (S21), RoseCuycuy (S23), Eroe (S23), DevoyTTV (S24), jimmyjegs (S24), _Fost_ (S24), BoltsInCharge (S25)
+**15th - MarcC5M (13):** SpyroJ (S20), \_Fost\_ (S20), Ancient\_Bunny (S20), AirInAirOut (S20), Flouzemaker (S21), JaeHasNoMaidens (S21), 4EyedSlime (S21), RoseCuycuy (S23), Eroe (S23), DevoyTTV (S24), jimmyjegs (S24), \_Fost\_ (S24), BoltsInCharge (S25)
 
-**18th - ItsShqky (12):** _ChrisMS (S15), Ancient_Bunny (S15), Brodator (S16), FalingDutchman (S16), Ninetals38 (S17), omnikrxn (S17), breakbeat (S18), Demomaker (S18), Ancient_Bunny (S18), SiahStone (S19), Xzeaulor (S19), RoseCuycuy (S21)
+**18th - ItsShqky (12):** \_ChrisMS (S15), Ancient\_Bunny (S15), Brodator (S16), FalingDutchman (S16), Ninetals38 (S17), omnikrxn (S17), breakbeat (S18), Demomaker (S18), Ancient\_Bunny (S18), SiahStone (S19), Xzeaulor (S19), RoseCuycuy (S21)
 
-**18th - ShootingGoats (12):** Jahrod (S22), ItsShqky (S22), starlxghtmoon (S22), BoltsInCharge (S22), PatrickTN_ (S22), Sten_Stone (S22), TheSlimeBrother (S26), Sten_Stone (S26), TehBaconBrawlerZ (S26), Westcraft00 (S26), Blackbelt244 (S26), ProGirlGamer (S27)
+**18th - ShootingGoats (12):** Jahrod (S22), ItsShqky (S22), starlxghtmoon (S22), BoltsInCharge (S22), PatrickTN\_ (S22), Sten\_Stone (S22), TheSlimeBrother (S26), Sten\_Stone (S26), TehBaconBrawlerZ (S26), Westcraft00 (S26), Blackbelt244 (S26), ProGirlGamer (S27)
 
-**20th - _Fost_ (11):** Caffeindiazepine (S8), whitetimewolf (S9), DogOfKrondor (S10), Trinan6918 (S10), ElGavinoSupremo (S12), Pelycosaur (S12), 798abc (S14), Ancient_Bunny (S19), TheCatMurgatroyd (S19), Brodator (S19), Brodator (S26)
+**20th - \_Fost\_ (11):** Caffeindiazepine (S8), whitetimewolf (S9), DogOfKrondor (S10), Trinan6918 (S10), ElGavinoSupremo (S12), Pelycosaur (S12), 798abc (S14), Ancient\_Bunny (S19), TheCatMurgatroyd (S19), Brodator (S19), Brodator (S26)
 
-**20th - CameronJacob00 (11):** _ChrisMS (S1), AmaraBella33 (S1), Magnam_Indie (S2), Banji3000 (S2), Bofishkix (S2), Tallone55 (S3), CaptainRichy (S3), MajesticTaco_ (S3), TastyBaconZ (S3), SILSKY (S6), TheCatMurgatroyd (S6)
+**20th - CameronJacob00 (11):** \_ChrisMS (S1), AmaraBella33 (S1), Magnam\_Indie (S2), Banji3000 (S2), Bofishkix (S2), Tallone55 (S3), CaptainRichy (S3), MajesticTaco\_ (S3), TastyBaconZ (S3), SILSKY (S6), TheCatMurgatroyd (S6)
 
-**20th - Ninetals38 (11):** ItsShqky (S16), TastyBaconZ (S16), Xzeaulor (S17), pigghetti (S17), ZebraTonic (S18), Sten_Stone (S20), FalingDutchman (S20), AmaraBella33 (S21), Trinan6918 (S22), Blackbelt244 (S24), Blackbelt244 (S25)
+**20th - Ninetals38 (11):** ItsShqky (S16), TastyBaconZ (S16), Xzeaulor (S17), pigghetti (S17), ZebraTonic (S18), Sten\_Stone (S20), FalingDutchman (S20), AmaraBella33 (S21), Trinan6918 (S22), Blackbelt244 (S24), Blackbelt244 (S25)
 
-**20th - Pelycosaur (11):** MegaGran (S5), Sparky_Taz (S7), CaptainRichy (S7), trillibytes (S8), CrowJRC (S9), DogOfKrondor (S9), Klobb (S12), Jordtim (S12), pigghetti (S12), Ancient_Bunny (S12), CodeJoshua (S12)
+**20th - Pelycosaur (11):** MegaGran (S5), Sparky\_Taz (S7), CaptainRichy (S7), trillibytes (S8), CrowJRC (S9), DogOfKrondor (S9), Klobb (S12), Jordtim (S12), pigghetti (S12), Ancient\_Bunny (S12), CodeJoshua (S12)
 
-**24th - draylor09 (10):** GReimer (S5), Eagris (S6), egl_ (S6), Ancient_Bunny (S7), JamestheDouglas (S7), egl_ (S7), egl_ (S8), Pelycosaur (S8), Bofishkix (S8), Jahrod (S19)
+**24th - draylor09 (10):** GReimer (S5), Eagris (S6), egl\_ (S6), Ancient\_Bunny (S7), JamestheDouglas (S7), egl\_ (S7), egl\_ (S8), Pelycosaur (S8), Bofishkix (S8), Jahrod (S19)
 
-**24th - fruitlogic (10):** Sfqkeur_ (S26), starlxghtmoon (S26), ZebraPantz (S26), CodeJoshua (S26), Treyyyl_ (S26), Karliffu (S26), Greeples (S27), Flouzemaker (S27), Karliffu (S27), Blackbelt244 (S27)
+**24th - fruitlogic (10):** Sfqkeur\_ (S26), starlxghtmoon (S26), ZebraPantz (S26), CodeJoshua (S26), Treyyyl\_ (S26), Karliffu (S26), Greeples (S27), Flouzemaker (S27), Karliffu (S27), Blackbelt244 (S27)
 
-**24th - jimmyjegs (10):** Demomaker (S16), Sten_Stone (S16), Xzeaulor (S16), AirInAirOut (S17), Chasmic (S17), Brodator (S21), Chasmic (S22), SiahStone (S22), Flouzemaker (S22), Ninetals38 (S22)
+**24th - jimmyjegs (10):** Demomaker (S16), Sten\_Stone (S16), Xzeaulor (S16), AirInAirOut (S17), Chasmic (S17), Brodator (S21), Chasmic (S22), SiahStone (S22), Flouzemaker (S22), Ninetals38 (S22)
 
-**24th - Karliffu (10):** SILSKY (S5), draylor09 (S5), Plushy33 (S10), egl_ (S10), DogOfKrondor (S20), natsuvi (S20), Sfqkeur_ (S25), AirInAirOut (S26), ShootingGoats (S26), Chasmic (S27)
+**24th - Karliffu (10):** SILSKY (S5), draylor09 (S5), Plushy33 (S10), egl\_ (S10), DogOfKrondor (S20), natsuvi (S20), Sfqkeur\_ (S25), AirInAirOut (S26), ShootingGoats (S26), Chasmic (S27)
 
-**24th - QuilJ1 (10):** MegaGran (S7), whitetimewolf (S7), Flouzemaker (S20), RoseCuycuy (S20), H_L_llama (S20), starlxghtmoon (S20), jimmyjegs (S20), Jahrod (S20), MarcC5M (S20), Blackbelt244 (S20)
+**24th - QuilJ1 (10):** MegaGran (S7), whitetimewolf (S7), Flouzemaker (S20), RoseCuycuy (S20), H\_L\_llama (S20), starlxghtmoon (S20), jimmyjegs (S20), Jahrod (S20), MarcC5M (S20), Blackbelt244 (S20)
 
-**24th - Zeiyuri (10):** KoreyKeipe (S11), Ancient_Bunny (S11), Ninetals38 (S11), Jahrod (S11), Alisa_Muffins (S12), 4EyedSlime (S12), Flouzemaker (S16), Ancient_Bunny (S16), Rohcket (S16), jimmyjegs (S16)
+**24th - Zeiyuri (10):** KoreyKeipe (S11), Ancient\_Bunny (S11), Ninetals38 (S11), Jahrod (S11), Alisa\_Muffins (S12), 4EyedSlime (S12), Flouzemaker (S16), Ancient\_Bunny (S16), Rohcket (S16), jimmyjegs (S16)
 
-**30th - Plushy33 (9):** Skrebur (S9), Ancient_Bunny (S9), nFang (S9), egl_ (S9), Bofishkix (S9), TheCatMurgatroyd (S10), NickPlaysGames15 (S11), egl_ (S11), Blackbelt244 (S21)
+**30th - Plushy33 (9):** Skrebur (S9), Ancient\_Bunny (S9), nFang (S9), egl\_ (S9), Bofishkix (S9), TheCatMurgatroyd (S10), NickPlaysGames15 (S11), egl\_ (S11), Blackbelt244 (S21)
 
-**31st - natsuvi (8):** cbss (S2), Brodator (S4), SofaSeven (S5), Eagris (S5), TheCatMurgatroyd (S5), CaptainRichy (S5), Toxic_Rex7 (S20), Brodator (S20)
+**31st - natsuvi (8):** cbss (S2), Brodator (S4), SofaSeven (S5), Eagris (S5), TheCatMurgatroyd (S5), CaptainRichy (S5), Toxic\_Rex7 (S20), Brodator (S20)
 
-**32nd - AirInAirOut (7):** SiahStone (S15), Jahrod (S15), Ullti (S17), Alisa_Muffins (S20), ZebraPantz (S24), pigghetti (S24), MarcC5M (S24)
+**32nd - AirInAirOut (7):** SiahStone (S15), Jahrod (S15), Ullti (S17), Alisa\_Muffins (S20), ZebraPantz (S24), pigghetti (S24), MarcC5M (S24)
 
-**32nd - Blackbelt244 (7):** H_L_llama (S19), Rohcket (S19), Xzeaulor (S20), SiahStone (S24), CaptainRichy (S25), CaptainRichy (S26), Brodator (S27)
+**32nd - Blackbelt244 (7):** H\_L\_llama (S19), Rohcket (S19), Xzeaulor (S20), SiahStone (S24), CaptainRichy (S25), CaptainRichy (S26), Brodator (S27)
 
-**32nd - Chasmic (7):** SpyroJ (S17), Sten_Stone (S18), Fra49 (S18), Rohcket (S18), Demomaker (S20), Kaismartypants (S20), Brodator (S22)
+**32nd - Chasmic (7):** SpyroJ (S17), Sten\_Stone (S18), Fra49 (S18), Rohcket (S18), Demomaker (S20), Kaismartypants (S20), Brodator (S22)
 
 **32nd - Kaismartypants (7):** DogOfKrondor (S14), SilverShelby (S19), DevoyTTV (S20), ShootingGoats (S23), MarcC5M (S25), starlxghtmoon (S25), Maxwellfifty (S27)
 
-**36th - Alisa_Muffins (6):** QuilJ1 (S8), Ancient_Bunny (S10), nFang (S10), 78ford (S12), AWhivenGuy (S12), DogOfKrondor (S12)
+**36th - Alisa\_Muffins (6):** QuilJ1 (S8), Ancient\_Bunny (S10), nFang (S10), 78ford (S12), AWhivenGuy (S12), DogOfKrondor (S12)
 
-**36th - Ancient_Bunny (6):** BoltsInCharge (S3), trillibytes (S6), 78ford (S13), Brodator (S15), Brodator (S17), starlxghtmoon (S18)
+**36th - Ancient\_Bunny (6):** BoltsInCharge (S3), trillibytes (S6), 78ford (S13), Brodator (S15), Brodator (S17), starlxghtmoon (S18)
 
-**36th - H_L_llama (6):** Ninetals38 (S15), NickPlaysGames15 (S16), Blackbelt244 (S17), TastyBaconZ (S17), draylor09 (S17), TheSonicJoey (S20)
+**36th - H\_L\_llama (6):** Ninetals38 (S15), NickPlaysGames15 (S16), Blackbelt244 (S17), TastyBaconZ (S17), draylor09 (S17), TheSonicJoey (S20)
 
 **36th - ZebraPantz (6):** Brodator (S8), ElGavinoSupremo (S10), DogOfKrondor (S11), Eluniel (S13), Klobb (S26), Maxwellfifty (S26)
 
-**40th - ArcticSeagull (5):** Flouzemaker (S14), Klobb (S14), Jalapinecone (S17), Sparky_Taz (S17), Fra49 (S19)
+**40th - ArcticSeagull (5):** Flouzemaker (S14), Klobb (S14), Jalapinecone (S17), Sparky\_Taz (S17), Fra49 (S19)
 
 **40th - Demomaker (5):** SpyroJ (S16), MegaGran (S16), Kaismartypants (S18), MarcC5M (S18), Fensua (S20)
 
@@ -549,17 +549,17 @@
 
 **40th - ghostblurr (5):** DogOfKrondor (S5), Pelycosaur (S5), Jahrod (S5), trillibytes (S5), Banji3000 (S5)
 
-**40th - Jalapinecone (5):** Sparky_Taz (S13), Klobb (S15), _ChrisMS (S20), TommySuX (S20), draylor09 (S24)
+**40th - Jalapinecone (5):** Sparky\_Taz (S13), Klobb (S15), \_ChrisMS (S20), TommySuX (S20), draylor09 (S24)
 
 **40th - nFang (5):** Banji3000 (S10), Jalapinecone (S13), TehBaconBrawlerZ (S13), SilverShelby (S18), Ninetals38 (S23)
 
-**40th - TastyBaconZ (5):** Banji3000 (S3), Alisa_Muffins (S7), DogOfKrondor (S8), Eagris (S16), ArcticSeagull (S17)
+**40th - TastyBaconZ (5):** Banji3000 (S3), Alisa\_Muffins (S7), DogOfKrondor (S8), Eagris (S16), ArcticSeagull (S17)
 
-**40th - TheCatMurgatroyd (5):** ArrowsofCara (S3), Flouzemaker (S7), H_L_llama (S18), _Fost_ (S18), _ChrisMS (S18)
+**40th - TheCatMurgatroyd (5):** ArrowsofCara (S3), Flouzemaker (S7), H\_L\_llama (S18), \_Fost\_ (S18), \_ChrisMS (S18)
 
 **50th - Charrlottie (4):** Klickacat (S14), starlxghtmoon (S24), AirInAirOut (S24), Rohcket (S24)
 
-**50th - ColdBac (4):** TheSlimeBrother (S27), DogOfKrondor (S27), FalingDutchman (S27), Treyyyl_ (S27)
+**50th - ColdBac (4):** TheSlimeBrother (S27), DogOfKrondor (S27), FalingDutchman (S27), Treyyyl\_ (S27)
 
 **50th - Eluniel (4):** Eagris (S13), FullRunThrough (S13), NickPlaysGames15 (S14), Jordtim (S14)
 
@@ -569,9 +569,9 @@
 
 **50th - Maxwellfifty (4):** Westcraft00 (S25), Kaismartypants (S25), Brodator (S25), Greeples (S26)
 
-**50th - Sfqkeur_ (4):** ShootingGoats (S27), JaeHasNoMaidens (S27), fruitlogic (S27), CodeJoshua (S27)
+**50th - Sfqkeur\_ (4):** ShootingGoats (S27), JaeHasNoMaidens (S27), fruitlogic (S27), CodeJoshua (S27)
 
-**57th - AlesandroDeMoor (3):** Zeiyuri (S14), ArcticSeagull (S14), Ancient_Bunny (S14)
+**57th - AlesandroDeMoor (3):** Zeiyuri (S14), ArcticSeagull (S14), Ancient\_Bunny (S14)
 
 **57th - FullRunThrough (3):** KoreyKeipe (S1), Ghaosty (S10), starlxghtmoon (S23)
 
@@ -579,23 +579,23 @@
 
 **57th - JamestheDouglas (3):** Caffeindiazepine (S7), TheCatMurgatroyd (S7), QuilJ1 (S7)
 
-**57th - Jordtim (3):** ArcticSeagull (S12), Ghaosty (S14), _Fost_ (S14)
+**57th - Jordtim (3):** ArcticSeagull (S12), Ghaosty (S14), \_Fost\_ (S14)
 
 **57th - SoberBartender (3):** SofaSeven (S2), Jahrod (S4), ArrowsofCara (S4)
 
-**57th - Sten_Stone (3):** Ninetals38 (S18), _Fost_ (S19), Kaismartypants (S19)
+**57th - Sten\_Stone (3):** Ninetals38 (S18), \_Fost\_ (S19), Kaismartypants (S19)
 
 **57th - TehBaconBrawlerZ (3):** Ninetals38 (S13), ArcticSeagull (S19), Demomaker (S19)
 
-**57th - TheSlimeBrother (3):** _Fost_ (S26), DogOfKrondor (S26), CaptainRichy (S27)
+**57th - TheSlimeBrother (3):** \_Fost\_ (S26), DogOfKrondor (S26), CaptainRichy (S27)
 
-**57th - Xzeaulor (3):** CodeJoshua (S16), H_L_llama (S16), breakbeat (S17)
+**57th - Xzeaulor (3):** CodeJoshua (S16), H\_L\_llama (S16), breakbeat (S17)
 
 **67th - 78ford (2):** EmIsThem (S11), nFang (S11)
 
 **67th - 798abc (2):** Brodator (S13), MegaGran (S15)
 
-**67th - Banji3000 (2):** Magnam_Indie (S3), Flouzemaker (S5)
+**67th - Banji3000 (2):** Magnam\_Indie (S3), Flouzemaker (S5)
 
 **67th - Blugy (2):** CCRascal (S1), Fnassau (S1)
 
@@ -603,7 +603,7 @@
 
 **67th - KoreyKeipe (2):** MegaGran (S1), CaptainRichy (S1)
 
-**67th - Magnam_Indie (2):** GAMERxCOWBOY (S3), draylor09 (S3)
+**67th - Magnam\_Indie (2):** GAMERxCOWBOY (S3), draylor09 (S3)
 
 **67th - Psykl0ne (2):** whitetimewolf (S6), cbss (S6)
 
@@ -652,19 +652,19 @@
 ---
 ### PvE Deaths
 
-**Creeper (18):** Mentalmad (S2), Bayfish (S3), DevoyTTV (S4), trillibytes (S4), 4EyedSlime (S5), JaeHasNoMaidens (S5), ElGavinoSupremo (S7), SofaSeven (S7), TheCatMurgatroyd (S9), Magnam_Indie (S10), Pelycosaur (S11), NickPlaysGames15 (S12), Eagris (S12), Ullti (S14), Jordtim (S15), Rohcket (S17), ArcticSeagull (S24), Codwhy (S26)
+**Creeper (18):** Mentalmad (S2), Bayfish (S3), DevoyTTV (S4), trillibytes (S4), 4EyedSlime (S5), JaeHasNoMaidens (S5), ElGavinoSupremo (S7), SofaSeven (S7), TheCatMurgatroyd (S9), Magnam\_Indie (S10), Pelycosaur (S11), NickPlaysGames15 (S12), Eagris (S12), Ullti (S14), Jordtim (S15), Rohcket (S17), ArcticSeagull (S24), Codwhy (S26)
 
-**Fall (12):** Lord_Rainbowman (S1), HappierUpHere (S10), Plushy33 (S12), ArcticSeagull (S13), Jahrod (S13), ElGavinoSupremo (S18), CaptainRichy (S20), Karliffu (S20), ShootingGoats (S24), fruitlogic (S25), TastyBaconZ (S27), ElGavinoSupremo (S27)
+**Fall (12):** Lord\_Rainbowman (S1), HappierUpHere (S10), Plushy33 (S12), ArcticSeagull (S13), Jahrod (S13), ElGavinoSupremo (S18), CaptainRichy (S20), Karliffu (S20), ShootingGoats (S24), fruitlogic (S25), TastyBaconZ (S27), ElGavinoSupremo (S27)
 
 **Zombie (11):** ThatGuyTony909 (S1), Kayker (S1), Trinan6918 (S3), Lazmark (S3), MegaGran (S3), ILIKECAKEMAN (S7), Eagris (S10), Charrlottie (S12), Codwhy (S22), Eagris (S24), Klickacat (S25)
 
-**Lava (7):** BannedEnergy (S2), Ancient_Bunny (S2), Charrlottie (S16), DogOfKrondor (S16), ItsShqky (S23), Blackbelt244 (S23), Jalapinecone (S24)
+**Lava (7):** BannedEnergy (S2), Ancient\_Bunny (S2), Charrlottie (S16), DogOfKrondor (S16), ItsShqky (S23), Blackbelt244 (S23), Jalapinecone (S24)
 
 **Skeleton (7):** Lazmark (S1), Wolfheart738 (S3), Psykl0ne (S8), AWhivenGuy (S11), ElGavinoSupremo (S11), Jalapinecone (S25), Codwhy (S27)
 
 **Burning (3):** SpyroJ (S15), BoltsInCharge (S23), Charrlottie (S23)
 
-**Drowning (3):** whitetimewolf (S5), Ghaosty (S20), Toxic_Rex7 (S27)
+**Drowning (3):** whitetimewolf (S5), Ghaosty (S20), Toxic\_Rex7 (S27)
 
 **Enderman (3):** Eagris (S4), Espik (S17), FullRunThrough (S23)
 
@@ -678,7 +678,7 @@
 
 **Cave Spider (1):** CaptainRichy (S2)
 
-**Dripstone (1):** Treyyyl_ (S25)
+**Dripstone (1):** Treyyyl\_ (S25)
 
 **Drowned (1):** Kaismartypants (S17)
 
@@ -709,7 +709,7 @@
 
 **20 Seasons (1):** Flouzemaker (S1,S3-S7,S9,S12-S14,S16-S22,S24-S25,S27)
 
-**19 Seasons (1):** Ancient_Bunny (S2-S20)
+**19 Seasons (1):** Ancient\_Bunny (S2-S20)
 
 **18 Seasons (1):** Ninetals38 (S8-S25)
 
@@ -725,44 +725,44 @@
 
 **12 Seasons (2):** draylor09 (S3,S5-S8,S10,S15-S19,S24), CodeJoshua (S12-S13,S15-S17,S19-S22,S24,S26-S27)
 
-**11 Seasons (2):** _ChrisMS (S1,S4,S6-S10,S15,S17-S18,S20), _Fost_ (S7-S10,S12,S14,S18-S20,S24,S26)
+**11 Seasons (2):** \_ChrisMS (S1,S4,S6-S10,S15,S17-S18,S20), \_Fost\_ (S7-S10,S12,S14,S18-S20,S24,S26)
 
 **10 Seasons (8):** Bofishkix (S2-S11), TastyBaconZ (S3,S5-S10,S16-S17,S27), nFang (S5-S11,S13,S18,S23), NickPlaysGames15 (S6-S8,S10-S16), SiahStone (S12,S15-S17,S19-S22,S24-S25), ItsShqky (S14-S23), Blackbelt244 (S17-S21,S23-S27), starlxghtmoon (S18-S27)
 
 **9 Seasons (4):** Charrlottie (S11-S14,S16,S20-S21,S23-S24), Ullti (S12,S14-S19,S26-S27), Kaismartypants (S14,S17-S20,S23-S25,S27), Chasmic (S16-S20,S22,S24,S26-S27)
 
-**8 Seasons (11):** BoltsInCharge (S1-S3,S21-S25), TheCatMurgatroyd (S3,S5-S7,S9-S10,S18-S19), ElGavinoSupremo (S5,S7,S10-S12,S18-S19,S27), Sparky_Taz (S7-S9,S11-S13,S17,S20), Klobb (S9,S12-S15,S17,S21,S26), ArcticSeagull (S12-S14,S16-S19,S24), pigghetti (S12,S14,S17-S19,S21,S23-S24), Jalapinecone (S13,S15-S17,S20,S23-S25), jimmyjegs (S15-S17,S20-S24), Rohcket (S16-S20,S22,S24,S26), MarcC5M (S18-S25)
+**8 Seasons (11):** BoltsInCharge (S1-S3,S21-S25), TheCatMurgatroyd (S3,S5-S7,S9-S10,S18-S19), ElGavinoSupremo (S5,S7,S10-S12,S18-S19,S27), Sparky\_Taz (S7-S9,S11-S13,S17,S20), Klobb (S9,S12-S15,S17,S21,S26), ArcticSeagull (S12-S14,S16-S19,S24), pigghetti (S12,S14,S17-S19,S21,S23-S24), Jalapinecone (S13,S15-S17,S20,S23-S25), jimmyjegs (S15-S17,S20-S24), Rohcket (S16-S20,S22,S24,S26), MarcC5M (S18-S25)
 
-**7 Seasons (9):** Banji3000 (S1-S3,S5-S6,S10,S13), trillibytes (S1-S6,S8), SofaSeven (S2-S7,S9), Trinan6918 (S3-S4,S6,S8,S10,S20,S22), 4EyedSlime (S4-S5,S7,S10-S12,S21), Pelycosaur (S5,S7-S12), egl_ (S6-S11,S21), CrowJRC (S9-S10,S13,S15,S17,S23,S26), AirInAirOut (S15-S17,S20,S22,S24,S26)
+**7 Seasons (9):** Banji3000 (S1-S3,S5-S6,S10,S13), trillibytes (S1-S6,S8), SofaSeven (S2-S7,S9), Trinan6918 (S3-S4,S6,S8,S10,S20,S22), 4EyedSlime (S4-S5,S7,S10-S12,S21), Pelycosaur (S5,S7-S12), egl\_ (S6-S11,S21), CrowJRC (S9-S10,S13,S15,S17,S23,S26), AirInAirOut (S15-S17,S20,S22,S24,S26)
 
-**6 Seasons (15):** FullRunThrough (S1,S9-S10,S13,S23-S24), 1ime (S3-S6,S8-S9), GReimer (S5-S10), JaeHasNoMaidens (S5,S10,S21-S22,S25,S27), Karliffu (S5,S10,S20,S25-S27), Alisa_Muffins (S7-S8,S10,S12,S20,S22), 798abc (S8-S9,S12-S15), ZebraPantz (S8,S10-S11,S13,S24,S26), Plushy33 (S9-S12,S20-S21), Zeiyuri (S10-S12,S14-S16), TehBaconBrawlerZ (S13,S15,S19,S22,S26-S27), H_L_llama (S15-S20), Demomaker (S16-S21), Sten_Stone (S16,S18-S20,S22,S26), ShootingGoats (S22-S27)
+**6 Seasons (15):** FullRunThrough (S1,S9-S10,S13,S23-S24), 1ime (S3-S6,S8-S9), GReimer (S5-S10), JaeHasNoMaidens (S5,S10,S21-S22,S25,S27), Karliffu (S5,S10,S20,S25-S27), Alisa\_Muffins (S7-S8,S10,S12,S20,S22), 798abc (S8-S9,S12-S15), ZebraPantz (S8,S10-S11,S13,S24,S26), Plushy33 (S9-S12,S20-S21), Zeiyuri (S10-S12,S14-S16), TehBaconBrawlerZ (S13,S15,S19,S22,S26-S27), H\_L\_llama (S15-S20), Demomaker (S16-S21), Sten\_Stone (S16,S18-S20,S22,S26), ShootingGoats (S22-S27)
 
-**5 Seasons (11):** CameronJacob00 (S1-S3,S6,S20), HappierUpHere (S1,S3,S5-S6,S10), natsuvi (S1-S2,S4-S5,S20), FalingDutchman (S2,S16,S20,S22,S27), Magnam_Indie (S2-S4,S10,S20), TheSonicJoey (S6,S10,S12,S20,S24), Ghaosty (S10-S12,S14,S20), Jordtim (S12-S15,S20), Fra49 (S14-S15,S18-S20), SpyroJ (S15-S17,S20-S21), Xzeaulor (S16-S20)
+**5 Seasons (11):** CameronJacob00 (S1-S3,S6,S20), HappierUpHere (S1,S3,S5-S6,S10), natsuvi (S1-S2,S4-S5,S20), FalingDutchman (S2,S16,S20,S22,S27), Magnam\_Indie (S2-S4,S10,S20), TheSonicJoey (S6,S10,S12,S20,S24), Ghaosty (S10-S12,S14,S20), Jordtim (S12-S15,S20), Fra49 (S14-S15,S18-S20), SpyroJ (S15-S17,S20-S21), Xzeaulor (S16-S20)
 
 **4 Seasons (7):** Lazmark (S1-S4), DevoyTTV (S4-S5,S20,S24), whitetimewolf (S5-S7,S9), 78ford (S11-S13,S21), Eluniel (S12-S15), Klickacat (S14,S17,S20,S25), RoseCuycuy (S20-S23)
 
-**3 Seasons (18):** AmaraBella33 (S1,S20-S21), lizziekraft (S1-S3), cbss (S2,S4,S6), SoberBartender (S2-S4), Tallone55 (S3,S8-S9), SILSKY (S4-S6), QuilJ1 (S7-S8,S20), AWhivenGuy (S11-S12,S14), MajesticV (S18-S20), ZebraTonic (S18-S20), Toxic_Rex7 (S19-S20,S27), Codwhy (S22,S26-S27), fruitlogic (S25-S27), Greeples (S25-S27), Maxwellfifty (S25-S27), Sfqkeur_ (S25-S27), Treyyyl_ (S25-S27), Westcraft00 (S25-S27)
+**3 Seasons (18):** AmaraBella33 (S1,S20-S21), lizziekraft (S1-S3), cbss (S2,S4,S6), SoberBartender (S2-S4), Tallone55 (S3,S8-S9), SILSKY (S4-S6), QuilJ1 (S7-S8,S20), AWhivenGuy (S11-S12,S14), MajesticV (S18-S20), ZebraTonic (S18-S20), Toxic\_Rex7 (S19-S20,S27), Codwhy (S22,S26-S27), fruitlogic (S25-S27), Greeples (S25-S27), Maxwellfifty (S25-S27), Sfqkeur\_ (S25-S27), Treyyyl\_ (S25-S27), Westcraft00 (S25-S27)
 
 **2 Seasons (20):** CCRascal (S1,S4), Fnassau (S1,S20), Ixtaccihuatl (S1-S2), Kayker (S1,S3), KoreyKeipe (S1,S11), Mentalmad (S1-S2), ArrowsofCara (S3-S4), GAMERxCOWBOY (S3-S4), Krimm (S4,S20), Fcrm (S5,S20), ghostblurr (S5,S7), Psykl0ne (S6,S8), C8sun (S7,S20), Caffeindiazepine (S7-S8), EmIsThem (S7,S11), Skrebur (S8-S9), AlesandroDeMoor (S14-S15), breakbeat (S17-S18), SilverShelby (S18-S19), TheSlimeBrother (S26-S27)
 
-**1 Season (34):** Blugy (S1), InterstellarFish (S1), Lord_Rainbowman (S1), Lusa (S1), ThatGuyTony909 (S1), BannedEnergy (S2), Bayfish (S3), MajesticTaco_ (S3), motherofmermaids (S3), Pommes_Peter (S3), wickedreine (S3), Wolfheart738 (S3), aboogail (S4), StarkTehShark (S4), Touatink (S4), Hefaistros (S6), ILIKECAKEMAN (S7), JamestheDouglas (S7), MartyBoy392 (S7), Flishko (S10), chloesad (S15), Espik (S17), omnikrxn (S17), Fensua (S20), TommySuX (S20), Nuclearsugar (S22), PatrickTN_ (S22), Eroe (S23), Phyrrus (S25), WackoFlipper (S26), ColdBac (S27), plumjuice (S27), ProGirlGamer (S27), Queequa (S27)
+**1 Season (34):** Blugy (S1), InterstellarFish (S1), Lord\_Rainbowman (S1), Lusa (S1), ThatGuyTony909 (S1), BannedEnergy (S2), Bayfish (S3), MajesticTaco\_ (S3), motherofmermaids (S3), Pommes\_Peter (S3), wickedreine (S3), Wolfheart738 (S3), aboogail (S4), StarkTehShark (S4), Touatink (S4), Hefaistros (S6), ILIKECAKEMAN (S7), JamestheDouglas (S7), MartyBoy392 (S7), Flishko (S10), chloesad (S15), Espik (S17), omnikrxn (S17), Fensua (S20), TommySuX (S20), Nuclearsugar (S22), PatrickTN\_ (S22), Eroe (S23), Phyrrus (S25), WackoFlipper (S26), ColdBac (S27), plumjuice (S27), ProGirlGamer (S27), Queequa (S27)
 
 ---
 ### Debutants
 
-**S1 (27):** _ChrisMS, AmaraBella33, Banji3000, Blugy, BoltsInCharge, Brodator, CameronJacob00, CaptainRichy, CCRascal, Eagris, Flouzemaker, Fnassau, FullRunThrough, HappierUpHere, InterstellarFish, Ixtaccihuatl, Kayker, KoreyKeipe, Lazmark, lizziekraft, Lord_Rainbowman, Lusa, MegaGran, Mentalmad, natsuvi, ThatGuyTony909, trillibytes
+**S1 (27):** \_ChrisMS, AmaraBella33, Banji3000, Blugy, BoltsInCharge, Brodator, CameronJacob00, CaptainRichy, CCRascal, Eagris, Flouzemaker, Fnassau, FullRunThrough, HappierUpHere, InterstellarFish, Ixtaccihuatl, Kayker, KoreyKeipe, Lazmark, lizziekraft, Lord\_Rainbowman, Lusa, MegaGran, Mentalmad, natsuvi, ThatGuyTony909, trillibytes
 
-**S2 (8):** Ancient_Bunny, BannedEnergy, Bofishkix, cbss, FalingDutchman, Magnam_Indie, SoberBartender, SofaSeven
+**S2 (8):** Ancient\_Bunny, BannedEnergy, Bofishkix, cbss, FalingDutchman, Magnam\_Indie, SoberBartender, SofaSeven
 
-**S3 (14):** 1ime, ArrowsofCara, Bayfish, draylor09, GAMERxCOWBOY, MajesticTaco_, motherofmermaids, Pommes_Peter, Tallone55, TastyBaconZ, TheCatMurgatroyd, Trinan6918, wickedreine, Wolfheart738
+**S3 (14):** 1ime, ArrowsofCara, Bayfish, draylor09, GAMERxCOWBOY, MajesticTaco\_, motherofmermaids, Pommes\_Peter, Tallone55, TastyBaconZ, TheCatMurgatroyd, Trinan6918, wickedreine, Wolfheart738
 
 **S4 (8):** 4EyedSlime, aboogail, DevoyTTV, Jahrod, Krimm, SILSKY, StarkTehShark, Touatink
 
 **S5 (10):** DogOfKrondor, ElGavinoSupremo, Fcrm, ghostblurr, GReimer, JaeHasNoMaidens, Karliffu, nFang, Pelycosaur, whitetimewolf
 
-**S6 (5):** egl_, Hefaistros, NickPlaysGames15, Psykl0ne, TheSonicJoey
+**S6 (5):** egl\_, Hefaistros, NickPlaysGames15, Psykl0ne, TheSonicJoey
 
-**S7 (10):** _Fost_, Alisa_Muffins, C8sun, Caffeindiazepine, EmIsThem, ILIKECAKEMAN, JamestheDouglas, MartyBoy392, QuilJ1, Sparky_Taz
+**S7 (10):** \_Fost\_, Alisa\_Muffins, C8sun, Caffeindiazepine, EmIsThem, ILIKECAKEMAN, JamestheDouglas, MartyBoy392, QuilJ1, Sparky\_Taz
 
 **S8 (4):** 798abc, Ninetals38, Skrebur, ZebraPantz
 
@@ -778,27 +778,27 @@
 
 **S14 (5):** AlesandroDeMoor, Fra49, ItsShqky, Kaismartypants, Klickacat
 
-**S15 (5):** AirInAirOut, chloesad, H_L_llama, jimmyjegs, SpyroJ
+**S15 (5):** AirInAirOut, chloesad, H\_L\_llama, jimmyjegs, SpyroJ
 
-**S16 (5):** Chasmic, Demomaker, Rohcket, Sten_Stone, Xzeaulor
+**S16 (5):** Chasmic, Demomaker, Rohcket, Sten\_Stone, Xzeaulor
 
 **S17 (4):** Blackbelt244, breakbeat, Espik, omnikrxn
 
 **S18 (5):** MajesticV, MarcC5M, SilverShelby, starlxghtmoon, ZebraTonic
 
-**S19 (1):** Toxic_Rex7
+**S19 (1):** Toxic\_Rex7
 
 **S20 (3):** Fensua, RoseCuycuy, TommySuX
 
 **S21 (0):** 
 
-**S22 (4):** Codwhy, Nuclearsugar, PatrickTN_, ShootingGoats
+**S22 (4):** Codwhy, Nuclearsugar, PatrickTN\_, ShootingGoats
 
 **S23 (1):** Eroe
 
 **S24 (0):** 
 
-**S25 (7):** fruitlogic, Greeples, Maxwellfifty, Phyrrus, Sfqkeur_, Treyyyl_, Westcraft00
+**S25 (7):** fruitlogic, Greeples, Maxwellfifty, Phyrrus, Sfqkeur\_, Treyyyl\_, Westcraft00
 
 **S26 (2):** TheSlimeBrother, WackoFlipper
 
