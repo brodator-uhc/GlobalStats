@@ -2132,10 +2132,10 @@ kill_records.Cell("E1").InsertData(kr_date.Values);
 kill_records.Sort(1);
 
 //Saves the new docs
-roundlist.SaveAs("..\\..\\..\\Stats Sheet\\Round_List.xlsx");
-statscompiled.SaveAs("..\\..\\..\\Stats Sheet\\Stats_Compiled.xlsx");
-globalstats.SaveAs("..\\..\\..\\Stats Sheet\\Global_Stats.xlsx");
-rrdebut.SaveAs("..\\..\\..\\Stats Sheet\\RR_Debuts.xlsx");
+roundlist.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Round_List.xlsx");
+statscompiled.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Stats_Compiled.xlsx");
+globalstats.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Global_Stats.xlsx");
+rrdebut.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\RR_Debuts.xlsx");
 Console.ForegroundColor = ConsoleColor.Green;
 Console.WriteLine("Stats are now compiled!");
 
