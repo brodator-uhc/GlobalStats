@@ -3,9 +3,9 @@
 ---
 ### Winners
 
-**S1: _ChrisMS (0), AtomicCrossbow (1), Brodator (1), brodioh (0), CodeJoshua (1), Dj8ninja (4), pigghetti (1), SpaceFenix (0), zac083 (0)**, *123SteveBob (0), AirInAirOut (0), Guardaxion (0), natsuvi (1), noktime (0), rippersteveM5 (0), Westcraft00 (0)*
+**S1: \_ChrisMS (0), AtomicCrossbow (1), Brodator (1), brodioh (0), CodeJoshua (1), Dj8ninja (4), pigghetti (1), SpaceFenix (0), zac083 (0)**, *123SteveBob (0), AirInAirOut (0), Guardaxion (0), natsuvi (1), noktime (0), rippersteveM5 (0), Westcraft00 (0)*
 
-**S2: ChainingVermin2 (2), pigghetti (2)**, *AirInAirOut (0), AtomicCrossbow (0), Brodator (0), ColdBac (0), Fcrm (1), natsuvi (0), noktime (1), ohh_lia (0), Sharkbob94349 (0), TehBaconBrawlerZ (0), Westcraft00 (0)*
+**S2: ChainingVermin2 (2), pigghetti (2)**, *AirInAirOut (0), AtomicCrossbow (0), Brodator (0), ColdBac (0), Fcrm (1), natsuvi (0), noktime (1), ohh\_lia (0), Sharkbob94349 (0), TehBaconBrawlerZ (0), Westcraft00 (0)*
 
 **S3: cherryblawsom (5)**
 
@@ -19,15 +19,15 @@
 
 **S8: Bobbytheturtle (2), CodeJoshua (5), Klobb (1), natsuvi (6)**, *MaxEvasion (0)*
 
-**S9: _Fost_ (0), ChainingVermin2 (4), Maxwellfifty (4), noktime (0)**, *Caydone (0), Codwhy (0), Kelawesome (0), Klobb (0), Normoh (1), ShootingGoats (0), Ullti (0), Westcraft00 (0)*
+**S9: \_Fost\_ (0), ChainingVermin2 (4), Maxwellfifty (4), noktime (0)**, *Caydone (0), Codwhy (0), Kelawesome (0), Klobb (0), Normoh (1), ShootingGoats (0), Ullti (0), Westcraft00 (0)*
 
 **S10: Bobbytheturtle (7)**, *Codwhy (1), Maxwellfifty (0), Westcraft00 (0), wizarde (0)*
 
-**S11: _Fost_ (0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu (0), Kelawesome (3), Normoh (0)**, *Maxwellfifty (0), MercuryParadox (0), Sharkbob94349 (1), SpaceFenix (0), TheSlimeBrother (0), Westcraft00 (0), wizarde (0)*
+**S11: \_Fost\_ (0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu (0), Kelawesome (3), Normoh (0)**, *Maxwellfifty (0), MercuryParadox (0), Sharkbob94349 (1), SpaceFenix (0), TheSlimeBrother (0), Westcraft00 (0), wizarde (0)*
 
 **S12: Bobbytheturtle (6), Fcrm (6), noktime (0)**, *Brodator (1), MercuryParadox (1), wizarde (0)*
 
-**S13: CodeJoshua (2), Fcrm (6), MercuryParadox (2)**, *CommanderK22_ (3), noktime (2), ShootingGoats (0)*
+**S13: CodeJoshua (2), Fcrm (6), MercuryParadox (2)**, *CommanderK22\_ (3), noktime (2), ShootingGoats (0)*
 
 **S14: ChainingVermin2 (5), JustNolan (0), pigghetti (1), SpaceFenix (0), Ullti (0)**, *Brodator (1), Caydone (1), Fcrm (0), Gorgerous (0), Maxwellfifty (1), MercuryParadox (0), Normoh (0), SpyroJ (0)*
 
@@ -58,9 +58,9 @@
 
 **S12:** chloesad (0), JustNolan (0), PresidentFleb (0), Sharkbob94349 (0)
 
-**S13:** acadiangel (2), Br8dy_ (0), ColdBac (0), Kelawesome (2)
+**S13:** acadiangel (2), Br8dy\_ (0), ColdBac (0), Kelawesome (2)
 
-**S14:** _Fost_ (1), Bobbytheturtle (0), cherryblawsom (0), noktime (4), PresidentFleb (1)
+**S14:** \_Fost\_ (1), Bobbytheturtle (0), cherryblawsom (0), noktime (4), PresidentFleb (1)
 
 ---
 ### Most Kills
@@ -96,7 +96,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** 123SteveBob (0), _ChrisMS (0), AirInAirOut (0), AtomicCrossbow (1), Brodator (1), brodioh (0), CodeJoshua (1), Dj8ninja (4), Guardaxion (0), natsuvi (1), noktime (0), pigghetti (1), rippersteveM5 (0), SpaceFenix (0), Westcraft00 (0), zac083 (0)
+**S1:** 123SteveBob (0), \_ChrisMS (0), AirInAirOut (0), AtomicCrossbow (1), Brodator (1), brodioh (0), CodeJoshua (1), Dj8ninja (4), Guardaxion (0), natsuvi (1), noktime (0), pigghetti (1), rippersteveM5 (0), SpaceFenix (0), Westcraft00 (0), zac083 (0)
 
 **S2:** Andronify (0), CodeJoshua (0), Kaddyn (2), lexicuhl (2), dennnz (4)
 
@@ -112,15 +112,15 @@
 
 **S8:** Bobbytheturtle (2), CodeJoshua (5), Klobb (1), MaxEvasion (0), natsuvi (6)
 
-**S9:** _Fost_ (0), Caydone (0), ChainingVermin2 (4), Codwhy (0), Kelawesome (0), Klobb (0), Maxwellfifty (4), noktime (0), Normoh (1), ShootingGoats (0), Ullti (0), Westcraft00 (0)
+**S9:** \_Fost\_ (0), Caydone (0), ChainingVermin2 (4), Codwhy (0), Kelawesome (0), Klobb (0), Maxwellfifty (4), noktime (0), Normoh (1), ShootingGoats (0), Ullti (0), Westcraft00 (0)
 
 **S10:** Brodator (0), ChainingVermin2 (0), cherryblawsom (0), Greeples (2), Kaddyn (0), Kelawesome (2), natsuvi (2), noktime (0), Normoh (1), ShootingGoats (1), SpaceFenix (0), TehBaconBrawlerZ (2), Ullti (0)
 
-**S11:** _Fost_ (0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu (0), Kelawesome (3), Maxwellfifty (0), MercuryParadox (0), Normoh (0), Sharkbob94349 (1), SpaceFenix (0), TheSlimeBrother (0), Westcraft00 (0), wizarde (0)
+**S11:** \_Fost\_ (0), Bobbytheturtle (4), Brodator (1), Fcrm (2), Karliffu (0), Kelawesome (3), Maxwellfifty (0), MercuryParadox (0), Normoh (0), Sharkbob94349 (1), SpaceFenix (0), TheSlimeBrother (0), Westcraft00 (0), wizarde (0)
 
 **S12:** Bobbytheturtle (6), Brodator (1), Fcrm (6), MercuryParadox (1), noktime (0), wizarde (0)
 
-**S13:** CodeJoshua (2), CommanderK22_ (3), Fcrm (6), MercuryParadox (2), noktime (2), ShootingGoats (0)
+**S13:** CodeJoshua (2), CommanderK22\_ (3), Fcrm (6), MercuryParadox (2), noktime (2), ShootingGoats (0)
 
 **S14:** Brodator (1), Caydone (1), ChainingVermin2 (5), Fcrm (0), pigghetti (1), Gorgerous (0), JustNolan (0), Maxwellfifty (1), MercuryParadox (0), Normoh (0), SpaceFenix (0), SpyroJ (0), Ullti (0)
 
@@ -195,7 +195,7 @@
 
 **S3:** cherryblawsom (Andronify)
 
-**S4:** TheSlimeBrother (_Fost_)
+**S4:** TheSlimeBrother (\_Fost\_)
 
 **S5:** noktime (AtomicCrossbow)
 
@@ -253,17 +253,17 @@
 
 **1st - Fcrm (34):** Kaddyn (S2), ChainingVermin2 (S3), Greeples (S4), Bobbytheturtle (S4), Guardaxion (S4), Sharkbob94349 (S4), WinnerSkye (S5), ShootingGoats (S6), noktime (S6), PresidentFleb (S6), Caydone (S7), cherryblawsom (S7), ChainingVermin2 (S7), MercuryParadox (S7), rippersteveM5 (S7), ChainingVermin2 (S8), TehBaconBrawlerZ (S9), Brodator (S9), JDwb (S10), Ullti (S10), noktime (S11), TehBaconBrawlerZ (S11), PresidentFleb (S12), ShootingGoats (S12), Jahrod (S12), Westcraft00 (S12), Normoh (S12), KOKeowner (S12), Psykl0ne (S13), wizarde (S13), Normoh (S13), Caydone (S13), ChainingVermin2 (S13), acadiangel (S13)
 
-**2nd - Bobbytheturtle (30):** AirInAirOut (S2), lexicuhl (S2), Fcrm (S2), GuyGojo (S4), noktime (S5), Klobb (S6), Ullti (S6), acadiangel (S8), Caydone (S8), Fcrm (S9), Normoh (S9), Kaddyn (S10), ChainingVermin2 (S10), ShootingGoats (S10), Normoh (S10), SpaceFenix (S10), TehBaconBrawlerZ (S10), natsuvi (S10), Ullti (S11), ChainingVermin2 (S11), wizarde (S11), Sharkbob94349 (S11), Sharkbob94349 (S12), natsuvi (S12), wizarde (S12), JustNolan (S12), ChainingVermin2 (S12), Sharkbob94349 (S12), Brodator (S13), Br8dy_ (S13)
+**2nd - Bobbytheturtle (30):** AirInAirOut (S2), lexicuhl (S2), Fcrm (S2), GuyGojo (S4), noktime (S5), Klobb (S6), Ullti (S6), acadiangel (S8), Caydone (S8), Fcrm (S9), Normoh (S9), Kaddyn (S10), ChainingVermin2 (S10), ShootingGoats (S10), Normoh (S10), SpaceFenix (S10), TehBaconBrawlerZ (S10), natsuvi (S10), Ullti (S11), ChainingVermin2 (S11), wizarde (S11), Sharkbob94349 (S11), Sharkbob94349 (S12), natsuvi (S12), wizarde (S12), JustNolan (S12), ChainingVermin2 (S12), Sharkbob94349 (S12), Brodator (S13), Br8dy\_ (S13)
 
 **3rd - natsuvi (18):** 123SteveBob (S1), Kaddyn (S3), Fcrm (S3), Sharkbob94349 (S3), MercuryParadox (S3), ShootingGoats (S3), ShootingGoats (S5), TehBaconBrawlerZ (S7), Jahrod (S7), Klobb (S7), GuyGojo (S8), Brodator (S8), Fcrm (S8), cherryblawsom (S8), PresidentFleb (S8), Sharkbob94349 (S8), cherryblawsom (S10), Psykl0ne (S10)
 
-**4th - ChainingVermin2 (17):** Guardaxion (S1), ohh_lia (S1), AirInAirOut (S1), Andronify (S2), ShootingGoats (S2), ShootingGoats (S8), Guardaxion (S9), 123SteveBob (S9), MercuryParadox (S9), Bobbytheturtle (S9), Westcraft00 (S11), Brodator (S12), PresidentFleb (S14), cherryblawsom (S14), Brodator (S14), Caydone (S14), Bobbytheturtle (S14)
+**4th - ChainingVermin2 (17):** Guardaxion (S1), ohh\_lia (S1), AirInAirOut (S1), Andronify (S2), ShootingGoats (S2), ShootingGoats (S8), Guardaxion (S9), 123SteveBob (S9), MercuryParadox (S9), Bobbytheturtle (S9), Westcraft00 (S11), Brodator (S12), PresidentFleb (S14), cherryblawsom (S14), Brodator (S14), Caydone (S14), Bobbytheturtle (S14)
 
 **5th - noktime (12):** CodeJoshua (S2), ShootingGoats (S4), AtomicCrossbow (S5), SiahStone (S5), TehBaconBrawlerZ (S11), TheSlimeBrother (S11), Guardaxion (S13), Karliffu (S13), Fcrm (S14), Gorgerous (S14), ShootingGoats (S14), Maxwellfifty (S14)
 
 **6th - cherryblawsom (11):** Andronify (S3), Bobbytheturtle (S3), dennnz (S3), natsuvi (S3), ColdBac (S3), Andronify (S4), AirInAirOut (S4), Westcraft00 (S5), Greeples (S5), Fcrm (S7), Klobb (S9)
 
-**7th - dennnz (9):** ohh_lia (S2), ColdBac (S2), Westcraft00 (S2), Sharkbob94349 (S2), TheSlimeBrother (S3), Jahrod (S3), Greeples (S3), CodeJoshua (S3), zac083 (S3)
+**7th - dennnz (9):** ohh\_lia (S2), ColdBac (S2), Westcraft00 (S2), Sharkbob94349 (S2), TheSlimeBrother (S3), Jahrod (S3), Greeples (S3), CodeJoshua (S3), zac083 (S3)
 
 **7th - pigghetti (9):** Sharkbob94349 (S1), dennnz (S2), Bobbytheturtle (S2), Brodator (S3), SpaceFenix (S3), 123SteveBob (S3), lexicuhl (S4), noktime (S5), MercuryParadox (S14)
 
@@ -285,9 +285,9 @@
 
 **16th - Maxwellfifty (6):** natsuvi (S7), Greeples (S9), Ullti (S9), ColdBac (S9), ShootingGoats (S9), Greeples (S14)
 
-**16th - wizarde (6):** Bobbytheturtle (S7), LoafOZ (S7), GuyGojo (S7), CommanderK22_ (S7), Maxwellfifty (S7), ohh_lia (S7)
+**16th - wizarde (6):** Bobbytheturtle (S7), LoafOZ (S7), GuyGojo (S7), CommanderK22\_ (S7), Maxwellfifty (S7), ohh\_lia (S7)
 
-**19th - CommanderK22_ (4):** Bizzlebub (S7), SpyroJ (S13), Kelawesome (S13), DancersTalon (S13)
+**19th - CommanderK22\_ (4):** Bizzlebub (S7), SpyroJ (S13), Kelawesome (S13), DancersTalon (S13)
 
 **19th - Dj8ninja (4):** ShootingGoats (S1), noktime (S1), rippersteveM5 (S1), ChainingVermin2 (S1)
 
@@ -299,11 +299,11 @@
 
 **21st - lexicuhl (3):** TehBaconBrawlerZ (S2), AtomicCrossbow (S2), Ullti (S3)
 
-**21st - ohh_lia (3):** ChainingVermin2 (S5), ShootingGoats (S7), Sharkbob94349 (S7)
+**21st - ohh\_lia (3):** ChainingVermin2 (S5), ShootingGoats (S7), Sharkbob94349 (S7)
 
 **21st - TehBaconBrawlerZ (3):** GuyGojo (S5), Fcrm (S10), Karliffu (S10)
 
-**27th - acadiangel (2):** CommanderK22_ (S13), rippersteveM5 (S13)
+**27th - acadiangel (2):** CommanderK22\_ (S13), rippersteveM5 (S13)
 
 **27th - Codwhy (2):** PresidentFleb (S6), Sharkbob94349 (S10)
 
@@ -317,9 +317,9 @@
 
 **27th - rippersteveM5 (2):** Jahrod (S5), pigghetti (S5)
 
-**27th - TheSlimeBrother (2):** _Fost_ (S4), Brodator (S4)
+**27th - TheSlimeBrother (2):** \_Fost\_ (S4), Brodator (S4)
 
-**35th - _Fost_ (1):** Karliffu (S14)
+**35th - \_Fost\_ (1):** Karliffu (S14)
 
 **35th - AtomicCrossbow (1):** natsuvi (S1)
 
@@ -329,7 +329,7 @@
 
 **35th - Guardaxion (1):** Brodator (S10)
 
-**35th - GuyGojo (1):** ohh_lia (S5)
+**35th - GuyGojo (1):** ohh\_lia (S5)
 
 **35th - Jahrod (1):** Rawkeyy (S4)
 
@@ -342,13 +342,13 @@
 ---
 ### PvE Deaths
 
-**Fall (6):** _ChrisMS (S2), rippersteveM5 (S5), SpaceFenix (S8), MaxEvasion (S8), Caydone (S12), Normoh (S14)
+**Fall (6):** \_ChrisMS (S2), rippersteveM5 (S5), SpaceFenix (S8), MaxEvasion (S8), Caydone (S12), Normoh (S14)
 
 **Zombie (3):** Brodator (S7), Westcraft00 (S10), zac083 (S13)
 
 **Creeper (2):** Brodator (S6), Ninetals38 (S13)
 
-**Drowning (2):** Normoh (S8), _Fost_ (S14)
+**Drowning (2):** Normoh (S8), \_Fost\_ (S14)
 
 **Burning (1):** Westcraft00 (S6)
 
@@ -383,30 +383,30 @@
 
 **5 Seasons (7):** Andronify (S1-S5), Guardaxion (S1,S4,S9-S10,S13), zac083 (S1,S3,S8,S13-S14), Klobb (S5-S9), PresidentFleb (S6,S8,S12-S14), Maxwellfifty (S7,S9-S11,S14), Karliffu (S10-S14)
 
-**4 Seasons (8):** 123SteveBob (S1,S3-S4,S9), ohh_lia (S1-S2,S5,S7), rippersteveM5 (S1,S5,S7,S13), lexicuhl (S2-S4,S6), TheSlimeBrother (S3-S4,S6,S11), _Fost_ (S4,S9,S11,S14), GuyGojo (S4-S5,S7-S8), Kelawesome (S9-S11,S13)
+**4 Seasons (8):** 123SteveBob (S1,S3-S4,S9), ohh\_lia (S1-S2,S5,S7), rippersteveM5 (S1,S5,S7,S13), lexicuhl (S2-S4,S6), TheSlimeBrother (S3-S4,S6,S11), \_Fost\_ (S4,S9,S11,S14), GuyGojo (S4-S5,S7-S8), Kelawesome (S9-S11,S13)
 
 **3 Seasons (5):** AtomicCrossbow (S1-S2,S5), Kaddyn (S2-S3,S10), WinnerSkye (S4-S6), Codwhy (S6,S9-S10), Psykl0ne (S10-S11,S13)
 
-**2 Seasons (13):** _ChrisMS (S1-S2), brodioh (S1,S5), Dj8ninja (S1,S3), dennnz (S2-S3), Gorgerous (S6,S14), CommanderK22_ (S7,S13), acadiangel (S8,S13), zoeywithawhy (S8,S12), DancersTalon (S10,S13), JustNolan (S12,S14), KOKeowner (S12,S14), Ninetals38 (S12-S13), SpyroJ (S13-S14)
+**2 Seasons (13):** \_ChrisMS (S1-S2), brodioh (S1,S5), Dj8ninja (S1,S3), dennnz (S2-S3), Gorgerous (S6,S14), CommanderK22\_ (S7,S13), acadiangel (S8,S13), zoeywithawhy (S8,S12), DancersTalon (S10,S13), JustNolan (S12,S14), KOKeowner (S12,S14), Ninetals38 (S12-S13), SpyroJ (S13-S14)
 
-**1 Season (8):** Rawkeyy (S4), SiahStone (S5), Bizzlebub (S7), LoafOZ (S7), MaxEvasion (S8), JDwb (S10), chloesad (S12), Br8dy_ (S13)
+**1 Season (8):** Rawkeyy (S4), SiahStone (S5), Bizzlebub (S7), LoafOZ (S7), MaxEvasion (S8), JDwb (S10), chloesad (S12), Br8dy\_ (S13)
 
 ---
 ### Debutants
 
-**S1 (22):** _ChrisMS, 123SteveBob, AirInAirOut, Andronify, AtomicCrossbow, Brodator, brodioh, ChainingVermin2, CodeJoshua, Dj8ninja, Guardaxion, natsuvi, noktime, ohh_lia, pigghetti, rippersteveM5, Sharkbob94349, ShootingGoats, SpaceFenix, TehBaconBrawlerZ, Westcraft00, zac083
+**S1 (22):** \_ChrisMS, 123SteveBob, AirInAirOut, Andronify, AtomicCrossbow, Brodator, brodioh, ChainingVermin2, CodeJoshua, Dj8ninja, Guardaxion, natsuvi, noktime, ohh\_lia, pigghetti, rippersteveM5, Sharkbob94349, ShootingGoats, SpaceFenix, TehBaconBrawlerZ, Westcraft00, zac083
 
 **S2 (6):** Bobbytheturtle, ColdBac, dennnz, Fcrm, Kaddyn, lexicuhl
 
 **S3 (6):** cherryblawsom, Greeples, Jahrod, MercuryParadox, TheSlimeBrother, Ullti
 
-**S4 (4):** _Fost_, GuyGojo, Rawkeyy, WinnerSkye
+**S4 (4):** \_Fost\_, GuyGojo, Rawkeyy, WinnerSkye
 
 **S5 (2):** Klobb, SiahStone
 
 **S6 (4):** Caydone, Codwhy, Gorgerous, PresidentFleb
 
-**S7 (6):** Bizzlebub, CommanderK22_, LoafOZ, Maxwellfifty, Normoh, wizarde
+**S7 (6):** Bizzlebub, CommanderK22\_, LoafOZ, Maxwellfifty, Normoh, wizarde
 
 **S8 (3):** acadiangel, MaxEvasion, zoeywithawhy
 
@@ -418,7 +418,7 @@
 
 **S12 (4):** chloesad, JustNolan, KOKeowner, Ninetals38
 
-**S13 (2):** Br8dy_, SpyroJ
+**S13 (2):** Br8dy\_, SpyroJ
 
 **S14 (0):** 
 
