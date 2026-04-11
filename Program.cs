@@ -2,23 +2,18 @@
 using System.Runtime.InteropServices;
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Spreadsheet;
+using GlobalStats;
 
 // If 1 calculates list of round gaps
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 4;
+int Statfunction = 2;
 
 if (Statfunction == 1)
 {
     String roundsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Round_List.xlsx";
-
-    List<String> gap_player = new List<String>();
-    List<int> gap_days = new List<int>();
-    List<String> gap_round = new List<String>();
-    List<String> gap_startseason = new List<String>();
-    List<String> gap_endseason = new List<String>();
-    List<DateTime> gap_enddate = new List<DateTime>();
+    RoundsGaps roundsGap = new RoundsGaps();
 
     if (!File.Exists(roundsListDoc))
     {
@@ -111,12 +106,7 @@ if (Statfunction == 1)
 
                     foreach (int gap in temp_player.Keys)
                     {
-                        gap_player.Add(temp_player[gap]);
-                        gap_days.Add(gap);
-                        gap_round.Add(RoundCompare);
-                        gap_startseason.Add(temp_startseason[gap]);
-                        gap_endseason.Add(temp_endseason[gap]);
-                        gap_enddate.Add(temp_enddate[gap]);
+                        roundsGap.AddRoundGap(temp_player[gap], gap, RoundCompare, temp_startseason[gap], temp_endseason[gap], temp_enddate[gap]);
                     }
                 }
             }
@@ -131,12 +121,12 @@ if (Statfunction == 1)
     gapssheet.Column("F").Style.NumberFormat.Format = "mm/dd/yyyy";
     gapssheet.Column("A").Width = 34;
     gapssheet.Column("B").Width = 6;
-    gapssheet.Cell("A1").InsertData(gap_player);
-    gapssheet.Cell("B1").InsertData(gap_days);
-    gapssheet.Cell("C1").InsertData(gap_round);
-    gapssheet.Cell("D1").InsertData(gap_startseason);
-    gapssheet.Cell("E1").InsertData(gap_endseason);
-    gapssheet.Cell("F1").InsertData(gap_enddate);
+    gapssheet.Cell("A1").InsertData(roundsGap.Player);
+    gapssheet.Cell("B1").InsertData(roundsGap.DayGap);
+    gapssheet.Cell("C1").InsertData(roundsGap.Round);
+    gapssheet.Cell("D1").InsertData(roundsGap.StartSeason);
+    gapssheet.Cell("E1").InsertData(roundsGap.EndSeason);
+    gapssheet.Cell("F1").InsertData(roundsGap.GapDate);
     gapssheet.Sort(2, XLSortOrder.Descending);
 
     //Saves the new docs
@@ -149,15 +139,7 @@ else if (Statfunction == 2)
 {
     String playerListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Global_Stats.xlsx";
     String roundsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Round_List.xlsx";
-
-    List<String> gap_player = new List<String>();
-    List<int> gap_days = new List<int>();
-    List<DateTime> gap_startdate = new List<DateTime>();
-    List<String> gap_startround = new List<String>();
-    List<String> gap_startseason = new List<String>();
-    List<DateTime> gap_enddate = new List<DateTime>();
-    List<String> gap_endround = new List<String>();
-    List<String> gap_endseason = new List<String>();
+    GlobalGaps globalGap = new GlobalGaps();
 
     if (!File.Exists(playerListDoc))
     {
@@ -175,62 +157,55 @@ else if (Statfunction == 2)
     using var PlayersDocument = new XLWorkbook(playerListDoc);
     var PlayerList = PlayersDocument.Worksheet(1);
 
+    //Gets a list of all players.
+    Dictionary<String, int> allPlayers = new Dictionary<String, int>();
     IXLRange playerRange = PlayerList.Range(1, 1, PlayerList.RangeUsed()!.RowCount(), 1);
-
-    Dictionary<String, int> all_players = new Dictionary<String, int>();
     foreach (IXLCell player in playerRange.Cells())
     {
-        all_players.Add(player.Value.ToString(), player.CellRight().GetValue<int>());
+        allPlayers.Add(player.Value.ToString(), player.CellRight().GetValue<int>());
     }
 
     using var RoundsDocument = new XLWorkbook(roundsListDoc);
     var RoundsList = RoundsDocument.Worksheet(3);
 
-    foreach (String player in all_players.Keys)
+    foreach (String player in allPlayers.Keys)
     {
-        DateTime lastplayed = new DateTime(2012, 1, 1);
-        String lastround = "1";
-        String lastseason = "Fake";
+        String lastRound = "Fake";
+        String lastSeason = "1z";
+        DateTime lastPlayed = new DateTime(2012, 1, 1);
         //Skips players with 1 round played.
-        if (all_players[player] > 1)
+        if (allPlayers[player] > 1)
         {
-            for (int round = 1; round <= RoundsList.Rows().Count(); round++)
+            //Goes through every seasons and compares gaps of players.
+            IXLRange seasonRange = RoundsList.Range(1, 1, RoundsList.RangeUsed()!.RowCount(), 1);
+            foreach (IXLCell seasonCell in seasonRange.CellsUsed())
             {
-                IXLRange rosterRange = RoundsList.Range(round, 4, round, 129);
-                foreach (IXLCell cell in rosterRange.CellsUsed())
+                int seasonRow = seasonCell.WorksheetRow().RowNumber();
+                IXLRange rosterRange = RoundsList.Range(seasonRow, 4, seasonRow, 129);
+                foreach (IXLCell rosterCell in rosterRange.CellsUsed())
                 {
-                    string value = cell.GetString();
+                    String seasonPlayer = rosterCell.GetString();
+                    String seasonRound = RoundsList.Cell(seasonRow, 1).Value.ToString();
+                    String seasonNumber = RoundsList.Cell(seasonRow, 2).Value.ToString();
+                    DateTime seasonDate = RoundsList.Cell(seasonRow, 3).GetDateTime();
 
-                    if (value == player)
+                    if (seasonPlayer == player)
                     {
-                        if (lastplayed == new DateTime(2012, 1, 1))
+                        if (lastPlayed != new DateTime(2012, 1, 1))
                         {
-                            lastplayed = RoundsList.Cell(round, 3).GetDateTime();
-                            lastround = RoundsList.Cell(round, 1).Value.ToString();
-                            lastseason = RoundsList.Cell(round, 2).Value.ToString();
-                        }
-                        else
-                        {
-                            TimeSpan gapdays = RoundsList.Cell(round, 3).GetDateTime() - lastplayed;
-                            if (gapdays.TotalDays > 1095)
+                            TimeSpan timeDiff = seasonDate - lastPlayed;
+                            int gapDays = (int)timeDiff.TotalDays;
+                            if (gapDays > 1095)
                             {
-                                gap_player.Add(player);
-                                gap_days.Add((int)gapdays.TotalDays);
-                                gap_startdate.Add(lastplayed);
-                                gap_startround.Add(lastround);
-                                gap_startseason.Add(lastseason);
-                                gap_enddate.Add(RoundsList.Cell(round, 3).GetDateTime());
-                                gap_endround.Add(RoundsList.Cell(round, 1).Value.ToString());
-                                gap_endseason.Add(RoundsList.Cell(round, 2).Value.ToString());
+                                globalGap.AddGlobalGap(player, gapDays, lastRound, lastSeason, lastPlayed, seasonRound, seasonNumber, seasonDate);
                             }
-                            lastplayed = RoundsList.Cell(round, 3).GetDateTime();
-                            lastround = RoundsList.Cell(round, 1).Value.ToString();
-                            lastseason = RoundsList.Cell(round, 2).Value.ToString();
                         }
+                        lastRound = seasonRound;
+                        lastSeason = seasonNumber;
+                        lastPlayed = seasonDate;
                     }
                 }
             }
-            Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Checked gaps for " + player + "!");
         }
     }
@@ -242,21 +217,20 @@ else if (Statfunction == 2)
     gapssheet.Column("H").Style.NumberFormat.Format = "mm/dd/yyyy";
     gapssheet.Column("A").Width = 34;
     gapssheet.Column("B").Width = 6;
-    gapssheet.Cell("A1").InsertData(gap_player);
-    gapssheet.Cell("B1").InsertData(gap_days);
-    gapssheet.Cell("C1").InsertData(gap_startround);
-    gapssheet.Cell("D1").InsertData(gap_startseason);
-    gapssheet.Cell("E1").InsertData(gap_startdate);
-    gapssheet.Cell("F1").InsertData(gap_endround);
-    gapssheet.Cell("G1").InsertData(gap_endseason);
-    gapssheet.Cell("H1").InsertData(gap_enddate);
+    gapssheet.Cell("A1").InsertData(globalGap.Player);
+    gapssheet.Cell("B1").InsertData(globalGap.DayGap);
+    gapssheet.Cell("C1").InsertData(globalGap.StartRound);
+    gapssheet.Cell("D1").InsertData(globalGap.StartSeason);
+    gapssheet.Cell("E1").InsertData(globalGap.StartDate);
+    gapssheet.Cell("F1").InsertData(globalGap.EndRound);
+    gapssheet.Cell("G1").InsertData(globalGap.EndSeason);
+    gapssheet.Cell("H1").InsertData(globalGap.EndDate);
     gapssheet.Sort(2, XLSortOrder.Descending);
 
     //Saves the new docs
     gapsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Player Gaps.xlsx");
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Player Gaps are now compiled!");
-
 }
 else if (Statfunction == 3)
 {
