@@ -626,13 +626,9 @@ else if (Statfunction == 4)
     //Variables for the wins list
     List<StatsList> winList = new List<StatsList>();
     //Variables for the round debut list
-    Dictionary<String, String> dl_round = new Dictionary<String, String>();
-    Dictionary<String, String> dl_season = new Dictionary<String, String>();
-    Dictionary<String, DateTime> dl_date = new Dictionary<String, DateTime>();
+    List<RoundDebut> roundDebutsList = new List<RoundDebut>();
     //Variables for the round debut list without non-reddits
-    Dictionary<String, String> nrdl_round = new Dictionary<String, String>();
-    Dictionary<String, String> nrdl_season = new Dictionary<String, String>();
-    Dictionary<String, DateTime> nrdl_date = new Dictionary<String, DateTime>();
+    List<RoundDebut> roundDebutsListNR = new List<RoundDebut>();
     //Variables for the global stats
     Dictionary<String, int> gs_seasonsplayed = new Dictionary<String, int>();
     Dictionary<String, int> gs_wins = new Dictionary<String, int>();
@@ -863,20 +859,20 @@ else if (Statfunction == 4)
                 {
                     //Checks if its the players debut round, sets the date if it is
                     //If new players sets all the variables for them
-                    if (dl_round.ContainsKey(value))
+                    if (roundDebutsList.Any(round => round.Player == value))
                     {
-                        if (season_date < dl_date[value])
+                        var roundDebutList = roundDebutsList.Find(round => round.Player == value);
+                        if (roundDebutList != null)
                         {
-                            dl_round[value] = round_name;
-                            dl_season[value] = season_number;
-                            dl_date[value] = season_date;
+                            if (season_date < roundDebutList.Date)
+                            {
+                                RoundDebut.UpdateRoundDebut(roundDebutList, round_name, season_number, season_date);
+                            }
                         }
                     }
                     else
                     {
-                        dl_round.Add(value, round_name);
-                        dl_season.Add(value, season_number);
-                        dl_date.Add(value, season_date);
+                        roundDebutsList.Add(new RoundDebut(round_name, season_number, season_date, value));
 
                         //Adds new player to the Global Stats
                         gs_seasonsplayed.Add(value, 0);
@@ -897,15 +893,17 @@ else if (Statfunction == 4)
                     }
 
                     //Checks for players debut round but also excludes non-reddit rounds
-                    if (nrdl_round.ContainsKey(value))
+                    if (roundDebutsListNR.Any(round => round.Player == value))
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            if (season_date < nrdl_date[value])
+                            var roundDebutList = roundDebutsListNR.Find(round => round.Player == value);
+                            if (roundDebutList != null)
                             {
-                                nrdl_round[value] = round_name;
-                                nrdl_season[value] = season_number;
-                                nrdl_date[value] = season_date;
+                                if (season_date < roundDebutList.Date)
+                                {
+                                    RoundDebut.UpdateRoundDebut(roundDebutList, round_name, season_number, season_date);
+                                }
                             }
                         }
                     }
@@ -913,9 +911,7 @@ else if (Statfunction == 4)
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            nrdl_round.Add(value, round_name);
-                            nrdl_season.Add(value, season_number);
-                            nrdl_date.Add(value, season_date);
+                            roundDebutsList.Add(new RoundDebut(round_name, season_number, season_date, value));
                         }
                     }
                 }
@@ -2401,25 +2397,13 @@ else if (Statfunction == 4)
     //RR Debuts
     var rr_debut = rrdebut.AddWorksheet("RR Debuts");
     rr_debut.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut.Column("A").Width = 34;
-    rr_debut.Column("B").Width = 6;
-    rr_debut.Column("C").Width = 20;
-    rr_debut.Cell("A1").InsertData(dl_round.Values);
-    rr_debut.Cell("B1").InsertData(dl_season.Values);
-    rr_debut.Cell("C1").InsertData(dl_date.Values);
-    rr_debut.Cell("D1").InsertData(dl_round.Keys);
+    rr_debut.Cell(1, 1).InsertTable(roundDebutsList);
     rr_debut.Sort(3);
 
     //RR Debuts (No NR)
     var rr_debut_nr = rrdebut.AddWorksheet("RR Debuts (No NR)");
     rr_debut_nr.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut_nr.Column("A").Width = 34;
-    rr_debut_nr.Column("B").Width = 6;
-    rr_debut_nr.Column("C").Width = 20;
-    rr_debut_nr.Cell("A1").InsertData(nrdl_round.Values);
-    rr_debut_nr.Cell("B1").InsertData(nrdl_season.Values);
-    rr_debut_nr.Cell("C1").InsertData(nrdl_date.Values);
-    rr_debut_nr.Cell("D1").InsertData(nrdl_round.Keys);
+    rr_debut_nr.Cell(1, 1).InsertTable(roundDebutsListNR);
     rr_debut_nr.Sort(3);
 
     //Global Stats
