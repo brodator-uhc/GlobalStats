@@ -2,25 +2,25 @@ namespace GlobalStats
 {
     public class GlobalGaps
     {
-        public List<String> Player { get; set; } = new List<String>();
-        public List<int> DayGap { get; set; } = new List<int>();
-        public List<String> StartRound { get; set; } = new List<String>();
-        public List<String> StartSeason { get; set; } = new List<String>();
-        public List<DateTime> StartDate { get; set; } = new List<DateTime>();
-        public List<String> EndRound { get; set; } = new List<String>();
-        public List<String> EndSeason { get; set; } = new List<String>();
-        public List<DateTime> EndDate { get; set; } = new List<DateTime>();
+        public String Player { get; set; }
+        public int DayGap { get; set; }
+        public String StartRound { get; set; }
+        public String StartSeason { get; set; }
+        public DateTime StartDate { get; set; }
+        public String EndRound { get; set; }
+        public String EndSeason { get; set; }
+        public DateTime EndDate { get; set; }
 
-        public void AddGlobalGap(String player, int dayGap, String startRound, String startSeason, DateTime startDate, String endRound, String endSeason, DateTime endDate)
+        public GlobalGaps(String player, int dayGap, String startRound, String startSeason, DateTime startDate, String endRound, String endSeason, DateTime endDate)
         {
-            Player.Add(player);
-            DayGap.Add(dayGap);
-            StartRound.Add(startRound);
-            StartSeason.Add(startSeason);
-            StartDate.Add(startDate);
-            EndRound.Add(endRound);
-            EndSeason.Add(endSeason);
-            EndDate.Add(endDate);
+            Player = player;
+            DayGap = dayGap;
+            StartRound = startRound;
+            StartSeason = startSeason;
+            StartDate = startDate;
+            EndRound = endRound;
+            EndSeason = endSeason;
+            EndDate = endDate;
         }
     }
 }

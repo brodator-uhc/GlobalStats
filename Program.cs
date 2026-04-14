@@ -1,6 +1,7 @@
 ﻿using System.Reflection.PortableExecutable;
 using System.Runtime.InteropServices;
 using ClosedXML.Excel;
+using DocumentFormat.OpenXml.Drawing;
 using DocumentFormat.OpenXml.Spreadsheet;
 using GlobalStats;
 
@@ -8,12 +9,14 @@ using GlobalStats;
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 1;
+int Statfunction = 3;
+// Player to analyze for the stats sheet
+String playerStats = "Chasmic";
 
 if (Statfunction == 1)
 {
     String roundsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Round_List.xlsx";
-    RoundsGaps roundsGap = new RoundsGaps();
+    List<RoundsGaps> roundsGapList = new List<RoundsGaps>();
 
     if (!File.Exists(roundsListDoc))
     {
@@ -59,8 +62,8 @@ if (Statfunction == 1)
                 String roundCompare = round;
                 if (seasonRound.Contains(roundCompare))
                 {
-                    if (seasonRound == "WMC x Phobia" || 
-                        seasonRound == "The Melon Blooded x Scattershot" || 
+                    if (seasonRound == "WMC x Phobia" ||
+                        seasonRound == "The Melon Blooded x Scattershot" ||
                         seasonRound == "Phobia x Cinema")
                     {
                         roundCompare = seasonRound;
@@ -105,7 +108,8 @@ if (Statfunction == 1)
                                 lastSeasonPlayed.Add(seasonPlayer, seasonNumber);
                                 lastDatePlayed.Add(seasonPlayer, seasonDate);
                             }
-                        } else
+                        }
+                        else
                         {
                             lastSeasonPlayed.Add(seasonPlayer, seasonNumber);
                             lastDatePlayed.Add(seasonPlayer, seasonDate);
@@ -115,7 +119,7 @@ if (Statfunction == 1)
 
                     foreach (int gap in _roundPlayer.Keys)
                     {
-                        roundsGap.AddRoundGap(_roundPlayer[gap], gap, roundCompare, _roundStartSeason[gap], _roundEndSeason[gap], _roundGapDate[gap]);
+                        roundsGapList.Add(new RoundsGaps(_roundPlayer[gap], gap, roundCompare, _roundStartSeason[gap], _roundEndSeason[gap], _roundGapDate[gap]));
                     }
                 }
             }
@@ -123,30 +127,14 @@ if (Statfunction == 1)
         }
     }
 
-    //Making Player Stats Page
-    var gapsdoc = new XLWorkbook();
-    var gapssheet = gapsdoc.AddWorksheet("Round Gaps");
-    gapssheet.Column("F").Style.NumberFormat.Format = "mm/dd/yyyy";
-    gapssheet.Column("A").Width = 34;
-    gapssheet.Column("B").Width = 6;
-    gapssheet.Cell("A1").InsertData(roundsGap.Player);
-    gapssheet.Cell("B1").InsertData(roundsGap.DayGap);
-    gapssheet.Cell("C1").InsertData(roundsGap.Round);
-    gapssheet.Cell("D1").InsertData(roundsGap.StartSeason);
-    gapssheet.Cell("E1").InsertData(roundsGap.EndSeason);
-    gapssheet.Cell("F1").InsertData(roundsGap.GapDate);
-    gapssheet.Sort(2, XLSortOrder.Descending);
-
     //Saves the new docs
-    gapsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Round Gaps.xlsx");
-    Console.ForegroundColor = ConsoleColor.Green;
-    Console.WriteLine("Round Gaps are now compiled!");
+    DataExporter.SaveRoundsGaps(roundsGapList);
 }
 else if (Statfunction == 2)
 {
     String playerListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Global_Stats.xlsx";
     String roundsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Round_List.xlsx";
-    GlobalGaps globalGap = new GlobalGaps();
+    List<GlobalGaps> globalGapList = new List<GlobalGaps>();
 
     if (!File.Exists(playerListDoc))
     {
@@ -204,7 +192,20 @@ else if (Statfunction == 2)
                             int gapDays = (int)timeDiff.TotalDays;
                             if (gapDays > 1095)
                             {
-                                globalGap.AddGlobalGap(player, gapDays, lastRound, lastSeason, lastPlayed, seasonRound, seasonNumber, seasonDate);
+                                String playerCompare = player;
+                                foreach (var playerGap in globalGapList.ToList())
+                                {
+                                    if (playerGap.DayGap == gapDays &&
+                                        playerGap.StartRound == lastRound &&
+                                        playerGap.StartSeason == lastSeason &&
+                                        playerGap.EndRound == seasonRound &&
+                                        playerGap.EndSeason == seasonNumber)
+                                    {
+                                        playerCompare = playerGap.Player + ", " + player;
+                                        globalGapList.Remove(playerGap);
+                                    }
+                                }
+                                globalGapList.Add(new GlobalGaps(playerCompare, gapDays, lastRound, lastSeason, lastPlayed, seasonRound, seasonNumber, seasonDate));
                             }
                         }
                         lastRound = seasonRound;
@@ -217,52 +218,15 @@ else if (Statfunction == 2)
         }
     }
 
-    //Making Player Stats Page
-    var gapsdoc = new XLWorkbook();
-    var gapssheet = gapsdoc.AddWorksheet("Player Gaps");
-    gapssheet.Column("E").Style.NumberFormat.Format = "mm/dd/yyyy";
-    gapssheet.Column("H").Style.NumberFormat.Format = "mm/dd/yyyy";
-    gapssheet.Column("A").Width = 34;
-    gapssheet.Column("B").Width = 6;
-    gapssheet.Cell("A1").InsertData(globalGap.Player);
-    gapssheet.Cell("B1").InsertData(globalGap.DayGap);
-    gapssheet.Cell("C1").InsertData(globalGap.StartRound);
-    gapssheet.Cell("D1").InsertData(globalGap.StartSeason);
-    gapssheet.Cell("E1").InsertData(globalGap.StartDate);
-    gapssheet.Cell("F1").InsertData(globalGap.EndRound);
-    gapssheet.Cell("G1").InsertData(globalGap.EndSeason);
-    gapssheet.Cell("H1").InsertData(globalGap.EndDate);
-    gapssheet.Sort(2, XLSortOrder.Descending);
-
-    //Saves the new docs
-    gapsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Player Gaps.xlsx");
-    Console.ForegroundColor = ConsoleColor.Green;
-    Console.WriteLine("Player Gaps are now compiled!");
+    //Saves the gap doc
+    DataExporter.SaveGlobalGaps(globalGapList);
 }
 else if (Statfunction == 3)
 {
     //IGN of the player to analyze
-    String playerStats = "Chasmic";
     String roundsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Round_List.xlsx";
     String statsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Stats_Compiled.xlsx";
-
-    //Variables for final doc
-    List<String> doc_rounds = new List<String>();
-    List<String> doc_seasons = new List<String>();
-    List<DateTime> doc_dates = new List<DateTime>();
-    Dictionary<String, String> doc_teams = new Dictionary<String, String>();
-    Dictionary<String, String> doc_teamcolors = new Dictionary<String, String>();
-    Dictionary<String, String> doc_kills = new Dictionary<String, String>();
-    Dictionary<String, int> doc_killstotal = new Dictionary<String, int>();
-    Dictionary<String, String> doc_death = new Dictionary<String, String>();
-    Dictionary<String, String> doc_pve = new Dictionary<String, String>();
-    Dictionary<String, String> doc_firstdmg = new Dictionary<String, String>();
-    Dictionary<String, String> doc_ironman = new Dictionary<String, String>();
-    Dictionary<String, String> doc_firstdeath = new Dictionary<String, String>();
-    Dictionary<String, String> doc_firstblood = new Dictionary<String, String>();
-    Dictionary<String, String> doc_topkills = new Dictionary<String, String>();
-    Dictionary<String, String> doc_runnerup = new Dictionary<String, String>();
-    Dictionary<String, String> doc_win = new Dictionary<String, String>();
+    List<PlayerStats> playerStatsList = new List<PlayerStats>();
 
     if (!File.Exists(roundsListDoc))
     {
@@ -277,327 +241,318 @@ else if (Statfunction == 3)
         return;
     }
 
-    using var RoundsDocument = new XLWorkbook(roundsListDoc);
-    var RosterList = RoundsDocument.Worksheet(3);
+    using var roundsDocument = new XLWorkbook(roundsListDoc);
+    var rosterList = roundsDocument.Worksheet(3);
 
     //Makes the list of all rounds played, and sets the other variables
-    for (int round = 1; round <= RosterList.Rows().Count(); round++)
+    for (int round = 1; round <= rosterList.Rows().Count(); round++)
     {
-        IXLRange rosterRange = RosterList.Range(round, 4, round, 129);
+        IXLRange rosterRange = rosterList.Range(round, 4, round, 129);
         foreach (IXLCell cell in rosterRange.CellsUsed())
         {
             string value = cell.GetString();
 
             if (value == playerStats)
             {
-                doc_rounds.Add(RosterList.Cell(round, 1).Value.ToString());
-                doc_seasons.Add(RosterList.Cell(round, 2).Value.ToString());
-                doc_dates.Add(RosterList.Cell(round, 3).Value.GetDateTime());
-                doc_teams.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "/");
-                doc_teamcolors.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "w");
-                doc_kills.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "/");
-                doc_killstotal.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), 0);
-                doc_death.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_pve.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_firstdmg.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_ironman.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_firstdeath.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_firstblood.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_topkills.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_runnerup.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
-                doc_win.Add(RosterList.Cell(round, 1).Value.ToString() + RosterList.Cell(round, 2).Value.ToString(), "todelete");
+                String roundName = rosterList.Cell(round, 1).Value.ToString();
+                String seasonNumber = rosterList.Cell(round, 2).Value.ToString();
+                DateTime seasonDate = rosterList.Cell(round, 3).Value.GetDateTime();
+                playerStatsList.Add(new PlayerStats(roundName, seasonNumber, seasonDate));
             }
         }
     }
+    Console.WriteLine("Roster Done");
 
     //Makes the list of the teams and formats it correctly
     //Also gets team color and makes it match the format used.
-    using var StatsDocument = new XLWorkbook(statsListDoc);
-    var StatsList = StatsDocument.Worksheet(2);
-    IXLRange teamsRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    using var statsDocument = new XLWorkbook(statsListDoc);
+    var statsList = statsDocument.Worksheet(2);
+    IXLRange teamsRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
     foreach (IXLCell team in teamsRange.Cells())
     {
         if (team.Value.ToString().Contains(playerStats))
         {
+            //Gets team for the season
+            String roundName = team.CellLeft(3).Value.ToString();
+            String seasonNumber = team.CellLeft(2).Value.ToString();
             String seasonTeam = team.Value.ToString() + ",";
             seasonTeam = seasonTeam.Replace(playerStats + ",", "");
             seasonTeam = seasonTeam.Replace(",", " ");
-            doc_teams[team.CellLeft(3).Value.ToString() + team.CellLeft(2).Value.ToString()] = seasonTeam;
 
-            String seasonTeamcolor = team.CellRight().Value.ToString() + "";
-            switch (seasonTeamcolor)
+            //Gets team color for the season
+            String seasonTeamColor = team.CellRight().Value.ToString() + "";
+            seasonTeamColor = PlayerStats.GetTeamColorChar(seasonTeamColor);
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
             {
-                case "Black":
-                    seasonTeamcolor = "b";
-                    break;
-                case "Blue":
-                    seasonTeamcolor = "f";
-                    break;
-                case "Cyan":
-                    seasonTeamcolor = "c";
-                    break;
-                case "Dark Blue":
-                    seasonTeamcolor = "d";
-                    break;
-                case "Dark Gray":
-                    seasonTeamcolor = "e";
-                    break;
-                case "Dark Green":
-                    seasonTeamcolor = "g";
-                    break;
-                case "Dark Red":
-                    seasonTeamcolor = "r";
-                    break;
-                case "Light Blue":
-                    seasonTeamcolor = "a";
-                    break;
-                case "Light Gray":
-                    seasonTeamcolor = "s";
-                    break;
-                case "Light Green":
-                    seasonTeamcolor = "l";
-                    break;
-                case "Orange":
-                    seasonTeamcolor = "o";
-                    break;
-                case "Pink":
-                    seasonTeamcolor = "m";
-                    break;
-                case "Purple":
-                    seasonTeamcolor = "p";
-                    break;
-                case "Red":
-                    seasonTeamcolor = "t";
-                    break;
-                case "Yellow":
-                    seasonTeamcolor = "y";
-                    break;
-                default:
-                    seasonTeamcolor = "w";
-                    break;
+                seasonStats.Team = seasonTeam;
+                seasonStats.TeamColor = seasonTeamColor;
             }
-            doc_teamcolors[team.CellLeft(3).Value.ToString() + team.CellLeft(2).Value.ToString()] = seasonTeamcolor;
         }
     }
-    Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Teams Done");
 
     //Makes the list for all the kills and deaths of a player, formats it for the doc
-    StatsList = StatsDocument.Worksheet(1);
-    IXLRange killsRange = StatsList.Range(1, 6, StatsList.RangeUsed()!.RowCount(), 6);
-    IXLRange deathsRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(1);
+    IXLRange killsRange = statsList.Range(1, 6, statsList.RangeUsed()!.RowCount(), 6);
+    IXLRange deathsRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell playerDeath in killsRange.Cells())
+    foreach (IXLCell playerDeath in killsRange.CellsUsed())
     {
         if (playerDeath.Value.ToString() == playerStats)
         {
-            if (doc_kills[playerDeath.CellLeft(5).Value.ToString() + playerDeath.CellLeft(4).Value.ToString()] == "/")
+            String roundName = playerDeath.CellLeft(5).Value.ToString();
+            String seasonNumber = playerDeath.CellLeft(4).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
             {
-                doc_kills[playerDeath.CellLeft(5).Value.ToString() + playerDeath.CellLeft(4).Value.ToString()] = playerDeath.CellLeft(2).Value.ToString();
-            }
-            else
-            {
-                doc_kills[playerDeath.CellLeft(5).Value.ToString() + playerDeath.CellLeft(4).Value.ToString()] = doc_kills[playerDeath.CellLeft(5).Value.ToString() + playerDeath.CellLeft(4).Value.ToString()] + " " + playerDeath.CellLeft(2).Value.ToString();
+                String playerKilled = playerDeath.CellLeft(2).Value.ToString();
+                if (seasonStats.Kills == "/")
+                {
+                    seasonStats.Kills = playerKilled;
+                }
+                else
+                {
+                    seasonStats.Kills = seasonStats.Kills + " " + playerKilled;
+                }
             }
         }
     }
+    Console.WriteLine("Kills Done");
 
-    foreach (IXLCell playerDeath in deathsRange.Cells())
+    foreach (IXLCell playerDeath in deathsRange.CellsUsed())
     {
         if (playerDeath.Value.ToString() == playerStats)
         {
-            if (doc_death[playerDeath.CellLeft(3).Value.ToString() + playerDeath.CellLeft(2).Value.ToString()] == "todelete")
+            String roundName = playerDeath.CellLeft(3).Value.ToString();
+            String seasonNumber = playerDeath.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
             {
-                doc_death[playerDeath.CellLeft(3).Value.ToString() + playerDeath.CellLeft(2).Value.ToString()] = playerDeath.CellRight(2).Value.ToString();
-            }
-            else
-            {
-                doc_death[playerDeath.CellLeft(3).Value.ToString() + playerDeath.CellLeft(2).Value.ToString()] = doc_death[playerDeath.CellLeft(3).Value.ToString() + playerDeath.CellLeft(2).Value.ToString()] + " " + playerDeath.CellRight(2).Value.ToString();
+                String playerDied = playerDeath.CellRight(2).Value.ToString();
+                if (seasonStats.Death == "todelete")
+                {
+                    seasonStats.Death = playerDied;
+                }
+                else
+                {
+                    seasonStats.Death = seasonStats.Death + " " + playerDied;
+                }
             }
         }
     }
+    Console.WriteLine("Deaths Done");
 
     //Calculates the number of kills in 1 season
-    foreach (var round in doc_killstotal.Keys)
+    foreach (var round in playerStatsList.ToList())
     {
-        if (doc_kills[round] != "/")
+        if (round.Kills != "/")
         {
-            int count = doc_kills[round].Split(' ').Length;
-            doc_killstotal[round] = count;
+            int count = round.Kills.Split(' ').Length;
+            round.KillsTotal = count;
         }
     }
-    Console.WriteLine("Kills & Deaths Done");
+    Console.WriteLine("Kill Count Done");
 
     //Gets the list for first damages
-    StatsList = StatsDocument.Worksheet(3);
-    IXLRange firstdamageRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(3);
+    IXLRange firstDamageRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell player in firstdamageRange.Cells())
+    foreach (IXLCell player in firstDamageRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_firstdmg[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.FirstDamage = "x";
+            }
         }
     }
     Console.WriteLine("First Damage Done");
 
     //Gets the list for ironman
-    StatsList = StatsDocument.Worksheet(4);
-    IXLRange ironmanRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(4);
+    IXLRange ironmanRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
     foreach (IXLCell player in ironmanRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_ironman[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.Ironman = "x";
+            }
         }
     }
     Console.WriteLine("Ironman Done");
 
     //Gets the list for pve deaths
-    StatsList = StatsDocument.Worksheet(5);
-    IXLRange pveRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(5);
+    IXLRange pveRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
     foreach (IXLCell player in pveRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_pve[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.PveDeath = "x";
+            }
         }
     }
-    Console.WriteLine("PvE Done");
+    Console.WriteLine("PvE Deaths Done");
 
     //Gets the list for first deaths
-    StatsList = StatsDocument.Worksheet(6);
-    IXLRange firstdeathsRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(6);
+    IXLRange firstDeathsRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell player in firstdeathsRange.Cells())
+    foreach (IXLCell player in firstDeathsRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_firstdeath[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.FirstDeath = "x";
+            }
         }
     }
-    Console.WriteLine("First Death Done");
+    Console.WriteLine("First Deaths Done");
 
     //Gets the list for first blood
-    StatsList = StatsDocument.Worksheet(7);
-    IXLRange firstbloodRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(7);
+    IXLRange firstBloodRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell player in firstbloodRange.Cells())
+    foreach (IXLCell player in firstBloodRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_firstblood[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.FirstBlood = "x";
+            }
         }
     }
     Console.WriteLine("First Blood Done");
 
     //Gets the list for most kills
-    StatsList = StatsDocument.Worksheet(8);
-    IXLRange topfragsRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(8);
+    IXLRange topFragsRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell player in topfragsRange.Cells())
+    foreach (IXLCell player in topFragsRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_topkills[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.TopFrag = "x";
+            }
         }
     }
     Console.WriteLine("Top Frags Done");
 
     //Gets the list for runner ups
-    StatsList = StatsDocument.Worksheet(9);
-    IXLRange runnerupsRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(9);
+    IXLRange runnerUpsRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
-    foreach (IXLCell player in runnerupsRange.Cells())
+    foreach (IXLCell player in runnerUpsRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_runnerup[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.RunnerUp = "x";
+            }
         }
     }
     Console.WriteLine("Runner Ups Done");
 
     //Gets the list for wins
-    StatsList = StatsDocument.Worksheet(11);
-    IXLRange winRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(11);
+    IXLRange winRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
     foreach (IXLCell player in winRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            doc_win[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "x";
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
+            {
+                seasonStats.Win = "x";
+            }
         }
     }
     Console.WriteLine("Wins Done");
 
     //Gets the list for alives wins, if not a win (dragon rush) logs in console
-    StatsList = StatsDocument.Worksheet(10);
-    IXLRange aliveRange = StatsList.Range(1, 4, StatsList.RangeUsed()!.RowCount(), 4);
+    statsList = statsDocument.Worksheet(10);
+    IXLRange aliveRange = statsList.Range(1, 4, statsList.RangeUsed()!.RowCount(), 4);
 
     foreach (IXLCell player in aliveRange.Cells())
     {
         if (player.Value.ToString().Equals(playerStats))
         {
-            if (doc_win[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] == "x")
+            String roundName = player.CellLeft(3).Value.ToString();
+            String seasonNumber = player.CellLeft(2).Value.ToString();
+
+            var seasonStats = playerStatsList.Find(round => round.Round == roundName && round.Season == seasonNumber);
+            if (seasonStats != null)
             {
-                doc_win[player.CellLeft(3).Value.ToString() + player.CellLeft(2).Value.ToString()] = "o";
-            }
-            else
-            {
-                Console.WriteLine("Alive no win found!");
+                if (seasonStats.Win == "x")
+                {
+                    seasonStats.Win = "o";
+                }
+                else
+                {
+                    Console.WriteLine("Alive no win found!");
+                }
             }
         }
     }
     Console.WriteLine("Alives Done");
 
-    //Making Player Stats Page
-    var statsdoc = new XLWorkbook();
-    var statsheet = statsdoc.AddWorksheet("Player Stats");
-    statsheet.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    statsheet.Column("A").Width = 34;
-    statsheet.Column("B").Width = 6;
-    statsheet.Column("C").Width = 20;
-    statsheet.Cell("A1").InsertData(doc_rounds);
-    statsheet.Cell("B1").InsertData(doc_seasons);
-    statsheet.Cell("C1").InsertData(doc_dates);
-    statsheet.Cell("D1").InsertData(doc_teamcolors.Values);
-    statsheet.Cell("E1").InsertData(doc_teams.Values);
-    statsheet.Cell("F1").InsertData(doc_killstotal.Values);
-    statsheet.Cell("G1").InsertData(doc_kills.Values);
-    statsheet.Cell("H1").InsertData(doc_pve.Values);
-    statsheet.Cell("I1").InsertData(doc_death.Values);
-    statsheet.Cell("J1").InsertData(doc_firstdmg.Values);
-    statsheet.Cell("K1").InsertData(doc_ironman.Values);
-    statsheet.Cell("L1").InsertData(doc_firstdeath.Values);
-    statsheet.Cell("M1").InsertData(doc_firstblood.Values);
-    statsheet.Cell("N1").InsertData(doc_topkills.Values);
-    statsheet.Cell("O1").InsertData(doc_runnerup.Values);
-    statsheet.Cell("P1").InsertData(doc_win.Values);
-
-    //Saves the new docs
-    statsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
+    //Saves the new stat doc
+    DataExporter.SavePlayerStats(playerStatsList);
 
     //Deletes temporary filled cells
-    using (var todelete = new XLWorkbook("..\\..\\..\\Stats Sheet\\Player Stats.xlsx"))
-    {
-        var playerstatsdoc = todelete.Worksheet(1);
+    DataExporter.ClearEmptyCells();
 
-        foreach (var cell in playerstatsdoc.RangeUsed()!.Cells())
-        {
-            if (cell.Value.ToString() == "todelete")
-            {
-                cell.Clear();
-            }
-        }
-
-        todelete.SaveAs("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
-    }
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Stats are now compiled for " + playerStats + "!");
-
 }
 else if (Statfunction == 4)
 {

@@ -2,21 +2,21 @@ namespace GlobalStats
 {
     public class RoundsGaps
     {
-        public List<String> Player { get; set; } = new List<String>();
-        public List<int> DayGap { get; set; } = new List<int>();
-        public List<String> Round { get; set; } = new List<String>();
-        public List<String> StartSeason { get; set; } = new List<String>();
-        public List<String> EndSeason { get; set; } = new List<String>();
-        public List<DateTime> GapDate { get; set; } = new List<DateTime>();
+        public String Player { get; set; }
+        public int DayGap { get; set; }
+        public String Round { get; set; }
+        public String StartSeason { get; set; }
+        public String EndSeason { get; set; }
+        public DateTime GapDate { get; set; }
 
-        public void AddRoundGap(String player, int dayGap, String round, String startSeason, String endSeason, DateTime gapDate)
+        public RoundsGaps(String player, int dayGap, String round, String startSeason, String endSeason, DateTime gapDate)
         {
-            Player.Add(player);
-            DayGap.Add(dayGap);
-            Round.Add(round);
-            StartSeason.Add(startSeason);
-            EndSeason.Add(endSeason);
-            GapDate.Add(gapDate);
+            Player = player;
+            DayGap = dayGap;
+            Round = round;
+            StartSeason = startSeason;
+            EndSeason = endSeason;
+            GapDate = gapDate;
         }
     }
 }
