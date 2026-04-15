@@ -1,19 +1,11 @@
 namespace StatsAnalyzer
 {
-    public class RoundDebut
+    public class RoundDebut(String round, String season, DateTime date, String player)
     {
-        public String Round { get; set; }
-        public String Season { get; set; }
-        public DateTime Date { get; set; }
-        public String Player { get; set; }
-
-        public RoundDebut(String round, String season, DateTime date, String player)
-        {
-            Round = round;
-            Season = season;
-            Date = date;
-            Player = player;
-        }
+        public String Round { get; set; } = round;
+        public String Season { get; set; } = season;
+        public DateTime Date { get; set; } = date;
+        public String Player { get; set; } = player;
 
         public static void UpdateRoundDebut(RoundDebut roundDebut, String round, String season, DateTime date)
         {

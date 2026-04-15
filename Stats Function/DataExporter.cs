@@ -26,7 +26,7 @@ namespace StatsAnalyzer
             var gapssheet = gapsdoc.AddWorksheet("Round Gaps");
 
             gapssheet.Column("F").Style.NumberFormat.Format = "mm/dd/yyyy";
-            gapssheet.Cell(1, 1).InsertTable(roundsGap);
+            gapssheet.Cell(1, 1).InsertData(roundsGap);
 
             gapssheet.Sort(2, XLSortOrder.Descending);
             gapsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Round Gaps.xlsx");
@@ -40,7 +40,7 @@ namespace StatsAnalyzer
 
             gapssheet.Column("E").Style.NumberFormat.Format = "mm/dd/yyyy";
             gapssheet.Column("H").Style.NumberFormat.Format = "mm/dd/yyyy";
-            gapssheet.Cell(1, 1).InsertTable(globalGap);
+            gapssheet.Cell(1, 1).InsertData(globalGap);
 
             gapssheet.Sort(2, XLSortOrder.Descending);
             gapsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Global Gaps.xlsx");
@@ -54,7 +54,7 @@ namespace StatsAnalyzer
             var statsheet = statsdoc.AddWorksheet("Player Stats");
 
             statsheet.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-            statsheet.Cell(1, 1).InsertTable(playerStats);
+            statsheet.Cell(1, 1).InsertData(playerStats);
 
             statsdoc.SaveAs("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
         }

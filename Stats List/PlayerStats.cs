@@ -1,10 +1,10 @@
 namespace StatsAnalyzer
 {
-    public class PlayerStats
+    public class PlayerStats(String round, String season, DateTime date)
     {
-        public String Round { get; set; }
-        public String Season { get; set; }
-        public DateTime Date { get; set; }
+        public String Round { get; set; } = round;
+        public String Season { get; set; } = season;
+        public DateTime Date { get; set; } = date;
         public String TeamColor { get; set; } = "w";
         public String Team { get; set; } = "/";
         public int KillsTotal { get; set; } = 0;
@@ -19,67 +19,28 @@ namespace StatsAnalyzer
         public String RunnerUp { get; set; } = "todelete";
         public String Win { get; set; } = "todelete";
 
-        public PlayerStats(String round, String season, DateTime date)
-        {
-            Round = round;
-            Season = season;
-            Date = date;
-        }
-
         public static String GetTeamColorChar(String teamColor)
         {
             String teamColorChar = "";
-            switch (teamColor)
+            teamColorChar = teamColor switch
             {
-                case "Black":
-                    teamColorChar = "b";
-                    break;
-                case "Blue":
-                    teamColorChar = "f";
-                    break;
-                case "Cyan":
-                    teamColorChar = "c";
-                    break;
-                case "Dark Blue":
-                    teamColorChar = "d";
-                    break;
-                case "Dark Gray":
-                    teamColorChar = "e";
-                    break;
-                case "Dark Green":
-                    teamColorChar = "g";
-                    break;
-                case "Dark Red":
-                    teamColorChar = "r";
-                    break;
-                case "Light Blue":
-                    teamColorChar = "a";
-                    break;
-                case "Light Gray":
-                    teamColorChar = "s";
-                    break;
-                case "Light Green":
-                    teamColorChar = "l";
-                    break;
-                case "Orange":
-                    teamColorChar = "o";
-                    break;
-                case "Pink":
-                    teamColorChar = "m";
-                    break;
-                case "Purple":
-                    teamColorChar = "p";
-                    break;
-                case "Red":
-                    teamColorChar = "t";
-                    break;
-                case "Yellow":
-                    teamColorChar = "y";
-                    break;
-                default:
-                    teamColorChar = "w";
-                    break;
-            }
+                "Black" => "b",
+                "Blue" => "f",
+                "Cyan" => "c",
+                "Dark Blue" => "d",
+                "Dark Gray" => "e",
+                "Dark Green" => "g",
+                "Dark Red" => "r",
+                "Light Blue" => "a",
+                "Light Gray" => "s",
+                "Light Green" => "l",
+                "Orange" => "o",
+                "Pink" => "m",
+                "Purple" => "p",
+                "Red" => "t",
+                "Yellow" => "y",
+                _ => "w",
+            };
             return teamColorChar;
         }
     }

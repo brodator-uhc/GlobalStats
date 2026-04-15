@@ -317,7 +317,7 @@
 
 **1st - ColdBac (27):** ToucanTom (S5), dRawry (S5), Topspinpiggles (S5), 78ford (S6), lottebunny (S6), AvaCos (S7), BBR_ (S7), scriblur (S7), YellowVitt (S7), MercuryParadox (S7), tilargo (S9), Daffz (S9), Ixolock (S9), Chasmic (S11), nFang (S12), BBR_ (S12), Potsie (S12), Flouzemaker (S12), Nintendoshi (S13), frogsella (S13), WillBrisk (S13), MercuryParadox (S15), Klickacat (S15), Maxwellfifty (S15), YellowVitt (S15), Rohcket (S15), Rohcket (S17)
 
-**2nd - Bobbytheturtle (13):** Hoppy (S16b), MaxEvasion (S16b), buttergolem1 (S16b), ShootingGoats (S16b), cherryblawsom (S16b), centraleric (S16b), WackoFlipper (S16b), Havenhand (S16b), TheKevGuy (S16b), Maxwellfifty (S16b), MarcC5M (S16b), SpaceFenix (S16b), MercuryParadox (S16b)
+**2nd - Bobbytheturtle (13):** Hoppy (S28/16b), MaxEvasion (S28/16b), buttergolem1 (S28/16b), ShootingGoats (S28/16b), cherryblawsom (S28/16b), centraleric (S28/16b), WackoFlipper (S28/16b), Havenhand (S28/16b), TheKevGuy (S28/16b), Maxwellfifty (S28/16b), MarcC5M (S28/16b), SpaceFenix (S28/16b), MercuryParadox (S28/16b)
 
 **2nd - lottebunny (13):** dRawry (S6), AvaCos (S6), TheRealHagrid (S6), Maxwellfifty (S6), scriblur (S8), Kiinako_ (S9), MrCraftinator (S9), 78ford (S9), rippersteveM5 (S13), Klickacat (S14), H_L_llama (S15), DJoee (S15), MaxEvasion (S15)
 
@@ -325,15 +325,15 @@
 
 **2nd - Potsie (13):** Maxwellfifty (S5), MercuryParadox (S6), Daffz (S6), TommySuX (S6), LordLaelaps (S6), floobel (S6), frogsella (S7), 78ford (S8), Flouzemaker (S9), 78ford (S11), MercuryParadox (S13), QuilJ1 (S13), mqson (S13)
 
-**6th - MercuryParadox (12):** LordLaelaps (S5), QuilJ1 (S8), NajaOxiana (S12), Klickacat (S13), ShyGus (S14), ChainingVermin2 (S16b), pigghetti (S16b), Flouzemaker (S17), chloesad (S17), TheKevGuy (S17), centraleric (S17), MaxEvasion (S17)
+**6th - MercuryParadox (12):** LordLaelaps (S5), QuilJ1 (S8), NajaOxiana (S12), Klickacat (S13), ShyGus (S14), ChainingVermin2 (S28/16b), pigghetti (S28/16b), Flouzemaker (S17), chloesad (S17), TheKevGuy (S17), centraleric (S17), MaxEvasion (S17)
 
 **6th - tagggz (12):** Mathyy (S7), LongaVita (S7), chloesad (S9), Potsie (S9), WackoFlipper (S11), ColdBac (S11), Edviin_ (S11), DjTalica (S11), rippersteveM5 (S11), brodioh (S12), miles1baseball (S12), Flohp (S12)
 
-**8th - pigghetti (11):** OnlyCosmia (S11), 5kylord (S11), tagggz (S11), WillBrisk (S12), frogsella (S12), Chasmic (S13), tagggz (S15), MajorWoof (S16b), Kubaslov (S16b), YellowVitt (S16b), KOKeowner (S16b)
+**8th - pigghetti (11):** OnlyCosmia (S11), 5kylord (S11), tagggz (S11), WillBrisk (S12), frogsella (S12), Chasmic (S13), tagggz (S15), MajorWoof (S28/16b), Kubaslov (S28/16b), YellowVitt (S28/16b), KOKeowner (S28/16b)
 
 **8th - ShyGus (11):** 78ford (S5), BBR_ (S6), Ixolock (S7), BBR_ (S8), Daffz (S8), frogsella (S9), tagggz (S9), TheRealHagrid (S9), miles1baseball (S9), ColdBac (S9), Kiinako_ (S10)
 
-**10th - Gorgerous (10):** nFang (S14), ColdBac (S14), 5kylord (S14), 5hup (S14), Pie212_123 (S14), 78ford (S16a), Flouzemaker (S16a), CrowJRC (S16b), Chasmic (S17), ColdBac (S17)
+**10th - Gorgerous (10):** nFang (S14), ColdBac (S14), 5kylord (S14), 5hup (S14), Pie212_123 (S14), 78ford (S16a), Flouzemaker (S16a), CrowJRC (S28/16b), Chasmic (S17), ColdBac (S17)
 
 **10th - tilargo (10):** rippersteveM5 (S6), Flouzemaker (S6), 78ford (S7), tagggz (S7), vynil (S7), Stellios_Cantos (S9), Fourbitplayer (S10), frogsella (S10), Flouzemaker (S10), MBeaar (S11)
 
@@ -345,11 +345,11 @@
 
 **15th - Cryptic (7):** MrCraftinator (S2), TommySuX (S2), HoneyFromHell (S3), scotteh (S3), FDeath (S3), Kiinako_ (S3), Algebra (S3)
 
-**15th - DJoee (7):** lottebunny (S13), WackoFlipper (S13), ColdBac (S13), TheRealHagrid (S16a), Greeples (S16b), fruitlogic (S16b), Brodator (S16b)
+**15th - DJoee (7):** lottebunny (S13), WackoFlipper (S13), ColdBac (S13), TheRealHagrid (S16a), Greeples (S28/16b), fruitlogic (S28/16b), Brodator (S28/16b)
 
-**15th - MaxEvasion (7):** Potsie (S13), YellowVitt (S13), jamertxn (S16b), Gorgerous (S17), 5kylord (S17), MajorWoof (S17), ChainingVermin2 (S17)
+**15th - MaxEvasion (7):** Potsie (S13), YellowVitt (S13), jamertxn (S28/16b), Gorgerous (S17), 5kylord (S17), MajorWoof (S17), ChainingVermin2 (S17)
 
-**15th - Maxwellfifty (7):** lottebunny (S5), Kiinako_ (S5), miles1baseball (S6), ShyGus (S6), Rohcket (S16a), Exee (S16b), Nintendoshi (S16b)
+**15th - Maxwellfifty (7):** lottebunny (S5), Kiinako_ (S5), miles1baseball (S6), ShyGus (S6), Rohcket (S16a), Exee (S28/16b), Nintendoshi (S28/16b)
 
 **15th - Rohcket (7):** cherryblawsom (S11), chloesad (S12), ShyGus (S12), Maxwellfifty (S13), cherryblawsom (S13), MajorWoof (S14), Lighte (S15)
 
@@ -359,17 +359,17 @@
 
 **21st - discoczibi (6):** TheKevGuy (S11), WackoFlipper (S15), frogsella (S15), Potsie (S15), lottebunny (S15), TheRealHagrid (S15)
 
-**21st - MajorWoof (6):** Omertosa (S13), DJoee (S13), Chasmic (S16a), Maxwellfifty (S16a), WillBrisk (S16a), BSBrent (S16b)
+**21st - MajorWoof (6):** Omertosa (S13), DJoee (S13), Chasmic (S16a), Maxwellfifty (S16a), WillBrisk (S16a), BSBrent (S28/16b)
 
 **21st - OblivionTU (6):** nihontiger (S2), Huntree (S2), MrPolzerino (S3), CedGhoss (S3), Venusial (S3), Huntree (S3)
 
 **21st - QuilJ1 (6):** Mathyy (S5), oworca (S7), Chasmic (S9), MajorWoof (S9), ShyGus (S10), BBR_ (S11)
 
-**21st - WackoFlipper (6):** HoneyFromHell (S8), TheRealHagrid (S8), Rohcket (S12), ColdBac (S12), DJoee (S14), Klickacat (S16b)
+**21st - WackoFlipper (6):** HoneyFromHell (S8), TheRealHagrid (S8), Rohcket (S12), ColdBac (S12), DJoee (S14), Klickacat (S28/16b)
 
 **27th - BBR_ (5):** jamertxn (S5), tilargo (S5), lottebunny (S8), pigghetti (S12), 78ford (S15)
 
-**27th - centraleric (5):** Flouzemaker (S15), Havenhand (S15), ColdBac (S15), Chasmic (S16b), CrowJRC (S17)
+**27th - centraleric (5):** Flouzemaker (S15), Havenhand (S15), ColdBac (S15), Chasmic (S28/16b), CrowJRC (S17)
 
 **27th - cherryblawsom (5):** QuilJ1 (S11), 5hup (S12), MercuryParadox (S12), WackoFlipper (S12), centraleric (S16a)
 
@@ -381,11 +381,11 @@
 
 **33rd - automavic (4):** 78ford (S17), YellowVitt (S17), Klickacat (S17), WackoFlipper (S17)
 
-**33rd - chloesad (4):** Potsie (S7), lottebunny (S9), discoczibi (S11), Flouzemaker (S16b)
+**33rd - chloesad (4):** Potsie (S7), lottebunny (S9), discoczibi (S11), Flouzemaker (S28/16b)
 
 **33rd - DjTalica (4):** rippersteveM5 (S14), 78ford (S14), Gorgerous (S14), Cyndic (S14)
 
-**33rd - Flouzemaker (4):** tilargo (S6), 78ford (S10), BBR_ (S10), firefoxvulpix (S16b)
+**33rd - Flouzemaker (4):** tilargo (S6), 78ford (S10), BBR_ (S10), firefoxvulpix (S28/16b)
 
 **33rd - Guep (4):** Kiinako_ (S4), CedGhoss (S4), Havenhand (S4), Flouzemaker (S4)
 
@@ -395,7 +395,7 @@
 
 **33rd - oworca (4):** TommySuX (S7), MercuryParadox (S8), frogsella (S8), dRawry (S8)
 
-**33rd - YellowVitt (4):** rippersteveM5 (S7), Potsie (S8), WackoFlipper (S14), 5kylord (S16b)
+**33rd - YellowVitt (4):** rippersteveM5 (S7), Potsie (S8), WackoFlipper (S14), 5kylord (S28/16b)
 
 **42nd - 5hup (3):** LegoBeast (S12), Klickacat (S12), YellowVitt (S14)
 
@@ -421,9 +421,9 @@
 
 **42nd - rippersteveM5 (3):** QuilJ1 (S6), frogsella (S11), Rohcket (S11)
 
-**42nd - SpaceFenix (3):** DancersTalon (S16b), JaeHasNoMaidens (S16b), Gorgerous (S16b)
+**42nd - SpaceFenix (3):** DancersTalon (S28/16b), JaeHasNoMaidens (S28/16b), Gorgerous (S28/16b)
 
-**55th - Brodator (2):** Fourbitplayer (S16b), tagggz (S16b)
+**55th - Brodator (2):** Fourbitplayer (S28/16b), tagggz (S28/16b)
 
 **55th - ChainingVermin2 (2):** Potsie (S17), automavic (S17)
 
@@ -437,7 +437,7 @@
 
 **55th - mqson (2):** lottebunny (S14), TheRealHagrid (S14)
 
-**55th - Nintendoshi (2):** jommyappleseed (S13), TheRealHagrid (S16b)
+**55th - Nintendoshi (2):** jommyappleseed (S13), TheRealHagrid (S28/16b)
 
 **55th - slowpr0 (2):** Edviin_ (S2), Ruari (S2)
 
@@ -457,7 +457,7 @@
 
 **68th - Chapter_III (1):** Flouzemaker (S1)
 
-**68th - CrowJRC (1):** warriorcat (S16b)
+**68th - CrowJRC (1):** warriorcat (S28/16b)
 
 **68th - FDeath (1):** Tomathius (S1)
 
@@ -465,15 +465,15 @@
 
 **68th - HoneyFromHell (1):** _shadowapples (S2)
 
-**68th - JaeHasNoMaidens (1):** chloesad (S16b)
+**68th - JaeHasNoMaidens (1):** chloesad (S28/16b)
 
 **68th - jommyappleseed (1):** Zevulpes (S16a)
 
 **68th - jvevo (1):** cherryblawsom (S16a)
 
-**68th - KOKeowner (1):** Jahrod (S16b)
+**68th - KOKeowner (1):** Jahrod (S28/16b)
 
-**68th - MarcC5M (1):** Pehnk (S16b)
+**68th - MarcC5M (1):** Pehnk (S28/16b)
 
 **68th - NajaOxiana (1):** jommyappleseed (S12)
 
@@ -481,7 +481,7 @@
 
 **68th - scriblur (1):** MrCraftinator (S7)
 
-**68th - ShootingGoats (1):** brodioh (S16b)
+**68th - ShootingGoats (1):** brodioh (S28/16b)
 
 **68th - SummerBqsh (1):** HoneyFromHell (S9)
 
@@ -496,9 +496,9 @@
 ---
 ### PvE Deaths
 
-**Fall (6):** Potsie (S10), jommyappleseed (S14), ElGavinoSupremo (S15), jommyappleseed (S15), 78ford (S16b), pigghetti (S17)
+**Fall (6):** Potsie (S10), jommyappleseed (S14), ElGavinoSupremo (S15), jommyappleseed (S15), 78ford (S28/16b), pigghetti (S17)
 
-**Creeper (5):** LordLaelaps (S7), MBeaar (S9), MajorWoof (S12), H_L_llama (S14), ToucanTom (S16b)
+**Creeper (5):** LordLaelaps (S7), MBeaar (S9), MajorWoof (S12), H_L_llama (S14), ToucanTom (S28/16b)
 
 **Skeleton (4):** Edviin_ (S4), _shadowapples (S4), nihontiger (S4), Edviin_ (S12)
 
@@ -506,19 +506,19 @@
 
 **Burning (3):** TheRealHagrid (S5), ToucanTom (S13), Flohp (S16a)
 
-**Ghost (3):** lottebunny (S16b), Micale (S16b), starlxghtmoon (S16b)
+**Ghost (3):** lottebunny (S28/16b), Micale (S28/16b), starlxghtmoon (S28/16b)
 
-**Drowned (2):** Potsie (S16b), Hacn35 (S16b)
+**Drowned (2):** Potsie (S28/16b), Hacn35 (S28/16b)
 
 **Enderman (2):** TommySuX (S4), Nintendoshi (S14)
 
-**Disqualified (1):** DJoee (S16b)
+**Disqualified (1):** DJoee (S28/16b)
 
 **Explosion (1):** cherryblawsom (S14)
 
-**Iron Golem (1):** wibbol (S16b)
+**Iron Golem (1):** wibbol (S28/16b)
 
-**Suffocation (1):** kirbey (S16b)
+**Suffocation (1):** kirbey (S28/16b)
 
 ---
 ### Participation

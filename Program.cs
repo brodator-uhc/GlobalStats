@@ -2,6 +2,7 @@
 using System.Runtime.InteropServices;
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Drawing;
+using DocumentFormat.OpenXml.Office2010.PowerPoint;
 using DocumentFormat.OpenXml.Spreadsheet;
 using StatsAnalyzer;
 
@@ -9,7 +10,7 @@ using StatsAnalyzer;
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 3;
+int Statfunction = 4;
 // Player to analyze for the stats sheet
 String playerStats = "Chasmic";
 // Select the stat doc for global stats
@@ -632,35 +633,17 @@ else if (Statfunction == 4)
     //Variables for the global stats
     List<GlobalStats> globalStatsList = new List<GlobalStats>();
     //Variables for the kill records
-    Dictionary<String, int> kr_killrecord = new Dictionary<String, int>();
-    Dictionary<String, String> kr_round = new Dictionary<String, String>();
-    Dictionary<String, String> kr_season = new Dictionary<String, String>();
-    Dictionary<String, DateTime> kr_date = new Dictionary<String, DateTime>();
+    List<KillRecords> killRecordsList = new List<KillRecords>();
     //Unique PvE Deaths
-    Dictionary<String, int> unique_pve_deaths = new Dictionary<String, int>();
-    //Variables for the reddit posts
-    List<String> rp_winners = new List<String>();
-    List<String> rp_runnerups = new List<String>();
-    List<String> rp_mostkills = new List<String>();
-    List<String> rp_mostkillsteam = new List<String>();
-    List<String> rp_firstdamage = new List<String>();
-    List<String> rp_ironman = new List<String>();
-    List<String> rp_firstblood = new List<String>();
-    List<String> rp_firstdeath = new List<String>();
-    Dictionary<String, int> rp_kills = new Dictionary<String, int>();
-    Dictionary<String, String> rp_kills_list = new Dictionary<String, String>();
-    Dictionary<String, int> rp_pvedeaths = new Dictionary<String, int>();
-    Dictionary<String, String> rp_pvedeaths_list = new Dictionary<String, String>();
-    Dictionary<String, int> rp_seasonsplayed = new Dictionary<String, int>();
-    Dictionary<String, String> rp_lastseasonplayed = new Dictionary<String, String>();
-    Dictionary<String, String> rp_stringseasonplayed = new Dictionary<String, String>();
-    List<String> rp_debutants = new List<String>();
+    List<PveCausesList> pveCausesList = new List<PveCausesList>();
+    List<GamemodesList> gamemodesList = new List<GamemodesList>();
 
     //Goes through every stats tabs on the doc
     using var globalDocument = new XLWorkbook(filePath);
     for (int sheet = skipSheet; sheet <= globalDocument.Worksheets.Count; sheet++)
     {
         List<String> roundRoster = new List<String>();
+        RedditPosts redditPosts = new RedditPosts();
         //Collecting the Name, the total amount of seasons & the date of S1 for the round
         var roundPage = globalDocument.Worksheet(sheet);
         String round_name = roundPage.Name;
@@ -787,6 +770,20 @@ else if (Statfunction == 4)
                 }
             }
 
+            String gamemode = roundPage.Cell(4, firstDataColumn).GetString();
+            String[] gamemodeSplit = gamemode.Split(',');
+            foreach (String scenario in gamemodeSplit)
+            {
+                if (gamemodesList.Any(gm => gm.Gamemode == scenario))
+                {
+                    GamemodesList.UpdateGamemodes(gamemodesList, scenario);
+                }
+                else
+                {
+                    gamemodesList.Add(new GamemodesList(scenario, 1));
+                }
+            }
+
             //Get the teams for the season
             //Skips FFA seasons since no teams
             teamSize = teamRange.RowsUsed().Count();
@@ -869,12 +866,12 @@ else if (Statfunction == 4)
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            var roundDebutList = roundDebutsListNR.Find(round => round.Player == value);
-                            if (roundDebutList != null)
+                            var roundDebutListNR = roundDebutsListNR.Find(round => round.Player == value);
+                            if (roundDebutListNR != null)
                             {
-                                if (season_date < roundDebutList.Date)
+                                if (season_date < roundDebutListNR.Date)
                                 {
-                                    RoundDebut.UpdateRoundDebut(roundDebutList, round_name, season_number, season_date);
+                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, round_name, season_number, season_date);
                                 }
                             }
                         }
@@ -883,7 +880,7 @@ else if (Statfunction == 4)
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            roundDebutsList.Add(new RoundDebut(round_name, season_number, season_date, value));
+                            roundDebutsListNR.Add(new RoundDebut(round_name, season_number, season_date, value));
                         }
                     }
                 }
@@ -946,49 +943,26 @@ else if (Statfunction == 4)
             if (season_debutant.Length > 0)
             {
                 season_debutant = season_debutant.Remove(season_debutant.Length - 2);
-                rp_debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + (season_debutant.Count(c => c == ',') + 1) + "):** " + season_debutant + Environment.NewLine);
+                redditPosts.Debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + (season_debutant.Count(c => c == ',') + 1) + "):** " + season_debutant + Environment.NewLine);
             }
             else
             {
-                rp_debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
+                redditPosts.Debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
             }
 
             foreach (String player in seasonRoster)
             {
-                if (rp_seasonsplayed.ContainsKey(player))
+                String lastPlayed = roundPage.Cell(1, firstDataColumn).GetString();
+                String lastSeason = "";
+                if (firstDataColumn > 2)
                 {
-                    rp_seasonsplayed[player] += 1;
+                    lastSeason = roundPage.Cell(1, firstDataColumn).CellLeft(3).GetString();
                 }
                 else
                 {
-                    rp_seasonsplayed.Add(player, 1);
-                    rp_lastseasonplayed.Add(player, roundPage.Cell(1, firstDataColumn).GetString());
-                    rp_stringseasonplayed.Add(player, "");
+                    lastSeason = "N/A";
                 }
-
-                if (rp_lastseasonplayed[player].Equals(roundPage.Cell(1, firstDataColumn).GetString()))
-                {
-                    rp_stringseasonplayed[player] = "(S" + roundPage.Cell(1, firstDataColumn).GetString();
-                }
-                else if (rp_lastseasonplayed[player].Equals(roundPage.Cell(1, firstDataColumn).CellLeft(3).GetString()))
-                {
-                    char char_season = rp_stringseasonplayed[player][rp_stringseasonplayed[player].Length - (roundPage.Cell(1, firstDataColumn).CellLeft(3).GetString().Length + 2)];
-                    if (char_season.Equals('-'))
-                    {
-                        rp_stringseasonplayed[player] = rp_stringseasonplayed[player].Remove(rp_stringseasonplayed[player].Length - (roundPage.Cell(1, firstDataColumn).CellLeft(3).GetString().Length + 1));
-                        rp_stringseasonplayed[player] += "S" + roundPage.Cell(1, firstDataColumn).GetString();
-                    }
-                    else
-                    {
-                        rp_stringseasonplayed[player] += "-S" + roundPage.Cell(1, firstDataColumn).GetString();
-                    }
-                    rp_lastseasonplayed[player] = roundPage.Cell(1, firstDataColumn).GetString();
-                }
-                else
-                {
-                    rp_stringseasonplayed[player] += ",S" + roundPage.Cell(1, firstDataColumn).GetString();
-                    rp_lastseasonplayed[player] = roundPage.Cell(1, firstDataColumn).GetString();
-                }
+                RedditPostsPlayed.UpdateParticipations(redditPosts, player, lastPlayed, lastSeason);
             }
 
             if (crossover_season == 0)
@@ -1063,7 +1037,7 @@ else if (Statfunction == 4)
             if (roundPage.Cell(firstDataRow, firstDataColumn).GetString().Equals(roundPage.Cell(firstDataRow + 1, lastDataColumn).GetString())
                 && roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString().Equals(roundPage.Cell(firstDataRow, lastDataColumn).GetString()))
             {
-                rp_firstdeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString() + " (Double Kill)" + Environment.NewLine);
+                redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString() + " (Double Kill)" + Environment.NewLine);
 
                 if (crossover_season == 0)
                 {
@@ -1094,7 +1068,7 @@ else if (Statfunction == 4)
                 {
                     String secondHalf = roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString();
                     GlobalStats.UpdateFirstDeaths(globalStatsList, secondHalf);
-                    rp_firstdeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
+                    redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
 
                     //Add to first death list
                     firstDeathList.Add(new StatsList(round_name, season_number, season_date, secondHalf));
@@ -1103,13 +1077,14 @@ else if (Statfunction == 4)
                 {
                     if (roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString().Equals(""))
                     {
-                        String pvedeath = getPvEDeath(roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2));
-                        rp_firstdeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + pvedeath + ")" + Environment.NewLine);
+                        String method = roundPage.Cell(firstDataRow, firstDataColumn).CellRight(1).GetString();
+                        String pvedeath = PveCausesList.GetPveCause(method);
+                        redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + pvedeath + ")" + Environment.NewLine);
 
                     }
                     else
                     {
-                        rp_firstdeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
+                        redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
                     }
                 }
             }
@@ -1146,7 +1121,7 @@ else if (Statfunction == 4)
                 {
                     ironman_time = " (" + roundPage.Cell(10, firstDataColumn).GetString() + ":" + roundPage.Cell(10, middleDataColumn).GetString() + ":" + roundPage.Cell(10, lastDataColumn).GetString() + ")";
                 }
-                rp_ironman.Add(ironman_post + ironman_time + Environment.NewLine);
+                redditPosts.Ironman.Add(ironman_post + ironman_time + Environment.NewLine);
             }
             else
             {
@@ -1174,7 +1149,7 @@ else if (Statfunction == 4)
                 {
                     ironman_time = " (" + roundPage.Cell(6, firstDataColumn).GetString() + ":" + roundPage.Cell(6, middleDataColumn).GetString() + ":" + roundPage.Cell(6, lastDataColumn).GetString() + ")";
                 }
-                rp_ironman.Add(ironman_post + ironman_time + Environment.NewLine);
+                redditPosts.Ironman.Add(ironman_post + ironman_time + Environment.NewLine);
             }
 
             //Gets first damage for the season
@@ -1210,7 +1185,7 @@ else if (Statfunction == 4)
                 {
                     fd_time = " (" + roundPage.Cell(12, firstDataColumn).GetString() + ":" + roundPage.Cell(12, middleDataColumn).GetString() + ":" + roundPage.Cell(12, lastDataColumn).GetString() + ")";
                 }
-                rp_firstdamage.Add(fd_post + fd_time + Environment.NewLine);
+                redditPosts.FirstDamage.Add(fd_post + fd_time + Environment.NewLine);
             }
             else
             {
@@ -1239,7 +1214,7 @@ else if (Statfunction == 4)
                 {
                     fd_time = " (" + roundPage.Cell(8, firstDataColumn).GetString() + ":" + roundPage.Cell(8, middleDataColumn).GetString() + ":" + roundPage.Cell(8, lastDataColumn).GetString() + ")";
                 }
-                rp_firstdamage.Add(fd_post + fd_time + Environment.NewLine);
+                redditPosts.FirstDamage.Add(fd_post + fd_time + Environment.NewLine);
             }
 
             //Loops through all the kiler cells
@@ -1262,16 +1237,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateKills(globalStatsList, killer);
                     }
 
-                    if (rp_kills.ContainsKey(killer))
-                    {
-                        rp_kills[killer] += 1;
-                        rp_kills_list[killer] = rp_kills_list[killer] + cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ";
-                    }
-                    else
-                    {
-                        rp_kills.Add(killer, 1);
-                        rp_kills_list.Add(killer, cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ");
-                    }
+                    RedditPostsKills.UpdateKills(redditPosts, killer, victim, season_number);
 
                     //Figures out the killboard of the season
                     if (killboard.ContainsKey(killer))
@@ -1290,7 +1256,7 @@ else if (Statfunction == 4)
                             && cell.CellBelow().GetString().Equals(cell.CellLeft(2).GetString()))
                         {
                             first_blood += 2;
-                            rp_firstblood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (Double Kill)" + Environment.NewLine);
+                            redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (Double Kill)" + Environment.NewLine);
 
                             if (crossover_season == 0)
                             {
@@ -1320,14 +1286,14 @@ else if (Statfunction == 4)
                             {
                                 String secondHalf = cell.CellBelow().GetString();
                                 GlobalStats.UpdateFirstBloods(globalStatsList, secondHalf);
-                                rp_firstblood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
+                                redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
 
                                 //Add to first blood list
                                 firstBloodList.Add(new StatsList(round_name, season_number, season_date, secondHalf));
                             }
                             else
                             {
-                                rp_firstblood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " (" + cell.CellLeft(2).GetString() + ")" + Environment.NewLine);
+                                redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " (" + cell.CellLeft(2).GetString() + ")" + Environment.NewLine);
                             }
                         }
                     }
@@ -1349,33 +1315,24 @@ else if (Statfunction == 4)
                         //Filters all the unique pve deaths
                         if (killer.Equals(""))
                         {
-                            String pvedeath = getPvEDeath(cell);
+                            String pvedeath = PveCausesList.GetPveCause(method);
 
                             if (crossover_season == 0)
                             {
                                 //Sets values for the kill list
                                 killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, pvedeath));
 
-                                if (unique_pve_deaths.ContainsKey(pvedeath))
+                                if (pveCausesList.Any(p => p.PveCause == pvedeath))
                                 {
-                                    unique_pve_deaths[pvedeath] += 1;
+                                    PveCausesList.UpdatePveCauses(pveCausesList, pvedeath);
                                 }
                                 else
                                 {
-                                    unique_pve_deaths.Add(pvedeath, 1);
+                                    pveCausesList.Add(new PveCausesList(pvedeath, 1));
                                 }
                             }
 
-                            if (rp_pvedeaths.ContainsKey(pvedeath))
-                            {
-                                rp_pvedeaths[pvedeath] += 1;
-                                rp_pvedeaths_list[pvedeath] = rp_pvedeaths_list[pvedeath] + cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ";
-                            }
-                            else
-                            {
-                                rp_pvedeaths.Add(pvedeath, 1);
-                                rp_pvedeaths_list.Add(pvedeath, cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ");
-                            }
+                            RedditPostsPve.UpdatePve(redditPosts, pvedeath, victim, season_number);
                         }
                         else
                         {
@@ -1384,26 +1341,17 @@ else if (Statfunction == 4)
                                 //Sets values for the kill list
                                 killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, killer));
 
-                                if (unique_pve_deaths.ContainsKey(killer))
+                                if (pveCausesList.Any(p => p.PveCause == killer))
                                 {
-                                    unique_pve_deaths[killer] += 1;
+                                    PveCausesList.UpdatePveCauses(pveCausesList, killer);
                                 }
                                 else
                                 {
-                                    unique_pve_deaths.Add(killer, 1);
+                                    pveCausesList.Add(new PveCausesList(killer, 1));
                                 }
                             }
 
-                            if (rp_pvedeaths.ContainsKey(killer))
-                            {
-                                rp_pvedeaths[killer] += 1;
-                                rp_pvedeaths_list[killer] = rp_pvedeaths_list[killer] + cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ";
-                            }
-                            else
-                            {
-                                rp_pvedeaths.Add(killer, 1);
-                                rp_pvedeaths_list.Add(killer, cell.CellLeft(2).GetString() + " (S" + roundPage.Cell(1, firstDataColumn).GetString() + "), ");
-                            }
+                            RedditPostsPve.UpdatePve(redditPosts, killer, victim, season_number);
                         }
 
                     }
@@ -1433,33 +1381,14 @@ else if (Statfunction == 4)
                     //Checks if the player that got kills beat their kill record
                     if (crossover_season == 0)
                     {
-                        if (kr_killrecord.ContainsKey(killer))
+                        if (killRecordsList.Any(p => p.Player == killer))
                         {
-                            if (killboard[killer] > kr_killrecord[killer])
-                            {
-                                kr_killrecord[killer] = killboard[killer];
-                                kr_round[killer] = round_name;
-                                kr_season[killer] = season_number;
-                                kr_date[killer] = season_date;
-                            }
-                            else if (killboard[killer] == kr_killrecord[killer])
-                            {
-                                //If kill records are tied picks the first one that happened
-                                if (kr_date[killer] > season_date)
-                                {
-                                    kr_round[killer] = round_name;
-                                    kr_season[killer] = season_number;
-                                    kr_date[killer] = season_date;
-                                }
-                            }
+                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], round_name, season_number, season_date);
                         }
                         else
                         {
                             //If first round with kills sets the kill record
-                            kr_killrecord.Add(killer, killboard[killer]);
-                            kr_round.Add(killer, round_name);
-                            kr_season.Add(killer, season_number);
-                            kr_date.Add(killer, season_date);
+                            killRecordsList.Add(new KillRecords(killer, killboard[killer], round_name, season_number, season_date));
                         }
                     }
                 }
@@ -1470,7 +1399,7 @@ else if (Statfunction == 4)
                     topkills = topkills + topkiller + ", ";
                 }
                 topkills = topkills.Remove(topkills.Length - 2);
-                rp_mostkills.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + topkills + " (" + topFragAmount + ")" + Environment.NewLine);
+                redditPosts.MostKills.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + topkills + " (" + topFragAmount + ")" + Environment.NewLine);
             }
 
             if (!roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
@@ -1533,11 +1462,11 @@ else if (Statfunction == 4)
                     }
                 }
                 most_team_kills = most_team_kills.Remove(most_team_kills.Length - 3);
-                rp_mostkillsteam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + most_team_kills + Environment.NewLine);
+                redditPosts.MostKillsTeam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + most_team_kills + Environment.NewLine);
             }
             else
             {
-                rp_mostkillsteam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
+                redditPosts.MostKillsTeam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
             }
 
             //Get the winners of the season
@@ -1814,7 +1743,7 @@ else if (Statfunction == 4)
             }
             winner_post = winner_post.Remove(winner_post.Length - 2);
             winner_post = winner_post + "*";
-            rp_winners.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":" + winner_post + Environment.NewLine);
+            redditPosts.Winners.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":" + winner_post + Environment.NewLine);
 
             //Get the runner ups of the season
             //If FFA it has to be the player above
@@ -2067,12 +1996,12 @@ else if (Statfunction == 4)
             }
             if (seasonTeams.Count == 1 && !seasonWinnerDead.First().Equals("Ender Dragon"))
             {
-                rp_runnerups.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
+                redditPosts.RunnerUps.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
             }
             else
             {
                 runnerup_post = runnerup_post.Remove(runnerup_post.Length - 2);
-                rp_runnerups.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + runnerup_post + Environment.NewLine);
+                redditPosts.RunnerUps.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + runnerup_post + Environment.NewLine);
             }
         }
 
@@ -2119,65 +2048,64 @@ else if (Statfunction == 4)
         File.WriteAllText(rppath, "## " + post_name + " Statistics" + Environment.NewLine);
         File.AppendAllText(rppath, Environment.NewLine + "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Winners" + Environment.NewLine + Environment.NewLine);
-        foreach (String winner in rp_winners)
+        foreach (String winner in redditPosts.Winners)
         {
             File.AppendAllText(rppath, winner + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Runner Ups" + Environment.NewLine + Environment.NewLine);
-        foreach (String runner_up in rp_runnerups)
+        foreach (String runner_up in redditPosts.RunnerUps)
         {
             File.AppendAllText(rppath, runner_up + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Most Kills" + Environment.NewLine + Environment.NewLine);
-        foreach (String topkiller in rp_mostkills)
+        foreach (String topkiller in redditPosts.MostKills)
         {
             File.AppendAllText(rppath, topkiller + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Most Kills (Team)" + Environment.NewLine + Environment.NewLine);
-        foreach (String topkillerteam in rp_mostkillsteam)
+        foreach (String topkillerteam in redditPosts.MostKillsTeam)
         {
             File.AppendAllText(rppath, topkillerteam + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### First Damage" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstdamages in rp_firstdamage)
+        foreach (String firstdamages in redditPosts.FirstDamage)
         {
             File.AppendAllText(rppath, firstdamages + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Ironman" + Environment.NewLine + Environment.NewLine);
-        foreach (String ironmans in rp_ironman)
+        foreach (String ironmans in redditPosts.Ironman)
         {
             File.AppendAllText(rppath, ironmans + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### First Blood" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstbloods in rp_firstblood)
+        foreach (String firstbloods in redditPosts.FirstBlood)
         {
             File.AppendAllText(rppath, firstbloods + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### First Death" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstdeaths in rp_firstdeath)
+        foreach (String firstdeaths in redditPosts.FirstDeath)
         {
             File.AppendAllText(rppath, firstdeaths + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Kills" + Environment.NewLine + Environment.NewLine);
-        foreach (String kills in rp_kills_list.Keys)
+        foreach (RedditPostsKills kills in redditPosts.Kills)
         {
-            rp_kills_list[kills] = rp_kills_list[kills].Remove(rp_kills_list[kills].Length - 2);
+            kills.KillsList = kills.KillsList.Remove(kills.KillsList.Length - 2);
         }
-        rp_kills = rp_kills.OrderBy(kvp => kvp.Key).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
-        rp_kills = rp_kills.OrderByDescending(key => key.Value).ToDictionary(keyValuePair => keyValuePair.Key, keyValuePair => keyValuePair.Value);
-        foreach (String kills in rp_kills.Keys)
+        redditPosts.Kills = redditPosts.Kills.OrderByDescending(x => x.KillsAmount).ThenBy(x => x.Player).ToList();
+        foreach (RedditPostsKills kills in redditPosts.Kills)
         {
             if (currentkill > 0)
             {
-                if (rp_kills[kills] == currentkill)
+                if (kills.KillsAmount == currentkill)
                 {
                     ties += 1;
                 }
@@ -2187,31 +2115,30 @@ else if (Statfunction == 4)
                     ties = 1;
                 }
             }
-            File.AppendAllText(rppath, "**" + placement[ranking] + " - " + kills + " (" + rp_kills[kills] + "):** " + rp_kills_list[kills] + Environment.NewLine + Environment.NewLine);
-            currentkill = rp_kills[kills];
+            File.AppendAllText(rppath, "**" + placement[ranking] + " - " + kills.Player + " (" + kills.KillsAmount + "):** " + kills.KillsList + Environment.NewLine + Environment.NewLine);
+            currentkill = kills.KillsAmount;
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### PvE Deaths" + Environment.NewLine + Environment.NewLine);
-        foreach (String pvedeaths in rp_pvedeaths_list.Keys)
+        foreach (RedditPostsPve pveDeaths in redditPosts.PveDeaths)
         {
-            rp_pvedeaths_list[pvedeaths] = rp_pvedeaths_list[pvedeaths].Remove(rp_pvedeaths_list[pvedeaths].Length - 2);
+            pveDeaths.DeathsList = pveDeaths.DeathsList.Remove(pveDeaths.DeathsList.Length - 2);
         }
-        rp_pvedeaths = rp_pvedeaths.OrderBy(kvp => kvp.Key).ToDictionary(kvp => kvp.Key, kvp => kvp.Value);
-        rp_pvedeaths = rp_pvedeaths.OrderByDescending(key => key.Value).ToDictionary(keyValuePair => keyValuePair.Key, keyValuePair => keyValuePair.Value);
-        foreach (String pvedeaths in rp_pvedeaths.Keys)
+        redditPosts.PveDeaths = redditPosts.PveDeaths.OrderByDescending(x => x.DeathsAmount).ThenBy(x => x.PveCause).ToList();
+        foreach (RedditPostsPve pveDeaths in redditPosts.PveDeaths)
         {
-            File.AppendAllText(rppath, "**" + pvedeaths + " (" + rp_pvedeaths[pvedeaths] + "):** " + rp_pvedeaths_list[pvedeaths] + Environment.NewLine + Environment.NewLine);
+            File.AppendAllText(rppath, "**" + pveDeaths.PveCause + " (" + pveDeaths.DeathsAmount + "):** " + pveDeaths.DeathsList + Environment.NewLine + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine + Environment.NewLine);
         for (int seasons = (roundPage.Columns().Count() - 1) / 3; seasons > 0; seasons--)
         {
             String season_part = "";
-            foreach (String player in rp_seasonsplayed.Keys)
+            foreach (RedditPostsPlayed player in redditPosts.Participations)
             {
-                if (rp_seasonsplayed[player] == seasons)
+                if (player.TotalPlayed == seasons)
                 {
-                    season_part += player + " " + rp_stringseasonplayed[player] + ")" + ", ";
+                    season_part += player.Player + " " + player.SeasonsPlayed + ")" + ", ";
                 }
             }
             int count = season_part.Count(c => c == ' ') / 2;
@@ -2230,28 +2157,11 @@ else if (Statfunction == 4)
         }
         File.AppendAllText(rppath, "---");
         File.AppendAllText(rppath, Environment.NewLine + "### Debutants" + Environment.NewLine + Environment.NewLine);
-        foreach (String debutants in rp_debutants)
+        foreach (String debutants in redditPosts.Debutants)
         {
             File.AppendAllText(rppath, debutants + Environment.NewLine);
         }
         File.AppendAllText(rppath, "---");
-
-        rp_winners.Clear();
-        rp_runnerups.Clear();
-        rp_mostkills.Clear();
-        rp_mostkillsteam.Clear();
-        rp_firstdamage.Clear();
-        rp_ironman.Clear();
-        rp_firstblood.Clear();
-        rp_firstdeath.Clear();
-        rp_kills.Clear();
-        rp_kills_list.Clear();
-        rp_pvedeaths.Clear();
-        rp_pvedeaths_list.Clear();
-        rp_seasonsplayed.Clear();
-        rp_stringseasonplayed.Clear();
-        rp_lastseasonplayed.Clear();
-        rp_debutants.Clear();
     }
 
     //Updates KDR & KPR of player
@@ -2278,124 +2188,134 @@ else if (Statfunction == 4)
     //Making Round List Page
     var round_list = roundlist.AddWorksheet("Round List");
     round_list.Column("D").Style.NumberFormat.Format = "dd mmm, yyyy";
-    round_list.Cell(1, 1).InsertTable(roundList);
-    round_list.Sort(4);
+    round_list.Cell(1, 1).InsertData(roundList);
+    round_list.Sort(4, XLSortOrder.Ascending);
 
     //Making PvE List Page
     var pve_list = roundlist.AddWorksheet("PvE List");
-    pve_list.Column("A").Width = 34;
-    pve_list.Column("B").Width = 6;
-    pve_list.Cell("A1").InsertData(unique_pve_deaths.Keys);
-    pve_list.Cell("B1").InsertData(unique_pve_deaths.Values);
+    pve_list.Cell(1, 1).InsertData(pveCausesList);
+    pve_list.Sort(2, XLSortOrder.Descending);
+
+    //Making PvE List Page
+    var gm_list = roundlist.AddWorksheet("Gamemode List");
+    gm_list.Cell(1, 1).InsertData(gamemodesList);
+    gm_list.Sort(2, XLSortOrder.Descending);
 
     //Making All Rosters Page
     var allrosters = roundlist.AddWorksheet("All Rosters");
     allrosters.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allrosters.Cell(1, 1).InsertTable(rostersList);
-    allrosters.Sort(3);
+    int currentRow = 1;
+    foreach (var round in rostersList)
+    {
+        allrosters.Cell(currentRow, 1).Value = round.Round;
+        allrosters.Cell(currentRow, 2).Value = round.Season;
+        allrosters.Cell(currentRow, 3).Value = round.Date;
+        allrosters.Cell(currentRow, 4).InsertData(round.Roster, transpose: true);
+        currentRow++;
+    }
+    allrosters.Sort(3, XLSortOrder.Ascending);
 
     //Making NR All Rosters Page
     var allrosters_nr = roundlist.AddWorksheet("All Rosters (NR)");
     allrosters_nr.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allrosters_nr.Cell(1, 1).InsertTable(rostersListNR);
-    allrosters_nr.Sort(3);
+    int currentRowNR = 1;
+    foreach (var round in rostersListNR)
+    {
+        allrosters_nr.Cell(currentRowNR, 1).Value = round.Round;
+        allrosters_nr.Cell(currentRowNR, 2).Value = round.Season;
+        allrosters_nr.Cell(currentRowNR, 3).Value = round.Date;
+        allrosters_nr.Cell(currentRowNR, 4).InsertData(round.Roster, transpose: true);
+        currentRowNR++;
+    }
+    allrosters_nr.Sort(3, XLSortOrder.Ascending);
 
     //Making Kills Page
     var allkills = statscompiled.AddWorksheet("All Kills");
     allkills.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allkills.Cell(1, 1).InsertTable(killsList);
-    allkills.Sort(3);
+    allkills.Cell(1, 1).InsertData(killsList);
+    allkills.Sort(3, XLSortOrder.Ascending);
 
     //Making Teams Page
     var allteams = statscompiled.AddWorksheet("All Teams");
     allteams.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allteams.Cell(1, 1).InsertTable(teamsList);
-    allteams.Sort(3);
+    allteams.Cell(1, 1).InsertData(teamsList);
+    allteams.Sort(3, XLSortOrder.Ascending);
 
     //First Damage list
     var firstdamage = statscompiled.AddWorksheet("First Damage");
     firstdamage.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstdamage.Cell(1, 1).InsertTable(firstDamageList);
-    firstdamage.Sort(3);
+    firstdamage.Cell(1, 1).InsertData(firstDamageList);
+    firstdamage.Sort(3, XLSortOrder.Ascending);
 
     //Ironman list
     var ironman = statscompiled.AddWorksheet("Ironman");
     ironman.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    ironman.Cell(1, 1).InsertTable(ironmanList);
-    ironman.Sort(3);
+    ironman.Cell(1, 1).InsertData(ironmanList);
+    ironman.Sort(3, XLSortOrder.Ascending);
 
     //PvE Death list
     var pve_death = statscompiled.AddWorksheet("PvE Deaths");
     pve_death.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    pve_death.Cell(1, 1).InsertTable(pveDeathList);
-    pve_death.Sort(3);
+    pve_death.Cell(1, 1).InsertData(pveDeathList);
+    pve_death.Sort(3, XLSortOrder.Ascending);
 
     //First Death list
     var firstdeath = statscompiled.AddWorksheet("First Death");
     firstdeath.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstdeath.Cell(1, 1).InsertTable(firstDeathList);
-    firstdeath.Sort(3);
+    firstdeath.Cell(1, 1).InsertData(firstDeathList);
+    firstdeath.Sort(3, XLSortOrder.Ascending);
 
     //First Blood list
     var firstblood = statscompiled.AddWorksheet("First Blood");
     firstblood.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstblood.Cell(1, 1).InsertTable(firstBloodList);
-    firstblood.Sort(3);
+    firstblood.Cell(1, 1).InsertData(firstBloodList);
+    firstblood.Sort(3, XLSortOrder.Ascending);
 
     //Most Kills list
     var topfrags = statscompiled.AddWorksheet("Top Frags");
     topfrags.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    topfrags.Cell(1, 1).InsertTable(topFragList);
-    topfrags.Sort(3);
+    topfrags.Cell(1, 1).InsertData(topFragList);
+    topfrags.Sort(3, XLSortOrder.Ascending);
 
     //Runner Up list
     var runnerup = statscompiled.AddWorksheet("Runner Ups");
     runnerup.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    runnerup.Cell(1, 1).InsertTable(runnerUpList);
-    runnerup.Sort(3);
+    runnerup.Cell(1, 1).InsertData(runnerUpList);
+    runnerup.Sort(3, XLSortOrder.Ascending);
 
     //Alive list
     var alive = statscompiled.AddWorksheet("Alive");
     alive.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    alive.Cell(1, 1).InsertTable(aliveList);
-    alive.Sort(3);
+    alive.Cell(1, 1).InsertData(aliveList);
+    alive.Sort(3, XLSortOrder.Ascending);
 
     //Win list
     var win = statscompiled.AddWorksheet("Wins");
     win.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    win.Cell(1, 1).InsertTable(winList);
-    win.Sort(3);
+    win.Cell(1, 1).InsertData(winList);
+    win.Sort(3, XLSortOrder.Ascending);
 
     //RR Debuts
     var rr_debut = rrdebut.AddWorksheet("RR Debuts");
     rr_debut.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut.Cell(1, 1).InsertTable(roundDebutsList);
-    rr_debut.Sort(3);
+    rr_debut.Cell(1, 1).InsertData(roundDebutsList);
+    rr_debut.Sort(3, XLSortOrder.Ascending);
 
     //RR Debuts (No NR)
     var rr_debut_nr = rrdebut.AddWorksheet("RR Debuts (No NR)");
     rr_debut_nr.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut_nr.Cell(1, 1).InsertTable(roundDebutsListNR);
-    rr_debut_nr.Sort(3);
+    rr_debut_nr.Cell(1, 1).InsertData(roundDebutsListNR);
+    rr_debut_nr.Sort(3, XLSortOrder.Ascending);
 
     //Global Stats
     var global_stats = globalstats.AddWorksheet("Global Stats");
-    global_stats.Cell(1, 1).InsertTable(globalStatsList);
-    global_stats.Sort(1);
+    global_stats.Cell(1, 1).InsertData(globalStatsList);
+    global_stats.Sort(1, XLSortOrder.Ascending);
 
     //Kill Records
     var kill_records = globalstats.AddWorksheet("Kill Records");
-    kill_records.Column("A").Width = 20;
-    kill_records.Column("B").Width = 6;
-    kill_records.Column("C").Width = 34;
-    kill_records.Column("D").Width = 6;
-    kill_records.Column("E").Width = 20;
-    kill_records.Cell("A1").InsertData(kr_killrecord.Keys);
-    kill_records.Cell("B1").InsertData(kr_killrecord.Values);
-    kill_records.Cell("C1").InsertData(kr_round.Values);
-    kill_records.Cell("D1").InsertData(kr_season.Values);
-    kill_records.Cell("E1").InsertData(kr_date.Values);
-    kill_records.Sort(1);
+    kill_records.Cell(1, 1).InsertData(killRecordsList);
+    kill_records.Sort(1, XLSortOrder.Ascending);
 
     //Saves the new docs
     roundlist.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Round_List.xlsx");
@@ -2404,182 +2324,4 @@ else if (Statfunction == 4)
     rrdebut.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\RR_Debuts.xlsx");
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Stats are now compiled!");
-}
-
-static String getPvEDeath(IXLCell cell)
-{
-    String pvedeath = "";
-
-    if (cell.CellLeft().GetString().Contains("lava")
-    && !cell.CellLeft().GetString().Contains("discovered"))//Lava
-    {
-        pvedeath = "Lava";
-    }
-    else if (cell.CellLeft().GetString().Contains("discovered"))//Magma
-    {
-        pvedeath = "Magma";
-    }
-    else if (cell.CellLeft().GetString().Contains("ground")
-            || cell.CellLeft().GetString().Contains("doomed")
-            || cell.CellLeft().GetString().Contains("fell")
-            && !cell.CellLeft().GetString().Contains("world"))//Fall
-    {
-        pvedeath = "Fall";
-    }
-    else if (cell.CellLeft().GetString().Contains("world"))//Void
-    {
-        pvedeath = "Void";
-    }
-    else if (cell.CellLeft().GetString().Contains("drowned"))//Drowned
-    {
-        pvedeath = "Drowning";
-    }
-    else if (cell.CellLeft().GetString().Contains("suffocated"))//Suffocation
-    {
-        pvedeath = "Suffocation";
-    }
-    else if (cell.CellLeft().GetString().Contains("burnt")
-            || cell.CellLeft().GetString().Contains("burned"))//Burn
-    {
-        pvedeath = "Burning";
-    }
-    else if (cell.CellLeft().GetString().Contains("starved"))//Starved
-    {
-        pvedeath = "Starvation";
-    }
-    else if (cell.CellLeft().GetString().Contains("fallout"))//Fallout
-    {
-        pvedeath = "Fallout";
-    }
-    else if (cell.CellLeft().GetString().Contains("swords"))//Krenzinator
-    {
-        pvedeath = "Diamond Sword";
-    }
-    else if (cell.CellLeft().GetString().Contains("water"))//Water
-    {
-        pvedeath = "Water";
-    }
-    else if (cell.CellLeft().GetString().Contains("disqualified"))//Disqualified
-    {
-        pvedeath = "Disqualified";
-    }
-    else if (cell.CellLeft().GetString().Contains("bats"))//Bats
-    {
-        pvedeath = "Bats";
-    }
-    else if (cell.CellLeft().GetString().Contains("extra"))//Extra Damage
-    {
-        pvedeath = "Extra Damage";
-    }
-    else if (cell.CellLeft().GetString().Contains("diamonds"))//Blood Diamonds
-    {
-        pvedeath = "Blood Diamonds";
-    }
-    else if (cell.CellLeft().GetString().Contains("gambled"))//Gamble
-    {
-        pvedeath = "Gambling";
-    }
-    else if (cell.CellLeft().GetString().Contains("button"))//Push The Button
-    {
-        pvedeath = "Push The Button";
-    }
-    else if (cell.CellLeft().GetString().Contains("hell"))//Go To Hell
-    {
-        pvedeath = "Go To Hell";
-    }
-    else if (cell.CellLeft().GetString().Contains("comply"))//Comply
-    {
-        pvedeath = "Comply";
-    }
-    else if (cell.CellLeft().GetString().Contains("learned"))//Newton's Third Law
-    {
-        pvedeath = "Newtons Third Law";
-    }
-    else if (cell.CellLeft().GetString().Contains("infiltrator"))//Infiltrators
-    {
-        pvedeath = "Infiltrator";
-    }
-    else if (cell.CellLeft().GetString().Contains("love"))//Love
-    {
-        pvedeath = "Love";
-    }
-    else if (cell.CellLeft().GetString().Contains("Design"))//Bed
-    {
-        pvedeath = "Bed";
-    }
-    else if (cell.CellLeft().GetString().Contains("blew"))//Explosion
-    {
-        pvedeath = "Explosion";
-    }
-    else if (cell.CellLeft().GetString().Contains("sneaked"))//Sneaking
-    {
-        pvedeath = "Sneaking";
-    }
-    else if (cell.CellLeft().GetString().Contains("withered"))//Withered
-    {
-        pvedeath = "Withered";
-    }
-    else if (cell.CellLeft().GetString().Contains("timed")
-            || cell.CellLeft().GetString().Contains("disconnected")
-            || cell.CellLeft().GetString().Contains("offline"))//Timed Out
-    {
-        pvedeath = "Left";
-    }
-    else if (cell.CellLeft().GetString().Contains("stalagmite")
-            || cell.CellLeft().GetString().Contains("stalactite"))//Dripstone
-    {
-        pvedeath = "Dripstone";
-    }
-    else if (cell.CellLeft().GetString().Contains("anvil"))//Anvil
-    {
-        pvedeath = "Anvil";
-    }
-    else if (cell.CellLeft().GetString().Contains("pricked"))//Cactus
-    {
-        pvedeath = "Cactus";
-    }
-    else if (cell.CellLeft().GetString().Contains("poked"))//Berry
-    {
-        pvedeath = "Sweet Berry Bush";
-    }
-    else if (cell.CellLeft().GetString().Contains("kinetic"))//Elytra
-    {
-        pvedeath = "Elytra";
-    }
-    else if (cell.CellLeft().GetString().Contains("bang"))//Firework
-    {
-        pvedeath = "Firework";
-    }
-    else if (cell.CellLeft().GetString().Contains("died"))//Death
-    {
-        pvedeath = "Death";
-    }
-    else if (cell.CellLeft().GetString().Contains("flames"))//Fire
-    {
-        pvedeath = "Fire";
-    }
-    else if (cell.CellLeft().GetString().Contains("pummeled"))//Pummeled
-    {
-        pvedeath = "Pummeled";
-    }
-    else if (cell.CellLeft().GetString().Contains("magic"))//Magic
-    {
-        pvedeath = "Potion";
-    }
-    else if (cell.CellLeft().GetString().Contains("lightning"))//Lightning
-    {
-        pvedeath = "Lightning";
-    }
-    else if (cell.CellLeft().GetString().Contains("shot"))//Arrow
-    {
-        pvedeath = "Arrow";
-    }
-    else
-    {
-        pvedeath = "N/A";
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine("ERROR: " + cell.CellLeft().GetString() + " does not have a PvE Category!");
-    }
-
-    return pvedeath;
 }

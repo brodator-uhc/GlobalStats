@@ -1,22 +1,12 @@
 namespace StatsAnalyzer
 {
-    public class RoundsGaps
+    public class RoundsGaps(String player, int dayGap, String round, String startSeason, String endSeason, DateTime gapDate)
     {
-        public String Player { get; set; }
-        public int DayGap { get; set; }
-        public String Round { get; set; }
-        public String StartSeason { get; set; }
-        public String EndSeason { get; set; }
-        public DateTime GapDate { get; set; }
-
-        public RoundsGaps(String player, int dayGap, String round, String startSeason, String endSeason, DateTime gapDate)
-        {
-            Player = player;
-            DayGap = dayGap;
-            Round = round;
-            StartSeason = startSeason;
-            EndSeason = endSeason;
-            GapDate = gapDate;
-        }
+        public String Player { get; set; } = player;
+        public int DayGap { get; set; } = dayGap;
+        public String Round { get; set; } = round;
+        public String StartSeason { get; set; } = startSeason;
+        public String EndSeason { get; set; } = endSeason;
+        public DateTime GapDate { get; set; } = gapDate;
     }
 }

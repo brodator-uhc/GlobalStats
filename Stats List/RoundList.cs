@@ -1,17 +1,10 @@
 namespace StatsAnalyzer
 {
-    public class RoundList
+    public class RoundList(String round, int totalSeasons, DateTime roundDebut)
     {
-        public String Round { get; set; }
-        public int TotalSeasons { get; set; }
+        public String Round { get; set; } = round;
+        public int TotalSeasons { get; set; } = totalSeasons;
         public int RosterSize { get; set; } = 0;
-        public DateTime RoundDebut { get; set; }
-
-        public RoundList(String round, int totalSeasons, DateTime roundDebut)
-        {
-            Round = round;
-            TotalSeasons = totalSeasons;
-            RoundDebut = roundDebut;
-        }
+        public DateTime RoundDebut { get; set; } = roundDebut;
     }
 }

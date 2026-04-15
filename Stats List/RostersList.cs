@@ -1,17 +1,10 @@
 namespace StatsAnalyzer
 {
-    public class RostersList
+    public class RostersList(String round, String season, DateTime date)
     {
-        public String Round { get; set; }
-        public String Season { get; set; }
-        public DateTime Date { get; set; }
-        public List<String> Roster { get; set; } = new List<String>();
-
-        public RostersList(String round, String season, DateTime date)
-        {
-            Round = round;
-            Season = season;
-            Date = date;
-        }
+        public String Round { get; set; } = round;
+        public String Season { get; set; } = season;
+        public DateTime Date { get; set; } = date;
+        public List<String> Roster { get; set; } = [];
     }
 }

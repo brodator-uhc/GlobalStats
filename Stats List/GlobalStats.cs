@@ -1,8 +1,8 @@
 namespace StatsAnalyzer
 {
-    public class GlobalStats
+    public class GlobalStats(String player)
     {
-        public String Player { get; set; }
+        public String Player { get; set; } = player;
         public int SeasonsPlayed { get; set; } = 0;
         public int Wins { get; set; } = 0;
         public int Alives { get; set; } = 0;
@@ -18,11 +18,6 @@ namespace StatsAnalyzer
         public int TotalUniques { get; set; } = 0;
         public Double KDR { get; set; } = 0;
         public Double KPR { get; set; } = 0;
-
-        public GlobalStats(String player)
-        {
-            Player = player;
-        }
 
         public static void UpdateSeasonsPlayed(List<GlobalStats> globalStats, String player)
         {
