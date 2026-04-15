@@ -646,22 +646,22 @@ else if (Statfunction == 4)
         RedditPosts redditPosts = new RedditPosts();
         //Collecting the Name, the total amount of seasons & the date of S1 for the round
         var roundPage = globalDocument.Worksheet(sheet);
-        String round_name = roundPage.Name;
-        int round_totalseasons = (roundPage.Columns().Count() - 1) / 3;
+        String roundName = roundPage.Name;
+        int roundTotalSeasons = (roundPage.Columns().Count() - 1) / 3;
         DateTime round_debutdate = roundPage.Cell(2, 2).GetDateTime();
-        String post_name = "";
-        if (round_name.Contains("Sheet"))
+        String redditPostName = "";
+        if (roundName.Contains("Sheet"))
         {
-            round_name = "???";
-            post_name = "3 Question Marks";
+            roundName = "???";
+            redditPostName = "3 Question Marks";
         }
         else
         {
-            post_name = round_name;
+            redditPostName = roundName;
         }
-        roundList.Add(new RoundList(round_name, round_totalseasons, round_debutdate));
+        roundList.Add(new RoundList(roundName, roundTotalSeasons, round_debutdate));
         Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine("Working on " + round_name + ", " + (round_totalseasons).ToString() + " Seasons!");
+        Console.WriteLine("Working on " + roundName + ", " + roundTotalSeasons.ToString() + " Seasons!");
 
         //Goes through every season on the round sheet
         for (int season = 1; season <= (roundPage.Columns().Count() - 1); season += 3)
@@ -673,7 +673,7 @@ else if (Statfunction == 4)
             if (rangeUsed == null)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("ERROR: " + round_name + " is empty!");
+                Console.WriteLine("ERROR: " + roundName + " is empty!");
                 return;
             }
             else
@@ -715,10 +715,10 @@ else if (Statfunction == 4)
 
 
             //Sets round named to be changed for crossovers and ??? to not be called Sheet
-            round_name = roundPage.Name;
-            if (round_name.Contains("Sheet"))
+            roundName = roundPage.Name;
+            if (roundName.Contains("Sheet"))
             {
-                round_name = "???";
+                roundName = "???";
             }
             String season_number = roundPage.Cell(1, firstDataColumn).GetString();
             DateTime season_date = roundPage.Cell(2, firstDataColumn).GetDateTime();
@@ -729,31 +729,31 @@ else if (Statfunction == 4)
                 if (season_date < roundPage.Cell(2, firstDataColumn).CellLeft(3).GetDateTime())
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + round_name + " S" + season_number + " has an invalid date!");
+                    Console.WriteLine("ERROR: " + roundName + " S" + season_number + " has an invalid date!");
                 }
             }
 
             //Sets name of round to contain both names for crossovers
-            if (round_name.Equals("Phobia") && season_number.Equals("20"))
+            if (roundName.Equals("Phobia") && season_number.Equals("20"))
             {
-                round_name = "WMC x Phobia";
+                roundName = "WMC x Phobia";
                 season_number = "30/20";
             }
-            if (round_name.Equals("Scattershot") && season_number.Equals("6"))
+            if (roundName.Equals("Scattershot") && season_number.Equals("6"))
             {
-                round_name = "The Melon Blooded x Scattershot";
+                roundName = "The Melon Blooded x Scattershot";
                 season_number = "40/6";
             }
-            if (round_name.Equals("Cinema") && season_number.Equals("16b"))
+            if (roundName.Equals("Cinema") && season_number.Equals("16b"))
             {
-                round_name = "Phobia x Cinema";
+                roundName = "Phobia x Cinema";
                 season_number = "28/16b";
             }
 
             //Only count one of the crossover round towards itself only
-            if (round_name.Equals("WMC") && season_number.Equals("30") ||
-                round_name.Equals("The Melon Blooded") && season_number.Equals("40") ||
-                round_name.Equals("Phobia") && season_number.Equals("28"))
+            if (roundName.Equals("WMC") && season_number.Equals("30") ||
+                roundName.Equals("The Melon Blooded") && season_number.Equals("40") ||
+                roundName.Equals("Phobia") && season_number.Equals("28"))
             {
                 crossover_season = 1;
             }
@@ -761,12 +761,12 @@ else if (Statfunction == 4)
             if (crossover_season == 0)
             {
                 //Get seasons data for the all rosters list
-                rostersList.Add(new RostersList(round_name, season_number, season_date));
+                rostersList.Add(new RostersList(roundName, season_number, season_date));
 
                 //Get seasons data for all rounds except for the non-reddit releases
                 if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                 {
-                    rostersListNR.Add(new RostersList(round_name, season_number, season_date));
+                    rostersListNR.Add(new RostersList(roundName, season_number, season_date));
                 }
             }
 
@@ -802,7 +802,7 @@ else if (Statfunction == 4)
                     {
                         if (team.Contains(","))
                         {
-                            teamsList.Add(new TeamsList(round_name, season_number, season_date, team));
+                            teamsList.Add(new TeamsList(roundName, season_number, season_date, team));
                         }
                     }
                 }
@@ -820,7 +820,7 @@ else if (Statfunction == 4)
                         {
                             if (!teamColor.Equals(""))
                             {
-                                var roundTeamColor = teamsList.Find(round => round.Round == round_name && round.Season == season_number && round.Team == team);
+                                var roundTeamColor = teamsList.Find(round => round.Round == roundName && round.Season == season_number && round.Team == team);
                                 if (roundTeamColor != null)
                                 {
                                     roundTeamColor.TeamColor = teamColor;
@@ -849,13 +849,13 @@ else if (Statfunction == 4)
                         {
                             if (season_date < roundDebutList.Date)
                             {
-                                RoundDebut.UpdateRoundDebut(roundDebutList, round_name, season_number, season_date);
+                                RoundDebut.UpdateRoundDebut(roundDebutList, roundName, season_number, season_date);
                             }
                         }
                     }
                     else
                     {
-                        roundDebutsList.Add(new RoundDebut(round_name, season_number, season_date, value));
+                        roundDebutsList.Add(new RoundDebut(roundName, season_number, season_date, value));
 
                         //Adds new player to the Global Stats
                         globalStatsList.Add(new GlobalStats(value));
@@ -871,7 +871,7 @@ else if (Statfunction == 4)
                             {
                                 if (season_date < roundDebutListNR.Date)
                                 {
-                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, round_name, season_number, season_date);
+                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, roundName, season_number, season_date);
                                 }
                             }
                         }
@@ -880,7 +880,7 @@ else if (Statfunction == 4)
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            roundDebutsListNR.Add(new RoundDebut(round_name, season_number, season_date, value));
+                            roundDebutsListNR.Add(new RoundDebut(roundName, season_number, season_date, value));
                         }
                     }
                 }
@@ -889,7 +889,7 @@ else if (Statfunction == 4)
                 if (roundPage.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals(value))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + value + " suicided! " + round_name + " " + season_number);
+                    Console.WriteLine("ERROR: " + value + " suicided! " + roundName + " " + season_number);
                 }
 
                 //If the players didn't die gets +1 alive on the global stats, else +1 death
@@ -901,7 +901,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateAlives(globalStatsList, value);
 
                         //Add to alive list
-                        aliveList.Add(new StatsList(round_name, season_number, season_date, value));
+                        aliveList.Add(new StatsList(roundName, season_number, season_date, value));
                     }
                 }
                 else
@@ -967,13 +967,13 @@ else if (Statfunction == 4)
 
             if (crossover_season == 0)
             {
-                var roundRosterList = rostersList.Find(round => round.Round == round_name && round.Season == season_number);
+                var roundRosterList = rostersList.Find(round => round.Round == roundName && round.Season == season_number);
                 if (roundRosterList != null)
                 {
                     roundRosterList.Roster = seasonRoster;
                 }
                 //Adds rosters to a list for the sheet, skips non-reddit for the alternate page
-                var roundRosterListNR = rostersListNR.Find(round => round.Round == round_name && round.Season == season_number);
+                var roundRosterListNR = rostersListNR.Find(round => round.Round == roundName && round.Season == season_number);
                 if (roundRosterListNR != null)
                 {
                     roundRosterListNR.Roster = seasonRoster;
@@ -997,13 +997,13 @@ else if (Statfunction == 4)
                     if (playercheck == 0)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + round_name + " " + season_number);
+                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + roundName + " " + season_number);
                     }
 
                     if (playercheck > 1)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + round_name + " " + season_number);
+                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + roundName + " " + season_number);
                     }
 
                     playercheck = 0;
@@ -1025,7 +1025,7 @@ else if (Statfunction == 4)
                         if (teamcheck == 0)
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + round_name + " " + season_number);
+                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + roundName + " " + season_number);
                         }
 
                         teamcheck = 0;
@@ -1047,8 +1047,8 @@ else if (Statfunction == 4)
                     GlobalStats.UpdateFirstDeaths(globalStatsList, player2);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(round_name, season_number, season_date, player1));
-                    firstDeathList.Add(new StatsList(round_name, season_number, season_date, player2));
+                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player1));
+                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player2));
                 }
             }
             else
@@ -1059,11 +1059,11 @@ else if (Statfunction == 4)
                     GlobalStats.UpdateFirstDeaths(globalStatsList, player);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(round_name, season_number, season_date, player));
+                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player));
                 }
 
                 //Double the stats for round exception
-                if (round_name.Equals("Game Changer")
+                if (roundName.Equals("Game Changer")
                     && season_number.Equals("5"))
                 {
                     String secondHalf = roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString();
@@ -1071,7 +1071,7 @@ else if (Statfunction == 4)
                     redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(round_name, season_number, season_date, secondHalf));
+                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, secondHalf));
                 }
                 else
                 {
@@ -1095,7 +1095,7 @@ else if (Statfunction == 4)
             IXLRange POOironmanRange = roundPage.Range(5, firstDataColumn, 9, lastDataColumn);
             String ironman_post = "";
             String ironman_time = "";
-            if (round_name.Equals("Party of One"))
+            if (roundName.Equals("Party of One"))
             {
                 ironman_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOironmanRange.CellsUsed())
@@ -1106,7 +1106,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
-                        ironmanList.Add(new StatsList(round_name, season_number, season_date, value));
+                        ironmanList.Add(new StatsList(roundName, season_number, season_date, value));
                     }
 
                     ironman_post = ironman_post + value + ", ";
@@ -1134,7 +1134,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
-                        ironmanList.Add(new StatsList(round_name, season_number, season_date, value));
+                        ironmanList.Add(new StatsList(roundName, season_number, season_date, value));
                     }
 
                     ironman_post = ironman_post + value + ", ";
@@ -1158,7 +1158,7 @@ else if (Statfunction == 4)
             IXLRange POOfdRange = roundPage.Range(11, firstDataColumn, 11, lastDataColumn);
             String fd_post = "";
             String fd_time = "";
-            if (round_name.Equals("Party of One"))
+            if (roundName.Equals("Party of One"))
             {
                 fd_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOfdRange.CellsUsed())
@@ -1169,7 +1169,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
-                        firstDamageList.Add(new StatsList(round_name, season_number, season_date, value));
+                        firstDamageList.Add(new StatsList(roundName, season_number, season_date, value));
                     }
 
                     fd_post = fd_post + value + ", ";
@@ -1198,7 +1198,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
-                        firstDamageList.Add(new StatsList(round_name, season_number, season_date, value));
+                        firstDamageList.Add(new StatsList(roundName, season_number, season_date, value));
                     }
 
                     fd_post = fd_post + value + ", ";
@@ -1231,7 +1231,7 @@ else if (Statfunction == 4)
                     //Sets values for the kill list
                     if (crossover_season == 0)
                     {
-                        killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, killer));
+                        killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, killer));
 
                         //Adds +1 kill on global stats
                         GlobalStats.UpdateKills(globalStatsList, killer);
@@ -1265,8 +1265,8 @@ else if (Statfunction == 4)
                                 GlobalStats.UpdateFirstBloods(globalStatsList, cell.CellBelow().GetString());
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(round_name, season_number, season_date, killer));
-                                firstBloodList.Add(new StatsList(round_name, season_number, season_date, killer2));
+                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer));
+                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer2));
                             }
                         }
                         else
@@ -1277,11 +1277,11 @@ else if (Statfunction == 4)
                                 GlobalStats.UpdateFirstBloods(globalStatsList, killer);
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(round_name, season_number, season_date, killer));
+                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer));
                             }
 
                             //Double the stats for round exception
-                            if (round_name.Equals("Game Changer")
+                            if (roundName.Equals("Game Changer")
                                 && season_number.Equals("5"))
                             {
                                 String secondHalf = cell.CellBelow().GetString();
@@ -1289,7 +1289,7 @@ else if (Statfunction == 4)
                                 redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(round_name, season_number, season_date, secondHalf));
+                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, secondHalf));
                             }
                             else
                             {
@@ -1309,7 +1309,7 @@ else if (Statfunction == 4)
                             GlobalStats.UpdatePveDeaths(globalStatsList, pveVictim);
 
                             //Add to pve list
-                            pveDeathList.Add(new StatsList(round_name, season_number, season_date, pveVictim));
+                            pveDeathList.Add(new StatsList(roundName, season_number, season_date, pveVictim));
                         }
 
                         //Filters all the unique pve deaths
@@ -1320,7 +1320,7 @@ else if (Statfunction == 4)
                             if (crossover_season == 0)
                             {
                                 //Sets values for the kill list
-                                killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, pvedeath));
+                                killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, pvedeath));
 
                                 if (pveCausesList.Any(p => p.PveCause == pvedeath))
                                 {
@@ -1339,7 +1339,7 @@ else if (Statfunction == 4)
                             if (crossover_season == 0)
                             {
                                 //Sets values for the kill list
-                                killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, killer));
+                                killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, killer));
 
                                 if (pveCausesList.Any(p => p.PveCause == killer))
                                 {
@@ -1374,7 +1374,7 @@ else if (Statfunction == 4)
                             GlobalStats.UpdateTopFrags(globalStatsList, killer);
 
                             //Add to top frag list
-                            topFragList.Add(new StatsList(round_name, season_number, season_date, killer));
+                            topFragList.Add(new StatsList(roundName, season_number, season_date, killer));
                         }
                     }
 
@@ -1383,12 +1383,12 @@ else if (Statfunction == 4)
                     {
                         if (killRecordsList.Any(p => p.Player == killer))
                         {
-                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], round_name, season_number, season_date);
+                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], roundName, season_number, season_date);
                         }
                         else
                         {
                             //If first round with kills sets the kill record
-                            killRecordsList.Add(new KillRecords(killer, killboard[killer], round_name, season_number, season_date));
+                            killRecordsList.Add(new KillRecords(killer, killboard[killer], roundName, season_number, season_date));
                         }
                     }
                 }
@@ -1527,7 +1527,7 @@ else if (Statfunction == 4)
                         GlobalStats.UpdateWins(globalStatsList, seasonWinner);
 
                         //Add to winner list
-                        winList.Add(new StatsList(round_name, season_number, season_date, seasonWinner));
+                        winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner));
                     }
                 }
                 else
@@ -1557,7 +1557,7 @@ else if (Statfunction == 4)
                                     GlobalStats.UpdateWins(globalStatsList, winner);
 
                                     //Add to winner list
-                                    winList.Add(new StatsList(round_name, season_number, season_date, winner));
+                                    winList.Add(new StatsList(roundName, season_number, season_date, winner));
                                 }
                             }
                         }
@@ -1621,8 +1621,8 @@ else if (Statfunction == 4)
                             GlobalStats.UpdateWins(globalStatsList, seasonWinner2);
 
                             //Add to winner list
-                            winList.Add(new StatsList(round_name, season_number, season_date, seasonWinner1));
-                            winList.Add(new StatsList(round_name, season_number, season_date, seasonWinner2));
+                            winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner1));
+                            winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner2));
                         }
                     }
                     else
@@ -1652,7 +1652,7 @@ else if (Statfunction == 4)
                                         GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
-                                        winList.Add(new StatsList(round_name, season_number, season_date, winner));
+                                        winList.Add(new StatsList(roundName, season_number, season_date, winner));
                                     }
                                 }
                             }
@@ -1678,7 +1678,7 @@ else if (Statfunction == 4)
                                         GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
-                                        winList.Add(new StatsList(round_name, season_number, season_date, winner));
+                                        winList.Add(new StatsList(roundName, season_number, season_date, winner));
                                     }
                                 }
                             }
@@ -1765,7 +1765,7 @@ else if (Statfunction == 4)
                                     GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell2.CellAbove().GetString());
 
                                     //Add to runner up list
-                                    runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell2.CellAbove().GetString()));
+                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell2.CellAbove().GetString()));
                                 }
                             }
                             else
@@ -1777,7 +1777,7 @@ else if (Statfunction == 4)
                                     GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove().GetString());
 
                                     //Add to runner up list
-                                    runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell.CellAbove().GetString()));
+                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove().GetString()));
                                 }
                             }
                         }
@@ -1808,7 +1808,7 @@ else if (Statfunction == 4)
                                                 GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                                 //Add to runner up list
-                                                runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
+                                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
                                             }
                                         }
                                     }
@@ -1840,7 +1840,7 @@ else if (Statfunction == 4)
                                                 GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                                 //Add to runner up list
-                                                runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
+                                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
                                             }
                                         }
                                     }
@@ -1861,8 +1861,8 @@ else if (Statfunction == 4)
                                 GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove(2).GetString());
 
                                 //Add to runner up list
-                                runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell.CellAbove().GetString()));
-                                runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell.CellAbove(2).GetString()));
+                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove().GetString()));
+                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove(2).GetString()));
                             }
                         }
                         else
@@ -1890,7 +1890,7 @@ else if (Statfunction == 4)
                                             GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                             //Add to runner up list
-                                            runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
+                                            runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
                                         }
                                     }
                                 }
@@ -1908,7 +1908,7 @@ else if (Statfunction == 4)
                                             GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                             //Add to runner up list
-                                            runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
+                                            runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
                                         }
                                     }
                                 }
@@ -1931,7 +1931,7 @@ else if (Statfunction == 4)
                             {
                                 GlobalStats.UpdateRunnerUps(globalStatsList, runnerUpPlayer.GetString());
 
-                                runnerUpList.Add(new StatsList(round_name, season_number, season_date, runnerUpPlayer.GetString()));
+                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runnerUpPlayer.GetString()));
                             }
                         }
                         runnerUpCheck = runnerUpCheck.CellAbove();
@@ -1952,7 +1952,7 @@ else if (Statfunction == 4)
                     {
                         GlobalStats.UpdateRunnerUps(globalStatsList, seasonRunnerUp);
 
-                        runnerUpList.Add(new StatsList(round_name, season_number, season_date, seasonRunnerUp));
+                        runnerUpList.Add(new StatsList(roundName, season_number, season_date, seasonRunnerUp));
                     }
                 }
                 else
@@ -1972,7 +1972,7 @@ else if (Statfunction == 4)
                                     GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                     //Add to runner up list
-                                    runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
+                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
                                 }
                             }
                         }
@@ -2005,323 +2005,23 @@ else if (Statfunction == 4)
             }
         }
 
-        var roundRosterSize = roundList.Find(round => round.Round == round_name);
-        if (roundRosterSize != null)
-        {
-            roundRosterSize.RosterSize = roundRoster.Count;
-        }
-        String rppath = "..\\..\\..\\Reddit Posts\\" + postFolder + "\\" + post_name + ".txt";
-        String[] placement = { "1st", "2nd", "3rd", "4th", "5th", "6th", "7th", "8th", "9th", "10th",
-                            "11th", "12th", "13th", "14th", "15th", "16th", "17th", "18th", "19th", "20th",
-                            "21st", "22nd", "23rd", "24th", "25th", "26th", "27th", "28th", "29th", "30th",
-                            "31st", "32nd", "33rd", "34th", "35th", "36th", "37th", "38th", "39th", "40th",
-                            "41st", "42nd", "43rd", "44th", "45th", "46th", "47th", "48th", "49th", "50th",
-                            "51st", "52nd", "53rd", "54th", "55th", "56th", "57th", "58th", "59th", "60th",
-                            "61st", "62nd", "63rd", "64th", "65th", "66th", "67th", "68th", "69th", "70th",
-                            "71st", "72nd", "73rd", "74th", "75th", "76th", "77th", "78th", "79th", "80th",
-                            "81st", "82nd", "83rd", "84th", "85th", "86th", "87th", "88th", "89th", "90th",
-                            "91st", "92nd", "93rd", "94th", "95th", "96th", "97th", "98th", "99th", "100th",
-                            "101st", "102nd", "103rd", "104th", "105th", "106th", "107th", "108th", "109th", "110th",
-                            "111th", "112th", "113th", "114th", "115th", "116th", "117th", "118th", "119th", "120th",
-                            "121st", "122nd", "123rd", "124th", "125th", "126th", "127th", "128th", "129th", "130th",
-                            "131st", "132nd", "133rd", "134th", "135th", "136th", "137th", "138th", "139th", "140th",
-                            "141st", "142nd", "143rd", "144th", "145th", "146th", "147th", "148th", "149th", "150th",
-                            "151st", "152nd", "153rd", "154th", "155th", "156th", "157th", "158th", "159th", "160th",
-                            "161st", "162nd", "163rd", "164th", "165th", "166th", "167th", "168th", "169th", "170th",
-                            "171st", "172nd", "173rd", "174th", "175th", "176th", "177th", "178th", "179th", "180th",
-                            "181st", "182nd", "183rd", "184th", "185th", "186th", "187th", "188th", "189th", "190th",
-                            "191st", "192nd", "193rd", "194th", "195th", "196th", "197th", "198th", "199th", "200th",
-                            "201st", "202nd", "203rd", "204th", "205th", "206th", "207th", "208th", "209th", "210th",
-                            "211th", "212th", "213th", "214th", "215th", "216th", "217th", "218th", "219th", "220th",
-                            "221st", "222nd", "223rd", "224th", "225th", "226th", "227th", "228th", "229th", "230th",
-                            "231st", "232nd", "233rd", "234th", "235th", "236th", "237th", "238th", "239th", "240th",
-                            "241st", "242nd", "243rd", "244th", "245th", "246th", "247th", "248th", "249th", "250th",
-                            "251st", "252nd", "253rd", "254th", "255th", "256th", "257th", "258th", "259th", "260th",
-                            "261st", "262nd", "263rd", "264th", "265th", "266th", "267th", "268th", "269th", "270th",
-                            "271st", "272nd", "273rd", "274th", "275th", "276th", "277th", "278th", "279th", "280th",
-                            "281st", "282nd", "283rd", "284th", "285th", "286th", "287th", "288th", "289th", "290th",
-                            "291st", "292nd", "293rd", "294th", "295th", "296th", "297th", "298th", "299th", "300th",};
-        int ranking = 0;
-        int ties = 1;
-        int currentkill = 0;
+        //Updates the roster size of the round
+        RoundList.UpdateRosterSize(roundList, roundName, roundRoster.Count);
 
-        File.WriteAllText(rppath, "## " + post_name + " Statistics" + Environment.NewLine);
-        File.AppendAllText(rppath, Environment.NewLine + "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Winners" + Environment.NewLine + Environment.NewLine);
-        foreach (String winner in redditPosts.Winners)
-        {
-            File.AppendAllText(rppath, winner + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Runner Ups" + Environment.NewLine + Environment.NewLine);
-        foreach (String runner_up in redditPosts.RunnerUps)
-        {
-            File.AppendAllText(rppath, runner_up + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Most Kills" + Environment.NewLine + Environment.NewLine);
-        foreach (String topkiller in redditPosts.MostKills)
-        {
-            File.AppendAllText(rppath, topkiller + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Most Kills (Team)" + Environment.NewLine + Environment.NewLine);
-        foreach (String topkillerteam in redditPosts.MostKillsTeam)
-        {
-            File.AppendAllText(rppath, topkillerteam + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### First Damage" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstdamages in redditPosts.FirstDamage)
-        {
-            File.AppendAllText(rppath, firstdamages + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Ironman" + Environment.NewLine + Environment.NewLine);
-        foreach (String ironmans in redditPosts.Ironman)
-        {
-            File.AppendAllText(rppath, ironmans + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### First Blood" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstbloods in redditPosts.FirstBlood)
-        {
-            File.AppendAllText(rppath, firstbloods + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### First Death" + Environment.NewLine + Environment.NewLine);
-        foreach (String firstdeaths in redditPosts.FirstDeath)
-        {
-            File.AppendAllText(rppath, firstdeaths + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Kills" + Environment.NewLine + Environment.NewLine);
-        foreach (RedditPostsKills kills in redditPosts.Kills)
-        {
-            kills.KillsList = kills.KillsList.Remove(kills.KillsList.Length - 2);
-        }
-        redditPosts.Kills = redditPosts.Kills.OrderByDescending(x => x.KillsAmount).ThenBy(x => x.Player).ToList();
-        foreach (RedditPostsKills kills in redditPosts.Kills)
-        {
-            if (currentkill > 0)
-            {
-                if (kills.KillsAmount == currentkill)
-                {
-                    ties += 1;
-                }
-                else
-                {
-                    ranking += ties;
-                    ties = 1;
-                }
-            }
-            File.AppendAllText(rppath, "**" + placement[ranking] + " - " + kills.Player + " (" + kills.KillsAmount + "):** " + kills.KillsList + Environment.NewLine + Environment.NewLine);
-            currentkill = kills.KillsAmount;
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### PvE Deaths" + Environment.NewLine + Environment.NewLine);
-        foreach (RedditPostsPve pveDeaths in redditPosts.PveDeaths)
-        {
-            pveDeaths.DeathsList = pveDeaths.DeathsList.Remove(pveDeaths.DeathsList.Length - 2);
-        }
-        redditPosts.PveDeaths = redditPosts.PveDeaths.OrderByDescending(x => x.DeathsAmount).ThenBy(x => x.PveCause).ToList();
-        foreach (RedditPostsPve pveDeaths in redditPosts.PveDeaths)
-        {
-            File.AppendAllText(rppath, "**" + pveDeaths.PveCause + " (" + pveDeaths.DeathsAmount + "):** " + pveDeaths.DeathsList + Environment.NewLine + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Participation" + Environment.NewLine + Environment.NewLine);
-        for (int seasons = (roundPage.Columns().Count() - 1) / 3; seasons > 0; seasons--)
-        {
-            String season_part = "";
-            foreach (RedditPostsPlayed player in redditPosts.Participations)
-            {
-                if (player.TotalPlayed == seasons)
-                {
-                    season_part += player.Player + " " + player.SeasonsPlayed + ")" + ", ";
-                }
-            }
-            int count = season_part.Count(c => c == ' ') / 2;
-            if (count > 0)
-            {
-                season_part = season_part.Remove(season_part.Length - 2);
-            }
-            if (seasons == 1)
-            {
-                File.AppendAllText(rppath, "**" + seasons.ToString() + " Season (" + count.ToString() + "):** " + season_part + Environment.NewLine + Environment.NewLine);
-            }
-            else
-            {
-                File.AppendAllText(rppath, "**" + seasons.ToString() + " Seasons (" + count.ToString() + "):** " + season_part + Environment.NewLine + Environment.NewLine);
-            }
-        }
-        File.AppendAllText(rppath, "---");
-        File.AppendAllText(rppath, Environment.NewLine + "### Debutants" + Environment.NewLine + Environment.NewLine);
-        foreach (String debutants in redditPosts.Debutants)
-        {
-            File.AppendAllText(rppath, debutants + Environment.NewLine);
-        }
-        File.AppendAllText(rppath, "---");
+        //Save Reddit Post of the round into text file (Markdown formatting).
+        RedditPostCompiler.SaveRedditPost(redditPosts, roundTotalSeasons, postFolder, redditPostName);
     }
 
     //Updates KDR & KPR of player
     //If infinite sets it to the amount of kills they have
-    foreach (GlobalStats globalStats in globalStatsList)
-    {
-        if (globalStats.Deaths.Equals(0))
-        {
-            globalStats.KDR = Convert.ToDouble(globalStats.Kills);
-        }
-        else
-        {
-            globalStats.KDR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.Deaths);
-        }
-        globalStats.KPR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.SeasonsPlayed);
-    }
+    GlobalStats.UpdateKDRs(globalStatsList);
 
     //Takes all the lists and adds them to new docs to save
-    var roundlist = new XLWorkbook();
-    var statscompiled = new XLWorkbook();
-    var rrdebut = new XLWorkbook();
-    var globalstats = new XLWorkbook();
+    DataExporter.SaveRoundList(roundList, pveCausesList, gamemodesList, rostersList, rostersListNR, postFolder);
+    DataExporter.SaveRoundDebut(roundDebutsList, roundDebutsListNR, postFolder);
+    DataExporter.SaveGlobalStats(globalStatsList, killRecordsList, postFolder);
+    DataExporter.SaveCompiledStats(killsList, teamsList, firstDamageList, ironmanList, pveDeathList, firstDeathList, firstBloodList, topFragList, runnerUpList, aliveList, winList, postFolder);
 
-    //Making Round List Page
-    var round_list = roundlist.AddWorksheet("Round List");
-    round_list.Column("D").Style.NumberFormat.Format = "dd mmm, yyyy";
-    round_list.Cell(1, 1).InsertData(roundList);
-    round_list.Sort(4, XLSortOrder.Ascending);
-
-    //Making PvE List Page
-    var pve_list = roundlist.AddWorksheet("PvE List");
-    pve_list.Cell(1, 1).InsertData(pveCausesList);
-    pve_list.Sort(2, XLSortOrder.Descending);
-
-    //Making PvE List Page
-    var gm_list = roundlist.AddWorksheet("Gamemode List");
-    gm_list.Cell(1, 1).InsertData(gamemodesList);
-    gm_list.Sort(2, XLSortOrder.Descending);
-
-    //Making All Rosters Page
-    var allrosters = roundlist.AddWorksheet("All Rosters");
-    allrosters.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    int currentRow = 1;
-    foreach (var round in rostersList)
-    {
-        allrosters.Cell(currentRow, 1).Value = round.Round;
-        allrosters.Cell(currentRow, 2).Value = round.Season;
-        allrosters.Cell(currentRow, 3).Value = round.Date;
-        allrosters.Cell(currentRow, 4).InsertData(round.Roster, transpose: true);
-        currentRow++;
-    }
-    allrosters.Sort(3, XLSortOrder.Ascending);
-
-    //Making NR All Rosters Page
-    var allrosters_nr = roundlist.AddWorksheet("All Rosters (NR)");
-    allrosters_nr.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    int currentRowNR = 1;
-    foreach (var round in rostersListNR)
-    {
-        allrosters_nr.Cell(currentRowNR, 1).Value = round.Round;
-        allrosters_nr.Cell(currentRowNR, 2).Value = round.Season;
-        allrosters_nr.Cell(currentRowNR, 3).Value = round.Date;
-        allrosters_nr.Cell(currentRowNR, 4).InsertData(round.Roster, transpose: true);
-        currentRowNR++;
-    }
-    allrosters_nr.Sort(3, XLSortOrder.Ascending);
-
-    //Making Kills Page
-    var allkills = statscompiled.AddWorksheet("All Kills");
-    allkills.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allkills.Cell(1, 1).InsertData(killsList);
-    allkills.Sort(3, XLSortOrder.Ascending);
-
-    //Making Teams Page
-    var allteams = statscompiled.AddWorksheet("All Teams");
-    allteams.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    allteams.Cell(1, 1).InsertData(teamsList);
-    allteams.Sort(3, XLSortOrder.Ascending);
-
-    //First Damage list
-    var firstdamage = statscompiled.AddWorksheet("First Damage");
-    firstdamage.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstdamage.Cell(1, 1).InsertData(firstDamageList);
-    firstdamage.Sort(3, XLSortOrder.Ascending);
-
-    //Ironman list
-    var ironman = statscompiled.AddWorksheet("Ironman");
-    ironman.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    ironman.Cell(1, 1).InsertData(ironmanList);
-    ironman.Sort(3, XLSortOrder.Ascending);
-
-    //PvE Death list
-    var pve_death = statscompiled.AddWorksheet("PvE Deaths");
-    pve_death.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    pve_death.Cell(1, 1).InsertData(pveDeathList);
-    pve_death.Sort(3, XLSortOrder.Ascending);
-
-    //First Death list
-    var firstdeath = statscompiled.AddWorksheet("First Death");
-    firstdeath.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstdeath.Cell(1, 1).InsertData(firstDeathList);
-    firstdeath.Sort(3, XLSortOrder.Ascending);
-
-    //First Blood list
-    var firstblood = statscompiled.AddWorksheet("First Blood");
-    firstblood.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    firstblood.Cell(1, 1).InsertData(firstBloodList);
-    firstblood.Sort(3, XLSortOrder.Ascending);
-
-    //Most Kills list
-    var topfrags = statscompiled.AddWorksheet("Top Frags");
-    topfrags.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    topfrags.Cell(1, 1).InsertData(topFragList);
-    topfrags.Sort(3, XLSortOrder.Ascending);
-
-    //Runner Up list
-    var runnerup = statscompiled.AddWorksheet("Runner Ups");
-    runnerup.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    runnerup.Cell(1, 1).InsertData(runnerUpList);
-    runnerup.Sort(3, XLSortOrder.Ascending);
-
-    //Alive list
-    var alive = statscompiled.AddWorksheet("Alive");
-    alive.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    alive.Cell(1, 1).InsertData(aliveList);
-    alive.Sort(3, XLSortOrder.Ascending);
-
-    //Win list
-    var win = statscompiled.AddWorksheet("Wins");
-    win.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    win.Cell(1, 1).InsertData(winList);
-    win.Sort(3, XLSortOrder.Ascending);
-
-    //RR Debuts
-    var rr_debut = rrdebut.AddWorksheet("RR Debuts");
-    rr_debut.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut.Cell(1, 1).InsertData(roundDebutsList);
-    rr_debut.Sort(3, XLSortOrder.Ascending);
-
-    //RR Debuts (No NR)
-    var rr_debut_nr = rrdebut.AddWorksheet("RR Debuts (No NR)");
-    rr_debut_nr.Column("C").Style.NumberFormat.Format = "mm/dd/yyyy";
-    rr_debut_nr.Cell(1, 1).InsertData(roundDebutsListNR);
-    rr_debut_nr.Sort(3, XLSortOrder.Ascending);
-
-    //Global Stats
-    var global_stats = globalstats.AddWorksheet("Global Stats");
-    global_stats.Cell(1, 1).InsertData(globalStatsList);
-    global_stats.Sort(1, XLSortOrder.Ascending);
-
-    //Kill Records
-    var kill_records = globalstats.AddWorksheet("Kill Records");
-    kill_records.Cell(1, 1).InsertData(killRecordsList);
-    kill_records.Sort(1, XLSortOrder.Ascending);
-
-    //Saves the new docs
-    roundlist.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Round_List.xlsx");
-    statscompiled.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Stats_Compiled.xlsx");
-    globalstats.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Global_Stats.xlsx");
-    rrdebut.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\RR_Debuts.xlsx");
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Stats are now compiled!");
 }

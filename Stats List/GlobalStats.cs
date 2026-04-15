@@ -84,5 +84,20 @@ namespace StatsAnalyzer
             var playerGlobalStats = globalStats.Find(p => p.Player == player);
             playerGlobalStats?.TotalUniques += 1;
         }
+        public static void UpdateKDRs(List<GlobalStats> globalStatsList)
+        {
+            foreach (GlobalStats globalStats in globalStatsList)
+            {
+                if (globalStats.Deaths.Equals(0))
+                {
+                    globalStats.KDR = Convert.ToDouble(globalStats.Kills);
+                }
+                else
+                {
+                    globalStats.KDR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.Deaths);
+                }
+                globalStats.KPR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.SeasonsPlayed);
+            }
+        }
     }
 }
