@@ -1,4 +1,4 @@
-namespace GlobalStats
+namespace StatsAnalyzer
 {
     public class TeamsList
     {

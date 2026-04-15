@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using ClosedXML.Excel;
 using DocumentFormat.OpenXml.Drawing;
 using DocumentFormat.OpenXml.Spreadsheet;
-using GlobalStats;
+using StatsAnalyzer;
 
 // If 1 calculates list of round gaps
 // If 2 calculates list of global gaps
@@ -630,21 +630,7 @@ else if (Statfunction == 4)
     //Variables for the round debut list without non-reddits
     List<RoundDebut> roundDebutsListNR = new List<RoundDebut>();
     //Variables for the global stats
-    Dictionary<String, int> gs_seasonsplayed = new Dictionary<String, int>();
-    Dictionary<String, int> gs_wins = new Dictionary<String, int>();
-    Dictionary<String, int> gs_alive = new Dictionary<String, int>();
-    Dictionary<String, int> gs_runnerup = new Dictionary<String, int>();
-    Dictionary<String, int> gs_kills = new Dictionary<String, int>();
-    Dictionary<String, int> gs_topfrags = new Dictionary<String, int>();
-    Dictionary<String, int> gs_pve = new Dictionary<String, int>();
-    Dictionary<String, int> gs_firstblood = new Dictionary<String, int>();
-    Dictionary<String, int> gs_firstdeath = new Dictionary<String, int>();
-    Dictionary<String, int> gs_ironman = new Dictionary<String, int>();
-    Dictionary<String, int> gs_firstdamage = new Dictionary<String, int>();
-    Dictionary<String, int> gs_deaths = new Dictionary<String, int>();
-    Dictionary<String, int> gs_totaluniques = new Dictionary<String, int>();
-    Dictionary<String, Double> gs_kdr = new Dictionary<String, Double>();
-    Dictionary<String, Double> gs_kpr = new Dictionary<String, Double>();
+    List<GlobalStats> globalStatsList = new List<GlobalStats>();
     //Variables for the kill records
     Dictionary<String, int> kr_killrecord = new Dictionary<String, int>();
     Dictionary<String, String> kr_round = new Dictionary<String, String>();
@@ -875,21 +861,7 @@ else if (Statfunction == 4)
                         roundDebutsList.Add(new RoundDebut(round_name, season_number, season_date, value));
 
                         //Adds new player to the Global Stats
-                        gs_seasonsplayed.Add(value, 0);
-                        gs_wins.Add(value, 0);
-                        gs_alive.Add(value, 0);
-                        gs_runnerup.Add(value, 0);
-                        gs_kills.Add(value, 0);
-                        gs_topfrags.Add(value, 0);
-                        gs_pve.Add(value, 0);
-                        gs_firstblood.Add(value, 0);
-                        gs_firstdeath.Add(value, 0);
-                        gs_ironman.Add(value, 0);
-                        gs_firstdamage.Add(value, 0);
-                        gs_deaths.Add(value, 0);
-                        gs_totaluniques.Add(value, 0);
-                        gs_kdr.Add(value, 0);
-                        gs_kpr.Add(value, 0);
+                        globalStatsList.Add(new GlobalStats(value));
                     }
 
                     //Checks for players debut round but also excludes non-reddit rounds
@@ -929,7 +901,7 @@ else if (Statfunction == 4)
                     seasonAlive.Add(value);
                     if (crossover_season == 0)
                     {
-                        gs_alive[value] += 1;
+                        GlobalStats.UpdateAlives(globalStatsList, value);
 
                         //Add to alive list
                         aliveList.Add(new StatsList(round_name, season_number, season_date, value));
@@ -939,7 +911,7 @@ else if (Statfunction == 4)
                 {
                     if (crossover_season == 0)
                     {
-                        gs_deaths[value] += 1;
+                        GlobalStats.UpdateDeaths(globalStatsList, value);
                     }
                 }
 
@@ -950,7 +922,7 @@ else if (Statfunction == 4)
                     seasonRoster.Add(value);
                     if (crossover_season == 0)
                     {
-                        gs_seasonsplayed[value] += 1;
+                        GlobalStats.UpdateSeasonsPlayed(globalStatsList, value);
                     }
                 }
 
@@ -960,7 +932,7 @@ else if (Statfunction == 4)
                 {
                     roundRoster.Add(value);
                     seasonDebutant.Add(value);
-                    gs_totaluniques[value] += 1;
+                    GlobalStats.UpdateTotalUniques(globalStatsList, value);
                 }
             }
             //Formats the debutants for reddit posts
@@ -1097,8 +1069,8 @@ else if (Statfunction == 4)
                 {
                     String player1 = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
                     String player2 = roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString();
-                    gs_firstdeath[roundPage.Cell(firstDataRow, firstDataColumn).GetString()] += 1;
-                    gs_firstdeath[roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString()] += 1;
+                    GlobalStats.UpdateFirstDeaths(globalStatsList, player1);
+                    GlobalStats.UpdateFirstDeaths(globalStatsList, player2);
 
                     //Add to first death list
                     firstDeathList.Add(new StatsList(round_name, season_number, season_date, player1));
@@ -1110,7 +1082,7 @@ else if (Statfunction == 4)
                 if (crossover_season == 0)
                 {
                     String player = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
-                    gs_firstdeath[roundPage.Cell(firstDataRow, firstDataColumn).GetString()] += 1;
+                    GlobalStats.UpdateFirstDeaths(globalStatsList, player);
 
                     //Add to first death list
                     firstDeathList.Add(new StatsList(round_name, season_number, season_date, player));
@@ -1121,7 +1093,7 @@ else if (Statfunction == 4)
                     && season_number.Equals("5"))
                 {
                     String secondHalf = roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString();
-                    gs_firstdeath[roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString()] += 1;
+                    GlobalStats.UpdateFirstDeaths(globalStatsList, secondHalf);
                     rp_firstdeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
 
                     //Add to first death list
@@ -1156,7 +1128,7 @@ else if (Statfunction == 4)
                     string value = cell.GetString();
                     if (crossover_season == 0)
                     {
-                        gs_ironman[value] += 1;
+                        GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
                         ironmanList.Add(new StatsList(round_name, season_number, season_date, value));
@@ -1184,7 +1156,7 @@ else if (Statfunction == 4)
                     string value = cell.GetString();
                     if (crossover_season == 0)
                     {
-                        gs_ironman[value] += 1;
+                        GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
                         ironmanList.Add(new StatsList(round_name, season_number, season_date, value));
@@ -1219,7 +1191,7 @@ else if (Statfunction == 4)
                     string value = cell.GetString();
                     if (crossover_season == 0)
                     {
-                        gs_firstdamage[value] += 1;
+                        GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
                         firstDamageList.Add(new StatsList(round_name, season_number, season_date, value));
@@ -1248,7 +1220,7 @@ else if (Statfunction == 4)
                     string value = cell.GetString();
                     if (crossover_season == 0)
                     {
-                        gs_firstdamage[value] += 1;
+                        GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
                         firstDamageList.Add(new StatsList(round_name, season_number, season_date, value));
@@ -1279,7 +1251,7 @@ else if (Statfunction == 4)
                 String method = cell.CellLeft().GetString();
 
                 //Checks if killer is PvE or Player
-                if (gs_kills.ContainsKey(killer))
+                if (globalStatsList.Any(p => p.Player == killer))
                 {
                     //Sets values for the kill list
                     if (crossover_season == 0)
@@ -1287,7 +1259,7 @@ else if (Statfunction == 4)
                         killsList.Add(new KillsList(round_name, season_number, season_date, victim, method, killer));
 
                         //Adds +1 kill on global stats
-                        gs_kills[killer] += 1;
+                        GlobalStats.UpdateKills(globalStatsList, killer);
                     }
 
                     if (rp_kills.ContainsKey(killer))
@@ -1323,8 +1295,8 @@ else if (Statfunction == 4)
                             if (crossover_season == 0)
                             {
                                 String killer2 = cell.CellBelow().GetString();
-                                gs_firstblood[killer] += 1;
-                                gs_firstblood[cell.CellBelow().GetString()] += 1;
+                                GlobalStats.UpdateFirstBloods(globalStatsList, killer);
+                                GlobalStats.UpdateFirstBloods(globalStatsList, cell.CellBelow().GetString());
 
                                 //Add to first blood list
                                 firstBloodList.Add(new StatsList(round_name, season_number, season_date, killer));
@@ -1336,7 +1308,7 @@ else if (Statfunction == 4)
                             first_blood += 1;
                             if (crossover_season == 0)
                             {
-                                gs_firstblood[killer] += 1;
+                                GlobalStats.UpdateFirstBloods(globalStatsList, killer);
 
                                 //Add to first blood list
                                 firstBloodList.Add(new StatsList(round_name, season_number, season_date, killer));
@@ -1347,7 +1319,7 @@ else if (Statfunction == 4)
                                 && season_number.Equals("5"))
                             {
                                 String secondHalf = cell.CellBelow().GetString();
-                                gs_firstblood[cell.CellBelow().GetString()] += 1;
+                                GlobalStats.UpdateFirstBloods(globalStatsList, secondHalf);
                                 rp_firstblood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
 
                                 //Add to first blood list
@@ -1367,10 +1339,10 @@ else if (Statfunction == 4)
                     {
                         if (crossover_season == 0)
                         {
-                            gs_pve[roundPage.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString()] += 1;
+                            String pveVictim = roundPage.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString();
+                            GlobalStats.UpdatePveDeaths(globalStatsList, pveVictim);
 
                             //Add to pve list
-                            String pveVictim = roundPage.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString();
                             pveDeathList.Add(new StatsList(round_name, season_number, season_date, pveVictim));
                         }
 
@@ -1451,7 +1423,7 @@ else if (Statfunction == 4)
 
                         if (crossover_season == 0)
                         {
-                            gs_topfrags[killer] += 1;
+                            GlobalStats.UpdateTopFrags(globalStatsList, killer);
 
                             //Add to top frag list
                             topFragList.Add(new StatsList(round_name, season_number, season_date, killer));
@@ -1623,7 +1595,7 @@ else if (Statfunction == 4)
 
                     if (crossover_season == 0)
                     {
-                        gs_wins[seasonWinner] += 1;
+                        GlobalStats.UpdateWins(globalStatsList, seasonWinner);
 
                         //Add to winner list
                         winList.Add(new StatsList(round_name, season_number, season_date, seasonWinner));
@@ -1653,7 +1625,7 @@ else if (Statfunction == 4)
 
                                 if (crossover_season == 0)
                                 {
-                                    gs_wins[winner] += 1;
+                                    GlobalStats.UpdateWins(globalStatsList, winner);
 
                                     //Add to winner list
                                     winList.Add(new StatsList(round_name, season_number, season_date, winner));
@@ -1716,8 +1688,8 @@ else if (Statfunction == 4)
 
                         if (crossover_season == 0)
                         {
-                            gs_wins[seasonWinner1] += 1;
-                            gs_wins[seasonWinner2] += 1;
+                            GlobalStats.UpdateWins(globalStatsList, seasonWinner1);
+                            GlobalStats.UpdateWins(globalStatsList, seasonWinner2);
 
                             //Add to winner list
                             winList.Add(new StatsList(round_name, season_number, season_date, seasonWinner1));
@@ -1748,7 +1720,7 @@ else if (Statfunction == 4)
 
                                     if (crossover_season == 0)
                                     {
-                                        gs_wins[winner] += 1;
+                                        GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
                                         winList.Add(new StatsList(round_name, season_number, season_date, winner));
@@ -1774,7 +1746,7 @@ else if (Statfunction == 4)
 
                                     if (crossover_season == 0)
                                     {
-                                        gs_wins[winner] += 1;
+                                        GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
                                         winList.Add(new StatsList(round_name, season_number, season_date, winner));
@@ -1861,7 +1833,7 @@ else if (Statfunction == 4)
 
                                 if (crossover_season == 0)
                                 {
-                                    gs_runnerup[winnerCell2.CellAbove().GetString()] += 1;
+                                    GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell2.CellAbove().GetString());
 
                                     //Add to runner up list
                                     runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell2.CellAbove().GetString()));
@@ -1873,7 +1845,7 @@ else if (Statfunction == 4)
 
                                 if (crossover_season == 0)
                                 {
-                                    gs_runnerup[winnerCell.CellAbove().GetString()] += 1;
+                                    GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove().GetString());
 
                                     //Add to runner up list
                                     runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell.CellAbove().GetString()));
@@ -1904,7 +1876,7 @@ else if (Statfunction == 4)
 
                                             if (crossover_season == 0)
                                             {
-                                                gs_runnerup[runner_up] += 1;
+                                                GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                                 //Add to runner up list
                                                 runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
@@ -1936,7 +1908,7 @@ else if (Statfunction == 4)
 
                                             if (crossover_season == 0)
                                             {
-                                                gs_runnerup[runner_up] += 1;
+                                                GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                                 //Add to runner up list
                                                 runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
@@ -1956,8 +1928,8 @@ else if (Statfunction == 4)
 
                             if (crossover_season == 0)
                             {
-                                gs_runnerup[winnerCell.CellAbove().GetString()] += 1;
-                                gs_runnerup[winnerCell.CellAbove(2).GetString()] += 1;
+                                GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove().GetString());
+                                GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove(2).GetString());
 
                                 //Add to runner up list
                                 runnerUpList.Add(new StatsList(round_name, season_number, season_date, winnerCell.CellAbove().GetString()));
@@ -1986,7 +1958,7 @@ else if (Statfunction == 4)
 
                                         if (crossover_season == 0)
                                         {
-                                            gs_runnerup[runner_up] += 1;
+                                            GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                             //Add to runner up list
                                             runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
@@ -2004,7 +1976,7 @@ else if (Statfunction == 4)
 
                                         if (crossover_season == 0)
                                         {
-                                            gs_runnerup[runner_up] += 1;
+                                            GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                             //Add to runner up list
                                             runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
@@ -2028,7 +2000,7 @@ else if (Statfunction == 4)
 
                             if (crossover_season == 0)
                             {
-                                gs_runnerup[runnerUpPlayer.GetString()] += 1;
+                                GlobalStats.UpdateRunnerUps(globalStatsList, runnerUpPlayer.GetString());
 
                                 runnerUpList.Add(new StatsList(round_name, season_number, season_date, runnerUpPlayer.GetString()));
                             }
@@ -2049,7 +2021,7 @@ else if (Statfunction == 4)
 
                     if (crossover_season == 0)
                     {
-                        gs_runnerup[seasonRunnerUp] += 1;
+                        GlobalStats.UpdateRunnerUps(globalStatsList, seasonRunnerUp);
 
                         runnerUpList.Add(new StatsList(round_name, season_number, season_date, seasonRunnerUp));
                     }
@@ -2068,7 +2040,7 @@ else if (Statfunction == 4)
 
                                 if (crossover_season == 0)
                                 {
-                                    gs_runnerup[runner_up] += 1;
+                                    GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
 
                                     //Add to runner up list
                                     runnerUpList.Add(new StatsList(round_name, season_number, season_date, runner_up));
@@ -2284,17 +2256,17 @@ else if (Statfunction == 4)
 
     //Updates KDR & KPR of player
     //If infinite sets it to the amount of kills they have
-    foreach (String player in gs_deaths.Keys)
+    foreach (GlobalStats globalStats in globalStatsList)
     {
-        if (gs_deaths[player].Equals(0))
+        if (globalStats.Deaths.Equals(0))
         {
-            gs_kdr[player] = Convert.ToDouble(gs_kills[player]);
+            globalStats.KDR = Convert.ToDouble(globalStats.Kills);
         }
         else
         {
-            gs_kdr[player] = Convert.ToDouble(gs_kills[player]) / Convert.ToDouble(gs_deaths[player]);
+            globalStats.KDR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.Deaths);
         }
-        gs_kpr[player] = Convert.ToDouble(gs_kills[player]) / Convert.ToDouble(gs_seasonsplayed[player]);
+        globalStats.KPR = Convert.ToDouble(globalStats.Kills) / Convert.ToDouble(globalStats.SeasonsPlayed);
     }
 
     //Takes all the lists and adds them to new docs to save
@@ -2408,23 +2380,7 @@ else if (Statfunction == 4)
 
     //Global Stats
     var global_stats = globalstats.AddWorksheet("Global Stats");
-    global_stats.Column("A").Width = 20;
-    global_stats.Cell("A1").InsertData(gs_seasonsplayed.Keys);
-    global_stats.Cell("B1").InsertData(gs_seasonsplayed.Values);
-    global_stats.Cell("C1").InsertData(gs_wins.Values);
-    global_stats.Cell("D1").InsertData(gs_alive.Values);
-    global_stats.Cell("E1").InsertData(gs_runnerup.Values);
-    global_stats.Cell("F1").InsertData(gs_kills.Values);
-    global_stats.Cell("G1").InsertData(gs_topfrags.Values);
-    global_stats.Cell("H1").InsertData(gs_pve.Values);
-    global_stats.Cell("I1").InsertData(gs_firstblood.Values);
-    global_stats.Cell("J1").InsertData(gs_firstdeath.Values);
-    global_stats.Cell("K1").InsertData(gs_ironman.Values);
-    global_stats.Cell("L1").InsertData(gs_firstdamage.Values);
-    global_stats.Cell("M1").InsertData(gs_deaths.Values);
-    global_stats.Cell("N1").InsertData(gs_totaluniques.Values);
-    global_stats.Cell("O1").InsertData(gs_kdr.Values);
-    global_stats.Cell("P1").InsertData(gs_kpr.Values);
+    global_stats.Cell(1, 1).InsertTable(globalStatsList);
     global_stats.Sort(1);
 
     //Kill Records

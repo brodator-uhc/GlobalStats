@@ -1,6 +1,6 @@
 using ClosedXML.Excel;
 
-namespace GlobalStats
+namespace StatsAnalyzer
 {
     public class DataExporter
     {
