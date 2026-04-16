@@ -694,8 +694,6 @@ else if (Statfunction == 4)
             Dictionary<String, int> rp_teamkills = new Dictionary<String, int>();
             Dictionary<String, int> killboard = new Dictionary<String, int>();
             WinnerInfo winnerInfo = new WinnerInfo(roundPage);
-            IXLCell lastAliveCell = roundPage.Cell(1, 1);
-            char separator = ',';
             int seasonSize = 0;
             int teamSize = 0;
             int first_blood = 0;
@@ -723,8 +721,7 @@ else if (Statfunction == 4)
                 }
 
                 //Get gamemode list
-                String gamemode = roundPage.Cell(4, firstDataColumn).GetString();
-                String[] gamemodeSplit = gamemode.Split(',');
+                String[] gamemodeSplit = seasonInfo.SeasonGamemodes.Split(',');
                 foreach (String scenario in gamemodeSplit)
                 {
                     if (gamemodesList.Any(gm => gm.Gamemode == scenario))
@@ -968,7 +965,7 @@ else if (Statfunction == 4)
                 int teamcheck = 0;
                 foreach (String team in seasonTeams)
                 {
-                    String[] teamplayers = team.Split(separator);
+                    String[] teamplayers = team.Split(',');
 
                     foreach (String teamplayer in teamplayers)
                     {
@@ -1361,7 +1358,7 @@ else if (Statfunction == 4)
             {
                 foreach (String team in seasonTeams)
                 {
-                    String[] team_player = team.Split(separator);
+                    String[] team_player = team.Split(',');
 
                     foreach (String player in team_player)
                     {
@@ -1395,7 +1392,7 @@ else if (Statfunction == 4)
                 {
                     if (rp_teamkills[team] == teamTopFragAmount)
                     {
-                        String[] team_player = team.Split(separator);
+                        String[] team_player = team.Split(',');
 
                         foreach (String player in team_player)
                         {
@@ -1427,278 +1424,9 @@ else if (Statfunction == 4)
             //Get the winners of the season
             //If Nothing is a regular season ending and gives the win to the last player on the list
             //Else is either a double kill win or no wins and is figured out to give the wins needed
-            if (roundPage.Cell(firstDataRow + (seasonSize - 1), lastDataColumn).GetString().Equals("Nothing"))
-            {
-                //Gets the last season winner
-                String seasonWinner = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
-                winnerInfo.WinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
-
-                if (roundPage.Cell(4, firstDataColumn).GetString().Contains("Dragon Rush") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Wither Rush") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Realm Rush") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Bolas Rush") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Escape From Gaia") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Trouble In Paradise") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Dragon Rush Deviation Version") ||
-                    roundPage.Cell(4, firstDataColumn).GetString().Contains("Hydra Rush"))
-                {
-                    IXLCell dragonRushCell = roundPage.Cell(firstDataRow + (seasonSize - 1), lastDataColumn);
-                    if (!dragonRushCell.CellLeft().GetString().Equals("Winner"))
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Winner is not the last line of Dragon Rush");
-                    }
-
-                    while (dragonRushCell.GetString().Equals("Nothing"))
-                    {
-                        if (!dragonRushCell.CellLeft().GetString().Equals("Winner"))
-                        {
-                            winnerInfo.IsDragonRushRunnerUp = true;
-                        }
-                        dragonRushCell = dragonRushCell.CellAbove();
-                    }
-                }
-
-                lastAliveCell = roundPage.Cell(firstDataRow + (seasonSize - 1), lastDataColumn);
-                while (lastAliveCell.CellAbove().GetString().Equals("Nothing"))
-                {
-                    lastAliveCell = lastAliveCell.CellAbove();
-                }
-
-                //If FFA no need to look for teams, else looks for the team
-                if (seasonInfo.IsFFA == true)
-                {
-                    if (seasonAlive.Contains(seasonWinner))
-                    {
-                        seasonWinnerAlive.Add(seasonWinner);
-                    }
-                    else
-                    {
-                        seasonWinnerDead.Add(seasonWinner);
-                    }
-
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateWins(globalStatsList, seasonWinner);
-
-                        //Add to winner list
-                        winList.Add(new StatsList(seasonInfo, seasonWinner));
-                    }
-                }
-                else
-                {
-                    //Figures out the full team that won the season
-                    foreach (String team in seasonTeams)
-                    {
-                        if (team.Contains(seasonWinner))
-                        {
-                            winnerInfo.WinningTeam = team;
-
-                            //Splits the team string to get each player and gives them a win
-                            String[] winners = team.Split(separator);
-                            foreach (String winner in winners)
-                            {
-                                if (seasonAlive.Contains(winner))
-                                {
-                                    seasonWinnerAlive.Add(winner);
-                                }
-                                else
-                                {
-                                    seasonWinnerDead.Add(winner);
-                                }
-
-                                if (seasonInfo.IsCrossoverSeason == false)
-                                {
-                                    GlobalStats.UpdateWins(globalStatsList, winner);
-
-                                    //Add to winner list
-                                    winList.Add(new StatsList(seasonInfo, winner));
-                                }
-                            }
-                        }
-                    }
-                }
-
-                //Detects double kill runner ups
-                if (lastAliveCell.CellAbove().GetString().Equals(lastAliveCell.CellLeft(2).CellAbove(2).GetString())
-                    && lastAliveCell.CellAbove().CellAbove().GetString().Equals(lastAliveCell.CellLeft(2).CellAbove().GetString()))
-                {
-                    if (seasonInfo.IsFFA == true)
-                    {
-                        winnerInfo.IsDoubleKillRunnerUp = true;
-                    }
-                    else
-                    {
-                        if (!winnerInfo.WinningTeam.Contains(lastAliveCell.CellAbove().GetString()) && !winnerInfo.WinningTeam.Contains(lastAliveCell.CellAbove(2).GetString()))
-                        {
-                            winnerInfo.IsDoubleKillRunnerUp = true;
-                        }
-                    }
-                }
-            }
-            else
-            {
-                //Check for a double kill ending
-                if (roundPage.Cell(firstDataRow + (seasonSize - 1), lastDataColumn).GetString().Equals(roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn).GetString())
-                    && roundPage.Cell(firstDataRow + (seasonSize - 2), lastDataColumn).GetString().Equals(roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString()))
-                {
-                    //Double kill ending so 2 winners
-                    winnerInfo.IsDoubleKillWinner = true;
-                    String seasonWinner1 = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
-                    String seasonWinner2 = roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn).GetString();
-                    winnerInfo.WinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
-                    winnerInfo.SecondWinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn);
-
-                    //If FFA no need to look for teams, else looks for the team
-                    if (seasonInfo.IsFFA == true)
-                    {
-                        if (seasonAlive.Contains(seasonWinner1))
-                        {
-                            seasonWinnerAlive.Add(seasonWinner1);
-                        }
-                        else
-                        {
-                            seasonWinnerDead.Add(seasonWinner1);
-                        }
-
-                        if (seasonAlive.Contains(seasonWinner2))
-                        {
-                            seasonWinnerAlive.Add(seasonWinner2);
-                        }
-                        else
-                        {
-                            seasonWinnerDead.Add(seasonWinner2);
-                        }
-
-                        if (seasonInfo.IsCrossoverSeason == false)
-                        {
-                            GlobalStats.UpdateWins(globalStatsList, seasonWinner1);
-                            GlobalStats.UpdateWins(globalStatsList, seasonWinner2);
-
-                            //Add to winner list
-                            winList.Add(new StatsList(seasonInfo, seasonWinner1));
-                            winList.Add(new StatsList(seasonInfo, seasonWinner2));
-                        }
-                    }
-                    else
-                    {
-                        //Figures out the full team that won the season
-                        foreach (String team in seasonTeams)
-                        {
-                            if (team.Contains(seasonWinner1))
-                            {
-                                winnerInfo.WinningTeam = team;
-
-                                //Splits the team string to get each player and gives them a win
-                                String[] winners = team.Split(separator);
-                                foreach (String winner in winners)
-                                {
-                                    if (seasonAlive.Contains(winner))
-                                    {
-                                        seasonWinnerAlive.Add(winner);
-                                    }
-                                    else
-                                    {
-                                        seasonWinnerDead.Add(winner);
-                                    }
-
-                                    if (seasonInfo.IsCrossoverSeason == false)
-                                    {
-                                        GlobalStats.UpdateWins(globalStatsList, winner);
-
-                                        //Add to winner list
-                                        winList.Add(new StatsList(seasonInfo, winner));
-                                    }
-                                }
-                            }
-                            if (team.Contains(seasonWinner2))
-                            {
-                                winnerInfo.SecondWinningTeam = team;
-
-                                //Splits the team string to get each player and gives them a win
-                                String[] winners = team.Split(separator);
-                                foreach (String winner in winners)
-                                {
-                                    if (seasonAlive.Contains(winner))
-                                    {
-                                        seasonWinnerAlive.Add(winner);
-                                    }
-                                    else
-                                    {
-                                        seasonWinnerDead.Add(winner);
-                                    }
-
-                                    if (seasonInfo.IsCrossoverSeason == false)
-                                    {
-                                        GlobalStats.UpdateWins(globalStatsList, winner);
-
-                                        //Add to winner list
-                                        winList.Add(new StatsList(seasonInfo, winner));
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-                else
-                {
-                    winnerInfo.IsDragonWin = true;
-
-                    seasonWinnerDead.Add("Ender Dragon");
-                }
-            }
-            String winner_post = " ";
-            seasonWinnerAlive.Sort();
-            seasonWinnerDead.Sort();
-            foreach (String winner in seasonWinnerAlive)
-            {
-                if (killboard.ContainsKey(winner))
-                {
-                    winner_post += winner + " (" + killboard[winner] + "), ";
-                }
-                else
-                {
-                    winner_post += winner + " (0), ";
-                }
-            }
-            if (seasonWinnerDead.Count == 0)
-            {
-                winner_post = winner_post.Remove(winner_post.Length - 2);
-                winner_post = winner_post + "***";
-            }
-            else
-            {
-                if (!winner_post.Equals(" "))
-                {
-                    winner_post = winner_post.Remove(winner_post.Length - 2);
-                    winner_post = winner_post + "**, *";
-                }
-                else
-                {
-                    winner_post = "** *";
-                }
-            }
-            foreach (String winner in seasonWinnerDead)
-            {
-                if (killboard.ContainsKey(winner))
-                {
-                    winner_post += winner + " (" + killboard[winner] + "), ";
-                }
-                else
-                {
-                    if (winner.Equals("Ender Dragon"))
-                    {
-                        winner_post += winner + ", ";
-                    }
-                    else
-                    {
-                        winner_post += winner + " (0), ";
-                    }
-                }
-            }
-            winner_post = winner_post.Remove(winner_post.Length - 2);
-            winner_post = winner_post + "*";
-            redditPosts.Winners.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":" + winner_post + Environment.NewLine);
+            String seasonNumberPost = roundPage.Cell(1, firstDataColumn).GetString();
+            WinnerFinder.GetWinners(globalStatsList, winList, seasonInfo, winnerInfo, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
+            RedditPostFormat.FormatWins(redditPosts, seasonInfo, seasonTeams, seasonWinnerAlive, seasonWinnerDead, killboard, seasonNumberPost);
 
             //Get the runner ups of the season
             //If FFA it has to be the player above

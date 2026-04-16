@@ -7,6 +7,7 @@ namespace StatsAnalyzer
         public String SeasonName { get; set; }
         public String SeasonNumber { get; set; }
         public DateTime SeasonDate { get; set; }
+        public String SeasonGamemodes { get; set; }
         public bool IsFFA { get; set; }
         public bool IsCrossoverSeason { get; set; }
 
@@ -15,6 +16,7 @@ namespace StatsAnalyzer
             SeasonName = roundPage.Name;
             SeasonNumber = roundPage.Cell(1, firstDataColumn).GetString();
             SeasonDate = roundPage.Cell(2, firstDataColumn).GetDateTime();
+            SeasonGamemodes = roundPage.Cell(4, firstDataColumn).GetString();
             IsFFA = roundPage.Cell(3, firstDataColumn + 1).GetString().Equals("FFA");
 
             //Sets round named to be changed for crossovers and ??? to not be called Sheet

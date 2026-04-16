@@ -6,6 +6,7 @@ namespace StatsAnalyzer
     {
         public IXLCell WinnerCell { get; set; } = roundPage.Cell(1, 1);
         public IXLCell SecondWinnerCell { get; set; } = roundPage.Cell(1, 1);
+        public IXLCell FirstAliveRowCell { get; set; } = roundPage.Cell(1, 1);
         public IXLCell LastDataRowCell { get; set; } = roundPage.Cell(1, 1);
         public String WinningTeam { get; set; } = "";
         public String SecondWinningTeam { get; set; } = "";
