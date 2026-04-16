@@ -1,9 +1,4 @@
-﻿using System.Reflection.PortableExecutable;
-using System.Runtime.InteropServices;
-using ClosedXML.Excel;
-using DocumentFormat.OpenXml.Drawing;
-using DocumentFormat.OpenXml.Office2010.PowerPoint;
-using DocumentFormat.OpenXml.Spreadsheet;
+﻿using ClosedXML.Excel;
 using StatsAnalyzer;
 
 // If 1 calculates list of round gaps
@@ -667,13 +662,17 @@ else if (Statfunction == 4)
         for (int season = 1; season <= (roundPage.Columns().Count() - 1); season += 3)
         {
             //Gets the row for the start of the death log & sets cell locations relative to the season
+            int firstDataColumn = season + 1;
+            int middleDataColumn = season + 2;
+            int lastDataColumn = season + 3;
+            SeasonInfo seasonInfo = new SeasonInfo(roundPage, firstDataColumn);
             IXLCell victimsStart = roundPage.Search("Kill List (include alive)").First();
             var rangeUsed = roundPage.RangeUsed();
             int lastDataRow;
             if (rangeUsed == null)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("ERROR: " + roundName + " is empty!");
+                Console.WriteLine("ERROR: " + seasonInfo.SeasonName + " is empty!");
                 return;
             }
             else
@@ -681,9 +680,6 @@ else if (Statfunction == 4)
                 lastDataRow = rangeUsed.LastRowUsed().RowNumber();
             }
             int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
-            int firstDataColumn = season + 1;
-            int middleDataColumn = season + 2;
-            int lastDataColumn = season + 3;
             String season_debutant = "";
 
             //Sets variables for stats logic
@@ -697,97 +693,55 @@ else if (Statfunction == 4)
             List<String> seasonTeams = new List<String>();
             Dictionary<String, int> rp_teamkills = new Dictionary<String, int>();
             Dictionary<String, int> killboard = new Dictionary<String, int>();
-            IXLCell winnerCell = roundPage.Cell(1, 1);
-            IXLCell winnerCell2 = roundPage.Cell(1, 1);
+            WinnerInfo winnerInfo = new WinnerInfo(roundPage);
             IXLCell lastAliveCell = roundPage.Cell(1, 1);
-            String winningTeam = "";
-            String winningTeam2 = "";
             char separator = ',';
             int seasonSize = 0;
             int teamSize = 0;
             int first_blood = 0;
-            int double_kill_ending = 0;
-            int dragon_win = 0;
-            int dragon_rush_ru = 0;
-            int double_kill_runnerup = 0;
-            int crossover_season = 0;
             IXLRange teamRange = roundPage.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
-
-
-            //Sets round named to be changed for crossovers and ??? to not be called Sheet
-            roundName = roundPage.Name;
-            if (roundName.Contains("Sheet"))
-            {
-                roundName = "???";
-            }
-            String season_number = roundPage.Cell(1, firstDataColumn).GetString();
-            DateTime season_date = roundPage.Cell(2, firstDataColumn).GetDateTime();
 
             //Checks for season date not working chronologically
             if (season > 1)
             {
-                if (season_date < roundPage.Cell(2, firstDataColumn).CellLeft(3).GetDateTime())
+                if (seasonInfo.SeasonDate < roundPage.Cell(2, firstDataColumn).CellLeft(3).GetDateTime())
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + roundName + " S" + season_number + " has an invalid date!");
+                    Console.WriteLine("ERROR: " + seasonInfo.SeasonName + " S" + seasonInfo.SeasonNumber + " has an invalid date!");
                 }
             }
 
-            //Sets name of round to contain both names for crossovers
-            if (roundName.Equals("Phobia") && season_number.Equals("20"))
-            {
-                roundName = "WMC x Phobia";
-                season_number = "30/20";
-            }
-            if (roundName.Equals("Scattershot") && season_number.Equals("6"))
-            {
-                roundName = "The Melon Blooded x Scattershot";
-                season_number = "40/6";
-            }
-            if (roundName.Equals("Cinema") && season_number.Equals("16b"))
-            {
-                roundName = "Phobia x Cinema";
-                season_number = "28/16b";
-            }
-
-            //Only count one of the crossover round towards itself only
-            if (roundName.Equals("WMC") && season_number.Equals("30") ||
-                roundName.Equals("The Melon Blooded") && season_number.Equals("40") ||
-                roundName.Equals("Phobia") && season_number.Equals("28"))
-            {
-                crossover_season = 1;
-            }
-
-            if (crossover_season == 0)
+            if (seasonInfo.IsCrossoverSeason == false)
             {
                 //Get seasons data for the all rosters list
-                rostersList.Add(new RostersList(roundName, season_number, season_date));
+                rostersList.Add(new RostersList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
 
                 //Get seasons data for all rounds except for the non-reddit releases
                 if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                 {
-                    rostersListNR.Add(new RostersList(roundName, season_number, season_date));
+                    rostersListNR.Add(new RostersList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
                 }
-            }
 
-            String gamemode = roundPage.Cell(4, firstDataColumn).GetString();
-            String[] gamemodeSplit = gamemode.Split(',');
-            foreach (String scenario in gamemodeSplit)
-            {
-                if (gamemodesList.Any(gm => gm.Gamemode == scenario))
+                //Get gamemode list
+                String gamemode = roundPage.Cell(4, firstDataColumn).GetString();
+                String[] gamemodeSplit = gamemode.Split(',');
+                foreach (String scenario in gamemodeSplit)
                 {
-                    GamemodesList.UpdateGamemodes(gamemodesList, scenario);
-                }
-                else
-                {
-                    gamemodesList.Add(new GamemodesList(scenario, 1));
+                    if (gamemodesList.Any(gm => gm.Gamemode == scenario))
+                    {
+                        GamemodesList.UpdateGamemodes(gamemodesList, scenario);
+                    }
+                    else
+                    {
+                        gamemodesList.Add(new GamemodesList(scenario, 1));
+                    }
                 }
             }
 
             //Get the teams for the season
             //Skips FFA seasons since no teams
             teamSize = teamRange.RowsUsed().Count();
-            if (!roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            if (seasonInfo.IsFFA == false)
             {
                 //Loops the Cells in the team list
                 foreach (IXLCell cell in teamRange.CellsUsed())
@@ -798,16 +752,16 @@ else if (Statfunction == 4)
                     seasonTeams.Add(team);
 
                     //Adds the team info the to team list, skips if player is a solo
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         if (team.Contains(","))
                         {
-                            teamsList.Add(new TeamsList(roundName, season_number, season_date, team));
+                            teamsList.Add(new TeamsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, team));
                         }
                     }
                 }
 
-                if (crossover_season == 0)
+                if (seasonInfo.IsCrossoverSeason == false)
                 {
                     //Get the team color and adds it to the team list, skips if player is a solo
                     IXLRange teamColorsRange = roundPage.Range(9, lastDataColumn, 9 + (teamSize - 1), lastDataColumn);
@@ -820,7 +774,7 @@ else if (Statfunction == 4)
                         {
                             if (!teamColor.Equals(""))
                             {
-                                var roundTeamColor = teamsList.Find(round => round.Round == roundName && round.Season == season_number && round.Team == team);
+                                var roundTeamColor = teamsList.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber && round.Team == team);
                                 if (roundTeamColor != null)
                                 {
                                     roundTeamColor.TeamColor = teamColor;
@@ -834,11 +788,12 @@ else if (Statfunction == 4)
             //Loops through all the victim cells
             IXLRange victimRange = roundPage.Range(firstDataRow, firstDataColumn, lastDataRow, firstDataColumn);
             seasonSize = victimRange.RowsUsed().Count();
+            winnerInfo.LastDataRowCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
             foreach (IXLCell cell in victimRange.CellsUsed())
             {
                 string value = cell.GetString();
 
-                if (crossover_season == 0)
+                if (seasonInfo.IsCrossoverSeason == false)
                 {
                     //Checks if its the players debut round, sets the date if it is
                     //If new players sets all the variables for them
@@ -847,15 +802,15 @@ else if (Statfunction == 4)
                         var roundDebutList = roundDebutsList.Find(round => round.Player == value);
                         if (roundDebutList != null)
                         {
-                            if (season_date < roundDebutList.Date)
+                            if (seasonInfo.SeasonDate < roundDebutList.Date)
                             {
-                                RoundDebut.UpdateRoundDebut(roundDebutList, roundName, season_number, season_date);
+                                RoundDebut.UpdateRoundDebut(roundDebutList, seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
                             }
                         }
                     }
                     else
                     {
-                        roundDebutsList.Add(new RoundDebut(roundName, season_number, season_date, value));
+                        roundDebutsList.Add(new RoundDebut(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, value));
 
                         //Adds new player to the Global Stats
                         globalStatsList.Add(new GlobalStats(value));
@@ -869,9 +824,9 @@ else if (Statfunction == 4)
                             var roundDebutListNR = roundDebutsListNR.Find(round => round.Player == value);
                             if (roundDebutListNR != null)
                             {
-                                if (season_date < roundDebutListNR.Date)
+                                if (seasonInfo.SeasonDate < roundDebutListNR.Date)
                                 {
-                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, roundName, season_number, season_date);
+                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
                                 }
                             }
                         }
@@ -880,7 +835,7 @@ else if (Statfunction == 4)
                     {
                         if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
                         {
-                            roundDebutsListNR.Add(new RoundDebut(roundName, season_number, season_date, value));
+                            roundDebutsListNR.Add(new RoundDebut(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, value));
                         }
                     }
                 }
@@ -889,24 +844,24 @@ else if (Statfunction == 4)
                 if (roundPage.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals(value))
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + value + " suicided! " + roundName + " " + season_number);
+                    Console.WriteLine("ERROR: " + value + " suicided! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
                 }
 
                 //If the players didn't die gets +1 alive on the global stats, else +1 death
                 if (roundPage.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals("Nothing"))
                 {
                     seasonAlive.Add(value);
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateAlives(globalStatsList, value);
 
                         //Add to alive list
-                        aliveList.Add(new StatsList(roundName, season_number, season_date, value));
+                        aliveList.Add(new StatsList(seasonInfo, value));
                     }
                 }
                 else
                 {
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateDeaths(globalStatsList, value);
                     }
@@ -917,7 +872,7 @@ else if (Statfunction == 4)
                 if (!seasonRoster.Contains(value))
                 {
                     seasonRoster.Add(value);
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateSeasonsPlayed(globalStatsList, value);
                     }
@@ -965,22 +920,22 @@ else if (Statfunction == 4)
                 RedditPostsPlayed.UpdateParticipations(redditPosts, player, lastPlayed, lastSeason);
             }
 
-            if (crossover_season == 0)
+            if (seasonInfo.IsCrossoverSeason == false)
             {
-                var roundRosterList = rostersList.Find(round => round.Round == roundName && round.Season == season_number);
+                var roundRosterList = rostersList.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber);
                 if (roundRosterList != null)
                 {
                     roundRosterList.Roster = seasonRoster;
                 }
                 //Adds rosters to a list for the sheet, skips non-reddit for the alternate page
-                var roundRosterListNR = rostersListNR.Find(round => round.Round == roundName && round.Season == season_number);
+                var roundRosterListNR = rostersListNR.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber);
                 if (roundRosterListNR != null)
                 {
                     roundRosterListNR.Roster = seasonRoster;
                 }
             }
 
-            if (!roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            if (seasonInfo.IsFFA == false)
             {
                 //Verify if player is misspelled or missing in teams
                 int playercheck = 0;
@@ -997,13 +952,13 @@ else if (Statfunction == 4)
                     if (playercheck == 0)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + roundName + " " + season_number);
+                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
                     }
 
                     if (playercheck > 1)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + roundName + " " + season_number);
+                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
                     }
 
                     playercheck = 0;
@@ -1025,7 +980,7 @@ else if (Statfunction == 4)
                         if (teamcheck == 0)
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + roundName + " " + season_number);
+                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
                         }
 
                         teamcheck = 0;
@@ -1039,7 +994,7 @@ else if (Statfunction == 4)
             {
                 redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString() + " (Double Kill)" + Environment.NewLine);
 
-                if (crossover_season == 0)
+                if (seasonInfo.IsCrossoverSeason == false)
                 {
                     String player1 = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
                     String player2 = roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString();
@@ -1047,31 +1002,31 @@ else if (Statfunction == 4)
                     GlobalStats.UpdateFirstDeaths(globalStatsList, player2);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player1));
-                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player2));
+                    firstDeathList.Add(new StatsList(seasonInfo, player1));
+                    firstDeathList.Add(new StatsList(seasonInfo, player2));
                 }
             }
             else
             {
-                if (crossover_season == 0)
+                if (seasonInfo.IsCrossoverSeason == false)
                 {
                     String player = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
                     GlobalStats.UpdateFirstDeaths(globalStatsList, player);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, player));
+                    firstDeathList.Add(new StatsList(seasonInfo, player));
                 }
 
                 //Double the stats for round exception
-                if (roundName.Equals("Game Changer")
-                    && season_number.Equals("5"))
+                if (seasonInfo.SeasonName.Equals("Game Changer")
+                    && seasonInfo.SeasonNumber.Equals("5"))
                 {
                     String secondHalf = roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString();
                     GlobalStats.UpdateFirstDeaths(globalStatsList, secondHalf);
                     redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
 
                     //Add to first death list
-                    firstDeathList.Add(new StatsList(roundName, season_number, season_date, secondHalf));
+                    firstDeathList.Add(new StatsList(seasonInfo, secondHalf));
                 }
                 else
                 {
@@ -1095,18 +1050,18 @@ else if (Statfunction == 4)
             IXLRange POOironmanRange = roundPage.Range(5, firstDataColumn, 9, lastDataColumn);
             String ironman_post = "";
             String ironman_time = "";
-            if (roundName.Equals("Party of One"))
+            if (seasonInfo.SeasonName.Equals("Party of One"))
             {
                 ironman_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOironmanRange.CellsUsed())
                 {
                     string value = cell.GetString();
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
-                        ironmanList.Add(new StatsList(roundName, season_number, season_date, value));
+                        ironmanList.Add(new StatsList(seasonInfo, value));
                     }
 
                     ironman_post = ironman_post + value + ", ";
@@ -1129,12 +1084,12 @@ else if (Statfunction == 4)
                 foreach (IXLCell cell in ironmanRange.CellsUsed())
                 {
                     string value = cell.GetString();
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateIronmans(globalStatsList, value);
 
                         //Add to ironman list
-                        ironmanList.Add(new StatsList(roundName, season_number, season_date, value));
+                        ironmanList.Add(new StatsList(seasonInfo, value));
                     }
 
                     ironman_post = ironman_post + value + ", ";
@@ -1158,18 +1113,18 @@ else if (Statfunction == 4)
             IXLRange POOfdRange = roundPage.Range(11, firstDataColumn, 11, lastDataColumn);
             String fd_post = "";
             String fd_time = "";
-            if (roundName.Equals("Party of One"))
+            if (seasonInfo.SeasonName.Equals("Party of One"))
             {
                 fd_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
                 foreach (IXLCell cell in POOfdRange.CellsUsed())
                 {
                     string value = cell.GetString();
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
-                        firstDamageList.Add(new StatsList(roundName, season_number, season_date, value));
+                        firstDamageList.Add(new StatsList(seasonInfo, value));
                     }
 
                     fd_post = fd_post + value + ", ";
@@ -1193,12 +1148,12 @@ else if (Statfunction == 4)
                 foreach (IXLCell cell in fdRange.CellsUsed())
                 {
                     string value = cell.GetString();
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateFirstDamages(globalStatsList, value);
 
                         //Add to first damage list
-                        firstDamageList.Add(new StatsList(roundName, season_number, season_date, value));
+                        firstDamageList.Add(new StatsList(seasonInfo, value));
                     }
 
                     fd_post = fd_post + value + ", ";
@@ -1229,15 +1184,15 @@ else if (Statfunction == 4)
                 if (globalStatsList.Any(p => p.Player == killer))
                 {
                     //Sets values for the kill list
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
-                        killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, killer));
+                        killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, killer));
 
                         //Adds +1 kill on global stats
                         GlobalStats.UpdateKills(globalStatsList, killer);
                     }
 
-                    RedditPostsKills.UpdateKills(redditPosts, killer, victim, season_number);
+                    RedditPostsKills.UpdateKills(redditPosts, killer, victim, seasonInfo.SeasonNumber);
 
                     //Figures out the killboard of the season
                     if (killboard.ContainsKey(killer))
@@ -1258,38 +1213,38 @@ else if (Statfunction == 4)
                             first_blood += 2;
                             redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (Double Kill)" + Environment.NewLine);
 
-                            if (crossover_season == 0)
+                            if (seasonInfo.IsCrossoverSeason == false)
                             {
                                 String killer2 = cell.CellBelow().GetString();
                                 GlobalStats.UpdateFirstBloods(globalStatsList, killer);
                                 GlobalStats.UpdateFirstBloods(globalStatsList, cell.CellBelow().GetString());
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer));
-                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer2));
+                                firstBloodList.Add(new StatsList(seasonInfo, killer));
+                                firstBloodList.Add(new StatsList(seasonInfo, killer2));
                             }
                         }
                         else
                         {
                             first_blood += 1;
-                            if (crossover_season == 0)
+                            if (seasonInfo.IsCrossoverSeason == false)
                             {
                                 GlobalStats.UpdateFirstBloods(globalStatsList, killer);
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, killer));
+                                firstBloodList.Add(new StatsList(seasonInfo, killer));
                             }
 
                             //Double the stats for round exception
-                            if (roundName.Equals("Game Changer")
-                                && season_number.Equals("5"))
+                            if (seasonInfo.SeasonName.Equals("Game Changer")
+                                && seasonInfo.SeasonNumber.Equals("5"))
                             {
                                 String secondHalf = cell.CellBelow().GetString();
                                 GlobalStats.UpdateFirstBloods(globalStatsList, secondHalf);
                                 redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
 
                                 //Add to first blood list
-                                firstBloodList.Add(new StatsList(roundName, season_number, season_date, secondHalf));
+                                firstBloodList.Add(new StatsList(seasonInfo, secondHalf));
                             }
                             else
                             {
@@ -1303,13 +1258,13 @@ else if (Statfunction == 4)
                     //Adds +1 PvE Death for the player
                     if (!killer.Equals("Nothing"))
                     {
-                        if (crossover_season == 0)
+                        if (seasonInfo.IsCrossoverSeason == false)
                         {
                             String pveVictim = roundPage.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString();
                             GlobalStats.UpdatePveDeaths(globalStatsList, pveVictim);
 
                             //Add to pve list
-                            pveDeathList.Add(new StatsList(roundName, season_number, season_date, pveVictim));
+                            pveDeathList.Add(new StatsList(seasonInfo, pveVictim));
                         }
 
                         //Filters all the unique pve deaths
@@ -1317,10 +1272,10 @@ else if (Statfunction == 4)
                         {
                             String pvedeath = PveCausesList.GetPveCause(method);
 
-                            if (crossover_season == 0)
+                            if (seasonInfo.IsCrossoverSeason == false)
                             {
                                 //Sets values for the kill list
-                                killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, pvedeath));
+                                killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, pvedeath));
 
                                 if (pveCausesList.Any(p => p.PveCause == pvedeath))
                                 {
@@ -1332,14 +1287,14 @@ else if (Statfunction == 4)
                                 }
                             }
 
-                            RedditPostsPve.UpdatePve(redditPosts, pvedeath, victim, season_number);
+                            RedditPostsPve.UpdatePve(redditPosts, pvedeath, victim, seasonInfo.SeasonNumber);
                         }
                         else
                         {
-                            if (crossover_season == 0)
+                            if (seasonInfo.IsCrossoverSeason == false)
                             {
                                 //Sets values for the kill list
-                                killsList.Add(new KillsList(roundName, season_number, season_date, victim, method, killer));
+                                killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, killer));
 
                                 if (pveCausesList.Any(p => p.PveCause == killer))
                                 {
@@ -1351,7 +1306,7 @@ else if (Statfunction == 4)
                                 }
                             }
 
-                            RedditPostsPve.UpdatePve(redditPosts, killer, victim, season_number);
+                            RedditPostsPve.UpdatePve(redditPosts, killer, victim, seasonInfo.SeasonNumber);
                         }
 
                     }
@@ -1369,26 +1324,26 @@ else if (Statfunction == 4)
                     {
                         seasonTopKills.Add(killer);
 
-                        if (crossover_season == 0)
+                        if (seasonInfo.IsCrossoverSeason == false)
                         {
                             GlobalStats.UpdateTopFrags(globalStatsList, killer);
 
                             //Add to top frag list
-                            topFragList.Add(new StatsList(roundName, season_number, season_date, killer));
+                            topFragList.Add(new StatsList(seasonInfo, killer));
                         }
                     }
 
                     //Checks if the player that got kills beat their kill record
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         if (killRecordsList.Any(p => p.Player == killer))
                         {
-                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], roundName, season_number, season_date);
+                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
                         }
                         else
                         {
                             //If first round with kills sets the kill record
-                            killRecordsList.Add(new KillRecords(killer, killboard[killer], roundName, season_number, season_date));
+                            killRecordsList.Add(new KillRecords(killer, killboard[killer], seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
                         }
                     }
                 }
@@ -1402,7 +1357,7 @@ else if (Statfunction == 4)
                 redditPosts.MostKills.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + topkills + " (" + topFragAmount + ")" + Environment.NewLine);
             }
 
-            if (!roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+            if (seasonInfo.IsFFA == false)
             {
                 foreach (String team in seasonTeams)
                 {
@@ -1476,7 +1431,7 @@ else if (Statfunction == 4)
             {
                 //Gets the last season winner
                 String seasonWinner = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
-                winnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
+                winnerInfo.WinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
 
                 if (roundPage.Cell(4, firstDataColumn).GetString().Contains("Dragon Rush") ||
                     roundPage.Cell(4, firstDataColumn).GetString().Contains("Wither Rush") ||
@@ -1498,7 +1453,7 @@ else if (Statfunction == 4)
                     {
                         if (!dragonRushCell.CellLeft().GetString().Equals("Winner"))
                         {
-                            dragon_rush_ru = 1;
+                            winnerInfo.IsDragonRushRunnerUp = true;
                         }
                         dragonRushCell = dragonRushCell.CellAbove();
                     }
@@ -1511,7 +1466,7 @@ else if (Statfunction == 4)
                 }
 
                 //If FFA no need to look for teams, else looks for the team
-                if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+                if (seasonInfo.IsFFA == true)
                 {
                     if (seasonAlive.Contains(seasonWinner))
                     {
@@ -1522,12 +1477,12 @@ else if (Statfunction == 4)
                         seasonWinnerDead.Add(seasonWinner);
                     }
 
-                    if (crossover_season == 0)
+                    if (seasonInfo.IsCrossoverSeason == false)
                     {
                         GlobalStats.UpdateWins(globalStatsList, seasonWinner);
 
                         //Add to winner list
-                        winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner));
+                        winList.Add(new StatsList(seasonInfo, seasonWinner));
                     }
                 }
                 else
@@ -1537,7 +1492,7 @@ else if (Statfunction == 4)
                     {
                         if (team.Contains(seasonWinner))
                         {
-                            winningTeam = team;
+                            winnerInfo.WinningTeam = team;
 
                             //Splits the team string to get each player and gives them a win
                             String[] winners = team.Split(separator);
@@ -1552,12 +1507,12 @@ else if (Statfunction == 4)
                                     seasonWinnerDead.Add(winner);
                                 }
 
-                                if (crossover_season == 0)
+                                if (seasonInfo.IsCrossoverSeason == false)
                                 {
                                     GlobalStats.UpdateWins(globalStatsList, winner);
 
                                     //Add to winner list
-                                    winList.Add(new StatsList(roundName, season_number, season_date, winner));
+                                    winList.Add(new StatsList(seasonInfo, winner));
                                 }
                             }
                         }
@@ -1568,15 +1523,15 @@ else if (Statfunction == 4)
                 if (lastAliveCell.CellAbove().GetString().Equals(lastAliveCell.CellLeft(2).CellAbove(2).GetString())
                     && lastAliveCell.CellAbove().CellAbove().GetString().Equals(lastAliveCell.CellLeft(2).CellAbove().GetString()))
                 {
-                    if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+                    if (seasonInfo.IsFFA == true)
                     {
-                        double_kill_runnerup = 1;
+                        winnerInfo.IsDoubleKillRunnerUp = true;
                     }
                     else
                     {
-                        if (!winningTeam.Contains(lastAliveCell.CellAbove().GetString()) && !winningTeam.Contains(lastAliveCell.CellAbove(2).GetString()))
+                        if (!winnerInfo.WinningTeam.Contains(lastAliveCell.CellAbove().GetString()) && !winnerInfo.WinningTeam.Contains(lastAliveCell.CellAbove(2).GetString()))
                         {
-                            double_kill_runnerup = 1;
+                            winnerInfo.IsDoubleKillRunnerUp = true;
                         }
                     }
                 }
@@ -1588,14 +1543,14 @@ else if (Statfunction == 4)
                     && roundPage.Cell(firstDataRow + (seasonSize - 2), lastDataColumn).GetString().Equals(roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString()))
                 {
                     //Double kill ending so 2 winners
-                    double_kill_ending = 1;
+                    winnerInfo.IsDoubleKillWinner = true;
                     String seasonWinner1 = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
                     String seasonWinner2 = roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn).GetString();
-                    winnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
-                    winnerCell2 = roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn);
+                    winnerInfo.WinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
+                    winnerInfo.SecondWinnerCell = roundPage.Cell(firstDataRow + (seasonSize - 2), firstDataColumn);
 
                     //If FFA no need to look for teams, else looks for the team
-                    if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
+                    if (seasonInfo.IsFFA == true)
                     {
                         if (seasonAlive.Contains(seasonWinner1))
                         {
@@ -1615,14 +1570,14 @@ else if (Statfunction == 4)
                             seasonWinnerDead.Add(seasonWinner2);
                         }
 
-                        if (crossover_season == 0)
+                        if (seasonInfo.IsCrossoverSeason == false)
                         {
                             GlobalStats.UpdateWins(globalStatsList, seasonWinner1);
                             GlobalStats.UpdateWins(globalStatsList, seasonWinner2);
 
                             //Add to winner list
-                            winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner1));
-                            winList.Add(new StatsList(roundName, season_number, season_date, seasonWinner2));
+                            winList.Add(new StatsList(seasonInfo, seasonWinner1));
+                            winList.Add(new StatsList(seasonInfo, seasonWinner2));
                         }
                     }
                     else
@@ -1632,7 +1587,7 @@ else if (Statfunction == 4)
                         {
                             if (team.Contains(seasonWinner1))
                             {
-                                winningTeam = team;
+                                winnerInfo.WinningTeam = team;
 
                                 //Splits the team string to get each player and gives them a win
                                 String[] winners = team.Split(separator);
@@ -1647,18 +1602,18 @@ else if (Statfunction == 4)
                                         seasonWinnerDead.Add(winner);
                                     }
 
-                                    if (crossover_season == 0)
+                                    if (seasonInfo.IsCrossoverSeason == false)
                                     {
                                         GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
-                                        winList.Add(new StatsList(roundName, season_number, season_date, winner));
+                                        winList.Add(new StatsList(seasonInfo, winner));
                                     }
                                 }
                             }
                             if (team.Contains(seasonWinner2))
                             {
-                                winningTeam2 = team;
+                                winnerInfo.SecondWinningTeam = team;
 
                                 //Splits the team string to get each player and gives them a win
                                 String[] winners = team.Split(separator);
@@ -1673,12 +1628,12 @@ else if (Statfunction == 4)
                                         seasonWinnerDead.Add(winner);
                                     }
 
-                                    if (crossover_season == 0)
+                                    if (seasonInfo.IsCrossoverSeason == false)
                                     {
                                         GlobalStats.UpdateWins(globalStatsList, winner);
 
                                         //Add to winner list
-                                        winList.Add(new StatsList(roundName, season_number, season_date, winner));
+                                        winList.Add(new StatsList(seasonInfo, winner));
                                     }
                                 }
                             }
@@ -1687,7 +1642,7 @@ else if (Statfunction == 4)
                 }
                 else
                 {
-                    dragon_win = 1;
+                    winnerInfo.IsDragonWin = true;
 
                     seasonWinnerDead.Add("Ender Dragon");
                 }
@@ -1748,261 +1703,8 @@ else if (Statfunction == 4)
             //Get the runner ups of the season
             //If FFA it has to be the player above
             //Else figures out the next team after the winners
-            if (dragon_win == 0)
-            {
-                if (dragon_rush_ru == 0)
-                {
-                    if (double_kill_runnerup == 0)
-                    {
-                        if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
-                        {
-                            if (double_kill_ending == 1)
-                            {
-                                seasonRunnerUps.Add(winnerCell2.CellAbove().GetString());
-
-                                if (crossover_season == 0)
-                                {
-                                    GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell2.CellAbove().GetString());
-
-                                    //Add to runner up list
-                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell2.CellAbove().GetString()));
-                                }
-                            }
-                            else
-                            {
-                                seasonRunnerUps.Add(winnerCell.CellAbove().GetString());
-
-                                if (crossover_season == 0)
-                                {
-                                    GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove().GetString());
-
-                                    //Add to runner up list
-                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove().GetString()));
-                                }
-                            }
-                        }
-                        else
-                        {
-                            if (double_kill_ending == 1)
-                            {
-
-                                while (winningTeam.Contains(winnerCell2.CellAbove().GetString()) || winningTeam2.Contains(winnerCell2.CellAbove().GetString()))
-                                {
-                                    winnerCell2 = winnerCell2.CellAbove();
-                                }
-
-                                //Figures out the full team of runner ups
-                                String seasonRunnerUp = winnerCell2.CellAbove().GetString();
-                                foreach (String team in seasonTeams)
-                                {
-                                    if (team.Contains(seasonRunnerUp))
-                                    {
-                                        //Splits the team string to get each player and gives them a runner up
-                                        String[] runnerups = team.Split(separator);
-                                        foreach (String runner_up in runnerups)
-                                        {
-                                            seasonRunnerUps.Add(runner_up);
-
-                                            if (crossover_season == 0)
-                                            {
-                                                GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
-
-                                                //Add to runner up list
-                                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
-                                            }
-                                        }
-                                    }
-                                }
-
-                            }
-                            else
-                            {
-                                //Looks for the next cell that contains someone not on the winning team
-                                while (winningTeam.Contains(winnerCell.CellAbove().GetString()))
-                                {
-                                    winnerCell = winnerCell.CellAbove();
-                                }
-
-                                //Figures out the full team of runner ups
-                                String seasonRunnerUp = winnerCell.CellAbove().GetString();
-                                foreach (String team in seasonTeams)
-                                {
-                                    if (team.Contains(seasonRunnerUp))
-                                    {
-                                        //Splits the team string to get each player and gives them a runner up
-                                        String[] runnerups = team.Split(separator);
-                                        foreach (String runner_up in runnerups)
-                                        {
-                                            seasonRunnerUps.Add(runner_up);
-
-                                            if (crossover_season == 0)
-                                            {
-                                                GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
-
-                                                //Add to runner up list
-                                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
-                                            }
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                    else
-                    {
-                        if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
-                        {
-                            seasonRunnerUps.Add(winnerCell.CellAbove().GetString());
-                            seasonRunnerUps.Add(winnerCell.CellAbove(2).GetString());
-
-                            if (crossover_season == 0)
-                            {
-                                GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove().GetString());
-                                GlobalStats.UpdateRunnerUps(globalStatsList, winnerCell.CellAbove(2).GetString());
-
-                                //Add to runner up list
-                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove().GetString()));
-                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, winnerCell.CellAbove(2).GetString()));
-                            }
-                        }
-                        else
-                        {
-                            while (winningTeam.Contains(winnerCell.CellAbove().GetString()))
-                            {
-                                winnerCell = winnerCell.CellAbove();
-                            }
-
-                            //Figures out the full team of runner ups
-                            String seasonRunnerUp = winnerCell.CellAbove().GetString();
-                            String seasonRunnerUp2 = winnerCell.CellAbove(2).GetString();
-                            foreach (String team in seasonTeams)
-                            {
-                                if (team.Contains(seasonRunnerUp))
-                                {
-                                    //Splits the team string to get each player and gives them a runner up
-                                    String[] runnerups = team.Split(separator);
-                                    foreach (String runner_up in runnerups)
-                                    {
-                                        seasonRunnerUps.Add(runner_up);
-
-                                        if (crossover_season == 0)
-                                        {
-                                            GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
-
-                                            //Add to runner up list
-                                            runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
-                                        }
-                                    }
-                                }
-
-                                if (team.Contains(seasonRunnerUp2))
-                                {
-                                    //Splits the team string to get each player and gives them a runner up
-                                    String[] runnerups = team.Split(separator);
-                                    foreach (String runner_up in runnerups)
-                                    {
-                                        seasonRunnerUps.Add(runner_up);
-
-                                        if (crossover_season == 0)
-                                        {
-                                            GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
-
-                                            //Add to runner up list
-                                            runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
-                                        }
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-                else
-                {
-                    IXLCell runnerUpCheck = roundPage.Cell(firstDataRow + (seasonSize - 1), lastDataColumn);
-                    IXLCell runnerUpPlayer = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
-
-                    while (runnerUpCheck.GetString().Equals("Nothing"))
-                    {
-                        if (!runnerUpCheck.CellLeft().GetString().Equals("Winner"))
-                        {
-                            seasonRunnerUps.Add(runnerUpPlayer.GetString());
-
-                            if (crossover_season == 0)
-                            {
-                                GlobalStats.UpdateRunnerUps(globalStatsList, runnerUpPlayer.GetString());
-
-                                runnerUpList.Add(new StatsList(roundName, season_number, season_date, runnerUpPlayer.GetString()));
-                            }
-                        }
-                        runnerUpCheck = runnerUpCheck.CellAbove();
-                        runnerUpPlayer = runnerUpPlayer.CellAbove();
-                    }
-                }
-            }
-            else
-            {
-                //Dragon wins the season
-                String seasonRunnerUp = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn).GetString();
-
-                if (roundPage.Cell(3, middleDataColumn).GetString().Equals("FFA"))
-                {
-                    seasonRunnerUps.Add(seasonRunnerUp);
-
-                    if (crossover_season == 0)
-                    {
-                        GlobalStats.UpdateRunnerUps(globalStatsList, seasonRunnerUp);
-
-                        runnerUpList.Add(new StatsList(roundName, season_number, season_date, seasonRunnerUp));
-                    }
-                }
-                else
-                {
-                    foreach (String team in seasonTeams)
-                    {
-                        if (team.Contains(seasonRunnerUp))
-                        {
-                            //Splits the team string to get each player and gives them a runner up
-                            String[] runnerups = team.Split(separator);
-                            foreach (String runner_up in runnerups)
-                            {
-                                seasonRunnerUps.Add(runner_up);
-
-                                if (crossover_season == 0)
-                                {
-                                    GlobalStats.UpdateRunnerUps(globalStatsList, runner_up);
-
-                                    //Add to runner up list
-                                    runnerUpList.Add(new StatsList(roundName, season_number, season_date, runner_up));
-                                }
-                            }
-                        }
-                    }
-                }
-
-            }
-
-            String runnerup_post = "";
-            seasonRunnerUps.Sort();
-            foreach (String runner_up in seasonRunnerUps)
-            {
-                if (killboard.ContainsKey(runner_up))
-                {
-                    runnerup_post += runner_up + " (" + killboard[runner_up] + "), ";
-                }
-                else
-                {
-                    runnerup_post += runner_up + " (0), ";
-                }
-            }
-            if (seasonTeams.Count == 1 && !seasonWinnerDead.First().Equals("Ender Dragon"))
-            {
-                redditPosts.RunnerUps.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
-            }
-            else
-            {
-                runnerup_post = runnerup_post.Remove(runnerup_post.Length - 2);
-                redditPosts.RunnerUps.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + runnerup_post + Environment.NewLine);
-            }
+            RunnerUpFinder.GetRunnerUps(globalStatsList, runnerUpList, seasonInfo, winnerInfo, seasonRunnerUps, seasonTeams);
+            RedditPostFormat.FormatRunnerUps(redditPosts, seasonInfo, seasonRunnerUps, seasonTeams, seasonWinnerDead, killboard);
         }
 
         //Updates the roster size of the round

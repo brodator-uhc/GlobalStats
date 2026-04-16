@@ -74,7 +74,7 @@
 
 **S16a:** 78ford (0), Chasmic (0), Lighte (2), Rohcket (0)
 
-**S16b:** MercuryParadox (2), Nintendoshi (1)
+**S28/16b:** MercuryParadox (2), Nintendoshi (1)
 
 **S17:** MaxEvasion (4), TheKevGuy (0)
 

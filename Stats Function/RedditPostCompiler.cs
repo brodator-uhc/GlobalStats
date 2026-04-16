@@ -1,5 +1,3 @@
-using ClosedXML.Excel;
-
 namespace StatsAnalyzer
 {
     public class RedditPostCompiler
@@ -182,6 +180,5 @@ namespace StatsAnalyzer
             }
             File.AppendAllText(rppath, "---");
         }
-
     }
 }

@@ -100,7 +100,7 @@
 
 **S19:** 5hup (2), Bacan (1), Brodator (1), wibbol (1)
 
-**S20:** jamertxn (1), TheSonicJoey (2)
+**S30/20:** jamertxn (1), TheSonicJoey (2)
 
 **S21:** Havenhand (4), Micale (5), rippersteveM5 (0)
 
