@@ -3,8 +3,8 @@ namespace StatsAnalyzer
     public class KillboardAnalyzer
     {
         public static void GetMostKills(List<GlobalStats> globalStatsList, RedditPosts redditPosts, List<StatsList> topFragList, 
-            List<KillRecords> killRecordsList, SeasonInfo seasonInfo, List<String> seasonTopFrag, List<String> seasonTeams, 
-            Dictionary<String, int> killboard, Dictionary<String, int> teamKillboard, String seasonNumberPost)
+            List<KillRecords> killRecordsList, SeasonInfo seasonInfo, SeasonLists seasonLists, Dictionary<String, int> killboard, 
+            Dictionary<String, int> teamKillboard, String seasonNumberPost)
         {
             if (killboard.Count > 0)
             {
@@ -13,7 +13,7 @@ namespace StatsAnalyzer
                 {
                     if (killboard[killer] == topFragAmount)
                     {
-                        seasonTopFrag.Add(killer);
+                        seasonLists.SeasonTopFrag.Add(killer);
 
                         if (seasonInfo.IsCrossoverSeason == false)
                         {
@@ -35,13 +35,13 @@ namespace StatsAnalyzer
                         }
                     }
                 }
-                RedditPostFormat.FormatTopFrags(redditPosts, seasonTopFrag, topFragAmount, seasonNumberPost);
+                RedditPostFormat.FormatTopFrags(redditPosts, seasonLists.SeasonTopFrag, topFragAmount, seasonNumberPost);
             }
 
             //Uses the killboard to make the team killboard
             if (seasonInfo.IsFFA == false)
             {
-                foreach (String team in seasonTeams)
+                foreach (String team in seasonLists.SeasonTeams)
                 {
                     String[] teamMember = team.Split(',');
 

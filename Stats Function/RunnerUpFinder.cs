@@ -16,9 +16,9 @@ namespace StatsAnalyzer
             }
         }
         public static void SetTeamRunnerUps(List<GlobalStats> globalStatsList, List<StatsList> runnerUpList, SeasonInfo seasonInfo, String teamRunnerUp, 
-            List<String> seasonRunnerUps, List<String> seasonTeams)
+            SeasonLists seasonLists)
         {
-            foreach (String team in seasonTeams)
+            foreach (String team in seasonLists.SeasonTeams)
             {
                 if (team.Contains(teamRunnerUp))
                 {
@@ -26,7 +26,7 @@ namespace StatsAnalyzer
                     String[] runnerUpSplit = team.Split(',');
                     foreach (String runnerUp in runnerUpSplit)
                     {
-                        seasonRunnerUps.Add(runnerUp);
+                        seasonLists.SeasonRunnerUp.Add(runnerUp);
 
                         if (seasonInfo.IsCrossoverSeason == false)
                         {
@@ -38,7 +38,7 @@ namespace StatsAnalyzer
             }
         }
         public static void GetRunnerUps(List<GlobalStats> globalStatsList, List<StatsList> runnerUpList, SeasonInfo seasonInfo, WinnerInfo winnerInfo,
-            List<String> seasonRunnerUps, List<String> seasonTeams)
+            SeasonLists seasonLists)
         {
             if (winnerInfo.IsDragonWin == false)
             {
@@ -51,12 +51,12 @@ namespace StatsAnalyzer
                             if (winnerInfo.IsDoubleKillWinner == true)
                             {
                                 String runnerUp = winnerInfo.SecondWinnerCell.CellAbove().GetString();
-                                SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonRunnerUps);
+                                SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonLists.SeasonRunnerUp);
                             }
                             else
                             {
                                 String runnerUp = winnerInfo.WinnerCell.CellAbove().GetString();
-                                SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonRunnerUps);
+                                SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonLists.SeasonRunnerUp);
                             }
                         }
                         else
@@ -72,7 +72,7 @@ namespace StatsAnalyzer
 
                                 //Figures out the full team of runner ups
                                 String teamRunnerUp = winnerInfo.SecondWinnerCell.CellAbove().GetString();
-                                SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonRunnerUps, seasonTeams);
+                                SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonLists);
                             }
                             else
                             {
@@ -84,7 +84,7 @@ namespace StatsAnalyzer
 
                                 //Figures out the full team of runner ups
                                 String teamRunnerUp = winnerInfo.WinnerCell.CellAbove().GetString();
-                                SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonRunnerUps, seasonTeams);
+                                SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonLists);
                             }
                         }
                     }
@@ -93,10 +93,10 @@ namespace StatsAnalyzer
                         if (seasonInfo.IsFFA == true)
                         {
                             String runnerUp = winnerInfo.WinnerCell.CellAbove().GetString();
-                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonRunnerUps);
+                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUp, seasonLists.SeasonRunnerUp);
 
                             String secondRunnerUp = winnerInfo.WinnerCell.CellAbove(2).GetString();
-                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, secondRunnerUp, seasonRunnerUps);
+                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, secondRunnerUp, seasonLists.SeasonRunnerUp);
                         }
                         else
                         {
@@ -108,10 +108,10 @@ namespace StatsAnalyzer
 
                             //Figures out the full team of runner ups
                             String teamRunnerUp = winnerInfo.WinnerCell.CellAbove().GetString();
-                            SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonRunnerUps, seasonTeams);
+                            SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, teamRunnerUp, seasonLists);
 
                             String secondTeamRunnerUp = winnerInfo.WinnerCell.CellAbove(2).GetString();
-                            SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, secondTeamRunnerUp, seasonRunnerUps, seasonTeams);
+                            SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, secondTeamRunnerUp, seasonLists);
                         }
                     }
                 }
@@ -125,7 +125,7 @@ namespace StatsAnalyzer
                     {
                         if (!runnerUpCheck.CellLeft().GetString().Equals("Winner"))
                         {
-                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUpPlayer.GetString(), seasonRunnerUps);
+                            SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, runnerUpPlayer.GetString(), seasonLists.SeasonRunnerUp);
                         }
                         runnerUpCheck = runnerUpCheck.CellAbove();
                         runnerUpPlayer = runnerUpPlayer.CellAbove();
@@ -139,11 +139,11 @@ namespace StatsAnalyzer
 
                 if (seasonInfo.IsFFA == true)
                 {
-                    SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, seasonRunnerUp, seasonRunnerUps);
+                    SetSoloRunnerUps(globalStatsList, runnerUpList, seasonInfo, seasonRunnerUp, seasonLists.SeasonRunnerUp);
                 }
                 else
                 {
-                    SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, seasonRunnerUp, seasonRunnerUps, seasonTeams);
+                    SetTeamRunnerUps(globalStatsList, runnerUpList, seasonInfo, seasonRunnerUp, seasonLists);
                 }
             }
         }

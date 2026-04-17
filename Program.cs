@@ -561,6 +561,7 @@ else if (Statfunction == 4)
     string postFolder;
     int skipSheet;
 
+    //Select the stats doc to use
     switch (statDoc)
     {
         case 1:
@@ -594,57 +595,43 @@ else if (Statfunction == 4)
 
     //Big list of variables that are saved at the end
     //Variables for the rounds list
-    List<RoundList> roundList = new List<RoundList>();
-    //Variables for the all rosters doc
-    List<RostersList> rostersList = new List<RostersList>();
-    //Variables for the all rosters without non-reddits
-    List<RostersList> rostersListNR = new List<RostersList>();
-    //Variables for the kill list
-    List<KillsList> killsList = new List<KillsList>();
-    //Variables for the team list
-    List<TeamsList> teamsList = new List<TeamsList>();
-    //Variables for the first damage list
-    List<StatsList> firstDamageList = new List<StatsList>();
-    //Variables for the ironman list
-    List<StatsList> ironmanList = new List<StatsList>();
-    //Variables for the pve death list
-    List<StatsList> pveDeathList = new List<StatsList>();
-    //Variables for the first death list
-    List<StatsList> firstDeathList = new List<StatsList>();
-    //Variables for the first blood list
-    List<StatsList> firstBloodList = new List<StatsList>();
-    //Variables for the top kills list
-    List<StatsList> topFragList = new List<StatsList>();
-    //Variables for the runner up list
-    List<StatsList> runnerUpList = new List<StatsList>();
-    //Variables for the alive list
-    List<StatsList> aliveList = new List<StatsList>();
-    //Variables for the wins list
-    List<StatsList> winList = new List<StatsList>();
+    List<RoundList> roundList = [];
+    List<PveCausesList> pveCausesList = [];
+    List<GamemodesList> gamemodesList = [];
+    List<TeamTypeList> teamTypeList = [];
+    List<RostersList> rostersList = [];
+    List<RostersList> rostersListNR = [];
     //Variables for the round debut list
-    List<RoundDebut> roundDebutsList = new List<RoundDebut>();
-    //Variables for the round debut list without non-reddits
-    List<RoundDebut> roundDebutsListNR = new List<RoundDebut>();
+    List<RoundDebut> roundDebutsList = [];
+    List<RoundDebut> roundDebutsListNR = [];
     //Variables for the global stats
-    List<GlobalStats> globalStatsList = new List<GlobalStats>();
-    //Variables for the kill records
-    List<KillRecords> killRecordsList = new List<KillRecords>();
-    //Unique PvE Deaths
-    List<PveCausesList> pveCausesList = new List<PveCausesList>();
-    List<GamemodesList> gamemodesList = new List<GamemodesList>();
-    List<TeamTypeList> teamTypeList = new List<TeamTypeList>();
+    List<GlobalStats> globalStatsList = [];
+    List<KillRecords> killRecordsList = [];
+    //Variables for the stats list
+    List<KillsList> killsList = [];
+    List<TeamsList> teamsList = [];
+    List<StatsList> firstDamageList = [];
+    List<StatsList> ironmanList = [];
+    List<StatsList> pveDeathList = [];
+    List<StatsList> firstDeathList = [];
+    List<StatsList> firstBloodList = [];
+    List<StatsList> topFragList = [];
+    List<StatsList> runnerUpList = [];
+    List<StatsList> aliveList = [];
+    List<StatsList> winList = [];
 
     //Goes through every stats tabs on the doc
     using var globalDocument = new XLWorkbook(filePath);
     for (int sheet = skipSheet; sheet <= globalDocument.Worksheets.Count; sheet++)
     {
-        List<String> roundRoster = new List<String>();
-        RedditPosts redditPosts = new RedditPosts();
+        List<String> roundRoster = [];
+        RedditPosts redditPosts = new();
+
         //Collecting the Name, the total amount of seasons & the date of S1 for the round
         var roundPage = globalDocument.Worksheet(sheet);
         String roundName = roundPage.Name;
         int roundTotalSeasons = (roundPage.Columns().Count() - 1) / 3;
-        DateTime round_debutdate = roundPage.Cell(2, 2).GetDateTime();
+        DateTime roundDebutDate = roundPage.Cell(2, 2).GetDateTime();
         String redditPostName = "";
         if (roundName.Contains("Sheet"))
         {
@@ -655,7 +642,8 @@ else if (Statfunction == 4)
         {
             redditPostName = roundName;
         }
-        roundList.Add(new RoundList(roundName, roundTotalSeasons, round_debutdate));
+        roundList.Add(new RoundList(roundName, roundTotalSeasons, roundDebutDate));
+
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Working on " + roundName + ", " + roundTotalSeasons.ToString() + " Seasons!");
 
@@ -663,11 +651,16 @@ else if (Statfunction == 4)
         for (int season = 1; season <= (roundPage.Columns().Count() - 1); season += 3)
         {
             //Gets the row for the start of the death log & sets cell locations relative to the season
+            //Also Sets variables for stats logic
             int firstDataColumn = season + 1;
-            int middleDataColumn = season + 2;
-            int lastDataColumn = season + 3;
-            SeasonInfo seasonInfo = new SeasonInfo(roundPage, firstDataColumn);
+            SeasonInfo seasonInfo = new(roundPage, firstDataColumn);
+            SeasonLists seasonLists = new();
+            WinnerInfo winnerInfo = new(roundPage);
+            Dictionary<String, int> killboard = [];
+            Dictionary<String, int> teamKillboard = [];
+            String seasonNumberPost = roundPage.Cell(1, firstDataColumn).GetString();
             IXLCell victimsStart = roundPage.Search("Kill List (include alive)").First();
+            int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
             var rangeUsed = roundPage.RangeUsed();
             int lastDataRow;
             if (rangeUsed == null)
@@ -680,342 +673,48 @@ else if (Statfunction == 4)
             {
                 lastDataRow = rangeUsed.LastRowUsed().RowNumber();
             }
-            int firstDataRow = victimsStart.WorksheetRow().RowNumber() + 1;
-            String season_debutant = "";
-
-            //Sets variables for stats logic
-            List<String> seasonRoster = new List<String>();
-            List<String> seasonDebutant = new List<String>();
-            List<String> seasonTopFrag = new List<String>();
-            List<String> seasonWinnerAlive = new List<String>();
-            List<String> seasonWinnerDead = new List<String>();
-            List<String> seasonAlive = new List<String>();
-            List<String> seasonRunnerUps = new List<String>();
-            List<String> seasonTeams = new List<String>();
-            Dictionary<String, int> teamKillboard = new Dictionary<String, int>();
-            Dictionary<String, int> killboard = new Dictionary<String, int>();
-            WinnerInfo winnerInfo = new WinnerInfo(roundPage);
-            String seasonNumberPost = roundPage.Cell(1, firstDataColumn).GetString();
-            int seasonSize = 0;
-            int teamSize = 0;
-            IXLRange teamRange = roundPage.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
 
             //Checks for season date not working chronologically
             if (season > 1)
             {
-                if (seasonInfo.SeasonDate < roundPage.Cell(2, firstDataColumn).CellLeft(3).GetDateTime())
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + seasonInfo.SeasonName + " S" + seasonInfo.SeasonNumber + " has an invalid date!");
-                }
+                IXLCell lastSeasonDate = roundPage.Cell(2, firstDataColumn).CellLeft(3);
+                StatsVerification.VerifyDate(seasonInfo, lastSeasonDate);
             }
 
-            if (seasonInfo.IsCrossoverSeason == false)
-            {
-                //Get seasons data for the all rosters list
-                rostersList.Add(new RostersList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
-
-                //Get seasons data for all rounds except for the non-reddit releases
-                if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
-                {
-                    rostersListNR.Add(new RostersList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
-                }
-
-                //Get gamemode list
-                String[] gamemodeSplit = seasonInfo.SeasonGamemodes.Split(',');
-                foreach (String scenario in gamemodeSplit)
-                {
-                    if (gamemodesList.Any(gm => gm.Gamemode == scenario))
-                    {
-                        GamemodesList.UpdateGamemodes(gamemodesList, scenario);
-                    }
-                    else
-                    {
-                        gamemodesList.Add(new GamemodesList(scenario, 1));
-                    }
-                }
-
-                //Get team type list
-                String[] teamTypeSplit = seasonInfo.SeasonTeamType.Split(',');
-                foreach (String scenario in teamTypeSplit)
-                {
-                    if (teamTypeList.Any(gm => gm.TeamType == scenario))
-                    {
-                        TeamTypeList.UpdateTeamType(teamTypeList, scenario);
-                    }
-                    else
-                    {
-                        teamTypeList.Add(new TeamTypeList(scenario, 1));
-                    }
-                }
-            }
+            //Get the gamemode and team type list for the season
+            ScenarioFinder.GetScenarios(gamemodesList, teamTypeList, seasonInfo);
 
             //Get the teams for the season
             //Skips FFA seasons since no teams
-            teamSize = teamRange.RowsUsed().Count();
-            if (seasonInfo.IsFFA == false)
-            {
-                //Loops the Cells in the team list
-                foreach (IXLCell cell in teamRange.CellsUsed())
-                {
-                    string team = cell.GetString();
-
-                    //Adds the team to the list of the season
-                    seasonTeams.Add(team);
-
-                    //Adds the team info the to team list, skips if player is a solo
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        if (team.Contains(","))
-                        {
-                            teamsList.Add(new TeamsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, team));
-                        }
-                    }
-                }
-
-                if (seasonInfo.IsCrossoverSeason == false)
-                {
-                    //Get the team color and adds it to the team list, skips if player is a solo
-                    IXLRange teamColorsRange = roundPage.Range(9, lastDataColumn, 9 + (teamSize - 1), lastDataColumn);
-                    foreach (IXLCell cell in teamColorsRange.Cells())
-                    {
-                        String teamColor = cell.GetString();
-                        String team = cell.CellLeft(2).GetString();
-
-                        if (team.Contains(","))
-                        {
-                            if (!teamColor.Equals(""))
-                            {
-                                var roundTeamColor = teamsList.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber && round.Team == team);
-                                if (roundTeamColor != null)
-                                {
-                                    roundTeamColor.TeamColor = teamColor;
-                                }
-                            }
-                        }
-                    }
-                }
-            }
+            IXLRange teamRange = roundPage.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
+            seasonInfo.SeasonTeamSize = teamRange.RowsUsed().Count();
+            IXLRange teamColorsRange = roundPage.Range(9, firstDataColumn + 2, 9 + (seasonInfo.SeasonTeamSize - 1), firstDataColumn + 2);
+            TeamsAnalyzer.GetTeams(teamsList, seasonLists, seasonInfo, teamRange, teamColorsRange);
 
             //Loops through all the victim cells
+            IXLCell seasonNumberCell = roundPage.Cell(1, firstDataColumn);
             IXLRange victimRange = roundPage.Range(firstDataRow, firstDataColumn, lastDataRow, firstDataColumn);
-            seasonSize = victimRange.RowsUsed().Count();
-            winnerInfo.LastDataRowCell = roundPage.Cell(firstDataRow + (seasonSize - 1), firstDataColumn);
-            foreach (IXLCell cell in victimRange.CellsUsed())
-            {
-                string value = cell.GetString();
+            DeathsAnalyzer.GetDeaths(globalStatsList, redditPosts, rostersList, rostersListNR, roundDebutsList, roundDebutsListNR, aliveList, roundRoster, seasonLists, seasonInfo, victimRange, seasonNumberPost, firstDataColumn, seasonNumberCell);
 
-                if (seasonInfo.IsCrossoverSeason == false)
-                {
-                    //Checks if its the players debut round, sets the date if it is
-                    //If new players sets all the variables for them
-                    if (roundDebutsList.Any(round => round.Player == value))
-                    {
-                        var roundDebutList = roundDebutsList.Find(round => round.Player == value);
-                        if (roundDebutList != null)
-                        {
-                            if (seasonInfo.SeasonDate < roundDebutList.Date)
-                            {
-                                RoundDebut.UpdateRoundDebut(roundDebutList, seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
-                            }
-                        }
-                    }
-                    else
-                    {
-                        roundDebutsList.Add(new RoundDebut(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, value));
-
-                        //Adds new player to the Global Stats
-                        globalStatsList.Add(new GlobalStats(value));
-                    }
-
-                    //Checks for players debut round but also excludes non-reddit rounds
-                    if (roundDebutsListNR.Any(round => round.Player == value))
-                    {
-                        if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
-                        {
-                            var roundDebutListNR = roundDebutsListNR.Find(round => round.Player == value);
-                            if (roundDebutListNR != null)
-                            {
-                                if (seasonInfo.SeasonDate < roundDebutListNR.Date)
-                                {
-                                    RoundDebut.UpdateRoundDebut(roundDebutListNR, seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
-                                }
-                            }
-                        }
-                    }
-                    else
-                    {
-                        if (!roundPage.Cell(1, lastDataColumn).GetString().Equals("NR"))
-                        {
-                            roundDebutsListNR.Add(new RoundDebut(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, value));
-                        }
-                    }
-                }
-
-                //Add Error Messages for suicides.
-                if (roundPage.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals(value))
-                {
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ERROR: " + value + " suicided! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
-                }
-
-                //If the players didn't die gets +1 alive on the global stats, else +1 death
-                if (roundPage.Cell(cell.WorksheetRow().RowNumber(), lastDataColumn).GetString().Equals("Nothing"))
-                {
-                    seasonAlive.Add(value);
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateAlives(globalStatsList, value);
-
-                        //Add to alive list
-                        aliveList.Add(new StatsList(seasonInfo, value));
-                    }
-                }
-                else
-                {
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateDeaths(globalStatsList, value);
-                    }
-                }
-
-                //Makes roster for the season, skips players who show up twice with respawns gamemodes
-                //Also adds +1 seasons played for the global stats
-                if (!seasonRoster.Contains(value))
-                {
-                    seasonRoster.Add(value);
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateSeasonsPlayed(globalStatsList, value);
-                    }
-                }
-
-                //Makes roster for the round, adds new players
-                //Also adds +1 unique round for the global stats
-                if (!roundRoster.Contains(value))
-                {
-                    roundRoster.Add(value);
-                    seasonDebutant.Add(value);
-                    GlobalStats.UpdateTotalUniques(globalStatsList, value);
-                }
-            }
-            //Formats the debutants for reddit posts
-            seasonAlive.Sort();
-            seasonDebutant.Sort();
-            seasonRoster.Sort();
-            foreach (String debutant in seasonDebutant)
-            {
-                season_debutant += debutant + ", ";
-            }
-            if (season_debutant.Length > 0)
-            {
-                season_debutant = season_debutant.Remove(season_debutant.Length - 2);
-                redditPosts.Debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + (season_debutant.Count(c => c == ',') + 1) + "):** " + season_debutant + Environment.NewLine);
-            }
-            else
-            {
-                redditPosts.Debutants.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + " (" + season_debutant.Count(c => c == ',') + "):** " + Environment.NewLine);
-            }
-
-            foreach (String player in seasonRoster)
-            {
-                String lastPlayed = roundPage.Cell(1, firstDataColumn).GetString();
-                String lastSeason = "";
-                if (firstDataColumn > 2)
-                {
-                    lastSeason = roundPage.Cell(1, firstDataColumn).CellLeft(3).GetString();
-                }
-                else
-                {
-                    lastSeason = "N/A";
-                }
-                RedditPostsPlayed.UpdateParticipations(redditPosts, player, lastPlayed, lastSeason);
-            }
-
-            if (seasonInfo.IsCrossoverSeason == false)
-            {
-                var roundRosterList = rostersList.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber);
-                if (roundRosterList != null)
-                {
-                    roundRosterList.Roster = seasonRoster;
-                }
-                //Adds rosters to a list for the sheet, skips non-reddit for the alternate page
-                var roundRosterListNR = rostersListNR.Find(round => round.Round == seasonInfo.SeasonName && round.Season == seasonInfo.SeasonNumber);
-                if (roundRosterListNR != null)
-                {
-                    roundRosterListNR.Roster = seasonRoster;
-                }
-            }
-
-            if (seasonInfo.IsFFA == false)
-            {
-                //Verify if player is misspelled or missing in teams
-                int playercheck = 0;
-                foreach (String player in seasonRoster)
-                {
-                    foreach (String team in seasonTeams)
-                    {
-                        if (team.Contains(player))
-                        {
-                            playercheck += 1;
-                        }
-                    }
-
-                    if (playercheck == 0)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " missing in teams! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
-                    }
-
-                    if (playercheck > 1)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ERROR: Player " + player + " duplicate in teams! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
-                    }
-
-                    playercheck = 0;
-                }
-
-                //Verify if player is misspelled or missing in victims
-                int teamcheck = 0;
-                foreach (String team in seasonTeams)
-                {
-                    String[] teamplayers = team.Split(',');
-
-                    foreach (String teamplayer in teamplayers)
-                    {
-                        if (seasonRoster.Contains(teamplayer))
-                        {
-                            teamcheck += 1;
-                        }
-
-                        if (teamcheck == 0)
-                        {
-                            Console.ForegroundColor = ConsoleColor.Red;
-                            Console.WriteLine("ERROR: Player " + teamplayer + " missing in victims! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
-                        }
-
-                        teamcheck = 0;
-                    }
-                }
-            }
+            //Verify IGNs for players in the deaths and teams for errors
+            StatsVerification.VerifyPlayers(seasonInfo, seasonLists);
 
             //Figures out if there is a double kill for first death, otherwise add +1 to the first death
-            IXLCell firstDeathKiller = roundPage.Cell(firstDataRow, lastDataColumn);
             IXLCell firstDeathVictim = roundPage.Cell(firstDataRow, firstDataColumn);
-            FirstDeathFinder.GetFirstDeath(globalStatsList, redditPosts, firstDeathList, seasonInfo, seasonNumberPost, firstDeathKiller, firstDeathVictim);
+            IXLCell firstDeathKiller = roundPage.Cell(firstDataRow, firstDataColumn + 2);
+            FirstDeathFinder.GetFirstDeath(globalStatsList, redditPosts, firstDeathList, seasonInfo, seasonNumberPost, firstDeathVictim, firstDeathKiller);
 
             //Gets ironman for the season
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
             if (seasonInfo.SeasonName.Equals("Party of One"))
             {
-                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 9, lastDataColumn);
+                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 9, firstDataColumn + 2);
                 IXLCell ironmanTimeCell = roundPage.Cell(10, firstDataColumn);
                 IronmanFinder.GetIronman(globalStatsList, redditPosts, ironmanList, seasonInfo, seasonNumberPost, ironmanRange, ironmanTimeCell);
             }
             else
             {
-                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 5, lastDataColumn);
+                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 5, firstDataColumn + 2);
                 IXLCell ironmanTimeCell = roundPage.Cell(6, firstDataColumn);
                 IronmanFinder.GetIronman(globalStatsList, redditPosts, ironmanList, seasonInfo, seasonNumberPost, ironmanRange, ironmanTimeCell);
             }
@@ -1024,37 +723,38 @@ else if (Statfunction == 4)
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
             if (seasonInfo.SeasonName.Equals("Party of One"))
             {
-                IXLRange firstDamageRange = roundPage.Range(11, firstDataColumn, 11, lastDataColumn);
+                IXLRange firstDamageRange = roundPage.Range(11, firstDataColumn, 11, firstDataColumn + 2);
                 IXLCell firstDamageTimeCell = roundPage.Cell(12, firstDataColumn);
                 FirstDamageFinder.GetFirstDamage(globalStatsList, redditPosts, firstDamageList, seasonInfo, seasonNumberPost, firstDamageRange, firstDamageTimeCell);
             }
             else
             {
-                IXLRange firstDamageRange = roundPage.Range(7, firstDataColumn, 7, lastDataColumn);
+                IXLRange firstDamageRange = roundPage.Range(7, firstDataColumn, 7, firstDataColumn + 2);
                 IXLCell firstDamageTimeCell = roundPage.Cell(8, firstDataColumn);
                 FirstDamageFinder.GetFirstDamage(globalStatsList, redditPosts, firstDamageList, seasonInfo, seasonNumberPost, firstDamageRange, firstDamageTimeCell);
             }
 
             //Loops through all the kiler cells
-            IXLRange killerRange = roundPage.Range(firstDataRow, lastDataColumn, firstDataRow + (seasonSize - 1), lastDataColumn);
+            IXLRange killerRange = roundPage.Range(firstDataRow, firstDataColumn + 2, firstDataRow + (seasonInfo.SeasonSize - 1), firstDataColumn + 2);
             KillsAnalyzer.GetKills(globalStatsList, redditPosts, killsList, firstBloodList, pveDeathList, pveCausesList, seasonInfo, killboard, seasonNumberPost, killerRange);
 
             //Gets top frags for the season
             //Skips rounds with 0 kills.
-            KillboardAnalyzer.GetMostKills(globalStatsList, redditPosts, topFragList, killRecordsList, seasonInfo, seasonTopFrag, seasonTeams, killboard, teamKillboard, seasonNumberPost);
-            RedditPostFormat.FormatTeamTopFrags(redditPosts,seasonInfo,killboard,teamKillboard,seasonNumberPost);
+            KillboardAnalyzer.GetMostKills(globalStatsList, redditPosts, topFragList, killRecordsList, seasonInfo, seasonLists, killboard, teamKillboard, seasonNumberPost);
+            RedditPostFormat.FormatTeamTopFrags(redditPosts, seasonInfo, killboard, teamKillboard, seasonNumberPost);
 
             //Get the winners of the season
             //If Nothing is a regular season ending and gives the win to the last player on the list
             //Else is either a double kill win or no wins and is figured out to give the wins needed
-            WinnerFinder.GetWinners(globalStatsList, winList, seasonInfo, winnerInfo, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
-            RedditPostFormat.FormatWins(redditPosts, seasonTeams, seasonWinnerAlive, seasonWinnerDead, killboard, seasonNumberPost);
+            winnerInfo.LastDataRowCell = roundPage.Cell(firstDataRow + (seasonInfo.SeasonSize - 1), firstDataColumn);
+            WinnerFinder.GetWinners(globalStatsList, winList, seasonInfo, winnerInfo, seasonLists);
+            RedditPostFormat.FormatWins(redditPosts, seasonLists, killboard, seasonNumberPost);
 
             //Get the runner ups of the season
             //If FFA it has to be the player above
             //Else figures out the next team after the winners
-            RunnerUpFinder.GetRunnerUps(globalStatsList, runnerUpList, seasonInfo, winnerInfo, seasonRunnerUps, seasonTeams);
-            RedditPostFormat.FormatRunnerUps(redditPosts, seasonRunnerUps, seasonTeams, seasonWinnerDead, killboard, seasonNumberPost);
+            RunnerUpFinder.GetRunnerUps(globalStatsList, runnerUpList, seasonInfo, winnerInfo, seasonLists);
+            RedditPostFormat.FormatRunnerUps(redditPosts, seasonLists, killboard, seasonNumberPost);
         }
 
         //Updates the roster size of the round

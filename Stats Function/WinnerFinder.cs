@@ -5,15 +5,15 @@ namespace StatsAnalyzer
     public class WinnerFinder
     {
         public static void SetSoloWinners(List<GlobalStats> globalStatsList, List<StatsList> winList, SeasonInfo seasonInfo, String winner,
-            List<String> seasonAlive, List<String> seasonWinnerAlive, List<String> seasonWinnerDead)
+            SeasonLists seasonLists)
         {
-            if (seasonAlive.Contains(winner))
+            if (seasonLists.SeasonAlive.Contains(winner))
             {
-                seasonWinnerAlive.Add(winner);
+                seasonLists.SeasonWinnerAlive.Add(winner);
             }
             else
             {
-                seasonWinnerDead.Add(winner);
+                seasonLists.SeasonWinnerDead.Add(winner);
             }
 
             if (seasonInfo.IsCrossoverSeason == false)
@@ -22,10 +22,10 @@ namespace StatsAnalyzer
                 winList.Add(new StatsList(seasonInfo, winner));
             }
         }
-        public static void SetTeamWinners(List<GlobalStats> globalStatsList, List<StatsList> winList, SeasonInfo seasonInfo, WinnerInfo winnerInfo, String teamWinner,
-            List<String> seasonAlive, List<String> seasonTeams, List<String> seasonWinnerAlive, List<String> seasonWinnerDead)
+        public static void SetTeamWinners(List<GlobalStats> globalStatsList, List<StatsList> winList, SeasonInfo seasonInfo, WinnerInfo winnerInfo, 
+            String teamWinner, SeasonLists seasonLists)
         {
-            foreach (String team in seasonTeams)
+            foreach (String team in seasonLists.SeasonTeams)
             {
                 if (team.Contains(teamWinner))
                 {
@@ -35,13 +35,13 @@ namespace StatsAnalyzer
                     String[] winnerSplit = team.Split(',');
                     foreach (String winner in winnerSplit)
                     {
-                        if (seasonAlive.Contains(winner))
+                        if (seasonLists.SeasonAlive.Contains(winner))
                         {
-                            seasonWinnerAlive.Add(winner);
+                            seasonLists.SeasonWinnerAlive.Add(winner);
                         }
                         else
                         {
-                            seasonWinnerDead.Add(winner);
+                            seasonLists.SeasonWinnerDead.Add(winner);
                         }
 
                         if (seasonInfo.IsCrossoverSeason == false)
@@ -54,7 +54,7 @@ namespace StatsAnalyzer
             }
         }
         public static void GetWinners(List<GlobalStats> globalStatsList, List<StatsList> winList, SeasonInfo seasonInfo, WinnerInfo winnerInfo,
-            List<String> seasonAlive, List<String> seasonTeams, List<String> seasonWinnerAlive, List<String> seasonWinnerDead)
+            SeasonLists seasonLists)
         {
             if (winnerInfo.LastDataRowCell.CellRight(2).GetString().Equals("Nothing"))
             {
@@ -92,11 +92,11 @@ namespace StatsAnalyzer
                 //If FFA no need to look for teams, else looks for the team
                 if (seasonInfo.IsFFA == true)
                 {
-                    SetSoloWinners(globalStatsList, winList, seasonInfo, winner, seasonAlive, seasonWinnerAlive, seasonWinnerDead);
+                    SetSoloWinners(globalStatsList, winList, seasonInfo, winner, seasonLists);
                 }
                 else
                 {
-                    SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, winner, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
+                    SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, winner, seasonLists);
                 }
 
                 //Detects double kill runner ups
@@ -140,20 +140,20 @@ namespace StatsAnalyzer
                     //If FFA no need to look for teams, else looks for the team
                     if (seasonInfo.IsFFA == true)
                     {
-                        SetSoloWinners(globalStatsList, winList, seasonInfo, teamWinner, seasonAlive, seasonWinnerAlive, seasonWinnerDead);
-                        SetSoloWinners(globalStatsList, winList, seasonInfo, secondTeamWinner, seasonAlive, seasonWinnerAlive, seasonWinnerDead);
+                        SetSoloWinners(globalStatsList, winList, seasonInfo, teamWinner, seasonLists);
+                        SetSoloWinners(globalStatsList, winList, seasonInfo, secondTeamWinner, seasonLists);
                     }
                     else
                     {
-                        SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, teamWinner, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
-                        SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, secondTeamWinner, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
+                        SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, teamWinner, seasonLists);
+                        SetTeamWinners(globalStatsList, winList, seasonInfo, winnerInfo, secondTeamWinner, seasonLists);
                     }
                 }
                 else
                 {
                     //No one won so the Ender Dragon killed everyone
                     winnerInfo.IsDragonWin = true;
-                    seasonWinnerDead.Add("Ender Dragon");
+                    seasonLists.SeasonWinnerDead.Add("Ender Dragon");
                 }
             }
         }

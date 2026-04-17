@@ -9,7 +9,10 @@ namespace StatsAnalyzer
         public DateTime SeasonDate { get; set; }
         public String SeasonGamemodes { get; set; }
         public String SeasonTeamType { get; set; }
+        public int SeasonSize { get; set; }
+        public int SeasonTeamSize { get; set; }
         public bool IsFFA { get; set; }
+        public bool IsNR { get; set; }
         public bool IsCrossoverSeason { get; set; }
 
         public SeasonInfo(IXLWorksheet roundPage, int firstDataColumn)
@@ -19,7 +22,10 @@ namespace StatsAnalyzer
             SeasonDate = roundPage.Cell(2, firstDataColumn).GetDateTime();
             SeasonGamemodes = roundPage.Cell(4, firstDataColumn).GetString();
             SeasonTeamType = roundPage.Cell(3, firstDataColumn + 1).GetString();
+            SeasonSize = 0;
+            SeasonTeamSize = 0;
             IsFFA = roundPage.Cell(3, firstDataColumn + 1).GetString().Equals("FFA");
+            IsNR = roundPage.Cell(1, firstDataColumn + 2).GetString().Equals("NR");
 
             //Sets round named to be changed for crossovers and ??? to not be called Sheet
             if (SeasonName.Contains("Sheet"))

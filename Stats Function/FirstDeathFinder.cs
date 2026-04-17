@@ -5,7 +5,7 @@ namespace StatsAnalyzer
     public class FirstDeathFinder
     {
         public static void GetFirstDeath(List<GlobalStats> globalStatsList, RedditPosts redditPosts, List<StatsList> firstDeathList, 
-            SeasonInfo seasonInfo, String seasonNumberPost, IXLCell firstDeathKiller, IXLCell firstDeathVictim)
+            SeasonInfo seasonInfo, String seasonNumberPost, IXLCell firstDeathVictim, IXLCell firstDeathKiller)
         {
             String killer = firstDeathKiller.GetString();
             String victim = firstDeathVictim.GetString();
