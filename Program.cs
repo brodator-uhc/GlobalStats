@@ -632,6 +632,7 @@ else if (Statfunction == 4)
     //Unique PvE Deaths
     List<PveCausesList> pveCausesList = new List<PveCausesList>();
     List<GamemodesList> gamemodesList = new List<GamemodesList>();
+    List<TeamTypeList> teamTypeList = new List<TeamTypeList>();
 
     //Goes through every stats tabs on the doc
     using var globalDocument = new XLWorkbook(filePath);
@@ -685,18 +686,18 @@ else if (Statfunction == 4)
             //Sets variables for stats logic
             List<String> seasonRoster = new List<String>();
             List<String> seasonDebutant = new List<String>();
-            List<String> seasonTopKills = new List<String>();
+            List<String> seasonTopFrag = new List<String>();
             List<String> seasonWinnerAlive = new List<String>();
             List<String> seasonWinnerDead = new List<String>();
             List<String> seasonAlive = new List<String>();
             List<String> seasonRunnerUps = new List<String>();
             List<String> seasonTeams = new List<String>();
-            Dictionary<String, int> rp_teamkills = new Dictionary<String, int>();
+            Dictionary<String, int> teamKillboard = new Dictionary<String, int>();
             Dictionary<String, int> killboard = new Dictionary<String, int>();
             WinnerInfo winnerInfo = new WinnerInfo(roundPage);
+            String seasonNumberPost = roundPage.Cell(1, firstDataColumn).GetString();
             int seasonSize = 0;
             int teamSize = 0;
-            int first_blood = 0;
             IXLRange teamRange = roundPage.Range(9, firstDataColumn, firstDataRow - 2, firstDataColumn);
 
             //Checks for season date not working chronologically
@@ -731,6 +732,20 @@ else if (Statfunction == 4)
                     else
                     {
                         gamemodesList.Add(new GamemodesList(scenario, 1));
+                    }
+                }
+
+                //Get team type list
+                String[] teamTypeSplit = seasonInfo.SeasonTeamType.Split(',');
+                foreach (String scenario in teamTypeSplit)
+                {
+                    if (teamTypeList.Any(gm => gm.TeamType == scenario))
+                    {
+                        TeamTypeList.UpdateTeamType(teamTypeList, scenario);
+                    }
+                    else
+                    {
+                        teamTypeList.Add(new TeamTypeList(scenario, 1));
                     }
                 }
             }
@@ -986,453 +1001,60 @@ else if (Statfunction == 4)
             }
 
             //Figures out if there is a double kill for first death, otherwise add +1 to the first death
-            if (roundPage.Cell(firstDataRow, firstDataColumn).GetString().Equals(roundPage.Cell(firstDataRow + 1, lastDataColumn).GetString())
-                && roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString().Equals(roundPage.Cell(firstDataRow, lastDataColumn).GetString()))
-            {
-                redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString() + " (Double Kill)" + Environment.NewLine);
-
-                if (seasonInfo.IsCrossoverSeason == false)
-                {
-                    String player1 = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
-                    String player2 = roundPage.Cell(firstDataRow + 1, firstDataColumn).GetString();
-                    GlobalStats.UpdateFirstDeaths(globalStatsList, player1);
-                    GlobalStats.UpdateFirstDeaths(globalStatsList, player2);
-
-                    //Add to first death list
-                    firstDeathList.Add(new StatsList(seasonInfo, player1));
-                    firstDeathList.Add(new StatsList(seasonInfo, player2));
-                }
-            }
-            else
-            {
-                if (seasonInfo.IsCrossoverSeason == false)
-                {
-                    String player = roundPage.Cell(firstDataRow, firstDataColumn).GetString();
-                    GlobalStats.UpdateFirstDeaths(globalStatsList, player);
-
-                    //Add to first death list
-                    firstDeathList.Add(new StatsList(seasonInfo, player));
-                }
-
-                //Double the stats for round exception
-                if (seasonInfo.SeasonName.Equals("Game Changer")
-                    && seasonInfo.SeasonNumber.Equals("5"))
-                {
-                    String secondHalf = roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString();
-                    GlobalStats.UpdateFirstDeaths(globalStatsList, secondHalf);
-                    redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " & " + roundPage.Cell(firstDataRow, firstDataColumn).CellBelow().GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
-
-                    //Add to first death list
-                    firstDeathList.Add(new StatsList(seasonInfo, secondHalf));
-                }
-                else
-                {
-                    if (roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString().Equals(""))
-                    {
-                        String method = roundPage.Cell(firstDataRow, firstDataColumn).CellRight(1).GetString();
-                        String pvedeath = PveCausesList.GetPveCause(method);
-                        redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + pvedeath + ")" + Environment.NewLine);
-
-                    }
-                    else
-                    {
-                        redditPosts.FirstDeath.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + roundPage.Cell(firstDataRow, firstDataColumn).GetString() + " (" + roundPage.Cell(firstDataRow, firstDataColumn).CellRight(2).GetString() + ")" + Environment.NewLine);
-                    }
-                }
-            }
+            IXLCell firstDeathKiller = roundPage.Cell(firstDataRow, lastDataColumn);
+            IXLCell firstDeathVictim = roundPage.Cell(firstDataRow, firstDataColumn);
+            FirstDeathFinder.GetFirstDeath(globalStatsList, redditPosts, firstDeathList, seasonInfo, seasonNumberPost, firstDeathKiller, firstDeathVictim);
 
             //Gets ironman for the season
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
-            IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 5, lastDataColumn);
-            IXLRange POOironmanRange = roundPage.Range(5, firstDataColumn, 9, lastDataColumn);
-            String ironman_post = "";
-            String ironman_time = "";
             if (seasonInfo.SeasonName.Equals("Party of One"))
             {
-                ironman_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
-                foreach (IXLCell cell in POOironmanRange.CellsUsed())
-                {
-                    string value = cell.GetString();
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateIronmans(globalStatsList, value);
-
-                        //Add to ironman list
-                        ironmanList.Add(new StatsList(seasonInfo, value));
-                    }
-
-                    ironman_post = ironman_post + value + ", ";
-                }
-                ironman_post = ironman_post.Remove(ironman_post.Length - 2);
-                if (roundPage.Cell(10, firstDataColumn).GetString().Equals(""))
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    //Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
-                }
-                else
-                {
-                    ironman_time = " (" + roundPage.Cell(10, firstDataColumn).GetString() + ":" + roundPage.Cell(10, middleDataColumn).GetString() + ":" + roundPage.Cell(10, lastDataColumn).GetString() + ")";
-                }
-                redditPosts.Ironman.Add(ironman_post + ironman_time + Environment.NewLine);
+                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 9, lastDataColumn);
+                IXLCell ironmanTimeCell = roundPage.Cell(10, firstDataColumn);
+                IronmanFinder.GetIronman(globalStatsList, redditPosts, ironmanList, seasonInfo, seasonNumberPost, ironmanRange, ironmanTimeCell);
             }
             else
             {
-                ironman_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
-                foreach (IXLCell cell in ironmanRange.CellsUsed())
-                {
-                    string value = cell.GetString();
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateIronmans(globalStatsList, value);
-
-                        //Add to ironman list
-                        ironmanList.Add(new StatsList(seasonInfo, value));
-                    }
-
-                    ironman_post = ironman_post + value + ", ";
-                }
-                ironman_post = ironman_post.Remove(ironman_post.Length - 2);
-                if (roundPage.Cell(6, firstDataColumn).GetString().Equals(""))
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    //Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
-                }
-                else
-                {
-                    ironman_time = " (" + roundPage.Cell(6, firstDataColumn).GetString() + ":" + roundPage.Cell(6, middleDataColumn).GetString() + ":" + roundPage.Cell(6, lastDataColumn).GetString() + ")";
-                }
-                redditPosts.Ironman.Add(ironman_post + ironman_time + Environment.NewLine);
+                IXLRange ironmanRange = roundPage.Range(5, firstDataColumn, 5, lastDataColumn);
+                IXLCell ironmanTimeCell = roundPage.Cell(6, firstDataColumn);
+                IronmanFinder.GetIronman(globalStatsList, redditPosts, ironmanList, seasonInfo, seasonNumberPost, ironmanRange, ironmanTimeCell);
             }
 
             //Gets first damage for the season
             //Different Range for Party Of One since ironman takes 5 rows for that sheet
-            IXLRange fdRange = roundPage.Range(7, firstDataColumn, 7, lastDataColumn);
-            IXLRange POOfdRange = roundPage.Range(11, firstDataColumn, 11, lastDataColumn);
-            String fd_post = "";
-            String fd_time = "";
             if (seasonInfo.SeasonName.Equals("Party of One"))
             {
-                fd_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
-                foreach (IXLCell cell in POOfdRange.CellsUsed())
-                {
-                    string value = cell.GetString();
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateFirstDamages(globalStatsList, value);
-
-                        //Add to first damage list
-                        firstDamageList.Add(new StatsList(seasonInfo, value));
-                    }
-
-                    fd_post = fd_post + value + ", ";
-                }
-
-                fd_post = fd_post.Remove(fd_post.Length - 2);
-                if (roundPage.Cell(12, firstDataColumn).GetString().Equals(""))
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    //Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
-                }
-                else
-                {
-                    fd_time = " (" + roundPage.Cell(12, firstDataColumn).GetString() + ":" + roundPage.Cell(12, middleDataColumn).GetString() + ":" + roundPage.Cell(12, lastDataColumn).GetString() + ")";
-                }
-                redditPosts.FirstDamage.Add(fd_post + fd_time + Environment.NewLine);
+                IXLRange firstDamageRange = roundPage.Range(11, firstDataColumn, 11, lastDataColumn);
+                IXLCell firstDamageTimeCell = roundPage.Cell(12, firstDataColumn);
+                FirstDamageFinder.GetFirstDamage(globalStatsList, redditPosts, firstDamageList, seasonInfo, seasonNumberPost, firstDamageRange, firstDamageTimeCell);
             }
             else
             {
-                fd_post = "**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** ";
-                foreach (IXLCell cell in fdRange.CellsUsed())
-                {
-                    string value = cell.GetString();
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        GlobalStats.UpdateFirstDamages(globalStatsList, value);
-
-                        //Add to first damage list
-                        firstDamageList.Add(new StatsList(seasonInfo, value));
-                    }
-
-                    fd_post = fd_post + value + ", ";
-                }
-
-                fd_post = fd_post.Remove(fd_post.Length - 2);
-                if (roundPage.Cell(8, firstDataColumn).GetString().Equals(""))
-                {
-                    Console.ForegroundColor = ConsoleColor.Yellow;
-                    //Console.WriteLine("ERROR: First Damage time missing! " + round_name + " " + season_number);
-                }
-                else
-                {
-                    fd_time = " (" + roundPage.Cell(8, firstDataColumn).GetString() + ":" + roundPage.Cell(8, middleDataColumn).GetString() + ":" + roundPage.Cell(8, lastDataColumn).GetString() + ")";
-                }
-                redditPosts.FirstDamage.Add(fd_post + fd_time + Environment.NewLine);
+                IXLRange firstDamageRange = roundPage.Range(7, firstDataColumn, 7, lastDataColumn);
+                IXLCell firstDamageTimeCell = roundPage.Cell(8, firstDataColumn);
+                FirstDamageFinder.GetFirstDamage(globalStatsList, redditPosts, firstDamageList, seasonInfo, seasonNumberPost, firstDamageRange, firstDamageTimeCell);
             }
 
             //Loops through all the kiler cells
             IXLRange killerRange = roundPage.Range(firstDataRow, lastDataColumn, firstDataRow + (seasonSize - 1), lastDataColumn);
-            foreach (IXLCell cell in killerRange.Cells())
-            {
-                String killer = cell.GetString();
-                String victim = cell.CellLeft(2).GetString();
-                String method = cell.CellLeft().GetString();
-
-                //Checks if killer is PvE or Player
-                if (globalStatsList.Any(p => p.Player == killer))
-                {
-                    //Sets values for the kill list
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, killer));
-
-                        //Adds +1 kill on global stats
-                        GlobalStats.UpdateKills(globalStatsList, killer);
-                    }
-
-                    RedditPostsKills.UpdateKills(redditPosts, killer, victim, seasonInfo.SeasonNumber);
-
-                    //Figures out the killboard of the season
-                    if (killboard.ContainsKey(killer))
-                    {
-                        killboard[killer] += 1;
-                    }
-                    else
-                    {
-                        killboard.Add(killer, 1);
-                    }
-
-                    //Check if there was a double kill for first blood, otherwise gives it to the first player found
-                    if (first_blood == 0)
-                    {
-                        if (killer.Equals(cell.CellBelow().CellLeft(2).GetString())
-                            && cell.CellBelow().GetString().Equals(cell.CellLeft(2).GetString()))
-                        {
-                            first_blood += 2;
-                            redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (Double Kill)" + Environment.NewLine);
-
-                            if (seasonInfo.IsCrossoverSeason == false)
-                            {
-                                String killer2 = cell.CellBelow().GetString();
-                                GlobalStats.UpdateFirstBloods(globalStatsList, killer);
-                                GlobalStats.UpdateFirstBloods(globalStatsList, cell.CellBelow().GetString());
-
-                                //Add to first blood list
-                                firstBloodList.Add(new StatsList(seasonInfo, killer));
-                                firstBloodList.Add(new StatsList(seasonInfo, killer2));
-                            }
-                        }
-                        else
-                        {
-                            first_blood += 1;
-                            if (seasonInfo.IsCrossoverSeason == false)
-                            {
-                                GlobalStats.UpdateFirstBloods(globalStatsList, killer);
-
-                                //Add to first blood list
-                                firstBloodList.Add(new StatsList(seasonInfo, killer));
-                            }
-
-                            //Double the stats for round exception
-                            if (seasonInfo.SeasonName.Equals("Game Changer")
-                                && seasonInfo.SeasonNumber.Equals("5"))
-                            {
-                                String secondHalf = cell.CellBelow().GetString();
-                                GlobalStats.UpdateFirstBloods(globalStatsList, secondHalf);
-                                redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " & " + cell.CellBelow().GetString() + " (" + cell.CellLeft(2).GetString() + " & " + cell.CellBelow().CellLeft(2).GetString() + ")" + Environment.NewLine);
-
-                                //Add to first blood list
-                                firstBloodList.Add(new StatsList(seasonInfo, secondHalf));
-                            }
-                            else
-                            {
-                                redditPosts.FirstBlood.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + killer + " (" + cell.CellLeft(2).GetString() + ")" + Environment.NewLine);
-                            }
-                        }
-                    }
-                }
-                else
-                {
-                    //Adds +1 PvE Death for the player
-                    if (!killer.Equals("Nothing"))
-                    {
-                        if (seasonInfo.IsCrossoverSeason == false)
-                        {
-                            String pveVictim = roundPage.Cell(cell.WorksheetRow().RowNumber(), firstDataColumn).GetString();
-                            GlobalStats.UpdatePveDeaths(globalStatsList, pveVictim);
-
-                            //Add to pve list
-                            pveDeathList.Add(new StatsList(seasonInfo, pveVictim));
-                        }
-
-                        //Filters all the unique pve deaths
-                        if (killer.Equals(""))
-                        {
-                            String pvedeath = PveCausesList.GetPveCause(method);
-
-                            if (seasonInfo.IsCrossoverSeason == false)
-                            {
-                                //Sets values for the kill list
-                                killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, pvedeath));
-
-                                if (pveCausesList.Any(p => p.PveCause == pvedeath))
-                                {
-                                    PveCausesList.UpdatePveCauses(pveCausesList, pvedeath);
-                                }
-                                else
-                                {
-                                    pveCausesList.Add(new PveCausesList(pvedeath, 1));
-                                }
-                            }
-
-                            RedditPostsPve.UpdatePve(redditPosts, pvedeath, victim, seasonInfo.SeasonNumber);
-                        }
-                        else
-                        {
-                            if (seasonInfo.IsCrossoverSeason == false)
-                            {
-                                //Sets values for the kill list
-                                killsList.Add(new KillsList(seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate, victim, method, killer));
-
-                                if (pveCausesList.Any(p => p.PveCause == killer))
-                                {
-                                    PveCausesList.UpdatePveCauses(pveCausesList, killer);
-                                }
-                                else
-                                {
-                                    pveCausesList.Add(new PveCausesList(killer, 1));
-                                }
-                            }
-
-                            RedditPostsPve.UpdatePve(redditPosts, killer, victim, seasonInfo.SeasonNumber);
-                        }
-
-                    }
-                }
-            }
+            KillsAnalyzer.GetKills(globalStatsList, redditPosts, killsList, firstBloodList, pveDeathList, pveCausesList, seasonInfo, killboard, seasonNumberPost, killerRange);
 
             //Gets top frags for the season
-            //Skips PolyCraft Egg Hunt since no one got kills in that
-            if (killboard.Count > 0)
-            {
-                int topFragAmount = killboard.Values.Max();
-                foreach (String killer in killboard.Keys)
-                {
-                    if (killboard[killer] == topFragAmount)
-                    {
-                        seasonTopKills.Add(killer);
-
-                        if (seasonInfo.IsCrossoverSeason == false)
-                        {
-                            GlobalStats.UpdateTopFrags(globalStatsList, killer);
-
-                            //Add to top frag list
-                            topFragList.Add(new StatsList(seasonInfo, killer));
-                        }
-                    }
-
-                    //Checks if the player that got kills beat their kill record
-                    if (seasonInfo.IsCrossoverSeason == false)
-                    {
-                        if (killRecordsList.Any(p => p.Player == killer))
-                        {
-                            KillRecords.UpdateKillRecord(killRecordsList, killer, killboard[killer], seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate);
-                        }
-                        else
-                        {
-                            //If first round with kills sets the kill record
-                            killRecordsList.Add(new KillRecords(killer, killboard[killer], seasonInfo.SeasonName, seasonInfo.SeasonNumber, seasonInfo.SeasonDate));
-                        }
-                    }
-                }
-                seasonTopKills.Sort();
-                String topkills = "";
-                foreach (String topkiller in seasonTopKills)
-                {
-                    topkills = topkills + topkiller + ", ";
-                }
-                topkills = topkills.Remove(topkills.Length - 2);
-                redditPosts.MostKills.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + topkills + " (" + topFragAmount + ")" + Environment.NewLine);
-            }
-
-            if (seasonInfo.IsFFA == false)
-            {
-                foreach (String team in seasonTeams)
-                {
-                    String[] team_player = team.Split(',');
-
-                    foreach (String player in team_player)
-                    {
-                        if (rp_teamkills.ContainsKey(team))
-                        {
-                            if (killboard.ContainsKey(player))
-                            {
-                                rp_teamkills[team] += killboard[player];
-                            }
-                            else
-                            {
-                                rp_teamkills[team] += 0;
-                            }
-                        }
-                        else
-                        {
-                            if (killboard.ContainsKey(player))
-                            {
-                                rp_teamkills.Add(team, killboard[player]);
-                            }
-                            else
-                            {
-                                rp_teamkills.Add(team, 0);
-                            }
-                        }
-                    }
-                }
-                String most_team_kills = "";
-                int teamTopFragAmount = rp_teamkills.Values.Max();
-                foreach (String team in rp_teamkills.Keys)
-                {
-                    if (rp_teamkills[team] == teamTopFragAmount)
-                    {
-                        String[] team_player = team.Split(',');
-
-                        foreach (String player in team_player)
-                        {
-                            if (killboard.ContainsKey(player))
-                            {
-                                most_team_kills += player + " (" + killboard[player] + "), ";
-                            }
-                            else
-                            {
-                                most_team_kills += player + " (0), ";
-                            }
-                        }
-
-                        if (!most_team_kills.Equals(""))
-                        {
-                            most_team_kills = most_team_kills.Remove(most_team_kills.Length - 2);
-                            most_team_kills += " & ";
-                        }
-                    }
-                }
-                most_team_kills = most_team_kills.Remove(most_team_kills.Length - 3);
-                redditPosts.MostKillsTeam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + most_team_kills + Environment.NewLine);
-            }
-            else
-            {
-                redditPosts.MostKillsTeam.Add("**S" + roundPage.Cell(1, firstDataColumn).GetString() + ":** " + "N/A" + Environment.NewLine);
-            }
+            //Skips rounds with 0 kills.
+            KillboardAnalyzer.GetMostKills(globalStatsList, redditPosts, topFragList, killRecordsList, seasonInfo, seasonTopFrag, seasonTeams, killboard, teamKillboard, seasonNumberPost);
+            RedditPostFormat.FormatTeamTopFrags(redditPosts,seasonInfo,killboard,teamKillboard,seasonNumberPost);
 
             //Get the winners of the season
             //If Nothing is a regular season ending and gives the win to the last player on the list
             //Else is either a double kill win or no wins and is figured out to give the wins needed
-            String seasonNumberPost = roundPage.Cell(1, firstDataColumn).GetString();
             WinnerFinder.GetWinners(globalStatsList, winList, seasonInfo, winnerInfo, seasonAlive, seasonTeams, seasonWinnerAlive, seasonWinnerDead);
-            RedditPostFormat.FormatWins(redditPosts, seasonInfo, seasonTeams, seasonWinnerAlive, seasonWinnerDead, killboard, seasonNumberPost);
+            RedditPostFormat.FormatWins(redditPosts, seasonTeams, seasonWinnerAlive, seasonWinnerDead, killboard, seasonNumberPost);
 
             //Get the runner ups of the season
             //If FFA it has to be the player above
             //Else figures out the next team after the winners
             RunnerUpFinder.GetRunnerUps(globalStatsList, runnerUpList, seasonInfo, winnerInfo, seasonRunnerUps, seasonTeams);
-            RedditPostFormat.FormatRunnerUps(redditPosts, seasonInfo, seasonRunnerUps, seasonTeams, seasonWinnerDead, killboard);
+            RedditPostFormat.FormatRunnerUps(redditPosts, seasonRunnerUps, seasonTeams, seasonWinnerDead, killboard, seasonNumberPost);
         }
 
         //Updates the roster size of the round
@@ -1447,7 +1069,7 @@ else if (Statfunction == 4)
     GlobalStats.UpdateKDRs(globalStatsList);
 
     //Takes all the lists and adds them to new docs to save
-    DataExporter.SaveRoundList(roundList, pveCausesList, gamemodesList, rostersList, rostersListNR, postFolder);
+    DataExporter.SaveRoundList(roundList, pveCausesList, gamemodesList, teamTypeList, rostersList, rostersListNR, postFolder);
     DataExporter.SaveRoundDebut(roundDebutsList, roundDebutsListNR, postFolder);
     DataExporter.SaveGlobalStats(globalStatsList, killRecordsList, postFolder);
     DataExporter.SaveCompiledStats(killsList, teamsList, firstDamageList, ironmanList, pveDeathList, firstDeathList, firstBloodList, topFragList, runnerUpList, aliveList, winList, postFolder);

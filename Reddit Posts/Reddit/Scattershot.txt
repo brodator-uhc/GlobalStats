@@ -28,7 +28,7 @@
 
 **S5:** Fcrm (3), Flcnt (0), JGSPanda (0), MaxEvasion (2)
 
-**S40/6:** AHSOKATANOSTAN (0), Brodator (2), CommanderK22_ (0), DevoyTTV (2), Evzenitable (0), GoldenNs (0), Kaddyn (2), Kaismartypants (1), Kingko24 (0), omchris (4), Renais (0), Sadwics (0), Supersun_ (0), Vetmire (2), wizarde (0)
+**S6:** AHSOKATANOSTAN (0), Brodator (2), CommanderK22_ (0), DevoyTTV (2), Evzenitable (0), GoldenNs (0), Kaddyn (2), Kaismartypants (1), Kingko24 (0), omchris (4), Renais (0), Sadwics (0), Supersun_ (0), Vetmire (2), wizarde (0)
 
 ---
 ### Most Kills
@@ -139,9 +139,9 @@
 
 **7th - JaydenFrBruh (4):** Plushy33 (S2), Pelycosaur (S4), 4EyedSlime (S4), Kaismartypants (S4)
 
-**7th - Kaismartypants (4):** Plushy33 (S1), Axeslayer (S1), OddishThoughts (S2), gmann (S40/6)
+**7th - Kaismartypants (4):** Plushy33 (S1), Axeslayer (S1), OddishThoughts (S2), gmann (S6)
 
-**7th - omchris (4):** Bornyo (S40/6), NerdThatsAGeek (S40/6), RadicalRat47 (S40/6), ModernPine (S40/6)
+**7th - omchris (4):** Bornyo (S6), NerdThatsAGeek (S6), RadicalRat47 (S6), ModernPine (S6)
 
 **11th - Enroh (3):** vDyre (S1), brinkwhy (S1), DatGuyAdam (S1)
 
@@ -149,19 +149,19 @@
 
 **11th - kirkomode (3):** JGSPanda (S2), Andronify (S2), hashtagmat (S3)
 
-**11th - Vetmire (3):** _Fost_ (S2), HeroGolem5 (S40/6), Caligators (S40/6)
+**11th - Vetmire (3):** _Fost_ (S2), HeroGolem5 (S6), Caligators (S6)
 
 **15th - Astele (2):** JoshC2 (S1), Cristehn (S1)
 
-**15th - Brodator (2):** _Fost_ (S40/6), SmokedPiggy (S40/6)
+**15th - Brodator (2):** _Fost_ (S6), SmokedPiggy (S6)
 
 **15th - DatGuyAdam (2):** Astele (S1), Kriannah (S1)
 
-**15th - DevoyTTV (2):** azoof (S40/6), Dj8ninja (S40/6)
+**15th - DevoyTTV (2):** azoof (S6), Dj8ninja (S6)
 
 **15th - ItzIgglesPiggles (2):** OddishThoughts (S3), Kolportiroas (S3)
 
-**15th - Kaddyn (2):** Codwhy (S40/6), kawaiibunri (S40/6)
+**15th - Kaddyn (2):** Codwhy (S6), kawaiibunri (S6)
 
 **15th - poWpaH (2):** deanomode (S4), dylxnd (S4)
 
@@ -177,13 +177,13 @@
 
 **24th - broccoliar (1):** CanadianWafflez (S5)
 
-**24th - Codwhy (1):** gsjan (S40/6)
+**24th - Codwhy (1):** gsjan (S6)
 
 **24th - ConBeanJones (1):** broccoliar (S4)
 
 **24th - Cristehn (1):** natsuvi (S1)
 
-**24th - Dj8ninja (1):** TheSlimeBrother (S40/6)
+**24th - Dj8ninja (1):** TheSlimeBrother (S6)
 
 **24th - dylxnd (1):** brinkwhy (S4)
 
@@ -195,7 +195,7 @@
 
 **24th - JoshC2 (1):** AdonisGaming (S4)
 
-**24th - kawaiibunri (1):** broccoliar (S40/6)
+**24th - kawaiibunri (1):** broccoliar (S6)
 
 **24th - Krimm (1):** BanMoon (S4)
 
@@ -205,7 +205,7 @@
 
 **24th - Pandie674 (1):** egl_ (S2)
 
-**24th - RadicalRat47 (1):** FluffyAri (S40/6)
+**24th - RadicalRat47 (1):** FluffyAri (S6)
 
 **24th - Sadwics (1):** broccoliar (S5)
 
@@ -213,16 +213,16 @@
 
 **24th - Zebobo10 (1):** Krimm (S5)
 
-**24th - zeesue (1):** StevenSharp (S40/6)
+**24th - zeesue (1):** StevenSharp (S6)
 
 ---
 ### PvE Deaths
 
-**Lava (4):** vDyre (S3), Plushy33 (S3), AdonisGaming (S3), hashtagmat (S40/6)
+**Lava (4):** vDyre (S3), Plushy33 (S3), AdonisGaming (S3), hashtagmat (S6)
 
 **Burning (3):** FearThrows (S4), YellowAuraa (S4), Corho (S4)
 
-**Fall (3):** Sadwics (S4), Flcnt (S40/6), AshRiolu100985 (S40/6)
+**Fall (3):** Sadwics (S4), Flcnt (S6), AshRiolu100985 (S6)
 
 **Creeper (2):** SlowATSV (S3), SSGSS4Goku (S3)
 

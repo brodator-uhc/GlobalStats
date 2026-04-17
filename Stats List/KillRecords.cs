@@ -1,14 +1,14 @@
 namespace StatsAnalyzer
 {
-    public class KillRecords(String player, int killRecord, String round, String season, DateTime date)
+    public class KillRecords(String player, int killRecord, SeasonInfo seasonInfo)
     {
         public String Player { get; set; } = player;
         public int KillRecord { get; set; } = killRecord;
-        public String Round { get; set; } = round;
-        public String Season { get; set; } = season;
-        public DateTime Date { get; set; } = date;
+        public String Round { get; set; } = seasonInfo.SeasonName;
+        public String Season { get; set; } = seasonInfo.SeasonNumber;
+        public DateTime Date { get; set; } = seasonInfo.SeasonDate;
 
-        public static void UpdateKillRecord(List<KillRecords> killRecordsList, String player, int killRecord, String round, String season, DateTime date)
+        public static void UpdateKillRecord(List<KillRecords> killRecordsList, String player, int killRecord, SeasonInfo seasonInfo)
         {
             var playerKillRecord = killRecordsList.Find(p => p.Player == player);
             if (playerKillRecord != null)
@@ -16,18 +16,18 @@ namespace StatsAnalyzer
                 if (killRecord > playerKillRecord.KillRecord)
                 {
                     playerKillRecord.KillRecord = killRecord;
-                    playerKillRecord.Round = round;
-                    playerKillRecord.Season = season;
-                    playerKillRecord.Date = date;
+                    playerKillRecord.Round = seasonInfo.SeasonName;
+                    playerKillRecord.Season = seasonInfo.SeasonNumber;
+                    playerKillRecord.Date = seasonInfo.SeasonDate;
                 }
                 else if (killRecord == playerKillRecord.KillRecord)
                 {
                     //If kill records are tied picks the first one that happened
-                    if (date < playerKillRecord.Date)
+                    if (seasonInfo.SeasonDate < playerKillRecord.Date)
                     {
-                        playerKillRecord.Round = round;
-                        playerKillRecord.Season = season;
-                        playerKillRecord.Date = date;
+                        playerKillRecord.Round = seasonInfo.SeasonName;
+                        playerKillRecord.Season = seasonInfo.SeasonNumber;
+                        playerKillRecord.Date = seasonInfo.SeasonDate;
                     }
                 }
             }
