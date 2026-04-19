@@ -4,7 +4,7 @@ namespace StatsAnalyzer
 {
     public class RedditPostFormat
     {
-        public static void FormatParticipations(RedditPosts redditPosts, SeasonLists seasonLists, String seasonNumberPost, 
+        public static void FormatParticipations(RedditPosts redditPosts, SeasonLists seasonLists, String seasonNumberPost,
             int firstDataColumn, IXLCell seasonNumberCell)
         {
             String seasonDebutantPost = "";
@@ -87,7 +87,8 @@ namespace StatsAnalyzer
                 redditPosts.MostKillsTeam.Add("**S" + seasonNumberPost + ":** " + "N/A" + Environment.NewLine);
             }
         }
-        public static void FormatWins(RedditPosts redditPosts, SeasonLists seasonLists, Dictionary<String, int> killboard, String seasonNumberPost)
+        public static void FormatWins(RedditPosts redditPosts, SeasonInfo seasonInfo, WinnerInfo winnerInfo, SeasonLists seasonLists,
+        Dictionary<String, int> killboard, String seasonNumberPost)
         {
             String winnerPost = " ";
             seasonLists.SeasonWinnerAlive.Sort();
@@ -120,27 +121,79 @@ namespace StatsAnalyzer
                     winnerPost = "** *";
                 }
             }
-            foreach (String winner in seasonLists.SeasonWinnerDead)
+            if (winnerInfo.IsDoubleKillWinner == false)
             {
-                if (killboard.TryGetValue(winner, out int kills))
+                winnerPost = FormatDeadWinners(seasonLists.SeasonWinnerDead, killboard, winnerPost);
+            }
+            else
+            {
+                if (seasonInfo.IsFFA == false)
                 {
-                    winnerPost += winner + " (" + kills + "), ";
+                String firstWinningTeam = "";
+                String secondWinningTeam = "";
+                foreach (String team in seasonLists.SeasonTeams)
+                {
+                    foreach (String winner in seasonLists.SeasonWinnerDead)
+                    {
+                        if (team.Contains(winner))
+                        {
+                            if (firstWinningTeam == "")
+                            {
+                                firstWinningTeam = team;
+                            } else
+                            {
+                                secondWinningTeam = team;
+                            }
+                        }
+                    }
+                }
+                String[] firstTeamList = firstWinningTeam.Split(',');
+                String[] secondTeamList = secondWinningTeam.Split(',');
+
+                winnerPost = FormatDeadWinners([.. firstTeamList], killboard, winnerPost);
+                winnerPost = winnerPost[..^2];
+                winnerPost += " & ";
+                winnerPost = FormatDeadWinners([.. secondTeamList], killboard, winnerPost);
                 }
                 else
                 {
-                    if (winner.Equals("Ender Dragon"))
-                    {
-                        winnerPost += winner + ", ";
-                    }
-                    else
-                    {
-                        winnerPost += winner + " (0), ";
-                    }
+                    String[] firstWinner = [""];
+                    String[] secondWinner = [""];
+
+                    firstWinner[0] = seasonLists.SeasonWinnerDead[0];
+                    secondWinner[0] = seasonLists.SeasonWinnerDead[1];
+
+                    winnerPost = FormatDeadWinners([.. firstWinner], killboard, winnerPost);
+                    winnerPost = winnerPost[..^2];
+                    winnerPost += " & ";
+                    winnerPost = FormatDeadWinners([.. secondWinner], killboard, winnerPost);
                 }
             }
             winnerPost = winnerPost[..^2];
             winnerPost += "*";
             redditPosts.Winners.Add("**S" + seasonNumberPost + ":" + winnerPost + Environment.NewLine);
+        }
+        public static String FormatDeadWinners(List<String> winnerList, Dictionary<String, int> killboard, String winnerPost)
+        {
+            foreach (String winner in winnerList)
+                {
+                    if (killboard.TryGetValue(winner, out int kills))
+                    {
+                        winnerPost += winner + " (" + kills + "), ";
+                    }
+                    else
+                    {
+                        if (winner.Equals("Ender Dragon"))
+                        {
+                            winnerPost += winner + ", ";
+                        }
+                        else
+                        {
+                            winnerPost += winner + " (0), ";
+                        }
+                    }
+                }
+            return winnerPost;
         }
         public static void FormatRunnerUps(RedditPosts redditPosts, SeasonLists seasonLists, Dictionary<String, int> killboard, String seasonNumberPost)
         {
@@ -148,9 +201,9 @@ namespace StatsAnalyzer
             seasonLists.SeasonRunnerUp.Sort();
             foreach (String runnerUp in seasonLists.SeasonRunnerUp)
             {
-                if (killboard.ContainsKey(runnerUp))
+                if (killboard.TryGetValue(runnerUp, out int kills))
                 {
-                    runnerUpPost += runnerUp + " (" + killboard[runnerUp] + "), ";
+                    runnerUpPost += runnerUp + " (" + kills + "), ";
                 }
                 else
                 {

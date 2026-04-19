@@ -5,7 +5,7 @@ using StatsAnalyzer;
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 1;
+int Statfunction = 4;
 // Player to analyze for the stats sheet
 String playerStats = "Kaismartypants";
 // Select the stat doc for global stats
@@ -297,7 +297,7 @@ else if (Statfunction == 4)
             //Else is either a double kill win or no wins and is figured out to give the wins needed
             winnerInfo.LastDataRowCell = roundPage.Cell(firstDataRow + (seasonInfo.SeasonSize - 1), firstDataColumn);
             WinnerFinder.GetWinners(globalStatsList, winList, seasonInfo, winnerInfo, seasonLists);
-            RedditPostFormat.FormatWins(redditPosts, seasonLists, killboard, seasonNumberPost);
+            RedditPostFormat.FormatWins(redditPosts, seasonInfo, winnerInfo, seasonLists, killboard, seasonNumberPost);
 
             //Get the runner ups of the season
             //If FFA it has to be the player above
