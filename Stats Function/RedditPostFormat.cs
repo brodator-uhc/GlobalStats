@@ -129,31 +129,32 @@ namespace StatsAnalyzer
             {
                 if (seasonInfo.IsFFA == false)
                 {
-                String firstWinningTeam = "";
-                String secondWinningTeam = "";
-                foreach (String team in seasonLists.SeasonTeams)
-                {
-                    foreach (String winner in seasonLists.SeasonWinnerDead)
+                    String firstWinningTeam = "";
+                    String secondWinningTeam = "";
+                    foreach (String team in seasonLists.SeasonTeams)
                     {
-                        if (team.Contains(winner))
+                        foreach (String winner in seasonLists.SeasonWinnerDead)
                         {
-                            if (firstWinningTeam == "")
+                            if (team.Contains(winner))
                             {
-                                firstWinningTeam = team;
-                            } else
-                            {
-                                secondWinningTeam = team;
+                                if (firstWinningTeam == "")
+                                {
+                                    firstWinningTeam = team;
+                                }
+                                else
+                                {
+                                    secondWinningTeam = team;
+                                }
                             }
                         }
                     }
-                }
-                String[] firstTeamList = firstWinningTeam.Split(',');
-                String[] secondTeamList = secondWinningTeam.Split(',');
+                    String[] firstTeamList = firstWinningTeam.Split(',');
+                    String[] secondTeamList = secondWinningTeam.Split(',');
 
-                winnerPost = FormatDeadWinners([.. firstTeamList], killboard, winnerPost);
-                winnerPost = winnerPost[..^2];
-                winnerPost += " & ";
-                winnerPost = FormatDeadWinners([.. secondTeamList], killboard, winnerPost);
+                    winnerPost = FormatDeadWinners([.. firstTeamList], killboard, winnerPost);
+                    winnerPost = winnerPost[..^2];
+                    winnerPost += " & ";
+                    winnerPost = FormatDeadWinners([.. secondTeamList], killboard, winnerPost);
                 }
                 else
                 {
@@ -176,38 +177,76 @@ namespace StatsAnalyzer
         public static String FormatDeadWinners(List<String> winnerList, Dictionary<String, int> killboard, String winnerPost)
         {
             foreach (String winner in winnerList)
-                {
-                    if (killboard.TryGetValue(winner, out int kills))
-                    {
-                        winnerPost += winner + " (" + kills + "), ";
-                    }
-                    else
-                    {
-                        if (winner.Equals("Ender Dragon"))
-                        {
-                            winnerPost += winner + ", ";
-                        }
-                        else
-                        {
-                            winnerPost += winner + " (0), ";
-                        }
-                    }
-                }
-            return winnerPost;
-        }
-        public static void FormatRunnerUps(RedditPosts redditPosts, SeasonLists seasonLists, Dictionary<String, int> killboard, String seasonNumberPost)
-        {
-            String runnerUpPost = "";
-            seasonLists.SeasonRunnerUp.Sort();
-            foreach (String runnerUp in seasonLists.SeasonRunnerUp)
             {
-                if (killboard.TryGetValue(runnerUp, out int kills))
+                if (killboard.TryGetValue(winner, out int kills))
                 {
-                    runnerUpPost += runnerUp + " (" + kills + "), ";
+                    winnerPost += winner + " (" + kills + "), ";
                 }
                 else
                 {
-                    runnerUpPost += runnerUp + " (0), ";
+                    if (winner.Equals("Ender Dragon"))
+                    {
+                        winnerPost += winner + ", ";
+                    }
+                    else
+                    {
+                        winnerPost += winner + " (0), ";
+                    }
+                }
+            }
+            return winnerPost;
+        }
+        public static void FormatRunnerUps(RedditPosts redditPosts, SeasonInfo seasonInfo, WinnerInfo winnerInfo, SeasonLists seasonLists, 
+            Dictionary<String, int> killboard, String seasonNumberPost)
+        {
+            String runnerUpPost = "";
+            seasonLists.SeasonRunnerUp.Sort();
+            if (winnerInfo.IsDoubleKillRunnerUp == false)
+            {
+                runnerUpPost = FormatRunnerUpPlayers(seasonLists.SeasonRunnerUp, killboard, runnerUpPost);
+            }else
+            {
+                if (seasonInfo.IsFFA == false)
+                {
+                    String firstRunnerUpTeam = "";
+                    String secondRunnerUpTeam = "";
+                    foreach (String team in seasonLists.SeasonTeams)
+                    {
+                        foreach (String runnerUp in seasonLists.SeasonRunnerUp)
+                        {
+                            if (team.Contains(runnerUp))
+                            {
+                                if (firstRunnerUpTeam == "")
+                                {
+                                    firstRunnerUpTeam = team;
+                                }
+                                else
+                                {
+                                    secondRunnerUpTeam = team;
+                                }
+                            }
+                        }
+                    }
+                    String[] firstTeamList = firstRunnerUpTeam.Split(',');
+                    String[] secondTeamList = secondRunnerUpTeam.Split(',');
+
+                    runnerUpPost = FormatRunnerUpPlayers([.. firstTeamList], killboard, runnerUpPost);
+                    runnerUpPost = runnerUpPost[..^2];
+                    runnerUpPost += " & ";
+                    runnerUpPost = FormatRunnerUpPlayers([.. secondTeamList], killboard, runnerUpPost);
+                }
+                else
+                {
+                    String[] firstRunnerUp = [""];
+                    String[] secondRunnerUp = [""];
+
+                    firstRunnerUp[0] = seasonLists.SeasonRunnerUp[0];
+                    secondRunnerUp[0] = seasonLists.SeasonRunnerUp[1];
+
+                    runnerUpPost = FormatRunnerUpPlayers([.. firstRunnerUp], killboard, runnerUpPost);
+                    runnerUpPost = runnerUpPost[..^2];
+                    runnerUpPost += " & ";
+                    runnerUpPost = FormatRunnerUpPlayers([.. secondRunnerUp], killboard, runnerUpPost);
                 }
             }
             if (seasonLists.SeasonTeams.Count == 1 && !seasonLists.SeasonWinnerDead.First().Equals("Ender Dragon"))
@@ -219,6 +258,21 @@ namespace StatsAnalyzer
                 runnerUpPost = runnerUpPost[..^2];
                 redditPosts.RunnerUps.Add("**S" + seasonNumberPost + ":** " + runnerUpPost + Environment.NewLine);
             }
+        }
+        public static String FormatRunnerUpPlayers(List<String> runnerUpList, Dictionary<String, int> killboard, String runnerUpPost)
+        {
+            foreach (String runnerUp in runnerUpList)
+            {
+                if (killboard.TryGetValue(runnerUp, out int kills))
+                {
+                    runnerUpPost += runnerUp + " (" + kills + "), ";
+                }
+                else
+                {
+                    runnerUpPost += runnerUp + " (0), ";
+                }
+            }
+            return runnerUpPost;
         }
     }
 }

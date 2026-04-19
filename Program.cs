@@ -303,7 +303,7 @@ else if (Statfunction == 4)
             //If FFA it has to be the player above
             //Else figures out the next team after the winners
             RunnerUpFinder.GetRunnerUps(globalStatsList, runnerUpList, seasonInfo, winnerInfo, seasonLists);
-            RedditPostFormat.FormatRunnerUps(redditPosts, seasonLists, killboard, seasonNumberPost);
+            RedditPostFormat.FormatRunnerUps(redditPosts, seasonInfo, winnerInfo, seasonLists, killboard, seasonNumberPost);
         }
 
         //Updates the roster size of the round
