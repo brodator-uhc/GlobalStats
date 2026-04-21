@@ -4,9 +4,9 @@ namespace StatsAnalyzer
 {
     public class DataExporter
     {
-        public static void ClearEmptyCells()
+        public static void ClearEmptyCells(String filePath)
         {
-            var toDelete = new XLWorkbook("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
+            var toDelete = new XLWorkbook(filePath);
             var playerStatsDoc = toDelete.Worksheet(1);
 
             foreach (var cell in playerStatsDoc.RangeUsed()!.Cells())
@@ -17,7 +17,7 @@ namespace StatsAnalyzer
                 }
             }
 
-            toDelete.SaveAs("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
+            toDelete.SaveAs(filePath);
         }
 
         public static void SaveRoundsGaps(List<RoundsGaps> roundsGap)
@@ -32,6 +32,35 @@ namespace StatsAnalyzer
             gapsDoc.SaveAs("..\\..\\..\\Stats Sheet\\Round Gaps.xlsx");
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Round Gaps are now compiled!");
+        }
+        public static void SaveRoundParticipations(List<RoundGapSheet> roundGapSheetList, String round, List<DateTime> seasonDateList, 
+            List<int> seasonGapList, List<String> seasonNumberList)
+        {
+            var gapsDoc = new XLWorkbook();
+            var gapsSheet = gapsDoc.AddWorksheet("Round Gaps");
+
+            gapsSheet.Row(1).Style.NumberFormat.Format = "mm/dd/yyyy";
+            gapsSheet.Cell(1, 5).InsertData(seasonDateList, transpose: true);
+            gapsSheet.Cell(2, 6).InsertData(seasonGapList, transpose: true);
+            gapsSheet.Cell(3, 5).InsertData(seasonNumberList, transpose: true);
+            int currentRow = 4;
+            foreach (var player in roundGapSheetList)
+            {
+                gapsSheet.Cell(currentRow, 1).Value = player.Number;
+                gapsSheet.Cell(currentRow, 2).Value = player.Player;
+                gapsSheet.Cell(currentRow, 3).Value = player.SeasonJoined;
+                gapsSheet.Cell(currentRow, 4).Value = player.TotalPlayed;
+                gapsSheet.Cell(currentRow, 5).InsertData(player.Participations, transpose: true);
+                currentRow++;
+            }
+
+            if (round == "???")
+            {
+                round = "3 Question Marks";
+            }
+
+            gapsDoc.SaveAs("..\\..\\..\\Stats Sheet\\Round Gaps\\" + round + ".xlsx");
+            Console.ForegroundColor = ConsoleColor.Green;
         }
         public static void SaveGlobalGaps(List<GlobalGaps> globalGap)
         {

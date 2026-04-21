@@ -5,7 +5,7 @@ using StatsAnalyzer;
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 4;
+int Statfunction = 1;
 // Player to analyze for the stats sheet
 String playerStats = "Kaismartypants";
 // Select the stat doc for global stats
@@ -99,7 +99,8 @@ else if (Statfunction == 3)
     DataExporter.SavePlayerStats(playerStatsList);
 
     //Deletes temporary filled cells
-    DataExporter.ClearEmptyCells();
+    String filePath = "..\\..\\..\\Stats Sheet\\Player Stats.xlsx";
+    DataExporter.ClearEmptyCells(filePath);
 
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Stats are now compiled for " + playerStats + "!");
