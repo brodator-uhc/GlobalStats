@@ -5,9 +5,10 @@ using StatsAnalyzer;
 // If 2 calculates list of global gaps
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
-int Statfunction = 1;
+// If 5 calculates trivia stats
+int Statfunction = 5;
 // Player to analyze for the stats sheet
-String playerStats = "Kaismartypants";
+String playerStats = "Brodator";
 // Select the stat doc for global stats
 // 1 for reddit
 // 2 for non-reddit
@@ -326,4 +327,28 @@ else if (Statfunction == 4)
 
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine("Stats are now compiled!");
+}
+else if (Statfunction == 5)
+{
+    //IGN of the player to analyze
+    String statsListDoc = "..\\..\\..\\Stats Sheet\\Reddit\\Stats_Compiled.xlsx";
+    List<TriviaCount> triviaCounts = [];
+
+    if (!File.Exists(statsListDoc))
+    {
+        Console.ForegroundColor = ConsoleColor.Red;
+        Console.WriteLine($"Error: File not found at {statsListDoc}");
+        return;
+    }
+
+    using var statsDocument = new XLWorkbook(statsListDoc);
+
+    //Calculate the players stats for each rounds played
+    TriviaCalculator.CalculateTrivia(triviaCounts, statsDocument);
+
+    //Saves the new stat doc
+    DataExporter.SaveTriviaStats(triviaCounts);
+
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine("Trivia is now compiled!");
 }

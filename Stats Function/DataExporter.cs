@@ -33,7 +33,7 @@ namespace StatsAnalyzer
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("Round Gaps are now compiled!");
         }
-        public static void SaveRoundParticipations(List<RoundGapSheet> roundGapSheetList, String round, List<DateTime> seasonDateList, 
+        public static void SaveRoundParticipations(List<RoundGapSheet> roundGapSheetList, String round, List<DateTime> seasonDateList,
             List<int> seasonGapList, List<String> seasonNumberList)
         {
             var gapsDoc = new XLWorkbook();
@@ -251,6 +251,17 @@ namespace StatsAnalyzer
             compiledWinSheet.Sort(3, XLSortOrder.Ascending);
 
             compiledStatsDoc.SaveAs("..\\..\\..\\Stats Sheet\\" + postFolder + "\\Stats_Compiled.xlsx");
+        }
+
+        public static void SaveTriviaStats(List<TriviaCount> triviaCounts)
+        {
+            var statsDoc = new XLWorkbook();
+            var statSheet = statsDoc.AddWorksheet("Lava Kills");
+
+            statSheet.Cell(1, 1).InsertData(triviaCounts);
+            statSheet.Sort(2, XLSortOrder.Descending);
+
+            statsDoc.SaveAs("..\\..\\..\\Stats Sheet\\Trivia Stats.xlsx");
         }
     }
 }
