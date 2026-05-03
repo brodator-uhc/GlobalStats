@@ -734,7 +734,7 @@
 
 **Explosion (2):** LongaVita (S19), Zarky (S19)
 
-**Cave Spider (1):** Kubaslov (S30)
+**Cave Spider (1):** Nikikula (S30)
 
 **Comply (1):** QuilJ1 (S31)
 
@@ -819,7 +819,7 @@
 
 **2 Seasons (9):** peteyboo (S1,S4), EestiCrafter (S5-S6), TGMB1 (S6,S16), ColdFusion5 (S10,S12), ghowden (S15,S20), Hollymatman (S18,S23), boyceterous (S20,S30), Krenzinator (S28,S30), oworca (S30-S31)
 
-**1 Season (32):** Lorgon111 (S6), xXSwiftArrowzXx (S10), BloodStinger745 (S12), Kampel125 (S18), HunterWolf (S23), TheMop (S24), dRawry (S26), Timonscholte (S26), scriblur (S28), AvaCos (S30), Brodator (S30), buttergolem1 (S30), ColdBac (S30), Cyonal (S30), DarkCrystalFlame (S30), ElGavinoSupremo (S30), Emerric (S30), Greeples (S30), Jakekub (S30), jamertxn (S30), KatyLawson (S30), KirbyMD (S30), Kubaslov (S30), Ninjajaja (S30), Regifloat (S30), TastyBaconZ (S30), ToucanTom (S30), Phoebe (S31), Bobbytheturtle (S32), Flohp (S32), Guardaxion (S32), tagggz (S32)
+**1 Season (32):** Lorgon111 (S6), xXSwiftArrowzXx (S10), BloodStinger745 (S12), Kampel125 (S18), HunterWolf (S23), TheMop (S24), dRawry (S26), Timonscholte (S26), scriblur (S28), AvaCos (S30), Brodator (S30), buttergolem1 (S30), ColdBac (S30), Cyonal (S30), DarkCrystalFlame (S30), ElGavinoSupremo (S30), Emerric (S30), Greeples (S30), Jakekub (S30), jamertxn (S30), KatyLawson (S30), KirbyMD (S30), Nikikula (S30), Ninjajaja (S30), Regifloat (S30), TastyBaconZ (S30), ToucanTom (S30), Phoebe (S31), Bobbytheturtle (S32), Flohp (S32), Guardaxion (S32), tagggz (S32)
 
 ---
 ### Debutants
@@ -882,7 +882,7 @@
 
 **S29 (4):** KOKeowner, LordLaelaps, Micale, pigghetti
 
-**S30 (20):** AvaCos, Brodator, brodioh, buttergolem1, ColdBac, Cyonal, DarkCrystalFlame, ElGavinoSupremo, Emerric, Greeples, Jakekub, jamertxn, KatyLawson, KirbyMD, Kubaslov, Ninjajaja, oworca, Regifloat, TastyBaconZ, ToucanTom
+**S30 (20):** AvaCos, Brodator, brodioh, buttergolem1, ColdBac, Cyonal, DarkCrystalFlame, ElGavinoSupremo, Emerric, Greeples, Jakekub, jamertxn, KatyLawson, KirbyMD, Nikikula, Ninjajaja, oworca, Regifloat, TastyBaconZ, ToucanTom
 
 **S31 (1):** Phoebe
 

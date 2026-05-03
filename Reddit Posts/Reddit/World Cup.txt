@@ -171,7 +171,7 @@
 ---
 ### Kills
 
-**1st - RemyChingling (15):** Zevulpes (S6), 5kylord (S6), Kubaslov (S6), JaeHasNoMaidens (S6), GhostLikesCakes (S6), Zahkari (S7), InsertDotJpeg (S7), GhostLikesCakes (S7), ShimamuraUzuki (S7), Godrixcs (S7), Greeples (S7), dahii (S9), EyeBlack (S9), ShyGus (S9), IMZ_imanzaza (S9)
+**1st - RemyChingling (15):** Zevulpes (S6), 5kylord (S6), Nikikula (S6), JaeHasNoMaidens (S6), GhostLikesCakes (S6), Zahkari (S7), InsertDotJpeg (S7), GhostLikesCakes (S7), ShimamuraUzuki (S7), Godrixcs (S7), Greeples (S7), dahii (S9), EyeBlack (S9), ShyGus (S9), IMZ_imanzaza (S9)
 
 **2nd - checog (14):** dahii (S6), MarcC5M (S6), Glarza (S6), RemyChingling (S6), marcusmtm (S9), MaxCringe (S9), Gabey (S9), AiroKun (S9), Karliffu (S9), Exee (S9), brodioh (S9), IsaacMT (S9), ChrisCD (S9), PLENT (S9)
 
@@ -179,11 +179,11 @@
 
 **4th - _Cleg (10):** IsaacMT (S1), Mop19 (S1), Skymeagle (S1), Daffz (S1), Reeppm (S1), Chasmic (S1), FazedMC (S1), CaesarOctavius (S1), Omyga (S3), Awticon (S3)
 
-**4th - Bobbytheturtle (10):** Faqunn (S5), m4ku (S5), Kubaslov (S7), centraleric (S9), Zylen (S9), GungL9 (S9), JohnHorrid (S9), _Dieter (S9), _shi (S9), RemyChingling (S9)
+**4th - Bobbytheturtle (10):** Faqunn (S5), m4ku (S5), Nikikula (S7), centraleric (S9), Zylen (S9), GungL9 (S9), JohnHorrid (S9), _Dieter (S9), _shi (S9), RemyChingling (S9)
 
 **4th - poWpaH (10):** Fancyyy (S5), InsertDotJpeg (S5), Fensua (S5), Radical24 (S5), TheAuri (S5), spittoon (S5), Tharve (S8), Applepie78 (S8), Fra49 (S8), WALRUS_TIME (S8)
 
-**7th - m4ku (9):** Wqbbit (S4), Kiinako_ (S4), ScottPirie (S4), Kubaslov (S4), Awticon (S4), Karliffu (S5), GhostLikesCakes (S5), Broseph (S5), wizarde (S5)
+**7th - m4ku (9):** Wqbbit (S4), Kiinako_ (S4), ScottPirie (S4), Nikikula (S4), Awticon (S4), Karliffu (S5), GhostLikesCakes (S5), Broseph (S5), wizarde (S5)
 
 **8th - 5kylord (8):** Fra49 (S3), Hoookey (S3), Haama_ (S4), aalaan (S4), JaeHasNoMaidens (S4), m4ku (S4), egl_ (S8), TheSlimeBrother (S8)
 
@@ -225,7 +225,7 @@
 
 **27th - chloesad (4):** Frostbreath (S1), Chipzzy (S1), Odennn (S1), Axer_ (S1)
 
-**27th - ChrisCD (4):** spittoon (S9), tonylmao (S9), Dargxn (S9), Bobbytheturtle (S9)
+**27th - ChrisCD (4):** spittoon (S9), Tonylmao (S9), Dargxn (S9), Bobbytheturtle (S9)
 
 **27th - Karliffu (4):** FunnyWill_ (S5), ItsColinn (S7), CHAINGE (S9), kipr (S9)
 
@@ -253,7 +253,7 @@
 
 **33rd - Ryfri (3):** typhlo0o (S5), I_is_cheesecake (S5), bjr201111 (S5)
 
-**33rd - tonylmao (3):** Chasmic (S9), Zahkari (S9), Valnius (S9)
+**33rd - Tonylmao (3):** Chasmic (S9), Zahkari (S9), Valnius (S9)
 
 **33rd - WALRUS_TIME (3):** BowSpamLover (S3), QuilJ1 (S3), PotaTomas (S5)
 
@@ -283,7 +283,7 @@
 
 **44th - Hacn35 (2):** Awticon (S5), Zahkari (S5)
 
-**44th - Kubaslov (2):** BSBrent (S4), egl_ (S5)
+**44th - Nikikula (2):** BSBrent (S4), egl_ (S5)
 
 **44th - pierce981 (2):** Godrixcs (S3), Hacn35 (S3)
 
@@ -337,7 +337,7 @@
 
 **67th - Kiinako_ (1):** Frostbreath (S2)
 
-**67th - neonpoop (1):** Kubaslov (S5)
+**67th - neonpoop (1):** Nikikula (S5)
 
 **67th - Plushy33 (1):** poWpaH (S6)
 
@@ -401,13 +401,13 @@
 
 **5 Seasons (8):** Daffz (S1-S5), IsaacMT (S1-S4,S9), JaeHasNoMaidens (S2-S4,S6,S9), Fra49 (S3-S6,S8), m4ku (S3-S5,S8-S9), Karliffu (S5-S9), poWpaH (S5-S9), spittoon (S5-S9)
 
-**4 Seasons (14):** Chasmic (S1-S3,S9), Kiinako_ (S1-S4), Zylen (S1-S2,S7,S9), DancersTalon (S2-S3,S5,S9), Fancyyy (S2-S5), Godrixcs (S2-S3,S7-S8), Sluggyg (S2-S4,S9), WALRUS_TIME (S2-S3,S5,S8), Awticon (S3-S6), frogsella (S3-S5,S7), Rasguer (S3,S5,S7-S8), Kubaslov (S4-S7), Phyrrus (S5,S7-S9), dahii (S6-S9)
+**4 Seasons (14):** Chasmic (S1-S3,S9), Kiinako_ (S1-S4), Zylen (S1-S2,S7,S9), DancersTalon (S2-S3,S5,S9), Fancyyy (S2-S5), Godrixcs (S2-S3,S7-S8), Sluggyg (S2-S4,S9), WALRUS_TIME (S2-S3,S5,S8), Awticon (S3-S6), frogsella (S3-S5,S7), Rasguer (S3,S5,S7-S8), Nikikula (S4-S7), Phyrrus (S5,S7-S9), dahii (S6-S9)
 
 **3 Seasons (24):** _Cleg (S1,S3,S7), Frostbreath (S1-S3), VeniiiD (S1-S3), BSBrent (S2-S4), EyeBlack (S2,S4,S9), tilargo (S2-S3,S5), typhlo0o (S2-S3,S5), BowSpamLover (S3-S5), Hacn35 (S3-S5), tescobagforlife (S3-S4,S7), xMisha (S4-S6), AiroKun (S5-S6,S9), Bobbytheturtle (S5,S7,S9), egl_ (S5,S7-S8), GhostLikesCakes (S5-S7), Plushy33 (S5-S6,S9), Ryfri (S5,S7,S9), Tharve (S5-S6,S8), Zahkari (S5,S7,S9), CodeJoshua (S6-S8), Dargxn (S6-S7,S9), Glarza (S6,S8-S9), RemyChingling (S6-S7,S9), TonyEatWorld (S6-S8)
 
 **2 Seasons (35):** 016Nojr (S1,S5), Axer_ (S1,S3), BaneOfSmite (S1,S3), chloesad (S1-S2), Odennn (S1,S5), pierce981 (S1,S3), rippersteveM5 (S1-S2), Haama_ (S2,S4), Jpgesus (S2-S3), TheSonicJoey (S2,S4), xote2000 (S2-S3), lottebunny (S3,S9), Omyga (S3,S5), aalaan (S4,S8), ScottPirie (S4-S5), wibbol (S4-S5), Eluniel (S5,S7), Fensua (S5,S8), Keelando (S5,S7), Radical24 (S5,S9), wizarde (S5,S8), _Dieter (S6,S9), checog (S6,S9), DarV2 (S6-S7), PLENT (S6,S9), ItsColinn (S7-S8), MaxCringe (S7,S9), Rohcket (S7-S8), Ten10TH (S7,S9), Valnius (S7,S9), CHAINGE (S8-S9), DJoee (S8-S9), IMZ_imanzaza (S8-S9), kipr (S8-S9), TheSlimeBrother (S8-S9)
 
-**1 Season (115):** CaesarOctavius (S1), Chipzzy (S1), FazedMC (S1), FrozenBenny (S1), GRLH (S1), Mop19 (S1), rattyplayz (S1), Reeppm (S1), Skymeagle (S1), Edviin_ (S2), Long_Journey (S2), oworca (S2), powermc (S2), Shadoune666 (S2), sirples (S2), AvaCos (S3), awesomemacD (S3), Dancoqui (S3), Emylyl (S3), Ferkikudo (S3), flameorb (S3), HoneyFromHell (S3), Hoookey (S3), IncredibleDino (S3), JamestheDouglas (S3), Krenzinator (S3), MajorWoof (S3), matking91 (S3), Maxwellfifty (S3), Nykke420 (S3), PMC_Sanji (S3), QuilJ1 (S3), vynil (S3), Jordtim (S4), LegoBeast (S4), ThePeridotKnight (S4), Wqbbit (S4), _Glen (S5), BardMain2 (S5), bjr201111 (S5), Brodator (S5), Broseph (S5), CocoBenja (S5), ColdBac (S5), Emerric (S5), Faqunn (S5), FunnyWill_ (S5), ghostblurr (S5), I_is_cheesecake (S5), Just_Gerald (S5), Kieranborn (S5), KOKeowner (S5), Linkelf0rz (S5), MBeaar (S5), Micale (S5), Nek0r_ (S5), neonpoop (S5), nFang (S5), PedroLeGamer (S5), PhatManuMaster (S5), PotaTomas (S5), PresidentFleb (S5), Riloox (S5), SrSebas (S5), TheAuri (S5), Ullti (S5), WackoFlipper (S5), Bradzi (S6), c1n (S6), ethodog (S6), Flcnt (S6), Jakekub (S6), jamertxn (S6), MarcC5M (S6), spoood (S6), TheBP (S6), Zevulpes (S6), Captureee (S7), CipherKai (S7), discoczibi (S7), Greeples (S7), Hecticity (S7), ItsMeAR10 (S7), ItsShqky (S7), JokTwo (S7), Lighte (S7), qFern (S7), ShimamuraUzuki (S7), T1mT0m (S7), TorinFBF (S7), Applepie78 (S8), Clemjo (S8), flameh (S8), Randehh (S8), Stravilight (S8), tagggz (S8), _1mmortal_ (S9), _shi (S9), broccoliar (S9), brodioh (S9), centraleric (S9), ChrisCD (S9), DevoyTTV (S9), Exee (S9), Gabey (S9), GungL9 (S9), JohnHorrid (S9), JosephCFC18 (S9), marcusmtm (S9), Mrakoslav (S9), ShyGus (S9), solnyki (S9), TheKevGuy (S9), tonylmao (S9), zCent (S9)
+**1 Season (115):** CaesarOctavius (S1), Chipzzy (S1), FazedMC (S1), FrozenBenny (S1), GRLH (S1), Mop19 (S1), rattyplayz (S1), Reeppm (S1), Skymeagle (S1), Edviin_ (S2), Long_Journey (S2), oworca (S2), powermc (S2), Shadoune666 (S2), sirples (S2), AvaCos (S3), awesomemacD (S3), Dancoqui (S3), Emylyl (S3), Ferkikudo (S3), flameorb (S3), HoneyFromHell (S3), Hoookey (S3), IncredibleDino (S3), JamestheDouglas (S3), Krenzinator (S3), MajorWoof (S3), matking91 (S3), Maxwellfifty (S3), Nykke420 (S3), PMC_Sanji (S3), QuilJ1 (S3), vynil (S3), Jordtim (S4), LegoBeast (S4), ThePeridotKnight (S4), Wqbbit (S4), _Glen (S5), BardMain2 (S5), bjr201111 (S5), Brodator (S5), Broseph (S5), CocoBenja (S5), ColdBac (S5), Emerric (S5), Faqunn (S5), FunnyWill_ (S5), ghostblurr (S5), I_is_cheesecake (S5), Just_Gerald (S5), Kieranborn (S5), KOKeowner (S5), Linkelf0rz (S5), MBeaar (S5), Micale (S5), Nek0r_ (S5), neonpoop (S5), nFang (S5), PedroLeGamer (S5), PhatManuMaster (S5), PotaTomas (S5), PresidentFleb (S5), Riloox (S5), SrSebas (S5), TheAuri (S5), Ullti (S5), WackoFlipper (S5), Bradzi (S6), c1n (S6), ethodog (S6), Flcnt (S6), Jakekub (S6), jamertxn (S6), MarcC5M (S6), spoood (S6), TheBP (S6), Zevulpes (S6), Captureee (S7), CipherKai (S7), discoczibi (S7), Greeples (S7), Hecticity (S7), ItsMeAR10 (S7), ItsShqky (S7), JokTwo (S7), Lighte (S7), qFern (S7), ShimamuraUzuki (S7), T1mT0m (S7), TorinFBF (S7), Applepie78 (S8), Clemjo (S8), flameh (S8), Randehh (S8), Stravilight (S8), tagggz (S8), _1mmortal_ (S9), _shi (S9), broccoliar (S9), brodioh (S9), centraleric (S9), ChrisCD (S9), DevoyTTV (S9), Exee (S9), Gabey (S9), GungL9 (S9), JohnHorrid (S9), JosephCFC18 (S9), marcusmtm (S9), Mrakoslav (S9), ShyGus (S9), solnyki (S9), TheKevGuy (S9), Tonylmao (S9), zCent (S9)
 
 ---
 ### Debutants
@@ -418,7 +418,7 @@
 
 **S3 (29):** 5kylord, AvaCos, awesomemacD, Awticon, BowSpamLover, Dancoqui, Emylyl, Ferkikudo, flameorb, Fra49, frogsella, Hacn35, HoneyFromHell, Hoookey, IncredibleDino, JamestheDouglas, Krenzinator, lottebunny, m4ku, MajorWoof, matking91, Maxwellfifty, Nykke420, Omyga, PMC_Sanji, QuilJ1, Rasguer, tescobagforlife, vynil
 
-**S4 (9):** aalaan, Jordtim, Kubaslov, LegoBeast, ScottPirie, ThePeridotKnight, wibbol, Wqbbit, xMisha
+**S4 (9):** aalaan, Jordtim, LegoBeast, Nikikula, ScottPirie, ThePeridotKnight, wibbol, Wqbbit, xMisha
 
 **S5 (47):** _Glen, AiroKun, BardMain2, bjr201111, Bobbytheturtle, Brodator, Broseph, CocoBenja, ColdBac, egl_, Eluniel, Emerric, Faqunn, Fensua, FunnyWill_, ghostblurr, GhostLikesCakes, I_is_cheesecake, Just_Gerald, Karliffu, Keelando, Kieranborn, KOKeowner, Linkelf0rz, MBeaar, Micale, Nek0r_, neonpoop, nFang, PedroLeGamer, PhatManuMaster, Phyrrus, Plushy33, PotaTomas, poWpaH, PresidentFleb, Radical24, Riloox, Ryfri, spittoon, SrSebas, Tharve, TheAuri, Ullti, WackoFlipper, wizarde, Zahkari
 
@@ -428,6 +428,6 @@
 
 **S8 (11):** Applepie78, CHAINGE, Clemjo, DJoee, flameh, IMZ_imanzaza, kipr, Randehh, Stravilight, tagggz, TheSlimeBrother
 
-**S9 (19):** _1mmortal_, _shi, broccoliar, brodioh, centraleric, ChrisCD, DevoyTTV, Exee, Gabey, GungL9, JohnHorrid, JosephCFC18, marcusmtm, Mrakoslav, ShyGus, solnyki, TheKevGuy, tonylmao, zCent
+**S9 (19):** _1mmortal_, _shi, broccoliar, brodioh, centraleric, ChrisCD, DevoyTTV, Exee, Gabey, GungL9, JohnHorrid, JosephCFC18, marcusmtm, Mrakoslav, ShyGus, solnyki, TheKevGuy, Tonylmao, zCent
 
 ---

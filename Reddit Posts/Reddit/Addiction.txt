@@ -337,7 +337,7 @@
 
 **9th - ScottPirie (9):** 5kylord (S12), chloesad (S13), ColdBac (S13), m4ku (S14), Radical24 (S14), xMisha (S14), MBeaar (S14), wibbol (S17), Bacan (S18)
 
-**12th - Bacan (8):** wibbol (S14), Austronomical (S15), MajorWoof (S15), WackoFlipper (S15), Odennn (S15), Kubaslov (S15), Randehh (S16), PitSolitayrh (S17)
+**12th - Bacan (8):** wibbol (S14), Austronomical (S15), MajorWoof (S15), WackoFlipper (S15), Odennn (S15), Nikikula (S15), Randehh (S16), PitSolitayrh (S17)
 
 **12th - Swedish_ (8):** Mentally (S4), thelarsi97 (S5), MrCraftinator (S6), _Bogo (S6), ScottPirie (S8), Cookiecrumble_ (S8), GeeSam (S8), mjdwow (S9)
 
@@ -391,7 +391,7 @@
 
 **28th - MBeaar (4):** ScottPirie (S13), Bacan (S14), spittoon (S17), spoood (S18)
 
-**28th - Rohcket (4):** Awticon (S17), NotMyLights (S18), Kubaslov (S18), RemyChingling (S18)
+**28th - Rohcket (4):** Awticon (S17), NotMyLights (S18), Nikikula (S18), RemyChingling (S18)
 
 **28th - Shadoune666 (4):** Kingsy_ (S4), MrPolzerino (S7), PythonRrR (S7), Hollymatman (S8)
 
@@ -407,7 +407,7 @@
 
 **45th - chloesad (3):** MrCraftinator (S13), RemyChingling (S15), BSBrent (S15)
 
-**45th - ColdBac (3):** HiImCC (S13), FazedMC (S13), Kubaslov (S17)
+**45th - ColdBac (3):** HiImCC (S13), FazedMC (S13), Nikikula (S17)
 
 **45th - Joeninetyjc (3):** Hannilala (S5), Havenhand (S8), MrPolzerino (S8)
 
@@ -485,8 +485,6 @@
 
 **76th - Kloudian (1):** Kingsy_ (S5)
 
-**76th - Kubaslov (1):** ScottPirie (S18)
-
 **76th - LeonTG (1):** MBeaar (S10)
 
 **76th - MadSainter (1):** Ruari (S5)
@@ -496,6 +494,8 @@
 **76th - MajorWoof (1):** Keelando (S15)
 
 **76th - mmee04 (1):** 5kylord (S13)
+
+**76th - Nikikula (1):** ScottPirie (S18)
 
 **76th - NotMyLights (1):** MaxCringe (S18)
 
@@ -512,7 +512,7 @@
 
 **Fall (11):** hammer_fan (S1), BasBs (S1), Eluniel (S3), _Frankie (S4), Shxffleh (S4), Mentally (S5), XFROSTXFIREX (S6), discoczibi (S7), Crisgreen (S8), thelarsi97 (S13), MBeaar (S17)
 
-**Lava (4):** Eluniel (S1), bald_chicken (S13), chloesad (S14), Kubaslov (S16)
+**Lava (4):** Eluniel (S1), bald_chicken (S13), chloesad (S14), Nikikula (S16)
 
 **Left (4):** Tomathius (S6), _Bogo (S7), ScottPirie (S9), dahii (S13)
 
@@ -553,7 +553,7 @@
 
 **5 Seasons (11):** EXSolo (S1,S3,S9-S11), GlowingNeon (S1,S4-S6,S9), mjdwow (S1-S2,S4-S5,S9), GoldenOlive (S3-S4,S6,S8,S13), Timonscholte (S3-S5,S11,S13), Swedish_ (S4-S6,S8-S9), Naecoo (S5,S7-S9,S11), GeeSam (S6,S8-S11), MBeaar (S10,S13-S14,S17-S18), BSBrent (S12-S16), Bacan (S14-S18)
 
-**4 Seasons (16):** Aspire3630 (S1-S3,S9), DrWonkenstein (S1,S8,S12-S13), Maj0r_Min3r_98 (S1-S2,S8,S13), obrier (S1-S2,S5-S6), Cybers_ (S2,S4-S5,S13), Mentally (S2-S5), Hacn35 (S11-S12,S17-S18), 5kylord (S12-S13,S15,S17), Hecticity (S12-S14,S16), m4ku (S12-S15), chloesad (S13-S16), ColdBac (S13,S16-S18), Keelando (S13-S15,S18), Kubaslov (S15-S18), RemyChingling (S15-S18), WALRUS_TIME (S15-S18)
+**4 Seasons (16):** Aspire3630 (S1-S3,S9), DrWonkenstein (S1,S8,S12-S13), Maj0r_Min3r_98 (S1-S2,S8,S13), obrier (S1-S2,S5-S6), Cybers_ (S2,S4-S5,S13), Mentally (S2-S5), Hacn35 (S11-S12,S17-S18), 5kylord (S12-S13,S15,S17), Hecticity (S12-S14,S16), m4ku (S12-S15), chloesad (S13-S16), ColdBac (S13,S16-S18), Keelando (S13-S15,S18), Nikikula (S15-S18), RemyChingling (S15-S18), WALRUS_TIME (S15-S18)
 
 **3 Seasons (18):** alfierobey (S1,S3,S5), Scurry_ (S1-S2,S9), TheGamerCool (S1-S2,S6), Evilmonkie (S2-S3,S8), Schmeon (S3,S6,S8), Shadoune666 (S4,S7-S8), Tomathius (S4-S6), _Bogo (S6-S8), FazedMC (S11-S13), CameraLagg (S12-S13,S15), MajorWoof (S14-S15,S17), typhlo0o (S14-S16), wibbol (S14-S15,S17), xMisha (S14-S15,S17), 5hup (S15-S17), strategy (S15-S16,S18), Randehh (S16-S18), spittoon (S16-S18)
 
@@ -592,7 +592,7 @@
 
 **S14 (6):** Bacan, MajorWoof, Mathyy, typhlo0o, wibbol, xMisha
 
-**S15 (8):** 5hup, Kubaslov, MarcC5M, Odennn, RemyChingling, ShyGus, strategy, WALRUS_TIME
+**S15 (8):** 5hup, MarcC5M, Nikikula, Odennn, RemyChingling, ShyGus, strategy, WALRUS_TIME
 
 **S16 (7):** CallumPace, CHAINGE, Chasmic, Karliffu, Randehh, Spacepod_, spittoon
 

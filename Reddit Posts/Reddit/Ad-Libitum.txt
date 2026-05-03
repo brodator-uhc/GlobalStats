@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: 5kylord (5)**, *Kubaslov (1)*
+**S1: 5kylord (5)**, *Nikikula (1)*
 
 **S2: cherryblawsom (3), Phoraxe (2)**, *Charrlottie (0), Jahrod (0), MaxEvasion (0), nFang (0)*
 
@@ -22,7 +22,7 @@
 
 **S3:** CHAINGE (2), Kaismartypants (1), kirbey (1)
 
-**S4:** Kubaslov (1)
+**S4:** Nikikula (1)
 
 **S5:** Austronomical (3), Eluniel (0)
 
@@ -42,7 +42,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** 5kylord (5), Kubaslov (1)
+**S1:** 5kylord (5), Nikikula (1)
 
 **S2:** Beastaxel (1), strategy (4), Normoh (3), Potsie (0), SiahStone (1), WackoFlipper (1)
 
@@ -61,7 +61,7 @@
 
 **S3:** Kaismartypants (0:0:18)
 
-**S4:** Kubaslov (0:7:28)
+**S4:** Nikikula (0:7:28)
 
 **S5:** Austronomical (0:0:9)
 
@@ -119,11 +119,11 @@
 
 **4th - strategy (6):** SiahStone (S1), Ryfri (S1), ScottPirie (S2), MaxEvasion (S2), Charrlottie (S2), MajorWoof (S2)
 
-**7th - 5kylord (5):** Kubaslov (S1), ColdBac (S1), Phoraxe (S1), natsuvi (S1), ohh_lia (S1)
+**7th - 5kylord (5):** Nikikula (S1), ColdBac (S1), Phoraxe (S1), natsuvi (S1), ohh_lia (S1)
 
 **7th - Beastaxel (5):** strategy (S2), Psykl0ne (S3), buttergolem1 (S3), flameorb (S3), Charrlottie (S5)
 
-**7th - Kaismartypants (5):** CHAINGE (S3), Ryfri (S4), Austronomical (S4), ohh_lia (S4), Kubaslov (S4)
+**7th - Kaismartypants (5):** CHAINGE (S3), Ryfri (S4), Austronomical (S4), ohh_lia (S4), Nikikula (S4)
 
 **10th - buttergolem1 (4):** Rohcket (S2), ToucanTom (S3), Keelando (S3), Eluniel (S4)
 
@@ -153,7 +153,7 @@
 
 **16th - kirbey (2):** Beastaxel (S3), flameorb (S4)
 
-**16th - Kubaslov (2):** flameorb (S1), buttergolem1 (S4)
+**16th - Nikikula (2):** flameorb (S1), buttergolem1 (S4)
 
 **16th - Spacepod_ (2):** tagggz (S1), fruitberries (S1)
 
@@ -209,14 +209,14 @@
 
 **3 Seasons (13):** Brodator (S1,S3-S4), CHAINGE (S1,S3,S5), Jrose (S1,S3-S4), MajorWoof (S1-S3), ohh_lia (S1,S3-S4), Phoraxe (S1-S2,S5), Ryfri (S1,S4-S5), SiahStone (S1-S3), Beastaxel (S2-S3,S5), cherryblawsom (S2-S3,S5), Rohcket (S2-S3,S5), chloesad (S3-S5), Eluniel (S3-S5)
 
-**2 Seasons (15):** 5kylord (S1,S5), aalaan (S1,S5), ColdBac (S1,S5), Kubaslov (S1,S4), Psykl0ne (S1,S3), Fra49 (S2-S3), hazel_doe (S2,S5), Normoh (S2-S3), Potsie (S2,S4), WackoFlipper (S2,S5), Kaismartypants (S3-S4), Keelando (S3,S5), kirbey (S3-S4), xDiversity (S3-S4), Greeples (S4-S5)
+**2 Seasons (15):** 5kylord (S1,S5), aalaan (S1,S5), ColdBac (S1,S5), Nikikula (S1,S4), Psykl0ne (S1,S3), Fra49 (S2-S3), hazel_doe (S2,S5), Normoh (S2-S3), Potsie (S2,S4), WackoFlipper (S2,S5), Kaismartypants (S3-S4), Keelando (S3,S5), kirbey (S3-S4), xDiversity (S3-S4), Greeples (S4-S5)
 
 **1 Season (32):** Arich (S1), DevoyTTV (S1), DianaB (S1), fruitberries (S1), natsuvi (S1), ShyGus (S1), Spacepod_ (S1), tagggz (S1), automavic (S2), Jahrod (S2), nFang (S2), QuilJ1 (S2), ScottPirie (S2), _Dieter (S3), 4EyedSlime (S3), 78ford (S3), awesomemacD (S3), Bofishkix (S3), Broseph (S3), ItsColinn (S3), marcusmtm (S3), olivieh (S3), ToucanTom (S3), _Fost_ (S4), azoof (S5), centraleric (S5), CHANGA (S5), Emerric (S5), Gorgerous (S5), Smeshi (S5), SmolHatChild (S5), wibbol (S5)
 
 ---
 ### Debutants
 
-**S1 (26):** 5kylord, aalaan, Arich, Austronomical, Brodator, CHAINGE, ColdBac, DevoyTTV, DianaB, flameorb, fruitberries, Jrose, Kelawesome, Kubaslov, MajorWoof, natsuvi, ohh_lia, Phoraxe, Psykl0ne, Ryfri, ShyGus, SiahStone, Spacepod_, strategy, tagggz, wizarde
+**S1 (26):** 5kylord, aalaan, Arich, Austronomical, Brodator, CHAINGE, ColdBac, DevoyTTV, DianaB, flameorb, fruitberries, Jrose, Kelawesome, MajorWoof, natsuvi, Nikikula, ohh_lia, Phoraxe, Psykl0ne, Ryfri, ShyGus, SiahStone, Spacepod_, strategy, tagggz, wizarde
 
 **S2 (16):** automavic, Beastaxel, buttergolem1, Charrlottie, cherryblawsom, Fra49, hazel_doe, Jahrod, MaxEvasion, nFang, Normoh, Potsie, QuilJ1, Rohcket, ScottPirie, WackoFlipper
 

@@ -42,7 +42,7 @@
 
 **S3:** N/A
 
-**S4:** CurdledDrip (2), Gleoss (4), LUCRODIUM (4), tonylmao (1)
+**S4:** CurdledDrip (2), Gleoss (4), LUCRODIUM (4), Tonylmao (1)
 
 ---
 ### First Damage
@@ -93,7 +93,7 @@
 
 **1st - carterwarterbear (10):** Psykl0ne (S1), broccoliar (S2), Lighte (S2), Cloversss (S2), benidk (S3), Dcrpy (S3), HalfLechuga (S3), painterwanabe (S3), SAYNAR (S3), _carn (S3)
 
-**2nd - benidk (8):** FroztiSnowman (S1), PupperKun (S1), Spongey (S1), grantfaker (S4), GodlySteal (S4), Gleoss (S4), LUCRODIUM (S4), tonylmao (S4)
+**2nd - benidk (8):** FroztiSnowman (S1), PupperKun (S1), Spongey (S1), grantfaker (S4), GodlySteal (S4), Gleoss (S4), LUCRODIUM (S4), Tonylmao (S4)
 
 **2nd - PupperKun (8):** sgouche (S1), Fearx_ (S1), HalfLechuga (S1), GrassPiece (S1), kawaiibunri (S1), painterwanabe (S2), dahii (S2), carterwarterbear (S2)
 
@@ -165,7 +165,7 @@
 
 **26th - SpaceFenix (1):** BuildingBard300 (S1)
 
-**26th - tonylmao (1):** Valnius (S4)
+**26th - Tonylmao (1):** Valnius (S4)
 
 **26th - vynil (1):** painterwanabe (S1)
 
@@ -187,7 +187,7 @@
 
 **2 Seasons (21):** ArcticSeagull (S1,S3), BuildingBard300 (S1-S2), CAMKART100 (S1-S2), DJoee (S1,S4), ethodog (S1,S3), FroztiSnowman (S1,S4), Gleoss (S1,S4), GrassPiece (S1,S4), Greeples (S1-S2), HalfLechuga (S1,S3), kawaiibunri (S1-S2), MercuryParadox (S1,S3), PotatoPlayer_ (S1,S3), PupperKun (S1-S2), Shu_MCSG (S1-S2), SpaceFenix (S1,S4), Spongey (S1-S2), vynil (S1,S3), Kaismartypants (S2-S3), SOAKLE (S2,S4), HUQTER (S3-S4)
 
-**1 Season (30):** bayweafs (S1), Bornyo (S1), IdkKiller (S1), wizarde (S1), zCent (S1), Zoroh (S1), _pbo (S2), AvyleZ (S2), brinkwhy (S2), DogOfKrondor (S2), gartbak (S2), Ginzburg (S2), Lighte (S2), nsket (S2), Bobbytheturtle (S3), BoltsInCharge (S3), Dcrpy (S3), DumbThiccNick (S3), strategy (S3), ToeKun (S3), alexnv (S4), applrei (S4), ClosedIT (S4), DEREKAST (S4), grantfaker (S4), LUCRODIUM (S4), Seabasstian (S4), tonylmao (S4), Valnius (S4), zohhhh (S4)
+**1 Season (30):** bayweafs (S1), Bornyo (S1), IdkKiller (S1), wizarde (S1), zCent (S1), Zoroh (S1), _pbo (S2), AvyleZ (S2), brinkwhy (S2), DogOfKrondor (S2), gartbak (S2), Ginzburg (S2), Lighte (S2), nsket (S2), Bobbytheturtle (S3), BoltsInCharge (S3), Dcrpy (S3), DumbThiccNick (S3), strategy (S3), ToeKun (S3), alexnv (S4), applrei (S4), ClosedIT (S4), DEREKAST (S4), grantfaker (S4), LUCRODIUM (S4), Seabasstian (S4), Tonylmao (S4), Valnius (S4), zohhhh (S4)
 
 ---
 ### Debutants
@@ -198,6 +198,6 @@
 
 **S3 (7):** Bobbytheturtle, BoltsInCharge, Dcrpy, DumbThiccNick, HUQTER, strategy, ToeKun
 
-**S4 (10):** alexnv, applrei, ClosedIT, DEREKAST, grantfaker, LUCRODIUM, Seabasstian, tonylmao, Valnius, zohhhh
+**S4 (10):** alexnv, applrei, ClosedIT, DEREKAST, grantfaker, LUCRODIUM, Seabasstian, Tonylmao, Valnius, zohhhh
 
 ---

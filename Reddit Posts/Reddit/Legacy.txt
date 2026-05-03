@@ -7,12 +7,16 @@
 
 **S2: CommanderK22_ (0), TheSlimeBrother (2)**, *BoltsInCharge (0), CHAINGE (0), JustNolan (1)*
 
+**S3: ChainingVermin2 (6), Spongey (2)**
+
 ---
 ### Runner Ups
 
 **S1:** egl_ (3)
 
 **S2:** _1mmortal_ (0), fruitlogic (0), IyaIsMad (0), SpaceFenix (2), Westcraft00 (2)
+
+**S3:** BoltsInCharge (1), IyaIsMad (1)
 
 ---
 ### Most Kills
@@ -21,12 +25,16 @@
 
 **S2:** Greeples, SpaceFenix, swishduck, TheSlimeBrother, Westcraft00 (2)
 
+**S3:** ChainingVermin2 (6)
+
 ---
 ### Most Kills (Team)
 
 **S1:** N/A
 
 **S2:** _1mmortal_ (0), fruitlogic (0), IyaIsMad (0), SpaceFenix (2), Westcraft00 (2)
+
+**S3:** ChainingVermin2 (6), Spongey (2)
 
 ---
 ### First Damage
@@ -35,12 +43,16 @@
 
 **S2:** JustNolan (0:0:46)
 
+**S3:** Greeples (0:0:32)
+
 ---
 ### Ironman
 
 **S1:** AirInAirOut (1:22:54)
 
 **S2:** MCmattFTW (1:0:59)
+
+**S3:** ColdBac (0:35:12)
 
 ---
 ### First Blood
@@ -49,6 +61,8 @@
 
 **S2:** Westcraft00 (Kaismartypants)
 
+**S3:** ChainingVermin2 (MajorWoof)
+
 ---
 ### First Death
 
@@ -56,62 +70,74 @@
 
 **S2:** Kaismartypants (Westcraft00)
 
+**S3:** MercuryParadox (Fall)
+
 ---
 ### Kills
 
-**1st - ColdBac (6):** AirInAirOut (S1), Greeples (S1), Bornyo (S1), MercuryParadox (S1), cherryblawsom (S1), egl_ (S1)
+**1st - ColdBac (11):** AirInAirOut (S1), Greeples (S1), Bornyo (S1), MercuryParadox (S1), cherryblawsom (S1), egl_ (S1), zac083 (S3), Ryfri (S3), zCent (S3), Bornyo (S3), IyaIsMad (S3)
 
-**2nd - _1mmortal_ (4):** zCent (S1), CommanderK22_ (S1), Potsie (S1), wizarde (S1)
+**2nd - ChainingVermin2 (8):** zac083 (S1), MajorWoof (S2), MajorWoof (S3), Greeples (S3), DevoyTTV (S3), JustNolan (S3), lasdarling (S3), omchris (S3)
 
-**3rd - Bornyo (3):** DevoyTTV (S1), TheSlimeBrother (S1), swishduck (S2)
+**3rd - _1mmortal_ (4):** zCent (S1), CommanderK22_ (S1), Potsie (S1), wizarde (S1)
 
-**3rd - egl_ (3):** MajorWoof (S1), Canman (S1), _1mmortal_ (S1)
+**4th - Bornyo (3):** DevoyTTV (S1), TheSlimeBrother (S1), swishduck (S2)
 
-**5th - ChainingVermin2 (2):** zac083 (S1), MajorWoof (S2)
+**4th - egl_ (3):** MajorWoof (S1), Canman (S1), _1mmortal_ (S1)
 
-**5th - cherryblawsom (2):** Jordtim (S1), IyaIsMad (S1)
+**4th - IyaIsMad (3):** frogsella (S1), ChainingVermin2 (S1), _1mmortal_ (S3)
 
-**5th - Greeples (2):** zac083 (S2), ChainingVermin2 (S2)
+**7th - cherryblawsom (2):** Jordtim (S1), IyaIsMad (S1)
 
-**5th - IyaIsMad (2):** frogsella (S1), ChainingVermin2 (S1)
+**7th - Greeples (2):** zac083 (S2), ChainingVermin2 (S2)
 
-**5th - SpaceFenix (2):** tbhjosh (S2), Bornyo (S2)
+**7th - SpaceFenix (2):** tbhjosh (S2), Bornyo (S2)
 
-**5th - swishduck (2):** AirInAirOut (S2), omchris (S2)
+**7th - Spongey (2):** FrostBros (S3), BoltsInCharge (S3)
 
-**5th - TheSlimeBrother (2):** Greeples (S2), SpaceFenix (S2)
+**7th - swishduck (2):** AirInAirOut (S2), omchris (S2)
 
-**5th - Westcraft00 (2):** Kaismartypants (S2), Rohcket (S2)
+**7th - TheSlimeBrother (2):** Greeples (S2), SpaceFenix (S2)
 
-**13th - FroztiSnowman (1):** Digitale (S1)
+**7th - Westcraft00 (2):** Kaismartypants (S2), Rohcket (S2)
 
-**13th - JustNolan (1):** Rebelghost (S2)
+**14th - BoltsInCharge (1):** ColdBac (S3)
 
-**13th - omchris (1):** zCent (S2)
+**14th - FroztiSnowman (1):** Digitale (S1)
 
-**13th - Potsie (1):** ThisIsHab (S1)
+**14th - JustNolan (1):** Rebelghost (S2)
 
-**13th - Rohcket (1):** IyaIsMad (S2)
+**14th - omchris (1):** zCent (S2)
 
-**13th - zac083 (1):** Lucarrio (S1)
+**14th - Potsie (1):** ThisIsHab (S1)
 
-**13th - zCent (1):** BoltsInCharge (S1)
+**14th - Rohcket (1):** IyaIsMad (S2)
+
+**14th - Ryfri (1):** aalaan (S3)
+
+**14th - zac083 (1):** Lucarrio (S1)
+
+**14th - zCent (1):** BoltsInCharge (S1)
 
 ---
 ### PvE Deaths
 
 **Explosion (10):** Spongey (S2), MCmattFTW (S2), JustNolan (S2), CHAINGE (S2), BoltsInCharge (S2), _1mmortal_ (S2), fruitlogic (S2), Westcraft00 (S2), TonyEatWorld (S2), allen_ (S2)
 
-**Fall (2):** TonyEatWorld (S1), FroztiSnowman (S1)
+**Fall (3):** TonyEatWorld (S1), FroztiSnowman (S1), MercuryParadox (S3)
 
-**Left (1):** wizarde (S2)
+**Left (2):** wizarde (S2), Lucarrio (S3)
+
+**Dripstone (1):** Gorgerous (S3)
 
 ---
 ### Participation
 
-**2 Seasons (14):** _1mmortal_ (S1-S2), AirInAirOut (S1-S2), BoltsInCharge (S1-S2), Bornyo (S1-S2), ChainingVermin2 (S1-S2), CommanderK22_ (S1-S2), Greeples (S1-S2), IyaIsMad (S1-S2), MajorWoof (S1-S2), TheSlimeBrother (S1-S2), TonyEatWorld (S1-S2), wizarde (S1-S2), zac083 (S1-S2), zCent (S1-S2)
+**3 Seasons (9):** _1mmortal_ (S1-S3), BoltsInCharge (S1-S3), Bornyo (S1-S3), ChainingVermin2 (S1-S3), Greeples (S1-S3), IyaIsMad (S1-S3), MajorWoof (S1-S3), zac083 (S1-S3), zCent (S1-S3)
 
-**1 Season (27):** Canman (S1), cherryblawsom (S1), ColdBac (S1), DevoyTTV (S1), Digitale (S1), egl_ (S1), frogsella (S1), FroztiSnowman (S1), Jordtim (S1), Lucarrio (S1), MercuryParadox (S1), Potsie (S1), ThisIsHab (S1), allen_ (S2), CHAINGE (S2), fruitlogic (S2), JustNolan (S2), Kaismartypants (S2), MCmattFTW (S2), omchris (S2), Rebelghost (S2), Rohcket (S2), SpaceFenix (S2), Spongey (S2), swishduck (S2), tbhjosh (S2), Westcraft00 (S2)
+**2 Seasons (12):** AirInAirOut (S1-S2), ColdBac (S1,S3), CommanderK22_ (S1-S2), DevoyTTV (S1,S3), Lucarrio (S1,S3), MercuryParadox (S1,S3), TheSlimeBrother (S1-S2), TonyEatWorld (S1-S2), wizarde (S1-S2), JustNolan (S2-S3), omchris (S2-S3), Spongey (S2-S3)
+
+**1 Season (25):** Canman (S1), cherryblawsom (S1), Digitale (S1), egl_ (S1), frogsella (S1), FroztiSnowman (S1), Jordtim (S1), Potsie (S1), ThisIsHab (S1), allen_ (S2), CHAINGE (S2), fruitlogic (S2), Kaismartypants (S2), MCmattFTW (S2), Rebelghost (S2), Rohcket (S2), SpaceFenix (S2), swishduck (S2), tbhjosh (S2), Westcraft00 (S2), aalaan (S3), FrostBros (S3), Gorgerous (S3), lasdarling (S3), Ryfri (S3)
 
 ---
 ### Debutants
@@ -119,5 +145,7 @@
 **S1 (27):** _1mmortal_, AirInAirOut, BoltsInCharge, Bornyo, Canman, ChainingVermin2, cherryblawsom, ColdBac, CommanderK22_, DevoyTTV, Digitale, egl_, frogsella, FroztiSnowman, Greeples, IyaIsMad, Jordtim, Lucarrio, MajorWoof, MercuryParadox, Potsie, TheSlimeBrother, ThisIsHab, TonyEatWorld, wizarde, zac083, zCent
 
 **S2 (14):** allen_, CHAINGE, fruitlogic, JustNolan, Kaismartypants, MCmattFTW, omchris, Rebelghost, Rohcket, SpaceFenix, Spongey, swishduck, tbhjosh, Westcraft00
+
+**S3 (5):** aalaan, FrostBros, Gorgerous, lasdarling, Ryfri
 
 ---

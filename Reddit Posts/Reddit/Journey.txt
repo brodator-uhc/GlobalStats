@@ -28,7 +28,7 @@
 
 **S5:** CipherKai (8)
 
-**S6:** alexnv (3), Kubaslov (0), MajorWoof (0)
+**S6:** alexnv (3), MajorWoof (0), Nikikula (0)
 
 ---
 ### Most Kills
@@ -123,7 +123,7 @@
 ---
 ### Kills
 
-**1st - strategy (16):** Sten_Stone (S2), QuilJ1 (S2), _carn (S3), _Dieter (S3), Greeples (S3), swishduck (S4), Fcrm (S4), Kubaslov (S4), _carn (S4), alexnv (S4), Omertosa (S4), Bobbytheturtle (S4), _Dieter (S4), flameorb (S4), Kubaslov (S6), Bobbytheturtle (S6)
+**1st - strategy (16):** Sten_Stone (S2), QuilJ1 (S2), _carn (S3), _Dieter (S3), Greeples (S3), swishduck (S4), Fcrm (S4), Nikikula (S4), _carn (S4), alexnv (S4), Omertosa (S4), Bobbytheturtle (S4), _Dieter (S4), flameorb (S4), Nikikula (S6), Bobbytheturtle (S6)
 
 **2nd - CipherKai (8):** Cacedoupamso (S5), strategy (S5), _Dieter (S5), lexicuhl (S5), ColdBac (S5), Lighte (S5), Spongey (S5), Cloversss (S5)
 
@@ -145,7 +145,7 @@
 
 **8th - vynil (5):** discoczibi (S3), centraleric (S3), chloesad (S3), benidk (S6), wizarde (S6)
 
-**12th - alexnv (4):** Kubaslov (S5), m4ku (S6), Charrlottie (S6), strategy (S6)
+**12th - alexnv (4):** Nikikula (S5), m4ku (S6), Charrlottie (S6), strategy (S6)
 
 **12th - FrostBros (4):** Bradzi (S1), TheBP (S1), Pelycosaur (S1), pigghetti (S3)
 
@@ -201,7 +201,7 @@
 
 **34th - Digdude (1):** wibbol (S1)
 
-**34th - Dj8ninja (1):** Kubaslov (S3)
+**34th - Dj8ninja (1):** Nikikula (S3)
 
 **34th - Eluniel (1):** carterwarterbear (S6)
 
@@ -241,7 +241,7 @@
 
 **5 Seasons (1):** wizarde (S1-S2,S4-S6)
 
-**4 Seasons (4):** Greeples (S1-S3,S6), Ryfri (S2-S4,S6), _carn (S3-S6), Kubaslov (S3-S6)
+**4 Seasons (4):** Greeples (S1-S3,S6), Ryfri (S2-S4,S6), _carn (S3-S6), Nikikula (S3-S6)
 
 **3 Seasons (16):** Pelycosaur (S1-S3), ScottPirie (S1-S3), WackoFlipper (S1-S2,S6), 78ford (S2-S4), _Dieter (S3-S5), azoof (S3-S5), Broseph (S3-S5), vynil (S3-S4,S6), alexnv (S4-S6), Bobbytheturtle (S4-S6), Fcrm (S4-S6), Hecticity (S4-S6), lexicuhl (S4-S6), TheNintendoBustr (S4-S6), zCent (S4-S6), Zenithu (S4-S6)
 
@@ -256,7 +256,7 @@
 
 **S2 (9):** 016Nojr, 78ford, Harryb2k, MajorWoof, MBeaar, QuilJ1, Ryfri, ShyGus, Sten_Stone
 
-**S3 (17):** _carn, _Dieter, Arich, azoof, Broseph, centraleric, chloesad, discoczibi, Dj8ninja, Eluniel, hazel_doe, Karliffu, Kubaslov, pigghetti, Rohcket, SiahStone, vynil
+**S3 (17):** _carn, _Dieter, Arich, azoof, Broseph, centraleric, chloesad, discoczibi, Dj8ninja, Eluniel, hazel_doe, Karliffu, Nikikula, pigghetti, Rohcket, SiahStone, vynil
 
 **S4 (24):** alexnv, Awticon, Aybel, Bobbytheturtle, Charrlottie, DJoee, Fcrm, flameorb, Fra49, friigiid, Hecticity, Jordtim, lexicuhl, Lighte, Omertosa, OOGAABOOGA3, Potsie, Spongey, swishduck, tbhjosh, TheNintendoBustr, Ullti, zCent, Zenithu
 

@@ -65,7 +65,7 @@
 
 **S8:** Fygedew (7)
 
-**S9:** Kubaslov, Phoraxe (5)
+**S9:** Nikikula, Phoraxe (5)
 
 **S10:** Cyndic (4)
 
@@ -88,7 +88,7 @@
 
 **S8:** Austronomical (6), Fygedew (7), Ratchet6859 (0), WackoFlipper (1)
 
-**S9:** Drake132667596 (3), Kubaslov (5), lexicuhl (0)
+**S9:** Drake132667596 (3), Nikikula (5), lexicuhl (0)
 
 **S10:** Cyndic (4), Klickacat (0), TheRealHagrid (3)
 
@@ -159,7 +159,7 @@
 
 **S9:** CrowJRC (Do_You_Minecraft)
 
-**S10:** Bobbytheturtle (Kubaslov)
+**S10:** Bobbytheturtle (Nikikula)
 
 ---
 ### First Death
@@ -182,7 +182,7 @@
 
 **S9:** Do_You_Minecraft (CrowJRC)
 
-**S10:** Kubaslov (Bobbytheturtle)
+**S10:** Nikikula (Bobbytheturtle)
 
 ---
 ### Kills
@@ -231,9 +231,9 @@
 
 **22nd - azoof (5):** Fra49 (S8), ghostblurr (S8), Bacan (S8), Cyndic (S9), Bacan (S9)
 
-**22nd - Kubaslov (5):** ChrisCD (S9), pkee (S9), omchris (S9), Austronomical (S9), Phoraxe (S9)
-
 **22nd - Livin423 (5):** dahii (S1), PauloSSB (S1), ElGavinoSupremo (S6), ethodog (S7), ghostblurr (S9)
+
+**22nd - Nikikula (5):** ChrisCD (S9), pkee (S9), omchris (S9), Austronomical (S9), Phoraxe (S9)
 
 **22nd - OnlyCosmia (5):** Tootikins (S1), dashdude (S1), Hecticity (S3), Drake132667596 (S3), Drake132667596 (S4)
 
@@ -243,7 +243,7 @@
 
 **26th - MajorWoof (4):** automavic (S5), DarrenBGP (S8), tagggz (S10), DJoee (S10)
 
-**26th - pigghetti (4):** 016Nojr (S8), azoof (S8), Kubaslov (S9), azoof (S9)
+**26th - pigghetti (4):** 016Nojr (S8), azoof (S8), Nikikula (S9), azoof (S9)
 
 **26th - RabidChipmunk (4):** Fensua (S3), Awticon (S3), Espik (S5), BSBrent (S9)
 
@@ -251,7 +251,7 @@
 
 **32nd - automavic (3):** ThwipThwip (S1), Phoraxe (S1), omchris (S3)
 
-**32nd - Bobbytheturtle (3):** Kubaslov (S10), Keelando (S10), ChrisCD (S10)
+**32nd - Bobbytheturtle (3):** Nikikula (S10), Keelando (S10), ChrisCD (S10)
 
 **32nd - Fensua (3):** PotaTomas (S3), DKPMatt (S3), ThwipThwip (S3)
 
@@ -269,7 +269,7 @@
 
 **36th - Espik (2):** Hecticity (S10), WackoFlipper (S10)
 
-**36th - Fra49 (2):** RabidChipmunk (S6), Kubaslov (S8)
+**36th - Fra49 (2):** RabidChipmunk (S6), Nikikula (S8)
 
 **36th - fruitlogic (2):** Ethab1 (S9), Ninjajaja (S9)
 
@@ -351,7 +351,7 @@
 
 **4 Seasons (8):** AttackZach_ (S1-S2,S4-S5), BlackGarrett (S1-S2,S4-S5), PauloSSB (S1-S2,S4-S5), DKPMatt (S2-S3,S5,S10), Fra49 (S5-S8), MajorWoof (S5-S6,S8,S10), azoof (S7-S10), Klickacat (S7-S10)
 
-**3 Seasons (16):** CH0CK (S1-S2,S4), DeluxeSniper (S1-S2,S4), Do_You_Minecraft (S1,S6,S9), RedSky (S1-S2,S4), PotaTomas (S2-S3,S10), Flacce (S3-S4,S9), Haama_ (S3,S5-S6), c1n (S4,S6,S8), TaylorLive (S4,S7-S8), ethodog (S5,S7,S9), GoldenNs (S5,S7-S8), silverteeth (S5,S7-S8), MarcC5M (S6-S7,S9), discoczibi (S7-S8,S10), Kubaslov (S8-S10), pkee (S8-S10)
+**3 Seasons (16):** CH0CK (S1-S2,S4), DeluxeSniper (S1-S2,S4), Do_You_Minecraft (S1,S6,S9), RedSky (S1-S2,S4), PotaTomas (S2-S3,S10), Flacce (S3-S4,S9), Haama_ (S3,S5-S6), c1n (S4,S6,S8), TaylorLive (S4,S7-S8), ethodog (S5,S7,S9), GoldenNs (S5,S7-S8), silverteeth (S5,S7-S8), MarcC5M (S6-S7,S9), discoczibi (S7-S8,S10), Nikikula (S8-S10), pkee (S8-S10)
 
 **2 Seasons (14):** dontbow (S1-S2), ThwipThwip (S1,S3), Tootikins (S1,S3), Zcka (S1-S2), thelarsi97 (S2-S3), jvevo (S4,S6), SmearBear (S5-S6), TommySuX (S5-S6), Smeshi (S6-S7), 016Nojr (S7-S8), branman (S7,S9), ChrisCD (S9-S10), fruitlogic (S9-S10), SpyroJ (S9-S10)
 
@@ -374,7 +374,7 @@
 
 **S7 (9):** 016Nojr, azoof, branman, ChocoTaco622, discoczibi, Kelawesome, Klickacat, Nyzian, SoulvG
 
-**S8 (6):** 5hup, Arich, Kubaslov, Mightyzark, pkee, Ratchet6859
+**S8 (6):** 5hup, Arich, Mightyzark, Nikikula, pkee, Ratchet6859
 
 **S9 (4):** ChrisCD, Ethab1, fruitlogic, SpyroJ
 

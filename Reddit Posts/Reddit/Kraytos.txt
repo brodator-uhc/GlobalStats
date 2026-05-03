@@ -58,7 +58,7 @@
 ---
 ### Ironman
 
-**S1:** LqndSlide (1:22:34)
+**S1:** lqndslide (1:22:34)
 
 **S2:** Kelawesome (1:7:21)
 
@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - Kelawesome (7):** LqndSlide (S1), JasonBPE (S1), Sluggyg (S1), IceshardEleven (S1), MCmattFTW (S1), Coward (S2), MCmattFTW (S3)
+**1st - Kelawesome (7):** lqndslide (S1), JasonBPE (S1), Sluggyg (S1), IceshardEleven (S1), MCmattFTW (S1), Coward (S2), MCmattFTW (S3)
 
 **2nd - Boomblade60 (5):** drewxd (S2), IceshardEleven (S2), iQuick_ (S2), Abdalain (S3), Bornyo (S3)
 
@@ -131,7 +131,7 @@
 
 **15th - JamestheDouglas (1):** Renais (S4)
 
-**15th - LqndSlide (1):** InsertDotJpeg (S1)
+**15th - lqndslide (1):** InsertDotJpeg (S1)
 
 **15th - SmolHatChild (1):** GRLH (S3)
 
@@ -163,12 +163,12 @@
 
 **2 Seasons (13):** Gepple (S1,S4), IceshardEleven (S1-S2), InsertDotJpeg (S1,S4), JasonBPE (S1,S4), Sluggyg (S1,S4), Sorvent (S1,S3), Boomblade60 (S2-S3), Centrios (S2,S4), Coward (S2-S3), TonyEatWorld (S2-S3), lilygant (S3-S4), SiahStone (S3-S4), SmolHatChild (S3-S4)
 
-**1 Season (30):** LqndSlide (S1), Ryfri (S1), SoulRawr (S1), drewxd (S2), iQuick_ (S2), JahMuis (S2), Wyntre (S2), Abandoned (S3), Bornyo (S3), ChainingVermin2 (S3), Chipzzy (S3), CloudyStars (S3), cynnamon (S3), DJblak (S3), GRLH (S3), Hondo (S3), honestlyhunter (S3), JustNolan (S3), PauloSSB (S3), PoofessorP (S3), Stormy_A (S3), ThisIsHab (S3), TPolls (S3), Anorable (S4), Broseph (S4), DevoyTTV (S4), FrostBros (S4), JamestheDouglas (S4), NajaOxiana (S4), Renais (S4)
+**1 Season (30):** lqndslide (S1), Ryfri (S1), SoulRawr (S1), drewxd (S2), iQuick_ (S2), JahMuis (S2), Wyntre (S2), Abandoned (S3), Bornyo (S3), ChainingVermin2 (S3), Chipzzy (S3), CloudyStars (S3), cynnamon (S3), DJblak (S3), GRLH (S3), Hondo (S3), honestlyhunter (S3), JustNolan (S3), PauloSSB (S3), PoofessorP (S3), Stormy_A (S3), ThisIsHab (S3), TPolls (S3), Anorable (S4), Broseph (S4), DevoyTTV (S4), FrostBros (S4), JamestheDouglas (S4), NajaOxiana (S4), Renais (S4)
 
 ---
 ### Debutants
 
-**S1 (13):** Abdalain, cherryblawsom, Gepple, IceshardEleven, InsertDotJpeg, JasonBPE, Kelawesome, LqndSlide, MCmattFTW, Ryfri, Sluggyg, Sorvent, SoulRawr
+**S1 (13):** Abdalain, cherryblawsom, Gepple, IceshardEleven, InsertDotJpeg, JasonBPE, Kelawesome, lqndslide, MCmattFTW, Ryfri, Sluggyg, Sorvent, SoulRawr
 
 **S2 (9):** Boomblade60, Centrios, Coward, drewxd, iQuick_, JahMuis, spoocS_, TonyEatWorld, Wyntre
 

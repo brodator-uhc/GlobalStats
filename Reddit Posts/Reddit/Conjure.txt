@@ -80,7 +80,7 @@
 
 **S18:** Fcrm (1), Greeples (0), lexicuhl (0)
 
-**S19:** ChainingVermin2 (2), Fcrm (2), Flohp (0), Kubaslov (0)
+**S19:** ChainingVermin2 (2), Fcrm (2), Flohp (0), Nikikula (0)
 
 ---
 ### Most Kills
@@ -337,7 +337,7 @@
 
 **3rd - Bobbytheturtle (21):** Rohcket (S11), ScottPirie (S11), Greeples (S11), Kelawesome (S12), Alacan (S12), Aybel (S12), Biwitch (S12), DJoee (S12), MercuryParadox (S12), Ryfri (S12), LoafOZ (S14), SD_UHC (S14), 5hup (S14), Ryfri (S15), lexicuhl (S15), DJoee (S15), DJoee (S17), Rohcket (S18), SiahStone (S19), zCent (S19), ChainingVermin2 (S19)
 
-**3rd - ColdBac (21):** Cyndic (S1), DeluxeSniper (S1), Potsie (S1), liflaf (S1), bjr201111 (S1), Cyndic (S2), PLENT (S2), Spacepod_ (S4), _mrcool (S4), RemyChingling (S10), SiahStone (S10), Rohcket (S10), hazel_doe (S10), Jordtim (S11), Normoh (S14), Keelando (S14), Brodator (S14), Flohp (S15), wizarde (S15), Kubaslov (S19), Fcrm (S19)
+**3rd - ColdBac (21):** Cyndic (S1), DeluxeSniper (S1), Potsie (S1), liflaf (S1), bjr201111 (S1), Cyndic (S2), PLENT (S2), Spacepod_ (S4), _mrcool (S4), RemyChingling (S10), SiahStone (S10), Rohcket (S10), hazel_doe (S10), Jordtim (S11), Normoh (S14), Keelando (S14), Brodator (S14), Flohp (S15), wizarde (S15), Nikikula (S19), Fcrm (S19)
 
 **5th - Cyndic (20):** PLENT (S1), _mrcool (S1), Normoh (S2), cherryblawsom (S2), SoulRawr (S2), Potsie (S2), JaeHasNoMaidens (S2), dRawry (S3), nFang (S7), Fra49 (S7), ShyGus (S7), Kelawesome (S9), PresidentFleb (S9), wizarde (S9), QuilJ1 (S9), RemyChingling (S9), ElGavinoSupremo (S10), discoczibi (S11), miles1baseball (S11), pigghetti (S11)
 
@@ -375,7 +375,7 @@
 
 **21st - Fcrm (6):** JaeHasNoMaidens (S17), RemyChingling (S17), MercuryParadox (S17), CHAINGE (S18), RqDix (S19), Normoh (S19)
 
-**21st - Fra49 (6):** discoczibi (S10), Keelando (S12), Biwitch (S16), RemyChingling (S16), Kubaslov (S18), Fcrm (S18)
+**21st - Fra49 (6):** discoczibi (S10), Keelando (S12), Biwitch (S16), RemyChingling (S16), Nikikula (S18), Fcrm (S18)
 
 **21st - JaeHasNoMaidens (6):** chloesad (S2), automavic (S2), wibbol (S5), Randehh (S8), ColdBac (S8), Brodator (S17)
 
@@ -429,7 +429,7 @@
 
 **47th - Greeples (3):** JavaJavelin (S3), Eroe (S6), Emerric (S6)
 
-**47th - Kaddyn (3):** 78ford (S16), Kubaslov (S16), azoof (S16)
+**47th - Kaddyn (3):** 78ford (S16), Nikikula (S16), azoof (S16)
 
 **47th - liflaf (3):** MercuryParadox (S1), dRawry (S1), Bacan (S1)
 
@@ -505,9 +505,9 @@
 
 **73rd - Keelando (1):** ColdBac (S12)
 
-**73rd - Kubaslov (1):** PresidentFleb (S16)
-
 **73rd - LegoBeast (1):** _Dieter (S11)
+
+**73rd - Nikikula (1):** PresidentFleb (S16)
 
 **73rd - PresidentFleb (1):** Eroe (S11)
 
@@ -575,7 +575,7 @@
 
 **4 Seasons (12):** _mrcool (S1-S2,S4-S5), LegoBeast (S1,S11,S14,S16), miles1baseball (S2,S6,S11,S15), SoulRawr (S2-S3,S5,S9), Arich (S3,S5,S7,S9), ElGavinoSupremo (S4-S6,S10), QuilJ1 (S4-S6,S9), Eroe (S6,S8,S11,S18), _Dieter (S11-S12,S15,S17), Keelando (S12-S14,S17), benidk (S13,S15-S16,S19), Omertosa (S13-S16)
 
-**3 Seasons (13):** Bacan (S1-S2,S4), Micale (S1-S2,S5), chloesad (S2,S7-S8), DianaB (S3,S7-S8), Emerric (S4-S6), madmerrick (S6,S8,S12), 5hup (S10-S11,S14), Jordtim (S10-S12), Biwitch (S12,S14,S16), swishduck (S13-S14,S19), Kubaslov (S16,S18-S19), BoltsInCharge (S17-S19), Fcrm (S17-S19)
+**3 Seasons (13):** Bacan (S1-S2,S4), Micale (S1-S2,S5), chloesad (S2,S7-S8), DianaB (S3,S7-S8), Emerric (S4-S6), madmerrick (S6,S8,S12), 5hup (S10-S11,S14), Jordtim (S10-S12), Biwitch (S12,S14,S16), swishduck (S13-S14,S19), Nikikula (S16,S18-S19), BoltsInCharge (S17-S19), Fcrm (S17-S19)
 
 **2 Seasons (26):** dRawry (S1,S3), floobel (S1,S4), PLENT (S1-S2), CH0CK (S2-S3), Evader22 (S2-S3), Lucityy (S2,S5), YellowVitt (S2,S19), PauloSSB (S3,S8), Bradzi (S4,S9), spoocS_ (S4-S5), ToucanTom (S5,S8), Apex_Twinkie (S7-S8), Pagers (S7,S9), hazel_doe (S9-S10), discoczibi (S10-S11), ScottPirie (S10-S11), Gorgerous (S13,S15), LoafOZ (S13-S14), Fensua (S14-S15), sleepingxd (S14-S15), BardMain2 (S15-S16), pkee (S15-S16), _carn (S17-S18), AHSOKATANOSTAN (S18-S19), ChainingVermin2 (S18-S19), SpaceFenix (S18-S19)
 
@@ -614,7 +614,7 @@
 
 **S15 (2):** BardMain2, pkee
 
-**S16 (5):** azoof, Kaddyn, Kubaslov, nsket, Psykl0ne
+**S16 (5):** azoof, Kaddyn, Nikikula, nsket, Psykl0ne
 
 **S17 (3):** _carn, BoltsInCharge, Fcrm
 

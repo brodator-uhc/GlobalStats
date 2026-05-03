@@ -45,21 +45,21 @@
 ---
 ### First Blood
 
-**S1:** TheBestOtaku (CakeBrick)
+**S1:** lolmcgeeksFTW (CakeBrick)
 
 **S2:** Mini_Maxy (CrazyCallum)
 
 ---
 ### First Death
 
-**S1:** CakeBrick (TheBestOtaku)
+**S1:** CakeBrick (lolmcgeeksFTW)
 
 **S2:** CrazyCallum (Mini_Maxy)
 
 ---
 ### Kills
 
-**1st - DoctorTP_ (5):** TheBestOtaku (S1), CrazyRusher (S1), TobyPMC (S1), TobyPMC (S2), TheKappaNation (S2)
+**1st - DoctorTP_ (5):** lolmcgeeksFTW (S1), CrazyRusher (S1), TobyPMC (S1), TobyPMC (S2), TheKappaNation (S2)
 
 **2nd - CrazyRusher (3):** AronBaynes (S2), DoctorTP_ (S2), TheRedBlockMC (S2)
 
@@ -73,11 +73,11 @@
 
 **4th - TheKappaNation (2):** DuallBlade9 (S2), BrokenPic (S2)
 
+**8th - lolmcgeeksFTW (1):** CakeBrick (S1)
+
 **8th - Luqic (1):** WaffleBee (S2)
 
 **8th - Mini_Maxy (1):** CrazyCallum (S2)
-
-**8th - TheBestOtaku (1):** CakeBrick (S1)
 
 ---
 ### PvE Deaths
@@ -95,12 +95,12 @@
 
 **2 Seasons (6):** CrazyRusher (S1-S2), DoctorTP_ (S1-S2), GRLH (S1-S2), TheRedBlockMC (S1-S2), TobyPMC (S1-S2), WaffleBee (S1-S2)
 
-**1 Season (17):** CakeBrick (S1), Everflin (S1), Hodg5on (S1), ImMist (S1), IsaacMT (S1), TheBestOtaku (S1), TheSheepMasters (S1), tsmbros10 (S1), _JJL (S2), AronBaynes (S2), BrokenPic (S2), CrazyCallum (S2), DuallBlade9 (S2), Luqic (S2), Mini_Maxy (S2), TheFlamingW00kie (S2), TheKappaNation (S2)
+**1 Season (17):** CakeBrick (S1), Everflin (S1), Hodg5on (S1), ImMist (S1), IsaacMT (S1), lolmcgeeksFTW (S1), TheSheepMasters (S1), tsmbros10 (S1), _JJL (S2), AronBaynes (S2), BrokenPic (S2), CrazyCallum (S2), DuallBlade9 (S2), Luqic (S2), Mini_Maxy (S2), TheFlamingW00kie (S2), TheKappaNation (S2)
 
 ---
 ### Debutants
 
-**S1 (14):** CakeBrick, CrazyRusher, DoctorTP_, Everflin, GRLH, Hodg5on, ImMist, IsaacMT, TheBestOtaku, TheRedBlockMC, TheSheepMasters, TobyPMC, tsmbros10, WaffleBee
+**S1 (14):** CakeBrick, CrazyRusher, DoctorTP_, Everflin, GRLH, Hodg5on, ImMist, IsaacMT, lolmcgeeksFTW, TheRedBlockMC, TheSheepMasters, TobyPMC, tsmbros10, WaffleBee
 
 **S2 (9):** _JJL, AronBaynes, BrokenPic, CrazyCallum, DuallBlade9, Luqic, Mini_Maxy, TheFlamingW00kie, TheKappaNation
 

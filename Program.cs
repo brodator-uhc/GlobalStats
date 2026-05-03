@@ -6,7 +6,7 @@ using StatsAnalyzer;
 // If 3 makes a personal stats sheet for a player
 // If 4 calculates the global stats
 // If 5 calculates trivia stats
-int Statfunction = 5;
+int Statfunction = 4;
 // Player to analyze for the stats sheet
 String playerStats = "Brodator";
 // Select the stat doc for global stats

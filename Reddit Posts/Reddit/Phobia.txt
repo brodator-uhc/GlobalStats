@@ -110,7 +110,7 @@
 
 **S24:** Brodator (6), Jahrod (3)
 
-**S25:** 5kylord (1), Greeples (0), Kubaslov (4)
+**S25:** 5kylord (1), Greeples (0), Nikikula (4)
 
 **S26:** 5hup (1), Brodator (1), DancersTalon (0), Exee (0)
 
@@ -169,7 +169,7 @@
 
 **S24:** Micale (7)
 
-**S25:** Bacan, Havenhand, Kubaslov (4)
+**S25:** Bacan, Havenhand, Nikikula (4)
 
 **S26:** fruitlogic (5)
 
@@ -499,7 +499,7 @@
 
 **11th - MarcC5M (16):** boyceterous (S1), MrTeamRaven (S1), Marky_Ross (S4), EighteenQs (S4), boyceterous (S4), Scott_XD (S8), jamertxn (S11), DarkCrystalFlame (S11), Chasmic (S12), Chasmic (S17), TastyBaconZ (S18), Emerric (S20), MeadowMoos (S25), DancersTalon (S26), 5kylord (S26), Pehnk (S28)
 
-**13th - Havenhand (15):** Emerric (S21), I_is_cheesecake (S21), MeadowMoos (S21), Greeples (S21), KatyLawson (S22), I_is_cheesecake (S23), ShutUpBrick (S23), VintageBeef (S23), MarcC5M (S23), Jakekub (S24), DianaB (S24), Heralen (S25), Bacan (S25), fruitlogic (S25), Kubaslov (S25)
+**13th - Havenhand (15):** Emerric (S21), I_is_cheesecake (S21), MeadowMoos (S21), Greeples (S21), KatyLawson (S22), I_is_cheesecake (S23), ShutUpBrick (S23), VintageBeef (S23), MarcC5M (S23), Jakekub (S24), DianaB (S24), Heralen (S25), Bacan (S25), fruitlogic (S25), Nikikula (S25)
 
 **14th - ColdBac (13):** Brodator (S18), oworca (S18), Greeples (S20), jamertxn (S22), Flouzemaker (S22), ShyGus (S23), Chasmic (S23), fruitlogic (S23), buttergolem1 (S25), Exee (S25), Jakekub (S25), Micale (S27), ToucanTom (S27)
 
@@ -523,15 +523,15 @@
 
 **22nd - Jahrod (8):** NTBama (S22), Jakekub (S22), Flouzemaker (S24), Marky_Ross (S24), Emerric (S24), ShyGus (S25), Zevulpes (S25), ShutUpBrick (S25)
 
-**22nd - NTBama (8):** MarcC5M (S17), scriblur (S17), Flouzemaker (S17), Jakekub (S17), oworca (S17), BBR_ (S22), Kubaslov (S23), Maxwellfifty (S23)
+**22nd - NTBama (8):** MarcC5M (S17), scriblur (S17), Flouzemaker (S17), Jakekub (S17), oworca (S17), BBR_ (S22), Nikikula (S23), Maxwellfifty (S23)
 
 **22nd - Shortgamer (8):** ColdFusion5 (S2), Pippiter (S2), ShutUpBrick (S2), GeistBuster7 (S2), VeniiiD (S3), MrTeamRaven (S10), BJPlays (S10), Kassiie (S10)
 
-**27th - buttergolem1 (7):** Regifloat (S18), ToucanTom (S19), wibbol (S20), Kubaslov (S22), TastyBaconZ (S24), Kidfo (S27), Mjora (S27)
+**27th - buttergolem1 (7):** Regifloat (S18), ToucanTom (S19), wibbol (S20), Nikikula (S22), TastyBaconZ (S24), Kidfo (S27), Mjora (S27)
 
 **27th - GeistBuster7 (7):** Bergasms (S2), EirenePneuma (S2), Marky_Ross (S3), GlitchyRainbow (S4), Bergasms (S4), MarcC5M (S4), MPMG (S5)
 
-**27th - Kubaslov (7):** buttergolem1 (S21), ShyGus (S22), SimplySam (S23), ToucanTom (S25), Regifloat (S25), ColdBac (S25), Jahrod (S25)
+**27th - Nikikula (7):** buttergolem1 (S21), ShyGus (S22), SimplySam (S23), ToucanTom (S25), Regifloat (S25), ColdBac (S25), Jahrod (S25)
 
 **27th - scriblur (7):** Pippiter (S1), Belrus (S1), Doornbread (S1), ShutUpBrick (S3), MarcC5M (S3), bytexal (S7), BJPlays (S15)
 
@@ -539,7 +539,7 @@
 
 **32nd - AndrizzlePC (6):** Doornbread (S5), NTBama (S5), MrTeamRaven (S6), Scott_XD (S6), VeniiiD (S9), LongaVita (S10)
 
-**32nd - brodioh (6):** wibbol (S18), Greeples (S18), Timonscholte (S19), joeykin (S20), KatyLawson (S25), Kubaslov (S26)
+**32nd - brodioh (6):** wibbol (S18), Greeples (S18), Timonscholte (S19), joeykin (S20), KatyLawson (S25), Nikikula (S26)
 
 **32nd - BSBrent (6):** Cyonal (S21), Maxwellfifty (S21), ColdBac (S21), MrTeamRaven (S22), Zevulpes (S22), Jahrod (S22)
 
@@ -559,7 +559,7 @@
 
 **37th - OblivionTU (5):** Micale (S17), AvaCos (S17), 5kylord (S17), ToucanTom (S17), wibbol (S22)
 
-**37th - pigghetti (5):** Micale (S20), MajorWoof (S28), Kubaslov (S28), YellowVitt (S28), KOKeowner (S28)
+**37th - pigghetti (5):** Micale (S20), MajorWoof (S28), Nikikula (S28), YellowVitt (S28), KOKeowner (S28)
 
 **37th - Regifloat (5):** scriblur (S8), MarcC5M (S12), Chasmic (S14), Greeples (S15), TastyBaconZ (S19)
 
@@ -571,7 +571,7 @@
 
 **46th - KOKeowner (4):** Jakekub (S20), Ratchet6859 (S20), TheSonicJoey (S20), Jahrod (S28)
 
-**46th - MeadowMoos (4):** TastyBaconZ (S21), Kubaslov (S21), 5kylord (S21), ColdBac (S27)
+**46th - MeadowMoos (4):** TastyBaconZ (S21), Nikikula (S21), 5kylord (S21), ColdBac (S27)
 
 **46th - Pehnk (4):** Mjora (S25), TicedUp (S25), AvaCos (S27), Maxwellfifty (S27)
 
@@ -587,7 +587,7 @@
 
 **52nd - joeykin (3):** sonmica (S20), BJPlays (S20), brodioh (S20)
 
-**52nd - Kidfo (3):** wibbol (S27), Zevulpes (S27), Kubaslov (S27)
+**52nd - Kidfo (3):** wibbol (S27), Zevulpes (S27), Nikikula (S27)
 
 **52nd - KTRBoT (3):** BBR_ (S10), VeniiiD (S10), Balone (S10)
 
@@ -716,7 +716,7 @@
 
 **Zombie (3):** Neoscys (S3), Neoscys (S4), NTBama (S20)
 
-**Cave Spider (2):** Kakintse (S8), Kubaslov (S20)
+**Cave Spider (2):** Kakintse (S8), Nikikula (S20)
 
 **Drowning (2):** SidGarcia (S11), DianaB (S12)
 
@@ -787,7 +787,7 @@
 
 **9 Seasons (5):** Marky_Ross (S1-S5,S21-S22,S24-S25), Bacan (S16-S19,S21-S25), brodioh (S18-S21,S24-S28), ColdBac (S18,S20-S27), Maxwellfifty (S19,S21-S28)
 
-**8 Seasons (6):** AndrizzlePC (S4-S10,S17), AvaCos (S13-S15,S17,S19-S20,S22,S27), Jakekub (S17,S20,S22-S27), Havenhand (S19,S21-S26,S28), Kubaslov (S20-S23,S25-S28), Jahrod (S21-S28)
+**8 Seasons (6):** AndrizzlePC (S4-S10,S17), AvaCos (S13-S15,S17,S19-S20,S22,S27), Jakekub (S17,S20,S22-S27), Havenhand (S19,S21-S26,S28), Nikikula (S20-S23,S25-S28), Jahrod (S21-S28)
 
 **7 Seasons (6):** NTBama (S5,S14-S15,S17,S20,S22-S23), SidGarcia (S5,S11,S14,S18,S20,S22-S23), Kassiie (S7-S11,S14,S16), rippersteveM5 (S14-S15,S19-S21,S24-S25), ElGavinoSupremo (S15-S17,S19-S22), 5hup (S19,S21-S24,S26-S27)
 
@@ -844,7 +844,7 @@
 
 **S19 (5):** 5hup, Havenhand, I_is_cheesecake, Maxwellfifty, OddBaller
 
-**S20 (14):** BreakSalad, joeykin, KOKeowner, Krenzinator, Kubaslov, LordLaelaps, Mop19, nihontiger, pigghetti, QuilJ1, Ratchet6859, silverteeth, sonmica, TheSonicJoey
+**S20 (14):** BreakSalad, joeykin, KOKeowner, Krenzinator, LordLaelaps, Mop19, nihontiger, Nikikula, pigghetti, QuilJ1, Ratchet6859, silverteeth, sonmica, TheSonicJoey
 
 **S21 (5):** BSBrent, Jahrod, Kidfo, MeadowMoos, SimplySam
 

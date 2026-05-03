@@ -68,7 +68,7 @@
 
 **S13:** Charrlottie (1), powermc (1), Randehh (1), SiahStone (5)
 
-**S14:** ColdBac (5), Kubaslov (0), Randehh (1)
+**S14:** ColdBac (5), Nikikula (0), Randehh (1)
 
 **S15:** CAMKART100 (0), ColdBac (5), Kaimaxon (3), zoeywithawhy (2)
 
@@ -329,7 +329,7 @@
 
 **6th - TheSonicJoey (17):** SpyroJ (S5), azoof (S6), DogOfKrondor (S6), Applepie78 (S6), WackoFlipper (S8), Chasmic (S8), fruitlogic (S8), SpyroJ (S9), CAMKART100 (S9), cherryblawsom (S15), Jordtim (S15), ShootingGoats (S15), Codwhy (S15), Eluniel (S18), BoltsInCharge (S18), MCmattFTW (S18), Exee (S18)
 
-**8th - ChainingVermin2 (16):** Westcraft00 (S12), Kaismartypants (S12), azoof (S14), Kubaslov (S14), BoltsInCharge (S14), Randehh (S14), ColdBac (S14), CAMKART100 (S15), zoeywithawhy (S15), CodeJoshua (S17), SharkeyJaws (S17), cherryblawsom (S17), CommanderK22_ (S17), Greeples (S18), CommanderK22_ (S18), Charrlottie (S18)
+**8th - ChainingVermin2 (16):** Westcraft00 (S12), Kaismartypants (S12), azoof (S14), Nikikula (S14), BoltsInCharge (S14), Randehh (S14), ColdBac (S14), CAMKART100 (S15), zoeywithawhy (S15), CodeJoshua (S17), SharkeyJaws (S17), cherryblawsom (S17), CommanderK22_ (S17), Greeples (S18), CommanderK22_ (S18), Charrlottie (S18)
 
 **9th - BoltsInCharge (14):** TehBaconBrawlerZ (S11), CommanderK22_ (S11), AirInAirOut (S11), Brodator (S11), CodeJoshua (S12), Klickacat (S12), Greeples (S12), jimmyjegs (S12), Applepie78 (S13), Rohcket (S14), Gorgerous (S14), Guardaxion (S17), Brodator (S17), lasdarling (S17)
 
@@ -357,7 +357,7 @@
 
 **20th - pigghetti (9):** Klickacat (S13), fruitlogic (S13), starlxghtmoon (S14), jimmyjegs (S14), fruitlogic (S14), RuneTactics (S15), Greeples (S16), MaxEvasion (S16), azoof (S16)
 
-**20th - SiahStone (9):** Cameo_o (S10), CAMKART100 (S12), Nyxbee (S12), Kubaslov (S12), Greeples (S13), TheSonicJoey (S13), RuneTactics (S13), ColdBac (S13), jimmyjegs (S13)
+**20th - SiahStone (9):** Cameo_o (S10), CAMKART100 (S12), Nyxbee (S12), Nikikula (S12), Greeples (S13), TheSonicJoey (S13), RuneTactics (S13), ColdBac (S13), jimmyjegs (S13)
 
 **23rd - starlxghtmoon (8):** Applepie78 (S9), Karasu994 (S10), Charrlottie (S10), Guardaxion (S11), Flouzemaker (S11), Westcraft00 (S11), lexicuhl (S17), fruitlogic (S17)
 
@@ -385,7 +385,7 @@
 
 **35th - kirbey (5):** TorinFBF (S3), TehBaconBrawlerZ (S3), Klickacat (S3), lasdarling (S3), ShootingGoats (S17)
 
-**35th - MaxEvasion (5):** Klickacat (S2), Jordtim (S4), MeadowMoos (S4), Klickacat (S16), Kubaslov (S17)
+**35th - MaxEvasion (5):** Klickacat (S2), Jordtim (S4), MeadowMoos (S4), Klickacat (S16), Nikikula (S17)
 
 **35th - ShootingGoats (5):** TehBaconBrawlerZ (S12), lasdarling (S12), TheSlimeBrother (S12), CodeJoshua (S13), powermc (S14)
 
@@ -417,7 +417,7 @@
 
 **48th - Kaimaxon (3):** kirbey (S15), starlxghtmoon (S15), Greeples (S15)
 
-**48th - Kubaslov (3):** Brodator (S12), Gorgerous (S16), Maxwellfifty (S16)
+**48th - Nikikula (3):** Brodator (S12), Gorgerous (S16), Maxwellfifty (S16)
 
 **48th - TorinFBF (3):** MeadowMoos (S1), Greeples (S1), TheSlimeBrother (S5)
 
@@ -472,7 +472,7 @@
 ---
 ### PvE Deaths
 
-**Fall (8):** TheSlimeBrother (S1), Flouzemaker (S5), Fazz2 (S8), MeadowMoos (S9), CrowJRC (S14), Kubaslov (S15), Kubaslov (S16), 4EyedSlime (S18)
+**Fall (8):** TheSlimeBrother (S1), Flouzemaker (S5), Fazz2 (S8), MeadowMoos (S9), CrowJRC (S14), Nikikula (S15), Nikikula (S16), 4EyedSlime (S18)
 
 **Zombie (7):** DogOfKrondor (S1), Greeples (S7), lasdarling (S10), ZenonX_ (S15), fruitlogic (S16), zoeywithawhy (S18), Buzzy_Bee_120 (S18)
 
@@ -494,7 +494,7 @@
 
 **Enderman (1):** ZebraTonic (S5)
 
-**Iron Golem (1):** Kubaslov (S11)
+**Iron Golem (1):** Nikikula (S11)
 
 **Magma (1):** Paxtona (S12)
 
@@ -527,7 +527,7 @@
 
 **7 Seasons (5):** lasdarling (S3,S10-S12,S15,S17-S18), TehBaconBrawlerZ (S3,S7,S11-S12,S15-S17), CommanderK22_ (S10-S13,S15,S17-S18), AirInAirOut (S11-S17), BoltsInCharge (S11-S15,S17-S18)
 
-**6 Seasons (8):** Eluniel (S1-S3,S5,S13,S18), Klobb (S2-S4,S8,S10,S14), Charrlottie (S3,S5,S8,S10,S13,S18), Dj8ninja (S8-S10,S12,S15-S16), Guardaxion (S11-S12,S15-S18), Kubaslov (S11-S12,S14-S17), ShootingGoats (S12-S17), zoeywithawhy (S12-S13,S15-S18)
+**6 Seasons (8):** Eluniel (S1-S3,S5,S13,S18), Klobb (S2-S4,S8,S10,S14), Charrlottie (S3,S5,S8,S10,S13,S18), Dj8ninja (S8-S10,S12,S15-S16), Guardaxion (S11-S12,S15-S18), Nikikula (S11-S12,S14-S17), ShootingGoats (S12-S17), zoeywithawhy (S12-S13,S15-S18)
 
 **5 Seasons (8):** MaxEvasion (S1-S2,S4,S16-S17), Jahrod (S4-S5,S7-S8,S10), RuneTactics (S9-S11,S13,S15), powermc (S10,S13-S15,S18), SiahStone (S10,S12-S15), CodeJoshua (S11-S13,S15,S17), pigghetti (S13-S17), Sharkbob94349 (S14-S18)
 
@@ -562,7 +562,7 @@
 
 **S10 (8):** brodioh, Cameo_o, Chrominize, CommanderK22_, dashdude, Karasu994, powermc, SiahStone
 
-**S11 (8):** AirInAirOut, BoltsInCharge, Buzzy_Bee_120, ChainingVermin2, CodeJoshua, Guardaxion, Kubaslov, Westcraft00
+**S11 (8):** AirInAirOut, BoltsInCharge, Buzzy_Bee_120, ChainingVermin2, CodeJoshua, Guardaxion, Nikikula, Westcraft00
 
 **S12 (8):** Boomblade60, MercuryParadox, Nyxbee, Paxtona, ShootingGoats, WinnerSkye, ZenonX_, zoeywithawhy
 

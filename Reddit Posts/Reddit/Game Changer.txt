@@ -109,7 +109,7 @@
 
 **1st - gartbak (11):** Biwitch (S1), aalaan (S1), Randehh (S1), zCent (S5), OnlyCosmia (S5), Aybel (S5), DECTHEELITE (S5), natsuvi (S5), tagggz (S5), aalaan (S5), swishduck (S5)
 
-**2nd - ChrisCD (8):** Omertosa (S2), automavic (S3), Ryfri (S3), azoof (S3), Ryfri (S4), Omertosa (S4), AmbientDan (S5), Kubaslov (S5)
+**2nd - ChrisCD (8):** Omertosa (S2), automavic (S3), Ryfri (S3), azoof (S3), Ryfri (S4), Omertosa (S4), AmbientDan (S5), Nikikula (S5)
 
 **2nd - I_is_cheesecake (8):** _pbo (S2), Jordtim (S2), ChrisCD (S2), Thimburrr (S2), Applepie78 (S2), zCent (S2), Keelando (S2), lexicuhl (S2)
 
@@ -184,7 +184,7 @@
 
 **Ender Dragon (3):** ThePeridotKnight (S4), ChrisCD (S4), strategy (S4)
 
-**Enderman (3):** Sean081799 (S4), Gorgerous (S4), Kubaslov (S4)
+**Enderman (3):** Sean081799 (S4), Gorgerous (S4), Nikikula (S4)
 
 **Fall (3):** Biwitch (S2), YellowVitt (S4), SPEEDYDIGS (S4)
 
@@ -205,7 +205,7 @@
 
 **3 Seasons (13):** AmbientDan (S1-S2,S5), gartbak (S1,S4-S5), I_is_cheesecake (S1-S2,S5), Jordtim (S1-S2,S4), lottebunny (S1-S2,S4), Randehh (S1-S3), tagggz (S1-S2,S5), Bluests (S2,S4-S5), Keelando (S2-S3,S5), OnlyCosmia (S2,S4-S5), ScaryPumpkinFace (S2,S4-S5), swishduck (S2,S4-S5), natsuvi (S3-S5)
 
-**2 Seasons (19):** _ChrisMS (S1-S2), 5hup (S1-S2), Awticon (S1-S2), Bacan (S1,S4), Biwitch (S1-S2), CHANGA (S1-S2), DJoee (S1-S2), LeonTG (S1,S4), lexicuhl (S1-S2), Applepie78 (S2,S4), MarcC5M (S2,S5), Omertosa (S2,S4), Thimburrr (S2,S5), automavic (S3-S4), ColdBac (S3,S5), pigghetti (S3,S5), Kubaslov (S4-S5), LoganHam1313 (S4-S5), YellowVitt (S4-S5)
+**2 Seasons (19):** _ChrisMS (S1-S2), 5hup (S1-S2), Awticon (S1-S2), Bacan (S1,S4), Biwitch (S1-S2), CHANGA (S1-S2), DJoee (S1-S2), LeonTG (S1,S4), lexicuhl (S1-S2), Applepie78 (S2,S4), MarcC5M (S2,S5), Omertosa (S2,S4), Thimburrr (S2,S5), automavic (S3-S4), ColdBac (S3,S5), pigghetti (S3,S5), LoganHam1313 (S4-S5), Nikikula (S4-S5), YellowVitt (S4-S5)
 
 **1 Season (21):** clefairy (S1), Erferno (S1), ToontownOnline (S1), _Dieter (S2), _pbo (S2), brodioh (S2), Ninjajaja (S2), azoof (S3), TheSonicJoey (S3), Digitale (S4), Sean081799 (S4), SPEEDYDIGS (S4), strategy (S4), Caydone (S5), DECTHEELITE (S5), Havenhand (S5), Kaismartypants (S5), ohh_lia (S5), PotaTomas (S5), SiahStone (S5), theencomputers (S5)
 
@@ -218,7 +218,7 @@
 
 **S3 (6):** automavic, azoof, ColdBac, natsuvi, pigghetti, TheSonicJoey
 
-**S4 (7):** Digitale, Kubaslov, LoganHam1313, Sean081799, SPEEDYDIGS, strategy, YellowVitt
+**S4 (7):** Digitale, LoganHam1313, Nikikula, Sean081799, SPEEDYDIGS, strategy, YellowVitt
 
 **S5 (8):** Caydone, DECTHEELITE, Havenhand, Kaismartypants, ohh_lia, PotaTomas, SiahStone, theencomputers
 

@@ -20,7 +20,7 @@
 ---
 ### Runner Ups
 
-**S1:** DJoee (2), Kubaslov (0), SD_UHC (0), ToontownOnline (0)
+**S1:** DJoee (2), Nikikula (0), SD_UHC (0), ToontownOnline (0)
 
 **S2:** GetNicked (2), lottebunny (1)
 
@@ -147,7 +147,7 @@
 
 **4th - Maxwellfifty (10):** lexicuhl (S4), Boomblade60 (S4), Fazz2 (S4), bjr201111 (S5), brodioh (S5), lottebunny (S5), Chasmic (S6), Jahrod (S6), TheRealHagrid (S6), wibbol (S6)
 
-**4th - natsuvi (10):** centraleric (S1), SD_UHC (S1), Kubaslov (S2), Potsie (S3), I_is_cheesecake (S3), Kubaslov (S3), WackoFlipper (S3), SiahStone (S3), ProGirlGamer (S7), CrowJRC (S7)
+**4th - natsuvi (10):** centraleric (S1), SD_UHC (S1), Nikikula (S2), Potsie (S3), I_is_cheesecake (S3), Nikikula (S3), WackoFlipper (S3), SiahStone (S3), ProGirlGamer (S7), CrowJRC (S7)
 
 **6th - bjr201111 (8):** SiahStone (S5), Psykl0ne (S5), DKPMatt (S6), VeniiiD (S6), Boomblade60 (S6), Gorgerous (S6), CrowJRC (S6), centraleric (S6)
 
@@ -165,9 +165,9 @@
 
 **13th - Boomblade60 (4):** dw0w (S4), Applepie78 (S4), Chasmic (S5), pigghetti (S5)
 
-**13th - cherryblawsom (4):** DJoee (S4), SiahStone (S4), Kubaslov (S5), Maxwellfifty (S6)
+**13th - cherryblawsom (4):** DJoee (S4), SiahStone (S4), Nikikula (S5), Maxwellfifty (S6)
 
-**13th - ColdBac (4):** Kubaslov (S1), Dj8ninja (S4), Exee (S5), dw0w (S5)
+**13th - ColdBac (4):** Nikikula (S1), Dj8ninja (S4), Exee (S5), dw0w (S5)
 
 **13th - SiahStone (4):** Gorgerous (S4), pigghetti (S4), Maxwellfifty (S4), tbhjosh (S6)
 
@@ -215,11 +215,11 @@
 
 **33rd - Greeples (1):** LordLaelaps (S7)
 
-**33rd - Kubaslov (1):** natsuvi (S2)
-
 **33rd - Livin423 (1):** TheRealHagrid (S2)
 
 **33rd - MaxEvasion (1):** natsuvi (S7)
+
+**33rd - Nikikula (1):** natsuvi (S2)
 
 **33rd - Plushy33 (1):** Do_You_Minecraft (S6)
 
@@ -267,7 +267,7 @@
 
 **5 Seasons (5):** DJoee (S1,S3-S4,S6-S7), lexicuhl (S2-S5,S7), Maxwellfifty (S2,S4-S7), ChainingVermin2 (S3-S7), Gorgerous (S3-S7)
 
-**4 Seasons (8):** buttergolem1 (S1,S3-S4,S6), Fra49 (S1-S3,S6), Kubaslov (S1-S3,S5), powermc (S1-S3,S5), TheRealHagrid (S2,S4,S6-S7), Aybel (S3-S6), SiahStone (S3-S6), Boomblade60 (S4-S7)
+**4 Seasons (8):** buttergolem1 (S1,S3-S4,S6), Fra49 (S1-S3,S6), Nikikula (S1-S3,S5), powermc (S1-S3,S5), TheRealHagrid (S2,S4,S6-S7), Aybel (S3-S6), SiahStone (S3-S6), Boomblade60 (S4-S7)
 
 **3 Seasons (12):** 6BU (S1-S2,S6), Ixolock (S1,S5,S7), bjr201111 (S3,S5-S6), Dj8ninja (S3-S4,S7), firefoxvulpix (S3-S4,S6), Psykl0ne (S3,S5-S6), Applepie78 (S4-S5,S7), cherryblawsom (S4-S6), Do_You_Minecraft (S4-S6), DrSliced (S4,S6-S7), TalonBX (S4-S6), Chasmic (S5-S7)
 
@@ -278,7 +278,7 @@
 ---
 ### Debutants
 
-**S1 (24):** 3Dspoders, 6BU, azoof, BatMan_1814, buttergolem1, centraleric, ColdBac, DJoee, Fra49, fruitberries, Havenhand, Ixolock, Kubaslov, LightningS7, lottebunny, MeadowMoos, Micale, natsuvi, nsket, pigghetti, powermc, SD_UHC, TommySuX, ToontownOnline
+**S1 (24):** 3Dspoders, 6BU, azoof, BatMan_1814, buttergolem1, centraleric, ColdBac, DJoee, Fra49, fruitberries, Havenhand, Ixolock, LightningS7, lottebunny, MeadowMoos, Micale, natsuvi, Nikikula, nsket, pigghetti, powermc, SD_UHC, TommySuX, ToontownOnline
 
 **S2 (9):** Flohp, Fourbitplayer, GetNicked, lexicuhl, Livin423, Maxwellfifty, ShyGus, TheRealHagrid, Zahkari
 

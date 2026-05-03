@@ -21,6 +21,8 @@
 
 **S8b: Bobbytheturtle (5), Codwhy (0), lexicuhl (1), Ryfri (1)**
 
+**S9a: omchris (2)**, *ChainingVermin2 (1)*
+
 ---
 ### Runner Ups
 
@@ -41,6 +43,8 @@
 **S8a:** Bobbytheturtle (0), Buzzy_Bee_120 (0), omchris (0), Westcraft00 (3)
 
 **S8b:** Buzzy_Bee_120 (0), ChainingVermin2 (0), ProGirlGamer (0), ShootingGoats (0)
+
+**S9a:** CrowJRC (4), Keelando (1)
 
 ---
 ### Most Kills
@@ -63,6 +67,8 @@
 
 **S8b:** Bobbytheturtle (5)
 
+**S9a:** CrowJRC (4)
+
 ---
 ### Most Kills (Team)
 
@@ -83,6 +89,8 @@
 **S8a:** ProGirlGamer (2), Rohcket (0), ShootingGoats (2), Spongey (1)
 
 **S8b:** Bobbytheturtle (5), Codwhy (0), lexicuhl (1), Ryfri (1)
+
+**S9a:** CrowJRC (4), Keelando (1)
 
 ---
 ### First Damage
@@ -105,6 +113,8 @@
 
 **S8b:** MaxEvasion (0:0:2)
 
+**S9a:** Ryfri (0:0:54)
+
 ---
 ### Ironman
 
@@ -125,6 +135,8 @@
 **S8a:** Spongey (1:10:45)
 
 **S8b:** ChainingVermin2 (1:4:5)
+
+**S9a:** fruitlogic (1:22:58)
 
 ---
 ### First Blood
@@ -147,6 +159,8 @@
 
 **S8b:** MaxEvasion (Keelando)
 
+**S9a:** SpyroJ (Spongey)
+
 ---
 ### First Death
 
@@ -168,6 +182,8 @@
 
 **S8b:** Keelando (MaxEvasion)
 
+**S9a:** Klickacat (Skeleton)
+
 ---
 ### Kills
 
@@ -175,11 +191,11 @@
 
 **2nd - lexicuhl (11):** cherryblawsom (S2), Biwitch (S3), _Fost_ (S3), Jahrod (S3), Brodator (S4), Buzzy_Bee_120 (S4), powermc (S5), SpyroJ (S5), Codwhy (S5), TalonBX (S5), Buzzy_Bee_120 (S8b)
 
-**3rd - Brodator (9):** SpyroJ (S2), Ryfri (S2), Jahrod (S2), fruitlogic (S2), _Fost_ (S6), Vetmire (S7), TorinFBF (S8a), ChainingVermin2 (S8b), ProGirlGamer (S8b)
+**3rd - Brodator (10):** SpyroJ (S2), Ryfri (S2), Jahrod (S2), fruitlogic (S2), _Fost_ (S6), Vetmire (S7), TorinFBF (S8a), ChainingVermin2 (S8b), ProGirlGamer (S8b), Maxwellfifty (S9a)
 
-**4th - Ryfri (7):** fruitlogic (S1), Klickacat (S2), lexicuhl (S2), Codwhy (S6), SpaceFenix (S6), Spongey (S6), Guardaxion (S8b)
+**4th - omchris (8):** Vetmire (S3), cherryblawsom (S4), Klickacat (S5), Vetmire (S8b), Jahrod (S8b), BoltsInCharge (S8b), Brodator (S9a), CrowJRC (S9a)
 
-**5th - omchris (6):** Vetmire (S3), cherryblawsom (S4), Klickacat (S5), Vetmire (S8b), Jahrod (S8b), BoltsInCharge (S8b)
+**5th - Ryfri (7):** fruitlogic (S1), Klickacat (S2), lexicuhl (S2), Codwhy (S6), SpaceFenix (S6), Spongey (S6), Guardaxion (S8b)
 
 **6th - Bobbytheturtle (5):** fruitlogic (S8b), Brodator (S8b), Greeples (S8b), MaxEvasion (S8b), omchris (S8b)
 
@@ -187,58 +203,68 @@
 
 **6th - TalonBX (5):** omchris (S3), pigghetti (S3), Westcraft00 (S5), Brodator (S5), SpyroJ (S6)
 
+**9th - ChainingVermin2 (4):** TalonBX (S6), Brodator (S6), Greeples (S6), 1madlilgrunt (S9a)
+
+**9th - CrowJRC (4):** Guardaxion (S9a), Westcraft00 (S9a), SpaceFenix (S9a), ChainingVermin2 (S9a)
+
 **9th - Jahrod (4):** wizarde (S1), Brodator (S3), SpyroJ (S3), Spongey (S4)
+
+**9th - SpaceFenix (4):** Westcraft00 (S6), powermc (S6), Bobbytheturtle (S9a), Keelando (S9a)
+
+**9th - SpyroJ (4):** Klickacat (S3), Buzzy_Bee_120 (S3), Vetmire (S5), Spongey (S9a)
+
+**9th - Westcraft00 (4):** Vetmire (S8a), Guardaxion (S8a), Brodator (S8a), WackoFlipper (S9a)
 
 **9th - wizarde (4):** fruitlogic (S4), Ryfri (S4), Klickacat (S4), ColdBac (S4)
 
-**11th - ChainingVermin2 (3):** TalonBX (S6), Brodator (S6), Greeples (S6)
+**16th - cherryblawsom (3):** Klickacat (S1), Ryfri (S1), swishduck (S1)
 
-**11th - cherryblawsom (3):** Klickacat (S1), Ryfri (S1), swishduck (S1)
+**16th - Codwhy (3):** ChainingVermin2 (S5), cherryblawsom (S5), Rohcket (S5)
 
-**11th - Codwhy (3):** ChainingVermin2 (S5), cherryblawsom (S5), Rohcket (S5)
+**16th - Greeples (3):** Westcraft00 (S7), _Fost_ (S7), Westcraft00 (S8b)
 
-**11th - Greeples (3):** Westcraft00 (S7), _Fost_ (S7), Westcraft00 (S8b)
+**16th - pigghetti (3):** Jahrod (S1), fruitlogic (S3), WackoFlipper (S3)
 
-**11th - pigghetti (3):** Jahrod (S1), fruitlogic (S3), WackoFlipper (S3)
+**16th - ShootingGoats (3):** 1madlilgrunt (S6), Bobbytheturtle (S8a), swishduck (S8a)
 
-**11th - ShootingGoats (3):** 1madlilgrunt (S6), Bobbytheturtle (S8a), swishduck (S8a)
+**16th - swishduck (3):** Biwitch (S1), SoulvG (S1), fruitlogic (S8a)
 
-**11th - SpyroJ (3):** Klickacat (S3), Buzzy_Bee_120 (S3), Vetmire (S5)
+**22nd - Klickacat (2):** Codwhy (S4), Westcraft00 (S4)
 
-**11th - swishduck (3):** Biwitch (S1), SoulvG (S1), fruitlogic (S8a)
+**22nd - ProGirlGamer (2):** Greeples (S8a), Buzzy_Bee_120 (S8a)
 
-**11th - Westcraft00 (3):** Vetmire (S8a), Guardaxion (S8a), Brodator (S8a)
+**22nd - Vetmire (2):** SpyroJ (S7), MaxEvasion (S7)
 
-**20th - Klickacat (2):** Codwhy (S4), Westcraft00 (S4)
+**25th - 1madlilgrunt (1):** rippersteveM5 (S3)
 
-**20th - ProGirlGamer (2):** Greeples (S8a), Buzzy_Bee_120 (S8a)
+**25th - Biwitch (1):** _pbo (S1)
 
-**20th - SpaceFenix (2):** Westcraft00 (S6), powermc (S6)
+**25th - Guardaxion (1):** Ryfri (S9a)
 
-**20th - Vetmire (2):** SpyroJ (S7), MaxEvasion (S7)
+**25th - Keelando (1):** fruitlogic (S9a)
 
-**24th - 1madlilgrunt (1):** rippersteveM5 (S3)
+**25th - MaxEvasion (1):** Keelando (S8b)
 
-**24th - Biwitch (1):** _pbo (S1)
+**25th - Maxwellfifty (1):** SpyroJ (S9a)
 
-**24th - MaxEvasion (1):** Keelando (S8b)
+**25th - powermc (1):** ChainingVermin2 (S6)
 
-**24th - powermc (1):** ChainingVermin2 (S6)
-
-**24th - TorinFBF (1):** SpyroJ (S8a)
+**25th - TorinFBF (1):** SpyroJ (S8a)
 
 ---
 ### PvE Deaths
 
-**Fall (3):** TalonBX (S3), omchris (S6), ShootingGoats (S7)
+**Skeleton (9):** ChainingVermin2 (S8a), omchris (S8a), Codwhy (S8a), Klickacat (S9a), Vetmire (S9a), pierce981 (S9a), Codwhy (S9a), JaeHasNoMaidens (S9a), ProGirlGamer (S9a)
 
-**Skeleton (3):** ChainingVermin2 (S8a), omchris (S8a), Codwhy (S8a)
+**Fall (4):** TalonBX (S3), omchris (S6), ShootingGoats (S7), Greeples (S9a)
 
 **Creeper (2):** Flohp (S7), SpyroJ (S8b)
 
 **Pummeled (2):** SpaceFenix (S7), ChainingVermin2 (S7)
 
 **Chicken (1):** Brodator (S1)
+
+**Drowned (1):** Queequa (S9a)
 
 **Drowning (1):** fruitlogic (S7)
 
@@ -250,32 +276,38 @@
 
 **Left (1):** Klickacat (S8a)
 
+**Phantom (1):** Buzzy_Bee_120 (S9a)
+
 **Sneaking (1):** _Fost_ (S2)
 
 **Spider (1):** Jahrod (S7)
+
+**Vicious Potato (1):** BoltsInCharge (S9a)
 
 **Void (1):** Mjora (S6)
 
 ---
 ### Participation
 
-**9 Seasons (3):** Brodator (S1-S8b), fruitlogic (S1-S8b), omchris (S1-S8b)
+**10 Seasons (3):** Brodator (S1-S9a), fruitlogic (S1-S9a), omchris (S1-S9a)
 
-**8 Seasons (1):** SpyroJ (S1-S3,S5-S8b)
+**9 Seasons (1):** SpyroJ (S1-S3,S5-S9a)
 
-**7 Seasons (0):** 
+**8 Seasons (0):** 
 
-**6 Seasons (6):** Jahrod (S1-S4,S7,S8b), Klickacat (S1-S5,S8a), lexicuhl (S2-S6,S8b), Buzzy_Bee_120 (S3-S4,S6-S8b), Vetmire (S3,S5-S8b), Westcraft00 (S4-S8b)
+**7 Seasons (4):** Klickacat (S1-S5,S8a,S9a), Buzzy_Bee_120 (S3-S4,S6-S9a), Vetmire (S3,S5-S9a), Westcraft00 (S4-S9a)
 
-**5 Seasons (7):** _Fost_ (S1-S3,S6-S7), cherryblawsom (S1-S2,S4-S6), Ryfri (S1-S2,S4,S6,S8b), Greeples (S2,S6-S8b), Spongey (S2-S4,S6,S8a), Codwhy (S4-S6,S8a-S8b), ChainingVermin2 (S5-S8b)
+**6 Seasons (7):** Jahrod (S1-S4,S7,S8b), Ryfri (S1-S2,S4,S6,S8b-S9a), Greeples (S2,S6-S9a), lexicuhl (S2-S6,S8b), Spongey (S2-S4,S6,S8a,S9a), Codwhy (S4-S6,S8a-S9a), ChainingVermin2 (S5-S9a)
+
+**5 Seasons (2):** _Fost_ (S1-S3,S6-S7), cherryblawsom (S1-S2,S4-S6)
 
 **4 Seasons (1):** ShootingGoats (S6-S8b)
 
-**3 Seasons (2):** wizarde (S1,S4,S6), TalonBX (S3,S5-S6)
+**3 Seasons (7):** wizarde (S1,S4,S6), 1madlilgrunt (S3,S6,S9a), TalonBX (S3,S5-S6), SpaceFenix (S6-S7,S9a), Bobbytheturtle (S8a-S9a), Guardaxion (S8a-S9a), ProGirlGamer (S8a-S9a)
 
-**2 Seasons (11):** Biwitch (S1,S3), pigghetti (S1,S3), swishduck (S1,S8a), 1madlilgrunt (S3,S6), powermc (S5-S6), Rohcket (S5,S8a), SpaceFenix (S6-S7), MaxEvasion (S7,S8b), Bobbytheturtle (S8a-S8b), Guardaxion (S8a-S8b), ProGirlGamer (S8a-S8b)
+**2 Seasons (10):** Biwitch (S1,S3), pigghetti (S1,S3), swishduck (S1,S8a), WackoFlipper (S3,S9a), powermc (S5-S6), Rohcket (S5,S8a), MaxEvasion (S7,S8b), Maxwellfifty (S8a,S9a), BoltsInCharge (S8b-S9a), Keelando (S8b-S9a)
 
-**1 Season (12):** _pbo (S1), SoulvG (S1), rippersteveM5 (S3), TommySuX (S3), WackoFlipper (S3), ColdBac (S4), Mjora (S6), Flohp (S7), Maxwellfifty (S8a), TorinFBF (S8a), BoltsInCharge (S8b), Keelando (S8b)
+**1 Season (12):** _pbo (S1), SoulvG (S1), rippersteveM5 (S3), TommySuX (S3), ColdBac (S4), Mjora (S6), Flohp (S7), TorinFBF (S8a), CrowJRC (S9a), JaeHasNoMaidens (S9a), pierce981 (S9a), Queequa (S9a)
 
 ---
 ### Debutants
@@ -297,5 +329,7 @@
 **S8a (5):** Bobbytheturtle, Guardaxion, Maxwellfifty, ProGirlGamer, TorinFBF
 
 **S8b (2):** BoltsInCharge, Keelando
+
+**S9a (4):** CrowJRC, JaeHasNoMaidens, pierce981, Queequa
 
 ---

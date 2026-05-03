@@ -329,7 +329,7 @@
 
 **6th - tagggz (12):** Mathyy (S7), LongaVita (S7), chloesad (S9), Potsie (S9), WackoFlipper (S11), ColdBac (S11), Edviin_ (S11), DjTalica (S11), rippersteveM5 (S11), brodioh (S12), miles1baseball (S12), Flohp (S12)
 
-**8th - pigghetti (11):** OnlyCosmia (S11), 5kylord (S11), tagggz (S11), WillBrisk (S12), frogsella (S12), Chasmic (S13), tagggz (S15), MajorWoof (S16b), Kubaslov (S16b), YellowVitt (S16b), KOKeowner (S16b)
+**8th - pigghetti (11):** OnlyCosmia (S11), 5kylord (S11), tagggz (S11), WillBrisk (S12), frogsella (S12), Chasmic (S13), tagggz (S15), MajorWoof (S16b), Nikikula (S16b), YellowVitt (S16b), KOKeowner (S16b)
 
 **8th - ShyGus (11):** 78ford (S5), BBR_ (S6), Ixolock (S7), BBR_ (S8), Daffz (S8), frogsella (S9), tagggz (S9), TheRealHagrid (S9), miles1baseball (S9), ColdBac (S9), Kiinako_ (S10)
 
@@ -557,7 +557,7 @@
 
 **2 Seasons (29):** FDeath (S1,S3), LongaVita (S1,S7), MrPolzerino (S1,S3), Ruari (S1-S2), Algebra (S2-S3), Cryptic (S2-S3), Fairyjuice (S2,S5), Hoppy (S2,S16b), Huntree (S2-S3), Kidfo (S2-S3), OblivionTU (S2-S3), CedGhoss (S3-S4), Stellios_Cantos (S4,S9), AvaCos (S6-S7), Ixolock (S7,S9), LegoBeast (S7,S12), oworca (S7-S8), scriblur (S7-S8), vynil (S7-S8), Cyndic (S10,S14), WaXmAn24 (S10,S13), 5hup (S12,S14), nFang (S12,S14), mqson (S13-S14), warriorcat (S13,S16b), H_L_llama (S14-S15), Pie212_123 (S14-S15), Lighte (S15-S16a), ChainingVermin2 (S16b-S17)
 
-**1 Season (39):** Chapter_III (S1), GlowingNeon (S1), Maddognils (S1), Tomathius (S1), WintherMaw (S1), Gillieeeee (S2), slowpr0 (S2), xenon__54 (S2), scotteh (S3), Venusial (S3), Guep (S4), Topspinpiggles (S5), floobel (S6), SummerBqsh (S9), NajaOxiana (S12), ElGavinoSupremo (S15), jvevo (S16a), Zevulpes (S16a), Bobbytheturtle (S16b), Brodator (S16b), buttergolem1 (S16b), DancersTalon (S16b), Exee (S16b), firefoxvulpix (S16b), fruitlogic (S16b), Greeples (S16b), JaeHasNoMaidens (S16b), Jahrod (S16b), kirbey (S16b), KOKeowner (S16b), Kubaslov (S16b), MarcC5M (S16b), Micale (S16b), Pehnk (S16b), ShootingGoats (S16b), SpaceFenix (S16b), starlxghtmoon (S16b), wibbol (S16b), automavic (S17)
+**1 Season (39):** Chapter_III (S1), GlowingNeon (S1), Maddognils (S1), Tomathius (S1), WintherMaw (S1), Gillieeeee (S2), slowpr0 (S2), xenon__54 (S2), scotteh (S3), Venusial (S3), Guep (S4), Topspinpiggles (S5), floobel (S6), SummerBqsh (S9), NajaOxiana (S12), ElGavinoSupremo (S15), jvevo (S16a), Zevulpes (S16a), Bobbytheturtle (S16b), Brodator (S16b), buttergolem1 (S16b), DancersTalon (S16b), Exee (S16b), firefoxvulpix (S16b), fruitlogic (S16b), Greeples (S16b), JaeHasNoMaidens (S16b), Jahrod (S16b), kirbey (S16b), KOKeowner (S16b), MarcC5M (S16b), Micale (S16b), Nikikula (S16b), Pehnk (S16b), ShootingGoats (S16b), SpaceFenix (S16b), starlxghtmoon (S16b), wibbol (S16b), automavic (S17)
 
 ---
 ### Debutants
@@ -594,7 +594,7 @@
 
 **S16a (2):** jvevo, Zevulpes
 
-**S16b (21):** Bobbytheturtle, Brodator, buttergolem1, ChainingVermin2, DancersTalon, Exee, firefoxvulpix, fruitlogic, Greeples, JaeHasNoMaidens, Jahrod, kirbey, KOKeowner, Kubaslov, MarcC5M, Micale, Pehnk, ShootingGoats, SpaceFenix, starlxghtmoon, wibbol
+**S16b (21):** Bobbytheturtle, Brodator, buttergolem1, ChainingVermin2, DancersTalon, Exee, firefoxvulpix, fruitlogic, Greeples, JaeHasNoMaidens, Jahrod, kirbey, KOKeowner, MarcC5M, Micale, Nikikula, Pehnk, ShootingGoats, SpaceFenix, starlxghtmoon, wibbol
 
 **S17 (1):** automavic
 

@@ -163,7 +163,7 @@
 
 **11th - Bluests (4):** DrJamezz (S3), SoulRawr (S4), _mrcool (S4), Jayzize (S5)
 
-**11th - FrostBros (4):** LqndSlide (S1), ChainingVermin2 (S1), CountryCutie (S1), EyeHasNoIdea (S7)
+**11th - FrostBros (4):** lqndslide (S1), ChainingVermin2 (S1), CountryCutie (S1), EyeHasNoIdea (S7)
 
 **11th - Phoraxe (4):** CountryCutie (S5), Arich (S6), CountryCutie (S6), chloesad (S7)
 
@@ -203,7 +203,7 @@
 
 **26th - Kaismartypants (1):** Phoraxe (S7)
 
-**26th - LqndSlide (1):** patriotsfan75 (S1)
+**26th - lqndslide (1):** patriotsfan75 (S1)
 
 **26th - Lucityy (1):** swishduck (S7)
 
@@ -249,12 +249,12 @@
 
 **2 Seasons (13):** IceshardEleven (S1-S2), Zachf01 (S1,S3), MercuryParadox (S2-S3), Chipzzy (S3-S4), Jrose (S3-S4), NajaOxiana (S3-S4), SoulRawr (S3-S4), 319phoenix (S4-S5), Keelando (S4,S7), Lucityy (S4,S7), PenguinBagels (S5-S6), MajorWoof (S6-S7), YellowVitt (S6-S7)
 
-**1 Season (20):** ChainingVermin2 (S1), IzunaLoli (S1), LqndSlide (S1), patriotsfan75 (S1), 016Nojr (S2), andrewbaseball99 (S2), Canman (S2), crazy_monkey7531 (S2), GoldenNs (S2), oDogLFC (S2), Wilsonkong (S2), _itslennard14 (S3), TommySuX (S3), C_money (S4), Wolfaye (S6), Bacan (S7), EyeHasNoIdea (S7), swishduck (S7), thebbers (S7), vynil (S7)
+**1 Season (20):** ChainingVermin2 (S1), IzunaLoli (S1), lqndslide (S1), patriotsfan75 (S1), 016Nojr (S2), andrewbaseball99 (S2), Canman (S2), crazy_monkey7531 (S2), GoldenNs (S2), oDogLFC (S2), Wilsonkong (S2), _itslennard14 (S3), TommySuX (S3), C_money (S4), Wolfaye (S6), Bacan (S7), EyeHasNoIdea (S7), swishduck (S7), thebbers (S7), vynil (S7)
 
 ---
 ### Debutants
 
-**S1 (16):** Austronomical, automavic, ChainingVermin2, cherryblawsom, CountryCutie, Dj8ninja, FrostBros, IceshardEleven, IzunaLoli, Kaismartypants, LqndSlide, patriotsfan75, PauloSSB, Ryfri, TalonBX, Zachf01
+**S1 (16):** Austronomical, automavic, ChainingVermin2, cherryblawsom, CountryCutie, Dj8ninja, FrostBros, IceshardEleven, IzunaLoli, Kaismartypants, lqndslide, patriotsfan75, PauloSSB, Ryfri, TalonBX, Zachf01
 
 **S2 (16):** 016Nojr, andrewbaseball99, Arich, Beastaxel, Bluests, Canman, chloesad, crazy_monkey7531, DrJamezz, GoldenNs, Jayzize, MercuryParadox, oDogLFC, PLENT, Spongey, Wilsonkong
 

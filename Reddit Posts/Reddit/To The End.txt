@@ -53,7 +53,7 @@
 
 **S25: lottebunny (2), Rohcket (0), tagggz (1)**, *jamertxn (2)*
 
-**S26: bjr201111 (4)**, *Kubaslov (5), TorinFBF (0)*
+**S26: bjr201111 (4)**, *Nikikula (5), TorinFBF (0)*
 
 ---
 ### Runner Ups
@@ -106,7 +106,7 @@
 
 **S24:** Randehh (1), wibbol (2)
 
-**S25:** 5kylord (0), Chasmic (0), ColdBac (2), Emylyl (1), GetNicked (0), Greeples (0), Havenhand (0), Hecticity (0), Incipiens (0), IsaacMT (0), Kubaslov (0), LimitDTW (0), ScottPirie (0), TorinFBF (0), VeniiiD (0), WackoFlipper (0)
+**S25:** 5kylord (0), Chasmic (0), ColdBac (2), Emylyl (1), GetNicked (0), Greeples (0), Havenhand (0), Hecticity (0), Incipiens (0), IsaacMT (0), LimitDTW (0), Nikikula (0), ScottPirie (0), TorinFBF (0), VeniiiD (0), WackoFlipper (0)
 
 **S26:** ColdBac (1), Hecticity (3), VeniiiD (0)
 
@@ -163,7 +163,7 @@
 
 **S25:** ColdBac, jamertxn, lottebunny (2)
 
-**S26:** Kubaslov (5)
+**S26:** Nikikula (5)
 
 ---
 ### Most Kills (Team)
@@ -218,7 +218,7 @@
 
 **S25:** jamertxn (2), lottebunny (2), Rohcket (0), tagggz (1)
 
-**S26:** bjr201111 (4), Kubaslov (5), TorinFBF (0)
+**S26:** bjr201111 (4), Nikikula (5), TorinFBF (0)
 
 ---
 ### First Damage
@@ -479,7 +479,7 @@
 
 **17th - ColdBac (8):** Frostbreath (S17), Chasmic (S18), wibbol (S19), TommySuX (S19), jamertxn (S24), jamertxn (S25), lexicuhl (S25), TheSonicJoey (S26)
 
-**17th - Hecticity (8):** bjr201111 (S17), LongaVita (S17), tagggz (S21), LongaVita (S21), lottebunny (S21), tagggz (S26), DancersTalon (S26), Kubaslov (S26)
+**17th - Hecticity (8):** bjr201111 (S17), LongaVita (S17), tagggz (S21), LongaVita (S21), lottebunny (S21), tagggz (S26), DancersTalon (S26), Nikikula (S26)
 
 **17th - Incipiens (8):** Timonscholte (S5), Lilla98 (S5), PythonRrR (S5), Hollymatman (S7), NiFear (S8), hammer_fan (S8), Chasmic (S16), chloesad (S20)
 
@@ -515,7 +515,7 @@
 
 **34th - jamietheelite (5):** LeonTG (S13), CedGhoss (S14), TommySuX (S14), Chasmic (S15), _Frankie (S20)
 
-**34th - Kubaslov (5):** Goldcap (S26), Emylyl (S26), Emerric (S26), chloesad (S26), VeniiiD (S26)
+**34th - Nikikula (5):** Goldcap (S26), Emylyl (S26), Emerric (S26), chloesad (S26), VeniiiD (S26)
 
 **34th - TommySuX (5):** discoczibi (S11), TheSonicJoey (S11), hammer_fan (S11), VeryNice (S15), lottebunny (S16)
 
@@ -671,7 +671,7 @@
 
 **3 Seasons (4):** Neoscys (S3,S5-S6), CarlyRaeJepsen (S19-S20,S23), lexicuhl (S24-S26), Randehh (S24-S26)
 
-**2 Seasons (10):** suma2 (S1,S3), XFROSTXFIREX (S5,S10), Kakintse (S7-S8), BurningT (S9-S10), dnnyys (S13,S17), SpikeWinn (S20-S21), 5kylord (S22,S25), IsaacMT (S25-S26), Kubaslov (S25-S26), TorinFBF (S25-S26)
+**2 Seasons (10):** suma2 (S1,S3), XFROSTXFIREX (S5,S10), Kakintse (S7-S8), BurningT (S9-S10), dnnyys (S13,S17), SpikeWinn (S20-S21), 5kylord (S22,S25), IsaacMT (S25-S26), Nikikula (S25-S26), TorinFBF (S25-S26)
 
 **1 Season (19):** tweetabix (S1), ScottishNutcase (S5), SolarLiner (S5), bytexal (S7), Evilmonkie (S9), Kelt78 (S12), Shadowlego (S13), Kieranborn (S16), MooM_ (S20), dans1988 (S21), Krenzinator (S22), typhlo0o (S22), CallumPace (S23), Ratchet6859 (S24), Zevulpes (S24), GetNicked (S25), LimitDTW (S25), DancersTalon (S26), Klickacat (S26)
 
@@ -726,7 +726,7 @@
 
 **S24 (4):** lexicuhl, Randehh, Ratchet6859, Zevulpes
 
-**S25 (5):** GetNicked, IsaacMT, Kubaslov, LimitDTW, TorinFBF
+**S25 (5):** GetNicked, IsaacMT, LimitDTW, Nikikula, TorinFBF
 
 **S26 (2):** DancersTalon, Klickacat
 

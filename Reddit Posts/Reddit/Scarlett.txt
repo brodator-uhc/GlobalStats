@@ -5,14 +5,14 @@
 
 **S1: DCGUnKnown (2)**, *DJblak (0)*
 
-**S2: Austronomical (3), LqndSlide (6)**, *ConBeanJones (1)*
+**S2: Austronomical (3), lqndslide (6)**, *ConBeanJones (1)*
 
 **S3: DCGUnKnown (0), Eternql (2), lolitsbrian (0), MrLazeo101 (1)**, *Conorz (0)*
 
 ---
 ### Runner Ups
 
-**S1:** LqndSlide (3), Stormy_A (1)
+**S1:** lqndslide (3), Stormy_A (1)
 
 **S2:** ItsColinn (0), MinecrafNinja (0), SammyZBoy (0)
 
@@ -21,18 +21,18 @@
 ---
 ### Most Kills
 
-**S1:** LqndSlide (3)
+**S1:** lqndslide (3)
 
-**S2:** LqndSlide (6)
+**S2:** lqndslide (6)
 
 **S3:** Ryfri (4)
 
 ---
 ### Most Kills (Team)
 
-**S1:** LqndSlide (3), Stormy_A (1)
+**S1:** lqndslide (3), Stormy_A (1)
 
-**S2:** Austronomical (3), ConBeanJones (1), LqndSlide (6)
+**S2:** Austronomical (3), ConBeanJones (1), lqndslide (6)
 
 **S3:** Austronomical (2), MinecrafNinja (1), Ryfri (4), SammyZBoy (0), Zahkari (1)
 
@@ -75,7 +75,7 @@
 ---
 ### Kills
 
-**1st - LqndSlide (9):** Conorz (S1), wizarde (S1), Tripps702 (S1), Eternql (S2), Topspinpiggles (S2), YABOYPJ (S2), cherryblawsom (S2), ItsColinn (S2), MinecrafNinja (S2)
+**1st - lqndslide (9):** Conorz (S1), wizarde (S1), Tripps702 (S1), Eternql (S2), Topspinpiggles (S2), YABOYPJ (S2), cherryblawsom (S2), ItsColinn (S2), MinecrafNinja (S2)
 
 **2nd - Austronomical (5):** wizarde (S2), MrLazeo101 (S2), IceshardEleven (S2), Archybooty (S3), IceshardEleven (S3)
 
@@ -83,7 +83,7 @@
 
 **4th - Aaron_Playz (2):** ItsColinn (S1), MinecrafNinja (S1)
 
-**4th - DCGUnKnown (2):** LqndSlide (S1), Stormy_A (S1)
+**4th - DCGUnKnown (2):** lqndslide (S1), Stormy_A (S1)
 
 **4th - Eternql (2):** Ryfri (S3), SiahStone (S3)
 
@@ -129,14 +129,14 @@
 
 **3 Seasons (7):** DCGUnKnown (S1-S3), DJblak (S1-S3), IceshardEleven (S1-S3), lolitsbrian (S1-S3), MinecrafNinja (S1-S3), SammyZBoy (S1-S3), wizarde (S1-S3)
 
-**2 Seasons (7):** Conorz (S1,S3), ItsColinn (S1-S2), LqndSlide (S1-S2), Austronomical (S2-S3), cherryblawsom (S2-S3), Eternql (S2-S3), MrLazeo101 (S2-S3)
+**2 Seasons (7):** Conorz (S1,S3), ItsColinn (S1-S2), lqndslide (S1-S2), Austronomical (S2-S3), cherryblawsom (S2-S3), Eternql (S2-S3), MrLazeo101 (S2-S3)
 
 **1 Season (17):** Aaron_Playz (S1), Centrios (S1), Stormy_A (S1), Tripps702 (S1), BlackGarrett (S2), ConBeanJones (S2), Reconnnnn (S2), Topspinpiggles (S2), YABOYPJ (S2), Archybooty (S3), ChainingVermin2 (S3), IzunaLoli (S3), MCmattFTW (S3), MercuryParadox (S3), Ryfri (S3), SiahStone (S3), Zahkari (S3)
 
 ---
 ### Debutants
 
-**S1 (14):** Aaron_Playz, Centrios, Conorz, DCGUnKnown, DJblak, IceshardEleven, ItsColinn, lolitsbrian, LqndSlide, MinecrafNinja, SammyZBoy, Stormy_A, Tripps702, wizarde
+**S1 (14):** Aaron_Playz, Centrios, Conorz, DCGUnKnown, DJblak, IceshardEleven, ItsColinn, lolitsbrian, lqndslide, MinecrafNinja, SammyZBoy, Stormy_A, Tripps702, wizarde
 
 **S2 (9):** Austronomical, BlackGarrett, cherryblawsom, ConBeanJones, Eternql, MrLazeo101, Reconnnnn, Topspinpiggles, YABOYPJ
 
