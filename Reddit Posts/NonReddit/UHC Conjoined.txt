@@ -59,7 +59,7 @@
 ---
 ### Kills
 
-**1st - onstep (9):** ItsJustPanda (S1), GamingStarr (S1), CloseIT (S1), itzcandyplays (S1), Astryll (S1), xPandaaz (S1), Klanke (S1), Natasha_White23 (S1), UwU_AlphaWolf (S1)
+**1st - onstep (9):** ItsJustPanda (S1), GamingStarr (S1), ClosedIT (S1), itzcandyplays (S1), Astryll (S1), xPandaaz (S1), Klanke (S1), Natasha_White23 (S1), UwU_AlphaWolf (S1)
 
 **2nd - MrSurvivalist (5):** Bofishkix (S3), gcbbyy (S3), kayplayz (S3), Pelycosaur (S3), Hendysaurus (S3)
 
@@ -67,7 +67,7 @@
 
 **4th - _Fost_ (4):** HappierUpHere (S1), CDMAGS (S1), LegendaryCossack (S1), SlicedOranges (S1)
 
-**4th - Pelycosaur (4):** Ca_leb (S3), MrEzzo (S3), CloseIT (S3), CDMAGS (S3)
+**4th - Pelycosaur (4):** Ca_leb (S3), MrEzzo (S3), ClosedIT (S3), CDMAGS (S3)
 
 **6th - Astryll (3):** NotChewi (S1), lizziekraft (S1), Erdql (S1)
 
@@ -75,7 +75,7 @@
 
 **6th - OddishThoughts (3):** HeroGolem5 (S3), Blugy (S3), PwincessVanessa (S3)
 
-**9th - CloseIT (2):** NoTeaming (S1), ArcticSeagull (S3)
+**9th - ClosedIT (2):** NoTeaming (S1), ArcticSeagull (S3)
 
 **9th - kayplayz (2):** jigsaws (S3), love_gem4164 (S3)
 
@@ -117,14 +117,14 @@
 ---
 ### Participation
 
-**2 Seasons (6):** CDMAGS (S1-S3), CloseIT (S1-S3), Evxn101 (S1-S3), love_gem4164 (S1-S3), MrEzzo (S1-S3), Natasha_White23 (S1-S3)
+**2 Seasons (6):** CDMAGS (S1-S3), ClosedIT (S1-S3), Evxn101 (S1-S3), love_gem4164 (S1-S3), MrEzzo (S1-S3), Natasha_White23 (S1-S3)
 
 **1 Season (51):** _Fost_ (S1), _Txchno_ (S1), AmarisCCrap (S1), Astryll (S1), CaptainRichy (S1), CeldThree (S1), Dubs101 (S1), Erdql (S1), fatalizedfury (S1), FunSquidTAG (S1), GamingStarr (S1), GARTYY (S1), Geroot (S1), HappierUpHere (S1), HUQTER (S1), ItsJustPanda (S1), ItsShqky (S1), itzcandyplays (S1), KiwiQG (S1), Klanke (S1), LegendaryCossack (S1), lizziekraft (S1), NemeTheMeme (S1), NotChewi (S1), NoTeaming (S1), onstep (S1), RohanSmashBro (S1), SlicedOranges (S1), UwU_AlphaWolf (S1), xPandaaz (S1), ArcticSeagull (S3), be_yonce (S3), Bella878 (S3), Blugy (S3), Bofishkix (S3), Ca_leb (S3), Chhildish (S3), gcbbyy (S3), Hendysaurus (S3), HeroGolem5 (S3), HeyItsJBug (S3), Infinitty (S3), jigsaws (S3), Jqmalll (S3), kayplayz (S3), MrSurvivalist (S3), OddishThoughts (S3), Pelycosaur (S3), PwincessVanessa (S3), QueenxPetty (S3), softpinks (S3)
 
 ---
 ### Debutants
 
-**S1 (36):** _Fost_, _Txchno_, AmarisCCrap, Astryll, CaptainRichy, CDMAGS, CeldThree, CloseIT, Dubs101, Erdql, Evxn101, fatalizedfury, FunSquidTAG, GamingStarr, GARTYY, Geroot, HappierUpHere, HUQTER, ItsJustPanda, ItsShqky, itzcandyplays, KiwiQG, Klanke, LegendaryCossack, lizziekraft, love_gem4164, MrEzzo, Natasha_White23, NemeTheMeme, NotChewi, NoTeaming, onstep, RohanSmashBro, SlicedOranges, UwU_AlphaWolf, xPandaaz
+**S1 (36):** _Fost_, _Txchno_, AmarisCCrap, Astryll, CaptainRichy, CDMAGS, CeldThree, ClosedIT, Dubs101, Erdql, Evxn101, fatalizedfury, FunSquidTAG, GamingStarr, GARTYY, Geroot, HappierUpHere, HUQTER, ItsJustPanda, ItsShqky, itzcandyplays, KiwiQG, Klanke, LegendaryCossack, lizziekraft, love_gem4164, MrEzzo, Natasha_White23, NemeTheMeme, NotChewi, NoTeaming, onstep, RohanSmashBro, SlicedOranges, UwU_AlphaWolf, xPandaaz
 
 **S3 (21):** ArcticSeagull, be_yonce, Bella878, Blugy, Bofishkix, Ca_leb, Chhildish, gcbbyy, Hendysaurus, HeroGolem5, HeyItsJBug, Infinitty, jigsaws, Jqmalll, kayplayz, MrSurvivalist, OddishThoughts, Pelycosaur, PwincessVanessa, QueenxPetty, softpinks
 

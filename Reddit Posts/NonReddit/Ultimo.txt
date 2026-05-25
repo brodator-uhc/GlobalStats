@@ -247,7 +247,7 @@
 
 **11th - ItsShqky (6):** SlicedOranges (S2), Senkhi (S2), TheLuckyAsian (S2), egl_ (S7), brinniex (S11), TehBaconBrawlerZ (S11)
 
-**11th - Mohala (6):** ItsShqky (S5), Stravilight (S5), AlkuranZak (S5), Yist (S5), KineticYT (S5), jemjosh (S5)
+**11th - Mohala (6):** ItsShqky (S5), Stravilight (S5), AlkuranZak (S5), yistv2 (S5), KineticYT (S5), jemjosh (S5)
 
 **11th - poWpaH (6):** ImChile (S10), brinkwhy (S10), Plushy33 (S11), Lsnce (S12), downkey (S12), ADinoPlayingMC (S12)
 
@@ -393,7 +393,7 @@
 
 **2 Seasons (28):** TheFabio178 (S1-S2), LATlA (S2,S4), MichaelPlayMC (S3-S4), PotteryTNT (S3,S5), Trenzey (S4-S5), CodeJoshua (S5,S11), CipherKai (S6,S12), Aybel (S7,S10), Glarza (S7-S8), ItsJustPanda (S7,S9), MrEzzo (S7,S9), _shi (S8-S9), AshleyMashley (S8,S12), DakotaB15 (S8-S9), MatthewDiamandis (S8-S9), BigJedo (S9-S10), GeniRCT (S9-S10), kirbey (S9,S12), brinkwhy (S10,S12), ImChile (S10,S12), brinniex (S11-S12), Bulbexe (S11-S12), Charlottie (S11-S12), coldified (S11-S12), Flcnt (S11-S12), kawaiibunri (S11-S12), MangoPlayz (S11-S12), TehBaconBrawlerZ (S11-S12)
 
-**1 Season (44):** Araise (S1), OrangeDZN (S1), karrla (S2), lezy (S2), cocoflourish (S3), hotsauce2000 (S3), Evxn101 (S4), onstep (S4), whalelike (S4), AlkuranZak (S5), Derpay (S5), Dizzayy (S5), Haydcn (S5), KineticYT (S5), Markedbooboy (S5), Mohala (S5), Yist (S5), _british (S6), Flowtives (S6), Hqlfs (S6), Karliffu (S6), PresidentFleb (S6), SuperJockey (S6), Laqqy (S7), Caydone (S8), CHAINGE (S8), Dcrpy (S8), DragonGlory (S8), Klanke (S8), DeadlyFoxx (S9), xLulu_24 (S9), _Dieter (S10), Erdql (S10), Moonlitess (S10), SiahStone (S10), Codwhy (S11), Plushy33 (S11), ADinoPlayingMC (S12), AvyleZ (S12), BreakfastBacon (S12), Cqson (S12), Kaddyn (S12), Lsnce (S12), StoneZey (S12)
+**1 Season (44):** Araise (S1), OrangeDZN (S1), karrla (S2), lezy (S2), cocoflourish (S3), hotsauce2000 (S3), Evxn101 (S4), onstep (S4), whalelike (S4), AlkuranZak (S5), Derpay (S5), Dizzayy (S5), Haydcn (S5), KineticYT (S5), Markedbooboy (S5), Mohala (S5), yistv2 (S5), _british (S6), Flowtives (S6), Hqlfs (S6), Karliffu (S6), PresidentFleb (S6), SuperJockey (S6), Laqqy (S7), Caydone (S8), CHAINGE (S8), Dcrpy (S8), DragonGlory (S8), Klanke (S8), DeadlyFoxx (S9), xLulu_24 (S9), _Dieter (S10), Erdql (S10), Moonlitess (S10), SiahStone (S10), Codwhy (S11), Plushy33 (S11), ADinoPlayingMC (S12), AvyleZ (S12), BreakfastBacon (S12), Cqson (S12), Kaddyn (S12), Lsnce (S12), StoneZey (S12)
 
 ---
 ### Debutants
@@ -406,7 +406,7 @@
 
 **S4 (7):** DevoyTTV, Evxn101, MineKG, MrSurvivalist, onstep, Trenzey, whalelike
 
-**S5 (12):** AlkuranZak, Blind4ndD34f, CodeJoshua, Derpay, Dizzayy, Dredex, Haydcn, KineticYT, loyaltea, Markedbooboy, Mohala, Yist
+**S5 (12):** AlkuranZak, Blind4ndD34f, CodeJoshua, Derpay, Dizzayy, Dredex, Haydcn, KineticYT, loyaltea, Markedbooboy, Mohala, yistv2
 
 **S6 (11):** _british, Bofishkix, CipherKai, Dargxn, Evzenitable, Flowtives, Hqlfs, Karliffu, PresidentFleb, SuperJockey, violetwoah
 

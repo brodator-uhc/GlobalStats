@@ -145,7 +145,7 @@
 
 **2nd - Hendysaurus (4):** egl_ (S6), ConBeanJones (S6), PwincessVanessa (S6), MatthewDiamandis (S6)
 
-**2nd - ItsShqky (4):** CloseIT (S4), sr8611 (S7), Kaismartypants (S7), CHAINGE (S7)
+**2nd - ItsShqky (4):** ClosedIT (S4), sr8611 (S7), Kaismartypants (S7), CHAINGE (S7)
 
 **2nd - PwincessVanessa (4):** Truzoi (S4), Cristehn (S4), emi1iano (S6), Sivocho (S7)
 
@@ -157,7 +157,7 @@
 
 **7th - GeniRCT (3):** Evxn101 (S4), Kaismartypants (S4), JamesRamune (S4)
 
-**7th - Kaismartypants (3):** gsjan (S4), ItsShqky (S4), OddishThoughts (S4)
+**7th - Kaismartypants (3):** horayah (S4), ItsShqky (S4), OddishThoughts (S4)
 
 **7th - OddishThoughts (3):** Vulfoliac (S2), TDS_Nerd (S2), Ghosteyy (S2)
 
@@ -229,7 +229,7 @@
 
 **2 Seasons (11):** Rudyjo (S1,S7), peacfulcuma (S2,S4), Bofishkix (S3,S7), GeniRCT (S4-S5), ItsShqky (S4,S7), Kaismartypants (S4,S7), broccoliar (S5,S7), Hendysaurus (S5-S6), Retrofied (S5,S7), emi1iano (S6-S7), TehBaconBrawlerZ (S6-S7)
 
-**1 Season (38):** Fishant (S1), iwillbeaturbutt (S1), Mircro (S1), Ghosteyy (S2), TDS_Nerd (S2), Vulfoliac (S2), __Drew (S3), Kolportiroas (S3), CloseIT (S4), Evxn101 (S4), Greater_Soul (S4), gsjan (S4), BigJedo (S5), Captinn (S5), contraabass (S5), Yeatzy (S5), Zcin (S5), BreakfastBacon (S6), Caffeinediazpine (S6), ConBeanJones (S6), dino50 (S6), egl_ (S6), MatthewDiamandis (S6), ArcticSeagull (S7), Blarkslol (S7), brinkwhy (S7), brinniex (S7), Bulbexe (S7), CHAINGE (S7), Evzenitable (S7), Flcnt (S7), hashtagmat (S7), kirbey (S7), MangoPlayz (S7), PitSolitayrh (S7), Sivocho (S7), sr8611 (S7), Stravilight (S7)
+**1 Season (38):** Fishant (S1), iwillbeaturbutt (S1), Mircro (S1), Ghosteyy (S2), TDS_Nerd (S2), Vulfoliac (S2), __Drew (S3), Kolportiroas (S3), ClosedIT (S4), Evxn101 (S4), Greater_Soul (S4), horayah (S4), BigJedo (S5), Captinn (S5), contraabass (S5), Yeatzy (S5), Zcin (S5), BreakfastBacon (S6), Caffeinediazpine (S6), ConBeanJones (S6), dino50 (S6), egl_ (S6), MatthewDiamandis (S6), ArcticSeagull (S7), Blarkslol (S7), brinkwhy (S7), brinniex (S7), Bulbexe (S7), CHAINGE (S7), Evzenitable (S7), Flcnt (S7), hashtagmat (S7), kirbey (S7), MangoPlayz (S7), PitSolitayrh (S7), Sivocho (S7), sr8611 (S7), Stravilight (S7)
 
 ---
 ### Debutants
@@ -240,7 +240,7 @@
 
 **S3 (6):** __Drew, Bofishkix, Cristehn, JamesRamune, Kolportiroas, Truzoi
 
-**S4 (9):** AvyleZ, CloseIT, Evxn101, GeniRCT, Greater_Soul, gsjan, ItsShqky, Kaismartypants, PwincessVanessa
+**S4 (9):** AvyleZ, ClosedIT, Evxn101, GeniRCT, Greater_Soul, horayah, ItsShqky, Kaismartypants, PwincessVanessa
 
 **S5 (8):** BigJedo, broccoliar, Captinn, contraabass, Hendysaurus, Retrofied, Yeatzy, Zcin
 

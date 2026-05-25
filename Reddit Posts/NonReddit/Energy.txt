@@ -47,7 +47,7 @@
 ---
 ### First Damage
 
-**S1:** CheeseJamez (0:10:46)
+**S1:** CheeseJay (0:10:46)
 
 **S2:** collowollo, ToggleXD (0:1:36)
 
@@ -58,7 +58,7 @@
 ---
 ### Ironman
 
-**S1:** TastyMilk
+**S1:** PrattBN
 
 **S2:** HeyImAqua (1:1:14)
 
@@ -73,33 +73,33 @@
 
 **S2:** DukieJr (JamestheDouglas)
 
-**S3:** TastyMilk (JoshC2)
+**S3:** PrattBN (JoshC2)
 
 **S4:** yuhFazz (JohnzRIP)
 
 ---
 ### First Death
 
-**S1:** CheeseJamez (Burning)
+**S1:** CheeseJay (Burning)
 
 **S2:** Qrhan (Witch)
 
-**S3:** JoshC2 (TastyMilk)
+**S3:** JoshC2 (PrattBN)
 
 **S4:** JohnzRIP (yuhFazz)
 
 ---
 ### Kills
 
-**1st - xSemiCollin (8):** TastyMilk (S1), DarkType (S1), Green_WolfMC (S1), TwistedGoose (S2), Blazar (S2), OddishThoughts (S3), yuhFazz (S4), Ferialan (S4)
+**1st - xSemiCollin (8):** PrattBN (S1), DarkType (S1), Green_WolfMC (S1), TwistedGoose (S2), Blazar (S2), OddishThoughts (S3), yuhFazz (S4), Ferialan (S4)
 
 **2nd - JohnzRIP (5):** HeyImAqua (S1), OddishThoughts (S1), ADinoPlayingMC (S3), Sneaky26 (S3), DukieJr (S3)
 
 **3rd - ToggleXD (4):** iRainBear (S2), xNKS (S2), JoshC2 (S2), BlackPants (S2)
 
-**4th - ADinoPlayingMC (3):** CheeseJamez (S4), xSemiCollin (S4), Moonlitess (S4)
+**4th - ADinoPlayingMC (3):** CheeseJay (S4), xSemiCollin (S4), Moonlitess (S4)
 
-**4th - TwistedGoose (3):** JohnzRIP (S2), TastyMilk (S3), BigJedo (S3)
+**4th - TwistedGoose (3):** JohnzRIP (S2), PrattBN (S3), BigJedo (S3)
 
 **6th - Blazar (2):** Kqvn (S1), JoshC2 (S1)
 
@@ -113,11 +113,11 @@
 
 **6th - Kqvn (2):** ItsStrqfe (S1), DukieJr (S2)
 
-**6th - Moonlitess (2):** Brocko (S4), TastyMilk (S4)
+**6th - Moonlitess (2):** Brocko (S4), PrattBN (S4)
+
+**6th - PrattBN (2):** Zqccy (S2), JoshC2 (S3)
 
 **6th - Sneaky26 (2):** ImChile (S3), BlackPants (S3)
-
-**6th - TastyMilk (2):** Zqccy (S2), JoshC2 (S3)
 
 **6th - yuhFazz (2):** JohnzRIP (S4), BlackPants (S4)
 
@@ -128,7 +128,7 @@
 ---
 ### PvE Deaths
 
-**Burning (4):** CheeseJamez (S1), Pudding_Man999 (S1), Blazar (S1), TastyMilk (S2)
+**Burning (4):** CheeseJay (S1), Pudding_Man999 (S1), Blazar (S1), PrattBN (S2)
 
 **Arrow (1):** Blazar (S3)
 
@@ -139,18 +139,18 @@
 ---
 ### Participation
 
-**4 Seasons (3):** JohnzRIP (S1-S4), TastyMilk (S1-S4), xSemiCollin (S1-S4)
+**4 Seasons (3):** JohnzRIP (S1-S4), PrattBN (S1-S4), xSemiCollin (S1-S4)
 
 **3 Seasons (5):** Blazar (S1-S3), JoshC2 (S1-S3), OddishThoughts (S1,S3-S4), TwistedGoose (S1-S3), BlackPants (S2-S4)
 
-**2 Seasons (7):** CheeseJamez (S1,S4), HeyImAqua (S1-S2), Kqvn (S1-S2), Mattzia (S1-S2), Qrhan (S1-S2), DukieJr (S2-S3), ADinoPlayingMC (S3-S4)
+**2 Seasons (7):** CheeseJay (S1,S4), HeyImAqua (S1-S2), Kqvn (S1-S2), Mattzia (S1-S2), Qrhan (S1-S2), DukieJr (S2-S3), ADinoPlayingMC (S3-S4)
 
 **1 Season (17):** DarkType (S1), Green_WolfMC (S1), ItsStrqfe (S1), Pudding_Man999 (S1), collowollo (S2), iRainBear (S2), JamestheDouglas (S2), ToggleXD (S2), xNKS (S2), Zqccy (S2), BigJedo (S3), ImChile (S3), Sneaky26 (S3), Brocko (S4), Ferialan (S4), Moonlitess (S4), yuhFazz (S4)
 
 ---
 ### Debutants
 
-**S1 (16):** Blazar, CheeseJamez, DarkType, Green_WolfMC, HeyImAqua, ItsStrqfe, JohnzRIP, JoshC2, Kqvn, Mattzia, OddishThoughts, Pudding_Man999, Qrhan, TastyMilk, TwistedGoose, xSemiCollin
+**S1 (16):** Blazar, CheeseJay, DarkType, Green_WolfMC, HeyImAqua, ItsStrqfe, JohnzRIP, JoshC2, Kqvn, Mattzia, OddishThoughts, PrattBN, Pudding_Man999, Qrhan, TwistedGoose, xSemiCollin
 
 **S2 (8):** BlackPants, collowollo, DukieJr, iRainBear, JamestheDouglas, ToggleXD, xNKS, Zqccy
 

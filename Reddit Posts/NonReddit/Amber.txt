@@ -80,7 +80,7 @@
 
 **S17:** DavidAdams (0), Woobis (1)
 
-**S18:** MichaelPlayMC (1), Pelycosaur (2)
+**S18:** MichaelPlayMC (1) & Pelycosaur (2)
 
 **S19:** MichaelPlayMC (0), St0rmplayz (2)
 
@@ -349,7 +349,7 @@
 
 **1st - brinkwhy (29):** HeyImHungry (S1), TurboNinja03 (S3), Sassybunion (S3), SergeantM (S5), GeckoG33k (S5), SimplyGlaceon (S5), Icecreeper30 (S5), DatGuyAdam (S5), Dragon_Vapes (S6), Drkrai (S7), orangeman2000 (S7), mhuggins5 (S7), Woobis (S7), PleaseTry (S7), Dragon_Vapes (S7), Fancyyy (S8), Slooshyy (S8), Jorgeeay (S8), DatGuyAdam (S8), Jorgeeay (S9), Plushy33 (S14), ItsShqky (S14), Woobis (S14), AdonisGaming (S14), braidenOW (S14), PotteryTNT (S14), Yesnobody (S17), _1mmortal_ (S17), Woobis (S17)
 
-**2nd - AHSOKATANOSTAN (15):** Jixposa (S3), SergeantM (S3), mhuggins5 (S3), St0rmplayz (S3), Yist (S4), brinkwhy (S4), braidenOW (S4), SuchAqua (S4), St0rmplayz (S4), GodlyGoomys (S4), TurboNinja03 (S4), yungAMW (S7), SergeantM (S7), Fancyyy (S7), ItsShqky (S7)
+**2nd - AHSOKATANOSTAN (15):** Jixposa (S3), SergeantM (S3), mhuggins5 (S3), St0rmplayz (S3), yistv2 (S4), brinkwhy (S4), braidenOW (S4), SuchAqua (S4), St0rmplayz (S4), GodlyGoomys (S4), TurboNinja03 (S4), yungAMW (S7), SergeantM (S7), Fancyyy (S7), ItsShqky (S7)
 
 **3rd - St0rmplayz (12):** AHSOKATANOSTAN (S1), SergeantM (S1), SergeantM (S9), nsket (S9), strategy (S9), Flcnt (S19), Shinrai_ (S19), mhuggins5 (S20), MichaelPlayMC (S20), _1mmortal_ (S20), Woobis (S20), BloodBlack (S20)
 
@@ -539,7 +539,7 @@
 
 **2 Seasons (22):** chrisgames2k (S1,S6), HeyImHungry (S1,S7), GodlyGoomys (S2,S4), Slaybate (S4-S5), Drkrai (S6-S7), Fancyyy (S7-S8), PleaseTry (S7-S8), BoltsInCharge (S10-S11), CharizOVO (S10-S11), DevoyTTV (S10-S11), natsuvi (S10-S11), PotteryTNT (S10,S14), Frisky_Savage (S11-S12), SandyyChan (S11-S12), Karliffu (S12-S13), Rebelghost (S13,S16), Mastercrossbow (S15-S16), DavidAdams (S16-S17), Vetmire (S16,S18), Captinn (S18-S19), Julse (S18-S19), Kaddyn (S19-S20)
 
-**1 Season (47):** NinjaBatHat (S1), DatBoiMudkip (S2), Sneaky26 (S2), Erikku_Blade (S3), IyaIsMad (S4), Jaxx (S4), LilycoveCity (S4), Sharkzol (S4), SuchAqua (S4), Yist (S4), Brocko (S5), Crafters (S5), GeckoG33k (S5), Icecreeper30 (S5), orangeman2000 (S7), _ChaosKaz_ (S8), acadiangel (S9), nsket (S9), strategy (S9), 123SteveBob (S10), Envified_ (S10), ItsColinn (S10), ZebraPantz (S10), Caydone (S12), ghostblurr (S12), CipherKai (S13), Dargxn (S13), MineKG (S13), egl_ (S14), Blarkslol (S15), Evzenitable (S15), iiLynnell (S16), Krbreb (S16), Charrlottie (S17), HeyItsJBug (S17), _shi (S18), TayUHC (S18), Cinnamiinii (S19), Flcnt (S19), kawaiibunri (S19), MangoPlayz (S19), RuneTactics (S19), Stravilight (S19), ToeKun (S19), BloodBlack (S20), Zebobo10 (S20), zeesue (S20)
+**1 Season (47):** NinjaBatHat (S1), DatBoiMudkip (S2), Sneaky26 (S2), Erikku_Blade (S3), IyaIsMad (S4), Jaxx (S4), LilycoveCity (S4), Sharkzol (S4), SuchAqua (S4), yistv2 (S4), Brocko (S5), Crafters (S5), GeckoG33k (S5), Icecreeper30 (S5), orangeman2000 (S7), _ChaosKaz_ (S8), acadiangel (S9), nsket (S9), strategy (S9), 123SteveBob (S10), Envified_ (S10), ItsColinn (S10), ZebraPantz (S10), Caydone (S12), ghostblurr (S12), CipherKai (S13), Dargxn (S13), MineKG (S13), egl_ (S14), Blarkslol (S15), Evzenitable (S15), iiLynnell (S16), Krbreb (S16), Charrlottie (S17), HeyItsJBug (S17), _shi (S18), TayUHC (S18), Cinnamiinii (S19), Flcnt (S19), kawaiibunri (S19), MangoPlayz (S19), RuneTactics (S19), Stravilight (S19), ToeKun (S19), BloodBlack (S20), Zebobo10 (S20), zeesue (S20)
 
 ---
 ### Debutants
@@ -550,7 +550,7 @@
 
 **S3 (5):** Erikku_Blade, Jixposa, mhuggins5, Sassybunion, TurboNinja03
 
-**S4 (8):** braidenOW, IyaIsMad, Jaxx, LilycoveCity, Sharkzol, Slaybate, SuchAqua, Yist
+**S4 (8):** braidenOW, IyaIsMad, Jaxx, LilycoveCity, Sharkzol, Slaybate, SuchAqua, yistv2
 
 **S5 (7):** Brocko, Crafters, Dragon_Vapes, GeckoG33k, Icecreeper30, SimplyGlaceon, yungAMW
 

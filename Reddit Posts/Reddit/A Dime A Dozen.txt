@@ -27,6 +27,8 @@
 
 **S12: MaxEvasion (3), Maxwellfifty (4)**, *chloesad (0)*
 
+**S13: centraleric (6), Logan_S_ (2), MaxEvasion (4), WackoFlipper (0)**
+
 ---
 ### Runner Ups
 
@@ -53,6 +55,8 @@
 **S11:** Eluniel (0), lexicuhl (3)
 
 **S12:** lottebunny (1), MajorWoof (2), WackoFlipper (2)
+
+**S13:** awesomemacD (1), Chasmic (1), lexicuhl (2), Ullti (1)
 
 ---
 ### Most Kills
@@ -81,6 +85,8 @@
 
 **S12:** Maxwellfifty (4)
 
+**S13:** centraleric (6)
+
 ---
 ### Most Kills (Team)
 
@@ -107,6 +113,8 @@
 **S11:** Codwhy (1), CrowJRC (4) & Blarkslol (4), WackoFlipper (1)
 
 **S12:** MaxEvasion (3), Maxwellfifty (4), chloesad (0)
+
+**S13:** centraleric (6), Logan_S_ (2), MaxEvasion (4), WackoFlipper (0)
 
 ---
 ### First Damage
@@ -135,6 +143,8 @@
 
 **S12:** chloesad (0:4:55)
 
+**S13:** lottebunny (0:4:26)
+
 ---
 ### Ironman
 
@@ -161,6 +171,8 @@
 **S11:** Emylyl (1:10:17)
 
 **S12:** lottebunny (1:44:33)
+
+**S13:** MercuryParadox (1:15:20)
 
 ---
 ### First Blood
@@ -189,6 +201,8 @@
 
 **S12:** Ullti (SoulvG)
 
+**S13:** centraleric (Eluniel)
+
 ---
 ### First Death
 
@@ -216,20 +230,22 @@
 
 **S12:** SoulvG (Ullti)
 
+**S13:** Eluniel (centraleric)
+
 ---
 ### Kills
 
-**1st - centraleric (23):** Bandias (S1), Rohcket (S5), Blarkslol (S5), buttergolem1 (S5), Eluniel (S5), Jahrod (S5), Chasmic (S5), Radical24 (S5), TorinFBF (S6), Chasmic (S6), buttergolem1 (S6), lexicuhl (S6), Radical24 (S7), TheAuri (S7), JaeHasNoMaidens (S7), chloesad (S9), awesomemacD (S9), Randehh (S9), buttergolem1 (S10), lottebunny (S10), Randehh (S10), Radical24 (S10), Greeples (S11)
+**1st - centraleric (29):** Bandias (S1), Rohcket (S5), Blarkslol (S5), buttergolem1 (S5), Eluniel (S5), Jahrod (S5), Chasmic (S5), Radical24 (S5), TorinFBF (S6), Chasmic (S6), buttergolem1 (S6), lexicuhl (S6), Radical24 (S7), TheAuri (S7), JaeHasNoMaidens (S7), chloesad (S9), awesomemacD (S9), Randehh (S9), buttergolem1 (S10), lottebunny (S10), Randehh (S10), Radical24 (S10), Greeples (S11), Eluniel (S13), Westcraft00 (S13), Keelando (S13), CodeJoshua (S13), YellowVitt (S13), lexicuhl (S13)
 
 **2nd - Radical24 (19):** MajorWoof (S1), Raichuwu (S2), Jordtim (S3), JaeHasNoMaidens (S3), MaxEvasion (S3), WackoFlipper (S4), TheSonicJoey (S4), MaxEvasion (S5), DarV2 (S5), Randehh (S5), tiffaroni (S7), CrowJRC (S7), Rohcket (S9), Klickacat (S10), AronBaynes (S10), MajorWoof (S10), Klickacat (S11), Emylyl (S11), pierce981 (S12)
 
-**3rd - MajorWoof (14):** Fourbitplayer (S1), typhlo0o (S1), DarV2 (S1), tiffaroni (S3), CHAINGE (S3), Greeples (S4), MaxEvasion (S4), CallumPace (S4), centraleric (S8), chloesad (S8), Emylyl (S10), DarV2 (S10), CrowJRC (S12), Blarkslol (S12)
+**3rd - lexicuhl (15):** Randehh (S4), JaeHasNoMaidens (S4), buttergolem1 (S4), Radical24 (S4), Bandias (S4), Radical24 (S6), Greeples (S8), Radical24 (S9), MajorWoof (S9), Maxwellfifty (S9), H_L_llama (S11), wibbol (S11), Randehh (S11), TheSlimeBrother (S13), ProGirlGamer (S13)
 
-**4th - lexicuhl (13):** Randehh (S4), JaeHasNoMaidens (S4), buttergolem1 (S4), Radical24 (S4), Bandias (S4), Radical24 (S6), Greeples (S8), Radical24 (S9), MajorWoof (S9), Maxwellfifty (S9), H_L_llama (S11), wibbol (S11), Randehh (S11)
+**4th - MajorWoof (14):** Fourbitplayer (S1), typhlo0o (S1), DarV2 (S1), tiffaroni (S3), CHAINGE (S3), Greeples (S4), MaxEvasion (S4), CallumPace (S4), centraleric (S8), chloesad (S8), Emylyl (S10), DarV2 (S10), CrowJRC (S12), Blarkslol (S12)
 
-**5th - Randehh (11):** CHAINGE (S1), Fourbitplayer (S3), wibbol (S3), Greeples (S3), TerryNL (S4), Greeples (S5), discoczibi (S5), CrowJRC (S6), Greeples (S6), centraleric (S6), Jahrod (S8)
+**4th - MaxEvasion (14):** Blarkslol (S4), tiffaroni (S5), Klickacat (S5), Rohcket (S6), JaeHasNoMaidens (S6), Emerric (S6), WackoFlipper (S10), Greeples (S12), Randehh (S12), lexicuhl (S12), MercuryParadox (S13), MajorWoof (S13), AmbientDan (S13), pierce981 (S13)
 
-**6th - MaxEvasion (10):** Blarkslol (S4), tiffaroni (S5), Klickacat (S5), Rohcket (S6), JaeHasNoMaidens (S6), Emerric (S6), WackoFlipper (S10), Greeples (S12), Randehh (S12), lexicuhl (S12)
+**6th - Randehh (11):** CHAINGE (S1), Fourbitplayer (S3), wibbol (S3), Greeples (S3), TerryNL (S4), Greeples (S5), discoczibi (S5), CrowJRC (S6), Greeples (S6), centraleric (S6), Jahrod (S8)
 
 **7th - Blarkslol (9):** Klickacat (S3), Keelando (S7), WackoFlipper (S7), WackoFlipper (S8), H_L_llama (S8), Chasmic (S11), tiffaroni (S11), CrowJRC (S11), lexicuhl (S11)
 
@@ -247,11 +263,13 @@
 
 **11th - Eluniel (7):** Blarkslol (S3), Potsie (S4), H_L_llama (S4), centraleric (S7), WackoFlipper (S9), lexicuhl (S10), awesomemacD (S10)
 
+**11th - lottebunny (7):** centraleric (S3), nFang (S3), discoczibi (S8), Greeples (S9), Keelando (S9), Radical24 (S12), CrowJRC (S13)
+
 **11th - WackoFlipper (7):** DarV2 (S7), MajorWoof (S8), tiffaroni (S9), Eluniel (S9), lottebunny (S11), Emylyl (S12), TheSlimeBrother (S12)
 
-**16th - Jahrod (6):** CodeJoshua (S7), wibbol (S7), Keelando (S8), TheSlimeBrother (S10), Keelando (S10), CodeJoshua (S10)
+**17th - Jahrod (6):** CodeJoshua (S7), wibbol (S7), Keelando (S8), TheSlimeBrother (S10), Keelando (S10), CodeJoshua (S10)
 
-**16th - lottebunny (6):** centraleric (S3), nFang (S3), discoczibi (S8), Greeples (S9), Keelando (S9), Radical24 (S12)
+**18th - awesomemacD (5):** chloesad (S2), Radical24 (S2), SummerBqsh (S4), centraleric (S10), Klickacat (S13)
 
 **18th - Emylyl (5):** tiffaroni (S10), Codwhy (S10), DarV2 (S11), Radical24 (S11), Rohcket (S12)
 
@@ -261,51 +279,51 @@
 
 **18th - JaeHasNoMaidens (5):** SummerBqsh (S2), MajorWoof (S3), Eluniel (S3), CarlyRaeJepsen (S8), Potsie (S8)
 
-**22nd - awesomemacD (4):** chloesad (S2), Radical24 (S2), SummerBqsh (S4), centraleric (S10)
+**18th - Maxwellfifty (5):** CodeJoshua (S12), Eluniel (S12), MajorWoof (S12), WackoFlipper (S12), Chasmic (S13)
 
-**22nd - DarV2 (4):** WackoFlipper (S1), WackoFlipper (S2), Fourbitplayer (S2), Klickacat (S7)
+**24th - Chasmic (4):** CrowJRC (S5), Randehh (S8), lexicuhl (S8), lottebunny (S13)
 
-**22nd - Maxwellfifty (4):** CodeJoshua (S12), Eluniel (S12), MajorWoof (S12), WackoFlipper (S12)
+**24th - DarV2 (4):** WackoFlipper (S1), WackoFlipper (S2), Fourbitplayer (S2), Klickacat (S7)
 
-**25th - CallumPace (3):** hazel_doe (S1), Potsie (S2), CrowJRC (S4)
+**26th - CallumPace (3):** hazel_doe (S1), Potsie (S2), CrowJRC (S4)
 
-**25th - Chasmic (3):** CrowJRC (S5), Randehh (S8), lexicuhl (S8)
+**26th - Emerric (3):** CodeJoshua (S3), DarV2 (S3), TheSlimeBrother (S7)
 
-**25th - Emerric (3):** CodeJoshua (S3), DarV2 (S3), TheSlimeBrother (S7)
+**26th - Rohcket (3):** WackoFlipper (S6), Klickacat (S9), Codwhy (S11)
 
-**25th - Rohcket (3):** WackoFlipper (S6), Klickacat (S9), Codwhy (S11)
+**26th - TheSlimeBrother (3):** Rohcket (S8), lottebunny (S12), awesomemacD (S13)
 
-**29th - chloesad (2):** GetNicked (S6), MaxEvasion (S6)
+**30th - chloesad (2):** GetNicked (S6), MaxEvasion (S6)
 
-**29th - H_L_llama (2):** tiffaroni (S8), Klickacat (S8)
+**30th - H_L_llama (2):** tiffaroni (S8), Klickacat (S8)
 
-**29th - Potsie (2):** centraleric (S2), TheAuri (S4)
+**30th - Logan_S_ (2):** JaeHasNoMaidens (S13), Ullti (S13)
 
-**29th - starlxghtmoon (2):** lottebunny (S7), Eluniel (S7)
+**30th - Potsie (2):** centraleric (S2), TheAuri (S4)
 
-**29th - TheSlimeBrother (2):** Rohcket (S8), lottebunny (S12)
+**30th - starlxghtmoon (2):** lottebunny (S7), Eluniel (S7)
 
-**29th - tiffaroni (2):** lottebunny (S8), centraleric (S11)
+**30th - tiffaroni (2):** lottebunny (S8), centraleric (S11)
 
-**35th - AronBaynes (1):** MaxEvasion (S10)
+**30th - Ullti (2):** SoulvG (S12), Maxwellfifty (S13)
 
-**35th - CodeJoshua (1):** WackoFlipper (S3)
+**37th - AronBaynes (1):** MaxEvasion (S10)
 
-**35th - Codwhy (1):** I_is_cheesecake (S11)
+**37th - CodeJoshua (1):** WackoFlipper (S3)
 
-**35th - GetNicked (1):** dashdude (S4)
+**37th - Codwhy (1):** I_is_cheesecake (S11)
 
-**35th - Klickacat (1):** awesomemacD (S8)
+**37th - GetNicked (1):** dashdude (S4)
 
-**35th - SoulvG (1):** Bandias (S6)
+**37th - Klickacat (1):** awesomemacD (S8)
 
-**35th - TheAuri (1):** TerryNL (S1)
+**37th - SoulvG (1):** Bandias (S6)
 
-**35th - TheSonicJoey (1):** Eluniel (S4)
+**37th - TheAuri (1):** TerryNL (S1)
 
-**35th - TorinFBF (1):** lexicuhl (S3)
+**37th - TheSonicJoey (1):** Eluniel (S4)
 
-**35th - Ullti (1):** SoulvG (S12)
+**37th - TorinFBF (1):** lexicuhl (S3)
 
 ---
 ### PvE Deaths
@@ -329,29 +347,31 @@
 ---
 ### Participation
 
-**12 Seasons (2):** Greeples (S1-S12), WackoFlipper (S1-S12)
+**13 Seasons (1):** WackoFlipper (S1-S13)
 
-**11 Seasons (4):** centraleric (S1-S11), lottebunny (S1,S3-S12), Radical24 (S1-S7,S9-S12), Randehh (S1-S6,S8-S12)
+**12 Seasons (3):** centraleric (S1-S11,S13), Greeples (S1-S12), lottebunny (S1,S3-S13)
 
-**10 Seasons (1):** lexicuhl (S2-S6,S8-S12)
+**11 Seasons (3):** Radical24 (S1-S7,S9-S12), Randehh (S1-S6,S8-S12), lexicuhl (S2-S6,S8-S13)
 
-**9 Seasons (4):** chloesad (S1-S3,S5-S6,S8-S9,S11-S12), DarV2 (S1-S3,S5-S7,S9-S11), tiffaroni (S2-S5,S7-S11), Eluniel (S3-S7,S9-S12)
+**10 Seasons (1):** Eluniel (S3-S7,S9-S13)
 
-**8 Seasons (2):** MajorWoof (S1-S4,S8-S10,S12), buttergolem1 (S2-S7,S9-S10)
+**9 Seasons (4):** chloesad (S1-S3,S5-S6,S8-S9,S11-S12), DarV2 (S1-S3,S5-S7,S9-S11), MajorWoof (S1-S4,S8-S10,S12-S13), tiffaroni (S2-S5,S7-S11)
 
-**7 Seasons (6):** CodeJoshua (S1-S3,S6-S7,S10,S12), MaxEvasion (S2-S6,S10,S12), Blarkslol (S3-S5,S7-S8,S11-S12), Klickacat (S3,S5,S7-S11), CrowJRC (S4-S7,S10-S12), Rohcket (S4-S6,S8-S9,S11-S12)
+**8 Seasons (5):** CodeJoshua (S1-S3,S6-S7,S10,S12-S13), buttergolem1 (S2-S7,S9-S10), MaxEvasion (S2-S6,S10,S12-S13), Klickacat (S3,S5,S7-S11,S13), CrowJRC (S4-S7,S10-S13)
 
-**6 Seasons (2):** JaeHasNoMaidens (S2-S4,S6-S8), Chasmic (S3,S5-S8,S11)
+**7 Seasons (4):** JaeHasNoMaidens (S2-S4,S6-S8,S13), Blarkslol (S3-S5,S7-S8,S11-S12), Chasmic (S3,S5-S8,S11,S13), Rohcket (S4-S6,S8-S9,S11-S12)
 
-**5 Seasons (3):** Bandias (S1-S4,S6), discoczibi (S1-S2,S4-S5,S8), awesomemacD (S2,S4,S8-S10)
+**6 Seasons (1):** awesomemacD (S2,S4,S8-S10,S13)
 
-**4 Seasons (6):** CallumPace (S1-S4), wibbol (S3-S4,S7,S11), CarlyRaeJepsen (S5-S8), Jahrod (S5,S7-S8,S10), Keelando (S7-S10), TheSlimeBrother (S7-S8,S10,S12)
+**5 Seasons (4):** Bandias (S1-S4,S6), discoczibi (S1-S2,S4-S5,S8), Keelando (S7-S10,S13), TheSlimeBrother (S7-S8,S10,S12-S13)
 
-**3 Seasons (8):** CHAINGE (S1-S3), Fourbitplayer (S1-S3), TheAuri (S1,S4,S7), Potsie (S2,S4,S8), Emerric (S3,S6-S7), TorinFBF (S3,S6,S10), H_L_llama (S4,S8,S11), Emylyl (S10-S12)
+**4 Seasons (4):** CallumPace (S1-S4), wibbol (S3-S4,S7,S11), CarlyRaeJepsen (S5-S8), Jahrod (S5,S7-S8,S10)
 
-**2 Seasons (11):** TerryNL (S1,S4), dashdude (S2,S4), SummerBqsh (S2,S4), Jordtim (S3-S4), GetNicked (S4,S6), TheSonicJoey (S4,S6), MeadowMoos (S5,S7), SoulvG (S6,S12), starlxghtmoon (S7,S11), Maxwellfifty (S9,S12), Codwhy (S10-S11)
+**3 Seasons (9):** CHAINGE (S1-S3), Fourbitplayer (S1-S3), TheAuri (S1,S4,S7), Potsie (S2,S4,S8), Emerric (S3,S6-S7), TorinFBF (S3,S6,S10), H_L_llama (S4,S8,S11), Maxwellfifty (S9,S12-S13), Emylyl (S10-S12)
 
-**1 Season (11):** 016Nojr (S1), Captain220 (S1), hazel_doe (S1), typhlo0o (S1), Raichuwu (S2), nFang (S3), AronBaynes (S10), I_is_cheesecake (S11), pierce981 (S12), ProGirlGamer (S12), Ullti (S12)
+**2 Seasons (13):** TerryNL (S1,S4), dashdude (S2,S4), SummerBqsh (S2,S4), Jordtim (S3-S4), GetNicked (S4,S6), TheSonicJoey (S4,S6), MeadowMoos (S5,S7), SoulvG (S6,S12), starlxghtmoon (S7,S11), Codwhy (S10-S11), pierce981 (S12-S13), ProGirlGamer (S12-S13), Ullti (S12-S13)
+
+**1 Season (13):** 016Nojr (S1), Captain220 (S1), hazel_doe (S1), typhlo0o (S1), Raichuwu (S2), nFang (S3), AronBaynes (S10), I_is_cheesecake (S11), AmbientDan (S13), Logan_S_ (S13), MercuryParadox (S13), Westcraft00 (S13), YellowVitt (S13)
 
 ---
 ### Debutants
@@ -379,5 +399,7 @@
 **S11 (1):** I_is_cheesecake
 
 **S12 (3):** pierce981, ProGirlGamer, Ullti
+
+**S13 (5):** AmbientDan, Logan_S_, MercuryParadox, Westcraft00, YellowVitt
 
 ---

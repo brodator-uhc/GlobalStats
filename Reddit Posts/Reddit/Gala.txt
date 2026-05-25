@@ -23,6 +23,8 @@
 
 **S10: CipherKai (3), DJoee (8)**, *Potsie (1)*
 
+**S11: Bobbytheturtle (5), OOGAABOOGA3 (1)**, *DogOfKrondor (0), gartbak (1), Rawkeyy (0)*
+
 ---
 ### Runner Ups
 
@@ -45,6 +47,8 @@
 **S9:** Kelawesome (6), Omertosa (1)
 
 **S10:** jvevo (3), Lighte (3), WillBrisk (0)
+
+**S11:** benidk (2), Br8dy_ (0), Broseph (0), Lynxo (0), nsket (2)
 
 ---
 ### Most Kills
@@ -69,6 +73,8 @@
 
 **S10:** DJoee (8)
 
+**S11:** Bobbytheturtle, FroztiSnowman (5)
+
 ---
 ### Most Kills (Team)
 
@@ -91,6 +97,8 @@
 **S9:** Bobbytheturtle (5), RobertBadlose (3)
 
 **S10:** CipherKai (3), DJoee (8), Potsie (1)
+
+**S11:** CurdledDrip (0), FroztiSnowman (5), LightingMC (2), MercuryParadox (0), YellowVitt (0) & Bobbytheturtle (5), DogOfKrondor (0), gartbak (1), OOGAABOOGA3 (1), Rawkeyy (0)
 
 ---
 ### First Damage
@@ -115,6 +123,8 @@
 
 **S10:** BardMain2 (0:6:43)
 
+**S11:** Rawkeyy (0:0:57)
+
 ---
 ### Ironman
 
@@ -137,6 +147,8 @@
 **S9:** I_is_cheesecake (1:43:53)
 
 **S10:** Jordtim (1:27:24)
+
+**S11:** DogOfKrondor (0:54:34)
 
 ---
 ### First Blood
@@ -161,6 +173,8 @@
 
 **S10:** DJoee (BardMain2)
 
+**S11:** Applepie78 (Rawkeyy)
+
 ---
 ### First Death
 
@@ -184,16 +198,18 @@
 
 **S10:** BardMain2 (DJoee)
 
+**S11:** Br8dy_ (Lava)
+
 ---
 ### Kills
 
-**1st - jvevo (17):** Bradzi (S1), Harryb2k (S1), Singlish (S3), ShAydenelley (S4), ItzBliz (S5), Pie212_123 (S7), Gorgerous (S7), Jordtim (S7), Awticon (S7), oworca (S7), Harryb2k (S7), 5hup (S7), tagggz (S8), oworca (S8), MercuryParadox (S10), awau (S10), brodioh (S10)
+**1st - Bobbytheturtle (18):** TalonBX (S8), awau (S8), Fazz2 (S8), nsket (S8), 5hup (S8), Omertosa (S8), jvevo (S9), vynil (S9), Lighte (S9), MercuryParadox (S9), Kelawesome (S9), Fazz2 (S10), RobertBadlose (S10), CurdledDrip (S11), MercuryParadox (S11), FroztiSnowman (S11), benidk (S11), Aybel (S11)
 
-**2nd - Omertosa (16):** Jordtim (S1), Entity_Error (S1), lsperlo (S2), I_is_cheesecake (S3), ShAydenelley (S3), InsertDotJpeg (S4), Gabey (S4), M19Simpson (S5), ShyGus (S5), Digdude (S6), Purpdan (S7), Fazz2 (S7), jvevo (S7), Applepie78 (S9), Applepie78 (S10), nsket (S10)
+**2nd - jvevo (17):** Bradzi (S1), Harryb2k (S1), Singlish (S3), ShAydenelley (S4), ItzBliz (S5), Pie212_123 (S7), Gorgerous (S7), Jordtim (S7), Awticon (S7), oworca (S7), Harryb2k (S7), 5hup (S7), tagggz (S8), oworca (S8), MercuryParadox (S10), awau (S10), brodioh (S10)
 
-**3rd - brodioh (14):** LordLaelaps (S2), Dylan_SF (S2), DaPenguin19 (S3), Topspinpiggles (S3), Gabey (S3), 5hup (S5), WaXmAn24 (S5), Omertosa (S5), Topspinpiggles (S5), Emerric (S5), Singlish (S5), InsertDotJpeg (S6), tagggz (S10), Jordtim (S10)
+**3rd - Omertosa (16):** Jordtim (S1), Entity_Error (S1), lsperlo (S2), I_is_cheesecake (S3), ShAydenelley (S3), InsertDotJpeg (S4), Gabey (S4), M19Simpson (S5), ShyGus (S5), Digdude (S6), Purpdan (S7), Fazz2 (S7), jvevo (S7), Applepie78 (S9), Applepie78 (S10), nsket (S10)
 
-**4th - Bobbytheturtle (13):** TalonBX (S8), awau (S8), Fazz2 (S8), nsket (S8), 5hup (S8), Omertosa (S8), jvevo (S9), vynil (S9), Lighte (S9), MercuryParadox (S9), Kelawesome (S9), Fazz2 (S10), RobertBadlose (S10)
+**4th - brodioh (15):** LordLaelaps (S2), Dylan_SF (S2), DaPenguin19 (S3), Topspinpiggles (S3), Gabey (S3), 5hup (S5), WaXmAn24 (S5), Omertosa (S5), Topspinpiggles (S5), Emerric (S5), Singlish (S5), InsertDotJpeg (S6), tagggz (S10), Jordtim (S10), _carn (S11)
 
 **5th - DJoee (12):** Hecticity (S9), mqson (S9), benidk (S9), nsket (S9), BardMain2 (S10), WaXmAn24 (S10), jommyappleseed (S10), Bobbytheturtle (S10), friigiid (S10), WillBrisk (S10), Omertosa (S10), jvevo (S10)
 
@@ -205,6 +221,8 @@
 
 **8th - ShyGus (7):** Bradzi (S5), sorlite (S5), ShimamuraUzuki (S5), Lighte (S7), BardMain2 (S8), jommyappleseed (S9), BardMain2 (S9)
 
+**10th - Applepie78 (6):** wibbol (S7), TalonBX (S7), Maxwellfifty (S8), flameorb (S8), Rawkeyy (S11), ShAydenelley (S11)
+
 **10th - Awticon (6):** jommyappleseed (S7), Biwitch (S7), brodioh (S7), DjTalica (S7), PresidentFleb (S7), flameorb (S7)
 
 **10th - Bradzi (6):** Singlish (S1), LordLaelaps (S1), Omertosa (S3), TheKevGuy (S4), Omertosa (S4), jvevo (S4)
@@ -213,124 +231,136 @@
 
 **10th - Kelawesome (6):** ShAydenelley (S9), dw0w (S9), Jordtim (S9), Macdde (S9), automavic (S9), I_is_cheesecake (S9)
 
+**10th - nsket (6):** Pie212_123 (S8), PresidentFleb (S9), ColdBac (S9), DJoee (S9), m4ku (S11), brodioh (S11)
+
 **10th - PresidentFleb (6):** mqson (S7), WackoFlipper (S8), ShAydenelley (S10), AvaCos (S10), flameorb (S10), Fcrm (S10)
 
-**15th - mqson (5):** AvaCos (S8), BJPlays (S8), Gorgerous (S9), Austronomical (S9), Glarza (S10)
+**17th - FroztiSnowman (5):** DripGodDavid (S11), Dj8ninja (S11), vynil (S11), BardMain2 (S11), Jakekub (S11)
 
-**15th - Purpdan (5):** frogsella (S7), Nintendoshi (S7), Macdde (S8), Applepie78 (S8), WillBrisk (S8)
+**17th - mqson (5):** AvaCos (S8), BJPlays (S8), Gorgerous (S9), Austronomical (S9), Glarza (S10)
 
-**17th - Applepie78 (4):** wibbol (S7), TalonBX (S7), Maxwellfifty (S8), flameorb (S8)
+**17th - Purpdan (5):** frogsella (S7), Nintendoshi (S7), Macdde (S8), Applepie78 (S8), WillBrisk (S8)
 
-**17th - Dylan_SF (4):** PaperVinnie (S2), Singlish (S2), Bradzi (S2), jvevo (S2)
+**17th - ShAydenelley (5):** ShyGus (S7), Rohcket (S7), Gorgerous (S8), Snusty (S8), dw0w (S11)
 
-**17th - gnty (4):** tuxpeng (S6), Maxwellfifty (S6), friigiid (S6), Emerric (S6)
+**21st - benidk (4):** ChrisCD (S9), WackoFlipper (S10), SAYNAR (S11), RobertBadlose (S11)
 
-**17th - nsket (4):** Pie212_123 (S8), PresidentFleb (S9), ColdBac (S9), DJoee (S9)
+**21st - Dylan_SF (4):** PaperVinnie (S2), Singlish (S2), Bradzi (S2), jvevo (S2)
 
-**17th - ShAydenelley (4):** ShyGus (S7), Rohcket (S7), Gorgerous (S8), Snusty (S8)
+**21st - gnty (4):** tuxpeng (S6), Maxwellfifty (S6), friigiid (S6), Emerric (S6)
 
-**17th - tagggz (4):** Harmen (S7), DJoee (S8), Fazz2 (S9), lexicuhl (S9)
+**21st - tagggz (4):** Harmen (S7), DJoee (S8), Fazz2 (S9), lexicuhl (S9)
 
-**23rd - azoof (3):** mqson (S10), Psykl0ne (S10), strategy (S10)
+**25th - azoof (3):** mqson (S10), Psykl0ne (S10), strategy (S10)
 
-**23rd - BJPlays (3):** Jordtim (S3), ShAydenelley (S5), MercuryParadox (S8)
+**25th - BJPlays (3):** Jordtim (S3), ShAydenelley (S5), MercuryParadox (S8)
 
-**23rd - CipherKai (3):** _carn (S10), azoof (S10), Lighte (S10)
+**25th - CipherKai (3):** _carn (S10), azoof (S10), Lighte (S10)
 
-**23rd - ElementalYT (3):** ShyGus (S3), GoodOldBanter (S3), Digdude (S3)
+**25th - ElementalYT (3):** ShyGus (S3), GoodOldBanter (S3), Digdude (S3)
 
-**23rd - flameorb (3):** ColdBac (S7), automavic (S7), MinimanTurtle (S8)
+**25th - flameorb (3):** ColdBac (S7), automavic (S7), MinimanTurtle (S8)
 
-**23rd - Gorgerous (3):** Flohp (S8), ShyGus (S9), OnlyCosmia (S9)
+**25th - Gorgerous (3):** Flohp (S8), ShyGus (S9), OnlyCosmia (S9)
 
-**23rd - InsertDotJpeg (3):** Tanceo (S1), Daffz (S5), I_is_cheesecake (S5)
+**25th - InsertDotJpeg (3):** Tanceo (S1), Daffz (S5), I_is_cheesecake (S5)
 
-**23rd - ItzBliz (3):** tuxpeng (S5), Snusty (S5), brodioh (S5)
+**25th - ItzBliz (3):** tuxpeng (S5), Snusty (S5), brodioh (S5)
 
-**23rd - Lighte (3):** PresidentFleb (S10), Normoh (S10), lexicuhl (S10)
+**25th - Jakekub (3):** Applepie78 (S11), YellowVitt (S11), LightingMC (S11)
 
-**23rd - RobertBadlose (3):** friigiid (S9), Omertosa (S9), tagggz (S9)
+**25th - Lighte (3):** PresidentFleb (S10), Normoh (S10), lexicuhl (S10)
 
-**23rd - TheKevGuy (3):** Entity_Error (S2), Cryptic (S2), Jordtim (S4)
+**25th - m4ku (3):** frogsella (S11), Lynxo (S11), Broseph (S11)
 
-**23rd - Zamario (3):** Topspinpiggles (S4), Omertosa (S6), brodioh (S6)
+**25th - RobertBadlose (3):** friigiid (S9), Omertosa (S9), tagggz (S9)
 
-**35th - 5hup (2):** ShAydenelley (S7), WaXmAn24 (S8)
+**25th - TheKevGuy (3):** Entity_Error (S2), Cryptic (S2), Jordtim (S4)
 
-**35th - automavic (2):** gnty (S7), Snusty (S7)
+**25th - Zamario (3):** Topspinpiggles (S4), Omertosa (S6), brodioh (S6)
 
-**35th - benidk (2):** ChrisCD (S9), WackoFlipper (S10)
+**39th - 5hup (2):** ShAydenelley (S7), WaXmAn24 (S8)
 
-**35th - ChrisCD (2):** brodioh (S9), flameorb (S9)
+**39th - automavic (2):** gnty (S7), Snusty (S7)
 
-**35th - Flopalopagus (2):** M19Simpson (S6), Bradzi (S6)
+**39th - ChrisCD (2):** brodioh (S9), flameorb (S9)
 
-**35th - Glarza (2):** 5hup (S10), Macdde (S10)
+**39th - Flopalopagus (2):** M19Simpson (S6), Bradzi (S6)
 
-**35th - Harryb2k (2):** Digdude (S1), RobertBadlose (S7)
+**39th - Glarza (2):** 5hup (S10), Macdde (S10)
 
-**35th - jommyappleseed (2):** OnlyCosmia (S7), centraleric (S10)
+**39th - Harryb2k (2):** Digdude (S1), RobertBadlose (S7)
 
-**35th - kirbey (2):** CHAINGE (S8), Potsie (S10)
+**39th - jommyappleseed (2):** OnlyCosmia (S7), centraleric (S10)
 
-**35th - LordLaelaps (2):** Harryb2k (S3), ElementalYT (S3)
+**39th - kirbey (2):** CHAINGE (S8), Potsie (S10)
 
-**35th - lsperlo (2):** InsertDotJpeg (S2), ElementalYT (S2)
+**39th - LightingMC (2):** gartbak (S11), mqson (S11)
 
-**35th - Macdde (2):** CHAINGE (S7), I_is_cheesecake (S8)
+**39th - LordLaelaps (2):** Harryb2k (S3), ElementalYT (S3)
 
-**35th - oworca (2):** mqson (S8), lexicuhl (S8)
+**39th - lsperlo (2):** InsertDotJpeg (S2), ElementalYT (S2)
 
-**35th - PaperVinnie (2):** brodioh (S8), PresidentFleb (S8)
+**39th - Macdde (2):** CHAINGE (S7), I_is_cheesecake (S8)
 
-**35th - Potsie (2):** Biwitch (S8), kirbey (S10)
+**39th - oworca (2):** mqson (S8), lexicuhl (S8)
 
-**35th - Singlish (2):** ItzBliz (S4), Zamario (S4)
+**39th - PaperVinnie (2):** brodioh (S8), PresidentFleb (S8)
 
-**35th - Snusty (2):** ShAydenelley (S6), WackoFlipper (S7)
+**39th - Potsie (2):** Biwitch (S8), kirbey (S10)
 
-**35th - WackoFlipper (2):** warriorcat (S8), benidk (S10)
+**39th - Singlish (2):** ItzBliz (S4), Zamario (S4)
 
-**35th - WaXmAn24 (2):** InsertDotJpeg (S5), Awticon (S8)
+**39th - Snusty (2):** ShAydenelley (S6), WackoFlipper (S7)
 
-**35th - WillBrisk (2):** frogsella (S8), dw0w (S8)
+**39th - WackoFlipper (2):** warriorcat (S8), benidk (S10)
 
-**55th - Austronomical (1):** Awticon (S9)
+**39th - WaXmAn24 (2):** InsertDotJpeg (S5), Awticon (S8)
 
-**55th - ColdBac (1):** ScaryPumpkinFace (S7)
+**39th - WillBrisk (2):** frogsella (S8), dw0w (S8)
 
-**55th - Entity_Error (1):** Omertosa (S1)
+**59th - Austronomical (1):** Awticon (S9)
 
-**55th - Fazz2 (1):** chloesad (S7)
+**59th - ColdBac (1):** ScaryPumpkinFace (S7)
 
-**55th - frogsella (1):** ShyGus (S8)
+**59th - Entity_Error (1):** Omertosa (S1)
 
-**55th - Jordtim (1):** lampbro (S7)
+**59th - Fazz2 (1):** chloesad (S7)
 
-**55th - lampbro (1):** dw0w (S7)
+**59th - frogsella (1):** ShyGus (S8)
 
-**55th - lasdarling (1):** RobertBadlose (S8)
+**59th - gartbak (1):** Kaismartypants (S11)
 
-**55th - lexicuhl (1):** Flohp (S9)
+**59th - Jordtim (1):** lampbro (S7)
 
-**55th - TalonBX (1):** Jordtim (S8)
+**59th - Kaismartypants (1):** DogOfKrondor (S11)
 
-**55th - Tanceo (1):** Bradzi (S3)
+**59th - lampbro (1):** dw0w (S7)
 
-**55th - vynil (1):** Aybel (S10)
+**59th - lasdarling (1):** RobertBadlose (S8)
 
-**55th - wibbol (1):** MercuryParadox (S7)
+**59th - lexicuhl (1):** Flohp (S9)
+
+**59th - OOGAABOOGA3 (1):** Omertosa (S11)
+
+**59th - TalonBX (1):** Jordtim (S8)
+
+**59th - Tanceo (1):** Bradzi (S3)
+
+**59th - vynil (1):** Aybel (S10)
+
+**59th - wibbol (1):** MercuryParadox (S7)
 
 ---
 ### PvE Deaths
 
 **Fall (7):** Entity_Error (S4), Zamario (S5), BJPlays (S5), jommyappleseed (S8), ShAydenelley (S8), Potsie (S8), vynil (S10)
 
+**Lava (5):** jvevo (S8), ScaryPumpkinFace (S9), Br8dy_ (S11), badgaaa (S11), nsket (S11)
+
 **Zombie (3):** Ben1_1 (S2), jvevo (S3), ShimamuraUzuki (S4)
 
 **Ender Dragon (2):** Digdude (S5), jvevo (S5)
-
-**Lava (2):** jvevo (S8), ScaryPumpkinFace (S9)
 
 **Burning (1):** Nintendoshi (S8)
 
@@ -347,25 +377,27 @@
 ---
 ### Participation
 
-**10 Seasons (2):** jvevo (S1-S10), Omertosa (S1-S10)
+**11 Seasons (1):** Omertosa (S1-S11)
 
-**9 Seasons (0):** 
+**10 Seasons (1):** jvevo (S1-S10)
 
-**8 Seasons (2):** brodioh (S2-S3,S5-S10), ShAydenelley (S3-S10)
+**9 Seasons (2):** brodioh (S2-S3,S5-S11), ShAydenelley (S3-S11)
+
+**8 Seasons (0):** 
 
 **7 Seasons (1):** Jordtim (S1,S3-S4,S7-S10)
 
 **6 Seasons (5):** Bradzi (S1-S6), Digdude (S1-S6), InsertDotJpeg (S1-S6), Topspinpiggles (S1-S6), I_is_cheesecake (S3,S5-S9)
 
-**5 Seasons (4):** Singlish (S1-S5), ShyGus (S3,S5,S7-S9), Snusty (S4-S8), 5hup (S5-S8,S10)
+**5 Seasons (9):** Singlish (S1-S5), ShyGus (S3,S5,S7-S9), Snusty (S4-S8), 5hup (S5-S8,S10), Applepie78 (S7-S11), BardMain2 (S7-S11), MercuryParadox (S7-S11), mqson (S7-S11), RobertBadlose (S7-S11)
 
-**4 Seasons (13):** Maxwellfifty (S2,S6-S8), WaXmAn24 (S5,S7-S8,S10), Applepie78 (S7-S10), BardMain2 (S7-S10), Fazz2 (S7-S10), flameorb (S7-S10), jommyappleseed (S7-S10), Macdde (S7-S10), MercuryParadox (S7-S10), mqson (S7-S10), PresidentFleb (S7-S10), RobertBadlose (S7-S10), tagggz (S7-S10)
+**4 Seasons (11):** Maxwellfifty (S2,S6-S8), WaXmAn24 (S5,S7-S8,S10), dw0w (S7-S9,S11), Fazz2 (S7-S10), flameorb (S7-S10), jommyappleseed (S7-S10), Macdde (S7-S10), PresidentFleb (S7-S10), tagggz (S7-S10), Bobbytheturtle (S8-S11), nsket (S8-S11)
 
-**3 Seasons (20):** Entity_Error (S1-S2,S4), Harryb2k (S1,S3,S7), LordLaelaps (S1-S3), Tanceo (S1-S3), TheKevGuy (S2,S4,S6), BJPlays (S3,S5,S8), rippersteveM5 (S4-S6), tuxpeng (S4-S6), Zamario (S4-S6), friigiid (S6,S9-S10), Awticon (S7-S9), dw0w (S7-S9), Gorgerous (S7-S9), Lighte (S7,S9-S10), WackoFlipper (S7-S8,S10), WillBrisk (S7-S8,S10), Bobbytheturtle (S8-S10), DJoee (S8-S10), lexicuhl (S8-S10), nsket (S8-S10)
+**3 Seasons (20):** Entity_Error (S1-S2,S4), Harryb2k (S1,S3,S7), LordLaelaps (S1-S3), Tanceo (S1-S3), TheKevGuy (S2,S4,S6), BJPlays (S3,S5,S8), rippersteveM5 (S4-S6), tuxpeng (S4-S6), Zamario (S4-S6), friigiid (S6,S9-S10), Awticon (S7-S9), frogsella (S7-S8,S11), Gorgerous (S7-S9), Lighte (S7,S9-S10), WackoFlipper (S7-S8,S10), WillBrisk (S7-S8,S10), DJoee (S8-S10), lexicuhl (S8-S10), benidk (S9-S11), vynil (S9-S11)
 
-**2 Seasons (29):** ElementalYT (S2-S3), lsperlo (S2,S6), PaperVinnie (S2,S8), Gabey (S3-S4), ItzBliz (S4-S5), ShimamuraUzuki (S4-S5), Emerric (S5-S6), M19Simpson (S5-S6), gnty (S6-S7), automavic (S7,S9), Biwitch (S7-S8), CHAINGE (S7-S8), ColdBac (S7,S9), frogsella (S7-S8), lampbro (S7-S8), Nintendoshi (S7-S8), OnlyCosmia (S7,S9), oworca (S7-S8), Pie212_123 (S7-S8), Purpdan (S7-S8), ScaryPumpkinFace (S7,S9), TalonBX (S7-S8), AvaCos (S8,S10), awau (S8,S10), Flohp (S8-S9), kirbey (S8,S10), Potsie (S8,S10), benidk (S9-S10), vynil (S9-S10)
+**2 Seasons (28):** ElementalYT (S2-S3), lsperlo (S2,S6), PaperVinnie (S2,S8), Gabey (S3-S4), ItzBliz (S4-S5), ShimamuraUzuki (S4-S5), Emerric (S5-S6), M19Simpson (S5-S6), gnty (S6-S7), automavic (S7,S9), Biwitch (S7-S8), CHAINGE (S7-S8), ColdBac (S7,S9), lampbro (S7-S8), Nintendoshi (S7-S8), OnlyCosmia (S7,S9), oworca (S7-S8), Pie212_123 (S7-S8), Purpdan (S7-S8), ScaryPumpkinFace (S7,S9), TalonBX (S7-S8), AvaCos (S8,S10), awau (S8,S10), Flohp (S8-S9), kirbey (S8,S10), Potsie (S8,S10), _carn (S10-S11), Aybel (S10-S11)
 
-**1 Season (31):** Ben1_1 (S2), Creeper2Danknee (S2), Cryptic (S2), Dylan_SF (S2), DaPenguin19 (S3), GoodOldBanter (S3), Daffz (S5), sorlite (S5), Flopalopagus (S6), chloesad (S7), DjTalica (S7), Harmen (S7), Rohcket (S7), wibbol (S7), lasdarling (S8), MinimanTurtle (S8), warriorcat (S8), Austronomical (S9), ChrisCD (S9), Hecticity (S9), Kelawesome (S9), _carn (S10), Aybel (S10), azoof (S10), centraleric (S10), CipherKai (S10), Fcrm (S10), Glarza (S10), Normoh (S10), Psykl0ne (S10), strategy (S10)
+**1 Season (47):** Ben1_1 (S2), Creeper2Danknee (S2), Cryptic (S2), Dylan_SF (S2), DaPenguin19 (S3), GoodOldBanter (S3), Daffz (S5), sorlite (S5), Flopalopagus (S6), chloesad (S7), DjTalica (S7), Harmen (S7), Rohcket (S7), wibbol (S7), lasdarling (S8), MinimanTurtle (S8), warriorcat (S8), Austronomical (S9), ChrisCD (S9), Hecticity (S9), Kelawesome (S9), azoof (S10), centraleric (S10), CipherKai (S10), Fcrm (S10), Glarza (S10), Normoh (S10), Psykl0ne (S10), strategy (S10), badgaaa (S11), Br8dy_ (S11), Broseph (S11), CurdledDrip (S11), Dj8ninja (S11), DogOfKrondor (S11), DripGodDavid (S11), FroztiSnowman (S11), gartbak (S11), Jakekub (S11), Kaismartypants (S11), LightingMC (S11), Lynxo (S11), m4ku (S11), OOGAABOOGA3 (S11), Rawkeyy (S11), SAYNAR (S11), YellowVitt (S11)
 
 ---
 ### Debutants
@@ -389,5 +421,7 @@
 **S9 (6):** Austronomical, benidk, ChrisCD, Hecticity, Kelawesome, vynil
 
 **S10 (10):** _carn, Aybel, azoof, centraleric, CipherKai, Fcrm, Glarza, Normoh, Psykl0ne, strategy
+
+**S11 (18):** badgaaa, Br8dy_, Broseph, CurdledDrip, Dj8ninja, DogOfKrondor, DripGodDavid, FroztiSnowman, gartbak, Jakekub, Kaismartypants, LightingMC, Lynxo, m4ku, OOGAABOOGA3, Rawkeyy, SAYNAR, YellowVitt
 
 ---

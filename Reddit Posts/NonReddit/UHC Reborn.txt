@@ -35,7 +35,7 @@
 
 **S4:** DJblak (4)
 
-**S5:** LqndSlide (5)
+**S5:** lqndslide (5)
 
 **S7:** Slothahontas (4)
 
@@ -48,7 +48,7 @@
 
 **S4:** DJblak (4), IceshardEleven (1), iTsConnorrr (3)
 
-**S5:** Grek_ (0), LqndSlide (5)
+**S5:** Grek_ (0), lqndslide (5)
 
 **S7:** N/A
 
@@ -111,7 +111,7 @@
 
 **2nd - Slothahontas (7):** ImmortalizYT (S5), GodlyPickaxe (S5), Grek_ (S5), IceshardEleven (S7), ElectronicWizard (S7), Stormy_A (S7), cards4in (S7)
 
-**3rd - LqndSlide (5):** Brickkkk (S5), Slothahontas (S5), Angie (S5), DKeri (S5), ChosenFate (S5)
+**3rd - lqndslide (5):** Brickkkk (S5), Slothahontas (S5), Angie (S5), DKeri (S5), ChosenFate (S5)
 
 **4th - DCGUnKnown (4):** wizarde (S3), Adqm____________ (S3), DrinkableMangos (S5), Kambodo (S5)
 
@@ -125,7 +125,7 @@
 
 **6th - Platypusdoespvp (3):** Ryanful (S7), lolitsbrian (S7), Conorz (S7)
 
-**10th - DrinkableMangos (2):** LqndSlide (S5), Conorz (S5)
+**10th - DrinkableMangos (2):** lqndslide (S5), Conorz (S5)
 
 **10th - ImmortalizYT (2):** 360NoSc0p3_F4Z3d (S1), Tripps702 (S4)
 
@@ -179,7 +179,7 @@
 
 **2 Seasons (11):** iQuick_ (S1,S4), Oqsis (S1-S3), PastryChef (S1,S5), DCGUnKnown (S3,S5), DJblak (S3-S4), Invasionnn (S3-S4), IceshardEleven (S4,S7), lolitsbrian (S4,S7), Stormy_A (S4,S7), Ryanful (S5-S7), Slothahontas (S5-S7)
 
-**1 Season (35):** 360NoSc0p3_F4Z3d (S1), 45x7 (S1), Centrios (S1), FrostBros (S1), ImMalachi (S1), ShadowSlayzMC (S1), WaterBottleYT (S1), xSilverSolo (S1), YABOYPJ (S1), Adqm____________ (S3), ambarlos (S3), Arnqv (S3), brinkwhy (S3), KingzPvP (S3), ParkMc (S3), Spencerdood (S3), _Minutus (S4), DJKoalas (S4), iTsConnorrr (S4), xXVoltage386Xx (S4), Angie (S5), Brickkkk (S5), ChosenFate (S5), DKeri (S5), DrinkableMangos (S5), GodlyPickaxe (S5), Grek_ (S5), Kambodo (S5), LqndSlide (S5), Paytonx (S5), PLENT (S5), _Sam_ (S7), cards4in (S7), Kambado (S7), Platypusdoespvp (S7)
+**1 Season (35):** 360NoSc0p3_F4Z3d (S1), 45x7 (S1), Centrios (S1), FrostBros (S1), ImMalachi (S1), ShadowSlayzMC (S1), WaterBottleYT (S1), xSilverSolo (S1), YABOYPJ (S1), Adqm____________ (S3), ambarlos (S3), Arnqv (S3), brinkwhy (S3), KingzPvP (S3), ParkMc (S3), Spencerdood (S3), _Minutus (S4), DJKoalas (S4), iTsConnorrr (S4), xXVoltage386Xx (S4), Angie (S5), Brickkkk (S5), ChosenFate (S5), DKeri (S5), DrinkableMangos (S5), GodlyPickaxe (S5), Grek_ (S5), Kambodo (S5), lqndslide (S5), Paytonx (S5), PLENT (S5), _Sam_ (S7), cards4in (S7), Kambado (S7), Platypusdoespvp (S7)
 
 ---
 ### Debutants
@@ -190,7 +190,7 @@
 
 **S4 (7):** _Minutus, DJKoalas, IceshardEleven, iTsConnorrr, lolitsbrian, Stormy_A, xXVoltage386Xx
 
-**S5 (13):** Angie, Brickkkk, ChosenFate, DKeri, DrinkableMangos, GodlyPickaxe, Grek_, Kambodo, LqndSlide, Paytonx, PLENT, Ryanful, Slothahontas
+**S5 (13):** Angie, Brickkkk, ChosenFate, DKeri, DrinkableMangos, GodlyPickaxe, Grek_, Kambodo, lqndslide, Paytonx, PLENT, Ryanful, Slothahontas
 
 **S7 (4):** _Sam_, cards4in, Kambado, Platypusdoespvp
 

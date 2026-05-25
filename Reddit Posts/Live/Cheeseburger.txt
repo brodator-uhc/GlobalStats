@@ -25,7 +25,7 @@
 
 **S11: brinkwhy (1), hypcr (5), xDiversity (3)**
 
-**S12: hashtagmat (0), IdkKiller (1), Jaceon02 (0), skyzfy (3), solnyki (2), tonylmao (3)**
+**S12: hashtagmat (0), IdkKiller (1), Jaceon02 (0), skyzfy (3), solnyki (2), Tonylmao (3)**
 
 **S13: SOAKLE (5)**
 
@@ -142,7 +142,7 @@
 
 **S11:** brinkwhy (1), hypcr (5), xDiversity (3)
 
-**S12:** IdkKiller (1), Jaceon02 (0), hashtagmat (0), skyzfy (3), solnyki (2), tonylmao (3)
+**S12:** IdkKiller (1), Jaceon02 (0), hashtagmat (0), skyzfy (3), solnyki (2), Tonylmao (3)
 
 **S13:** N/A
 
@@ -425,7 +425,7 @@
 
 **46th - TheSlimeBrother (3):** AdonisGaming (S4), broccoliar (S4), TitaniumDino25 (S8)
 
-**46th - tonylmao (3):** SOAKLE (S12), GreenFire26 (S12), UbiquityHD (S12)
+**46th - Tonylmao (3):** SOAKLE (S12), GreenFire26 (S12), UbiquityHD (S12)
 
 **46th - UbiquityHD (3):** Krbreb (S10), ItsShqky (S10), xPandaaz (S13)
 
@@ -498,7 +498,7 @@
 
 **Fall (3):** Stravilight (S6), T1mT0m (S8), BuildingBard300 (S15)
 
-**Lava (3):** ItsHoneyBadgers (S11), xtiger34 (S13), kawaiibunri (S14)
+**Lava (3):** BloodBlack (S11), xtiger34 (S13), kawaiibunri (S14)
 
 **Left (3):** T1mT0m (S7), IdkKiller (S14), poWpaH (S14)
 
@@ -545,7 +545,7 @@
 
 **2 Seasons (23):** AvyleZ (S2,S5), CodeJoshua (S2,S4), Codwhy (S2,S16), St0rmplayz (S2,S4), Greatwarrior_ (S3-S4), Zcin (S3,S7), Bulbexe (S4,S10), Cloversss (S5-S6), Cahnner (S7-S8), FrostBros (S7-S8), Pelycosaur (S7-S8), Retrofied (S7,S16), AiroKun (S9-S10), solnyki (S10,S12), beaniepls (S11-S12), carterwarterbear (S11,S13), GreenFire26 (S11-S12), DereckLivelyII (S14-S15), SAYNAR (S14,S18), ScaryPumpkinFace (S14,S16), Spongey (S15-S16), xannydood (S15-S16), RollRealQuick (S16-S17)
 
-**1 Season (42):** deanomode (S1), pansxd (S1), scrup (S1), slxps (S1), BlizzardSnake (S2), Bofishkix (S2), claure (S2), epicfries (S2), Fearx_ (S2), BigJedo (S3), Cat6376 (S3), DevoyTTV (S3), Dredex (S3), That1Turtle (S3), Tinydraco (S4), Veridiss (S5), zFate (S5), saltbag (S6), GeniRCT (S7), PolarTaco (S7), Zebobo10 (S7), PoofessorP (S10), ywack (S10), downkey (S11), eton76 (S11), ItsHoneyBadgers (S11), Seek3r3 (S11), xDiversity (S11), _carn (S12), Captinn (S12), checog (S12), Gleoss (S12), tonylmao (S12), winterf (S12), Nikanod (S13), QueenxPetty (S13), xPandaaz (S13), xtiger34 (S13), Demomaker (S14), Kqro (S14), Dawncy (S15), Zenithu (S16)
+**1 Season (42):** deanomode (S1), pansxd (S1), scrup (S1), slxps (S1), BlizzardSnake (S2), Bofishkix (S2), claure (S2), epicfries (S2), Fearx_ (S2), BigJedo (S3), Cat6376 (S3), DevoyTTV (S3), Dredex (S3), That1Turtle (S3), Tinydraco (S4), Veridiss (S5), zFate (S5), saltbag (S6), GeniRCT (S7), PolarTaco (S7), Zebobo10 (S7), PoofessorP (S10), ywack (S10), BloodBlack (S11), downkey (S11), eton76 (S11), Seek3r3 (S11), xDiversity (S11), _carn (S12), Captinn (S12), checog (S12), Gleoss (S12), Tonylmao (S12), winterf (S12), Nikanod (S13), QueenxPetty (S13), xPandaaz (S13), xtiger34 (S13), Demomaker (S14), Kqro (S14), Dawncy (S15), Zenithu (S16)
 
 ---
 ### Debutants
@@ -570,9 +570,9 @@
 
 **S10 (7):** benidk, hypcr, PoofessorP, solnyki, UbiquityHD, willif, ywack
 
-**S11 (10):** beaniepls, carterwarterbear, downkey, eton76, GreenFire26, ItsHoneyBadgers, Kaismartypants, Seek3r3, SOAKLE, xDiversity
+**S11 (10):** beaniepls, BloodBlack, carterwarterbear, downkey, eton76, GreenFire26, Kaismartypants, Seek3r3, SOAKLE, xDiversity
 
-**S12 (6):** _carn, Captinn, checog, Gleoss, tonylmao, winterf
+**S12 (6):** _carn, Captinn, checog, Gleoss, Tonylmao, winterf
 
 **S13 (4):** Nikanod, QueenxPetty, xPandaaz, xtiger34
 

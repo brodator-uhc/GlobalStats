@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1:** *Tylarzz (3), xNestorio (7)*
+**S1:** *Tylarzz (3) & xNestorio (7)*
 
 **S2: Pacoima (7)**
 
@@ -115,7 +115,7 @@
 
 **4th - SrHax14 (6):** Blueyes124 (S4), iRollingZ (S4), byGoku16 (S4), Rvhh (S4), Hasvik (S4), Rxche (S4)
 
-**5th - repped (5):** maccwyatt (S5), iWrekt (S5), oceun (S5), PizzqWithAQ (S5), sweatgod (S5)
+**5th - repped (5):** maccwyatt (S5), iWrekt (S5), oceun (S5), PizzaWithAQ (S5), sweatgod (S5)
 
 **5th - Rxche (5):** LuisGamer_37 (S4), Varsityy (S4), Greninja (S4), AlxjoHacked (S4), saicunes (S4)
 
@@ -133,7 +133,7 @@
 
 **11th - Killaruh (3):** Talekio (S2), Solr (S2), Guep (S2)
 
-**11th - PizzqWithAQ (3):** FireBreathMan (S5), Chenobiy (S5), Connher (S5)
+**11th - PizzaWithAQ (3):** FireBreathMan (S5), Chenobiy (S5), Connher (S5)
 
 **11th - PowerfulMC (3):** Chanse (S1), Mauricio89sm (S1), upriserryker (S1)
 
@@ -237,7 +237,7 @@
 
 **2 Seasons (15):** BiboyQG (S1-S2), Cawrson (S1-S2), Chanse (S1-S2), Chqllenged (S1-S2), Solr (S1-S2), TheBestGinger13 (S1-S2), upriserryker (S1-S2), Apexay (S2-S3), brndy (S2-S3), iBeaturscore (S2-S3), Killaruh (S2-S3), NFSatchu (S2-S3), Pacoima (S2-S3), ThisGrizzly (S2-S3), NoHealing (S3-S4)
 
-**1 Season (91):** Barcode (S1), iBearHD (S1), Mauricio89sm (S1), PowerfulMC (S1), SrErickMx (S1), Zyper (S1), BakedBrotatoChip (S2), carsoon (S2), CristianPvP (S2), Fwied (S2), GamesToJump (S2), Guep (S2), Huahwi (S2), ItsFocal (S2), Talekio (S2), Kaxri (S3), Kingkicks (S3), officialkreo (S3), pax10 (S3), Pikachu (S3), RaiN_DyNasty (S3), smqcked (S3), SpencerHockeyy (S3), Sundai (S3), Uala (S3), Verillium (S3), AlxjoHacked (S4), BigSoto (S4), BladeMasteerr (S4), Blueyes124 (S4), byGoku16 (S4), bykevv (S4), Calvin (S4), Cer_ (S4), DaniboyTeam (S4), DANTEHVZ (S4), DarioVory (S4), DTYGuillermo (S4), Dxmo (S4), ElFerSalvaje (S4), eliazOne (S4), Flanke (S4), Gleoss (S4), Greninja (S4), Hasvik (S4), iRollingZ (S4), IsoLights (S4), ItsGipped (S4), Jimenez17 (S4), Just_Andres (S4), LuisGamer_37 (S4), Mqtheo (S4), Puxqh (S4), Qndres (S4), R1PSeasson (S4), RexterGaming (S4), Rvhh (S4), Rxche (S4), saicunes (S4), SrHax14 (S4), Varsityy (S4), Wirazo (S4), zSirCamilo (S4), Arqm (S5), Chenobiy (S5), Connher (S5), Cwrunch (S5), Dredex (S5), FireBreathMan (S5), hueske (S5), iWrekt (S5), iz_sykox (S5), lamzyk (S5), Lnarz (S5), lowst (S5), M1CH1GAN (S5), maccwyatt (S5), Nightbot (S5), oceun (S5), PizzqWithAQ (S5), PxndaIsShy (S5), repped (S5), Scyles (S5), sintoh (S5), Squegi (S5), sweatgod (S5), Tarrvey (S5), TinchoPijaLarga (S5), Upraise (S5), XERNE5 (S5), zSpiral (S5)
+**1 Season (91):** Barcode (S1), iBearHD (S1), Mauricio89sm (S1), PowerfulMC (S1), SrErickMx (S1), Zyper (S1), BakedBrotatoChip (S2), carsoon (S2), CristianPvP (S2), Fwied (S2), GamesToJump (S2), Guep (S2), Huahwi (S2), ItsFocal (S2), Talekio (S2), Kaxri (S3), Kingkicks (S3), officialkreo (S3), pax10 (S3), Pikachu (S3), RaiN_DyNasty (S3), smqcked (S3), SpencerHockeyy (S3), Sundai (S3), Uala (S3), Verillium (S3), AlxjoHacked (S4), BigSoto (S4), BladeMasteerr (S4), Blueyes124 (S4), byGoku16 (S4), bykevv (S4), Calvin (S4), Cer_ (S4), DaniboyTeam (S4), DANTEHVZ (S4), DarioVory (S4), DTYGuillermo (S4), Dxmo (S4), ElFerSalvaje (S4), eliazOne (S4), Flanke (S4), Gleoss (S4), Greninja (S4), Hasvik (S4), iRollingZ (S4), IsoLights (S4), ItsGipped (S4), Jimenez17 (S4), Just_Andres (S4), LuisGamer_37 (S4), Mqtheo (S4), Puxqh (S4), Qndres (S4), R1PSeasson (S4), RexterGaming (S4), Rvhh (S4), Rxche (S4), saicunes (S4), SrHax14 (S4), Varsityy (S4), Wirazo (S4), zSirCamilo (S4), Arqm (S5), Chenobiy (S5), Connher (S5), Cwrunch (S5), Dredex (S5), FireBreathMan (S5), hueske (S5), iWrekt (S5), iz_sykox (S5), lamzyk (S5), Lnarz (S5), lowst (S5), M1CH1GAN (S5), maccwyatt (S5), Nightbot (S5), oceun (S5), PizzaWithAQ (S5), PxndaIsShy (S5), repped (S5), Scyles (S5), sintoh (S5), Squegi (S5), sweatgod (S5), Tarrvey (S5), TinchoPijaLarga (S5), Upraise (S5), XERNE5 (S5), zSpiral (S5)
 
 ---
 ### Debutants
@@ -250,6 +250,6 @@
 
 **S4 (37):** AlxjoHacked, BigSoto, BladeMasteerr, Blueyes124, byGoku16, bykevv, Calvin, Cer_, DaniboyTeam, DANTEHVZ, DarioVory, DTYGuillermo, Dxmo, ElFerSalvaje, eliazOne, Flanke, Gleoss, Greninja, Hasvik, iRollingZ, IsoLights, ItsGipped, Jimenez17, Just_Andres, LuisGamer_37, Mqtheo, Puxqh, Qndres, R1PSeasson, RexterGaming, Rvhh, Rxche, saicunes, SrHax14, Varsityy, Wirazo, zSirCamilo
 
-**S5 (28):** Arqm, Chenobiy, Connher, Cwrunch, Dredex, FireBreathMan, hueske, iWrekt, iz_sykox, lamzyk, Lnarz, lowst, M1CH1GAN, maccwyatt, Nightbot, oceun, PizzqWithAQ, PxndaIsShy, repped, Scyles, sintoh, Squegi, sweatgod, Tarrvey, TinchoPijaLarga, Upraise, XERNE5, zSpiral
+**S5 (28):** Arqm, Chenobiy, Connher, Cwrunch, Dredex, FireBreathMan, hueske, iWrekt, iz_sykox, lamzyk, Lnarz, lowst, M1CH1GAN, maccwyatt, Nightbot, oceun, PizzaWithAQ, PxndaIsShy, repped, Scyles, sintoh, Squegi, sweatgod, Tarrvey, TinchoPijaLarga, Upraise, XERNE5, zSpiral
 
 ---

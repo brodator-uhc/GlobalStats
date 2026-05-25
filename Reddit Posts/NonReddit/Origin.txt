@@ -16,7 +16,7 @@
 
 **S1:** Cxllxn (1), ImChile (0)
 
-**S2:** BlackPants (0), CheeseJamez (3), ImChile (1)
+**S2:** BlackPants (0), CheeseJay (3), ImChile (1)
 
 **S3:** brinkwhy (2)
 
@@ -27,7 +27,7 @@
 
 **S1:** dnkin, FrostFlint (3)
 
-**S2:** CheeseJamez (3)
+**S2:** CheeseJay (3)
 
 **S3:** brinkwhy, collowollo, Cxllxn, DatGuyAdam, ItsShqky, Tubesterkake (2)
 
@@ -93,13 +93,13 @@
 
 **1st - brinkwhy (7):** ImChile (S3), Tubesterkake (S3), ItsShqky (S4), DatGuyAdam (S4), TheLuckyAsian (S4), gmailol (S4), Moonlitess (S4)
 
-**2nd - FrostFlint (5):** ItsShqky (S1), Frisky_Savage (S1), Cxllxn (S1), dnkin (S2), CheeseJamez (S2)
+**2nd - FrostFlint (5):** ItsShqky (S1), Frisky_Savage (S1), Cxllxn (S1), dnkin (S2), CheeseJay (S2)
 
 **2nd - Moonlitess (5):** Tubesterkake (S2), ImChile (S2), Sneaky26 (S3), collowollo (S4), ChaseOwO (S4)
 
-**4th - CheeseJamez (4):** MasterZyph (S2), Liowolfer (S2), Tristyy (S2), BlackPants (S3)
+**4th - CheeseJay (4):** MasterZyph (S2), Liowolfer (S2), Tristyy (S2), BlackPants (S3)
 
-**4th - dnkin (4):** ImChile (S1), CheeseJamez (S1), BlackPants (S1), BlackPants (S2)
+**4th - dnkin (4):** ImChile (S1), CheeseJay (S1), BlackPants (S1), BlackPants (S2)
 
 **4th - Tubesterkake (4):** ADinoPlayingMC (S2), AyeeSammy (S2), yuhFazz (S3), collowollo (S3)
 
@@ -111,7 +111,7 @@
 
 **10th - collowollo (2):** ItsShqky (S3), Moonlitess (S3)
 
-**10th - ItsShqky (2):** DatGuyAdam (S3), CheeseJamez (S3)
+**10th - ItsShqky (2):** DatGuyAdam (S3), CheeseJay (S3)
 
 **12th - ChaseOwO (1):** NykoUzumaki (S2)
 
@@ -124,7 +124,7 @@
 ---
 ### PvE Deaths
 
-**Fall (2):** Liowolfer (S1), CheeseJamez (S4)
+**Fall (2):** Liowolfer (S1), CheeseJay (S4)
 
 **Drowning (1):** JoshC2 (S3)
 
@@ -133,7 +133,7 @@
 ---
 ### Participation
 
-**4 Seasons (2):** ChaseOwO (S1-S4), CheeseJamez (S1-S4)
+**4 Seasons (2):** ChaseOwO (S1-S4), CheeseJay (S1-S4)
 
 **3 Seasons (9):** BlackPants (S1-S3), Cxllxn (S1-S3), dnkin (S1-S2,S4), FrostFlint (S1-S3), ImChile (S1-S3), ItsShqky (S1,S3-S4), Liowolfer (S1-S3), ADinoPlayingMC (S2-S4), Moonlitess (S2-S4)
 
@@ -144,7 +144,7 @@
 ---
 ### Debutants
 
-**S1 (10):** BlackPants, ChaseOwO, CheeseJamez, Cxllxn, dnkin, Frisky_Savage, FrostFlint, ImChile, ItsShqky, Liowolfer
+**S1 (10):** BlackPants, ChaseOwO, CheeseJay, Cxllxn, dnkin, Frisky_Savage, FrostFlint, ImChile, ItsShqky, Liowolfer
 
 **S2 (7):** ADinoPlayingMC, AyeeSammy, MasterZyph, Moonlitess, NykoUzumaki, Tristyy, Tubesterkake
 

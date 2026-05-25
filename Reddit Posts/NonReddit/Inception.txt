@@ -96,9 +96,9 @@
 ---
 ### PvE Deaths
 
-**Creeper (5):** AyakaLilli (S2), Sneaky26 (S3), KingOfDaTrash (S3), Cat6376 (S3), brightlightning (S4)
+**Creeper (5):** CelestialReira (S2), Sneaky26 (S3), KingOfDaTrash (S3), Cat6376 (S3), brightlightning (S4)
 
-**Fall (5):** BasicHantu (S2), KingOfDaTrash (S2), AyakaLilli (S3), _Wulfie_ (S4), ItsArtemis (S4)
+**Fall (5):** BasicHantu (S2), KingOfDaTrash (S2), CelestialReira (S3), _Wulfie_ (S4), ItsArtemis (S4)
 
 **Lava (1):** BasicHantu (S4)
 
@@ -113,14 +113,14 @@
 
 **3 Seasons (5):** BasicHantu (S2-S4), brightlightning (S2-S4), DevoyTTV (S2-S4), JamestheDouglas (S2-S4), KingOfDaTrash (S2-S4)
 
-**2 Seasons (5):** AyakaLilli (S2-S3), Cat6376 (S2-S3), caaity (S3-S4), Sneaky26 (S3-S4), SummerBqsh (S3-S4)
+**2 Seasons (5):** Cat6376 (S2-S3), CelestialReira (S2-S3), caaity (S3-S4), Sneaky26 (S3-S4), SummerBqsh (S3-S4)
 
 **1 Season (17):** Breydon (S2), Cjmusky (S2), dogbite111 (S2), Kaiea (S2), WildFyre (S2), AydaPlays (S3), FlareFusion (S3), Oddless (S3), Strobez (S3), TianaReese (S3), TotallyKay (S3), _DanPK (S4), _Wulfie_ (S4), ItsArtemis (S4), Montera (S4), Selja46 (S4), SolHan_Do (S4)
 
 ---
 ### Debutants
 
-**S2 (12):** AyakaLilli, BasicHantu, Breydon, brightlightning, Cat6376, Cjmusky, DevoyTTV, dogbite111, JamestheDouglas, Kaiea, KingOfDaTrash, WildFyre
+**S2 (12):** BasicHantu, Breydon, brightlightning, Cat6376, CelestialReira, Cjmusky, DevoyTTV, dogbite111, JamestheDouglas, Kaiea, KingOfDaTrash, WildFyre
 
 **S3 (9):** AydaPlays, caaity, FlareFusion, Oddless, Sneaky26, Strobez, SummerBqsh, TianaReese, TotallyKay
 

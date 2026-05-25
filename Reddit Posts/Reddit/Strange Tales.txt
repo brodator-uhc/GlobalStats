@@ -5,89 +5,127 @@
 
 **S1: Bobbytheturtle (5), flameh (3)**, *broccoliar (1), CodeJoshua (0)*
 
+**S2: benidk (4)**, *Dj8ninja (0)*
+
 ---
 ### Runner Ups
 
 **S1:** _Dieter (1), benidk (1), Fra49 (1), Psykl0ne (0)
+
+**S2:** MajorWoof (3), trashtro (4)
 
 ---
 ### Most Kills
 
 **S1:** Bobbytheturtle (5)
 
+**S2:** benidk, trashtro (4)
+
 ---
 ### Most Kills (Team)
 
 **S1:** Bobbytheturtle (5), broccoliar (1), CodeJoshua (0), flameh (3)
+
+**S2:** MajorWoof (3), trashtro (4)
 
 ---
 ### First Damage
 
 **S1:** nsket (0:13:6)
 
+**S2:** Rebelghost (0:0:21)
+
 ---
 ### Ironman
 
 **S1:** MajorWoof (1:25:33)
+
+**S2:** zac083 (1:4:22)
 
 ---
 ### First Blood
 
 **S1:** Dj8ninja (boyyoo)
 
+**S2:** ArcticSeagull (Bobbytheturtle)
+
 ---
 ### First Death
 
 **S1:** boyyoo (Dj8ninja)
 
+**S2:** Fra49 (Lava)
+
 ---
 ### Kills
 
-**1st - Bobbytheturtle (5):** DripGodDavid (S1), Karliffu (S1), Lighte (S1), _Dieter (S1), zac083 (S1)
+**1st - Fcrm (7):** CodeJoshua (S1), broccoliar (S1), alexnv (S1), strategy (S1), ArcticSeagull (S2), broccoliar (S2), boyyoo (S2)
 
-**2nd - Fcrm (4):** CodeJoshua (S1), broccoliar (S1), alexnv (S1), strategy (S1)
+**2nd - benidk (5):** MajorWoof (S1), ShootingGoats (S2), ColdBac (S2), MajorWoof (S2), trashtro (S2)
 
-**3rd - Cloversss (3):** Psykl0ne (S1), PresidentFleb (S1), Fra49 (S1)
+**2nd - Bobbytheturtle (5):** DripGodDavid (S1), Karliffu (S1), Lighte (S1), _Dieter (S1), zac083 (S1)
 
-**3rd - flameh (3):** CurdledDrip (S1), Cloversss (S1), benidk (S1)
+**4th - Lighte (4):** TheSlimeBrother (S1), JampoJohn (S1), ArcticSeagull (S1), CurdledDrip (S2)
 
-**3rd - Lighte (3):** TheSlimeBrother (S1), JampoJohn (S1), ArcticSeagull (S1)
+**4th - trashtro (4):** JampoJohn (S2), PresidentFleb (S2), _carn (S2), Fcrm (S2)
 
-**6th - _Dieter (1):** Dj8ninja (S1)
+**6th - broccoliar (3):** TehBaconBrawlerZ (S1), strategy (S2), Lighte (S2)
 
-**6th - benidk (1):** MajorWoof (S1)
+**6th - Cloversss (3):** Psykl0ne (S1), PresidentFleb (S1), Fra49 (S1)
 
-**6th - broccoliar (1):** TehBaconBrawlerZ (S1)
+**6th - flameh (3):** CurdledDrip (S1), Cloversss (S1), benidk (S1)
 
-**6th - Broseph (1):** MercuryParadox (S1)
+**6th - MajorWoof (3):** TheSlimeBrother (S2), CodeJoshua (S2), OOGAABOOGA3 (S2)
 
-**6th - CurdledDrip (1):** lottebunny (S1)
+**6th - OOGAABOOGA3 (3):** dahii (S2), Psykl0ne (S2), zac083 (S2)
 
-**6th - dahii (1):** Broseph (S1)
+**11th - ArcticSeagull (2):** Bobbytheturtle (S2), Dj8ninja (S2)
 
-**6th - Dj8ninja (1):** boyyoo (S1)
+**11th - CodeJoshua (2):** flameh (S2), Karliffu (S2)
 
-**6th - Fra49 (1):** zCent (S1)
+**11th - Karliffu (2):** Rohcket (S1), Rebelghost (S2)
 
-**6th - Karliffu (1):** Rohcket (S1)
+**14th - _carn (1):** Lynxo (S2)
 
-**6th - lottebunny (1):** Fcrm (S1)
+**14th - _Dieter (1):** Dj8ninja (S1)
 
-**6th - nsket (1):** dahii (S1)
+**14th - Broseph (1):** MercuryParadox (S1)
 
-**6th - strategy (1):** nsket (S1)
+**14th - CurdledDrip (1):** lottebunny (S1)
+
+**14th - dahii (1):** Broseph (S1)
+
+**14th - Dj8ninja (1):** boyyoo (S1)
+
+**14th - Fra49 (1):** zCent (S1)
+
+**14th - lottebunny (1):** Fcrm (S1)
+
+**14th - nsket (1):** dahii (S1)
+
+**14th - PresidentFleb (1):** alexnv (S2)
+
+**14th - strategy (1):** nsket (S1)
+
+**14th - TheSlimeBrother (1):** MercuryParadox (S2)
 
 ---
 ### PvE Deaths
 
+**Lava (1):** Fra49 (S2)
+
 ---
 ### Participation
 
-**1 Season (32):** _Dieter (S1), alexnv (S1), ArcticSeagull (S1), benidk (S1), Bobbytheturtle (S1), boyyoo (S1), broccoliar (S1), Broseph (S1), Cloversss (S1), CodeJoshua (S1), CurdledDrip (S1), dahii (S1), Dj8ninja (S1), DripGodDavid (S1), Fcrm (S1), flameh (S1), Fra49 (S1), JampoJohn (S1), Karliffu (S1), Lighte (S1), lottebunny (S1), MajorWoof (S1), MercuryParadox (S1), nsket (S1), PresidentFleb (S1), Psykl0ne (S1), Rohcket (S1), strategy (S1), TehBaconBrawlerZ (S1), TheSlimeBrother (S1), zac083 (S1), zCent (S1)
+**2 Seasons (23):** alexnv (S1-S2), ArcticSeagull (S1-S2), benidk (S1-S2), Bobbytheturtle (S1-S2), boyyoo (S1-S2), broccoliar (S1-S2), CodeJoshua (S1-S2), CurdledDrip (S1-S2), dahii (S1-S2), Dj8ninja (S1-S2), Fcrm (S1-S2), flameh (S1-S2), Fra49 (S1-S2), JampoJohn (S1-S2), Karliffu (S1-S2), Lighte (S1-S2), MajorWoof (S1-S2), MercuryParadox (S1-S2), PresidentFleb (S1-S2), Psykl0ne (S1-S2), strategy (S1-S2), TheSlimeBrother (S1-S2), zac083 (S1-S2)
+
+**1 Season (16):** _Dieter (S1), Broseph (S1), Cloversss (S1), DripGodDavid (S1), lottebunny (S1), nsket (S1), Rohcket (S1), TehBaconBrawlerZ (S1), zCent (S1), _carn (S2), ColdBac (S2), Lynxo (S2), OOGAABOOGA3 (S2), Rebelghost (S2), ShootingGoats (S2), trashtro (S2)
 
 ---
 ### Debutants
 
 **S1 (32):** _Dieter, alexnv, ArcticSeagull, benidk, Bobbytheturtle, boyyoo, broccoliar, Broseph, Cloversss, CodeJoshua, CurdledDrip, dahii, Dj8ninja, DripGodDavid, Fcrm, flameh, Fra49, JampoJohn, Karliffu, Lighte, lottebunny, MajorWoof, MercuryParadox, nsket, PresidentFleb, Psykl0ne, Rohcket, strategy, TehBaconBrawlerZ, TheSlimeBrother, zac083, zCent
+
+**S2 (7):** _carn, ColdBac, Lynxo, OOGAABOOGA3, Rebelghost, ShootingGoats, trashtro
 
 ---

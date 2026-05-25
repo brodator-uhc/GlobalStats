@@ -347,7 +347,7 @@
 
 **16th - broccoliar (6):** MineKG (S13), Rebelghost (S13), xPandaaz (S15), emi1iano (S16), xDiversity (S17), emi1iano (S17)
 
-**16th - Dredex (6):** DevoyTTV (S12), ItsShqky (S12), Glarza (S12), ADinoPlayingMC (S12), NickPlaysGames15 (S13), AznNinja (S13)
+**16th - Dredex (6):** DevoyTTV (S12), ItsShqky (S12), Glarza (S12), ADinoPlayingMC (S12), NickPlaysGames15 (S13), CelestialReira (S13)
 
 **16th - Moonlitess (6):** BlackPants (S3), Greatwarrior_ (S3), DeadlyFoxx (S3), Bohe (S5), MineKG (S15), broccoliar (S15)
 
@@ -495,7 +495,7 @@
 
 **74th - SiahStone (1):** Rebelghost (S14)
 
-**74th - Strobez (1):** AznNinja (S1)
+**74th - Strobez (1):** CelestialReira (S1)
 
 **74th - stupidsylvia (1):** Erdql (S15)
 
@@ -514,7 +514,7 @@
 
 **Creeper (5):** DarkType_ (S1), ItsMarine (S1), Markedbooboy (S10), HenryPlays (S12), TehBaconBrawlerZ (S17)
 
-**Lava (5):** Frisky_Savage (S3), BreakfastBacon (S6), Dymes (S6), ItsShqky (S7), AznNinja (S12)
+**Lava (5):** Frisky_Savage (S3), BreakfastBacon (S6), Dymes (S6), ItsShqky (S7), CelestialReira (S12)
 
 **Left (5):** Platys (S1), Crafters (S3), jemjosh (S8), AdonisGaming (S9), Blarkslol (S11)
 
@@ -532,7 +532,7 @@
 
 **Enderman (1):** PresidentFleb (S10)
 
-**Spider (1):** AznNinja (S3)
+**Spider (1):** CelestialReira (S3)
 
 **Void (1):** Captinn (S17)
 
@@ -567,7 +567,7 @@
 
 **5 Seasons (7):** Moonlitess (S1,S3,S5-S6,S15), Greatwarrior_ (S3-S5,S14-S15), Plushy33 (S4-S5,S7,S11,S15), AdonisGaming (S8-S10,S12,S16), HenryPlays (S9,S12-S15), Evzenitable (S10,S12,S15,S17-S18), NickPlaysGames15 (S10-S13,S15)
 
-**4 Seasons (13):** AznNinja (S1,S3,S12-S13), BigJedo (S1-S2,S13-S14), collowollo (S1-S2,S7,S15), Crafters (S3,S8,S11,S14), Bohe (S4-S5,S9,S16), nohyperr (S4-S5,S7-S8), TheLuckyAsian (S4-S7), xPandaaz (S9-S11,S15), SergeantM (S10-S11,S13,S18), MichaelPlayMC (S12,S14-S15,S18), _Fost_ (S13-S15,S18), Vetmire (S14-S17), poWpaH (S15-S18)
+**4 Seasons (13):** BigJedo (S1-S2,S13-S14), CelestialReira (S1,S3,S12-S13), collowollo (S1-S2,S7,S15), Crafters (S3,S8,S11,S14), Bohe (S4-S5,S9,S16), nohyperr (S4-S5,S7-S8), TheLuckyAsian (S4-S7), xPandaaz (S9-S11,S15), SergeantM (S10-S11,S13,S18), MichaelPlayMC (S12,S14-S15,S18), _Fost_ (S13-S15,S18), Vetmire (S14-S17), poWpaH (S15-S18)
 
 **3 Seasons (15):** AyeeSammy (S1-S2,S4), ImChile (S1,S5,S15), ElioGeoFreeze32 (S6,S9-S10), SlicedOranges (S7,S9,S18), JaqOnCraq (S8-S9,S18), Jwillnot (S8-S10), Onozo (S8-S9,S11), Retrofied (S8,S14-S15), Dargxn (S10-S12), Dredex (S10,S12-S13), Zcin (S14-S16), Captinn (S15-S17), GeniRCT (S15-S17), PwincessVanessa (S15-S16,S18), Flcnt (S16-S18)
 
@@ -578,7 +578,7 @@
 ---
 ### Debutants
 
-**S1 (30):** ADinoPlayingMC, AustynUHC, AyeeSammy, AznNinja, BaconIV, BigJedo, collowollo, DarkType_, DevoyTTV, DiarWolfe, dontbow, Dorsi, drewxd, EmnossGoalz, FalseMoon, Heddit, ImChile, ItsMarine, ItsShqky, Moonlitess, Nykonax, OkayEvan, Platys, PotteryTNT, Strobez, stupidsylvia, TayUHC, ThisIsHab, xSemiCollin, Zoroh
+**S1 (30):** ADinoPlayingMC, AustynUHC, AyeeSammy, BaconIV, BigJedo, CelestialReira, collowollo, DarkType_, DevoyTTV, DiarWolfe, dontbow, Dorsi, drewxd, EmnossGoalz, FalseMoon, Heddit, ImChile, ItsMarine, ItsShqky, Moonlitess, Nykonax, OkayEvan, Platys, PotteryTNT, Strobez, stupidsylvia, TayUHC, ThisIsHab, xSemiCollin, Zoroh
 
 **S2 (8):** CrimsonTyler, FlawlessAerial, HDOP, HeyImAqua, ImYolo_, MemeClient, Sc1z, xCold
 

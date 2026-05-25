@@ -141,7 +141,7 @@
 
 **1st - Greninja (27):** Gleoss (S1), gmailol (S2), CipherKai (S2), Divina (S2), Lnarz (S2), acadiangel (S3), ColdBac (S3), Normoh (S3), peppermint (S3), mxrwzndood (S3), 0HDM (S4), dahii (S4), JKJK (S4), Slooshybunion (S4), Zoroh (S4), Papajulian (S4), Spikemc (S4), Coastland (S5), jollyaid (S5), peppermint (S5), TOOOTH (S5), MaxCringe (S5), nsi9 (S5), acadiangel (S6), Gleoss (S6), HARRYWIFAGLOCK (S6), Qndres (S6)
 
-**2nd - Zoroh (13):** AiroKun (S1), Flexur (S1), Lach (S1), TOOOTH (S1), Upraise (S1), fruitberries (S2), JKJK (S2), PizzqWithAQ (S2), PupperKun (S2), rodfather (S2), sealmp4 (S2), swishduck (S2), SWORDIFYY (S4)
+**2nd - Zoroh (13):** AiroKun (S1), Flexur (S1), Lach (S1), TOOOTH (S1), Upraise (S1), fruitberries (S2), JKJK (S2), PizzaWithAQ (S2), PupperKun (S2), rodfather (S2), sealmp4 (S2), swishduck (S2), SWORDIFYY (S4)
 
 **3rd - zewgle (12):** AbsolutelyAlpha (S1), acadiangel (S1), Austronomical (S1), Evader22 (S1), xShatter (S1), sweatgod (S1), spittoon (S4), Zamtrios (S4), decembs (S5), Kurokoo (S7), flameorb (S7), Flowtives (S7)
 
@@ -179,7 +179,7 @@
 
 **19th - rodfather (4):** dahii (S1), fruitberries (S1), Austronomical (S2), NotMyLights (S2)
 
-**19th - Zamtrios (4):** PizzqWithAQ (S1), ColdBac (S4), LUCRODIUM (S4), PupperKun (S4)
+**19th - Zamtrios (4):** PizzaWithAQ (S1), ColdBac (S4), LUCRODIUM (S4), PupperKun (S4)
 
 **22nd - AiroKun (3):** gmailol (S1), spittoon (S1), Sephics (S1)
 
@@ -261,14 +261,14 @@
 
 **3 Seasons (15):** AbsolutelyAlpha (S1-S3), ben_noodle (S1,S3-S4), dontbow (S1-S3), gmailol (S1-S3), MaxCringe (S1-S2,S5), spoood (S1-S2,S5), Strikeroonie (S1-S3), Upraise (S1-S2,S5), xShatter (S1-S2,S4), ColdBac (S2-S4), Divina (S2-S3,S6), flameh (S2-S4), nsi9 (S2-S3,S5), sealmp4 (S2-S4), Varsityy (S3-S4,S6)
 
-**2 Seasons (16):** AiroKun (S1-S2), Flexur (S1,S5), HARRYWIFAGLOCK (S1,S6), IsoLights (S1,S3), Lach (S1-S2), LilHydro (S1,S5), mxrwzndood (S1,S3), ogrechugbo (S1,S3), PizzqWithAQ (S1-S2), rodfather (S1-S2), Zamtrios (S1,S4), CipherKai (S2,S6), Lnarz (S2,S6), decembs (S3,S5), Slooshybunion (S4,S7), Coastland (S5-S6)
+**2 Seasons (16):** AiroKun (S1-S2), Flexur (S1,S5), HARRYWIFAGLOCK (S1,S6), IsoLights (S1,S3), Lach (S1-S2), LilHydro (S1,S5), mxrwzndood (S1,S3), ogrechugbo (S1,S3), PizzaWithAQ (S1-S2), rodfather (S1-S2), Zamtrios (S1,S4), CipherKai (S2,S6), Lnarz (S2,S6), decembs (S3,S5), Slooshybunion (S4,S7), Coastland (S5-S6)
 
 **1 Season (26):** automavic (S1), Bznjam (S1), DraqonZ (S1), Evader22 (S1), itsLuxray (S1), PIGG_LET (S1), RaiN_DyNasty (S1), Sephics (S1), Siddles (S2), swishduck (S2), colbay (S3), dxussatdood (S3), RemyChingling (S3), ScottPirie (S4), SWORDIFYY (S4), Mentally (S5), SLICCYY (S5), Caydone (S7), Flowtives (S7), Jorgeeay (S7), Kurokoo (S7), PingBomb (S7), PoofessorP (S7), St0rmplayz (S7), TeamList (S7), urboibrocko (S7)
 
 ---
 ### Debutants
 
-**S1 (56):** 0HDM, AbsolutelyAlpha, acadiangel, AiroKun, Austronomical, automavic, ben_noodle, brinkwhy, Bznjam, checog, dahii, dontbow, DraqonZ, Evader22, flameorb, Flexur, fruitberries, Gleoss, gmailol, Greninja, HARRYWIFAGLOCK, IsoLights, itsLuxray, IZUR, JKJK, jollyaid, KELCOS, Lach, LilHydro, LUCRODIUM, m4ku, MaxCringe, mxrwzndood, Normoh, NotMyLights, ogrechugbo, Papajulian, peppermint, PIGG_LET, PizzqWithAQ, PupperKun, Qndres, RaiN_DyNasty, rodfather, Sephics, Spikemc, spittoon, spoood, Strikeroonie, sweatgod, TOOOTH, Upraise, xShatter, Zamtrios, zewgle, Zoroh
+**S1 (56):** 0HDM, AbsolutelyAlpha, acadiangel, AiroKun, Austronomical, automavic, ben_noodle, brinkwhy, Bznjam, checog, dahii, dontbow, DraqonZ, Evader22, flameorb, Flexur, fruitberries, Gleoss, gmailol, Greninja, HARRYWIFAGLOCK, IsoLights, itsLuxray, IZUR, JKJK, jollyaid, KELCOS, Lach, LilHydro, LUCRODIUM, m4ku, MaxCringe, mxrwzndood, Normoh, NotMyLights, ogrechugbo, Papajulian, peppermint, PIGG_LET, PizzaWithAQ, PupperKun, Qndres, RaiN_DyNasty, rodfather, Sephics, Spikemc, spittoon, spoood, Strikeroonie, sweatgod, TOOOTH, Upraise, xShatter, Zamtrios, zewgle, Zoroh
 
 **S2 (9):** CipherKai, ColdBac, Divina, flameh, Lnarz, nsi9, sealmp4, Siddles, swishduck
 

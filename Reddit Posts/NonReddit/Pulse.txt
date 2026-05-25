@@ -41,7 +41,7 @@
 
 **S4:** TotallyNotSirius (3)
 
-**S5:** PAHBLO (5)
+**S5:** TrentxS (5)
 
 **S6:** ItzBliz (7)
 
@@ -56,7 +56,7 @@
 
 **S4:** ClubPlayz (2), Xeru__ (1) & Finnage (0), TotallyNotSirius (3)
 
-**S5:** PAHBLO (5), xTranslucenTx (3)
+**S5:** TrentxS (5), xTranslucenTx (3)
 
 **S6:** Dwarf_Ninja44 (2), ItzBliz (7)
 
@@ -123,9 +123,9 @@
 ---
 ### Kills
 
-**1st - ItzBliz (7):** xBitFusion (S6), PAHBLO (S6), Finnage (S6), VirtualVendetta (S6), MWiatrak (S6), JahMuis (S6), Zyphalopagus (S6)
+**1st - ItzBliz (7):** xBitFusion (S6), TrentxS (S6), Finnage (S6), VirtualVendetta (S6), MWiatrak (S6), JahMuis (S6), Zyphalopagus (S6)
 
-**2nd - PAHBLO (5):** VirtualVendetta (S5), YaojaDzn (S5), pizzaisland (S5), Thanatos (S5), Zyphalopagus (S5)
+**2nd - TrentxS (5):** VirtualVendetta (S5), YaojaDzn (S5), pizzaisland (S5), Thanatos (S5), Zyphalopagus (S5)
 
 **3rd - ChickenPlays (3):** Xeru__ (S4), xTranslucenTx (S5), Meven (S5)
 
@@ -167,7 +167,7 @@
 
 **15th - minerlife (1):** RavenJD (S3)
 
-**15th - TDotKILLA905 (1):** PAHBLO (S5)
+**15th - TDotKILLA905 (1):** TrentxS (S5)
 
 **15th - Wigglin_Pandazz (1):** TotallyNotSirius (S5)
 
@@ -203,7 +203,7 @@
 
 **3 Seasons (2):** Kaismartypants (S3-S4,S6), VirtualVendetta (S3,S5-S6)
 
-**2 Seasons (10):** Flacce (S2-S3), HuntsiiYT (S2,S4), Ravkindred (S2,S4), ChickenPlays (S4-S5), ClubPlayz (S4-S5), Finnage (S4,S6), TotallyNotSirius (S4-S5), xTranslucenTx (S4-S5), YepItsJustDirt (S4,S6), PAHBLO (S5-S6)
+**2 Seasons (10):** Flacce (S2-S3), HuntsiiYT (S2,S4), Ravkindred (S2,S4), ChickenPlays (S4-S5), ClubPlayz (S4-S5), Finnage (S4,S6), TotallyNotSirius (S4-S5), xTranslucenTx (S4-S5), YepItsJustDirt (S4,S6), TrentxS (S5-S6)
 
 **1 Season (32):** Aldinyx (S1), BananaPoni (S1), TheGamerKid3 (S1), Troy805 (S1), ValidVoid (S1), XloreX (S1), Hentopop (S2), JSpruce (S2), SnoolDool (S2), BattleMasterRex (S3), Brogs (S3), Levrez (S3), minerlife (S3), NiallGames (S3), RavenJD (S3), unknown0009 (S3), Xeru__ (S4), Egth (S5), GamesToJump (S5), Meven (S5), NessStarStorm (S5), pizzaisland (S5), TDotKILLA905 (S5), Wigglin_Pandazz (S5), xJesterrr (S5), YaojaDzn (S5), Dwarf_Ninja44 (S6), JahMuis (S6), MWiatrak (S6), Myamco (S6), tholn (S6), xBitFusion (S6)
 
@@ -218,7 +218,7 @@
 
 **S4 (7):** ChickenPlays, ClubPlayz, Finnage, TotallyNotSirius, Xeru__, xTranslucenTx, YepItsJustDirt
 
-**S5 (10):** Egth, GamesToJump, Meven, NessStarStorm, PAHBLO, pizzaisland, TDotKILLA905, Wigglin_Pandazz, xJesterrr, YaojaDzn
+**S5 (10):** Egth, GamesToJump, Meven, NessStarStorm, pizzaisland, TDotKILLA905, TrentxS, Wigglin_Pandazz, xJesterrr, YaojaDzn
 
 **S6 (6):** Dwarf_Ninja44, JahMuis, MWiatrak, Myamco, tholn, xBitFusion
 

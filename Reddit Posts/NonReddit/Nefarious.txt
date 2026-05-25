@@ -28,7 +28,7 @@
 
 **S3:** Trevmeister_ (4), Zoroh (7)
 
-**S4:** TastyMilk (0)
+**S4:** PrattBN (0)
 
 **S5:** CraftingMagicYT (1), DukieJr (0), hawkiskwah (0), Weak (0)
 
@@ -159,11 +159,11 @@
 
 **2nd - FlawlessAerial (10):** Zivster (S1), collowollo (S1), cglucero32 (S1), CloseYourLegs (S1), HDOP (S1), xBocaj (S5), DukieJr (S5), Ormax (S7), CallMeBqse (S8), collowollo (S8)
 
-**2nd - HDOP (10):** Gamernety (S1), Jeezh (S1), FlawlessAerial (S2), CheeseJamez (S2), JoshC2 (S6), Jorgeeay (S7), St0rmplayz (S7), BigJedo (S7), Slaybate (S7), ronanci (S7)
+**2nd - HDOP (10):** Gamernety (S1), Jeezh (S1), FlawlessAerial (S2), CheeseJay (S2), JoshC2 (S6), Jorgeeay (S7), St0rmplayz (S7), BigJedo (S7), Slaybate (S7), ronanci (S7)
 
-**2nd - Ormax (10):** DarkType (S4), SaylerSomething (S4), JoshC2 (S4), DatGuyAdam (S5), hawkiskwah (S5), CraftingMagicYT (S5), CheeseJamez (S6), HDOP (S6), Sneaky26 (S7), CloseYourLegs (S7)
+**2nd - Ormax (10):** DarkType (S4), SaylerSomething (S4), JoshC2 (S4), DatGuyAdam (S5), hawkiskwah (S5), CraftingMagicYT (S5), CheeseJay (S6), HDOP (S6), Sneaky26 (S7), CloseYourLegs (S7)
 
-**5th - TwistedGoose (9):** chrisgames2k (S4), The_Left_ClickYT (S4), CheeseJamez (S4), xNKS (S4), CloseYourLegs (S4), BreakfastBacon (S4), HeyImAqua (S4), RedditPlayer (S4), TastyMilk (S4)
+**5th - TwistedGoose (9):** chrisgames2k (S4), The_Left_ClickYT (S4), CheeseJay (S4), xNKS (S4), CloseYourLegs (S4), BreakfastBacon (S4), HeyImAqua (S4), RedditPlayer (S4), PrattBN (S4)
 
 **6th - SwiftnessXVI (8):** mikeydrox (S3), DoubleHitGod (S3), Zoroh (S3), Sneaky26 (S6), RecklessCombo (S6), DatGuyAdam (S8), TheLuckyAsian (S8), ADinoPlayingMC (S8)
 
@@ -171,15 +171,15 @@
 
 **8th - BigJedo (5):** Aioda (S3), MemeClient (S3), FlawlessAerial (S3), JohnzRIP (S7), Slooshyy (S7)
 
-**8th - collowollo (5):** CheeseJamez (S8), Sneaky26 (S8), HDOP (S8), Evankas (S8), CloseYourLegs (S8)
+**8th - collowollo (5):** CheeseJay (S8), Sneaky26 (S8), HDOP (S8), Evankas (S8), CloseYourLegs (S8)
 
 **8th - DatGuyAdam (5):** Slaybate (S5), Dragon_Vapes (S6), DevoyTTV (S8), Slooshyy (S8), DaddyFaetrix (S8)
 
 **11th - Trevmeister_ (4):** SaylerSomething (S3), TrainerHaz (S3), DarkType (S3), Oh_No_Potato (S3)
 
-**12th - DarkType (3):** CheeseJamez (S1), ToxicGapple (S3), Cxypinn (S3)
+**12th - DarkType (3):** CheeseJay (S1), ToxicGapple (S3), Cxypinn (S3)
 
-**12th - Oh_No_Potato (3):** Istrafess (S3), Jareddddd (S3), CheeseJamez (S3)
+**12th - Oh_No_Potato (3):** Istrafess (S3), Jareddddd (S3), CheeseJay (S3)
 
 **12th - PolarUHC (3):** racer59 (S2), CloseYourLegs (S2), Cxypinn (S2)
 
@@ -187,7 +187,7 @@
 
 **16th - BanditoUHC (2):** IcePost (S2), Koryyy (S2)
 
-**16th - CallMeBqse (2):** TastyMilk (S7), Unfightable (S8)
+**16th - CallMeBqse (2):** PrattBN (S7), Unfightable (S8)
 
 **16th - chrisgames2k (2):** racer59 (S4), ItsShqky (S5)
 
@@ -217,7 +217,7 @@
 
 **29th - braidenOW (1):** iChance_ (S2)
 
-**29th - CheeseJamez (1):** DarkType (S1)
+**29th - CheeseJay (1):** DarkType (S1)
 
 **29th - CraftingMagicYT (1):** HeyImAqua (S5)
 
@@ -258,7 +258,7 @@
 
 **Explosion (2):** dnkin (S3), NefarialPhantom (S5)
 
-**Cave Spider (1):** CheeseJamez (S5)
+**Cave Spider (1):** CheeseJay (S5)
 
 **Lava (1):** CallMeBqse (S7)
 
@@ -269,7 +269,7 @@
 
 **8 Seasons (1):** FlawlessAerial (S1-S8)
 
-**7 Seasons (2):** CheeseJamez (S1-S6,S8), CloseYourLegs (S1-S4,S6-S8)
+**7 Seasons (2):** CheeseJay (S1-S6,S8), CloseYourLegs (S1-S4,S6-S8)
 
 **6 Seasons (2):** HDOP (S1-S2,S5-S8), JoshC2 (S3-S8)
 
@@ -279,20 +279,20 @@
 
 **3 Seasons (6):** Cxypinn (S1-S3), DarkType (S1,S3-S4), racer59 (S2-S4), SaylerSomething (S2-S4), chrisgames2k (S4-S6), DaddyFaetrix (S6-S8)
 
-**2 Seasons (17):** PolarUHC (S1-S2), xHalfMoon (S1-S2), Aioda (S3,S6), BigJedo (S3,S7), dnkin (S3,S8), BreakfastBacon (S4-S5), HeyImAqua (S4-S5), TastyMilk (S4,S7), xNKS (S4-S5), ADinoPlayingMC (S5,S8), ItsShqky (S5,S8), Slaybate (S5,S7), St0rmplayz (S5,S7), CrimsonTW (S6-S7), CallMeBqse (S7-S8), DBoss (S7-S8), Slooshyy (S7-S8)
+**2 Seasons (17):** PolarUHC (S1-S2), xHalfMoon (S1-S2), Aioda (S3,S6), BigJedo (S3,S7), dnkin (S3,S8), BreakfastBacon (S4-S5), HeyImAqua (S4-S5), PrattBN (S4,S7), xNKS (S4-S5), ADinoPlayingMC (S5,S8), ItsShqky (S5,S8), Slaybate (S5,S7), St0rmplayz (S5,S7), CrimsonTW (S6-S7), CallMeBqse (S7-S8), DBoss (S7-S8), Slooshyy (S7-S8)
 
 **1 Season (62):** cglucero32 (S1), Dilll_Pickle (S1), ElementalAura (S1), Gamernety (S1), Jeezh (S1), Teppelin (S1), Zivster (S1), BanditoUHC (S2), braidenOW (S2), IcePost (S2), iChance_ (S2), karsy (S2), Koryyy (S2), Nones (S2), Blacxican (S3), Blazar (S3), brinkwhy (S3), DoubleHitGod (S3), FredTheWiz (S3), iHazer (S3), Istrafess (S3), Jareddddd (S3), markbom (S3), MemeClient (S3), mikeydrox (S3), MindYourBiz (S3), Oh_No_Potato (S3), SeeLion (S3), Shadowiest (S3), ToxicGapple (S3), TrainerHaz (S3), Trevmeister_ (S3), JustLethal (S4), RamenKatsu (S4), RedditPlayer (S4), The_Left_ClickYT (S4), TwistedGoose (S4), CraftingMagicYT (S5), dontbow (S5), DukieJr (S5), GodlyGoomys (S5), hawkiskwah (S5), krustycrab (S5), MarinePlays (S5), NefarialPhantom (S5), Weak (S5), xBocaj (S5), Dragon_Vapes (S6), RecklessCombo (S6), SuPEraLeX2222 (S6), bh1747 (S7), JohnzRIP (S7), Jorgeeay (S7), ronanci (S7), TheZombeeFreek (S7), yuhFazz (S7), DevoyTTV (S8), Evankas (S8), ItsMarine (S8), TheLuckyAsian (S8), Unfightable (S8), yuhFaz (S8)
 
 ---
 ### Debutants
 
-**S1 (16):** cglucero32, CheeseJamez, CloseYourLegs, collowollo, Cxypinn, DarkType, Dilll_Pickle, ElementalAura, FlawlessAerial, Gamernety, HDOP, Jeezh, PolarUHC, Teppelin, xHalfMoon, Zivster
+**S1 (16):** cglucero32, CheeseJay, CloseYourLegs, collowollo, Cxypinn, DarkType, Dilll_Pickle, ElementalAura, FlawlessAerial, Gamernety, HDOP, Jeezh, PolarUHC, Teppelin, xHalfMoon, Zivster
 
 **S2 (10):** BanditoUHC, braidenOW, IcePost, iChance_, karsy, Koryyy, Nones, racer59, SaylerSomething, Zoroh
 
 **S3 (25):** Aioda, BigJedo, Blacxican, Blazar, brinkwhy, dnkin, DoubleHitGod, FredTheWiz, iHazer, Istrafess, Jareddddd, JoshC2, markbom, MemeClient, mikeydrox, MindYourBiz, Oh_No_Potato, Ormax, SeeLion, Shadowiest, Sneaky26, SwiftnessXVI, ToxicGapple, TrainerHaz, Trevmeister_
 
-**S4 (10):** BreakfastBacon, chrisgames2k, HeyImAqua, JustLethal, RamenKatsu, RedditPlayer, TastyMilk, The_Left_ClickYT, TwistedGoose, xNKS
+**S4 (10):** BreakfastBacon, chrisgames2k, HeyImAqua, JustLethal, PrattBN, RamenKatsu, RedditPlayer, The_Left_ClickYT, TwistedGoose, xNKS
 
 **S5 (15):** ADinoPlayingMC, CraftingMagicYT, DatGuyAdam, dontbow, DukieJr, GodlyGoomys, hawkiskwah, ItsShqky, krustycrab, MarinePlays, NefarialPhantom, Slaybate, St0rmplayz, Weak, xBocaj
 

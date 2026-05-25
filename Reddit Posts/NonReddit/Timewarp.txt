@@ -16,7 +16,7 @@
 
 **S2:** _Txchno_ (2), BigJedo (4), BlackPants (1), Portless (0)
 
-**S3:** CheeseJamez (2), PotteryTNT (0)
+**S3:** CheeseJay (2), PotteryTNT (0)
 
 ---
 ### Most Kills
@@ -81,7 +81,7 @@
 
 **3rd - BigJedo (4):** Tawvo (S2), xXMaximusMC (S2), Jaysonn (S2), AvyleZ (S2)
 
-**3rd - BlackPants (4):** Blarkslol (S2), CheeseJamez (S3), xXMaximusMC (S3), TehBaconBrawlerZ (S3)
+**3rd - BlackPants (4):** Blarkslol (S2), CheeseJay (S3), xXMaximusMC (S3), TehBaconBrawlerZ (S3)
 
 **3rd - Blarkslol (4):** Moonlitess (S1), Truzoi (S1), _Txchno_ (S1), ImChile (S2)
 
@@ -91,7 +91,7 @@
 
 **8th - AvyleZ (2):** _Txchno_ (S2), Portless (S2)
 
-**8th - CheeseJamez (2):** Stravilight (S3), Moonlitess (S3)
+**8th - CheeseJay (2):** Stravilight (S3), Moonlitess (S3)
 
 **8th - Cristehn (2):** DevoyTTV (S1), Portless (S1)
 
@@ -137,7 +137,7 @@
 
 **2 Seasons (11):** AvyleZ (S1-S2), BigJedo (S1-S2), Blarkslol (S1-S2), broccoliar (S1-S2), egl_ (S1-S2), Hendysaurus (S1,S3), Portless (S1-S2), PwincessVanessa (S1-S2), Truzoi (S1-S2), MainAgate5 (S2-S3), TehBaconBrawlerZ (S2-S3)
 
-**1 Season (24):** Cristehn (S1), DevoyTTV (S1), Escharotic (S1), JamestheDouglas (S1), Nyzian (S1), poWpaH (S1), TaperTurtle (S1), Xert12 (S1), Zunair (S1), hashtagmat (S2), ImChile (S2), ItsShqky (S2), Jaysonn (S2), kawaiibunri (S2), OCTAMAN (S2), Pelycosaur (S2), Tawvo (S2), CheeseJamez (S3), Cqson (S3), David63 (S3), Flcnt (S3), MangoPlayz (S3), PotteryTNT (S3), Stravilight (S3)
+**1 Season (24):** Cristehn (S1), DevoyTTV (S1), Escharotic (S1), JamestheDouglas (S1), Nyzian (S1), poWpaH (S1), TaperTurtle (S1), Xert12 (S1), Zunair (S1), hashtagmat (S2), ImChile (S2), ItsShqky (S2), Jaysonn (S2), kawaiibunri (S2), OCTAMAN (S2), Pelycosaur (S2), Tawvo (S2), CheeseJay (S3), Cqson (S3), David63 (S3), Flcnt (S3), MangoPlayz (S3), PotteryTNT (S3), Stravilight (S3)
 
 ---
 ### Debutants
@@ -146,6 +146,6 @@
 
 **S2 (10):** hashtagmat, ImChile, ItsShqky, Jaysonn, kawaiibunri, MainAgate5, OCTAMAN, Pelycosaur, Tawvo, TehBaconBrawlerZ
 
-**S3 (7):** CheeseJamez, Cqson, David63, Flcnt, MangoPlayz, PotteryTNT, Stravilight
+**S3 (7):** CheeseJay, Cqson, David63, Flcnt, MangoPlayz, PotteryTNT, Stravilight
 
 ---

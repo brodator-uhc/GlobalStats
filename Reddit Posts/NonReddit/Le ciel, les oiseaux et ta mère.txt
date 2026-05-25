@@ -1,32 +1,32 @@
-## Le ciel, les oiseaux et ta mere Statistics
+## Le ciel, les oiseaux et ta mère Statistics
 
 ---
 ### Winners
 
-**S1: MC_Ika (6), nemenems (4)**, *aypierre (2)*
+**S1: MC_Ika (7), nemenems (5)**, *aypierre (2)*
 
-**S2: CedGhoss (6), Libe_ (1)**, *Seraleme (0)*
+**S2: CedGhoss (8), Libe_ (1)**, *Seraleme (0)*
 
 ---
 ### Runner Ups
 
-**S1:** MrKzac (0), Orlox (0), Xraider70 (0)
+**S1:** MrKzac (0), Orlox (0), Xraider70 (1)
 
 **S2:** NNeko_ (2), Zeprof2phylo (0), ZeprofdAplats (0)
 
 ---
 ### Most Kills
 
-**S1:** MC_Ika (6)
+**S1:** MC_Ika (7)
 
-**S2:** CedGhoss (6)
+**S2:** CedGhoss (8)
 
 ---
 ### Most Kills (Team)
 
-**S1:** MC_Ika (6), aypierre (2), nemenems (4)
+**S1:** MC_Ika (7), aypierre (2), nemenems (5)
 
-**S2:** CedGhoss (6), Libe_ (1), Seraleme (0)
+**S2:** CedGhoss (8), Libe_ (1), Seraleme (0)
 
 ---
 ### First Damage
@@ -59,25 +59,25 @@
 ---
 ### Kills
 
-**1st - CedGhoss (6):** Frigiel (S2), Fukano (S2), Guep (S2), Wolf381 (S2), JimmyB0yyy (S2), Daiko (S2)
+**1st - CedGhoss (8):** Frigiel (S2), Fukano (S2), Guep (S2), Wolf381 (S2), JimmyB0yyy (S2), nemenems (S2), Daiko (S2), MathoX (S2)
 
-**1st - MC_Ika (6):** Cizayoxy (S1), As2piK (S1), DoJiN_972 (S1), Sili (S1), Aurelien_Sama (S1), Xraider70 (S1)
+**2nd - MC_Ika (7):** Cizayoxy (S1), As2piK (S1), DoJiN_972 (S1), Skillnez (S1), Sili (S1), Aurelien_Sama (S1), Xraider70 (S1)
 
-**3rd - nemenems (5):** Priiceobscur (S1), Newtiteuf (S1), Loupio66 (S1), Edorock (S1), EpeeForte (S2)
+**3rd - nemenems (6):** ChooseAGame (S1), Priiceobscur (S1), Newtiteuf (S1), Loupio66 (S1), Edorock (S1), EpeeForte (S2)
 
 **4th - aypierre (4):** Etoiles (S1), Shadoune666 (S1), EthaansR (S2), Fleeky (S2)
 
-**5th - Daiko (3):** ZeprofdAplats (S2), Zeprof2phylo (S2), Etoiles (S2)
+**4th - Daiko (4):** ZeprofdAplats (S2), Zeprof2phylo (S2), Etoiles (S2), Shadoune666 (S2)
 
-**6th - Edorock (2):** EpeeForte (S1), EthaansR (S1)
+**6th - Shadoune666 (3):** zeprof2dessin (S1), ZeProf2Math (S1), Dezd (S1)
 
-**6th - NNeko_ (2):** Wotan83 (S2), Astrxuh (S2)
+**6th - Skillnez (3):** zeprof10toir (S1), MrBboy45 (S1), Toteub (S1)
 
-**6th - Shadoune666 (2):** zeprof2dessin (S1), Dezd (S1)
+**8th - Edorock (2):** EpeeForte (S1), EthaansR (S1)
 
-**6th - Sili (2):** JirayaTV (S1), aypierre (S1)
+**8th - NNeko_ (2):** Wotan83 (S2), Astrxuh (S2)
 
-**6th - Skillnez (2):** zeprof10toir (S1), Toteub (S1)
+**8th - Sili (2):** JirayaTV (S1), aypierre (S1)
 
 **11th - Aurelien_Sama (1):** redikz (S1)
 
@@ -89,16 +89,18 @@
 
 **11th - Libe_ (1):** NNeko_ (S2)
 
+**11th - MathoX (1):** TheGuill84 (S2)
+
 **11th - Rath07 (1):** Fukano (S1)
 
 **11th - Wolf381 (1):** Seraleme (S2)
 
+**11th - Xraider70 (1):** Rath07 (S1)
+
 ---
 ### PvE Deaths
 
-**Death (7):** ZeProf2Math (S1), MrBboy45 (S1), ChooseAGame (S1), MrKzac (S1), Skillnez (S1), Rath07 (S1), MathoX (S2)
-
-**Fall (3):** TheGuill84 (S2), Shadoune666 (S2), nemenems (S2)
+**Death (1):** MrKzac (S1)
 
 **Suffocation (1):** Orlox (S1)
 

@@ -45,23 +45,23 @@
 ---
 ### First Blood
 
-**S1:** PAHBLO (xTranslucenTx)
+**S1:** TrentxS (xTranslucenTx)
 
 **S2:** Big_Z60 (OverlordMike)
 
 ---
 ### First Death
 
-**S1:** xTranslucenTx (PAHBLO)
+**S1:** xTranslucenTx (TrentxS)
 
 **S2:** OverlordMike (Big_Z60)
 
 ---
 ### Kills
 
-**1st - Big_Z60 (5):** DyeItTight (S1), PAHBLO (S1), LightningSpark7 (S1), Building_Filmz (S1), OverlordMike (S2)
+**1st - Big_Z60 (5):** DyeItTight (S1), TrentxS (S1), LightningSpark7 (S1), Building_Filmz (S1), OverlordMike (S2)
 
-**2nd - FearlessRedhawk (4):** YaojaDzn (S2), LqndSlide (S2), Kaismartypants (S2), KingChrom (S2)
+**2nd - FearlessRedhawk (4):** YaojaDzn (S2), lqndslide (S2), Kaismartypants (S2), KingChrom (S2)
 
 **2nd - Fygedew (4):** Grizlocke (S2), NetherrRush (S2), IceMan8030 (S2), JahMuis (S2)
 
@@ -71,7 +71,7 @@
 
 **4th - NetherrRush (2):** NiallGames (S1), Big_Z60 (S2)
 
-**4th - PAHBLO (2):** xTranslucenTx (S1), IzunaLoli (S1)
+**4th - TrentxS (2):** xTranslucenTx (S1), IzunaLoli (S1)
 
 **8th - Building_Filmz (1):** NetherrRush (S1)
 
@@ -93,13 +93,13 @@
 
 **2 Seasons (5):** Big_Z60 (S1-S2), DyeItTight (S1-S2), FazedMC (S1-S2), JahMuis (S1-S2), NetherrRush (S1-S2)
 
-**1 Season (21):** BlitzKingMC (S1), Building_Filmz (S1), Etality (S1), IzunaLoli (S1), LightningSpark7 (S1), Natural44 (S1), NessStarStorm (S1), NiallGames (S1), PAHBLO (S1), xBitFusion (S1), xTranslucenTx (S1), FearlessRedhawk (S2), Fygedew (S2), Grizlocke (S2), IceMan8030 (S2), Kaismartypants (S2), KingChrom (S2), LqndSlide (S2), MrJokkii (S2), OverlordMike (S2), YaojaDzn (S2)
+**1 Season (21):** BlitzKingMC (S1), Building_Filmz (S1), Etality (S1), IzunaLoli (S1), LightningSpark7 (S1), Natural44 (S1), NessStarStorm (S1), NiallGames (S1), TrentxS (S1), xBitFusion (S1), xTranslucenTx (S1), FearlessRedhawk (S2), Fygedew (S2), Grizlocke (S2), IceMan8030 (S2), Kaismartypants (S2), KingChrom (S2), lqndslide (S2), MrJokkii (S2), OverlordMike (S2), YaojaDzn (S2)
 
 ---
 ### Debutants
 
-**S1 (16):** Big_Z60, BlitzKingMC, Building_Filmz, DyeItTight, Etality, FazedMC, IzunaLoli, JahMuis, LightningSpark7, Natural44, NessStarStorm, NetherrRush, NiallGames, PAHBLO, xBitFusion, xTranslucenTx
+**S1 (16):** Big_Z60, BlitzKingMC, Building_Filmz, DyeItTight, Etality, FazedMC, IzunaLoli, JahMuis, LightningSpark7, Natural44, NessStarStorm, NetherrRush, NiallGames, TrentxS, xBitFusion, xTranslucenTx
 
-**S2 (10):** FearlessRedhawk, Fygedew, Grizlocke, IceMan8030, Kaismartypants, KingChrom, LqndSlide, MrJokkii, OverlordMike, YaojaDzn
+**S2 (10):** FearlessRedhawk, Fygedew, Grizlocke, IceMan8030, Kaismartypants, KingChrom, lqndslide, MrJokkii, OverlordMike, YaojaDzn
 
 ---

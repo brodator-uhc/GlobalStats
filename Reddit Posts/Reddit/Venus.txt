@@ -173,9 +173,9 @@
 
 **1st - Kassiie (26):** dRawry (S1), Chessa (S1), Soshikun (S1), wowjennawow (S2), Phoebe (S2), wowjennawow (S3), dRawry (S4), Jaceyy (S4), Dida (S4), Chessa (S4), tagggz (S5), warriorcat (S5), Anorable (S5), cynnamon (S5), DianaB (S5), trillibytes (S6), kalleina (S6), CocoBenja (S6), tagggz (S6), GeniRCT (S8), Alisa_Muffins (S8), Charrlottie (S9), DianaB (S9), Dawncy (S9), wibbol (S9), tagggz (S9)
 
-**2nd - lexicuhl (15):** Starflash (S2), Jazcat (S2), EighteenQs (S3), DianaB (S3), cynnamon (S3), xMadisonx (S3), Aqualox (S3), sonmica (S3), wibbol (S6), Kassiie (S7), Dj8ninja (S7), wibbol (S8), Kassiie (S8), Klickacat (S9), NajaOxiana (S9)
+**2nd - lexicuhl (15):** Starflash (S2), Jazcat (S2), EighteenQs (S3), DianaB (S3), cynnamon (S3), xMadisonx (S3), izunai (S3), sonmica (S3), wibbol (S6), Kassiie (S7), Dj8ninja (S7), wibbol (S8), Kassiie (S8), Klickacat (S9), NajaOxiana (S9)
 
-**3rd - tagggz (13):** chloesad (S4), Aqualox (S4), Starflash (S4), cynnamon (S4), warriorcat (S4), Prisma (S5), Jaceyy (S5), NajaOxiana (S5), tiffaroni (S9), abigail (S9), nFang (S9), Prisma (S9), Dida (S9)
+**3rd - tagggz (13):** chloesad (S4), izunai (S4), Starflash (S4), cynnamon (S4), warriorcat (S4), Prisma (S5), Jaceyy (S5), NajaOxiana (S5), tiffaroni (S9), abigail (S9), nFang (S9), Prisma (S9), Dida (S9)
 
 **4th - dRawry (10):** cynnamon (S2), Kassiie (S2), KatyLawson (S3), Soshikun (S3), lexicuhl (S3), PhantomPuppet (S4), lexicuhl (S4), chloesad (S5), trillibytes (S5), Kassiie (S5)
 
@@ -251,7 +251,7 @@
 
 **3 Seasons (7):** KatyLawson (S1-S3), wowjennawow (S2-S4), chloesad (S4-S5,S7), Dida (S4-S5,S9), Alisa_Muffins (S7-S9), Dawncy (S7-S9), nFang (S7-S9)
 
-**2 Seasons (12):** Phoebe (S1-S2), sonmica (S1,S3), Soshikun (S1,S3), Starflash (S2,S4), xMadisonx (S2-S3), Aqualox (S3-S4), Jaceyy (S4-S5), RosiePlays_YT (S5,S7), trillibytes (S5-S6), daltcn (S7,S9), Dj8ninja (S7,S9), GeniRCT (S7-S8)
+**2 Seasons (12):** Phoebe (S1-S2), sonmica (S1,S3), Soshikun (S1,S3), Starflash (S2,S4), xMadisonx (S2-S3), izunai (S3-S4), Jaceyy (S4-S5), RosiePlays_YT (S5,S7), trillibytes (S5-S6), daltcn (S7,S9), Dj8ninja (S7,S9), GeniRCT (S7-S8)
 
 **1 Season (23):** babyhiccups (S1), Bri (S1), Geckor (S1), Leriella (S1), Zenixs (S1), Jazcat (S2), Pinnkey (S2), EighteenQs (S3), Zevulpes (S3), Kayker (S5), SofaSeven (S5), the_digs (S5), Caffeindiazepine (S7), Hefaistros (S7), NotMineProblem (S7), nsket (S7), olivieh (S7), Trinan6918 (S7), abigail (S9), Charrlottie (S9), hales (S9), Klickacat (S9), tiffaroni (S9)
 
@@ -262,7 +262,7 @@
 
 **S2 (6):** Jazcat, lexicuhl, Pinnkey, Starflash, wowjennawow, xMadisonx
 
-**S3 (4):** Aqualox, EighteenQs, kalleina, Zevulpes
+**S3 (4):** EighteenQs, izunai, kalleina, Zevulpes
 
 **S4 (5):** chloesad, Dida, Jaceyy, NajaOxiana, tagggz
 

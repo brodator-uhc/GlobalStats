@@ -59,6 +59,10 @@
 
 **S28: broccoliar (1)**, *JampoJohn (4), LightingMC (1)*
 
+**S29: grantfaker (4)**, *Kaismartypants (0)*
+
+**S30: kabobaa (3)**, *AirInAirOut (0)*
+
 ---
 ### Runner Ups
 
@@ -117,6 +121,10 @@
 **S27:** BEANJEE (2)
 
 **S28:** gmailol (2), ItsShqky (1), kabobaa (4), MichaelPlayMC (1)
+
+**S29:** boyyoo (1)
+
+**S30:** EndestroyerEpic (3), JampoJohn (2)
 
 ---
 ### Most Kills
@@ -177,6 +185,10 @@
 
 **S28:** JampoJohn, kabobaa (4)
 
+**S29:** grantfaker (4)
+
+**S30:** EndestroyerEpic, kabobaa (3)
+
 ---
 ### Most Kills (Team)
 
@@ -235,6 +247,10 @@
 **S27:** N/A
 
 **S28:** ItsShqky (1), MichaelPlayMC (1), gmailol (2), kabobaa (4)
+
+**S29:** Kaismartypants (0), grantfaker (4)
+
+**S30:** EndestroyerEpic (3), JampoJohn (2)
 
 ---
 ### First Damage
@@ -295,6 +311,10 @@
 
 **S28:** ItzBeeZ
 
+**S29:** noktime
+
+**S30:*
+
 ---
 ### Ironman
 
@@ -353,6 +373,10 @@
 **S27:** Kaismartypants
 
 **S28:** Karliffu (0:42:4)
+
+**S29:*
+
+**S30:*
 
 ---
 ### First Blood
@@ -413,6 +437,10 @@
 
 **S28:** LightingMC (Stravilight)
 
+**S29:** CodeJoshua (ScaryPumpkinFace)
+
+**S30:** EndestroyerEpic (ItzBeeZ)
+
 ---
 ### First Death
 
@@ -472,86 +500,94 @@
 
 **S28:** Stravilight (LightingMC)
 
+**S29:** ScaryPumpkinFace (CodeJoshua)
+
+**S30:** ItzBeeZ (EndestroyerEpic)
+
 ---
 ### Kills
 
-**1st - BEANJEE (33):** Recon2155 (S1), Recon2155 (S2), Caelen (S2), coows (S3), Ghostly_RLG (S3), Recon2155 (S3), BuildingBard300 (S7), Kaddyn (S7), HUQTER (S7), Glubing (S9), MinimanTurtle (S10), BuildingBard300 (S11), Hdud (S11), AshRiolu100985 (S13), Kaddyn (S13), BuildingBard300 (S15), DogOfKrondor (S16), DogOfKrondor (S17), Hdud (S17), AshRiolu100985 (S17), Hdud (S18), MinimanTurtle (S18), Hdud (S19), MinimanTurtle (S22), CAMKART100 (S24), EroseMC (S25), ItzBeeZ (S26), ScaryPumpkinFace (S26), boyyoo (S26), kabobaa (S26), gasosaurus518 (S27), ItsShqky (S27), ItsShqky (S28)
+**1st - BEANJEE (35):** Recon2155 (S1), Recon2155 (S2), Caelen (S2), coows (S3), Ghostly_RLG (S3), Recon2155 (S3), BuildingBard300 (S7), Kaddyn (S7), HUQTER (S7), Glubing (S9), MinimanTurtle (S10), BuildingBard300 (S11), Hdud (S11), AshRiolu100985 (S13), Kaddyn (S13), BuildingBard300 (S15), DogOfKrondor (S16), DogOfKrondor (S17), Hdud (S17), AshRiolu100985 (S17), Hdud (S18), MinimanTurtle (S18), Hdud (S19), MinimanTurtle (S22), CAMKART100 (S24), EroseMC (S25), ItzBeeZ (S26), ScaryPumpkinFace (S26), boyyoo (S26), kabobaa (S26), gasosaurus518 (S27), ItsShqky (S27), ItsShqky (S28), MichaelPlayMC (S30), gasosaurus518 (S30)
 
 **2nd - ItsShqky (24):** _1mmortal_ (S12), BEANJEE (S13), Recon2155 (S13), Demomaker (S13), MinimanTurtle (S15), Demomaker (S15), BEANJEE (S15), AirInAirOut (S18), CAMKART100 (S18), bayweafs (S18), HeyItsJBug (S18), Kaismartypants (S18), CAMKART100 (S21), Kaismartypants (S21), BEANJEE (S21), Hdud (S22), Recon2155 (S22), CodeJoshua (S23), CAMKART100 (S23), Kaismartypants (S23), broccoliar (S23), boyyoo (S24), Kaismartypants (S24), ShootingGoats (S28)
 
-**3rd - Kaddyn (16):** BuildingBard300 (S4), Hdud (S4), noktime (S4), Recon2155 (S6), BEANJEE (S6), Hdud (S7), AlexisTexas13 (S8), noktime (S9), Hdud (S9), MinimanTurtle (S9), noktime (S12), Caseed (S12), Glubing (S12), Recon2155 (S12), Zenithu (S12), Hdud (S13)
+**3rd - kabobaa (18):** JampoJohn (S24), AshRiolu100985 (S24), MichaelPlayMC (S24), AirInAirOut (S24), BEANJEE (S24), Recon2155 (S24), Maybe_Puffer (S26), MichaelPlayMC (S26), CAMKART100 (S26), Kaismartypants (S26), MichaelPlayMC (S27), CAMKART100 (S28), BEANJEE (S28), DevoyTTV (S28), grantfaker (S28), boyyoo (S30), EndestroyerEpic (S30), JampoJohn (S30)
 
-**4th - Hdud (15):** Aerceus (S1), BEANJEE (S1), Glubing (S2), BEANJEE (S4), Recon2155 (S7), BuildingBard300 (S9), Recon2155 (S11), Glubing (S11), Glubing (S13), ItsShqky (S14), ItsMeAR10 (S14), AshRiolu100985 (S14), ItsShqky (S16), BuildingBard300 (S16), MardenSleepover (S16)
+**4th - Kaddyn (16):** BuildingBard300 (S4), Hdud (S4), noktime (S4), Recon2155 (S6), BEANJEE (S6), Hdud (S7), AlexisTexas13 (S8), noktime (S9), Hdud (S9), MinimanTurtle (S9), noktime (S12), Caseed (S12), Glubing (S12), Recon2155 (S12), Zenithu (S12), Hdud (S13)
 
-**4th - kabobaa (15):** JampoJohn (S24), AshRiolu100985 (S24), MichaelPlayMC (S24), AirInAirOut (S24), BEANJEE (S24), Recon2155 (S24), Maybe_Puffer (S26), MichaelPlayMC (S26), CAMKART100 (S26), Kaismartypants (S26), MichaelPlayMC (S27), CAMKART100 (S28), BEANJEE (S28), DevoyTTV (S28), grantfaker (S28)
+**5th - Hdud (15):** Aerceus (S1), BEANJEE (S1), Glubing (S2), BEANJEE (S4), Recon2155 (S7), BuildingBard300 (S9), Recon2155 (S11), Glubing (S11), Glubing (S13), ItsShqky (S14), ItsMeAR10 (S14), AshRiolu100985 (S14), ItsShqky (S16), BuildingBard300 (S16), MardenSleepover (S16)
 
-**6th - CodeJoshua (10):** Glubing (S8), Kaddyn (S8), AlexisTexas13 (S10), Kaddyn (S10), noktime (S10), BuildingBard300 (S20), AshRiolu100985 (S20), AirInAirOut (S20), ItsShqky (S22), RuneTactics (S23)
+**6th - CodeJoshua (11):** Glubing (S8), Kaddyn (S8), AlexisTexas13 (S10), Kaddyn (S10), noktime (S10), BuildingBard300 (S20), AshRiolu100985 (S20), AirInAirOut (S20), ItsShqky (S22), RuneTactics (S23), ScaryPumpkinFace (S29)
 
-**6th - DevoyTTV (10):** AshRiolu100985 (S19), AirInAirOut (S19), BuildingBard300 (S19), BEANJEE (S19), kabobaa (S25), kabobaa (S27), Bornyo (S27), BEANJEE (S27), ItzBeeZ (S28), Recon2155 (S28)
+**7th - DevoyTTV (10):** AshRiolu100985 (S19), AirInAirOut (S19), BuildingBard300 (S19), BEANJEE (S19), kabobaa (S25), kabobaa (S27), Bornyo (S27), BEANJEE (S27), ItzBeeZ (S28), Recon2155 (S28)
+
+**8th - grantfaker (9):** Maybe_Puffer (S27), noktime (S27), Kaismartypants (S27), ScaryPumpkinFace (S27), MichaelPlayMC (S28), broccoliar (S29), MichaelPlayMC (S29), ItzBeeZ (S29), boyyoo (S29)
 
 **8th - noktime (9):** Recon2155 (S5), Glubing (S5), BuildingBard300 (S6), Glubing (S7), BEANJEE (S10), Caseed (S13), ItsShqky (S13), boyyoo (S27), JampoJohn (S27)
 
-**9th - CAMKART100 (6):** BuildingBard300 (S17), ShootingGoats (S26), Zenithu (S26), Ninetals38 (S26), AshRiolu100985 (S26), JampoJohn (S26)
+**10th - CAMKART100 (6):** BuildingBard300 (S17), ShootingGoats (S26), Zenithu (S26), Ninetals38 (S26), AshRiolu100985 (S26), JampoJohn (S26)
 
-**10th - AirInAirOut (5):** ItsShqky (S19), Kaismartypants (S19), CodeJoshua (S22), MardenSleepover (S22), bradchadington10 (S24)
+**10th - JampoJohn (6):** boyyoo (S28), AirInAirOut (S28), Karliffu (S28), kabobaa (S28), _ffect (S30), Kaismartypants (S30)
 
-**10th - AshRiolu100985 (5):** Demomaker (S14), Glubing (S17), BuildingBard300 (S18), BEANJEE (S18), MichaelPlayMC (S25)
+**10th - Kaismartypants (6):** HeyItsJBug (S20), BoltsInCharge (S21), CAMKART100 (S22), MichaelPlayMC (S22), CodeJoshua (S28), AirInAirOut (S30)
 
-**10th - BuildingBard300 (5):** noktime (S5), Caseed (S10), ItsShqky (S12), MichaelPlayMC (S14), Glubing (S16)
+**13th - AirInAirOut (5):** ItsShqky (S19), Kaismartypants (S19), CodeJoshua (S22), MardenSleepover (S22), bradchadington10 (S24)
 
-**10th - grantfaker (5):** Maybe_Puffer (S27), noktime (S27), Kaismartypants (S27), ScaryPumpkinFace (S27), MichaelPlayMC (S28)
+**13th - AshRiolu100985 (5):** Demomaker (S14), Glubing (S17), BuildingBard300 (S18), BEANJEE (S18), MichaelPlayMC (S25)
 
-**10th - Kaismartypants (5):** HeyItsJBug (S20), BoltsInCharge (S21), CAMKART100 (S22), MichaelPlayMC (S22), CodeJoshua (S28)
+**13th - BuildingBard300 (5):** noktime (S5), Caseed (S10), ItsShqky (S12), MichaelPlayMC (S14), Glubing (S16)
 
-**15th - BoltsInCharge (4):** Kaismartypants (S20), BEANJEE (S20), CAMKART100 (S20), CodeJoshua (S20)
+**16th - BoltsInCharge (4):** Kaismartypants (S20), BEANJEE (S20), CAMKART100 (S20), CodeJoshua (S20)
 
-**15th - Glubing (4):** BEANJEE (S5), BuildingBard300 (S8), Caseed (S11), _excuses_ (S17)
+**16th - broccoliar (4):** noktime (S23), BEANJEE (S23), gmailol (S28), noktime (S29)
 
-**15th - JampoJohn (4):** boyyoo (S28), AirInAirOut (S28), Karliffu (S28), kabobaa (S28)
+**16th - Glubing (4):** BEANJEE (S5), BuildingBard300 (S8), Caseed (S11), _excuses_ (S17)
 
-**15th - MinimanTurtle (4):** BEANJEE (S9), Recon2155 (S9), BuildingBard300 (S21), BoltsInCharge (S22)
+**16th - LightingMC (4):** Stravilight (S28), CodeJoshua (S29), _ffect (S29), DevoyTTV (S29)
 
-**15th - Pgy (4):** JampoJohn (S25), DevoyTTV (S25), boyyoo (S25), BEANJEE (S25)
+**16th - MinimanTurtle (4):** BEANJEE (S9), Recon2155 (S9), BuildingBard300 (S21), BoltsInCharge (S22)
 
-**20th - Bornyo (3):** ShootingGoats (S27), ItzBeeZ (S27), grantfaker (S27)
+**16th - Pgy (4):** JampoJohn (S25), DevoyTTV (S25), boyyoo (S25), BEANJEE (S25)
 
-**20th - broccoliar (3):** noktime (S23), BEANJEE (S23), gmailol (S28)
+**22nd - Bornyo (3):** ShootingGoats (S27), ItzBeeZ (S27), grantfaker (S27)
 
-**20th - CommanderK22_ (3):** CodeJoshua (S21), AshRiolu100985 (S21), MinimanTurtle (S21)
+**22nd - CommanderK22_ (3):** CodeJoshua (S21), AshRiolu100985 (S21), MinimanTurtle (S21)
 
-**20th - HUQTER (3):** Hdud (S3), MichaelPlayMC (S7), noktime (S7)
+**22nd - EndestroyerEpic (3):** ItzBeeZ (S30), ScaryPumpkinFace (S30), BEANJEE (S30)
 
-**20th - ItsMeAR10 (3):** BEANJEE (S14), DogOfKrondor (S15), Hdud (S15)
+**22nd - HUQTER (3):** Hdud (S3), MichaelPlayMC (S7), noktime (S7)
 
-**20th - Recon2155 (3):** Glubing (S6), ItsShqky (S24), MadamGiggles (S24)
+**22nd - ItsMeAR10 (3):** BEANJEE (S14), DogOfKrondor (S15), Hdud (S15)
 
-**26th - _1mmortal_ (2):** Codwhy (S12), BEANJEE (S12)
+**22nd - ItzBeeZ (3):** AirInAirOut (S27), BEANJEE (S29), kabobaa (S29)
 
-**26th - AlexisTexas13 (2):** Ghostly_RLG (S8), Recon2155 (S8)
+**22nd - MichaelPlayMC (3):** MinimanTurtle (S7), EndestroyerEpic (S28), LightingMC (S29)
 
-**26th - D_o_m_o (2):** Kaismartypants (S25), Nyxana (S25)
+**22nd - Recon2155 (3):** Glubing (S6), ItsShqky (S24), MadamGiggles (S24)
 
-**26th - Demomaker (2):** Caseed (S14), BuildingBard300 (S14)
+**30th - _1mmortal_ (2):** Codwhy (S12), BEANJEE (S12)
 
-**26th - gmailol (2):** Kaismartypants (S28), JampoJohn (S28)
+**30th - AlexisTexas13 (2):** Ghostly_RLG (S8), Recon2155 (S8)
 
-**26th - MardenSleepover (2):** BEANJEE (S16), BEANJEE (S22)
+**30th - boyyoo (2):** LightingMC (S28), Kaismartypants (S29)
 
-**26th - MichaelPlayMC (2):** MinimanTurtle (S7), EndestroyerEpic (S28)
+**30th - D_o_m_o (2):** Kaismartypants (S25), Nyxana (S25)
 
-**26th - Zenithu (2):** Hdud (S12), BuildingBard300 (S12)
+**30th - Demomaker (2):** Caseed (S14), BuildingBard300 (S14)
 
-**34th - AUPinqer (1):** DevoyTTV (S19)
+**30th - gmailol (2):** Kaismartypants (S28), JampoJohn (S28)
 
-**34th - bayweafs (1):** ItsMeAR10 (S18)
+**30th - MardenSleepover (2):** BEANJEE (S16), BEANJEE (S22)
 
-**34th - boyyoo (1):** LightingMC (S28)
+**30th - Zenithu (2):** Hdud (S12), BuildingBard300 (S12)
 
-**34th - ItzBeeZ (1):** AirInAirOut (S27)
+**38th - AUPinqer (1):** DevoyTTV (S19)
 
-**34th - LightingMC (1):** Stravilight (S28)
+**38th - bayweafs (1):** ItsMeAR10 (S18)
 
-**34th - Nyxana (1):** AshRiolu100985 (S25)
+**38th - gasosaurus518 (1):** grantfaker (S30)
+
+**38th - Nyxana (1):** AshRiolu100985 (S25)
 
 ---
 ### PvE Deaths
@@ -573,7 +609,11 @@
 ---
 ### Participation
 
-**28 Seasons (1):** BEANJEE (S1-S28)
+**30 Seasons (1):** BEANJEE (S1-S30)
+
+**29 Seasons (0):** 
+
+**28 Seasons (0):** 
 
 **27 Seasons (0):** 
 
@@ -603,31 +643,31 @@
 
 **14 Seasons (0):** 
 
-**13 Seasons (1):** ItsShqky (S12-S16,S18-S19,S21-S24,S27-S28)
+**13 Seasons (3):** noktime (S4-S10,S12-S13,S23-S24,S27,S29), ItsShqky (S12-S16,S18-S19,S21-S24,S27-S28), Kaismartypants (S18-S30)
 
-**12 Seasons (1):** noktime (S4-S10,S12-S13,S23-S24,S27)
+**12 Seasons (0):** 
 
-**11 Seasons (1):** Kaismartypants (S18-S28)
+**11 Seasons (0):** 
 
-**10 Seasons (1):** AshRiolu100985 (S13-S14,S17-S21,S24-S26)
+**10 Seasons (2):** MichaelPlayMC (S7,S14,S22,S24-S30), AshRiolu100985 (S13-S14,S17-S21,S24-S26)
 
 **9 Seasons (1):** CAMKART100 (S17-S18,S20-S24,S26,S28)
 
-**8 Seasons (3):** Kaddyn (S4,S6-S10,S12-S13), MichaelPlayMC (S7,S14,S22,S24-S28), MinimanTurtle (S7-S10,S15,S18,S21-S22)
+**8 Seasons (4):** Kaddyn (S4,S6-S10,S12-S13), MinimanTurtle (S7-S10,S15,S18,S21-S22), CodeJoshua (S8,S10,S20-S23,S28-S29), AirInAirOut (S18-S20,S22,S24,S27-S28,S30)
 
-**7 Seasons (3):** Caseed (S8-S14), CodeJoshua (S8,S10,S20-S23,S28), AirInAirOut (S18-S20,S22,S24,S27-S28)
+**7 Seasons (3):** Caseed (S8-S14), boyyoo (S24-S30), kabobaa (S24-S30)
 
-**6 Seasons (0):** 
+**6 Seasons (1):** JampoJohn (S24-S28,S30)
 
-**5 Seasons (3):** boyyoo (S24-S28), JampoJohn (S24-S28), kabobaa (S24-S28)
+**5 Seasons (2):** DevoyTTV (S19,S25,S27-S29), ItzBeeZ (S26-S30)
 
-**4 Seasons (1):** DevoyTTV (S19,S25,S27-S28)
+**4 Seasons (2):** ScaryPumpkinFace (S26-S27,S29-S30), grantfaker (S27-S30)
 
-**3 Seasons (6):** Demomaker (S13-S15), ItsMeAR10 (S14-S15,S18), DogOfKrondor (S15-S17), BoltsInCharge (S20-S22), ItzBeeZ (S26-S28), ShootingGoats (S26-S28)
+**3 Seasons (6):** Demomaker (S13-S15), ItsMeAR10 (S14-S15,S18), DogOfKrondor (S15-S17), BoltsInCharge (S20-S22), broccoliar (S23,S28-S29), ShootingGoats (S26-S28)
 
-**2 Seasons (11):** Ghostly_RLG (S3,S8), HUQTER (S3,S7), AlexisTexas13 (S8,S10), Zenithu (S12,S26), bradchadington10 (S13,S24), MardenSleepover (S16,S22), HeyItsJBug (S18,S20), broccoliar (S23,S28), Maybe_Puffer (S26-S27), ScaryPumpkinFace (S26-S27), grantfaker (S27-S28)
+**2 Seasons (12):** Ghostly_RLG (S3,S8), HUQTER (S3,S7), AlexisTexas13 (S8,S10), Zenithu (S12,S26), bradchadington10 (S13,S24), MardenSleepover (S16,S22), HeyItsJBug (S18,S20), Maybe_Puffer (S26-S27), gasosaurus518 (S27,S30), EndestroyerEpic (S28,S30), LightingMC (S28-S29), _ffect (S29-S30)
 
-**1 Season (24):** Aerceus (S1), Caelen (S2), coows (S3), brinniex (S6), _1mmortal_ (S12), Codwhy (S12), _excuses_ (S17), bayweafs (S18), AUPinqer (S19), CommanderK22_ (S21), RuneTactics (S23), MadamGiggles (S24), D_o_m_o (S25), EroseMC (S25), Nyxana (S25), Pgy (S25), Ninetals38 (S26), Bornyo (S27), gasosaurus518 (S27), EndestroyerEpic (S28), gmailol (S28), Karliffu (S28), LightingMC (S28), Stravilight (S28)
+**1 Season (21):** Aerceus (S1), Caelen (S2), coows (S3), brinniex (S6), _1mmortal_ (S12), Codwhy (S12), _excuses_ (S17), bayweafs (S18), AUPinqer (S19), CommanderK22_ (S21), RuneTactics (S23), MadamGiggles (S24), D_o_m_o (S25), EroseMC (S25), Nyxana (S25), Pgy (S25), Ninetals38 (S26), Bornyo (S27), gmailol (S28), Karliffu (S28), Stravilight (S28)
 
 ---
 ### Debutants
@@ -687,5 +727,9 @@
 **S27 (3):** Bornyo, gasosaurus518, grantfaker
 
 **S28 (5):** EndestroyerEpic, gmailol, Karliffu, LightingMC, Stravilight
+
+**S29 (1):** _ffect
+
+**S30 (0):** 
 
 ---

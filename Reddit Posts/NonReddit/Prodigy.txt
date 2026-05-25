@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: IceshardEleven (1), LqndSlide (3)**
+**S1: IceshardEleven (1), lqndslide (3)**
 
 ---
 ### Runner Ups
@@ -13,12 +13,12 @@
 ---
 ### Most Kills
 
-**S1:** LqndSlide (3)
+**S1:** lqndslide (3)
 
 ---
 ### Most Kills (Team)
 
-**S1:** LqndSlide (3), IceshardEleven (1)
+**S1:** lqndslide (3), IceshardEleven (1)
 
 ---
 ### First Damage
@@ -43,7 +43,7 @@
 ---
 ### Kills
 
-**1st - LqndSlide (3):** ChosenFate (S1), Oqsis (S1), BlazeFilms (S1)
+**1st - lqndslide (3):** ChosenFate (S1), Oqsis (S1), BlazeFilms (S1)
 
 **2nd - BlazeFilms (2):** Invasionnn (S1), xKerigan (S1)
 
@@ -61,11 +61,11 @@
 ---
 ### Participation
 
-**1 Season (12):** BlazeFilms (S1), ChosenFate (S1), Conorz (S1), DJblak (S1), IceshardEleven (S1), Invasionnn (S1), LqndSlide (S1), Oqsis (S1), Ringerr (S1), Stormy_A (S1), Tripps702 (S1), xKerigan (S1)
+**1 Season (12):** BlazeFilms (S1), ChosenFate (S1), Conorz (S1), DJblak (S1), IceshardEleven (S1), Invasionnn (S1), lqndslide (S1), Oqsis (S1), Ringerr (S1), Stormy_A (S1), Tripps702 (S1), xKerigan (S1)
 
 ---
 ### Debutants
 
-**S1 (12):** BlazeFilms, ChosenFate, Conorz, DJblak, IceshardEleven, Invasionnn, LqndSlide, Oqsis, Ringerr, Stormy_A, Tripps702, xKerigan
+**S1 (12):** BlazeFilms, ChosenFate, Conorz, DJblak, IceshardEleven, Invasionnn, lqndslide, Oqsis, Ringerr, Stormy_A, Tripps702, xKerigan
 
 ---

@@ -11,7 +11,7 @@
 
 **S4: JamestheDouglas (3), SummerBqsh (2)**, *Sneaky26 (0)*
 
-**S5: Blacxican (1), collowollo (4), FlawlessAerial (5), HeyImAqua (1), Kqvn (3), Ormax (2), SweatingAerial (2), TastyMilk (3), Zqccy (3)**, *Blazar (0), SwiftnessXVI (0), YABOYPJ (0)*
+**S5: Blacxican (1), collowollo (4), FlawlessAerial (5), HeyImAqua (1), Kqvn (3), Ormax (2), PrattBN (3), SweatingAerial (2), Zqccy (3)**, *Blazar (0), SwiftnessXVI (0), YABOYPJ (0)*
 
 **S6: Blazar (2), DatGuyAdam (2)**, *JoshC2 (0), xNKS (0)*
 
@@ -40,7 +40,7 @@
 
 **S5:** DiarWolfe (1), Djmandude (0), GodlyGoomys (1), JamestheDouglas (0), JoshC2 (0), Sideline55 (2), Slaybate (0), Sneaky26 (0), St0rmplayz (0), SummerBqsh (0), ToggleXD (0), VIBEEY (0), zacksarmy (0)
 
-**S6:** AwesomeMonkey02 (0), Djmandude (0), Wiener_Dawg (0)
+**S6:** Djmandude (0), JimboSucc (0), Wiener_Dawg (0)
 
 **S7:** billyummmm (4)
 
@@ -92,7 +92,7 @@
 
 **S4:** JamestheDouglas (3), Sneaky26 (0), SummerBqsh (2)
 
-**S5:** Blazar (0), FlawlessAerial (5), HeyImAqua (1), Kqvn (3), Ormax (2), Blacxican (1), SweatingAerial (2), SwiftnessXVI (0), TastyMilk (3), YABOYPJ (0), Zqccy (3), collowollo (4)
+**S5:** Blazar (0), FlawlessAerial (5), HeyImAqua (1), Kqvn (3), Ormax (2), Blacxican (1), SweatingAerial (2), SwiftnessXVI (0), PrattBN (3), YABOYPJ (0), Zqccy (3), collowollo (4)
 
 **S6:** Blazar (2), DatGuyAdam (2), JoshC2 (0), xNKS (0)
 
@@ -225,13 +225,13 @@
 
 **2nd - TwistedGoose (9):** HeyImAqua (S2), Cyndaquilll (S2), Slaybate (S2), StupidAsian (S2), ToggleXD (S2), JohnzRIP (S2), DarkType (S3), Cat6376 (S11), Kaismartypants (S11)
 
-**4th - DatGuyAdam (8):** CheeseJamez (S2), Cyndaquilll (S3), xSemiCollin (S4), Sneaky26 (S4), Swirley (S6), Djmandude (S6), AlolanJames (S9), gmailol (S12)
+**4th - DatGuyAdam (8):** CheeseJay (S2), Cyndaquilll (S3), xSemiCollin (S4), Sneaky26 (S4), Swirley (S6), Djmandude (S6), AlolanJames (S9), gmailol (S12)
 
 **5th - Abandoned (6):** BaconIV (S7), PoofessorP (S7), Sadwics (S7), Slaybate (S7), vDyre (S7), billyummmm (S7)
 
 **5th - DukieJr (6):** ToggleXD (S3), BlockPlacer32 (S3), Kqvn (S3), ToggleXD (S8), Sneaky26 (S8), BaconIV (S8)
 
-**7th - DarkType (5):** Slaybate (S3), PowerOfTheOcean (S3), CrimsonTW (S3), Sneaky26 (S3), CheeseJamez (S3)
+**7th - DarkType (5):** Slaybate (S3), PowerOfTheOcean (S3), CrimsonTW (S3), Sneaky26 (S3), CheeseJay (S3)
 
 **7th - Master_Saber (5):** ToggleXD (S4), JaydenFrBruh (S10), Sassybunion (S10), Brocko (S10), dnkin (S10)
 
@@ -245,13 +245,13 @@
 
 **10th - Kqvn (4):** JoshC2 (S3), braffabrazz (S5), JamestheDouglas (S5), JoshC2 (S5)
 
-**10th - Slaybate (4):** zack502rh (S9), Qrhan (S9), TheSheepMasters (S9), charanda (S9)
+**10th - PrattBN (4):** St0rmplayz (S2), Slaybate (S5), Sneaky26 (S5), St0rmplayz (S5)
 
-**10th - TastyMilk (4):** St0rmplayz (S2), Slaybate (S5), Sneaky26 (S5), St0rmplayz (S5)
+**10th - Slaybate (4):** zack502rh (S9), Qrhan (S9), TheSheepMasters (S9), charanda (S9)
 
 **10th - ToggleXD (4):** xNKS (S2), chrisgames2k (S8), WillyShakes (S8), Tristan_________ (S8)
 
-**17th - Blazar (3):** HeyImAqua (S3), Blacxican (S6), AwesomeMonkey02 (S6)
+**17th - Blazar (3):** HeyImAqua (S3), Blacxican (S6), JimboSucc (S6)
 
 **17th - BlockPlacer32 (3):** Stxtic (S3), Qrhan (S3), TwistedGoose (S3)
 
@@ -279,7 +279,7 @@
 
 **24th - iKomo (2):** Fractable (S10), St0rmplayz (S10)
 
-**24th - JohnzRIP (2):** yuhFazz (S2), TastyMilk (S2)
+**24th - JohnzRIP (2):** yuhFazz (S2), PrattBN (S2)
 
 **24th - Kuiyo (2):** Wiener_Dawg (S6), xNKS (S6)
 
@@ -348,7 +348,7 @@
 ---
 ### PvE Deaths
 
-**Fall (15):** xXSilver_LoveXx (S1), Green_WolfMC (S2), TonyMaster21 (S3), DatGuyAdam (S3), brinkwhy (S5), DukieJr (S5), Brocko (S6), SummerBqsh (S6), FlawlessAerial (S6), gmailol (S6), charanda (S7), AwesomeMonkey02 (S8), Blazar (S9), Sneaky26 (S10), JoshC2 (S12)
+**Fall (15):** xXSilver_LoveXx (S1), Green_WolfMC (S2), TonyMaster21 (S3), DatGuyAdam (S3), brinkwhy (S5), DukieJr (S5), Brocko (S6), SummerBqsh (S6), FlawlessAerial (S6), gmailol (S6), charanda (S7), JimboSucc (S8), Blazar (S9), Sneaky26 (S10), JoshC2 (S12)
 
 **Left (11):** sdog1000 (S3), RedditPlayer (S6), dontbow (S6), SwiftnessXVI (S6), iDaMonster (S6), Sassybunion (S6), Zeetra (S6), collowollo (S6), krovyle (S6), GraceC2_ (S11), St0rmplayz (S12)
 
@@ -389,7 +389,7 @@
 
 **3 Seasons (14):** chrisgames2k (S2,S7-S8), HeyImAqua (S2-S3,S5), yuhFazz (S2,S4,S10), DukieJr (S3,S5,S8), BaconIV (S4,S7-S8), collowollo (S5-S6,S10), Djmandude (S5-S6,S9), FlawlessAerial (S5-S6,S10), Kaismartypants (S5,S10-S11), SwiftnessXVI (S5-S6,S10), zacksarmy (S5,S9-S10), Brocko (S6,S10-S11), dnkin (S8-S10), Jorgeeay (S8-S9,S12)
 
-**2 Seasons (22):** SuperTiger77 (S1,S8), CheeseJamez (S2-S3), Cyndaquilll (S2-S3), DarkType (S2-S3), Mattzia (S2,S4), TastyMilk (S2,S5), xNKS (S2,S6), xSemiCollin (S2,S4), Kqvn (S3,S5), Qrhan (S3,S9), Geroot (S4,S7), JamestheDouglas (S4-S5), Master_Saber (S4,S10), Blacxican (S5-S6), kirkomode (S5,S10), Ormax (S5-S6), AwesomeMonkey02 (S6,S8), Fractable (S6,S10), Sassybunion (S6,S10), Wiener_Dawg (S6-S7), JaydenFrBruh (S7,S10), GraceC2_ (S11-S12)
+**2 Seasons (22):** SuperTiger77 (S1,S8), CheeseJay (S2-S3), Cyndaquilll (S2-S3), DarkType (S2-S3), Mattzia (S2,S4), PrattBN (S2,S5), xNKS (S2,S6), xSemiCollin (S2,S4), Kqvn (S3,S5), Qrhan (S3,S9), Geroot (S4,S7), JamestheDouglas (S4-S5), Master_Saber (S4,S10), Blacxican (S5-S6), kirkomode (S5,S10), Ormax (S5-S6), Fractable (S6,S10), JimboSucc (S6,S8), Sassybunion (S6,S10), Wiener_Dawg (S6-S7), JaydenFrBruh (S7,S10), GraceC2_ (S11-S12)
 
 **1 Season (82):** 101Lives (S1), LunaLeoLightning (S1), MasterHero5149 (S1), Mineclash11 (S1), Nigrify (S1), XxFrozen_FlamexX (S1), xXSilver_LoveXx (S1), AVLTG (S2), Green_WolfMC (S2), JohnzRIP (S2), nh177O13 (S2), ScribLord_ (S2), StupidAsian (S2), BlockPlacer32 (S3), CrimsonTW (S3), PowerOfTheOcean (S3), sdog1000 (S3), Stxtic (S3), TonyMaster21 (S3), Bosotos (S4), LoreGame (S4), SuaMaestraRex (S4), 2Pacoh (S5), Alekii (S5), braffabrazz (S5), CallMeBqse (S5), Creqd (S5), DiarWolfe (S5), GodlyGoomys (S5), idietomanytimes (S5), ItsNoice (S5), Jwillnot (S5), ObeseProdigy (S5), Sideline55 (S5), SweatingAerial (S5), VIBEEY (S5), YABOYPJ (S5), Aioda (S6), dontbow (S6), iDaMonster (S6), krovyle (S6), Kuiyo (S6), RedditPlayer (S6), Swirley (S6), Zeetra (S6), Abandoned (S7), billyummmm (S7), BreakfastBacon (S7), lilygant (S7), PoofessorP (S7), Sadwics (S7), ThisIsHab (S7), vDyre (S7), MarinePlays (S8), tbhjosh (S8), Tristan_________ (S8), WillyShakes (S8), 3Dspoders (S9), AlolanJames (S9), HeyImHungry (S9), TheSheepMasters (S9), zack502rh (S9), ADinoPlayingMC (S10), DisarmingVoice (S10), Evankas (S10), iKomo (S10), ItsShqky (S10), krustycrab (S10), OddishThoughts (S10), Oh_No_Potato (S10), Slooshyy (S10), xShadowMoon (S10), Cat6376 (S11), Haydcn (S11), JustLethal (S11), Strobez (S11), Tapwib (S11), Thermql (S11), xXOoberKellyXx (S11), Nyxana (S12), Plushy33 (S12), RiseGR (S12)
 
@@ -398,7 +398,7 @@
 
 **S1 (9):** 101Lives, JoshC2, LunaLeoLightning, MasterHero5149, Mineclash11, Nigrify, SuperTiger77, XxFrozen_FlamexX, xXSilver_LoveXx
 
-**S2 (22):** AVLTG, CheeseJamez, chrisgames2k, Cyndaquilll, DarkType, DatGuyAdam, Green_WolfMC, HeyImAqua, JohnzRIP, Mattzia, nh177O13, ScribLord_, Slaybate, St0rmplayz, StupidAsian, TastyMilk, ToggleXD, TwistedGoose, xNKS, xSemiCollin, yuhFazz, Zqccy
+**S2 (22):** AVLTG, CheeseJay, chrisgames2k, Cyndaquilll, DarkType, DatGuyAdam, Green_WolfMC, HeyImAqua, JohnzRIP, Mattzia, nh177O13, PrattBN, ScribLord_, Slaybate, St0rmplayz, StupidAsian, ToggleXD, TwistedGoose, xNKS, xSemiCollin, yuhFazz, Zqccy
 
 **S3 (11):** Blazar, BlockPlacer32, CrimsonTW, DukieJr, Kqvn, PowerOfTheOcean, Qrhan, sdog1000, Sneaky26, Stxtic, TonyMaster21
 
@@ -406,7 +406,7 @@
 
 **S5 (25):** 2Pacoh, Alekii, Blacxican, braffabrazz, CallMeBqse, collowollo, Creqd, DiarWolfe, Djmandude, FlawlessAerial, gmailol, GodlyGoomys, idietomanytimes, ItsNoice, Jwillnot, Kaismartypants, kirkomode, ObeseProdigy, Ormax, Sideline55, SweatingAerial, SwiftnessXVI, VIBEEY, YABOYPJ, zacksarmy
 
-**S6 (13):** Aioda, AwesomeMonkey02, Brocko, dontbow, Fractable, iDaMonster, krovyle, Kuiyo, RedditPlayer, Sassybunion, Swirley, Wiener_Dawg, Zeetra
+**S6 (13):** Aioda, Brocko, dontbow, Fractable, iDaMonster, JimboSucc, krovyle, Kuiyo, RedditPlayer, Sassybunion, Swirley, Wiener_Dawg, Zeetra
 
 **S7 (9):** Abandoned, billyummmm, BreakfastBacon, JaydenFrBruh, lilygant, PoofessorP, Sadwics, ThisIsHab, vDyre
 

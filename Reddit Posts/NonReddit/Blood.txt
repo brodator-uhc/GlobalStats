@@ -155,7 +155,7 @@
 
 **S7:** nh177O13 (360NoSc0p3_F4Z3d)
 
-**S8:** LqndSlide (MinecrafNinja)
+**S8:** lqndslide (MinecrafNinja)
 
 **S9:** Gepple (iQuick_)
 
@@ -191,7 +191,7 @@
 
 **2nd - xCynesta (13):** SergeantM (S2), wizarde (S2), EternalDraygon (S2), Drkrai (S6), destroyerx9 (S6), Michaelius (S6), ModernPine (S6), x1Jesse1x (S6), Trent1974 (S6), TheMuffinDoge (S6), AndiCake (S6), Icecreeper30 (S6), Zoriaxe (S6)
 
-**3rd - AHSOKATANOSTAN (10):** Icecreeper30 (S7), Shinrai_ (S7), Drkrai (S7), yungAMW (S8), LqndSlide (S8), SergeantM (S8), SarcasticRaven (S10), SergeantM (S10), Roock (S10), yungAMW (S10)
+**3rd - AHSOKATANOSTAN (10):** Icecreeper30 (S7), Shinrai_ (S7), Drkrai (S7), yungAMW (S8), lqndslide (S8), SergeantM (S8), SarcasticRaven (S10), SergeantM (S10), Roock (S10), yungAMW (S10)
 
 **4th - Drkrai (6):** HyperBoom (S4), JustLethal (S4), Bornyo (S4), nh177O13 (S7), Veridiss (S7), SergeantM (S7)
 
@@ -223,7 +223,7 @@
 
 **17th - Bornyo (1):** Star_Breaker (S3)
 
-**17th - LqndSlide (1):** MinecrafNinja (S8)
+**17th - lqndslide (1):** MinecrafNinja (S8)
 
 **17th - Nathan22441 (1):** SergeantM (S1)
 
@@ -279,7 +279,7 @@
 
 **2 Seasons (11):** Cole1206 (S1,S3), Nathan22441 (S1,S3), UltimateSeo (S1,S3), xCynesta (S2,S6), Bornyo (S3-S4), HyperBoom (S3-S4), Quickster (S4-S5), Michaelius (S5-S6), Walker_Plays (S5-S6), PolarAura (S6,S8), Stormy_A (S7-S8)
 
-**1 Season (33):** Creeper_Glitch (S1), PhamPlayz (S1), Envified_ (S2), EternalDraygon (S2), wizarde (S2), zSweqtrHD (S2), DiarWolfe (S3), InvisBlade (S3), Star_Breaker (S3), rqzerdood (S5), AndiCake (S6), destroyerx9 (S6), ModernPine (S6), TheMuffinDoge (S6), Tiinaaa (S6), x1Jesse1x (S6), yazaku (S6), MrLazeo101 (S7), nh177O13 (S7), Prexmo (S7), Veridiss (S7), LqndSlide (S8), MinecrafNinja (S8), Protahcol_ (S8), iQuick_ (S9), ProCombos (S9), DeadpoolUHC (S10), DeathByPatrick (S10), IyaIsMad (S10), Roock (S10), SarcasticRaven (S10), Volr (S10), yungYYC (S10)
+**1 Season (33):** Creeper_Glitch (S1), PhamPlayz (S1), Envified_ (S2), EternalDraygon (S2), wizarde (S2), zSweqtrHD (S2), DiarWolfe (S3), InvisBlade (S3), Star_Breaker (S3), rqzerdood (S5), AndiCake (S6), destroyerx9 (S6), ModernPine (S6), TheMuffinDoge (S6), Tiinaaa (S6), x1Jesse1x (S6), yazaku (S6), MrLazeo101 (S7), nh177O13 (S7), Prexmo (S7), Veridiss (S7), lqndslide (S8), MinecrafNinja (S8), Protahcol_ (S8), iQuick_ (S9), ProCombos (S9), DeadpoolUHC (S10), DeathByPatrick (S10), IyaIsMad (S10), Roock (S10), SarcasticRaven (S10), Volr (S10), yungYYC (S10)
 
 ---
 ### Debutants
@@ -298,7 +298,7 @@
 
 **S7 (7):** 360NoSc0p3_F4Z3d, AHSOKATANOSTAN, MrLazeo101, nh177O13, Prexmo, Stormy_A, Veridiss
 
-**S8 (4):** Gepple, LqndSlide, MinecrafNinja, Protahcol_
+**S8 (4):** Gepple, lqndslide, MinecrafNinja, Protahcol_
 
 **S9 (2):** iQuick_, ProCombos
 

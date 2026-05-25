@@ -27,6 +27,8 @@
 
 **S12: Blarkslol (3)**, *CodeJoshua (0), ScaryPumpkinFace (1), ZebraPantz (3)*
 
+**S13: Bobbytheturtle (4)**, *swishduck (6)*
+
 ---
 ### Runner Ups
 
@@ -53,6 +55,8 @@
 **S11:** DJoee (2), Glarza (4), ShootingGoats (3)
 
 **S12:** _1mmortal_ (2), broccoliar (5), Greeples (0), Hecticity (0)
+
+**S13:** Foxily (0), Stravilight (3)
 
 ---
 ### Most Kills
@@ -81,6 +85,8 @@
 
 **S12:** Caydone (7)
 
+**S13:** swishduck (6)
+
 ---
 ### Most Kills (Team)
 
@@ -107,6 +113,8 @@
 **S11:** DJoee (2), Glarza (4), ShootingGoats (3)
 
 **S12:** Caydone (7), DJoee (2), omchris (1), YellowVitt (1)
+
+**S13:** Bobbytheturtle (4), swishduck (6)
 
 ---
 ### First Damage
@@ -135,6 +143,8 @@
 
 **S12:** CommanderK22_ (0:12:55)
 
+**S13:** _1mmortal_ (0:2:2)
+
 ---
 ### Ironman
 
@@ -161,6 +171,8 @@
 **S11:** DJoee (1:20:38)
 
 **S12:** SpaceFenix (1:12:29)
+
+**S13:** CrowJRC (1:28:53)
 
 ---
 ### First Blood
@@ -189,6 +201,8 @@
 
 **S12:** Blarkslol (CAMKART100)
 
+**S13:** Ryfri (Foxily)
+
 ---
 ### First Death
 
@@ -216,16 +230,18 @@
 
 **S12:** CAMKART100 (Blarkslol)
 
+**S13:** Foxily (Ryfri)
+
 ---
 ### Kills
 
-**1st - natsuvi (22):** DJoee (S1), CAMKART100 (S3), noktime (S3), Westcraft00 (S3), TheRealHagrid (S3), Kaismartypants (S3), fruitlogic (S3), Westcraft00 (S4), JaqOnCraq (S4), Spongey (S4), Bornyo (S6), TheSlimeBrother (S7), BoltsInCharge (S7), ShootingGoats (S7), ChainingVermin2 (S7), GuyGojo (S9), DJoee (S9), SharkeyJaws (S10), JaqOnCraq (S10), Evzenitable (S10), TheSlimeBrother (S10), Scringus (S11)
+**1st - _1mmortal_ (23):** AirInAirOut (S1), HigmanFreud (S1), TheRealHagrid (S2), broccoliar (S2), Markedbooboy (S3), CommanderK22_ (S3), Kaimaxon (S3), CAMKART100 (S4), BoltsInCharge (S4), BoltsInCharge (S5), Caydone (S6), Sharkbob94349 (S8), Kaimaxon (S9), omchris (S9), Kaismartypants (S9), grantfaker (S10), Greeples (S11), Sharkbob94349 (S11), grantfaker (S12), Rohcket (S12), auradiplo (S13), Nuclearsugar (S13), BoltsInCharge (S13)
 
-**2nd - _1mmortal_ (20):** AirInAirOut (S1), HigmanFreud (S1), TheRealHagrid (S2), broccoliar (S2), Markedbooboy (S3), CommanderK22_ (S3), Kaimaxon (S3), CAMKART100 (S4), BoltsInCharge (S4), BoltsInCharge (S5), Caydone (S6), Sharkbob94349 (S8), Kaimaxon (S9), omchris (S9), Kaismartypants (S9), grantfaker (S10), Greeples (S11), Sharkbob94349 (S11), grantfaker (S12), Rohcket (S12)
+**2nd - broccoliar (22):** CommanderK22_ (S1), Zenithu (S2), ZebraPantz (S2), ItsShqky (S4), TheSlimeBrother (S4), Blarkslol (S4), WackoFlipper (S6), natsuvi (S6), CAMKART100 (S6), cherryblawsom (S6), Kaddyn (S7), Caydone (S8), Ryfri (S10), Nuclearsugar (S10), ColdBac (S12), Nuclearsugar (S12), omchris (S12), DJoee (S12), ZebraPantz (S12), CAMKART100 (S13), benidk (S13), Plushy33 (S13)
 
-**2nd - Fcrm (20):** Ryfri (S1), CommanderK22_ (S2), BoltsInCharge (S2), Bornyo (S4), Brodator (S4), natsuvi (S4), TheRealHagrid (S5), ZebraPantz (S5), DevoyTTV (S5), Stravilight (S5), CodeJoshua (S7), flintflint04 (S7), Kaimaxon (S10), Blarkslol (S10), Vetmire (S10), ShootingGoats (S10), CommanderK22_ (S11), auradiplo (S11), ProGirlGamer (S12), CrowJRC (S12)
+**2nd - natsuvi (22):** DJoee (S1), CAMKART100 (S3), noktime (S3), Westcraft00 (S3), TheRealHagrid (S3), Kaismartypants (S3), fruitlogic (S3), Westcraft00 (S4), JaqOnCraq (S4), Spongey (S4), Bornyo (S6), TheSlimeBrother (S7), BoltsInCharge (S7), ShootingGoats (S7), ChainingVermin2 (S7), GuyGojo (S9), DJoee (S9), SharkeyJaws (S10), JaqOnCraq (S10), Evzenitable (S10), TheSlimeBrother (S10), Scringus (S11)
 
-**4th - broccoliar (19):** CommanderK22_ (S1), Zenithu (S2), ZebraPantz (S2), ItsShqky (S4), TheSlimeBrother (S4), Blarkslol (S4), WackoFlipper (S6), natsuvi (S6), CAMKART100 (S6), cherryblawsom (S6), Kaddyn (S7), Caydone (S8), Ryfri (S10), Nuclearsugar (S10), ColdBac (S12), Nuclearsugar (S12), omchris (S12), DJoee (S12), ZebraPantz (S12)
+**4th - Fcrm (21):** Ryfri (S1), CommanderK22_ (S2), BoltsInCharge (S2), Bornyo (S4), Brodator (S4), natsuvi (S4), TheRealHagrid (S5), ZebraPantz (S5), DevoyTTV (S5), Stravilight (S5), CodeJoshua (S7), flintflint04 (S7), Kaimaxon (S10), Blarkslol (S10), Vetmire (S10), ShootingGoats (S10), CommanderK22_ (S11), auradiplo (S11), ProGirlGamer (S12), CrowJRC (S12), ohh_lia (S13)
 
 **5th - BoltsInCharge (18):** _1mmortal_ (S1), Codwhy (S2), Ryfri (S3), Ryfri (S4), CodeJoshua (S4), Markedbooboy (S4), wizarde (S4), ShootingGoats (S5), NickPlaysGames15 (S6), TheSlimeBrother (S6), Logan_S_ (S6), TheRealHagrid (S6), Cooooldude (S7), Evzenitable (S9), RuneTactics (S10), WackoFlipper (S11), Spongey (S12), Stravilight (S12)
 
@@ -235,116 +251,118 @@
 
 **7th - ZebraPantz (15):** Randehh (S1), Evzenitable (S1), Ninetals38 (S1), Spongey (S1), Blarkslol (S2), CodeJoshua (S2), Kaddyn (S2), ThisIsHab (S9), ColdBac (S9), 4EyedSlime (S9), SpaceFenix (S9), ChainingVermin2 (S11), AirInAirOut (S12), YellowVitt (S12), Greeples (S12)
 
-**9th - Caydone (13):** 123SteveBob (S8), natsuvi (S8), ohh_lia (S8), Cooooldude (S8), 123SteveBob (S9), ZebraPantz (S9), ImChile (S12), TheRealHagrid (S12), Flcnt (S12), Scringus (S12), CommanderK22_ (S12), EndestroyerEpic (S12), ShootingGoats (S12)
+**9th - Caydone (14):** 123SteveBob (S8), natsuvi (S8), ohh_lia (S8), Cooooldude (S8), 123SteveBob (S9), ZebraPantz (S9), ImChile (S12), TheRealHagrid (S12), Flcnt (S12), Scringus (S12), CommanderK22_ (S12), EndestroyerEpic (S12), ShootingGoats (S12), YellowVitt (S13)
 
-**9th - ChainingVermin2 (13):** Sharkbob94349 (S5), Sharkbob94349 (S7), omchris (S7), MercuryParadox (S7), TehBaconBrawlerZ (S8), Scringus (S8), Ryfri (S9), Vetmire (S9), Caydone (S9), Gorgerous (S10), 4EyedSlime (S10), fruitlogic (S10), ProGirlGamer (S11)
+**10th - ChainingVermin2 (13):** Sharkbob94349 (S5), Sharkbob94349 (S7), omchris (S7), MercuryParadox (S7), TehBaconBrawlerZ (S8), Scringus (S8), Ryfri (S9), Vetmire (S9), Caydone (S9), Gorgerous (S10), 4EyedSlime (S10), fruitlogic (S10), ProGirlGamer (S11)
+
+**11th - Blarkslol (12):** broccoliar (S1), Kaddyn (S5), CommanderK22_ (S8), Kaimaxon (S8), fruitlogic (S8), omchris (S8), Fcrm (S10), DJoee (S11), CAMKART100 (S12), _1mmortal_ (S12), broccoliar (S12), CrowJRC (S13)
 
 **11th - TheRealHagrid (12):** Kaismartypants (S1), ZebraPantz (S1), Blarkslol (S1), JaqOnCraq (S1), Psykl0ne (S2), TacoDab (S2), ColdBac (S6), _1mmortal_ (S6), Cooooldude (S9), CodeJoshua (S9), _1mmortal_ (S9), NickPlaysGames15 (S9)
 
-**12th - Blarkslol (11):** broccoliar (S1), Kaddyn (S5), CommanderK22_ (S8), Kaimaxon (S8), fruitlogic (S8), omchris (S8), Fcrm (S10), DJoee (S11), CAMKART100 (S12), _1mmortal_ (S12), broccoliar (S12)
+**13th - SpaceFenix (11):** Sharkbob94349 (S2), Vetmire (S5), Westcraft00 (S5), Vetmire (S6), _Fost_ (S7), BoltsInCharge (S8), Blarkslol (S8), CodeJoshua (S8), TehBaconBrawlerZ (S10), ShootingGoats (S13), 4EyedSlime (S13)
 
-**13th - JaqOnCraq (10):** DevoyTTV (S1), Fcrm (S1), Bornyo (S2), DarrenBGP (S2), ZebraPantz (S4), Kaddyn (S4), TheRealHagrid (S4), Blarkslol (S9), Bobbytheturtle (S10), Glarza (S11)
+**14th - JaqOnCraq (10):** DevoyTTV (S1), Fcrm (S1), Bornyo (S2), DarrenBGP (S2), ZebraPantz (S4), Kaddyn (S4), TheRealHagrid (S4), Blarkslol (S9), Bobbytheturtle (S10), Glarza (S11)
 
-**14th - Sharkbob94349 (9):** ItsShqky (S1), ItsShqky (S3), CommanderK22_ (S4), CAMKART100 (S9), Spongey (S9), JaqOnCraq (S9), ChainingVermin2 (S9), PresidentFleb (S10), DJoee (S10)
+**14th - Sharkbob94349 (10):** ItsShqky (S1), ItsShqky (S3), CommanderK22_ (S4), CAMKART100 (S9), Spongey (S9), JaqOnCraq (S9), ChainingVermin2 (S9), PresidentFleb (S10), DJoee (S10), omchris (S13)
 
-**14th - SpaceFenix (9):** Sharkbob94349 (S2), Vetmire (S5), Westcraft00 (S5), Vetmire (S6), _Fost_ (S7), BoltsInCharge (S8), Blarkslol (S8), CodeJoshua (S8), TehBaconBrawlerZ (S10)
+**14th - Spongey (10):** TheSlimeBrother (S2), MercuryParadox (S4), TheRealHagrid (S7), fruitlogic (S7), SpaceFenix (S7), CommanderK22_ (S7), BoltsInCharge (S11), Plushy33 (S11), ShootingGoats (S11), Flcnt (S13)
 
-**14th - Spongey (9):** TheSlimeBrother (S2), MercuryParadox (S4), TheRealHagrid (S7), fruitlogic (S7), SpaceFenix (S7), CommanderK22_ (S7), BoltsInCharge (S11), Plushy33 (S11), ShootingGoats (S11)
+**17th - Cooooldude (9):** CAMKART100 (S7), Gorgerous (S8), ChainingVermin2 (S8), _1mmortal_ (S8), ZebraPantz (S8), Greeples (S8), Westcraft00 (S8), brinkwhy (S13), JaqOnCraq (S13)
 
-**17th - cherryblawsom (8):** Kaimaxon (S5), DJoee (S5), 78ford (S5), ThisIsHab (S6), Westcraft00 (S10), Sharkbob94349 (S10), benidk (S10), SpaceFenix (S10)
+**17th - TehBaconBrawlerZ (9):** JaqOnCraq (S2), AirInAirOut (S2), Nuclearsugar (S3), BoltsInCharge (S3), broccoliar (S3), DJoee (S3), MercuryParadox (S3), TheRealHagrid (S13), Fcrm (S13)
 
-**18th - CodeJoshua (7):** Kaimaxon (S2), bayweafs (S4), noktime (S4), Brodator (S6), SpaceFenix (S6), JaqOnCraq (S8), CommanderK22_ (S9)
+**19th - cherryblawsom (8):** Kaimaxon (S5), DJoee (S5), 78ford (S5), ThisIsHab (S6), Westcraft00 (S10), Sharkbob94349 (S10), benidk (S10), SpaceFenix (S10)
 
-**18th - Cooooldude (7):** CAMKART100 (S7), Gorgerous (S8), ChainingVermin2 (S8), _1mmortal_ (S8), ZebraPantz (S8), Greeples (S8), Westcraft00 (S8)
+**19th - Ryfri (8):** nug17 (S1), 78ford (S1), Andronify (S1), natsuvi (S1), Markedbooboy (S1), natsuvi (S3), Foxily (S13), CodeJoshua (S13)
 
-**18th - Rohcket (7):** Stravilight (S6), broccoliar (S6), Andronify (S6), wizarde (S6), MercuryParadox (S6), benidk (S12), Fcrm (S12)
+**21st - CodeJoshua (7):** Kaimaxon (S2), bayweafs (S4), noktime (S4), Brodator (S6), SpaceFenix (S6), JaqOnCraq (S8), CommanderK22_ (S9)
 
-**18th - TehBaconBrawlerZ (7):** JaqOnCraq (S2), AirInAirOut (S2), Nuclearsugar (S3), BoltsInCharge (S3), broccoliar (S3), DJoee (S3), MercuryParadox (S3)
+**21st - Rohcket (7):** Stravilight (S6), broccoliar (S6), Andronify (S6), wizarde (S6), MercuryParadox (S6), benidk (S12), Fcrm (S12)
 
-**22nd - AirInAirOut (6):** Ryfri (S2), Brodator (S2), CommanderK22_ (S5), SpaceFenix (S5), Brodator (S5), auradiplo (S12)
+**21st - Stravilight (7):** ChainingVermin2 (S5), Cubic44 (S11), _1mmortal_ (S11), fruitlogic (S11), Caydone (S13), Blarkslol (S13), swishduck (S13)
 
-**22nd - fruitlogic (6):** TacoDab (S3), Andronify (S4), Codwhy (S8), Caydone (S10), TheRealHagrid (S11), BoltsInCharge (S12)
+**24th - AirInAirOut (6):** Ryfri (S2), Brodator (S2), CommanderK22_ (S5), SpaceFenix (S5), Brodator (S5), auradiplo (S12)
 
-**22nd - Ryfri (6):** nug17 (S1), 78ford (S1), Andronify (S1), natsuvi (S1), Markedbooboy (S1), natsuvi (S3)
+**24th - Bobbytheturtle (6):** NickPlaysGames15 (S10), Kaimaxon (S12), Spongey (S13), SpaceFenix (S13), Cooooldude (S13), Stravilight (S13)
 
-**22nd - TacoDab (6):** Rohcket (S2), ColdBac (S2), SpaceFenix (S2), Fcrm (S2), TehBaconBrawlerZ (S2), MercuryParadox (S2)
+**24th - fruitlogic (6):** TacoDab (S3), Andronify (S4), Codwhy (S8), Caydone (S10), TheRealHagrid (S11), BoltsInCharge (S12)
 
-**26th - Brodator (5):** LipGlossica (S4), Stravilight (S4), Bornyo (S5), CommanderK22_ (S6), ShootingGoats (S6)
+**24th - swishduck (6):** TheSlimeBrother (S13), ZebraPantz (S13), Ryfri (S13), Bornyo (S13), Sharkbob94349 (S13), _1mmortal_ (S13)
 
-**26th - wizarde (5):** fruitlogic (S1), TheRealHagrid (S1), Vetmire (S1), AirInAirOut (S5), Kaismartypants (S6)
+**24th - TacoDab (6):** Rohcket (S2), ColdBac (S2), SpaceFenix (S2), Fcrm (S2), TehBaconBrawlerZ (S2), MercuryParadox (S2)
 
-**28th - CommanderK22_ (4):** ColdBac (S7), Blarkslol (S7), natsuvi (S7), Westcraft00 (S12)
+**29th - Brodator (5):** LipGlossica (S4), Stravilight (S4), Bornyo (S5), CommanderK22_ (S6), ShootingGoats (S6)
 
-**28th - Glarza (4):** omchris (S11), grantfaker (S11), Fcrm (S11), natsuvi (S11)
+**29th - wizarde (5):** fruitlogic (S1), TheRealHagrid (S1), Vetmire (S1), AirInAirOut (S5), Kaismartypants (S6)
 
-**28th - NickPlaysGames15 (4):** DarrenBGP (S6), ShootingGoats (S9), BoltsInCharge (S9), Kaismartypants (S10)
+**31st - auradiplo (4):** wibbol (S11), TacoDab (S12), Ryfri (S12), ScaryPumpkinFace (S13)
 
-**28th - PresidentFleb (4):** Cooooldude (S11), Bobbytheturtle (S11), Stravilight (S11), DevoyTTV (S11)
+**31st - CommanderK22_ (4):** ColdBac (S7), Blarkslol (S7), natsuvi (S7), Westcraft00 (S12)
 
-**28th - ShootingGoats (4):** Fcrm (S7), CAMKART100 (S11), Blarkslol (S11), JaqOnCraq (S11)
+**31st - Glarza (4):** omchris (S11), grantfaker (S11), Fcrm (S11), natsuvi (S11)
 
-**28th - Stravilight (4):** ChainingVermin2 (S5), Cubic44 (S11), _1mmortal_ (S11), fruitlogic (S11)
+**31st - NickPlaysGames15 (4):** DarrenBGP (S6), ShootingGoats (S9), BoltsInCharge (S9), Kaismartypants (S10)
 
-**28th - Vetmire (4):** BoltsInCharge (S1), MercuryParadox (S5), Westcraft00 (S9), noktime (S10)
+**31st - PresidentFleb (4):** Cooooldude (S11), Bobbytheturtle (S11), Stravilight (S11), DevoyTTV (S11)
 
-**35th - Andronify (3):** MarcC5M (S1), Sharkbob94349 (S4), CodeJoshua (S6)
+**31st - ShootingGoats (4):** Fcrm (S7), CAMKART100 (S11), Blarkslol (S11), JaqOnCraq (S11)
 
-**35th - auradiplo (3):** wibbol (S11), TacoDab (S12), Ryfri (S12)
+**31st - Vetmire (4):** BoltsInCharge (S1), MercuryParadox (S5), Westcraft00 (S9), noktime (S10)
 
-**35th - MercuryParadox (3):** SpaceFenix (S3), ZebraPantz (S3), wizarde (S3)
+**38th - Andronify (3):** MarcC5M (S1), Sharkbob94349 (S4), CodeJoshua (S6)
 
-**35th - TheSlimeBrother (3):** Kaimaxon (S4), NickPlaysGames15 (S4), _1mmortal_ (S5)
+**38th - Bornyo (3):** Westcraft00 (S6), ZebraPantz (S6), TehBaconBrawlerZ (S13)
 
-**39th - Bobbytheturtle (2):** NickPlaysGames15 (S10), Kaimaxon (S12)
+**38th - MercuryParadox (3):** SpaceFenix (S3), ZebraPantz (S3), wizarde (S3)
 
-**39th - Bornyo (2):** Westcraft00 (S6), ZebraPantz (S6)
+**38th - TheSlimeBrother (3):** Kaimaxon (S4), NickPlaysGames15 (S4), _1mmortal_ (S5)
 
-**39th - CrowJRC (2):** zoeywithawhy (S12), Bobbytheturtle (S12)
+**42nd - CrowJRC (2):** zoeywithawhy (S12), Bobbytheturtle (S12)
 
-**39th - DevoyTTV (2):** CAMKART100 (S5), benidk (S11)
+**42nd - DevoyTTV (2):** CAMKART100 (S5), benidk (S11)
 
-**39th - Gorgerous (2):** CommanderK22_ (S10), ZebraPantz (S10)
+**42nd - Gorgerous (2):** CommanderK22_ (S10), ZebraPantz (S10)
 
-**39th - Kaddyn (2):** Kaismartypants (S2), ItsShqky (S2)
+**42nd - Kaddyn (2):** Kaismartypants (S2), ItsShqky (S2)
 
-**39th - Kaismartypants (2):** Sharkbob94349 (S3), Ryfri (S5)
+**42nd - Kaismartypants (2):** Sharkbob94349 (S3), Ryfri (S5)
 
-**39th - Markedbooboy (2):** Klickacat (S4), Blarkslol (S5)
+**42nd - Markedbooboy (2):** Klickacat (S4), Blarkslol (S5)
 
-**47th - 4EyedSlime (1):** natsuvi (S9)
+**48th - 4EyedSlime (1):** natsuvi (S9)
 
-**47th - benidk (1):** bayweafs (S1)
+**48th - benidk (1):** bayweafs (S1)
 
-**47th - DarrenBGP (1):** _1mmortal_ (S4)
+**48th - DarrenBGP (1):** _1mmortal_ (S4)
 
-**47th - EndestroyerEpic (1):** Sharkbob94349 (S12)
+**48th - EndestroyerEpic (1):** Sharkbob94349 (S12)
 
-**47th - Flcnt (1):** fruitlogic (S12)
+**48th - Flcnt (1):** fruitlogic (S12)
 
-**47th - Foxily (1):** Klickacat (S12)
+**48th - Foxily (1):** Klickacat (S12)
 
-**47th - Kaimaxon (1):** Glarza (S12)
+**48th - Kaimaxon (1):** Glarza (S12)
 
-**47th - lasdarling (1):** 78ford (S2)
+**48th - lasdarling (1):** 78ford (S2)
 
-**47th - Logan_S_ (1):** Gorgerous (S6)
+**48th - Logan_S_ (1):** Gorgerous (S6)
 
-**47th - Nuclearsugar (1):** BoltsInCharge (S10)
+**48th - Nuclearsugar (1):** BoltsInCharge (S10)
 
-**47th - omchris (1):** ScaryPumpkinFace (S12)
+**48th - omchris (1):** ScaryPumpkinFace (S12)
 
-**47th - Plushy33 (1):** Boomblade60 (S11)
+**48th - Plushy33 (1):** Boomblade60 (S11)
 
-**47th - ScaryPumpkinFace (1):** Hecticity (S12)
+**48th - ScaryPumpkinFace (1):** Hecticity (S12)
 
-**47th - YellowVitt (1):** TheSlimeBrother (S12)
+**48th - YellowVitt (1):** TheSlimeBrother (S12)
 
 ---
 ### PvE Deaths
 
 **Creeper (14):** benidk (S1), CAMKART100 (S2), lasdarling (S2), wizarde (S2), Fcrm (S3), DJoee (S4), TacoDab (S5), Blarkslol (S6), Scringus (S6), Sharkbob94349 (S6), DevoyTTV (S8), 78ford (S9), LipGlossica (S9), Foxily (S12)
 
-**Fall (9):** Spongey (S2), Codwhy (S4), DJoee (S8), kirbey (S8), Ryfri (S8), nug17 (S10), ColdBac (S10), Westcraft00 (S11), Caydone (S12)
+**Fall (10):** Spongey (S2), Codwhy (S4), DJoee (S8), kirbey (S8), Ryfri (S8), nug17 (S10), ColdBac (S10), Westcraft00 (S11), Caydone (S12), broccoliar (S13)
 
 **Burning (3):** Cooooldude (S10), omchris (S10), _1mmortal_ (S10)
 
@@ -371,29 +389,31 @@
 ---
 ### Participation
 
-**12 Seasons (5):** _1mmortal_ (S1-S12), Blarkslol (S1-S12), BoltsInCharge (S1-S12), CommanderK22_ (S1-S12), Sharkbob94349 (S1-S12)
+**13 Seasons (4):** _1mmortal_ (S1-S13), Blarkslol (S1-S13), BoltsInCharge (S1-S13), Sharkbob94349 (S1-S13)
 
-**11 Seasons (2):** broccoliar (S1-S4,S6-S12), ZebraPantz (S1-S6,S8-S12)
+**12 Seasons (3):** broccoliar (S1-S4,S6-S13), CommanderK22_ (S1-S12), ZebraPantz (S1-S6,S8-S13)
 
-**10 Seasons (3):** SpaceFenix (S1-S3,S5-S10,S12), TheRealHagrid (S1-S7,S9,S11-S12), CAMKART100 (S2-S7,S9-S12)
+**11 Seasons (3):** SpaceFenix (S1-S3,S5-S10,S12-S13), TheRealHagrid (S1-S7,S9,S11-S13), CAMKART100 (S2-S7,S9-S13)
 
-**9 Seasons (5):** DJoee (S1,S3-S5,S8-S12), Fcrm (S1-S5,S7,S10-S12), natsuvi (S1,S3-S4,S6-S11), Ryfri (S1-S5,S8-S10,S12), Westcraft00 (S3-S6,S8-S12)
+**10 Seasons (2):** Fcrm (S1-S5,S7,S10-S13), Ryfri (S1-S5,S8-S10,S12-S13)
 
-**8 Seasons (4):** fruitlogic (S1,S3-S4,S7-S8,S10-S12), Spongey (S1-S2,S4,S7,S9-S12), Kaimaxon (S2-S5,S8-S10,S12), TheSlimeBrother (S2-S7,S10,S12)
+**9 Seasons (5):** DJoee (S1,S3-S5,S8-S12), natsuvi (S1,S3-S4,S6-S11), Spongey (S1-S2,S4,S7,S9-S13), TheSlimeBrother (S2-S7,S10,S12-S13), Westcraft00 (S3-S6,S8-S12)
 
-**7 Seasons (6):** JaqOnCraq (S1-S2,S4,S8-S11), Kaismartypants (S1-S3,S5-S6,S9-S10), CodeJoshua (S2,S4,S6-S9,S12), ColdBac (S2,S4,S6-S7,S9-S10,S12), ChainingVermin2 (S3,S5,S7-S11), ShootingGoats (S5-S7,S9-S12)
+**8 Seasons (5):** fruitlogic (S1,S3-S4,S7-S8,S10-S12), JaqOnCraq (S1-S2,S4,S8-S11,S13), CodeJoshua (S2,S4,S6-S9,S12-S13), Kaimaxon (S2-S5,S8-S10,S12), ShootingGoats (S5-S7,S9-S13)
 
-**6 Seasons (7):** ItsShqky (S1-S5,S10), TehBaconBrawlerZ (S1-S3,S8-S10), wizarde (S1-S6), MercuryParadox (S2-S7), Stravilight (S4-S6,S10-S12), Cooooldude (S6-S11), omchris (S7-S12)
+**7 Seasons (7):** Kaismartypants (S1-S3,S5-S6,S9-S10), TehBaconBrawlerZ (S1-S3,S8-S10,S13), ColdBac (S2,S4,S6-S7,S9-S10,S12), ChainingVermin2 (S3,S5,S7-S11), Stravilight (S4-S6,S10-S13), Cooooldude (S6-S11,S13), omchris (S7-S13)
 
-**5 Seasons (9):** Kaddyn (S1-S2,S4-S5,S7), Markedbooboy (S1,S3-S5,S7), Vetmire (S1,S5-S6,S9-S10), Bornyo (S2-S6), Brodator (S2,S4-S6,S12), Rohcket (S2,S6,S9-S10,S12), TacoDab (S2-S5,S12), Nuclearsugar (S3-S4,S7,S10,S12), Caydone (S6,S8-S10,S12)
+**6 Seasons (6):** ItsShqky (S1-S5,S10), wizarde (S1-S6), Bornyo (S2-S6,S13), MercuryParadox (S2-S7), Nuclearsugar (S3-S4,S7,S10,S12-S13), Caydone (S6,S8-S10,S12-S13)
 
-**4 Seasons (7):** 78ford (S1-S2,S5,S9), AirInAirOut (S1-S2,S5,S12), benidk (S1,S10-S12), DevoyTTV (S1,S5,S8,S11), NickPlaysGames15 (S4,S6,S9-S10), Scringus (S6,S8,S11-S12), Greeples (S8,S10-S12)
+**5 Seasons (7):** benidk (S1,S10-S13), Kaddyn (S1-S2,S4-S5,S7), Markedbooboy (S1,S3-S5,S7), Vetmire (S1,S5-S6,S9-S10), Brodator (S2,S4-S6,S12), Rohcket (S2,S6,S9-S10,S12), TacoDab (S2-S5,S12)
 
-**3 Seasons (12):** Andronify (S1,S4,S6), bayweafs (S1-S2,S4), Evzenitable (S1,S9-S10), Codwhy (S2,S4,S8), DarrenBGP (S2,S4,S6), noktime (S3-S4,S10), LipGlossica (S4,S6,S9), cherryblawsom (S5-S6,S10), Gorgerous (S6,S8,S10), 123SteveBob (S7-S9), Bobbytheturtle (S10-S12), grantfaker (S10-S12)
+**4 Seasons (7):** 78ford (S1-S2,S5,S9), AirInAirOut (S1-S2,S5,S12), DevoyTTV (S1,S5,S8,S11), NickPlaysGames15 (S4,S6,S9-S10), Scringus (S6,S8,S11-S12), Greeples (S8,S10-S12), Bobbytheturtle (S10-S13)
 
-**2 Seasons (12):** nug17 (S1,S10), RuneTactics (S3,S10), Klickacat (S4,S12), turicake (S4,S8), ThisIsHab (S6,S9), WackoFlipper (S6,S11), ohh_lia (S8,S12), 4EyedSlime (S9-S10), PresidentFleb (S10-S11), auradiplo (S11-S12), Glarza (S11-S12), ProGirlGamer (S11-S12)
+**3 Seasons (14):** Andronify (S1,S4,S6), bayweafs (S1-S2,S4), Evzenitable (S1,S9-S10), Codwhy (S2,S4,S8), DarrenBGP (S2,S4,S6), noktime (S3-S4,S10), LipGlossica (S4,S6,S9), cherryblawsom (S5-S6,S10), Gorgerous (S6,S8,S10), 123SteveBob (S7-S9), ohh_lia (S8,S12-S13), 4EyedSlime (S9-S10,S13), grantfaker (S10-S12), auradiplo (S11-S13)
 
-**1 Season (27):** HigmanFreud (S1), MarcC5M (S1), Ninetals38 (S1), Randehh (S1), stupidsylvia (S1), lasdarling (S2), Psykl0ne (S2), Zenithu (S2), Logan_S_ (S6), _Fost_ (S7), flintflint04 (S7), kirbey (S8), GuyGojo (S9), SharkeyJaws (S10), Boomblade60 (S11), Cubic44 (S11), Plushy33 (S11), wibbol (S11), CrowJRC (S12), EndestroyerEpic (S12), Flcnt (S12), Foxily (S12), Hecticity (S12), ImChile (S12), ScaryPumpkinFace (S12), YellowVitt (S12), zoeywithawhy (S12)
+**2 Seasons (15):** nug17 (S1,S10), RuneTactics (S3,S10), Klickacat (S4,S12), turicake (S4,S8), ThisIsHab (S6,S9), WackoFlipper (S6,S11), PresidentFleb (S10-S11), Glarza (S11-S12), Plushy33 (S11,S13), ProGirlGamer (S11-S12), CrowJRC (S12-S13), Flcnt (S12-S13), Foxily (S12-S13), ScaryPumpkinFace (S12-S13), YellowVitt (S12-S13)
+
+**1 Season (23):** HigmanFreud (S1), MarcC5M (S1), Ninetals38 (S1), Randehh (S1), stupidsylvia (S1), lasdarling (S2), Psykl0ne (S2), Zenithu (S2), Logan_S_ (S6), _Fost_ (S7), flintflint04 (S7), kirbey (S8), GuyGojo (S9), SharkeyJaws (S10), Boomblade60 (S11), Cubic44 (S11), wibbol (S11), EndestroyerEpic (S12), Hecticity (S12), ImChile (S12), zoeywithawhy (S12), brinkwhy (S13), swishduck (S13)
 
 ---
 ### Debutants
@@ -421,5 +441,7 @@
 **S11 (7):** auradiplo, Boomblade60, Cubic44, Glarza, Plushy33, ProGirlGamer, wibbol
 
 **S12 (9):** CrowJRC, EndestroyerEpic, Flcnt, Foxily, Hecticity, ImChile, ScaryPumpkinFace, YellowVitt, zoeywithawhy
+
+**S13 (2):** brinkwhy, swishduck
 
 ---

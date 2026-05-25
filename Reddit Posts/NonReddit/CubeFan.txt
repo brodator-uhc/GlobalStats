@@ -137,7 +137,7 @@
 
 **21st - audjohn247 (1):** AlkuranZak (S2)
 
-**21st - CloseIT (1):** Hendysaurus (S4)
+**21st - ClosedIT (1):** Hendysaurus (S4)
 
 **21st - Dragzin (1):** Austral (S2)
 
@@ -159,7 +159,7 @@
 
 **21st - Stravlight (1):** zanderjac (S2)
 
-**21st - violetwoah (1):** CloseIT (S4)
+**21st - violetwoah (1):** ClosedIT (S4)
 
 ---
 ### PvE Deaths
@@ -197,7 +197,7 @@
 
 **2 Seasons (26):** Blarkslol (S1-S2), BrightSideGames (S1-S2), Delighted2MeetU (S1-S2), fuzzheadlola (S1,S3), ItsShqky (S1,S4), Markedbooboy (S1-S2), NickPlaysGames15 (S1,S4), Noodles99 (S1,S3), TookYourMan (S1-S2), Bofishkix (S2,S4), crity (S2-S3), Evzenitable (S2,S4), Hauntin (S2,S4), Hendysaurus (S2,S4), Megumin_ (S2-S3), Pelycosaur (S2,S4), Sc1z (S2-S3), Silent_Nike (S2-S3), Skifz (S2-S3), Sub2Stewlax (S2-S3), UnFeatured (S2-S3), zanderjac (S2-S3), _Fost_ (S3-S4), _Txchno_ (S3-S4), love_gem4164 (S3-S4), SergeantM (S3-S4)
 
-**1 Season (55):** _shadowapples (S1), AeroCash (S1), Clauren (S1), ghostblurr (S1), GreenMatius (S1), HeyImMiaYT (S1), Stampysmith (S1), Stravilight (S1), _Kyle17 (S2), 343Kento (S2), audjohn247 (S2), Austral (S2), Bluebell1942 (S2), BlueWolfxoxo (S2), DevoyTTV (S2), doubleturtle (S2), Dragzin (S2), DrProfessorOwl (S2), Flowtives (S2), ForgeOne (S2), GermanFlag (S2), Justinpack (S2), Ninjaisaac04 (S2), oTylerrr (S2), RapidFire05 (S2), SteamChaos (S2), Stravlight (S2), synergy_iwnl_ (S2), Tek_kit (S2), Tobyson3d (S2), cryoparty (S3), DestinyForeva (S3), FelseyBigMuscles (S3), HeyItsJBug (S3), Klankay (S3), Laurana (S3), MindMash (S3), Tornadic (S3), Tsuruya_ (S3), AdonisGaming (S4), ChessmanTroy (S4), CloseIT (S4), Dredex (S4), Evxn101 (S4), GamingStarr (S4), Glarza (S4), Karliffu (S4), Klanke (S4), NotChewi (S4), sadmarcelo (S4), Senkhi (S4), Slooshyy (S4), violetwoah (S4), wrenston (S4), xPandaaz (S4)
+**1 Season (55):** _shadowapples (S1), AeroCash (S1), Clauren (S1), ghostblurr (S1), GreenMatius (S1), HeyImMiaYT (S1), Stampysmith (S1), Stravilight (S1), _Kyle17 (S2), 343Kento (S2), audjohn247 (S2), Austral (S2), Bluebell1942 (S2), BlueWolfxoxo (S2), DevoyTTV (S2), doubleturtle (S2), Dragzin (S2), DrProfessorOwl (S2), Flowtives (S2), ForgeOne (S2), GermanFlag (S2), Justinpack (S2), Ninjaisaac04 (S2), oTylerrr (S2), RapidFire05 (S2), SteamChaos (S2), Stravlight (S2), synergy_iwnl_ (S2), Tek_kit (S2), Tobyson3d (S2), cryoparty (S3), DestinyForeva (S3), FelseyBigMuscles (S3), HeyItsJBug (S3), Klankay (S3), Laurana (S3), MindMash (S3), Tornadic (S3), Tsuruya_ (S3), AdonisGaming (S4), ChessmanTroy (S4), ClosedIT (S4), Dredex (S4), Evxn101 (S4), GamingStarr (S4), Glarza (S4), Karliffu (S4), Klanke (S4), NotChewi (S4), sadmarcelo (S4), Senkhi (S4), Slooshyy (S4), violetwoah (S4), wrenston (S4), xPandaaz (S4)
 
 ---
 ### Debutants
@@ -208,6 +208,6 @@
 
 **S3 (13):** _Fost_, _Txchno_, cryoparty, DestinyForeva, FelseyBigMuscles, HeyItsJBug, Klankay, Laurana, love_gem4164, MindMash, SergeantM, Tornadic, Tsuruya_
 
-**S4 (16):** AdonisGaming, ChessmanTroy, CloseIT, Dredex, Evxn101, GamingStarr, Glarza, Karliffu, Klanke, NotChewi, sadmarcelo, Senkhi, Slooshyy, violetwoah, wrenston, xPandaaz
+**S4 (16):** AdonisGaming, ChessmanTroy, ClosedIT, Dredex, Evxn101, GamingStarr, Glarza, Karliffu, Klanke, NotChewi, sadmarcelo, Senkhi, Slooshyy, violetwoah, wrenston, xPandaaz
 
 ---

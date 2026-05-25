@@ -316,7 +316,7 @@
 ---
 ### PvE Deaths
 
-**Fall (12):** Skylaa (S3), Kenjai (S8), Kataros (S8), Marccus (S8), Sapyx (S8), Ragiel_ (S8), Carbonara (S8), Maxator34_ (S8), JC (S9), Tnt_79 (S10), Degre_ (S10), EvoRay (S10)
+**Fall (12):** Skylaa (S3), Kenjai (S8), Kataros (S8), Marccus (S8), Sapyx (S8), Ragiel_ (S8), Carbonara (S8), Maxator34_ (S8), JC_Sakka (S9), Tnt_79 (S10), Degre_ (S10), EvoRay (S10)
 
 **Creeper (3):** TheAlphaX (S5), Hiruko_Senpai (S7), Judipie (S8)
 
@@ -347,7 +347,7 @@
 
 **2 Seasons (12):** AleksaiUwU (S1,S9), Calaaa (S1-S2), Lidqil (S1-S2), Nivekmntls (S3-S4), Rodakk1 (S3,S9), ShoupZ (S3-S4), Gamur (S6,S9), Kataros (S7-S8), LeGrandPigre (S7,S9), BerenGaldos (S8-S9), Carbonara (S8-S9), Falmo (S8-S9)
 
-**1 Season (47):** Banane1299 (S1), Utaaa (S1), Xonome (S1), Airone23 (S2), BahVulkaa (S2), Bafalo (S3), Druillat (S3), Omeega (S3), Skylaa (S3), Brodator (S4), iGuyot (S4), Ullti (S4), Weer94 (S4), Thibosurf1 (S5), Maxow (S6), Naxhin (S6), Sili (S6), Taiimana (S6), Eca (S7), TitBiscuit (S7), Srangee (S8), Abraxxan (S9), Akwaden (S9), Axaltau (S9), BaSsilA (S9), CacaMan (S9), EhFiredo (S9), Ender_oO (S9), Faeten (S9), Fhara (S9), Flouzemaker (S9), Islijelis (S9), JC (S9), JulDragonne (S9), Luxsmo (S9), Lykos (S9), MrGougi (S9), Nintasma (S9), Notitou (S9), Oompa0Loompa (S9), Shintaro (S9), Sk0rmyUwU (S9), Stoupy51 (S9), TheRedMan88 (S9), Timothaay (S9), Toopinette (S9), TreekoZ (S9)
+**1 Season (47):** Banane1299 (S1), Utaaa (S1), Xonome (S1), Airone23 (S2), BahVulkaa (S2), Bafalo (S3), Druillat (S3), Omeega (S3), Skylaa (S3), Brodator (S4), iGuyot (S4), Ullti (S4), Weer94 (S4), Thibosurf1 (S5), Maxow (S6), Naxhin (S6), Sili (S6), Taiimana (S6), Eca (S7), TitBiscuit (S7), Srangee (S8), Abraxxan (S9), Akwaden (S9), Axaltau (S9), BaSsilA (S9), CacaMan (S9), EhFiredo (S9), Ender_oO (S9), Faeten (S9), Fhara (S9), Flouzemaker (S9), Islijelis (S9), JC_Sakka (S9), JulDragonne (S9), Luxsmo (S9), Lykos (S9), MrGougi (S9), Nintasma (S9), Notitou (S9), Oompa0Loompa (S9), Shintaro (S9), Sk0rmyUwU (S9), Stoupy51 (S9), TheRedMan88 (S9), Timothaay (S9), Toopinette (S9), TreekoZ (S9)
 
 ---
 ### Debutants
@@ -368,7 +368,7 @@
 
 **S8 (4):** BerenGaldos, Carbonara, Falmo, Srangee
 
-**S9 (26):** Abraxxan, Akwaden, Axaltau, BaSsilA, CacaMan, EhFiredo, Ender_oO, Faeten, Fhara, Flouzemaker, Islijelis, JC, JulDragonne, Luxsmo, Lykos, MrGougi, Nintasma, Notitou, Oompa0Loompa, Shintaro, Sk0rmyUwU, Stoupy51, TheRedMan88, Timothaay, Toopinette, TreekoZ
+**S9 (26):** Abraxxan, Akwaden, Axaltau, BaSsilA, CacaMan, EhFiredo, Ender_oO, Faeten, Fhara, Flouzemaker, Islijelis, JC_Sakka, JulDragonne, Luxsmo, Lykos, MrGougi, Nintasma, Notitou, Oompa0Loompa, Shintaro, Sk0rmyUwU, Stoupy51, TheRedMan88, Timothaay, Toopinette, TreekoZ
 
 **S10 (0):** 
 

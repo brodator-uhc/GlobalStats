@@ -104,7 +104,7 @@
 ---
 ### PvE Deaths
 
-**Creeper (5):** Varuh (S2), PS4Life (S2), AyakaLilli (S2), ImTJ (S3), Kathyy__ (S3)
+**Creeper (5):** Varuh (S2), PS4Life (S2), CelestialReira (S2), ImTJ (S3), Kathyy__ (S3)
 
 **Burning (1):** homewerk (S1)
 
@@ -123,14 +123,14 @@
 
 **2 Seasons (5):** FrowardSnake (S1,S3), VIBEEY (S1,S3), ACommonKiwi (S2-S3), iShadow (S2-S3), JamestheDouglas (S2-S3)
 
-**1 Season (35):** billyummmm (S1), flashingsxd (S1), found_a_puppy (S1), homewerk (S1), KingMoooo (S1), KooCwip (S1), The_Wild_Senpai (S1), TJM10 (S1), VyperrCraft (S1), AyakaLilli (S2), brinkwhy (S2), centraleric (S2), Centrios (S2), FlareFusion (S2), FlashingsMC (S2), GalacticFyah (S2), Hedidit (S2), JaeHasNoMaidens (S2), Oddless (S2), PS4Life (S2), SummerBqsh (S2), Varuh (S2), Voltuh (S2), DrHamster654 (S3), grayisawkward (S3), HeyImAqua (S3), ImTJ (S3), Kathyy__ (S3), Kqvn (S3), MarinePlays (S3), Platys (S3), ReinhartMC03 (S3), Wispah (S3), xCrazyNarwhal (S3), Zenger (S3)
+**1 Season (35):** billyummmm (S1), flashingsxd (S1), found_a_puppy (S1), homewerk (S1), KingMoooo (S1), KooCwip (S1), The_Wild_Senpai (S1), TJM10 (S1), VyperrCraft (S1), brinkwhy (S2), CelestialReira (S2), centraleric (S2), Centrios (S2), FlareFusion (S2), FlashingsMC (S2), GalacticFyah (S2), Hedidit (S2), JaeHasNoMaidens (S2), Oddless (S2), PS4Life (S2), SummerBqsh (S2), Varuh (S2), Voltuh (S2), DrHamster654 (S3), grayisawkward (S3), HeyImAqua (S3), ImTJ (S3), Kathyy__ (S3), Kqvn (S3), MarinePlays (S3), Platys (S3), ReinhartMC03 (S3), Wispah (S3), xCrazyNarwhal (S3), Zenger (S3)
 
 ---
 ### Debutants
 
 **S1 (15):** billyummmm, DevoyTTV, flashingsxd, found_a_puppy, FrowardSnake, homewerk, KingMoooo, KooCwip, Sneaky26, Strobez, The_Wild_Senpai, TJM10, VIBEEY, VyperrCraft, xJC
 
-**S2 (17):** ACommonKiwi, AyakaLilli, brinkwhy, centraleric, Centrios, FlareFusion, FlashingsMC, GalacticFyah, Hedidit, iShadow, JaeHasNoMaidens, JamestheDouglas, Oddless, PS4Life, SummerBqsh, Varuh, Voltuh
+**S2 (17):** ACommonKiwi, brinkwhy, CelestialReira, centraleric, Centrios, FlareFusion, FlashingsMC, GalacticFyah, Hedidit, iShadow, JaeHasNoMaidens, JamestheDouglas, Oddless, PS4Life, SummerBqsh, Varuh, Voltuh
 
 **S3 (12):** DrHamster654, grayisawkward, HeyImAqua, ImTJ, Kathyy__, Kqvn, MarinePlays, Platys, ReinhartMC03, Wispah, xCrazyNarwhal, Zenger
 

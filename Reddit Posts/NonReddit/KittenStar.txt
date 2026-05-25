@@ -59,9 +59,9 @@
 ---
 ### Kills
 
-**1st - Karliffu (6):** KingOfDaTrash (S1), AznNinja (S1), VanillaChanny (S1), PufferFishPlayz (S1), OnlyHalf (S2), PotteryTNT (S2)
+**1st - Karliffu (6):** KingOfDaTrash (S1), CelestialReira (S1), VanillaChanny (S1), PufferFishPlayz (S1), OnlyHalf (S2), PotteryTNT (S2)
 
-**2nd - DevoyTTV (5):** ghostblurr (S1), Bofishkix (S2), AdonisGaming (S2), AznNinja (S2), Ninjaisaac04 (S2)
+**2nd - DevoyTTV (5):** ghostblurr (S1), Bofishkix (S2), AdonisGaming (S2), CelestialReira (S2), Ninjaisaac04 (S2)
 
 **3rd - Bofishkix (4):** SwordsmanJoe (S1), MichaelPlayMC (S1), SummerBqsh (S1), JaqOnCraq (S1)
 
@@ -75,7 +75,7 @@
 
 **7th - alexnv (1):** DevoyTTV (S1)
 
-**7th - AznNinja (1):** alexnv (S1)
+**7th - CelestialReira (1):** alexnv (S1)
 
 **7th - CipherKai (1):** TheSheepMasters (S2)
 
@@ -95,14 +95,14 @@
 ---
 ### Participation
 
-**2 Seasons (8):** AdonisGaming (S1-S2), AznNinja (S1-S2), Bofishkix (S1-S2), DevoyTTV (S1-S2), Karliffu (S1-S2), Pelycosaur (S1-S2), SandyyChan (S1-S2), VanillaChanny (S1-S2)
+**2 Seasons (8):** AdonisGaming (S1-S2), Bofishkix (S1-S2), CelestialReira (S1-S2), DevoyTTV (S1-S2), Karliffu (S1-S2), Pelycosaur (S1-S2), SandyyChan (S1-S2), VanillaChanny (S1-S2)
 
 **1 Season (21):** alexnv (S1), Aussiewolf1899 (S1), ghostblurr (S1), GreenMatius (S1), JaqOnCraq (S1), Jwillnot (S1), KingOfDaTrash (S1), MichaelPlayMC (S1), Plushy33 (S1), PufferFishPlayz (S1), RocketChampion (S1), SummerBqsh (S1), SwordsmanJoe (S1), CipherKai (S2), ItsShqky (S2), JoshC2 (S2), MsCrystal (S2), Ninjaisaac04 (S2), OnlyHalf (S2), PotteryTNT (S2), TheSheepMasters (S2)
 
 ---
 ### Debutants
 
-**S1 (21):** AdonisGaming, alexnv, Aussiewolf1899, AznNinja, Bofishkix, DevoyTTV, ghostblurr, GreenMatius, JaqOnCraq, Jwillnot, Karliffu, KingOfDaTrash, MichaelPlayMC, Pelycosaur, Plushy33, PufferFishPlayz, RocketChampion, SandyyChan, SummerBqsh, SwordsmanJoe, VanillaChanny
+**S1 (21):** AdonisGaming, alexnv, Aussiewolf1899, Bofishkix, CelestialReira, DevoyTTV, ghostblurr, GreenMatius, JaqOnCraq, Jwillnot, Karliffu, KingOfDaTrash, MichaelPlayMC, Pelycosaur, Plushy33, PufferFishPlayz, RocketChampion, SandyyChan, SummerBqsh, SwordsmanJoe, VanillaChanny
 
 **S2 (8):** CipherKai, ItsShqky, JoshC2, MsCrystal, Ninjaisaac04, OnlyHalf, PotteryTNT, TheSheepMasters
 
