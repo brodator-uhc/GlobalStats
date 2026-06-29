@@ -33,17 +33,17 @@
 ---
 ### First Blood
 
-**S1:** centraleric (NajaOxiana)
+**S1:** centraleric (illuminaja)
 
 ---
 ### First Death
 
-**S1:** NajaOxiana (centraleric)
+**S1:** illuminaja (centraleric)
 
 ---
 ### Kills
 
-**1st - pigghetti (7):** Digitale (S1), Drake132667596 (S1), Randehh (S1), ohh_lia (S1), RqDix (S1), Phoraxe (S1), Brodator (S1)
+**1st - pigghetti (7):** Digitale (S1), Drake132667596 (S1), Randehh (S1), ohh_lia (S1), AsianCheatCode (S1), Phoraxe (S1), Brodator (S1)
 
 **2nd - Brodator (3):** Drkrai (S1), centraleric (S1), lexicuhl (S1)
 
@@ -57,11 +57,13 @@
 
 **6th - MajorWoof (2):** Bulbexe (S1), DJoee (S1)
 
+**8th - AsianCheatCode (1):** natsuvi (S1)
+
 **8th - Austronomical (1):** Kelawesome (S1)
 
 **8th - Bulbexe (1):** Austronomical (S1)
 
-**8th - centraleric (1):** NajaOxiana (S1)
+**8th - centraleric (1):** illuminaja (S1)
 
 **8th - GamerNthn (1):** Jordtim (S1)
 
@@ -71,19 +73,17 @@
 
 **8th - Purpdan (1):** TalonBX (S1)
 
-**8th - RqDix (1):** natsuvi (S1)
-
 ---
 ### PvE Deaths
 
 ---
 ### Participation
 
-**1 Season (32):** Austronomical (S1), BardMain2 (S1), Brodator (S1), Bulbexe (S1), centraleric (S1), Charrlottie (S1), cherryblawsom (S1), chloesad (S1), Digitale (S1), DJoee (S1), Drake132667596 (S1), Drkrai (S1), GamerNthn (S1), Greeples (S1), Jordtim (S1), Kelawesome (S1), lexicuhl (S1), Livin423 (S1), MajorWoof (S1), MaxEvasion (S1), NajaOxiana (S1), natsuvi (S1), Normoh (S1), ohh_lia (S1), olivieh (S1), Phoraxe (S1), pigghetti (S1), Purpdan (S1), Randehh (S1), RqDix (S1), TalonBX (S1), WackoFlipper (S1)
+**1 Season (32):** AsianCheatCode (S1), Austronomical (S1), BardMain2 (S1), Brodator (S1), Bulbexe (S1), centraleric (S1), Charrlottie (S1), cherryblawsom (S1), chloesad (S1), Digitale (S1), DJoee (S1), Drake132667596 (S1), Drkrai (S1), GamerNthn (S1), Greeples (S1), illuminaja (S1), Jordtim (S1), Kelawesome (S1), lexicuhl (S1), Livin423 (S1), MajorWoof (S1), MaxEvasion (S1), natsuvi (S1), Normoh (S1), ohh_lia (S1), olivieh (S1), Phoraxe (S1), pigghetti (S1), Purpdan (S1), Randehh (S1), TalonBX (S1), WackoFlipper (S1)
 
 ---
 ### Debutants
 
-**S1 (32):** Austronomical, BardMain2, Brodator, Bulbexe, centraleric, Charrlottie, cherryblawsom, chloesad, Digitale, DJoee, Drake132667596, Drkrai, GamerNthn, Greeples, Jordtim, Kelawesome, lexicuhl, Livin423, MajorWoof, MaxEvasion, NajaOxiana, natsuvi, Normoh, ohh_lia, olivieh, Phoraxe, pigghetti, Purpdan, Randehh, RqDix, TalonBX, WackoFlipper
+**S1 (32):** AsianCheatCode, Austronomical, BardMain2, Brodator, Bulbexe, centraleric, Charrlottie, cherryblawsom, chloesad, Digitale, DJoee, Drake132667596, Drkrai, GamerNthn, Greeples, illuminaja, Jordtim, Kelawesome, lexicuhl, Livin423, MajorWoof, MaxEvasion, natsuvi, Normoh, ohh_lia, olivieh, Phoraxe, pigghetti, Purpdan, Randehh, TalonBX, WackoFlipper
 
 ---

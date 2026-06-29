@@ -31,7 +31,7 @@
 
 **S14: Captinn (4)**, *NickPlaysGames15 (1)*
 
-**S15: nug17 (0), RqDix (4), ToontownOnline (2)**, *benidk (2), Glarza (2)*
+**S15: AsianCheatCode (4), nug17 (0), ToontownOnline (2)**, *benidk (2), Glarza (2)*
 
 ---
 ### Runner Ups
@@ -97,7 +97,7 @@
 
 **S14:** natsuvi (6)
 
-**S15:** I_is_cheesecake, RqDix (4)
+**S15:** AsianCheatCode, I_is_cheesecake (4)
 
 ---
 ### Most Kills (Team)
@@ -130,7 +130,7 @@
 
 **S14:** MaxEvasion (2), natsuvi (6)
 
-**S15:** benidk (2), Glarza (2), nug17 (0), RqDix (4), ToontownOnline (2)
+**S15:** benidk (2), Glarza (2), nug17 (0), AsianCheatCode (4), ToontownOnline (2)
 
 ---
 ### First Damage
@@ -246,7 +246,7 @@
 
 **S6:** NickPlaysGames15 (Dawncy)
 
-**S7:** JaeHasNoMaidens (Fall)
+**S7:** commitstaxfraud (Fall)
 
 **S8:** kirbey (Lava)
 
@@ -267,7 +267,7 @@
 ---
 ### Kills
 
-**1st - MaxEvasion (41):** Codwhy (S1), BigJedo (S1), Dawncy (S1), Evzenitable (S2), broccoliar (S2), Zcin (S2), LoafOZ (S2), Plushy33 (S2), Captinn (S3), TehBaconBrawlerZ (S5), _Dieter (S6), AdonisGaming (S6), poWpaH (S7), Glarza (S8), LoafOZ (S8), _Fost_ (S8), ZebraPantz (S8), Codwhy (S9), Brodator (S10), Codwhy (S10), broccoliar (S10), egl_ (S10), _Dieter (S11), Codwhy (S11), xDiversity (S11), Codwhy (S12), WackoFlipper (S12), benidk (S12), Jordtim (S12), NickPlaysGames15 (S12), DJoee (S12), Chrominize (S13), Captinn (S13), Flcnt (S13), broccoliar (S13), RqDix (S13), Gorgerous (S13), Fourbitplayer (S14), poWpaH (S14), Captinn (S15), ArcticSeagull (S15)
+**1st - MaxEvasion (41):** Codwhy (S1), BigJedo (S1), Dawncy (S1), Evzenitable (S2), broccoliar (S2), Zcin (S2), LoafOZ (S2), Plushy33 (S2), Captinn (S3), TehBaconBrawlerZ (S5), _Dieter (S6), AdonisGaming (S6), poWpaH (S7), Glarza (S8), LoafOZ (S8), _Fost_ (S8), ZebraPantz (S8), Codwhy (S9), Brodator (S10), Codwhy (S10), broccoliar (S10), egl_ (S10), _Dieter (S11), Codwhy (S11), xDiversity (S11), Codwhy (S12), WackoFlipper (S12), benidk (S12), Jordtim (S12), NickPlaysGames15 (S12), DJoee (S12), Chrominize (S13), Captinn (S13), Flcnt (S13), broccoliar (S13), AsianCheatCode (S13), Gorgerous (S13), Fourbitplayer (S14), poWpaH (S14), Captinn (S15), ArcticSeagull (S15)
 
 **2nd - Fcrm (24):** GeniRCT (S1), SpaceFenix (S1), Dawncy (S2), _Fost_ (S2), SofaSeven (S2), ZebraPantz (S2), Glarza (S2), OCTAMAN (S2), PresidentFleb (S2), wizarde (S4), Zcin (S4), Fourbitplayer (S5), PresidentFleb (S5), poWpaH (S6), Lsnce (S6), Jahrod (S7), CHAINGE (S7), broccoliar (S7), hazel_doe (S7), MaxEvasion (S7), Vetmire (S7), PresidentFleb (S8), MaxEvasion (S8), Potsie (S8)
 
@@ -287,7 +287,7 @@
 
 **10th - CipherKai (14):** Brodator (S7), Stravilight (S7), NickPlaysGames15 (S7), Fcrm (S7), brinniex (S7), Kaddyn (S7), SpaceFenix (S7), ElGavinoSupremo (S7), Gorgerous (S8), Brodator (S8), CodeJoshua (S9), Karliffu (S9), Jahrod (S9), ZebraPantz (S10)
 
-**10th - poWpaH (14):** Rebelghost (S2), LoafOZ (S4), SpaceFenix (S5), ZebraPantz (S5), JaeHasNoMaidens (S5), broccoliar (S5), Fourbitplayer (S7), Pelycosaur (S7), ElGavinoSupremo (S8), Zevulpes (S9), ZebraPantz (S9), ItsShqky (S9), OhMatias (S12), PresidentFleb (S12)
+**10th - poWpaH (14):** Rebelghost (S2), LoafOZ (S4), SpaceFenix (S5), ZebraPantz (S5), commitstaxfraud (S5), broccoliar (S5), Fourbitplayer (S7), Pelycosaur (S7), ElGavinoSupremo (S8), Zevulpes (S9), ZebraPantz (S9), ItsShqky (S9), OhMatias (S12), PresidentFleb (S12)
 
 **12th - ShyGus (13):** Pelycosaur (S4), TayUHC (S5), Captinn (S5), Jahrod (S5), wizarde (S5), poWpaH (S5), CHAINGE (S13), Greeples (S13), Rohcket (S13), Karliffu (S13), Charrlottie (S15), CodeJoshua (S15), DJoee (S15)
 
@@ -299,7 +299,7 @@
 
 **14th - natsuvi (10):** GeniRCT (S4), ItzIgglesPiggles (S4), Glarza (S4), Jahrod (S8), Kelawesome (S14), Codwhy (S14), _ChrisMS (S14), azoof (S14), Kaddyn (S14), FrostBros (S14)
 
-**17th - _Fost_ (7):** poWpaH (S3), Codwhy (S3), Dawncy (S3), NickPlaysGames15 (S3), ItzIgglesPiggles (S3), Glarza (S6), JaeHasNoMaidens (S15)
+**17th - _Fost_ (7):** poWpaH (S3), Codwhy (S3), Dawncy (S3), NickPlaysGames15 (S3), ItzIgglesPiggles (S3), Glarza (S6), commitstaxfraud (S15)
 
 **17th - broccoliar (7):** OCTAMAN (S5), Stravilight (S5), Dawncy (S7), Codwhy (S7), Charrlottie (S8), hazel_doe (S11), SpaceFenix (S14)
 
@@ -331,6 +331,8 @@
 
 **31st - 4EyedSlime (4):** Charrlottie (S11), Jahrod (S11), pigghetti (S11), zac083 (S13)
 
+**31st - AsianCheatCode (4):** DarrenBGP (S15), TastyBaconZ (S15), Kelawesome (S15), ShyGus (S15)
+
 **31st - brinniex (4):** CipherKai (S9), Jordtim (S9), NickPlaysGames15 (S9), DJoee (S9)
 
 **31st - Codwhy (4):** Jahrod (S2), Zcin (S8), Kaddyn (S13), Sharkbob94349 (S13)
@@ -344,8 +346,6 @@
 **31st - pigghetti (4):** Fcrm (S10), Brodator (S11), Eluniel (S11), Fourbitplayer (S11)
 
 **31st - Rebelghost (4):** poWpaH (S1), NickPlaysGames15 (S1), Fourbitplayer (S1), MaxEvasion (S1)
-
-**31st - RqDix (4):** DarrenBGP (S15), TastyBaconZ (S15), Kelawesome (S15), ShyGus (S15)
 
 **31st - WolfeXCIX (4):** WackoFlipper (S11), broccoliar (S12), MaxEvasion (S12), Microus (S12)
 
@@ -411,13 +411,13 @@
 
 **65th - Chrominize (1):** Vetmire (S3)
 
+**65th - commitstaxfraud (1):** _Dieter (S5)
+
 **65th - Cqson (1):** turicake (S10)
 
 **65th - egl_ (1):** CHAINGE (S5)
 
 **65th - Flcnt (1):** Karliffu (S12)
-
-**65th - JaeHasNoMaidens (1):** _Dieter (S5)
 
 **65th - JamestheDouglas (1):** Caffeindiazepine (S1)
 
@@ -430,11 +430,11 @@
 ---
 ### PvE Deaths
 
-**Fall (9):** ItsShqky (S2), CHAINGE (S6), JaeHasNoMaidens (S7), Potsie (S7), Glarza (S9), Glarza (S11), Rebelghost (S13), kirbey (S14), Eluniel (S14)
+**Fall (9):** ItsShqky (S2), CHAINGE (S6), commitstaxfraud (S7), Potsie (S7), Glarza (S9), Glarza (S11), Rebelghost (S13), kirbey (S14), Eluniel (S14)
 
 **Creeper (4):** ItsShqky (S1), Fourbitplayer (S4), Trinan6918 (S4), Jordtim (S14)
 
-**Lava (3):** kirbey (S8), Stravilight (S9), RqDix (S14)
+**Lava (3):** kirbey (S8), Stravilight (S9), AsianCheatCode (S14)
 
 **Cave Spider (1):** Jahrod (S4)
 
@@ -473,7 +473,7 @@
 
 **4 Seasons (18):** ADinoPlayingMC (S1,S5-S6,S13), egl_ (S1,S3,S5,S10), Rebelghost (S1-S2,S6,S13), ItzIgglesPiggles (S2-S5), TastyBaconZ (S2,S4,S14-S15), Zcin (S2,S4-S5,S8), Bofishkix (S3-S5,S7), natsuvi (S3-S4,S8,S14), TayUHC (S3-S5,S9), 4EyedSlime (S4,S7,S11,S13), ShyGus (S4-S5,S13,S15), brinniex (S6-S9), xDiversity (S6,S10-S11,S15), CipherKai (S7-S10), Cqson (S7,S9-S10,S12), Microus (S8,S11-S13), pigghetti (S9-S11,S15), azoof (S10-S12,S14)
 
-**3 Seasons (14):** _ChrisMS (S1,S13-S14), AvyleZ (S2,S6,S15), LoafOZ (S2,S4,S8), OCTAMAN (S2,S5-S6), nFang (S4,S7,S10), aalaan (S5-S6,S8), ElGavinoSupremo (S5,S7-S8), JaeHasNoMaidens (S5,S7,S15), hazel_doe (S7,S9,S11), Flcnt (S12-S13,S15), ArcticSeagull (S13-S15), Chasmic (S13-S15), Randehh (S13-S15), RqDix (S13-S15)
+**3 Seasons (14):** _ChrisMS (S1,S13-S14), AvyleZ (S2,S6,S15), LoafOZ (S2,S4,S8), OCTAMAN (S2,S5-S6), nFang (S4,S7,S10), aalaan (S5-S6,S8), commitstaxfraud (S5,S7,S15), ElGavinoSupremo (S5,S7-S8), hazel_doe (S7,S9,S11), Flcnt (S12-S13,S15), ArcticSeagull (S13-S15), AsianCheatCode (S13-S15), Chasmic (S13-S15), Randehh (S13-S15)
 
 **2 Seasons (14):** GeniRCT (S1,S4), ImChile (S1,S5), Trinan6918 (S2,S4), AdonisGaming (S5-S6), SiahStone (S5,S9), Lsnce (S6-S7), Potsie (S7-S8), Sharkbob94349 (S8,S13), WolfeXCIX (S11-S12), MangoPlayz (S12-S13), ColdBac (S13-S14), TheSlimeBrother (S13-S14), zac083 (S13,S15), Kelawesome (S14-S15)
 
@@ -490,7 +490,7 @@
 
 **S4 (4):** 4EyedSlime, CodeJoshua, nFang, ShyGus
 
-**S5 (10):** _Dieter, aalaan, AdonisGaming, CHAINGE, DarrenBGP, ElGavinoSupremo, JaeHasNoMaidens, SiahStone, TehBaconBrawlerZ, Yveltql
+**S5 (10):** _Dieter, aalaan, AdonisGaming, CHAINGE, commitstaxfraud, DarrenBGP, ElGavinoSupremo, SiahStone, TehBaconBrawlerZ, Yveltql
 
 **S6 (5):** brinniex, emi1iano, Kaddyn, Lsnce, xDiversity
 
@@ -506,7 +506,7 @@
 
 **S12 (3):** Flcnt, MangoPlayz, OhMatias
 
-**S13 (10):** ArcticSeagull, Chasmic, ColdBac, Greeples, lay1aa, Randehh, Rohcket, RqDix, TheSlimeBrother, zac083
+**S13 (10):** ArcticSeagull, AsianCheatCode, Chasmic, ColdBac, Greeples, lay1aa, Randehh, Rohcket, TheSlimeBrother, zac083
 
 **S14 (3):** Biwitch, Kelawesome, Ryfri
 

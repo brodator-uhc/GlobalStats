@@ -7,7 +7,7 @@
 
 **S2: Coolust (2), Wilsonkong (1)**, *ChocoTaco622 (1)*
 
-**S3: Archer_ (1)**, *Coolust (0), NajaOxiana (0), Verxity (0)*
+**S3: Archer_ (1)**, *Coolust (0), illuminaja (0), Verxity (0)*
 
 **S4: Beastperson1 (2), xenon__54 (1)**
 
@@ -205,9 +205,9 @@
 
 **1st - Walshy (24):** slowpr0 (S4), Squattamelon (S4), FDeath (S5), PaperVinnie (S6), Archer_ (S6), floobel (S7), sirples (S7), Andyboyonalert (S7), PhenomCloud (S8), LegoBeast (S8), Pencilguy37 (S8), Archer_ (S8), ShyGus (S8), Pie212_123 (S8), DarrenBGP (S9), Dylanthesnake (S9), PenguinBagels (S9), Archer_ (S9), Egth (S9), ShyGus (S10), Egth (S11), Maxwellfifty (S11), Pie212_123 (S11), AvaCos (S11)
 
-**2nd - Coolust (17):** slowpr0 (S2), Arich (S2), Sean081799 (S4), Livin423 (S4), NajaOxiana (S4), Walshy (S4), Typodestoyer (S5), Andyboyonalert (S5), xenon__54 (S5), Edviin_ (S5), AvaCos (S5), ChocoTaco622 (S6), DarrenBGP (S6), Verxity (S6), tagggz (S6), sirples (S6), ShockeryFlame (S6)
+**2nd - Coolust (17):** slowpr0 (S2), Arich (S2), Sean081799 (S4), Livin423 (S4), illuminaja (S4), Walshy (S4), Typodestoyer (S5), Andyboyonalert (S5), xenon__54 (S5), Edviin_ (S5), AvaCos (S5), ChocoTaco622 (S6), DarrenBGP (S6), Verxity (S6), tagggz (S6), sirples (S6), ShockeryFlame (S6)
 
-**3rd - AvaCos (12):** Sean081799 (S5), NajaOxiana (S5), Archer_ (S5), TommySuX (S8), Sean081799 (S8), FDeath (S8), Andyboyonalert (S9), PaperVinnie (S9), floobel (S11), I_is_cheesecake (S11), SmooveManeuver (S11), silh (S11)
+**3rd - AvaCos (12):** Sean081799 (S5), illuminaja (S5), Archer_ (S5), TommySuX (S8), Sean081799 (S8), FDeath (S8), Andyboyonalert (S9), PaperVinnie (S9), floobel (S11), I_is_cheesecake (S11), SmooveManeuver (S11), silh (S11)
 
 **3rd - Jaack (12):** Dexterr (S3), Squattamelon (S3), fightin_irish33 (S3), patpat44patrick (S4), CraftCrank (S6), Pie212_123 (S6), 1eeg (S7), xJesterrr (S8), PaperVinnie (S8), Egth (S8), AvaCos (S8), Joeylinks (S9)
 
@@ -271,7 +271,7 @@
 
 **31st - Evader22 (2):** Sean081799 (S6), slowpr0 (S6)
 
-**31st - fightin_irish33 (2):** NajaOxiana (S3), Zezurge (S3)
+**31st - fightin_irish33 (2):** illuminaja (S3), Zezurge (S3)
 
 **31st - jamietheelite (2):** Jaack (S7), Walshy (S7)
 
@@ -359,7 +359,7 @@
 
 **4 Seasons (12):** OnlyCosmia (S1-S2,S4-S5), vinny212 (S2,S9-S11), Beastperson1 (S3-S5,S10), Edviin_ (S3,S5,S7-S8), ShockeryFlame (S3,S5-S7), QuennyS (S5-S8), 1eeg (S6-S8,S10), CraftCrank (S6-S7,S9-S10), DarrenBGP (S6-S7,S9-S10), floobel (S6-S7,S10-S11), Ixolock (S7-S10), Egth (S8-S11)
 
-**3 Seasons (11):** Zezurge (S1,S3-S4), bitlington (S3-S4,S7), NajaOxiana (S3-S5), xJesterrr (S4-S5,S8), OblivionTU (S5,S7,S10), Dylanthesnake (S6,S9,S11), Evader22 (S6,S8-S9), Arod_ (S8-S10), ShyGus (S8-S10), Maxwellfifty (S9-S11), Spacepod_ (S9-S11)
+**3 Seasons (11):** Zezurge (S1,S3-S4), bitlington (S3-S4,S7), illuminaja (S3-S5), xJesterrr (S4-S5,S8), OblivionTU (S5,S7,S10), Dylanthesnake (S6,S9,S11), Evader22 (S6,S8-S9), Arod_ (S8-S10), ShyGus (S8-S10), Maxwellfifty (S9-S11), Spacepod_ (S9-S11)
 
 **2 Seasons (14):** fightin_irish33 (S1,S3), rhioker (S1,S4), Wilsonkong (S1-S2), Dexterr (S2-S3), jordanleevan (S2,S6), Jpgesus (S3-S4), Squattamelon (S3-S4), tagggz (S5-S6), TommySuX (S7-S8), ColdBac (S8,S10), PhenomCloud (S8,S10), PenguinBagels (S9-S10), silh (S10-S11), ThePeridotKnight (S10-S11)
 
@@ -372,7 +372,7 @@
 
 **S2 (9):** Archer_, Arich, Dexterr, Joeylinks, jordanleevan, miles1baseball, NiFear, Sean081799, vinny212
 
-**S3 (15):** _shadowapples, Beastperson1, bitlington, DoughnutDoctor, Edviin_, FDeath, GreenGecks, Jaack, Jpgesus, MrPolzerino, NajaOxiana, PaperVinnie, ShockeryFlame, Squattamelon, Verxity
+**S3 (15):** _shadowapples, Beastperson1, bitlington, DoughnutDoctor, Edviin_, FDeath, GreenGecks, illuminaja, Jaack, Jpgesus, MrPolzerino, PaperVinnie, ShockeryFlame, Squattamelon, Verxity
 
 **S4 (6):** AvaCos, cheesymonkey78, Pie212_123, Walshy, xenon__54, xJesterrr
 

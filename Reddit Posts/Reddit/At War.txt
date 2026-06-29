@@ -109,7 +109,7 @@
 
 **S2:** GoldenNs (Bluests)
 
-**S3:** NajaOxiana (Dj8ninja)
+**S3:** illuminaja (Dj8ninja)
 
 **S4:** PLENT (PauloSSB)
 
@@ -139,13 +139,13 @@
 ---
 ### Kills
 
-**1st - Austronomical (14):** Zachf01 (S1), oDogLFC (S2), Zachf01 (S3), Beastaxel (S3), Fensua (S3), SoulRawr (S3), Jayzize (S3), cherryblawsom (S3), Jayzize (S4), NajaOxiana (S4), Ryfri (S5), zCent (S5), zCent (S7), FrostBros (S7)
+**1st - Austronomical (14):** Zachf01 (S1), oDogLFC (S2), Zachf01 (S3), Beastaxel (S3), Fensua (S3), SoulRawr (S3), Jayzize (S3), cherryblawsom (S3), Jayzize (S4), illuminaja (S4), Ryfri (S5), zCent (S5), zCent (S7), FrostBros (S7)
 
 **2nd - Ryfri (12):** IzunaLoli (S1), automavic (S1), Jayzize (S2), Kaismartypants (S2), MercuryParadox (S3), Chipzzy (S3), Jrose (S4), zCent (S6), TalonBX (S6), Kaismartypants (S6), Spongey (S6), vishs (S7)
 
 **3rd - PLENT (9):** Kaismartypants (S3), PauloSSB (S4), cherryblawsom (S4), Potsie (S6), _mrcool (S6), DrJamezz (S6), Jayzize (S6), Zakkeagle (S6), cherryblawsom (S6)
 
-**4th - DrJamezz (8):** NajaOxiana (S3), PLENT (S4), ShyGus (S4), 319phoenix (S4), Austronomical (S5), 319phoenix (S5), ShyGus (S5), Austronomical (S6)
+**4th - DrJamezz (8):** illuminaja (S3), PLENT (S4), ShyGus (S4), 319phoenix (S4), Austronomical (S5), 319phoenix (S5), ShyGus (S5), Austronomical (S6)
 
 **5th - PauloSSB (7):** FrostBros (S1), Ryfri (S1), Canman (S2), automavic (S2), Keelando (S7), Fensua (S7), Jayzize (S7)
 
@@ -199,6 +199,8 @@
 
 **26th - Dj8ninja (1):** 016Nojr (S2)
 
+**26th - illuminaja (1):** Dj8ninja (S3)
+
 **26th - IzunaLoli (1):** Dj8ninja (S1)
 
 **26th - Kaismartypants (1):** Phoraxe (S7)
@@ -206,8 +208,6 @@
 **26th - lqndslide (1):** patriotsfan75 (S1)
 
 **26th - Lucityy (1):** swishduck (S7)
-
-**26th - NajaOxiana (1):** Dj8ninja (S3)
 
 **26th - oDogLFC (1):** DrJamezz (S2)
 
@@ -247,7 +247,7 @@
 
 **3 Seasons (11):** automavic (S1-S2,S7), CountryCutie (S1,S5-S6), FrostBros (S1,S3,S7), TalonBX (S1,S6-S7), Arich (S2,S5-S6), Beastaxel (S2-S3,S5), Fensua (S3,S6-S7), ShyGus (S3-S5), lexicuhl (S4,S6-S7), Phoraxe (S5-S7), Zakkeagle (S5-S7)
 
-**2 Seasons (13):** IceshardEleven (S1-S2), Zachf01 (S1,S3), MercuryParadox (S2-S3), Chipzzy (S3-S4), Jrose (S3-S4), NajaOxiana (S3-S4), SoulRawr (S3-S4), 319phoenix (S4-S5), Keelando (S4,S7), Lucityy (S4,S7), PenguinBagels (S5-S6), MajorWoof (S6-S7), YellowVitt (S6-S7)
+**2 Seasons (13):** IceshardEleven (S1-S2), Zachf01 (S1,S3), MercuryParadox (S2-S3), Chipzzy (S3-S4), illuminaja (S3-S4), Jrose (S3-S4), SoulRawr (S3-S4), 319phoenix (S4-S5), Keelando (S4,S7), Lucityy (S4,S7), PenguinBagels (S5-S6), MajorWoof (S6-S7), YellowVitt (S6-S7)
 
 **1 Season (20):** ChainingVermin2 (S1), IzunaLoli (S1), lqndslide (S1), patriotsfan75 (S1), 016Nojr (S2), andrewbaseball99 (S2), Canman (S2), crazy_monkey7531 (S2), GoldenNs (S2), oDogLFC (S2), Wilsonkong (S2), _itslennard14 (S3), TommySuX (S3), C_money (S4), Wolfaye (S6), Bacan (S7), EyeHasNoIdea (S7), swishduck (S7), thebbers (S7), vynil (S7)
 
@@ -258,7 +258,7 @@
 
 **S2 (16):** 016Nojr, andrewbaseball99, Arich, Beastaxel, Bluests, Canman, chloesad, crazy_monkey7531, DrJamezz, GoldenNs, Jayzize, MercuryParadox, oDogLFC, PLENT, Spongey, Wilsonkong
 
-**S3 (9):** _itslennard14, _mrcool, Chipzzy, Fensua, Jrose, NajaOxiana, ShyGus, SoulRawr, TommySuX
+**S3 (9):** _itslennard14, _mrcool, Chipzzy, Fensua, illuminaja, Jrose, ShyGus, SoulRawr, TommySuX
 
 **S4 (8):** 319phoenix, C_money, Keelando, lexicuhl, Lucityy, Potsie, vishs, zCent
 

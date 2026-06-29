@@ -9,7 +9,7 @@
 
 **S3: _mrcool (6)**, *frogsella (0), WillBrisk (1)*
 
-**S4: JaeHasNoMaidens (5)**
+**S4: commitstaxfraud (5)**
 
 **S5: Hecticity (8)**, *BlackGarrett (0), ConBeanJones (3), Kaismartypants (1)*
 
@@ -28,7 +28,7 @@
 
 **S1:** Abdalain (2), BardMain2 (1)
 
-**S2:** IceMan8030 (0), JaeHasNoMaidens (5), MajorWoof (1), MonkeyMF (0)
+**S2:** commitstaxfraud (5), IceMan8030 (0), MajorWoof (1), MonkeyMF (0)
 
 **S3:** BaneOfSmite (0), Domo6466 (0), Topspinpiggles (0)
 
@@ -51,11 +51,11 @@
 
 **S1:** sigilyph (4)
 
-**S2:** JaeHasNoMaidens (5)
+**S2:** commitstaxfraud (5)
 
 **S3:** _mrcool (6)
 
-**S4:** Austronomical, JaeHasNoMaidens (5)
+**S4:** Austronomical, commitstaxfraud (5)
 
 **S5:** Hecticity (8)
 
@@ -74,7 +74,7 @@
 
 **S1:** Domo6466 (0), sigilyph (4)
 
-**S2:** IceMan8030 (0), MonkeyMF (0), MajorWoof (1), JaeHasNoMaidens (5)
+**S2:** IceMan8030 (0), MonkeyMF (0), MajorWoof (1), commitstaxfraud (5)
 
 **S3:** frogsella (0), WillBrisk (1), _mrcool (6)
 
@@ -187,21 +187,21 @@
 ---
 ### Kills
 
-**1st - Bradzi (14):** Wilsonkong (S3), Bergasms (S3), LunarUmbreon (S3), TheRealHagrid (S3), Wilsonkong (S4), Kiinako_ (S6), Flouzemaker (S6), Broseph (S7), QuilJ1 (S7), JaeHasNoMaidens (S7), Broseph (S9), ghostblurr (S9), AaronLoves (S9), Greeples (S9)
+**1st - Bradzi (14):** Wilsonkong (S3), Bergasms (S3), LunarUmbreon (S3), TheRealHagrid (S3), Wilsonkong (S4), Kiinako_ (S6), Flouzemaker (S6), Broseph (S7), QuilJ1 (S7), commitstaxfraud (S7), Broseph (S9), ghostblurr (S9), AaronLoves (S9), Greeples (S9)
 
 **2nd - Austronomical (13):** acadiangel (S4), MajorWoof (S4), Daukk (S4), Normoh (S4), Abdalain (S4), Kiinako_ (S5), scriblur (S5), ConBeanJones (S5), Broseph (S6), Abdalain (S6), JamestheDouglas (S6), FrostBros (S10), _mrcool (S10)
 
-**3rd - _mrcool (10):** centraleric (S2), ConBeanJones (S2), JamestheDouglas (S2), JaeHasNoMaidens (S2), NajaOxiana (S3), Cyonal (S3), centraleric (S3), MaxEvasion (S3), Topspinpiggles (S3), Domo6466 (S3)
+**3rd - _mrcool (10):** centraleric (S2), ConBeanJones (S2), JamestheDouglas (S2), commitstaxfraud (S2), illuminaja (S3), Cyonal (S3), centraleric (S3), MaxEvasion (S3), Topspinpiggles (S3), Domo6466 (S3)
 
-**3rd - JaeHasNoMaidens (10):** MonkeyMF (S2), PoofessorP (S2), Sluggyg (S2), Wilsonkong (S2), Topspinpiggles (S2), Bradzi (S4), cherryblawsom (S4), zac083 (S4), Nintendoshi (S4), JamestheDouglas (S4)
+**3rd - commitstaxfraud (10):** MonkeyMF (S2), PoofessorP (S2), Sluggyg (S2), Wilsonkong (S2), Topspinpiggles (S2), Bradzi (S4), cherryblawsom (S4), zac083 (S4), Nintendoshi (S4), JamestheDouglas (S4)
 
 **3rd - Wilsonkong (10):** Maxwellfifty (S2), ShAydenelley (S2), SummerBqsh (S4), Normoh (S5), Fra49 (S6), ohh_lia (S7), JamestheDouglas (S7), Sluggyg (S7), sigilyph (S7), spoocS_ (S7)
 
-**6th - CHAINGE (9):** Kaismartypants (S9), Ryfri (S10), miles1baseball (S10), Sluggyg (S10), Espik (S10), Fra49 (S10), Austronomical (S10), JaeHasNoMaidens (S10), SpaceFenix (S10)
+**6th - CHAINGE (9):** Kaismartypants (S9), Ryfri (S10), miles1baseball (S10), Sluggyg (S10), Espik (S10), Fra49 (S10), Austronomical (S10), commitstaxfraud (S10), SpaceFenix (S10)
 
 **7th - Brodator (8):** Espik (S8), natsuvi (S8), Sluggyg (S9), acadiangel (S9), warriorcat (S10), spoocS_ (S10), Pie212_123 (S10), SiahStone (S10)
 
-**7th - ghostblurr (8):** NajaOxiana (S8), aalaan (S8), Fancyyy (S8), TehBaconBrawlerZ (S9), Broseph (S10), ColdBac (S10), Normoh (S10), CHAINGE (S10)
+**7th - ghostblurr (8):** illuminaja (S8), aalaan (S8), Fancyyy (S8), TehBaconBrawlerZ (S9), Broseph (S10), ColdBac (S10), Normoh (S10), CHAINGE (S10)
 
 **7th - Hecticity (8):** SiahStone (S5), JamestheDouglas (S5), Zahkari (S5), PoofessorP (S5), Domo6466 (S5), BardMain2 (S5), Austronomical (S5), Wilsonkong (S5)
 
@@ -217,13 +217,13 @@
 
 **14th - ConBeanJones (6):** MajorWoof (S2), JamestheDouglas (S3), Broseph (S3), Abdalain (S5), centraleric (S5), zac083 (S5)
 
+**14th - illuminaja (6):** Daukk (S3), frogsella (S3), WillBrisk (S3), Sluggyg (S6), Fra49 (S7), Phyrrus (S8)
+
 **14th - JamestheDouglas (6):** Domo6466 (S2), frogsella (S2), Austronomical (S4), centraleric (S4), FrostBros (S5), Fancyyy (S6)
 
-**14th - Kaismartypants (6):** lexicuhl (S5), JaeHasNoMaidens (S6), zac083 (S6), SiahStone (S6), aalaan (S6), SummerBqsh (S7)
+**14th - Kaismartypants (6):** lexicuhl (S5), commitstaxfraud (S6), zac083 (S6), SiahStone (S6), aalaan (S6), SummerBqsh (S7)
 
-**14th - NajaOxiana (6):** Daukk (S3), frogsella (S3), WillBrisk (S3), Sluggyg (S6), Fra49 (S7), Phyrrus (S8)
-
-**14th - ohh_lia (6):** centraleric (S6), NajaOxiana (S6), Flouzemaker (S7), lexicuhl (S7), Bottiken (S7), zac083 (S7)
+**14th - ohh_lia (6):** centraleric (S6), illuminaja (S6), Flouzemaker (S7), lexicuhl (S7), Bottiken (S7), zac083 (S7)
 
 **14th - sigilyph (6):** taperturtle (S1), Abdalain (S1), JahMuis (S1), BardMain2 (S1), spoocS_ (S2), Abdalain (S3)
 
@@ -249,7 +249,7 @@
 
 **28th - JahMuis (3):** centraleric (S1), NATEINTHEHOUSE (S1), Twistur (S1)
 
-**32nd - Bottiken (2):** DyeItTight (S1), NajaOxiana (S1)
+**32nd - Bottiken (2):** DyeItTight (S1), illuminaja (S1)
 
 **32nd - Broseph (2):** sigilyph (S3), FrostBros (S9)
 
@@ -263,7 +263,7 @@
 
 **32nd - WillBrisk (2):** DyeItTight (S3), centraleric (S10)
 
-**32nd - Zahkari (2):** cherryblawsom (S5), JaeHasNoMaidens (S5)
+**32nd - Zahkari (2):** cherryblawsom (S5), commitstaxfraud (S5)
 
 **40th - Arich (1):** centraleric (S9)
 
@@ -281,7 +281,7 @@
 
 **40th - nFang (1):** MaxEvasion (S8)
 
-**40th - Phyrrus (1):** JaeHasNoMaidens (S8)
+**40th - Phyrrus (1):** commitstaxfraud (S8)
 
 **40th - Rohcket (1):** ghostblurr (S10)
 
@@ -310,7 +310,7 @@
 
 **Left (2):** AaronLoves (S10), MajorWoof (S10)
 
-**Suffocation (2):** NajaOxiana (S7), DancersTalon (S8)
+**Suffocation (2):** illuminaja (S7), DancersTalon (S8)
 
 ---
 ### Participation
@@ -321,11 +321,11 @@
 
 **8 Seasons (1):** MajorWoof (S2-S6,S8-S10)
 
-**7 Seasons (3):** JaeHasNoMaidens (S2,S4-S8,S10), Sluggyg (S2,S4,S6-S10), zac083 (S3-S7,S9-S10)
+**7 Seasons (3):** commitstaxfraud (S2,S4-S8,S10), Sluggyg (S2,S4,S6-S10), zac083 (S3-S7,S9-S10)
 
 **6 Seasons (11):** Abdalain (S1,S3-S7), Domo6466 (S1-S5,S7), spoocS_ (S1-S3,S5,S7,S10), JamestheDouglas (S2-S7), MaxEvasion (S2-S3,S6-S8,S10), Wilsonkong (S2-S7), Espik (S4-S5,S7-S10), FrostBros (S4-S6,S8-S10), aalaan (S5-S10), Brodator (S5-S10), Kaismartypants (S5-S10)
 
-**5 Seasons (6):** _mrcool (S1-S3,S7,S10), NajaOxiana (S1,S3,S6-S8), Bradzi (S3-S4,S6-S7,S9), acadiangel (S4,S7-S10), cherryblawsom (S4-S8), Kiinako_ (S5-S9)
+**5 Seasons (6):** _mrcool (S1-S3,S7,S10), illuminaja (S1,S3,S6-S8), Bradzi (S3-S4,S6-S7,S9), acadiangel (S4,S7-S10), cherryblawsom (S4-S8), Kiinako_ (S5-S9)
 
 **4 Seasons (8):** BardMain2 (S1-S3,S5), sigilyph (S1-S3,S7), PoofessorP (S2,S4-S6), Austronomical (S4-S6,S10), Normoh (S4-S6,S10), lexicuhl (S5-S7,S10), SiahStone (S5-S7,S10), Fra49 (S6-S8,S10)
 
@@ -338,9 +338,9 @@
 ---
 ### Debutants
 
-**S1 (16):** _mrcool, Abdalain, BardMain2, Bottiken, Broseph, centraleric, Domo6466, DyeItTight, JahMuis, MonkeyMF, NajaOxiana, NATEINTHEHOUSE, sigilyph, spoocS_, taperturtle, Twistur
+**S1 (16):** _mrcool, Abdalain, BardMain2, Bottiken, Broseph, centraleric, Domo6466, DyeItTight, illuminaja, JahMuis, MonkeyMF, NATEINTHEHOUSE, sigilyph, spoocS_, taperturtle, Twistur
 
-**S2 (17):** BaneOfSmite, ConBeanJones, frogsella, Hoookey, IceMan8030, IceshardEleven, JaeHasNoMaidens, JamestheDouglas, MajorWoof, MaxEvasion, Maxwellfifty, PoofessorP, ShAydenelley, Sluggyg, Topspinpiggles, WillBrisk, Wilsonkong
+**S2 (17):** BaneOfSmite, commitstaxfraud, ConBeanJones, frogsella, Hoookey, IceMan8030, IceshardEleven, JamestheDouglas, MajorWoof, MaxEvasion, Maxwellfifty, PoofessorP, ShAydenelley, Sluggyg, Topspinpiggles, WillBrisk, Wilsonkong
 
 **S3 (8):** Bergasms, Bradzi, Cyonal, Daukk, LunarUmbreon, TheRealHagrid, zac083, Zahkari
 

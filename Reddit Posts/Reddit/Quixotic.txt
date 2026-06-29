@@ -183,6 +183,8 @@
 
 **29th - Brodator (1):** Flouzemaker (S5)
 
+**29th - commitstaxfraud (1):** FrozenBenny (S3)
+
 **29th - Davelions (1):** SmolHatChild (S4)
 
 **29th - Eroe (1):** zac083 (S6)
@@ -191,9 +193,7 @@
 
 **29th - Fourbitplayer (1):** Espik (S6)
 
-**29th - FrozenBenny (1):** JaeHasNoMaidens (S3)
-
-**29th - JaeHasNoMaidens (1):** FrozenBenny (S3)
+**29th - FrozenBenny (1):** commitstaxfraud (S3)
 
 **29th - Jordtim (1):** wizarde (S2)
 
@@ -233,7 +233,7 @@
 
 **2 Seasons (16):** Jordtim (S1-S2), LilBuns (S1,S3), AshRiolu100985 (S2-S3), GamingMes (S2,S6), Psykl0ne (S2-S3), Thermql (S3-S4), Yveltql (S3-S4), Fra49 (S4-S5), Livin423 (S4-S5), SmolHatChild (S4-S5), WackoFlipper (S4-S5), Dj8ninja (S5-S6), Fictional (S5-S6), Paxtona (S5-S6), Pelycosaur (S5-S6), pigghetti (S5-S6)
 
-**1 Season (27):** SoupestGlobe (S1), Zebby (S1), BaneOfSmite (S2), MaxCringe (S2), AlexTheTFTF (S3), DomoDomo (S3), FrozenBenny (S3), Hacn35 (S3), JaeHasNoMaidens (S3), RedAjayDaBunny (S3), WillBrisk (S3), _itslennard14 (S4), Bulbae (S4), DancersTalon (S4), Davelions (S4), MicroSquash (S4), Broseph (S5), Greeples (S5), centraleric (S6), Eroe (S6), Fourbitplayer (S6), IyaIsMad (S6), Lighte (S6), Mathyy (S6), natsuvi (S6), nFang (S6), Ninjajaja (S6)
+**1 Season (27):** SoupestGlobe (S1), Zebby (S1), BaneOfSmite (S2), MaxCringe (S2), AlexTheTFTF (S3), commitstaxfraud (S3), DomoDomo (S3), FrozenBenny (S3), Hacn35 (S3), RedAjayDaBunny (S3), WillBrisk (S3), _itslennard14 (S4), Bulbae (S4), DancersTalon (S4), Davelions (S4), MicroSquash (S4), Broseph (S5), Greeples (S5), centraleric (S6), Eroe (S6), Fourbitplayer (S6), IyaIsMad (S6), Lighte (S6), Mathyy (S6), natsuvi (S6), nFang (S6), Ninjajaja (S6)
 
 ---
 ### Debutants
@@ -242,7 +242,7 @@
 
 **S2 (12):** acadiangel, AshRiolu100985, BaneOfSmite, Brodator, DarrenBGP, Davidsid, Flouzemaker, GamingMes, MaxCringe, Psykl0ne, ScottPirie, Vawqer
 
-**S3 (12):** 4EyedSlime, AlexTheTFTF, DomoDomo, FrozenBenny, Hacn35, JaeHasNoMaidens, RedAjayDaBunny, SpaceFenix, Thermql, Vetmire, WillBrisk, Yveltql
+**S3 (12):** 4EyedSlime, AlexTheTFTF, commitstaxfraud, DomoDomo, FrozenBenny, Hacn35, RedAjayDaBunny, SpaceFenix, Thermql, Vetmire, WillBrisk, Yveltql
 
 **S4 (10):** _itslennard14, Arich, Bulbae, DancersTalon, Davelions, Fra49, Livin423, MicroSquash, SmolHatChild, WackoFlipper
 

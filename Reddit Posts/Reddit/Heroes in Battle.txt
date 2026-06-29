@@ -58,7 +58,7 @@
 
 **S11:** BushieHalf (1), xenon__54 (2), zachattack416 (0)
 
-**S12:** Eluniel (1), Kingsy_ (0), Sean081799 (0), TheKevGuy (3)
+**S12:** Eluniel (1), JerseyTheDevil (0), Sean081799 (0), TheKevGuy (3)
 
 **S13:** tilargo (2)
 
@@ -190,7 +190,7 @@
 
 **S11:** Livin423 (1:29:11)
 
-**S12:** Kingsy_ (1:20:10)
+**S12:** JerseyTheDevil (1:20:10)
 
 **S13:** _mrcool (1:7:28)
 
@@ -225,7 +225,7 @@
 
 **S12:** Costanza (Edviin_)
 
-**S13:** AJSteel (Kingsy_)
+**S13:** AJSteel (JerseyTheDevil)
 
 **S14:** Arich (jamertxn)
 
@@ -258,7 +258,7 @@
 
 **S12:** Edviin_ (Costanza)
 
-**S13:** Kingsy_ (AJSteel)
+**S13:** JerseyTheDevil (AJSteel)
 
 **S14:** Smeshi (Lava)
 
@@ -309,7 +309,7 @@
 
 **18th - Zydoxe (5):** Arich (S3), Crazy3210 (S3), Stooof (S3), zachattack416 (S3), Bergasms (S3)
 
-**22nd - AJSteel (4):** Kingsy_ (S13), Livin423 (S14), Kiinako_ (S14), Fensua (S15)
+**22nd - AJSteel (4):** JerseyTheDevil (S13), Livin423 (S14), Kiinako_ (S14), Fensua (S15)
 
 **22nd - BJPlays (4):** Jakekub (S8), FDeath (S8), zachattack416 (S8), Norox_ (S9)
 
@@ -339,7 +339,7 @@
 
 **29th - Pencilguy37 (3):** 20Below (S1), Archer_ (S1), romedog30 (S2)
 
-**29th - slowpr0 (3):** Sean081799 (S12), Arich (S12), Kingsy_ (S12)
+**29th - slowpr0 (3):** Sean081799 (S12), Arich (S12), JerseyTheDevil (S12)
 
 **29th - TaylorLive (3):** Archer_ (S15), tilargo (S15), Eluniel (S15)
 
@@ -437,7 +437,7 @@
 
 **3 Seasons (17):** Kakintse (S1-S2,S8), upriserryker (S1-S2,S10), Zydoxe (S2-S3,S15), Bergasms (S3,S5,S7), jordanleevan (S4,S6-S7), BJPlays (S6,S8-S9), tooooobin (S6,S8,S15), c1n (S7-S9), Kidfo (S7,S9,S11), FDeath (S8-S9,S12), slowpr0 (S9-S10,S12), AvaCos (S10-S12), QuilJ1 (S11-S12,S15), _mrcool (S13-S15), AJSteel (S13-S15), MBeaar (S13-S15), tilargo (S13-S15)
 
-**2 Seasons (24):** 20Below (S1-S2), 4D_Pixel (S1-S2), Nyzian (S1,S15), blackbear612 (S2,S15), CraftCrank (S2,S15), MooshroomCrafter (S2,S4), taperturtle (S2,S15), aggarnir (S4,S15), ChocoTaco622 (S5,S10), gnty (S6,S8), Zaenith (S6-S7), BushieHalf (S11-S12), Sean081799 (S11-S12), Costanza (S12,S15), Edviin_ (S12,S15), floobel (S12,S15), Kingsy_ (S12-S13), Evader22 (S13,S15), FazedMC (S13-S14), Fensua (S13,S15), HUNTERKUN (S13,S15), Smeshi (S13-S14), TaylorLive (S14-S15), thebbers (S14-S15)
+**2 Seasons (24):** 20Below (S1-S2), 4D_Pixel (S1-S2), Nyzian (S1,S15), blackbear612 (S2,S15), CraftCrank (S2,S15), MooshroomCrafter (S2,S4), taperturtle (S2,S15), aggarnir (S4,S15), ChocoTaco622 (S5,S10), gnty (S6,S8), Zaenith (S6-S7), BushieHalf (S11-S12), Sean081799 (S11-S12), Costanza (S12,S15), Edviin_ (S12,S15), floobel (S12,S15), JerseyTheDevil (S12-S13), Evader22 (S13,S15), FazedMC (S13-S14), Fensua (S13,S15), HUNTERKUN (S13,S15), Smeshi (S13-S14), TaylorLive (S14-S15), thebbers (S14-S15)
 
 **1 Season (12):** BreachCraft (S1), Mudboy2172 (S2), romedog30 (S2), Kurtit (S4), Havenhand (S11), jamietheelite (S11), GlowingNeon (S12), MrPolzerino (S12), BlackGarrett (S13), liflaf (S13), jamertxn (S14), tuxpeng (S15)
 
@@ -466,7 +466,7 @@
 
 **S11 (6):** BushieHalf, Eluniel, Havenhand, jamietheelite, QuilJ1, Sean081799
 
-**S12 (6):** Costanza, Edviin_, floobel, GlowingNeon, Kingsy_, MrPolzerino
+**S12 (6):** Costanza, Edviin_, floobel, GlowingNeon, JerseyTheDevil, MrPolzerino
 
 **S13 (11):** _mrcool, AJSteel, BlackGarrett, Evader22, FazedMC, Fensua, HUNTERKUN, liflaf, MBeaar, Smeshi, tilargo
 

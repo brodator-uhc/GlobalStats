@@ -3,9 +3,9 @@
 ---
 ### Winners
 
-**S1: NajaOxiana (6), Ryfri (5)**
+**S1: illuminaja (6), Ryfri (5)**
 
-**S2: RqDix (2), ZachMcD (1)**, *_ChrisMS (1)*
+**S2: AsianCheatCode (2), ZachMcD (1)**, *_ChrisMS (1)*
 
 **S3: nsket (5)**, *Aybel (0), Jahrod (1), ShyGus (2)*
 
@@ -21,7 +21,7 @@
 ---
 ### Most Kills
 
-**S1:** NajaOxiana (6)
+**S1:** illuminaja (6)
 
 **S2:** Drake132667596 (5)
 
@@ -30,7 +30,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** NajaOxiana (6), Ryfri (5)
+**S1:** illuminaja (6), Ryfri (5)
 
 **S2:** DJoee (3), kirbey (0), Rohcket (4) & Drake132667596 (5), Glarza (2), Jahrod (0)
 
@@ -70,7 +70,7 @@
 
 **S2:** ERHDude (MaxEvasion)
 
-**S3:** RqDix (Fall)
+**S3:** AsianCheatCode (Fall)
 
 ---
 ### Kills
@@ -81,7 +81,7 @@
 
 **3rd - DJoee (6):** Doormatt65 (S2), Doopaboy (S2), Rogue_Batman (S2), ArcticSeagull (S3), cherryblawsom (S3), lunne (S3)
 
-**3rd - NajaOxiana (6):** Doopaboy (S1), RabidChipmunk (S1), silent_spriicket (S1), PresidentFleb (S1), lunne (S1), cherryblawsom (S1)
+**3rd - illuminaja (6):** Doopaboy (S1), RabidChipmunk (S1), silent_spriicket (S1), PresidentFleb (S1), lunne (S1), cherryblawsom (S1)
 
 **5th - nsket (5):** Brodator (S3), Spongey (S3), ZachMcD (S3), pigghetti (S3), Glarza (S3)
 
@@ -89,11 +89,13 @@
 
 **7th - Glarza (4):** Spacepod_ (S2), Gorgerous (S2), natsuvi (S3), DJoee (S3)
 
-**8th - PresidentFleb (3):** Gorgerous (S1), RqDix (S1), ShyGus (S3)
+**8th - PresidentFleb (3):** Gorgerous (S1), AsianCheatCode (S1), ShyGus (S3)
 
 **8th - ShyGus (3):** frogsella (S2), frogsella (S3), PresidentFleb (S3)
 
 **8th - ZachMcD (3):** Rohcket (S2), WackoFlipper (S3), Jahrod (S3)
+
+**11th - AsianCheatCode (2):** 6BU (S2), Alacan (S2)
 
 **11th - AvyleZ (2):** Supersun_ (S1), CHAINGE (S1)
 
@@ -110,8 +112,6 @@
 **11th - pigghetti (2):** _pbo (S3), Aybel (S3)
 
 **11th - RabidChipmunk (2):** SiahStone (S1), Biwitch (S1)
-
-**11th - RqDix (2):** 6BU (S2), Alacan (S2)
 
 **11th - Supersun_ (2):** kawaiibunri (S1), flameorb (S1)
 
@@ -140,7 +140,7 @@
 ---
 ### PvE Deaths
 
-**Fall (2):** ShyGus (S2), RqDix (S3)
+**Fall (2):** ShyGus (S2), AsianCheatCode (S3)
 
 **Burning (1):** ohh_lia (S3)
 
@@ -149,16 +149,16 @@
 ---
 ### Participation
 
-**3 Seasons (8):** cherryblawsom (S1-S3), Drake132667596 (S1-S3), Glarza (S1-S3), Gorgerous (S1-S3), Jahrod (S1-S3), lunne (S1-S3), RqDix (S1-S3), TheSlimeBrother (S1-S3)
+**3 Seasons (8):** AsianCheatCode (S1-S3), cherryblawsom (S1-S3), Drake132667596 (S1-S3), Glarza (S1-S3), Gorgerous (S1-S3), Jahrod (S1-S3), lunne (S1-S3), TheSlimeBrother (S1-S3)
 
 **2 Seasons (18):** Doopaboy (S1-S2), Doormatt65 (S1-S2), PresidentFleb (S1,S3), RabidChipmunk (S1-S2), silent_spriicket (S1,S3), _pbo (S2-S3), 6BU (S2-S3), ArcticSeagull (S2-S3), Aybel (S2-S3), ColdBac (S2-S3), DJoee (S2-S3), frogsella (S2-S3), MaxEvasion (S2-S3), ohh_lia (S2-S3), Rohcket (S2-S3), ShyGus (S2-S3), Spongey (S2-S3), ZachMcD (S2-S3)
 
-**1 Season (32):** _Dieter (S1), AvyleZ (S1), Biwitch (S1), CHAINGE (S1), flameorb (S1), kawaiibunri (S1), NajaOxiana (S1), Ryfri (S1), SiahStone (S1), Supersun_ (S1), TehBaconBrawlerZ (S1), _ChrisMS (S2), Alacan (S2), BardMain2 (S2), Cqson (S2), ERHDude (S2), Fra49 (S2), kirbey (S2), Rogue_Batman (S2), Spacepod_ (S2), branman (S3), Brodator (S3), JaqOnCraq (S3), jommyappleseed (S3), Klickacat (S3), natsuvi (S3), nFang (S3), nsket (S3), Phoraxe (S3), pigghetti (S3), Psykl0ne (S3), WackoFlipper (S3)
+**1 Season (32):** _Dieter (S1), AvyleZ (S1), Biwitch (S1), CHAINGE (S1), flameorb (S1), illuminaja (S1), kawaiibunri (S1), Ryfri (S1), SiahStone (S1), Supersun_ (S1), TehBaconBrawlerZ (S1), _ChrisMS (S2), Alacan (S2), BardMain2 (S2), Cqson (S2), ERHDude (S2), Fra49 (S2), kirbey (S2), Rogue_Batman (S2), Spacepod_ (S2), branman (S3), Brodator (S3), JaqOnCraq (S3), jommyappleseed (S3), Klickacat (S3), natsuvi (S3), nFang (S3), nsket (S3), Phoraxe (S3), pigghetti (S3), Psykl0ne (S3), WackoFlipper (S3)
 
 ---
 ### Debutants
 
-**S1 (24):** _Dieter, AvyleZ, Biwitch, CHAINGE, cherryblawsom, Doopaboy, Doormatt65, Drake132667596, flameorb, Glarza, Gorgerous, Jahrod, kawaiibunri, lunne, NajaOxiana, PresidentFleb, RabidChipmunk, RqDix, Ryfri, SiahStone, silent_spriicket, Supersun_, TehBaconBrawlerZ, TheSlimeBrother
+**S1 (24):** _Dieter, AsianCheatCode, AvyleZ, Biwitch, CHAINGE, cherryblawsom, Doopaboy, Doormatt65, Drake132667596, flameorb, Glarza, Gorgerous, illuminaja, Jahrod, kawaiibunri, lunne, PresidentFleb, RabidChipmunk, Ryfri, SiahStone, silent_spriicket, Supersun_, TehBaconBrawlerZ, TheSlimeBrother
 
 **S2 (22):** _ChrisMS, _pbo, 6BU, Alacan, ArcticSeagull, Aybel, BardMain2, ColdBac, Cqson, DJoee, ERHDude, Fra49, frogsella, kirbey, MaxEvasion, ohh_lia, Rogue_Batman, Rohcket, ShyGus, Spacepod_, Spongey, ZachMcD
 

@@ -7,7 +7,7 @@
 
 **S2: spoocS_ (1)**, *AHSOKATANOSTAN (4), JoshC2 (0), nh177O13 (4)*
 
-**S3: RqDix (4), xRosss (5)**, *Markedbooboy (1)*
+**S3: AsianCheatCode (4), xRosss (5)**, *Markedbooboy (1)*
 
 **S4: St0rmplayz (3)**, *_Fost_ (1), brinkwhy (5), PresidentFleb (0)*
 
@@ -46,7 +46,7 @@
 
 **S2:** JoshC2 (0), nh177O13 (4), AHSOKATANOSTAN (4), spoocS_ (1)
 
-**S3:** Markedbooboy (1), RqDix (4), xRosss (5)
+**S3:** Markedbooboy (1), AsianCheatCode (4), xRosss (5)
 
 **S4:** _Fost_ (1), brinkwhy (5), PresidentFleb (0), St0rmplayz (3)
 
@@ -109,11 +109,11 @@
 
 **1st - AHSOKATANOSTAN (6):** Anorable (S2), Brocko (S2), Bornyo (S2), BaneOfSmite (S2), ElGavinoSupremo (S3), Rebelghost (S3)
 
-**2nd - brinkwhy (5):** Fcrm (S4), xRosss (S4), Jorgeeay (S4), JamestheDouglas (S4), RqDix (S4)
+**2nd - AsianCheatCode (5):** egl_ (S3), Pelycosaur (S3), poWpaH (S3), ohh_lia (S3), DarrenBGP (S4)
+
+**2nd - brinkwhy (5):** Fcrm (S4), xRosss (S4), Jorgeeay (S4), JamestheDouglas (S4), AsianCheatCode (S4)
 
 **2nd - DevoyTTV (5):** stupidsylvia (S1), AlolanJames (S1), TonyEatWorld (S1), nh177O13 (S2), DarrenBGP (S5)
-
-**2nd - RqDix (5):** egl_ (S3), Pelycosaur (S3), poWpaH (S3), ohh_lia (S3), DarrenBGP (S4)
 
 **2nd - xRosss (5):** PwincessVanessa (S3), St0rmplayz (S3), Bofishkix (S3), FrostBros (S3), AHSOKATANOSTAN (S3)
 
@@ -209,7 +209,7 @@
 
 **3 Seasons (11):** JamestheDouglas (S1-S2,S4), TonyEatWorld (S1-S3), Brocko (S2-S4), Fcrm (S2-S4), Slooshyy (S2-S4), egl_ (S3-S5), FrostBros (S3-S5), Markedbooboy (S3-S5), poWpaH (S3-S5), Rebelghost (S3-S5), xRosss (S3-S5)
 
-**2 Seasons (16):** Anorable (S1-S2), JoshC2 (S1-S2), spoocS_ (S1-S2), 4EyedSlime (S2,S4), _ChrisMS (S3-S4), BigJedo (S3-S4), ElGavinoSupremo (S3-S4), nFang (S3-S4), Pelycosaur (S3-S4), PwincessVanessa (S3,S5), RqDix (S3-S4), ZachMcD (S3,S5), _Fost_ (S4-S5), DarrenBGP (S4-S5), PresidentFleb (S4-S5), Stravilight (S4-S5)
+**2 Seasons (16):** Anorable (S1-S2), JoshC2 (S1-S2), spoocS_ (S1-S2), 4EyedSlime (S2,S4), _ChrisMS (S3-S4), AsianCheatCode (S3-S4), BigJedo (S3-S4), ElGavinoSupremo (S3-S4), nFang (S3-S4), Pelycosaur (S3-S4), PwincessVanessa (S3,S5), ZachMcD (S3,S5), _Fost_ (S4-S5), DarrenBGP (S4-S5), PresidentFleb (S4-S5), Stravilight (S4-S5)
 
 **1 Season (39):** AlolanJames (S1), Austyn_ (S1), cxllxn (S1), MCmattFTW (S1), Sneaky26 (S1), stupidsylvia (S1), 3Dspoders (S2), BaneOfSmite (S2), Bornyo (S2), Bradzi (S2), Crafters (S2), HeyImHungry (S2), kalleina (S2), nh177O13 (S2), Sassybunion (S2), SummerBqsh (S2), zacksarmy (S2), Bofishkix (S3), Djmandude (S3), KlutzySphere (S3), ohh_lia (S3), strategy (S3), yuhFazz (S3), brinkwhy (S4), Caffeindiazepine (S4), CocoBenja (S4), Davidsid (S4), IyaIsMad (S4), ShyGus (S4), wowjennawow (S4), ArcticSeagull (S5), Arich (S5), CodeJoshua (S5), Codwhy (S5), LoafOZ (S5), MaxEvasion (S5), Normoh (S5), Plushy33 (S5), SharkeyJaws (S5)
 
@@ -220,7 +220,7 @@
 
 **S2 (16):** 3Dspoders, 4EyedSlime, AHSOKATANOSTAN, BaneOfSmite, Bornyo, Bradzi, Brocko, Crafters, Fcrm, HeyImHungry, kalleina, nh177O13, Sassybunion, Slooshyy, SummerBqsh, zacksarmy
 
-**S3 (20):** _ChrisMS, BigJedo, Bofishkix, Djmandude, egl_, ElGavinoSupremo, FrostBros, KlutzySphere, Markedbooboy, nFang, ohh_lia, Pelycosaur, poWpaH, PwincessVanessa, Rebelghost, RqDix, strategy, xRosss, yuhFazz, ZachMcD
+**S3 (20):** _ChrisMS, AsianCheatCode, BigJedo, Bofishkix, Djmandude, egl_, ElGavinoSupremo, FrostBros, KlutzySphere, Markedbooboy, nFang, ohh_lia, Pelycosaur, poWpaH, PwincessVanessa, Rebelghost, strategy, xRosss, yuhFazz, ZachMcD
 
 **S4 (11):** _Fost_, brinkwhy, Caffeindiazepine, CocoBenja, DarrenBGP, Davidsid, IyaIsMad, PresidentFleb, ShyGus, Stravilight, wowjennawow
 

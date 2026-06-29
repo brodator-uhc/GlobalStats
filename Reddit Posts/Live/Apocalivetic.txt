@@ -368,7 +368,7 @@
 ---
 ### PvE Deaths
 
-**Fall (9):** BlackPants (S2), HigmanFreud (S3), JaeHasNoMaidens (S3), Broseph (S3), Slooshyy (S4), brinkwhy (S8), broccoliar (S10), _pbo (S10), Batusko (S10)
+**Fall (9):** BlackPants (S2), HigmanFreud (S3), commitstaxfraud (S3), Broseph (S3), Slooshyy (S4), brinkwhy (S8), broccoliar (S10), _pbo (S10), Batusko (S10)
 
 **Burning (5):** Caydone (S2), Coward (S5), TheSlimeBrother (S6), bayweafs (S9), Blarkslol (S9)
 
@@ -413,7 +413,7 @@
 
 **2 Seasons (37):** _ChrisMS (S1,S3), Brocko (S1,S3), Cat6376 (S1,S5), loyaltea (S1,S4), nsket (S1,S3), PresidentFleb (S1,S3), Psykl0ne (S1,S3), St0rmplayz (S1,S10), Cubic44 (S2,S4), Greatwarrior_ (S2,S5), Markedbooboy (S2,S4), Plushy33 (S2-S3), _Fost_ (S3,S7), Brodator (S3,S5), natsuvi (S3,S7), Normoh (S3,S9), Arich (S4,S6), Julse (S4,S7), Lsnce (S4,S6), brinniex (S5,S8), Dcrpy (S5-S6), ERHDude (S5-S6), ItsColinn (S5,S9), Jaceon02 (S5-S6), Zebobo10 (S5,S7), Blarkslol (S7,S9), willif (S7-S8), _1mmortal_ (S8,S10), Batusko (S8,S10), bayweafs (S8-S9), checog (S8-S9), LightingMC (S8-S9), lzmur (S8-S9), RohanSmashBro (S8-S9), DumbThiccNick (S9-S10), Ryfri (S9-S10), SOAKLE (S9-S10)
 
-**1 Season (55):** Abdalain (S1), Aybel (S1), azoof (S1), CocoBenja (S1), ItzIgglesPiggles (S1), MainAgate5 (S1), Mattzia (S1), TayUHC (S1), Vetmire (S1), Ozzyowo (S2), SiahStone (S2), CrowJRC (S3), Djmandude (S3), EnergyPulse (S3), Fra49 (S3), Isaiah_Gregory (S3), JaeHasNoMaidens (S3), pigghetti (S3), Rebelghost (S3), Rougero (S3), strategy (S3), Zierven (S3), _Dieter (S4), Bofishkix (S4), LoafOZ (S4), Slooshyy (S4), Zcin (S4), Fearx_ (S5), flameorb (S5), lam59 (S5), Cqson (S6), FrostBros (S6), Glarza (S6), olivieh (S7), PolarTaco (S7), carterwarterbear (S8), ItsNickb (S8), Krbreb (S8), xDiversity (S8), zohhhh (S8), DripGodDavid (S9), LukaADoncic (S9), MxlonPeach (S9), omchris (S9), TOOOTH (S9), UbiquityHD (S9), _pbo (S10), 5HARPGOD (S10), ColdBac (S10), DatGuyAdam (S10), GodlySteal (S10), Gorgerous (S10), jubatyson (S10), Spacepod_ (S10), Zoroh (S10)
+**1 Season (55):** Abdalain (S1), Aybel (S1), azoof (S1), CocoBenja (S1), ItzIgglesPiggles (S1), MainAgate5 (S1), Mattzia (S1), TayUHC (S1), Vetmire (S1), Ozzyowo (S2), SiahStone (S2), commitstaxfraud (S3), CrowJRC (S3), Djmandude (S3), EnergyPulse (S3), Fra49 (S3), Isaiah_Gregory (S3), pigghetti (S3), Rebelghost (S3), Rougero (S3), strategy (S3), Zierven (S3), _Dieter (S4), Bofishkix (S4), LoafOZ (S4), Slooshyy (S4), Zcin (S4), Fearx_ (S5), flameorb (S5), lam59 (S5), Cqson (S6), FrostBros (S6), Glarza (S6), olivieh (S7), PolarTaco (S7), carterwarterbear (S8), ItsNickb (S8), Krbreb (S8), xDiversity (S8), zohhhh (S8), DripGodDavid (S9), LukaADoncic (S9), MxlonPeach (S9), omchris (S9), TOOOTH (S9), UbiquityHD (S9), _pbo (S10), 5HARPGOD (S10), ColdBac (S10), DatGuyAdam (S10), GodlySteal (S10), Gorgerous (S10), jubatyson (S10), Spacepod_ (S10), Zoroh (S10)
 
 ---
 ### Debutants
@@ -422,7 +422,7 @@
 
 **S2 (11):** BlackPants, Codwhy, Cubic44, egl_, Greatwarrior_, ImChile, ItsShqky, Markedbooboy, Ozzyowo, Plushy33, SiahStone
 
-**S3 (27):** _Fost_, ADinoPlayingMC, Brodator, Bulbexe, CodeJoshua, CrowJRC, Cyndic, Djmandude, EnergyPulse, Flcnt, Fra49, Isaiah_Gregory, JaeHasNoMaidens, JustNolan, Kelawesome, MangoPlayz, MaxEvasion, natsuvi, Normoh, OnlyHalf, pigghetti, PwincessVanessa, Rebelghost, Rougero, strategy, violetwoah, Zierven
+**S3 (27):** _Fost_, ADinoPlayingMC, Brodator, Bulbexe, CodeJoshua, commitstaxfraud, CrowJRC, Cyndic, Djmandude, EnergyPulse, Flcnt, Fra49, Isaiah_Gregory, JustNolan, Kelawesome, MangoPlayz, MaxEvasion, natsuvi, Normoh, OnlyHalf, pigghetti, PwincessVanessa, Rebelghost, Rougero, strategy, violetwoah, Zierven
 
 **S4 (11):** _Dieter, Arich, Bofishkix, Charrlottie, Julse, LoafOZ, Lsnce, Slooshyy, TheSlimeBrother, Zcin, zeesue
 

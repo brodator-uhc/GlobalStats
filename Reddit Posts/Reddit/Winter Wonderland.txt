@@ -161,7 +161,7 @@
 
 **3rd - JustNolan (17):** Louiwe (S1), bjr201111 (S2), Bacan (S2), TommySuX (S2), cynnamon (S2), BSBrent (S2), jvevo (S2), xRosss (S2), Vernium (S2), EnergyPulse (S2), ERHDude (S2), cherryblawsom (S4), Fensua (S5), Kaddyn (S5), CodeJoshua (S5), MaxEvasion (S5), acadiangel (S8)
 
-**4th - dahii (13):** HeyImHungry (S1), FrostBros (S6), 123SteveBob (S6), Broseph (S6), Drkrai (S6), LegoBeast (S6), Caydone (S7), RqDix (S7), strategy (S7), alexnv (S7), benidk (S7), _carn (S7), swishduck (S7)
+**4th - dahii (13):** HeyImHungry (S1), FrostBros (S6), 123SteveBob (S6), Broseph (S6), Drkrai (S6), LegoBeast (S6), Caydone (S7), AsianCheatCode (S7), strategy (S7), alexnv (S7), benidk (S7), _carn (S7), swishduck (S7)
 
 **4th - Fcrm (13):** Micale (S3), Fra49 (S4), c1n (S4), Vetmire (S4), Apex_Twinkie (S4), Psykl0ne (S5), PresidentFleb (S5), Normoh (S6), dahii (S6), pigghetti (S7), WackoFlipper (S8), Kaismartypants (S8), Bobbytheturtle (S8)
 
@@ -171,13 +171,13 @@
 
 **8th - Broseph (9):** QuilJ1 (S2), Purpdan (S2), Bofishkix (S3), QuilJ1 (S3), Coward (S4), marcusmtm (S4), Greeples (S4), zCent (S8), flameh (S8)
 
-**8th - ERHDude (9):** Jakekub (S2), CHANGA (S2), SiahStone (S2), ZachMcD (S4), DevoyTTV (S4), RqDix (S4), Normoh (S4), Fcrm (S4), Broseph (S4)
+**8th - ERHDude (9):** Jakekub (S2), CHANGA (S2), SiahStone (S2), ZachMcD (S4), DevoyTTV (S4), AsianCheatCode (S4), Normoh (S4), Fcrm (S4), Broseph (S4)
 
 **8th - MaxEvasion (9):** wibbol (S3), vynil (S5), DJoee (S5), Broseph (S5), SpyroJ (S5), Hrray (S5), swishduck (S5), Spongey (S5), kirbey (S8)
 
 **8th - swishduck (9):** PIGG_LET (S2), PresidentFleb (S4), TheRealHagrid (S4), Spacepod_ (S4), ogrechugbo (S5), Zakkeagle (S6), _1mmortal_ (S6), braidenOW (S7), ItsColinn (S7)
 
-**12th - ItsColinn (8):** vynil (S1), SiahStone (S4), SOAKLE (S6), Omertosa (S7), ohh_lia (S7), grantfaker (S8), RqDix (S8), Normoh (S8)
+**12th - ItsColinn (8):** vynil (S1), SiahStone (S4), SOAKLE (S6), Omertosa (S7), ohh_lia (S7), grantfaker (S8), AsianCheatCode (S8), Normoh (S8)
 
 **12th - nsket (8):** Digdude (S1), ColdBac (S1), pkee (S5), PIGG_LET (S5), Coward (S6), Caydone (S6), Kaddyn (S6), SpaceFenix (S7)
 
@@ -231,7 +231,7 @@
 
 **36th - Cacedoupamso (3):** TheNintendoBustr (S7), Kaddyn (S7), SAYNAR (S7)
 
-**36th - Caydone (3):** powermc (S6), cherryblawsom (S6), RqDix (S6)
+**36th - Caydone (3):** powermc (S6), cherryblawsom (S6), AsianCheatCode (S6)
 
 **36th - centraleric (3):** Dj8ninja (S8), Fra49 (S8), JustNolan (S8)
 
@@ -247,7 +247,7 @@
 
 **36th - DomoDomo (3):** Normoh (S1), Frozeno_ (S1), Potsie (S1)
 
-**36th - Gorgerous (3):** RqDix (S5), benidk (S6), CAMKART100 (S8)
+**36th - Gorgerous (3):** AsianCheatCode (S5), benidk (S6), CAMKART100 (S8)
 
 **36th - Jahrod (3):** 6BU (S4), DianaB (S4), Kelawesome (S4)
 
@@ -335,6 +335,8 @@
 
 **86th - acadiangel (1):** CipherKai (S6)
 
+**86th - AsianCheatCode (1):** RemyChingling (S6)
+
 **86th - Austronomical (1):** ShyGus (S3)
 
 **86th - broccoliar (1):** bayweafs (S5)
@@ -379,8 +381,6 @@
 
 **86th - PIGG_LET (1):** Bradzi (S1)
 
-**86th - RqDix (1):** RemyChingling (S6)
-
 **86th - spittoon (1):** Cyndic (S6)
 
 **86th - strategy (1):** Gorgerous (S8)
@@ -419,7 +419,7 @@
 
 **6 Seasons (7):** Cyndic (S1,S3-S6,S8), ItsColinn (S1-S2,S4,S6-S8), JustNolan (S1-S2,S4-S6,S8), Normoh (S1,S4-S8), Broseph (S2-S6,S8), Bobbytheturtle (S3-S8), Fcrm (S3-S8)
 
-**5 Seasons (7):** CHANGA (S1-S3,S6,S8), Coward (S1-S2,S4-S6), Drkrai (S1-S2,S4-S6), Spongey (S1-S2,S4-S6), Zakkeagle (S1,S3,S5-S7), Caydone (S4-S8), RqDix (S4-S8)
+**5 Seasons (7):** CHANGA (S1-S3,S6,S8), Coward (S1-S2,S4-S6), Drkrai (S1-S2,S4-S6), Spongey (S1-S2,S4-S6), Zakkeagle (S1,S3,S5-S7), AsianCheatCode (S4-S8), Caydone (S4-S8)
 
 **4 Seasons (16):** Codwhy (S1,S3-S4,S6), dahii (S1,S6-S8), Fensua (S1-S3,S5), marcusmtm (S1,S4,S7-S8), nsket (S1,S5-S7), cherryblawsom (S2,S4,S6-S7), DianaB (S2-S5), SiahStone (S2-S5), SimplySam (S2-S5), MaxEvasion (S3-S5,S8), Psykl0ne (S3,S5,S7-S8), WackoFlipper (S3-S5,S8), wizarde (S3,S5-S6,S8), Fra49 (S4-S5,S7-S8), _1mmortal_ (S5-S8), broccoliar (S5-S8)
 
@@ -438,7 +438,7 @@
 
 **S3 (31):** _Fost_, Bobbytheturtle, Bofishkix, Brodator, buttergolem1, CHAINGE, CipherKai, CrowJRC, Emerric, Evader22, Fcrm, ghostblurr, Grantonic, Huntree, Lighte, MaxEvasion, Micale, nFang, pigghetti, Psykl0ne, RabidChipmunk, Rawkeyy, Rohcket, scriblur, Sluggyg, SmolHatChild, Spacepod_, TayUHC, Vetmire, WackoFlipper, wizarde
 
-**S4 (28):** 6BU, azoof, c1n, Caydone, DevoyTTV, Fra49, FrostBros, Glarza, Greeples, hazel_doe, Jahrod, Jayzize, Jordtim, LoafOZ, MajorWoof, natsuvi, NTBama, ohh_lia, omchris, Phoraxe, PresidentFleb, RqDix, Ryfri, TehBaconBrawlerZ, TheRealHagrid, xMisha, zac083, ZachMcD
+**S4 (28):** 6BU, AsianCheatCode, azoof, c1n, Caydone, DevoyTTV, Fra49, FrostBros, Glarza, Greeples, hazel_doe, Jahrod, Jayzize, Jordtim, LoafOZ, MajorWoof, natsuvi, NTBama, ohh_lia, omchris, Phoraxe, PresidentFleb, Ryfri, TehBaconBrawlerZ, TheRealHagrid, xMisha, zac083, ZachMcD
 
 **S5 (27):** _1mmortal_, 4EyedSlime, Andronify, Applepie78, bayweafs, broccoliar, centraleric, CodeJoshua, DJoee, Drake132667596, dw0w, Fazz2, friigiid, Gorgerous, Hrray, ItsShqky, Kaddyn, Klickacat, lasdarling, LegoBeast, OblivionTU, Omertosa, pkee, sgouche, SpyroJ, tagggz, Thimburrr
 

@@ -383,7 +383,7 @@
 
 **25th - TehBaconBrawlerZ (10):** sgouche (S1), ZebraPantz (S4), Brodator (S4), 123SteveBob (S4), DJoee (S6), CommanderK22_ (S9), CAMKART100 (S14), ItsShqky (S17), Karliffu (S17), Lynxo (S17)
 
-**27th - DevoyTTV (9):** SOAKLE (S2), ItsShqky (S2), ArcticSeagull (S2), JaqOnCraq (S2), 123SteveBob (S2), IdkKiller (S4), _1mmortal_ (S7), _1mmortal_ (S11), RqDix (S12)
+**27th - DevoyTTV (9):** SOAKLE (S2), ItsShqky (S2), ArcticSeagull (S2), JaqOnCraq (S2), 123SteveBob (S2), IdkKiller (S4), _1mmortal_ (S7), _1mmortal_ (S11), AsianCheatCode (S12)
 
 **27th - ItsShqky (9):** TacoDab (S7), DJoee (S9), grantfaker (S9), ArcticSeagull (S12), kawaiibunri (S12), natsuvi (S12), wizarde (S17), Plushy33 (S19), SOAKLE (S19)
 
@@ -483,7 +483,7 @@
 
 **66th - JustNolan (2):** Westcraft00 (S13), poWpaH (S16)
 
-**66th - LUCRODIUM (2):** NajaOxiana (S18), GrassPiece (S18)
+**66th - LUCRODIUM (2):** illuminaja (S18), GrassPiece (S18)
 
 **66th - MCBR (2):** ItsColinn (S14), Bulbexe (S14)
 
@@ -525,7 +525,7 @@
 
 **81st - Plushy33 (1):** SOAKLE (S4)
 
-**81st - PresidentFleb (1):** NajaOxiana (S15)
+**81st - PresidentFleb (1):** illuminaja (S15)
 
 **81st - ProGirlGamer (1):** benidk (S13)
 
@@ -603,9 +603,9 @@
 
 **3 Seasons (16):** _Dieter (S1,S5,S10), AvyleZ (S1,S4-S5), Flcnt (S2,S14,S18), cat6376 (S3,S13,S18), vynil (S3,S15,S18), Evzenitable (S5,S13,S17), ChainingVermin2 (S6,S12-S13), CharizOVO (S8-S9,S15), acadiangel (S9-S10,S15), carterwarterbear (S10-S11,S19), Zakkeagle (S10,S12,S15), Seabasstian (S11-S13), GodlySteal (S15,S17,S19), JampoJohn (S16-S18), OOGAABOOGA3 (S16-S18), kabobaa (S17-S19)
 
-**2 Seasons (16):** Codwhy (S1,S3), Geroot (S1,S8), Batusko (S3,S17), DrSliced (S4-S5), E_nxch (S5,S8), Gorgerous (S5,S8), KineticYT (S5,S13), DogOfKrondor (S7-S8), ProGirlGamer (S11,S13), GoldenNs (S12-S13), JustNolan (S13,S16), NajaOxiana (S15,S18), Lighte (S17,S19), Lynxo (S17,S19), ItzBeeZ (S18-S19), Reignexion (S18-S19)
+**2 Seasons (16):** Codwhy (S1,S3), Geroot (S1,S8), Batusko (S3,S17), DrSliced (S4-S5), E_nxch (S5,S8), Gorgerous (S5,S8), KineticYT (S5,S13), DogOfKrondor (S7-S8), ProGirlGamer (S11,S13), GoldenNs (S12-S13), JustNolan (S13,S16), illuminaja (S15,S18), Lighte (S17,S19), Lynxo (S17,S19), ItzBeeZ (S18-S19), Reignexion (S18-S19)
 
-**1 Season (42):** _pbo (S1), Supersun_ (S1), dontbow (S2), MinimanTurtle (S2), PotteryTNT (S2), HalfLechuga (S3), IdkKiller (S4), smurpes (S4), ItsMeAR10 (S6), lasdarling (S6), TacoDab (S7), TheSlimeBrother (S7), CHANGA (S9), ohh_lia (S9), Normoh (S12), RqDix (S12), FluffyAri (S13), kirbey (S13), Queequa (S13), SiahStone (S13), Fra49 (S14), ItsColinn (S14), MCBR (S14), mekolame (S14), Tubesterkake (S14), viefff (S14), Acceptioned (S15), ImChile (S16), St0rmplayz (S16), Br8dy_ (S17), MajorWoof (S17), billyummmm (S18), Gleoss (S18), GrassPiece (S18), LUCRODIUM (S18), AlolanSandshrew (S19), gmailol (S19), HellaJugDish (S19), HUQTER (S19), omchris (S19), onstep (S19), RedDragonStar1 (S19)
+**1 Season (42):** _pbo (S1), Supersun_ (S1), dontbow (S2), MinimanTurtle (S2), PotteryTNT (S2), HalfLechuga (S3), IdkKiller (S4), smurpes (S4), ItsMeAR10 (S6), lasdarling (S6), TacoDab (S7), TheSlimeBrother (S7), CHANGA (S9), ohh_lia (S9), AsianCheatCode (S12), Normoh (S12), FluffyAri (S13), kirbey (S13), Queequa (S13), SiahStone (S13), Fra49 (S14), ItsColinn (S14), MCBR (S14), mekolame (S14), Tubesterkake (S14), viefff (S14), Acceptioned (S15), ImChile (S16), St0rmplayz (S16), Br8dy_ (S17), MajorWoof (S17), billyummmm (S18), Gleoss (S18), GrassPiece (S18), LUCRODIUM (S18), AlolanSandshrew (S19), gmailol (S19), HellaJugDish (S19), HUQTER (S19), omchris (S19), onstep (S19), RedDragonStar1 (S19)
 
 ---
 ### Debutants
@@ -632,13 +632,13 @@
 
 **S11 (4):** FroztiSnowman, PresidentFleb, ProGirlGamer, Seabasstian
 
-**S12 (5):** CurdledDrip, EndestroyerEpic, GoldenNs, Normoh, RqDix
+**S12 (5):** AsianCheatCode, CurdledDrip, EndestroyerEpic, GoldenNs, Normoh
 
 **S13 (6):** FluffyAri, JustNolan, kirbey, Pgy, Queequa, SiahStone
 
 **S14 (8):** Broseph, Fra49, ItsColinn, MCBR, mekolame, skyzfy, Tubesterkake, viefff
 
-**S15 (4):** Acceptioned, boyyoo, GodlySteal, NajaOxiana
+**S15 (4):** Acceptioned, boyyoo, GodlySteal, illuminaja
 
 **S16 (4):** ImChile, JampoJohn, OOGAABOOGA3, St0rmplayz
 

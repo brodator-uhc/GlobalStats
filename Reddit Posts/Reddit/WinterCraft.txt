@@ -156,7 +156,7 @@
 
 **S9:** Brodator (2), Sten_Stone (7), TinytheT_Rex (0)
 
-**S10:** Eagris (0), JaeHasNoMaidens (2), SleepyOwl101 (4)
+**S10:** Eagris (0), commitstaxfraud (2), SleepyOwl101 (4)
 
 **S11:** trillibytes (0), SleepyOwl101 (2), Trinan6918 (1), Brodator (2)
 
@@ -375,7 +375,7 @@
 
 **6th - Jahrod (10):** GReimer (S8), DogOfKrondor (S8), Yatorin (S15), Zeiyuri (S15), Sten_Stone (S15), trillibytes (S16), Ancient_Bunny (S16), draylor09 (S16), CaptainRichy (S16), ItsShqky (S16)
 
-**6th - Sten_Stone (10):** Fnassau (S4), trillibytes (S9), Ancient_Bunny (S9), TastyBaconZ (S9), nFang (S9), Flouzemaker (S9), JaeHasNoMaidens (S9), Glarza (S9), Banji3000 (S15), Eagris (S15)
+**6th - Sten_Stone (10):** Fnassau (S4), trillibytes (S9), Ancient_Bunny (S9), TastyBaconZ (S9), nFang (S9), Flouzemaker (S9), commitstaxfraud (S9), Glarza (S9), Banji3000 (S15), Eagris (S15)
 
 **8th - Codwhy (9):** PedroLeGamer (S6), C8sun (S6), Lilyberry (S6), Trinan6918 (S6), Bofishkix (S6), 1ime (S6), TheCatMurgatroyd (S8), DogOfKrondor (S9), FullRunThrough (S9)
 
@@ -409,9 +409,9 @@
 
 **23rd - Banji3000 (4):** ArrowsofCara (S3), Flouzemaker (S3), Eagris (S5), MadamGiggles (S15)
 
-**23rd - CameronJacob00 (4):** Ancient_Bunny (S2), ArrowsofCara (S4), TastyBaconZ (S4), JaeHasNoMaidens (S10)
+**23rd - CameronJacob00 (4):** Ancient_Bunny (S2), ArrowsofCara (S4), TastyBaconZ (S4), commitstaxfraud (S10)
 
-**23rd - JaeHasNoMaidens (4):** Eagris (S9), Lilyberry (S9), trillibytes (S10), CameronJacob00 (S10)
+**23rd - commitstaxfraud (4):** Eagris (S9), Lilyberry (S9), trillibytes (S10), CameronJacob00 (S10)
 
 **23rd - ShootingGoats (4):** DogOfKrondor (S20), Ninetals38 (S20), Brodator (S21), doctrzombie (S21)
 
@@ -569,7 +569,7 @@
 
 **3 Seasons (9):** Hefaistros (S1-S3), DrJimJim (S2-S4), Fnassau (S2-S4), wickedreine (S2,S4,S7), EmIsThem (S7-S8,S11), TinytheT_Rex (S7,S9,S14), YouCanCallMeXo (S7-S8,S10), Zeiyuri (S10-S11,S15), Xzeaulor (S14-S16)
 
-**2 Seasons (16):** TheRedHuldra (S1-S2), Wolfheart738 (S1-S2), CCRascal (S2,S4), ArrowsofCara (S3-S4), TheFuzzyMole (S3-S4), ghostblurr (S5-S6), TayUHC (S5,S11), Glarza (S9,S12), JaeHasNoMaidens (S9-S10), MaxEvasion (S12,S14), 798abc (S13-S14), Klobb (S13-S14), Hamishhhh (S16-S17), DocElectric (S20-S21), Ninetals38 (S20-S21), ShootingGoats (S20-S21)
+**2 Seasons (16):** TheRedHuldra (S1-S2), Wolfheart738 (S1-S2), CCRascal (S2,S4), ArrowsofCara (S3-S4), TheFuzzyMole (S3-S4), ghostblurr (S5-S6), TayUHC (S5,S11), commitstaxfraud (S9-S10), Glarza (S9,S12), MaxEvasion (S12,S14), 798abc (S13-S14), Klobb (S13-S14), Hamishhhh (S16-S17), DocElectric (S20-S21), Ninetals38 (S20-S21), ShootingGoats (S20-S21)
 
 **1 Season (34):** Blugy (S1), boemboom (S1), InterstellarFish (S1), Ixtaccihuatl (S1), MinecraftBabe007 (S1), OmniShade (S1), OrangeDugong (S1), Daslisal (S2), MajesticTaco_ (S2), WriteEscape (S2), michkeline (S3), thatchitoguy777 (S3), the_digs (S3), BannedEnergy (S4), MartyBoy392 (S4), SoberBartender (S4), PedroLeGamer (S6), TommySuX (S6), neocrypter (S7), GReimer (S8), ButcherBunny666 (S9), DancingKoi (S9), TwistedStranger (S10), xXDigitalMonkXx (S12), omnikrxn (S13), sosillytoo1971 (S15), WackoFlipper (S15), Yatorin (S15), pigghetti (S18), Greeples (S20), Jalapinecone (S20), CAMKART100 (S21), doctrzombie (S21), JampoJohn (S21)
 
@@ -592,7 +592,7 @@
 
 **S8 (2):** DogOfKrondor, GReimer
 
-**S9 (5):** ButcherBunny666, DancingKoi, Glarza, JaeHasNoMaidens, ZebraPantz
+**S9 (5):** ButcherBunny666, commitstaxfraud, DancingKoi, Glarza, ZebraPantz
 
 **S10 (2):** TwistedStranger, Zeiyuri
 

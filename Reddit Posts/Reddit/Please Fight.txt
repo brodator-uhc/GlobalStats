@@ -12,7 +12,7 @@
 
 **S1:** ChrisCD (4)
 
-**S2:** NajaOxiana (1), YellowVitt (1)
+**S2:** illuminaja (1), YellowVitt (1)
 
 ---
 ### Most Kills
@@ -45,23 +45,23 @@
 ---
 ### First Blood
 
-**S1:** NajaOxiana (Maxwellfifty)
+**S1:** illuminaja (Maxwellfifty)
 
 **S2:** Bobbytheturtle (5kylord)
 
 ---
 ### First Death
 
-**S1:** Maxwellfifty (NajaOxiana)
+**S1:** Maxwellfifty (illuminaja)
 
 **S2:** 5kylord (Bobbytheturtle)
 
 ---
 ### Kills
 
-**1st - natsuvi (10):** automavic (S1), Fcrm (S1), Hecticity (S1), NajaOxiana (S1), Br8dy_ (S1), lexicuhl (S1), lottebunny (S1), DrSliced (S1), Brodator (S1), ChrisCD (S1)
+**1st - natsuvi (10):** automavic (S1), Fcrm (S1), Hecticity (S1), illuminaja (S1), Br8dy_ (S1), lexicuhl (S1), lottebunny (S1), DrSliced (S1), Brodator (S1), ChrisCD (S1)
 
-**2nd - Bobbytheturtle (5):** 5kylord (S2), m4ku (S2), Brodator (S2), YellowVitt (S2), NajaOxiana (S2)
+**2nd - Bobbytheturtle (5):** 5kylord (S2), m4ku (S2), Brodator (S2), YellowVitt (S2), illuminaja (S2)
 
 **2nd - ChrisCD (5):** Psykl0ne (S1), Emylyl (S1), pierce981 (S1), MercuryParadox (S1), Chasmic (S2)
 
@@ -69,7 +69,7 @@
 
 **5th - Brodator (4):** CrowJRC (S1), chloesad (S1), ChainingVermin2 (S2), MaxEvasion (S2)
 
-**5th - NajaOxiana (4):** Maxwellfifty (S1), centraleric (S1), MaxEvasion (S1), Jinko42 (S2)
+**5th - illuminaja (4):** Maxwellfifty (S1), centraleric (S1), MaxEvasion (S1), Jinko42 (S2)
 
 **7th - lottebunny (2):** SiahStone (S1), ChainingVermin2 (S1)
 
@@ -107,14 +107,14 @@
 ---
 ### Participation
 
-**2 Seasons (16):** 5kylord (S1-S2), Br8dy_ (S1-S2), Brodator (S1-S2), Broseph (S1-S2), ChainingVermin2 (S1-S2), Chasmic (S1-S2), ChrisCD (S1-S2), Fcrm (S1-S2), Jinko42 (S1-S2), lottebunny (S1-S2), MajorWoof (S1-S2), MaxEvasion (S1-S2), MercuryParadox (S1-S2), NajaOxiana (S1-S2), Psykl0ne (S1-S2), YellowVitt (S1-S2)
+**2 Seasons (16):** 5kylord (S1-S2), Br8dy_ (S1-S2), Brodator (S1-S2), Broseph (S1-S2), ChainingVermin2 (S1-S2), Chasmic (S1-S2), ChrisCD (S1-S2), Fcrm (S1-S2), illuminaja (S1-S2), Jinko42 (S1-S2), lottebunny (S1-S2), MajorWoof (S1-S2), MaxEvasion (S1-S2), MercuryParadox (S1-S2), Psykl0ne (S1-S2), YellowVitt (S1-S2)
 
 **1 Season (21):** automavic (S1), azoof (S1), centraleric (S1), chloesad (S1), CrowJRC (S1), DrSliced (S1), Emylyl (S1), Goldcap (S1), Hecticity (S1), lexicuhl (S1), Maxwellfifty (S1), natsuvi (S1), pierce981 (S1), ProGirlGamer (S1), SiahStone (S1), Bobbytheturtle (S2), cherryblawsom (S2), LeonTG (S2), m4ku (S2), NukedNukem (S2), Pikachu (S2)
 
 ---
 ### Debutants
 
-**S1 (31):** 5kylord, automavic, azoof, Br8dy_, Brodator, Broseph, centraleric, ChainingVermin2, Chasmic, chloesad, ChrisCD, CrowJRC, DrSliced, Emylyl, Fcrm, Goldcap, Hecticity, Jinko42, lexicuhl, lottebunny, MajorWoof, MaxEvasion, Maxwellfifty, MercuryParadox, NajaOxiana, natsuvi, pierce981, ProGirlGamer, Psykl0ne, SiahStone, YellowVitt
+**S1 (31):** 5kylord, automavic, azoof, Br8dy_, Brodator, Broseph, centraleric, ChainingVermin2, Chasmic, chloesad, ChrisCD, CrowJRC, DrSliced, Emylyl, Fcrm, Goldcap, Hecticity, illuminaja, Jinko42, lexicuhl, lottebunny, MajorWoof, MaxEvasion, Maxwellfifty, MercuryParadox, natsuvi, pierce981, ProGirlGamer, Psykl0ne, SiahStone, YellowVitt
 
 **S2 (6):** Bobbytheturtle, cherryblawsom, LeonTG, m4ku, NukedNukem, Pikachu
 

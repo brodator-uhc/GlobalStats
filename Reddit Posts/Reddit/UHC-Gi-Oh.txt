@@ -18,7 +18,7 @@
 
 **S2:** Brodator (0), Rebelghost (0), SergeantM (0)
 
-**S3:** Bofishkix (0), JaeHasNoMaidens (2)
+**S3:** Bofishkix (0), commitstaxfraud (2)
 
 **S4:** _Fost_ (1), Fra49 (4), Phyrrus (1), poWpaH (0)
 
@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - Pelycosaur (19):** Markedbooboy (S1), NickPlaysGames15 (S1), SergeantM (S1), Evzenitable (S1), TheSheepMasters (S1), Crafters (S1), JamestheDouglas (S1), MichaelPlayMC (S3), NickPlaysGames15 (S3), Charrlottie (S3), egl_ (S3), Zcin (S3), Dargxn (S3), JaeHasNoMaidens (S3), TayUHC (S4), TehBaconBrawlerZ (S4), NickPlaysGames15 (S4), Dargxn (S4), _Fost_ (S4)
+**1st - Pelycosaur (19):** Markedbooboy (S1), NickPlaysGames15 (S1), SergeantM (S1), Evzenitable (S1), TheSheepMasters (S1), Crafters (S1), JamestheDouglas (S1), MichaelPlayMC (S3), NickPlaysGames15 (S3), Charrlottie (S3), egl_ (S3), Zcin (S3), Dargxn (S3), commitstaxfraud (S3), TayUHC (S4), TehBaconBrawlerZ (S4), NickPlaysGames15 (S4), Dargxn (S4), _Fost_ (S4)
 
 **2nd - _Fost_ (7):** ItsShqky (S1), Alisa_Muffins (S2), NickPlaysGames15 (S2), Psykl0ne (S2), ItsShqky (S2), Captinn (S3), Rebelghost (S4)
 
@@ -115,9 +115,9 @@
 
 **11th - Bofishkix (2):** Zcin (S4), Captinn (S4)
 
-**11th - Evzenitable (2):** TayUHC (S3), Rebelghost (S3)
+**11th - commitstaxfraud (2):** Phyrrus (S3), Blarkslol (S3)
 
-**11th - JaeHasNoMaidens (2):** Phyrrus (S3), Blarkslol (S3)
+**11th - Evzenitable (2):** TayUHC (S3), Rebelghost (S3)
 
 **11th - MaxEvasion (2):** SergeantM (S4), Fra49 (S4)
 
@@ -155,7 +155,7 @@
 
 **2 Seasons (12):** AdonisGaming (S1,S3), Fourbitplayer (S1,S3), JamestheDouglas (S1-S2), Plushy33 (S1-S2), Alisa_Muffins (S2-S3), Brodator (S2-S3), MichaelPlayMC (S2-S3), Charrlottie (S3-S4), kirbey (S3-S4), Phyrrus (S3-S4), poWpaH (S3-S4), Vetmire (S3-S4)
 
-**1 Season (13):** Crafters (S1), Markedbooboy (S1), TheSheepMasters (S1), Psykl0ne (S2), CodeJoshua (S3), Codwhy (S3), JaeHasNoMaidens (S3), 78ford (S4), Fra49 (S4), Jahrod (S4), MaxEvasion (S4), PwincessVanessa (S4), TehBaconBrawlerZ (S4)
+**1 Season (13):** Crafters (S1), Markedbooboy (S1), TheSheepMasters (S1), Psykl0ne (S2), CodeJoshua (S3), Codwhy (S3), commitstaxfraud (S3), 78ford (S4), Fra49 (S4), Jahrod (S4), MaxEvasion (S4), PwincessVanessa (S4), TehBaconBrawlerZ (S4)
 
 ---
 ### Debutants
@@ -164,7 +164,7 @@
 
 **S2 (8):** Alisa_Muffins, Blarkslol, Brodator, Captinn, Dargxn, MichaelPlayMC, Psykl0ne, Rebelghost
 
-**S3 (8):** Charrlottie, CodeJoshua, Codwhy, JaeHasNoMaidens, kirbey, Phyrrus, poWpaH, Vetmire
+**S3 (8):** Charrlottie, CodeJoshua, Codwhy, commitstaxfraud, kirbey, Phyrrus, poWpaH, Vetmire
 
 **S4 (6):** 78ford, Fra49, Jahrod, MaxEvasion, PwincessVanessa, TehBaconBrawlerZ
 

@@ -5,7 +5,7 @@
 
 **S1: 6BU (1), cherryblawsom (0), Pie212_123 (1), Psykl0ne (0)**, *Kelawesome (3)*
 
-**S2: Arich (0), Kelawesome (4), nyaaia (1), RiseGR (1), RqDix (5)**
+**S2: Arich (0), AsianCheatCode (5), Kelawesome (4), nyaaia (1), RiseGR (1)**
 
 **S3: ColdBac (2)**, *AHSOKATANOSTAN (0), Broseph (2), Glarza (5), TheSlimeBrother (0)*
 
@@ -31,7 +31,7 @@
 
 **S1:** Fcrm (4)
 
-**S2:** RqDix (5)
+**S2:** AsianCheatCode (5)
 
 **S3:** Glarza, natsuvi (5)
 
@@ -44,7 +44,7 @@
 
 **S1:** _Dieter (2), DJoee (3), Fra49 (1), RemyChingling (1), ToontownOnline (1)
 
-**S2:** Arich (0), Kelawesome (4), nyaaia (1), RiseGR (1), RqDix (5)
+**S2:** Arich (0), Kelawesome (4), nyaaia (1), RiseGR (1), AsianCheatCode (5)
 
 **S3:** AHSOKATANOSTAN (0), Broseph (2), ColdBac (2), Glarza (5), TheSlimeBrother (0)
 
@@ -57,7 +57,7 @@
 
 **S1:** RemyChingling (0:1:23)
 
-**S2:** RqDix (0:4:21)
+**S2:** AsianCheatCode (0:4:21)
 
 **S3:** Kaismartypants (0:0:20)
 
@@ -83,7 +83,7 @@
 
 **S1:** ToontownOnline (Rohcket)
 
-**S2:** RqDix (InsertDotJpeg)
+**S2:** AsianCheatCode (InsertDotJpeg)
 
 **S3:** Glarza (stupidsylvia)
 
@@ -96,7 +96,7 @@
 
 **S1:** Rohcket (ToontownOnline)
 
-**S2:** InsertDotJpeg (RqDix)
+**S2:** InsertDotJpeg (AsianCheatCode)
 
 **S3:** stupidsylvia (Glarza)
 
@@ -119,11 +119,11 @@
 
 **6th - _1mmortal_ (5):** ToontownOnline (S1), Fcrm (S4), zCent (S4), cherryblawsom (S5), Lighte (S5)
 
+**6th - AsianCheatCode (5):** InsertDotJpeg (S2), Brodator (S2), buttergolem1 (S2), pigghetti (S2), scriblur (S2)
+
 **6th - Glarza (5):** stupidsylvia (S3), Kaismartypants (S3), lasdarling (S3), Fra49 (S3), ZebraPantz (S3)
 
 **6th - natsuvi (5):** CommanderK22_ (S3), MercuryParadox (S3), benidk (S3), TheSlimeBrother (S3), Fcrm (S3)
-
-**6th - RqDix (5):** InsertDotJpeg (S2), Brodator (S2), buttergolem1 (S2), pigghetti (S2), scriblur (S2)
 
 **10th - benidk (3):** ArcticSeagull (S3), K0REDRAG0N (S3), PotteryTNT (S4)
 
@@ -213,14 +213,14 @@
 
 **2 Seasons (22):** 6BU (S1,S5), DJoee (S1,S5), Greeples (S1,S4), RemyChingling (S1,S5), Bobbytheturtle (S2,S5), buttergolem1 (S2,S5), pigghetti (S2,S5), AHSOKATANOSTAN (S3,S5), ArcticSeagull (S3-S4), benidk (S3-S4), brinkwhy (S3,S5), broccoliar (S3,S5), ColdBac (S3-S4), K0REDRAG0N (S3,S5), Kaismartypants (S3,S5), natsuvi (S3,S5), TheSlimeBrother (S3,S5), wizarde (S3-S4), ItsShqky (S4-S5), LightingMC (S4-S5), Spongey (S4-S5), zCent (S4-S5)
 
-**1 Season (64):** _Dieter (S1), 78ford (S1), Charrlottie (S1), fruitlogic (S1), Gorgerous (S1), Kaddyn (S1), lexicuhl (S1), Nuclearsugar (S1), Pie212_123 (S1), Rohcket (S1), ToontownOnline (S1), WackoFlipper (S1), YellowVitt (S1), Arich (S2), Bradzi (S2), cappyrappy (S2), ChrisCD (S2), Frozeno_ (S2), Hecticity (S2), InsertDotJpeg (S2), KOKeowner (S2), nyaaia (S2), RiseGR (S2), RqDix (S2), scriblur (S2), ShyGus (S2), SiahStone (S2), SPEEDYDIGS (S2), Thimburrr (S2), Broseph (S3), CodeJoshua (S3), CommanderK22_ (S3), Flcnt (S3), Glarza (S3), lasdarling (S3), SpaceFenix (S3), sr8611 (S3), stupidsylvia (S3), ZebraPantz (S3), _carn (S4), 4EyedSlime (S4), 5kylord (S4), acadiangel (S4), Aybel (S4), Markedbooboy (S4), Nikikula (S4), PotteryTNT (S4), Ryfri (S4), swishduck (S4), aalaan (S5), Batusko (S5), Cyndic (S5), DarrenBGP (S5), Dj8ninja (S5), ERHDude (S5), Lighte (S5), Normoh (S5), Ozzyowo (S5), poWpaH (S5), RuneTactics (S5), TacoDab (S5), TalonBX (S5), vynil (S5), Zakkeagle (S5)
+**1 Season (64):** _Dieter (S1), 78ford (S1), Charrlottie (S1), fruitlogic (S1), Gorgerous (S1), Kaddyn (S1), lexicuhl (S1), Nuclearsugar (S1), Pie212_123 (S1), Rohcket (S1), ToontownOnline (S1), WackoFlipper (S1), YellowVitt (S1), Arich (S2), AsianCheatCode (S2), Bradzi (S2), cappyrappy (S2), ChrisCD (S2), Frozeno_ (S2), Hecticity (S2), InsertDotJpeg (S2), KOKeowner (S2), nyaaia (S2), RiseGR (S2), scriblur (S2), ShyGus (S2), SiahStone (S2), SPEEDYDIGS (S2), Thimburrr (S2), Broseph (S3), CodeJoshua (S3), CommanderK22_ (S3), Flcnt (S3), Glarza (S3), lasdarling (S3), SpaceFenix (S3), sr8611 (S3), stupidsylvia (S3), ZebraPantz (S3), _carn (S4), 4EyedSlime (S4), 5kylord (S4), acadiangel (S4), Aybel (S4), Markedbooboy (S4), Nikikula (S4), PotteryTNT (S4), Ryfri (S4), swishduck (S4), aalaan (S5), Batusko (S5), Cyndic (S5), DarrenBGP (S5), Dj8ninja (S5), ERHDude (S5), Lighte (S5), Normoh (S5), Ozzyowo (S5), poWpaH (S5), RuneTactics (S5), TacoDab (S5), TalonBX (S5), vynil (S5), Zakkeagle (S5)
 
 ---
 ### Debutants
 
 **S1 (25):** _1mmortal_, _Dieter, 6BU, 78ford, Brodator, Charrlottie, cherryblawsom, DJoee, Fcrm, Fra49, fruitlogic, Gorgerous, Greeples, Kaddyn, Kelawesome, lexicuhl, MercuryParadox, Nuclearsugar, Pie212_123, Psykl0ne, RemyChingling, Rohcket, ToontownOnline, WackoFlipper, YellowVitt
 
-**S2 (20):** Arich, Bobbytheturtle, Bradzi, buttergolem1, cappyrappy, ChrisCD, Fensua, Frozeno_, Hecticity, InsertDotJpeg, KOKeowner, nyaaia, pigghetti, RiseGR, RqDix, scriblur, ShyGus, SiahStone, SPEEDYDIGS, Thimburrr
+**S2 (20):** Arich, AsianCheatCode, Bobbytheturtle, Bradzi, buttergolem1, cappyrappy, ChrisCD, Fensua, Frozeno_, Hecticity, InsertDotJpeg, KOKeowner, nyaaia, pigghetti, RiseGR, scriblur, ShyGus, SiahStone, SPEEDYDIGS, Thimburrr
 
 **S3 (21):** AHSOKATANOSTAN, ArcticSeagull, benidk, brinkwhy, broccoliar, Broseph, CodeJoshua, ColdBac, CommanderK22_, Flcnt, Glarza, K0REDRAG0N, Kaismartypants, lasdarling, natsuvi, SpaceFenix, sr8611, stupidsylvia, TheSlimeBrother, wizarde, ZebraPantz
 

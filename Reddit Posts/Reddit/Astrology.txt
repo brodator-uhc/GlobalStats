@@ -231,11 +231,11 @@
 
 **6th - Codwhy (12):** rippersteveM5 (S10), aalaan (S10), Yodrux (S10), DogOfKrondor (S11), Rohcket (S11), ItsShqky (S11), brodioh (S11), FrostBros (S11), Fancyyy (S11), Exee (S11), Brodator (S11), Andronify (S11)
 
-**7th - Digdude (11):** Awticon (S1), Harryb2k (S1), LucaSingapore (S3), Dj8ninja (S3), Harryb2k (S5), SummerBqsh (S7), JaeHasNoMaidens (S7), Yodrux (S7), Rohcket (S7), Fancyyy (S7), rippersteveM5 (S7)
+**7th - Digdude (11):** Awticon (S1), Harryb2k (S1), LucaSingapore (S3), Dj8ninja (S3), Harryb2k (S5), SummerBqsh (S7), commitstaxfraud (S7), Yodrux (S7), Rohcket (S7), Fancyyy (S7), rippersteveM5 (S7)
 
 **7th - SiahStone (11):** Digdude (S2), strategy (S7), Pelycosaur (S7), nFang (S7), FrostBros (S8), InsertDotJpeg (S8), Bradzi (S8), Brodator (S8), TorinFBF (S8), egl_ (S8), SummerBqsh (S10)
 
-**9th - MaxEvasion (10):** egl_ (S7), 4EyedSlime (S8), Itch33 (S8), Rohcket (S8), Codwhy (S9), Ninetals38 (S12), Fancyyy (S12), Bradzi (S12), Frozeno_ (S12), JaeHasNoMaidens (S12)
+**9th - MaxEvasion (10):** egl_ (S7), 4EyedSlime (S8), Itch33 (S8), Rohcket (S8), Codwhy (S9), Ninetals38 (S12), Fancyyy (S12), Bradzi (S12), Frozeno_ (S12), commitstaxfraud (S12)
 
 **10th - ItsShqky (8):** Itch33 (S9), MaxEvasion (S9), Drafty_ (S9), Fancyyy (S9), ShimamuraUzuki (S9), DevoyTTV (S12), TonyEatWorld (S12), Codwhy (S12)
 
@@ -281,6 +281,8 @@
 
 **31st - brodioh (3):** Yodrux (S8), Ninetals38 (S9), KilerKontrantion (S9)
 
+**31st - commitstaxfraud (3):** Frozeno_ (S7), SiahStone (S7), egl_ (S12)
+
 **31st - Crafters (3):** 123SteveBob (S2), wibbol (S3), SummerBqsh (S4)
 
 **31st - DancersTalon (3):** Microus (S3), Codwhy (S8), Fazz2 (S9)
@@ -288,8 +290,6 @@
 **31st - Dj8ninja (3):** TheSheepMasters (S3), DevoyTTV (S3), Ullti (S7)
 
 **31st - FrostBros (3):** Flouzemaker (S4), brodioh (S8), Exee (S12)
-
-**31st - JaeHasNoMaidens (3):** Frozeno_ (S7), SiahStone (S7), egl_ (S12)
 
 **31st - Jhnova (3):** Yodrux (S2), Laffey (S6), InsertDotJpeg (S6)
 
@@ -393,7 +393,7 @@
 
 **3 Seasons (10):** JokTwo (S1,S7,S10), Qeeshh (S1,S8,S10), Topspinpiggles (S1-S2,S5), Dj8ninja (S3,S5,S7), Microus (S3-S4,S8), Broseph (S4-S6), TheSonicJoey (S4,S9-S10), LordLaelaps (S7-S8,S12), brodioh (S8-S9,S11), Fra49 (S10-S12)
 
-**2 Seasons (14):** Singlish (S1,S3), TonyEatWorld (S1,S12), 123SteveBob (S2-S3), AJEvolved (S2,S5), warriorcat (S3-S4), wibbol (S3,S5), JamestheDouglas (S4-S5), JaeHasNoMaidens (S7,S12), ShimamuraUzuki (S7,S9), dw0w (S9-S10), mqson (S9-S10), Andronify (S11-S12), Exee (S11-S12), MercuryParadox (S11-S12)
+**2 Seasons (14):** Singlish (S1,S3), TonyEatWorld (S1,S12), 123SteveBob (S2-S3), AJEvolved (S2,S5), warriorcat (S3-S4), wibbol (S3,S5), JamestheDouglas (S4-S5), commitstaxfraud (S7,S12), ShimamuraUzuki (S7,S9), dw0w (S9-S10), mqson (S9-S10), Andronify (S11-S12), Exee (S11-S12), MercuryParadox (S11-S12)
 
 **1 Season (24):** Awticon (S1), Hacn35 (S1), Harmen (S1), HeyImHungry (S2), Psykl0ne (S3), Hoookey (S4), ShinyCrafter (S4), WaXmAn24 (S5), Zevulpes (S5), ghostblurr (S7), nFang (S7), Sluggyg (S7), Elphelt (S9), Fazz2 (S9), CodeJoshua (S10), Flcnt (S10), SoulvG (S10), Zylen (S10), Klobb (S11), MinimanTurtle (S11), ohh_lia (S11), Potsie (S11), centraleric (S12), Kaddyn (S12)
 
@@ -412,7 +412,7 @@
 
 **S6 (0):** 
 
-**S7 (11):** _Fost_, egl_, ghostblurr, JaeHasNoMaidens, LordLaelaps, MaxEvasion, nFang, Ninetals38, Rohcket, ShimamuraUzuki, Sluggyg
+**S7 (11):** _Fost_, commitstaxfraud, egl_, ghostblurr, LordLaelaps, MaxEvasion, nFang, Ninetals38, Rohcket, ShimamuraUzuki, Sluggyg
 
 **S8 (3):** brodioh, DogOfKrondor, ItsShqky
 

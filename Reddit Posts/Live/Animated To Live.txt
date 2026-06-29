@@ -51,9 +51,9 @@
 
 **3rd - ColdBac (3):** BardMain2 (S1), Rebelghost (S1), egl_ (S1)
 
-**5th - automavic (2):** _mrcool (S1), NajaOxiana (S1)
+**5th - automavic (2):** _mrcool (S1), illuminaja (S1)
 
-**5th - NajaOxiana (2):** WillBrisk (S1), Milen (S1)
+**5th - illuminaja (2):** WillBrisk (S1), Milen (S1)
 
 **5th - Spacepod_ (2):** Psykl0ne (S1), FrostBros (S1)
 
@@ -79,11 +79,11 @@
 ---
 ### Participation
 
-**1 Season (32):** _mrcool (S1), aalaan (S1), automavic (S1), BardMain2 (S1), BatMan_1814 (S1), Brodator (S1), Broseph (S1), CipherKai (S1), Codwhy (S1), ColdBac (S1), Daltun (S1), Dawncy (S1), DevoyTTV (S1), egl_ (S1), ElGavinoSupremo (S1), FrostBros (S1), Lighte (S1), MaxEvasion (S1), Milen (S1), NajaOxiana (S1), nsket (S1), Psykl0ne (S1), Rebelghost (S1), ShyGus (S1), SiahStone (S1), SmearBear (S1), SpaceFenix (S1), Spacepod_ (S1), strategy (S1), vynil (S1), WackoFlipper (S1), WillBrisk (S1)
+**1 Season (32):** _mrcool (S1), aalaan (S1), automavic (S1), BardMain2 (S1), BatMan_1814 (S1), Brodator (S1), Broseph (S1), CipherKai (S1), Codwhy (S1), ColdBac (S1), Daltun (S1), Dawncy (S1), DevoyTTV (S1), egl_ (S1), ElGavinoSupremo (S1), FrostBros (S1), illuminaja (S1), Lighte (S1), MaxEvasion (S1), Milen (S1), nsket (S1), Psykl0ne (S1), Rebelghost (S1), ShyGus (S1), SiahStone (S1), SmearBear (S1), SpaceFenix (S1), Spacepod_ (S1), strategy (S1), vynil (S1), WackoFlipper (S1), WillBrisk (S1)
 
 ---
 ### Debutants
 
-**S1 (32):** _mrcool, aalaan, automavic, BardMain2, BatMan_1814, Brodator, Broseph, CipherKai, Codwhy, ColdBac, Daltun, Dawncy, DevoyTTV, egl_, ElGavinoSupremo, FrostBros, Lighte, MaxEvasion, Milen, NajaOxiana, nsket, Psykl0ne, Rebelghost, ShyGus, SiahStone, SmearBear, SpaceFenix, Spacepod_, strategy, vynil, WackoFlipper, WillBrisk
+**S1 (32):** _mrcool, aalaan, automavic, BardMain2, BatMan_1814, Brodator, Broseph, CipherKai, Codwhy, ColdBac, Daltun, Dawncy, DevoyTTV, egl_, ElGavinoSupremo, FrostBros, illuminaja, Lighte, MaxEvasion, Milen, nsket, Psykl0ne, Rebelghost, ShyGus, SiahStone, SmearBear, SpaceFenix, Spacepod_, strategy, vynil, WackoFlipper, WillBrisk
 
 ---

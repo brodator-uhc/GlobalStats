@@ -7,7 +7,7 @@
 
 **S2: SpaceFenix (4), TheRealHagrid (2)**
 
-**S3: BBR_ (4), jamertxn (3)**, *JaeHasNoMaidens (0)*
+**S3: BBR_ (4), jamertxn (3)**, *commitstaxfraud (0)*
 
 **S4: lexicuhl (5)**, *aalaan (0), JamestheDouglas (0), kalleina (0), Regifloat (0)*
 
@@ -52,7 +52,7 @@
 
 **S2:** SpaceFenix (4), TheRealHagrid (2)
 
-**S3:** BBR_ (4), jamertxn (3), JaeHasNoMaidens (0)
+**S3:** BBR_ (4), jamertxn (3), commitstaxfraud (0)
 
 **S4:** aalaan (0), lexicuhl (5), JamestheDouglas (0), kalleina (0), Regifloat (0)
 
@@ -153,7 +153,7 @@
 
 **8th - TheRealHagrid (3):** IsaacMT (S1), Flouzemaker (S2), BBR_ (S2)
 
-**8th - TheSonicJoey (3):** Regifloat (S1), TheRealHagrid (S1), NajaOxiana (S1)
+**8th - TheSonicJoey (3):** Regifloat (S1), TheRealHagrid (S1), illuminaja (S1)
 
 **17th - Dj8ninja (2):** TastyBaconZ (S5), Fra49 (S5)
 
@@ -163,11 +163,11 @@
 
 **17th - TastyBaconZ (2):** kalleina (S4), Brodator (S5)
 
-**21st - dRawry (1):** JaeHasNoMaidens (S3)
+**21st - dRawry (1):** commitstaxfraud (S3)
+
+**21st - illuminaja (1):** QuilJ1 (S1)
 
 **21st - MistaUnicorn (1):** TheSonicJoey (S1)
-
-**21st - NajaOxiana (1):** QuilJ1 (S1)
 
 **21st - StoneAgedGaming (1):** BBR_ (S1)
 
@@ -201,16 +201,16 @@
 
 **2 Seasons (17):** _itslennard14 (S1-S2), DrJamezz (S1-S2), FazedMC (S1-S2), IsaacMT (S1-S2), Lucityy (S1-S2), Starflash (S1-S2), StoneAgedGaming (S1,S3), TheRealHagrid (S1-S2), Dannythecool123 (S2-S3), jamertxn (S2-S3), Vince_M (S2-S3), TalonBX (S3-S4), CaptainRichy (S5-S6), Dj8ninja (S5-S6), Greeples (S5-S6), SiahStone (S5-S6), Zeiyuri (S5-S6)
 
-**1 Season (26):** BZ_STEVE (S1), NajaOxiana (S1), QuilJ1 (S1), Slowth (S1), Broseph (S2), SidGarcia (S2), SpaceFenix (S2), chloesad (S3), CountryCutie (S3), dRawry (S3), flameorb (S3), JaeHasNoMaidens (S3), JamestheDouglas (S4), spoocS_ (S4), ElGavinoSupremo (S5), Fourbitplayer (S5), Fra49 (S5), Bacan (S6), Charrlottie (S6), Chasmic (S6), CrowJRC (S6), Demomaker (S6), Eluniel (S6), KatyLawson (S6), SmolHatChild (S6), TheBP (S6)
+**1 Season (26):** BZ_STEVE (S1), illuminaja (S1), QuilJ1 (S1), Slowth (S1), Broseph (S2), SidGarcia (S2), SpaceFenix (S2), chloesad (S3), commitstaxfraud (S3), CountryCutie (S3), dRawry (S3), flameorb (S3), JamestheDouglas (S4), spoocS_ (S4), ElGavinoSupremo (S5), Fourbitplayer (S5), Fra49 (S5), Bacan (S6), Charrlottie (S6), Chasmic (S6), CrowJRC (S6), Demomaker (S6), Eluniel (S6), KatyLawson (S6), SmolHatChild (S6), TheBP (S6)
 
 ---
 ### Debutants
 
-**S1 (18):** _itslennard14, BBR_, BZ_STEVE, DrJamezz, FazedMC, IsaacMT, kalleina, lexicuhl, Lucityy, MistaUnicorn, NajaOxiana, QuilJ1, Regifloat, Slowth, Starflash, StoneAgedGaming, TheRealHagrid, TheSonicJoey
+**S1 (18):** _itslennard14, BBR_, BZ_STEVE, DrJamezz, FazedMC, illuminaja, IsaacMT, kalleina, lexicuhl, Lucityy, MistaUnicorn, QuilJ1, Regifloat, Slowth, Starflash, StoneAgedGaming, TheRealHagrid, TheSonicJoey
 
 **S2 (8):** Broseph, Dannythecool123, Flouzemaker, FrostBros, jamertxn, SidGarcia, SpaceFenix, Vince_M
 
-**S3 (7):** buttergolem1, chloesad, CountryCutie, dRawry, flameorb, JaeHasNoMaidens, TalonBX
+**S3 (7):** buttergolem1, chloesad, commitstaxfraud, CountryCutie, dRawry, flameorb, TalonBX
 
 **S4 (5):** aalaan, Brodator, JamestheDouglas, spoocS_, TastyBaconZ
 

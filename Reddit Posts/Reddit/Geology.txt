@@ -355,7 +355,7 @@
 
 **4th - Caydone (27):** JamestheDouglas (S4), Phyrrus (S4), lilygant (S4), SiahStone (S4), HigmanFreud (S4), vynil (S5), GReimer (S5), HigmanFreud (S5), Karliffu (S5), TommySuX (S6), Brodator (S6), GReimer (S6), wizarde (S6), Fra49 (S8), ghostblurr (S9), Banji3000 (S9), Rohcket (S9), 4EyedSlime (S9), natsuvi (S9), Kaismartypants (S9), CHAINGE (S11), 4EyedSlime (S11), Gorgerous (S12), wizarde (S13), Greeples (S20), Flouzemaker (S20), Fra49 (S20)
 
-**5th - wizarde (26):** Sten_Stone (S3), HigmanFreud (S3), Pelycosaur (S4), Microus (S4), Jahrod (S4), Nek0r_ (S4), mickae (S5), JamestheDouglas (S5), tbhjosh (S6), Bofishkix (S6), DatGuyAdam (S6), brinkwhy (S6), JamestheDouglas (S7), ZebraPantz (S7), Markedbooboy (S7), JaeHasNoMaidens (S9), _Fost_ (S9), Caydone (S9), Glarza (S10), Kaismartypants (S13), DogOfKrondor (S18), TheRealHagrid (S18), Flouzemaker (S19), TheSlimeBrother (S19), broccoliar (S19), Phyrrus (S20)
+**5th - wizarde (26):** Sten_Stone (S3), HigmanFreud (S3), Pelycosaur (S4), Microus (S4), Jahrod (S4), Nek0r_ (S4), mickae (S5), JamestheDouglas (S5), tbhjosh (S6), Bofishkix (S6), DatGuyAdam (S6), brinkwhy (S6), JamestheDouglas (S7), ZebraPantz (S7), Markedbooboy (S7), commitstaxfraud (S9), _Fost_ (S9), Caydone (S9), Glarza (S10), Kaismartypants (S13), DogOfKrondor (S18), TheRealHagrid (S18), Flouzemaker (S19), TheSlimeBrother (S19), broccoliar (S19), Phyrrus (S20)
 
 **6th - Andronify (25):** Fra49 (S3), Phyrrus (S5), JoshC2 (S5), Jahrod (S5), SiahStone (S6), Kaismartypants (S6), DBird (S8), FrostBros (S9), MaxEvasion (S9), TastyBaconZ (S9), CipherKai (S9), SiahStone (S10), Ninetals38 (S10), Fra49 (S11), HigmanFreud (S11), Gorgerous (S11), _Fost_ (S11), WackoFlipper (S11), Flouzemaker (S12), Fazz2 (S12), Captinn (S12), Greeples (S14), lexicuhl (S17), pigghetti (S17), WackoFlipper (S17)
 
@@ -397,11 +397,11 @@
 
 **25th - Codwhy (7):** Markedbooboy (S5), AlexTheTFTF (S5), TheSonicJoey (S5), 4EyedSlime (S6), Jahrod (S7), natsuvi (S16), Brodator (S19)
 
+**25th - commitstaxfraud (7):** Jahrod (S8), SiahStone (S8), Phyrrus (S9), Rebelghost (S9), TorinFBF (S20), CHAINGE (S20), BoltsInCharge (S20)
+
 **25th - Fra49 (7):** Brodator (S4), SiahStone (S5), Ninetals38 (S9), NickPlaysGames15 (S9), _Dieter (S10), Phyrrus (S12), Caydone (S13)
 
-**25th - JaeHasNoMaidens (7):** Jahrod (S8), SiahStone (S8), Phyrrus (S9), Rebelghost (S9), TorinFBF (S20), CHAINGE (S20), BoltsInCharge (S20)
-
-**28th - CrowJRC (6):** broccoliar (S16), ChainingVermin2 (S19), WackoFlipper (S20), JaeHasNoMaidens (S20), Fancyyy (S20), wizarde (S20)
+**28th - CrowJRC (6):** broccoliar (S16), ChainingVermin2 (S19), WackoFlipper (S20), commitstaxfraud (S20), Fancyyy (S20), wizarde (S20)
 
 **28th - DJoee (6):** Caydone (S15), Flouzemaker (S15), NickPlaysGames15 (S15), Glarza (S15), Fcrm (S17), Rohcket (S17)
 
@@ -419,7 +419,7 @@
 
 **33rd - DatGuyAdam (5):** JoshC2 (S3), Brodator (S3), Bofishkix (S3), AlexTheTFTF (S3), Markedbooboy (S6)
 
-**33rd - ghostblurr (5):** TastyBaconZ (S8), Kaismartypants (S8), Sten_Stone (S8), JaeHasNoMaidens (S8), TheRealHagrid (S10)
+**33rd - ghostblurr (5):** TastyBaconZ (S8), Kaismartypants (S8), Sten_Stone (S8), commitstaxfraud (S8), TheRealHagrid (S10)
 
 **33rd - Greeples (5):** Nek0r_ (S2), ZebraPantz (S12), Gorgerous (S13), DJoee (S17), Fra49 (S17)
 
@@ -556,7 +556,7 @@
 ---
 ### PvE Deaths
 
-**Creeper (27):** Fcrm (S1), DatGuyAdam (S1), DevoyTTV (S1), Caydone (S1), TastyBaconZ (S1), JoshC2 (S2), Nek0r_ (S3), Fcrm (S3), Microus (S3), JaeHasNoMaidens (S4), TaylorLive (S5), CameronJacob00 (S5), DevoyTTV (S6), Greeples (S6), TorinFBF (S6), Jahrod (S6), JamestheDouglas (S6), nFang (S6), Andronify (S8), Brodator (S8), MaxEvasion (S10), SummerBqsh (S10), LoafOZ (S11), FrostBros (S11), Flouzemaker (S11), Greeples (S11), Fra49 (S19)
+**Creeper (27):** Fcrm (S1), DatGuyAdam (S1), DevoyTTV (S1), Caydone (S1), TastyBaconZ (S1), JoshC2 (S2), Nek0r_ (S3), Fcrm (S3), Microus (S3), commitstaxfraud (S4), TaylorLive (S5), CameronJacob00 (S5), DevoyTTV (S6), Greeples (S6), TorinFBF (S6), Jahrod (S6), JamestheDouglas (S6), nFang (S6), Andronify (S8), Brodator (S8), MaxEvasion (S10), SummerBqsh (S10), LoafOZ (S11), FrostBros (S11), Flouzemaker (S11), Greeples (S11), Fra49 (S19)
 
 **Zombie (8):** Zenithu (S1), TastyBaconZ (S2), Andronify (S4), Eagris (S6), Sten_Stone (S6), TheRealHagrid (S7), PresidentFleb (S19), Sharkbob94349 (S19)
 
@@ -617,7 +617,7 @@
 
 **5 Seasons (15):** _ChrisMS (S1,S10-S11,S14,S20), Crafters (S1-S5), mickae (S1-S5), 123SteveBob (S2-S4,S17-S18), TheSonicJoey (S2,S4-S6,S20), Rebelghost (S5-S7,S9,S20), Potsie (S6-S7,S9,S13-S14), TorinFBF (S6,S9,S11-S12,S20), LoafOZ (S7-S11), _Fost_ (S9-S11,S14-S15), _Dieter (S10-S13,S20), Glarza (S10-S11,S13-S15), Randehh (S12-S15,S20), BoltsInCharge (S15-S17,S19-S20), TheSlimeBrother (S15,S17-S20)
 
-**4 Seasons (10):** DBird (S1,S6-S8), OmniShade (S1-S3,S13), ThisIsHab (S1-S3,S20), SummerBqsh (S3,S6-S7,S10), JaeHasNoMaidens (S4,S8-S9,S20), Yveltql (S4-S5,S8-S9), GReimer (S5-S7,S9), CrowJRC (S15-S16,S19-S20), jimmyjegs (S15-S18), benidk (S17-S20)
+**4 Seasons (10):** DBird (S1,S6-S8), OmniShade (S1-S3,S13), ThisIsHab (S1-S3,S20), SummerBqsh (S3,S6-S7,S10), commitstaxfraud (S4,S8-S9,S20), Yveltql (S4-S5,S8-S9), GReimer (S5-S7,S9), CrowJRC (S15-S16,S19-S20), jimmyjegs (S15-S18), benidk (S17-S20)
 
 **3 Seasons (14):** 3Dspoders (S1-S2,S14), DatGuyAdam (S1,S3,S6), AlexTheTFTF (S2-S3,S5), Jorgeeay (S2-S3,S6), Broseph (S3,S8,S20), TaylorLive (S3,S5-S6), trillibytes (S3-S4,S6), tbhjosh (S4,S6,S12), Fancyyy (S7,S9,S20), Sparky_Taz (S7-S9), DJoee (S15-S17), Sharkbob94349 (S17,S19-S20), ChainingVermin2 (S18-S20), Vetmire (S18-S20)
 
@@ -634,7 +634,7 @@
 
 **S3 (16):** Andronify, Broseph, Davelions, Dj8ninja, FrozenBenny, honestlyhunter, Jahrod, Karliffu, natsuvi, SiahStone, SoberBartender, Sten_Stone, SummerBqsh, TaylorLive, trillibytes, wizarde
 
-**S4 (8):** CaptainRichy, Codwhy, JaeHasNoMaidens, lilygant, MegaGran, Phyrrus, tbhjosh, Yveltql
+**S4 (8):** CaptainRichy, Codwhy, commitstaxfraud, lilygant, MegaGran, Phyrrus, tbhjosh, Yveltql
 
 **S5 (8):** brinkwhy, Eagris, ghostblurr, GReimer, nFang, Rebelghost, SofaSeven, vynil
 

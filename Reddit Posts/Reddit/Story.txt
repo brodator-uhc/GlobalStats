@@ -7,7 +7,7 @@
 
 **S2: Mordon (3)**, *Evader22 (0), Jordtim (0)*
 
-**S3: Bballfool (2), Jordtim (0), Kingsy_ (5), Trevstacks (1)**, *Mordon (1)*
+**S3: Bballfool (2), JerseyTheDevil (5), Jordtim (0), Trevstacks (1)**, *Mordon (1)*
 
 **S4: CruelFives (0), Renegade_ (3), tuxpeng (1)**, *S_Inquisition (0)*
 
@@ -41,7 +41,7 @@
 
 **S2:** swishduck (8)
 
-**S3:** Kingsy_ (5)
+**S3:** JerseyTheDevil (5)
 
 **S4:** Wolfaye (5)
 
@@ -58,7 +58,7 @@
 
 **S2:** CH0CK (1), lexicuhl (1), swishduck (8)
 
-**S3:** Bballfool (2), Trevstacks (1), Jordtim (0), Kingsy_ (5), Mordon (1)
+**S3:** Bballfool (2), Trevstacks (1), Jordtim (0), JerseyTheDevil (5), Mordon (1)
 
 **S4:** ConnorsGameTips (3), Evader22 (0), swishduck (1), Wolfaye (5)
 
@@ -143,13 +143,13 @@
 
 **1st - Trevstacks (10):** PaperVinnie (S2), Dylanthesnake (S2), CH0CK (S2), CruelFives (S3), Daffz (S6), CruelFives (S6), Do_You_Minecraft (S6), DarrenBGP (S6), Pie212_123 (S6), YellowVitt (S7)
 
-**3rd - Kingsy_ (9):** Evader22 (S2), Cakezzzzz (S2), tuxpeng (S3), NajaOxiana (S3), Evader22 (S3), Coolust (S3), Mightyzark (S3), Evader22 (S4), Trevstacks (S4)
+**3rd - JerseyTheDevil (9):** Evader22 (S2), Cakezzzzz (S2), tuxpeng (S3), illuminaja (S3), Evader22 (S3), Coolust (S3), Mightyzark (S3), Evader22 (S4), Trevstacks (S4)
 
 **4th - lexicuhl (8):** YellowVitt (S2), PaperVinnie (S4), ssbear (S5), Supah_Matt (S5), S_Inquisition (S5), swishduck (S7), ConnorsGameTips (S7), PaperVinnie (S7)
 
 **4th - tuxpeng (8):** lexicuhl (S4), floobel (S5), DarrenBGP (S5), Daffz (S5), CH0CK (S5), TheKevGuy (S5), ssbear (S7), Jinko42 (S7)
 
-**6th - ConnorsGameTips (7):** _mrcool (S2), Supah_Matt (S2), Kingsy_ (S2), _ZoomZoom_ (S3), DarrenBGP (S4), DareDevilDawson (S4), Pepit (S4)
+**6th - ConnorsGameTips (7):** _mrcool (S2), Supah_Matt (S2), JerseyTheDevil (S2), _ZoomZoom_ (S3), DarrenBGP (S4), DareDevilDawson (S4), Pepit (S4)
 
 **7th - 5hup (6):** sleepingxd (S7), Dylanthesnake (S7), ThePeridotKnight (S7), Do_You_Minecraft (S7), Daffz (S7), ShyGus (S7)
 
@@ -161,13 +161,13 @@
 
 **7th - OnlyCosmia (6):** swishduck (S5), Nintendoshi (S5), Treyasaurus (S6), CH0CK (S6), Zachf01 (S7), 6dayna6 (S7)
 
-**12th - Anthonyde_ (5):** 6dayna6 (S1), Kingsy_ (S1), Supah_Matt (S1), Hecticity (S1), DECTHEELITE (S1)
+**12th - Anthonyde_ (5):** 6dayna6 (S1), JerseyTheDevil (S1), Supah_Matt (S1), Hecticity (S1), DECTHEELITE (S1)
 
 **12th - KaBoom (5):** floobel (S1), ConnorsGameTips (S1), Bballfool (S1), MarcoHan (S1), lexicuhl (S2)
 
 **12th - Maxwellfifty (5):** TotallyNotSirius (S3), Mordon (S4), TotallyNotSirius (S4), ShyGus (S5), jus10_la3anca (S6)
 
-**12th - Renegade_ (5):** Kingsy_ (S4), GeeSam (S4), Bballfool (S4), Maxwellfifty (S5), DareDevilDawson (S5)
+**12th - Renegade_ (5):** JerseyTheDevil (S4), GeeSam (S4), Bballfool (S4), Maxwellfifty (S5), DareDevilDawson (S5)
 
 **12th - ShyGus (5):** floobel (S3), CruelFives (S5), OnlyCosmia (S7), CH0CK (S7), lexicuhl (S7)
 
@@ -213,6 +213,8 @@
 
 **35th - CruelFives (1):** Andyboyonalert (S6)
 
+**35th - illuminaja (1):** AcornAcornAcorn (S3)
+
 **35th - inadequatespoon (1):** porcelaindolle (S7)
 
 **35th - Jaack (1):** bjr201111 (S1)
@@ -222,8 +224,6 @@
 **35th - Jordtim (1):** sleepingxd (S6)
 
 **35th - jus10_la3anca (1):** Nintendoshi (S6)
-
-**35th - NajaOxiana (1):** AcornAcornAcorn (S3)
 
 **35th - Nintendoshi (1):** MarcoHan (S6)
 
@@ -255,22 +255,22 @@
 
 **5 Seasons (11):** Bballfool (S1-S5), ConnorsGameTips (S1-S4,S7), floobel (S1-S3,S5,S7), Supah_Matt (S1-S5), YellowVitt (S1-S4,S7), CH0CK (S2,S4-S7), Evader22 (S2-S5,S7), Trevstacks (S2-S4,S6-S7), DarrenBGP (S3-S7), Maxwellfifty (S3-S7), tuxpeng (S3-S7)
 
-**4 Seasons (7):** Kingsy_ (S1-S4), Mordon (S1-S4), GeeSam (S2-S4,S7), CruelFives (S3-S6), ShyGus (S3,S5-S7), DareDevilDawson (S4-S7), ssbear (S4-S7)
+**4 Seasons (7):** JerseyTheDevil (S1-S4), Mordon (S1-S4), GeeSam (S2-S4,S7), CruelFives (S3-S6), ShyGus (S3,S5-S7), DareDevilDawson (S4-S7), ssbear (S4-S7)
 
 **3 Seasons (12):** _mrcool (S1-S2,S6), 6dayna6 (S1,S3,S7), Dylanthesnake (S2,S6-S7), LegoBeast (S2,S4-S5), Pepit (S3-S5), Treyasaurus (S3,S5-S6), Zachf01 (S3,S6-S7), Renegade_ (S4-S6), TheKevGuy (S4-S5,S7), Daffz (S5-S7), Do_You_Minecraft (S5-S7), OnlyCosmia (S5-S7)
 
 **2 Seasons (9):** KaBoom (S1-S2), MarcoHan (S1,S6), AcornAcornAcorn (S3-S4), TotallyNotSirius (S3-S4), S_Inquisition (S4-S5), friigiid (S5,S7), Nintendoshi (S5-S6), Pie212_123 (S6-S7), sleepingxd (S6-S7)
 
-**1 Season (27):** Anthonyde_ (S1), bjr201111 (S1), DECTHEELITE (S1), Hecticity (S1), Jaack (S1), ScottPirie (S1), Cakezzzzz (S2), jordanleevan (S2), JRodFTW (S2), Norox_ (S2), Stooof (S2), _ZoomZoom_ (S3), Coolust (S3), Mightyzark (S3), NajaOxiana (S3), sirples (S3), Wolfaye (S4), bitlington (S5), Grantonic (S5), lsperlo (S5), Andyboyonalert (S6), jus10_la3anca (S6), 5hup (S7), inadequatespoon (S7), Jinko42 (S7), porcelaindolle (S7), ThePeridotKnight (S7)
+**1 Season (27):** Anthonyde_ (S1), bjr201111 (S1), DECTHEELITE (S1), Hecticity (S1), Jaack (S1), ScottPirie (S1), Cakezzzzz (S2), jordanleevan (S2), JRodFTW (S2), Norox_ (S2), Stooof (S2), _ZoomZoom_ (S3), Coolust (S3), illuminaja (S3), Mightyzark (S3), sirples (S3), Wolfaye (S4), bitlington (S5), Grantonic (S5), lsperlo (S5), Andyboyonalert (S6), jus10_la3anca (S6), 5hup (S7), inadequatespoon (S7), Jinko42 (S7), porcelaindolle (S7), ThePeridotKnight (S7)
 
 ---
 ### Debutants
 
-**S1 (20):** _mrcool, 6dayna6, Anthonyde_, Bballfool, bjr201111, ConnorsGameTips, DECTHEELITE, floobel, Hecticity, Jaack, Jordtim, KaBoom, Kingsy_, MarcoHan, Mordon, PaperVinnie, ScottPirie, Supah_Matt, swishduck, YellowVitt
+**S1 (20):** _mrcool, 6dayna6, Anthonyde_, Bballfool, bjr201111, ConnorsGameTips, DECTHEELITE, floobel, Hecticity, Jaack, JerseyTheDevil, Jordtim, KaBoom, MarcoHan, Mordon, PaperVinnie, ScottPirie, Supah_Matt, swishduck, YellowVitt
 
 **S2 (12):** Cakezzzzz, CH0CK, Dylanthesnake, Evader22, GeeSam, jordanleevan, JRodFTW, LegoBeast, lexicuhl, Norox_, Stooof, Trevstacks
 
-**S3 (15):** _ZoomZoom_, AcornAcornAcorn, Coolust, CruelFives, DarrenBGP, Maxwellfifty, Mightyzark, NajaOxiana, Pepit, ShyGus, sirples, TotallyNotSirius, Treyasaurus, tuxpeng, Zachf01
+**S3 (15):** _ZoomZoom_, AcornAcornAcorn, Coolust, CruelFives, DarrenBGP, illuminaja, Maxwellfifty, Mightyzark, Pepit, ShyGus, sirples, TotallyNotSirius, Treyasaurus, tuxpeng, Zachf01
 
 **S4 (6):** DareDevilDawson, Renegade_, S_Inquisition, ssbear, TheKevGuy, Wolfaye
 

@@ -155,7 +155,7 @@
 ---
 ### Kills
 
-**1st - Lighte (13):** FumoSnake (S1), aalaan (S1), Cyonal (S1), SammyZBoy (S1), lexicuhl (S1), Dj8ninja (S4), Alacan (S4), MajorWoof (S4), JoshC2 (S4), NajaOxiana (S4), cherryblawsom (S5), Broseph (S5), Codwhy (S8)
+**1st - Lighte (13):** FumoSnake (S1), aalaan (S1), Cyonal (S1), SammyZBoy (S1), lexicuhl (S1), Dj8ninja (S4), Alacan (S4), MajorWoof (S4), JoshC2 (S4), illuminaja (S4), cherryblawsom (S5), Broseph (S5), Codwhy (S8)
 
 **2nd - acadiangel (11):** frogsella (S1), Broseph (S2), Drkrai (S2), Digdude (S2), Normoh (S2), SmolHatChild (S2), aalaan (S2), brinkwhy (S2), SiahStone (S6), Drkrai (S6), CipherKai (S8)
 
@@ -181,7 +181,7 @@
 
 **12th - Fcrm (5):** Cqson (S7), Kelawesome (S7), Jahrod (S7), Brodator (S7), cherryblawsom (S7)
 
-**12th - ShyGus (5):** NajaOxiana (S1), Normoh (S3), Arich (S3), Kaismartypants (S3), Psykl0ne (S7)
+**12th - ShyGus (5):** illuminaja (S1), Normoh (S3), Arich (S3), Kaismartypants (S3), Psykl0ne (S7)
 
 **12th - vynil (5):** _ChrisMS (S5), lexicuhl (S6), BardMain2 (S6), Brodator (S8), Psykl0ne (S8)
 
@@ -191,9 +191,9 @@
 
 **16th - Dj8ninja (4):** acadiangel (S8), strategy (S8), Ullti (S8), Drkrai (S8)
 
-**16th - lexicuhl (4):** ShyGus (S3), JmcLFA (S3), MajorWoof (S5), Kaismartypants (S8)
+**16th - illuminaja (4):** YellowVitt (S1), Crafters (S4), Paxtona (S4), SiahStone (S4)
 
-**16th - NajaOxiana (4):** YellowVitt (S1), Crafters (S4), Paxtona (S4), SiahStone (S4)
+**16th - lexicuhl (4):** ShyGus (S3), JmcLFA (S3), MajorWoof (S5), Kaismartypants (S8)
 
 **21st - _ChrisMS (3):** Brodator (S5), Kaismartypants (S6), 4EyedSlime (S6)
 
@@ -283,14 +283,14 @@
 
 **3 Seasons (7):** Digdude (S1-S3), FumoSnake (S1-S3), Drkrai (S2,S6,S8), Arich (S3,S5-S6), Pelycosaur (S5-S7), vynil (S5-S6,S8), Ullti (S6-S8)
 
-**2 Seasons (17):** frogsella (S1,S6), jommyappleseed (S1-S2), MrCanada (S1,S7), NajaOxiana (S1,S4), Bulbae (S2-S3), Chadmin (S2,S6), Flufayy (S2-S3), SoupestGlobe (S2,S7), Prisma (S3-S4), _ChrisMS (S5-S6), AdonisGaming (S6,S8), nFang (S6-S7), CipherKai (S7-S8), Cqson (S7-S8), Jahrod (S7-S8), Kelawesome (S7-S8), PresidentFleb (S7-S8)
+**2 Seasons (17):** frogsella (S1,S6), illuminaja (S1,S4), jommyappleseed (S1-S2), MrCanada (S1,S7), Bulbae (S2-S3), Chadmin (S2,S6), Flufayy (S2-S3), SoupestGlobe (S2,S7), Prisma (S3-S4), _ChrisMS (S5-S6), AdonisGaming (S6,S8), nFang (S6-S7), CipherKai (S7-S8), Cqson (S7-S8), Jahrod (S7-S8), Kelawesome (S7-S8), PresidentFleb (S7-S8)
 
 **1 Season (20):** HeyImHungry (S1), SammyZBoy (S1), Zahkari (S1), Boomblade60 (S2), warriorcat (S2), JmcLFA (S3), nsket (S3), wibbol (S3), Alacan (S4), Crafters (S4), CHAINGE (S6), chloesad (S6), CocoBenja (S6), Tharve (S6), WackoFlipper (S6), ElGavinoSupremo (S7), Fcrm (S7), Glarza (S7), Microus (S7), Lsnce (S8)
 
 ---
 ### Debutants
 
-**S1 (27):** 4EyedSlime, aalaan, acadiangel, Anorable, brinkwhy, Broseph, cherryblawsom, Codwhy, Cyonal, Digdude, frogsella, FumoSnake, HeyImHungry, jommyappleseed, JoshC2, Kaismartypants, lexicuhl, Lighte, MaxEvasion, MrCanada, NajaOxiana, Paxtona, SammyZBoy, ShyGus, SiahStone, YellowVitt, Zahkari
+**S1 (27):** 4EyedSlime, aalaan, acadiangel, Anorable, brinkwhy, Broseph, cherryblawsom, Codwhy, Cyonal, Digdude, frogsella, FumoSnake, HeyImHungry, illuminaja, jommyappleseed, JoshC2, Kaismartypants, lexicuhl, Lighte, MaxEvasion, MrCanada, Paxtona, SammyZBoy, ShyGus, SiahStone, YellowVitt, Zahkari
 
 **S2 (11):** Boomblade60, Brodator, Bulbae, Chadmin, Dj8ninja, Drkrai, Flufayy, Normoh, SmolHatChild, SoupestGlobe, warriorcat
 

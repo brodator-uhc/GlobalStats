@@ -167,7 +167,7 @@
 
 **5th - GoldenNs (6):** IzunaLoli (S3), Professer_TNT (S3), WillBrisk (S3), Coward (S3), Spongey (S3), TheRealHagrid (S3)
 
-**5th - MajorWoof (6):** Keelando (S8), Canman (S8), xMisha (S8), SpaceFenix (S8), JaeHasNoMaidens (S8), Kaismartypants (S8)
+**5th - MajorWoof (6):** Keelando (S8), Canman (S8), xMisha (S8), SpaceFenix (S8), commitstaxfraud (S8), Kaismartypants (S8)
 
 **5th - Spongey (6):** centraleric (S3), PoofessorP (S3), Sluggyg (S3), PauloSSB (S4), 78ford (S4), frogsella (S5)
 
@@ -183,7 +183,7 @@
 
 **14th - Andyboyonalert (4):** centraleric (S2), ItsNickb (S2), Sluggyg (S2), WillBrisk (S2)
 
-**14th - ConBeanJones (4):** Bornyo (S5), JaeHasNoMaidens (S5), lexicuhl (S8), 78ford (S8)
+**14th - ConBeanJones (4):** Bornyo (S5), commitstaxfraud (S5), lexicuhl (S8), 78ford (S8)
 
 **14th - ERHDude (4):** Zakkeagle (S7), aalaan (S7), Anorable (S7), Eroe (S8)
 
@@ -207,13 +207,13 @@
 
 **23rd - brinkwhy (2):** 343Kento (S6), SiahStone (S6)
 
+**23rd - commitstaxfraud (2):** Kaismartypants (S5), Topspinpiggles (S5)
+
 **23rd - DrJamezz (2):** IzunaLoli (S1), ChristinaAnne (S1)
 
 **23rd - FrostBros (2):** aalaan (S8), Zakkeagle (S8)
 
 **23rd - IceshardEleven (2):** Professer_TNT (S2), Pwep (S5)
-
-**23rd - JaeHasNoMaidens (2):** Kaismartypants (S5), Topspinpiggles (S5)
 
 **23rd - Professer_TNT (2):** Dj8ninja (S2), InsertDotJpeg (S5)
 
@@ -284,7 +284,7 @@
 
 **Suffocation (1):** centraleric (S4)
 
-**Wither Skeleton (1):** JaeHasNoMaidens (S3)
+**Wither Skeleton (1):** commitstaxfraud (S3)
 
 ---
 ### Participation
@@ -299,7 +299,7 @@
 
 **4 Seasons (7):** IceshardEleven (S1-S2,S4-S5), Krimm (S1,S5-S6,S8), ConBeanJones (S2,S4-S5,S8), Sluggyg (S2-S3,S5,S8), EyeBlack (S3-S6), InsertDotJpeg (S3,S5-S7), aalaan (S5-S8)
 
-**3 Seasons (15):** Bandias (S1,S5,S8), 319phoenix (S2-S4), CapSTVN (S2,S4-S5), Mincrooft (S2-S3,S5), PauloSSB (S2,S4-S5), Coward (S3-S4,S6), JaeHasNoMaidens (S3,S5,S8), PoofessorP (S3-S5), TheRealHagrid (S3-S5), BardMain2 (S4,S6,S8), Pwep (S4-S6), Flouzemaker (S5,S7-S8), PokeCraft4615 (S5-S6,S8), xMisha (S5,S7-S8), Anorable (S6-S8)
+**3 Seasons (15):** Bandias (S1,S5,S8), 319phoenix (S2-S4), CapSTVN (S2,S4-S5), Mincrooft (S2-S3,S5), PauloSSB (S2,S4-S5), commitstaxfraud (S3,S5,S8), Coward (S3-S4,S6), PoofessorP (S3-S5), TheRealHagrid (S3-S5), BardMain2 (S4,S6,S8), Pwep (S4-S6), Flouzemaker (S5,S7-S8), PokeCraft4615 (S5-S6,S8), xMisha (S5,S7-S8), Anorable (S6-S8)
 
 **2 Seasons (14):** GoldenNs (S1,S3), IzunaLoli (S1,S3), Andyboyonalert (S2,S5), Topspinpiggles (S2,S5), 78ford (S4,S8), Ahzora (S4-S5), Sassybunion (S4-S5), Fleeky (S5,S7), Mop19 (S5,S8), 343Kento (S6,S8), Keelando (S6,S8), Bofishkix (S7-S8), ERHDude (S7-S8), SpaceFenix (S7-S8)
 
@@ -312,7 +312,7 @@
 
 **S2 (13):** 319phoenix, Andyboyonalert, BrokenPic, CapSTVN, ConBeanJones, ItsNickb, Mincrooft, PauloSSB, Professer_TNT, Sluggyg, Spongey, Topspinpiggles, WillBrisk
 
-**S3 (9):** Andrew512, Coward, EyeBlack, InsertDotJpeg, JaeHasNoMaidens, PoofessorP, TheRealHagrid, YaojaDzn, Zakkeagle
+**S3 (9):** Andrew512, commitstaxfraud, Coward, EyeBlack, InsertDotJpeg, PoofessorP, TheRealHagrid, YaojaDzn, Zakkeagle
 
 **S4 (8):** 78ford, Ahzora, BardMain2, MercuryParadox, MrLazeo101, Pwep, Sassybunion, SmoothieGod
 

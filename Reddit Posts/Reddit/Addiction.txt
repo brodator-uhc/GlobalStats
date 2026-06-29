@@ -62,7 +62,7 @@
 
 **S10:** discoczibi (0), GeeSam (0), Hannilala (2)
 
-**S11:** Eluniel (0), FazedMC (3), GeeSam (1), Kingsy_ (0)
+**S11:** Eluniel (0), FazedMC (3), GeeSam (1), JerseyTheDevil (0)
 
 **S12:** 5kylord (4), awesomemacD (1), DareDevilDawson (1), Edviin_ (1)
 
@@ -142,7 +142,7 @@
 
 **S11:** CedGhoss (4), Jb589_ (2), Hacn35 (4), Daiko (1)
 
-**S12:** Austronomical (1), spoood (6), Kingsy_ (0), DrWonkenstein (1)
+**S12:** Austronomical (1), spoood (6), JerseyTheDevil (0), DrWonkenstein (1)
 
 **S13:** spoood (5), MBeaar (1)
 
@@ -241,7 +241,7 @@
 
 **S2:** Mentally (CaesarOctavius)
 
-**S3:** CelVeritas (Kingsy_)
+**S3:** CelVeritas (JerseyTheDevil)
 
 **S4:** GlowingNeon (Ruari)
 
@@ -255,7 +255,7 @@
 
 **S9:** _RampagingPanda_ (Aspire3630)
 
-**S10:** spoood (Kingsy_)
+**S10:** spoood (JerseyTheDevil)
 
 **S11:** FazedMC (Cookiecrumble_)
 
@@ -294,7 +294,7 @@
 
 **S9:** ScottPirie (Left)
 
-**S10:** Kingsy_ (spoood)
+**S10:** JerseyTheDevil (spoood)
 
 **S11:** Cookiecrumble_ (FazedMC)
 
@@ -317,17 +317,17 @@
 
 **1st - CedGhoss (26):** 99spikester (S3), MrPolzerino (S3), Schmeon (S3), Tomathius (S4), xPhinehas (S5), Naecoo (S5), CopperWalrus (S8), GoldenOlive (S8), Evilmonkie (S8), Ruari (S8), Shadoune666 (S8), thelarsi97 (S9), hammer_fan (S9), discoczibi (S9), _Frankie (S9), awesomemacD (S9), Scurry_ (S9), XFROSTXFIREX (S10), Eluniel (S10), SmooveManeuver (S10), Hannilala (S10), thelarsi97 (S11), _Frankie (S11), IsaacMT (S11), discoczibi (S11), _Cleg (S12)
 
-**2nd - Stellios_Cantos (17):** discoczibi (S5), Tomathius (S5), BarbieGamer (S5), MrCraftinator (S5), obrier (S5), hammer_fan (S6), obrier (S6), Shxffleh (S6), Tootikins (S7), xPhinehas (S9), EXSolo (S9), Swedish_ (S9), Tootikins (S9), CaesarOctavius (S9), Kingsy_ (S9), DrWonkenstein (S12), Eluniel (S13)
+**2nd - Stellios_Cantos (17):** discoczibi (S5), Tomathius (S5), BarbieGamer (S5), MrCraftinator (S5), obrier (S5), hammer_fan (S6), obrier (S6), Shxffleh (S6), Tootikins (S7), xPhinehas (S9), EXSolo (S9), Swedish_ (S9), Tootikins (S9), CaesarOctavius (S9), JerseyTheDevil (S9), DrWonkenstein (S12), Eluniel (S13)
 
-**2nd - Tootikins (17):** MrCraftinator (S1), Radical24 (S1), thelarsi97 (S1), TheGamerCool (S1), Shxffleh (S1), CedGhoss (S1), GlowingNeon (S1), alfierobey (S1), XFROSTXFIREX (S2), Stellios_Cantos (S5), Dark_rust (S7), Naecoo (S7), Schmeon (S8), Joeninetyjc (S8), XFROSTXFIREX (S9), Hannilala (S9), Kingsy_ (S11)
+**2nd - Tootikins (17):** MrCraftinator (S1), Radical24 (S1), thelarsi97 (S1), TheGamerCool (S1), Shxffleh (S1), CedGhoss (S1), GlowingNeon (S1), alfierobey (S1), XFROSTXFIREX (S2), Stellios_Cantos (S5), Dark_rust (S7), Naecoo (S7), Schmeon (S8), Joeninetyjc (S8), XFROSTXFIREX (S9), Hannilala (S9), JerseyTheDevil (S11)
 
-**4th - spoood (15):** Kingsy_ (S10), CameraLagg (S12), _Glen (S12), Hacn35 (S12), WackoFlipper (S12), neonpoop (S12), awesomemacD (S12), CameraLagg (S13), GreenGecks (S13), mmee04 (S13), DrWonkenstein (S13), Maj0r_Min3r_98 (S13), Eluniel (S17), WALRUS_TIME (S18), SiahStone (S18)
+**4th - spoood (15):** JerseyTheDevil (S10), CameraLagg (S12), _Glen (S12), Hacn35 (S12), WackoFlipper (S12), neonpoop (S12), awesomemacD (S12), CameraLagg (S13), GreenGecks (S13), mmee04 (S13), DrWonkenstein (S13), Maj0r_Min3r_98 (S13), Eluniel (S17), WALRUS_TIME (S18), SiahStone (S18)
 
 **5th - Austronomical (14):** DareDevilDawson (S12), GreenGecks (S14), mmee04 (S14), m4ku (S15), MrPolzerino (S15), dahii (S15), strategy (S16), ScottPirie (S16), Radical24 (S16), NotMyLights (S17), GetNicked (S17), tagggz (S18), flameorb (S18), MBeaar (S18)
 
-**6th - MrPolzerino (12):** EXSolo (S1), Kingsy_ (S1), Mentally (S3), Cybers_ (S4), XFROSTXFIREX (S4), Swedish_ (S4), Shadoune666 (S4), mjdwow (S4), Kloudian (S5), Hoppy (S5), Radical24 (S8), CameraLagg (S15)
+**6th - MrPolzerino (12):** EXSolo (S1), JerseyTheDevil (S1), Mentally (S3), Cybers_ (S4), XFROSTXFIREX (S4), Swedish_ (S4), Shadoune666 (S4), mjdwow (S4), Kloudian (S5), Hoppy (S5), Radical24 (S8), CameraLagg (S15)
 
-**7th - Naecoo (11):** hammer_fan (S5), alfierobey (S5), mjdwow (S5), CedGhoss (S5), MrCraftinator (S8), Kingsy_ (S8), discoczibi (S8), CedGhoss (S8), Radical24 (S9), Renegade_ (S9), Stellios_Cantos (S9)
+**7th - Naecoo (11):** hammer_fan (S5), alfierobey (S5), mjdwow (S5), CedGhoss (S5), MrCraftinator (S8), JerseyTheDevil (S8), discoczibi (S8), CedGhoss (S8), Radical24 (S9), Renegade_ (S9), Stellios_Cantos (S9)
 
 **7th - Shxffleh (11):** Ruari (S1), Scurry_ (S1), CedGhoss (S2), Radical24 (S3), Ruari (S3), EXSolo (S3), smellyburrito (S6), Swedish_ (S6), Noppe (S6), dnnyys (S7), MrCraftinator (S7)
 
@@ -343,9 +343,9 @@
 
 **12th - WackoFlipper (8):** awesomemacD (S14), MajorWoof (S14), Eluniel (S14), ScottPirie (S15), WALRUS_TIME (S15), ShyGus (S15), MarcC5M (S15), Rohcket (S18)
 
-**15th - 5kylord (7):** I_is_cheesecake (S12), Radical24 (S12), Kingsy_ (S12), spoood (S12), flameh (S17), WALRUS_TIME (S17), MaxCringe (S17)
+**15th - 5kylord (7):** I_is_cheesecake (S12), Radical24 (S12), JerseyTheDevil (S12), spoood (S12), flameh (S17), WALRUS_TIME (S17), MaxCringe (S17)
 
-**15th - Mentally (7):** CaesarOctavius (S2), Kingsy_ (S2), awesomemacD (S2), Cybers_ (S2), hammer_fan (S3), PythonRrR (S4), awesomemacD (S4)
+**15th - Mentally (7):** CaesarOctavius (S2), JerseyTheDevil (S2), awesomemacD (S2), Cybers_ (S2), hammer_fan (S3), PythonRrR (S4), awesomemacD (S4)
 
 **15th - mjdwow (7):** Timonscholte (S4), Tootikins (S4), hammer_fan (S4), MrCraftinator (S4), GlowingNeon (S5), Timonscholte (S5), Joeninetyjc (S5)
 
@@ -383,9 +383,9 @@
 
 **28th - Hannilala (4):** GoldenOlive (S6), hammer_fan (S7), LukiGg (S10), CaesarOctavius (S10)
 
-**28th - Karliffu (4):** chloesad (S16), 5hup (S16), Bacan (S16), RemyChingling (S16)
+**28th - JerseyTheDevil (4):** XFROSTXFIREX (S1), Eluniel (S9), CedGhoss (S9), Kidfo (S9)
 
-**28th - Kingsy_ (4):** XFROSTXFIREX (S1), Eluniel (S9), CedGhoss (S9), Kidfo (S9)
+**28th - Karliffu (4):** chloesad (S16), 5hup (S16), Bacan (S16), RemyChingling (S16)
 
 **28th - m4ku (4):** discoczibi (S12), BSBrent (S13), Cybers_ (S13), Radical24 (S15)
 
@@ -393,7 +393,7 @@
 
 **28th - Rohcket (4):** Awticon (S17), NotMyLights (S18), Nikikula (S18), RemyChingling (S18)
 
-**28th - Shadoune666 (4):** Kingsy_ (S4), MrPolzerino (S7), PythonRrR (S7), Hollymatman (S8)
+**28th - Shadoune666 (4):** JerseyTheDevil (S4), MrPolzerino (S7), PythonRrR (S7), Hollymatman (S8)
 
 **28th - TheGamerCool (4):** DrWonkenstein (S1), Aspire3630 (S2), GeeSam (S6), Hoppy (S6)
 
@@ -421,7 +421,7 @@
 
 **45th - spittoon (3):** CHAINGE (S16), Karliffu (S16), Chasmic (S17)
 
-**45th - stingswitch (3):** CaesarOctavius (S7), Ruari (S7), Kingsy_ (S7)
+**45th - stingswitch (3):** CaesarOctavius (S7), Ruari (S7), JerseyTheDevil (S7)
 
 **45th - thelarsi97 (3):** obrier (S1), mjdwow (S2), Hoppy (S7)
 
@@ -445,7 +445,7 @@
 
 **58th - GeeSam (2):** GlowingNeon (S6), Tootikins (S11)
 
-**58th - GoldenOlive (2):** thelarsi97 (S3), Kingsy_ (S6)
+**58th - GoldenOlive (2):** thelarsi97 (S3), JerseyTheDevil (S6)
 
 **58th - Hecticity (2):** Stellios_Cantos (S13), WackoFlipper (S16)
 
@@ -473,7 +473,7 @@
 
 **76th - bjr201111 (1):** NiFear (S7)
 
-**76th - CelVeritas (1):** Kingsy_ (S3)
+**76th - CelVeritas (1):** JerseyTheDevil (S3)
 
 **76th - Chasmic (1):** WALRUS_TIME (S16)
 
@@ -483,7 +483,7 @@
 
 **76th - Hollymatman (1):** Maj0r_Min3r_98 (S8)
 
-**76th - Kloudian (1):** Kingsy_ (S5)
+**76th - Kloudian (1):** JerseyTheDevil (S5)
 
 **76th - LeonTG (1):** MBeaar (S10)
 
@@ -537,7 +537,7 @@
 
 **13 Seasons (0):** 
 
-**12 Seasons (3):** Kingsy_ (S1-S12), MrCraftinator (S1-S11,S13), discoczibi (S5-S13,S15-S17)
+**12 Seasons (3):** JerseyTheDevil (S1-S12), MrCraftinator (S1-S11,S13), discoczibi (S5-S13,S15-S17)
 
 **11 Seasons (4):** CedGhoss (S1-S6,S8-S12), Eluniel (S1,S3,S9-S11,S13-S18), Radical24 (S1,S3-S5,S8-S9,S12,S14-S17), awesomemacD (S2-S4,S8-S9,S12-S17)
 
@@ -564,7 +564,7 @@
 ---
 ### Debutants
 
-**S1 (26):** alfierobey, Aspire3630, BasBs, BillyM797, CedGhoss, DrWonkenstein, Eluniel, EXSolo, GlowingNeon, hammer_fan, Hannilala, Joeninetyjc, Kingsy_, Maj0r_Min3r_98, mjdwow, MrCraftinator, MrPolzerino, obrier, Radical24, Ruari, Scurry_, Shxffleh, TheGamerCool, thelarsi97, Tootikins, XFROSTXFIREX
+**S1 (26):** alfierobey, Aspire3630, BasBs, BillyM797, CedGhoss, DrWonkenstein, Eluniel, EXSolo, GlowingNeon, hammer_fan, Hannilala, JerseyTheDevil, Joeninetyjc, Maj0r_Min3r_98, mjdwow, MrCraftinator, MrPolzerino, obrier, Radical24, Ruari, Scurry_, Shxffleh, TheGamerCool, thelarsi97, Tootikins, XFROSTXFIREX
 
 **S2 (8):** _Frankie, AndrizzlePC, awesomemacD, CaesarOctavius, Cybers_, Evilmonkie, LukiGg, Mentally
 

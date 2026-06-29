@@ -5,7 +5,7 @@
 
 **S1: HiImCC (4)**
 
-**S2: Kingsy_ (9)**, *xRyan98 (0)*
+**S2: JerseyTheDevil (9)**, *xRyan98 (0)*
 
 **S3: HiImCC (4), Joeylinks (3)**, *pigghetti (1)*
 
@@ -31,7 +31,7 @@
 
 **S1:** _Seanybhoy_, HiImCC (4)
 
-**S2:** Kingsy_ (9)
+**S2:** JerseyTheDevil (9)
 
 **S3:** HiImCC (4)
 
@@ -44,7 +44,7 @@
 
 **S1:** N/A
 
-**S2:** Kingsy_ (9), xRyan98 (0)
+**S2:** JerseyTheDevil (9), xRyan98 (0)
 
 **S3:** Joeylinks (3), HiImCC (4), pigghetti (1)
 
@@ -70,7 +70,7 @@
 
 **S1:** MarcProBow_13 (0:46:13)
 
-**S2:** Kingsy_ (0:53:7)
+**S2:** JerseyTheDevil (0:53:7)
 
 **S3:** pigghetti (0:59:33)
 
@@ -109,7 +109,7 @@
 
 **1st - HiImCC (11):** lolmcgeeksFTW (S1), Mineguin10 (S1), _Seanybhoy_ (S1), MarcProBow_13 (S1), DECTHEELITE (S2), _Glen (S3), TheRealJJBall (S3), DECTHEELITE (S3), ScottPirie (S3), Hecticity (S4), Digitil (S5)
 
-**2nd - Kingsy_ (9):** Rainbow_Skelly (S2), EwanMcE (S2), Bubblez97 (S2), ZaxerYT (S2), TheRealJJBall (S2), MajorWoof (S2), Eroe (S2), HiImCC (S2), Hecticity (S2)
+**2nd - JerseyTheDevil (9):** Rainbow_Skelly (S2), EwanMcE (S2), Bubblez97 (S2), ZaxerYT (S2), TheRealJJBall (S2), MajorWoof (S2), Eroe (S2), HiImCC (S2), Hecticity (S2)
 
 **3rd - Hecticity (6):** MinecraftlordFL (S2), Joeylinks (S2), Eroe (S3), MaxEvasion (S5), TheRealHagrid (S5), DECTHEELITE (S5)
 
@@ -117,7 +117,7 @@
 
 **5th - DECTHEELITE (5):** xRyan98 (S2), Salsarico (S4), xRyan98 (S4), HiImCC (S5), JahMuis (S5)
 
-**6th - _Seanybhoy_ (4):** iEnderz (S1), Hecticity (S1), Kingsy_ (S1), TheRealJJBall (S1)
+**6th - _Seanybhoy_ (4):** iEnderz (S1), Hecticity (S1), JerseyTheDevil (S1), TheRealJJBall (S1)
 
 **7th - _Glen (3):** Groom__ (S4), HiImCC (S4), Eroe (S4)
 
@@ -185,14 +185,14 @@
 
 **3 Seasons (6):** Bubblez97 (S2-S3,S5), Eroe (S2-S4), _Glen (S3-S5), Groom__ (S3-S5), pigghetti (S3-S5), ScottPirie (S3-S5)
 
-**2 Seasons (13):** Kingsy_ (S1-S2), SkYHaWkPlays (S1-S2), Joeylinks (S2-S3), Kroyn (S2-S3), MajorWoof (S2,S5), MinecraftlordFL (S2,S4), Rainbow_Skelly (S2,S4), ZaxerYT (S2,S5), Bulbae (S4-S5), JahMuis (S4-S5), KaBoom (S4-S5), Professer_TNT (S4-S5), TheRealHagrid (S4-S5)
+**2 Seasons (13):** JerseyTheDevil (S1-S2), SkYHaWkPlays (S1-S2), Joeylinks (S2-S3), Kroyn (S2-S3), MajorWoof (S2,S5), MinecraftlordFL (S2,S4), Rainbow_Skelly (S2,S4), ZaxerYT (S2,S5), Bulbae (S4-S5), JahMuis (S4-S5), KaBoom (S4-S5), Professer_TNT (S4-S5), TheRealHagrid (S4-S5)
 
 **1 Season (23):** _DrummonD_ (S1), _Seanybhoy_ (S1), 6sal9 (S1), GetNicked (S1), iEnderz (S1), lolmcgeeksFTW (S1), MarcProBow_13 (S1), Mineguin10 (S1), swishduck (S1), TheGamerCool (S1), EwanMcE (S2), CrazySchnitz (S3), Jaack (S3), LittleArabMC (S3), Qizeax (S3), Walshy (S3), 6dayna6 (S4), Salsarico (S4), Digitil (S5), Evader22 (S5), lottebunny (S5), MaxEvasion (S5), Ruari (S5)
 
 ---
 ### Debutants
 
-**S1 (16):** _DrummonD_, _Seanybhoy_, 6sal9, GetNicked, Hecticity, HiImCC, iEnderz, Kingsy_, lolmcgeeksFTW, MarcProBow_13, Mineguin10, SkYHaWkPlays, swishduck, TheGamerCool, TheRealJJBall, xRyan98
+**S1 (16):** _DrummonD_, _Seanybhoy_, 6sal9, GetNicked, Hecticity, HiImCC, iEnderz, JerseyTheDevil, lolmcgeeksFTW, MarcProBow_13, Mineguin10, SkYHaWkPlays, swishduck, TheGamerCool, TheRealJJBall, xRyan98
 
 **S2 (10):** Bubblez97, DECTHEELITE, Eroe, EwanMcE, Joeylinks, Kroyn, MajorWoof, MinecraftlordFL, Rainbow_Skelly, ZaxerYT
 

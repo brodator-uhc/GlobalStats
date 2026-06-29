@@ -50,7 +50,7 @@
 
 **S4:** Charrlottie (0), ohh_lia (4), ItsColinn (5)
 
-**S5:** Do_You_Minecraft (0), cherryblawsom (3), powermc (0), RqDix (3) & Jordtim (0), TehBaconBrawlerZ (3), TheRealHagrid (1), wizarde (2)
+**S5:** Do_You_Minecraft (0), cherryblawsom (3), powermc (0), AsianCheatCode (3) & Jordtim (0), TehBaconBrawlerZ (3), TheRealHagrid (1), wizarde (2)
 
 ---
 ### First Damage
@@ -89,7 +89,7 @@
 
 **S4:** OOGAABOOGA3 (azoof)
 
-**S5:** RqDix (MercuryParadox)
+**S5:** AsianCheatCode (MercuryParadox)
 
 ---
 ### First Death
@@ -115,7 +115,7 @@
 
 **3rd - CipherKai (6):** ohh_lia (S1), TheRealHagrid (S1), Clemjo (S1), powermc (S1), ItsColinn (S1), SpaceFenix (S1)
 
-**3rd - ethodog (6):** RqDix (S1), PresidentFleb (S2), _Dieter (S2), strategy (S2), ItsColinn (S2), SpaceFenix (S2)
+**3rd - ethodog (6):** AsianCheatCode (S1), PresidentFleb (S2), _Dieter (S2), strategy (S2), ItsColinn (S2), SpaceFenix (S2)
 
 **3rd - omchris (6):** GamerNthn (S2), Phoraxe (S2), powermc (S5), _Fost_ (S5), Do_You_Minecraft (S5), cherryblawsom (S5)
 
@@ -135,13 +135,13 @@
 
 **10th - SpaceFenix (4):** Austronomical (S1), lexicuhl (S2), ohh_lia (S2), Kelawesome (S2)
 
+**15th - AsianCheatCode (3):** MercuryParadox (S5), Eluniel (S5), natsuvi (S5)
+
 **15th - azoof (3):** Arich (S2), wizarde (S3), Ryfri (S5)
 
 **15th - JustNolan (3):** Vetmire (S1), OOGAABOOGA3 (S1), Jordtim (S1)
 
 **15th - Phoraxe (3):** Kaismartypants (S2), wizarde (S2), ethodog (S2)
-
-**15th - RqDix (3):** MercuryParadox (S5), Eluniel (S5), natsuvi (S5)
 
 **15th - Spongey (3):** olivieh (S2), ArcticSeagull (S4), ColdBac (S5)
 
@@ -153,7 +153,7 @@
 
 **23rd - _Dieter (2):** Eluniel (S1), azoof (S2)
 
-**23rd - DJoee (2):** Bobbytheturtle (S5), RqDix (S5)
+**23rd - DJoee (2):** Bobbytheturtle (S5), AsianCheatCode (S5)
 
 **23rd - Glarza (2):** wizarde (S1), Gorgerous (S3)
 
@@ -213,14 +213,14 @@
 
 **3 Seasons (12):** Glarza (S1-S3), MaxEvasion (S1,S3-S4), ohh_lia (S1-S2,S4), OOGAABOOGA3 (S1,S3-S4), PresidentFleb (S1-S2,S4), strategy (S1-S3), WackoFlipper (S1,S3-S4), cherryblawsom (S2,S4-S5), Kelawesome (S2-S4), Spongey (S2,S4-S5), fruitlogic (S3-S5), SpyroJ (S3-S5)
 
-**2 Seasons (25):** _Dieter (S1-S2), _Fost_ (S1,S5), Austronomical (S1,S5), CHAINGE (S1-S2), Eluniel (S1,S5), kirbey (S1-S2), olivieh (S1-S2), pigghetti (S1,S4), powermc (S1,S5), RqDix (S1,S5), SpaceFenix (S1-S2), TheRealHagrid (S1,S5), Arich (S2-S3), Biwitch (S2,S4), GamerNthn (S2-S3), Gorgerous (S2-S3), Klickacat (S2-S3), Livin423 (S2-S3), Phoraxe (S2,S5), ArcticSeagull (S3-S4), ColdBac (S3,S5), MercuryParadox (S4-S5), natsuvi (S4-S5), Ninetals38 (S4-S5), Randehh (S4-S5)
+**2 Seasons (25):** _Dieter (S1-S2), _Fost_ (S1,S5), AsianCheatCode (S1,S5), Austronomical (S1,S5), CHAINGE (S1-S2), Eluniel (S1,S5), kirbey (S1-S2), olivieh (S1-S2), pigghetti (S1,S4), powermc (S1,S5), SpaceFenix (S1-S2), TheRealHagrid (S1,S5), Arich (S2-S3), Biwitch (S2,S4), GamerNthn (S2-S3), Gorgerous (S2-S3), Klickacat (S2-S3), Livin423 (S2-S3), Phoraxe (S2,S5), ArcticSeagull (S3-S4), ColdBac (S3,S5), MercuryParadox (S4-S5), natsuvi (S4-S5), Ninetals38 (S4-S5), Randehh (S4-S5)
 
 **1 Season (25):** CipherKai (S1), Clemjo (S1), Cyndic (S1), JustNolan (S1), Vetmire (S1), CHANGA (S2), MajorWoof (S2), SiahStone (S2), vynil (S3), _pbo (S4), Aybel (S4), Bacan (S4), benidk (S4), Blarkslol (S4), Bobbytheturtle (S5), Brodator (S5), DJoee (S5), Do_You_Minecraft (S5), Flcnt (S5), Jaysonn (S5), Kaddyn (S5), Potsie (S5), silh (S5), TehBaconBrawlerZ (S5), zCent (S5)
 
 ---
 ### Debutants
 
-**S1 (33):** _Dieter, _Fost_, Austronomical, azoof, CHAINGE, Charrlottie, CipherKai, Clemjo, Cyndic, Eluniel, ethodog, Glarza, ItsColinn, Jordtim, JustNolan, Kaismartypants, kirbey, MaxEvasion, ohh_lia, olivieh, omchris, OOGAABOOGA3, pigghetti, powermc, PresidentFleb, RqDix, Ryfri, SpaceFenix, strategy, TheRealHagrid, Vetmire, WackoFlipper, wizarde
+**S1 (33):** _Dieter, _Fost_, AsianCheatCode, Austronomical, azoof, CHAINGE, Charrlottie, CipherKai, Clemjo, Cyndic, Eluniel, ethodog, Glarza, ItsColinn, Jordtim, JustNolan, Kaismartypants, kirbey, MaxEvasion, ohh_lia, olivieh, omchris, OOGAABOOGA3, pigghetti, powermc, PresidentFleb, Ryfri, SpaceFenix, strategy, TheRealHagrid, Vetmire, WackoFlipper, wizarde
 
 **S2 (14):** Arich, Biwitch, CHANGA, cherryblawsom, GamerNthn, Gorgerous, Kelawesome, Klickacat, lexicuhl, Livin423, MajorWoof, Phoraxe, SiahStone, Spongey
 

@@ -88,7 +88,7 @@
 
 **S2:** GoldenNs (6), Zahkari (0)
 
-**S3:** FrostBros (1), ItsPqnda (0), JaeHasNoMaidens (0), ConBeanJones (6)
+**S3:** FrostBros (1), ItsPqnda (0), commitstaxfraud (0), ConBeanJones (6)
 
 **S4:** Andrew512 (4), Centrios (1), frogsella (0), ConBeanJones (3)
 
@@ -247,7 +247,7 @@
 
 **10th - Pelycosaur (6):** Plushy33 (S7), SharkeyJaws (S8), Brocko (S8), Anorable (S8), nFang (S9), _1mmortal_ (S11)
 
-**15th - Boosters (5):** Kaismartypants (S3), IceshardEleven (S3), ItsColinn (S3), JaeHasNoMaidens (S3), SoulRawr (S3)
+**15th - Boosters (5):** Kaismartypants (S3), IceshardEleven (S3), ItsColinn (S3), commitstaxfraud (S3), SoulRawr (S3)
 
 **15th - Bradzi (5):** natsuvi (S6), DevoyTTV (S6), Bofishkix (S7), Kiinako_ (S7), Rebelghost (S8)
 
@@ -413,7 +413,7 @@
 
 **2 Seasons (37):** DROhD (S1,S3), stupidgirltv (S1,S11), cherryblawsom (S2,S12), GoldenNs (S2,S5), IzunaLoli (S2-S3), MinecrafNinja (S2,S8), SoulRawr (S2-S3), BardMain2 (S3,S5), cards4in_ (S3,S5), JasonBPE (S3,S7), Kelawesome (S3,S11), Vorpeo (S3,S6), Andrew512 (S4,S11), Centrios (S4,S9), frogsella (S4-S5), JustNolan (S4,S11), Abdalain (S5,S7), Boomblade60 (S5-S6), Broseph (S5-S6), honestlyhunter (S5-S6), ThisIsHab (S5,S12), CipherKai (S6-S7), Jwillnot (S6,S9), BBR_ (S7-S8), JamestheDouglas (S7-S8), Thermql (S7,S9), chunkster14 (S8-S9), Dawncy (S8,S11), nFang (S8-S9), Rebelghost (S8-S9), ItsShqky (S9,S12), tbhjosh (S9,S12), AlTheWriter (S10,S12), Fourbitplayer (S10-S11), SpaceFenix (S10,S12), TacoDab (S10-S11), Bohe (S11-S12)
 
-**1 Season (64):** BerryTea (S1), Drasylin (S1), GammaRayBurst_ (S1), IHyproHD (S1), ItsChristiannn (S1), Jrose (S1), Midnight897 (S1), Roblox (S1), xWisely (S1), Ethqn (S2), JoshvsGaming (S2), Spencerdood (S2), TheBird_ (S2), Zahkari (S2), Boosters (S3), DyeItTight (S3), IceshardEleven (S3), JaeHasNoMaidens (S3), Abandoned (S4), flameorb (S4), Sorvent (S4), spoocS_ (S5), _mrcool (S6), Coward (S6), Cyndic (S6), GeeSam (S6), Normoh (S6), nsket (S6), Stormy_Boy (S6), Fra49 (S7), TheSheepMasters (S7), Anorable (S8), Dj8ninja (S8), _ChrisMS (S9), 4EyedSlime (S9), BigJedo (S9), Caffeindiazepine (S9), Codwhy (S9), IyaIsMad (S9), Krbreb (S9), LoafOZ (S9), Markedbooboy (S9), ohh_lia (S9), Ozzyowo (S9), PoofessorP (S9), violetwoah (S9), Woex (S9), ArcticSeagull (S10), Caydone (S10), Connosaurus (S10), Glarza (S10), MaxEvasion (S10), milkpoptart (S10), _1mmortal_ (S11), ERHDude (S11), BoltsInCharge (S12), ChainingVermin2 (S12), kawaiibunri (S12), Sharkbob94349 (S12), skrunklee (S12), TheSlimeBrother (S12), Westcraft00 (S12), wizarde (S12), zCent (S12)
+**1 Season (64):** BerryTea (S1), Drasylin (S1), GammaRayBurst_ (S1), IHyproHD (S1), ItsChristiannn (S1), Jrose (S1), Midnight897 (S1), Roblox (S1), xWisely (S1), Ethqn (S2), JoshvsGaming (S2), Spencerdood (S2), TheBird_ (S2), Zahkari (S2), Boosters (S3), commitstaxfraud (S3), DyeItTight (S3), IceshardEleven (S3), Abandoned (S4), flameorb (S4), Sorvent (S4), spoocS_ (S5), _mrcool (S6), Coward (S6), Cyndic (S6), GeeSam (S6), Normoh (S6), nsket (S6), Stormy_Boy (S6), Fra49 (S7), TheSheepMasters (S7), Anorable (S8), Dj8ninja (S8), _ChrisMS (S9), 4EyedSlime (S9), BigJedo (S9), Caffeindiazepine (S9), Codwhy (S9), IyaIsMad (S9), Krbreb (S9), LoafOZ (S9), Markedbooboy (S9), ohh_lia (S9), Ozzyowo (S9), PoofessorP (S9), violetwoah (S9), Woex (S9), ArcticSeagull (S10), Caydone (S10), Connosaurus (S10), Glarza (S10), MaxEvasion (S10), milkpoptart (S10), _1mmortal_ (S11), ERHDude (S11), BoltsInCharge (S12), ChainingVermin2 (S12), kawaiibunri (S12), Sharkbob94349 (S12), skrunklee (S12), TheSlimeBrother (S12), Westcraft00 (S12), wizarde (S12), zCent (S12)
 
 ---
 ### Debutants
@@ -422,7 +422,7 @@
 
 **S2 (12):** cherryblawsom, Ethqn, GoldenNs, IzunaLoli, JoshvsGaming, MinecrafNinja, NotMineProblem, Ryfri, SoulRawr, Spencerdood, TheBird_, Zahkari
 
-**S3 (14):** BardMain2, Boosters, cards4in_, ConBeanJones, DyeItTight, FrostBros, IceshardEleven, ItsColinn, JaeHasNoMaidens, JasonBPE, Kaismartypants, Kelawesome, PauloSSB, Vorpeo
+**S3 (14):** BardMain2, Boosters, cards4in_, commitstaxfraud, ConBeanJones, DyeItTight, FrostBros, IceshardEleven, ItsColinn, JasonBPE, Kaismartypants, Kelawesome, PauloSSB, Vorpeo
 
 **S4 (10):** Abandoned, Andrew512, Centrios, flameorb, frogsella, JahMuis, JustNolan, Master_Saber, SiahStone, Sorvent
 

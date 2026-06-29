@@ -15,6 +15,10 @@
 
 **S6: Bobbytheturtle (6)**, *powermc (0), WackoFlipper (0)*
 
+**S7a: 4EyedSlime (3)**, *Broseph (4), ColdBac (2), Vulkarr (2)*
+
+**S7b: Broseph (1), Caydone (2), Gorgerous (3)**, *DancersTalon (0)*
+
 ---
 ### Runner Ups
 
@@ -29,6 +33,10 @@
 **S5:** CrowJRC (0), Greeples (0), Ninetals38 (0), ProGirlGamer (1)
 
 **S6:** 4EyedSlime (2), ChainingVermin2 (1), ToucanTom (0)
+
+**S7a:** Hecticity (1), Kaismartypants (0), Maxwellfifty (0), ShootingGoats (0)
+
+**S7b:** Brodator (0), CrowJRC (6), Queequa (0), Vulkarr (1)
 
 ---
 ### Most Kills
@@ -45,6 +53,10 @@
 
 **S6:** Bobbytheturtle (6)
 
+**S7a:** Bobbytheturtle (9)
+
+**S7b:** CrowJRC (6)
+
 ---
 ### Most Kills (Team)
 
@@ -59,6 +71,10 @@
 **S5:** DevoyTTV (6), fruitlogic (6), ItzBeeZ (0), omchris (4)
 
 **S6:** Boomblade60 (3), SpaceFenix (3), Stravilight (1)
+
+**S7a:** Broseph (4), ColdBac (2), 4EyedSlime (3), Vulkarr (2)
+
+**S7b:** Brodator (0), CrowJRC (6), Queequa (0), Vulkarr (1)
 
 ---
 ### First Damage
@@ -75,6 +91,10 @@
 
 **S6:** ChainingVermin2 (0:5:55)
 
+**S7a:** ItzBeeZ (0:1:23)
+
+**S7b:** FrostBros (0:3:39)
+
 ---
 ### Ironman
 
@@ -89,6 +109,10 @@
 **S5:** Rohcket (1:6:22)
 
 **S6:** CrowJRC (0:36:29)
+
+**S7a:** Bobbytheturtle (0:59:59)
+
+**S7b:** CrowJRC (0:55:50)
 
 ---
 ### First Blood
@@ -105,6 +129,10 @@
 
 **S6:** 4EyedSlime (ZebraPantz)
 
+**S7a:** Caydone (Markedbooboy)
+
+**S7b:** Caydone (Ullti)
+
 ---
 ### First Death
 
@@ -120,110 +148,132 @@
 
 **S6:** ZebraPantz (4EyedSlime)
 
+**S7a:** Markedbooboy (Caydone)
+
+**S7b:** Ullti (Caydone)
+
 ---
 ### Kills
 
-**1st - ChainingVermin2 (12):** ERHDude (S1), centraleric (S1), pigghetti (S1), Codwhy (S2), TheSlimeBrother (S2), BoltsInCharge (S2), CrowJRC (S2), centraleric (S2), cherryblawsom (S3), Maxwellfifty (S3), lexicuhl (S4), BoltsInCharge (S6)
+**1st - Bobbytheturtle (15):** Stravilight (S6), Boomblade60 (S6), TheSlimeBrother (S6), ToucanTom (S6), ChainingVermin2 (S6), 4EyedSlime (S6), omchris (S7a), CrowJRC (S7a), Westcraft00 (S7a), aalaan (S7a), fruitlogic (S7a), ColdBac (S7a), Vulkarr (S7a), Kaismartypants (S7a), Broseph (S7a)
 
-**2nd - fruitlogic (10):** BoltsInCharge (S1), ToucanTom (S1), Maxwellfifty (S1), ProGirlGamer (S4), WackoFlipper (S5), ZebraPantz (S5), Westcraft00 (S5), Ninetals38 (S5), ShootingGoats (S5), SpaceFenix (S5)
+**1st - ChainingVermin2 (15):** ERHDude (S1), centraleric (S1), pigghetti (S1), Codwhy (S2), TheSlimeBrother (S2), BoltsInCharge (S2), CrowJRC (S2), centraleric (S2), cherryblawsom (S3), Maxwellfifty (S3), lexicuhl (S4), BoltsInCharge (S6), ItzBeeZ (S7a), fruitlogic (S7b), Greeples (S7b)
 
-**3rd - ColdBac (9):** Ullti (S1), Klickacat (S1), aalaan (S2), Klickacat (S2), ShootingGoats (S2), chloesad (S2), kirbey (S2), pigghetti (S2), cherryblawsom (S2)
+**1st - CrowJRC (15):** aalaan (S1), ZebraPantz (S3), kirbey (S4), Greeples (S4), Stravilight (S4), BoltsInCharge (S4), DevoyTTV (S6), SharkeyJaws (S6), fruitlogic (S6), MaxEvasion (S7b), ItzBeeZ (S7b), Ryfri (S7b), cherryblawsom (S7b), JustNolan (S7b), aalaan (S7b)
 
-**3rd - CrowJRC (9):** aalaan (S1), ZebraPantz (S3), kirbey (S4), Greeples (S4), Stravilight (S4), BoltsInCharge (S4), DevoyTTV (S6), SharkeyJaws (S6), fruitlogic (S6)
+**4th - ColdBac (11):** Ullti (S1), Klickacat (S1), aalaan (S2), Klickacat (S2), ShootingGoats (S2), chloesad (S2), kirbey (S2), pigghetti (S2), cherryblawsom (S2), Gorgerous (S7a), Hecticity (S7a)
 
-**3rd - DevoyTTV (9):** Markedbooboy (S4), Brodator (S4), FrostBros (S4), Maxwellfifty (S5), Broseph (S5), CommanderK22_ (S5), Caydone (S5), pigghetti (S5), ProGirlGamer (S5)
+**4th - fruitlogic (11):** BoltsInCharge (S1), ToucanTom (S1), Maxwellfifty (S1), ProGirlGamer (S4), WackoFlipper (S5), ZebraPantz (S5), Westcraft00 (S5), Ninetals38 (S5), ShootingGoats (S5), SpaceFenix (S5), JustNolan (S7a)
 
-**3rd - omchris (9):** fruitlogic (S2), CodeJoshua (S2), ShootingGoats (S4), MaxEvasion (S4), ToucanTom (S4), TehBaconBrawlerZ (S5), cherryblawsom (S5), Greeples (S5), 4EyedSlime (S5)
+**4th - omchris (11):** fruitlogic (S2), CodeJoshua (S2), ShootingGoats (S4), MaxEvasion (S4), ToucanTom (S4), TehBaconBrawlerZ (S5), cherryblawsom (S5), Greeples (S5), 4EyedSlime (S5), ToucanTom (S7a), Charrlottie (S7b)
 
-**7th - Bobbytheturtle (6):** Stravilight (S6), Boomblade60 (S6), TheSlimeBrother (S6), ToucanTom (S6), ChainingVermin2 (S6), 4EyedSlime (S6)
+**7th - DevoyTTV (9):** Markedbooboy (S4), Brodator (S4), FrostBros (S4), Maxwellfifty (S5), Broseph (S5), CommanderK22_ (S5), Caydone (S5), pigghetti (S5), ProGirlGamer (S5)
 
-**7th - BoltsInCharge (6):** Ninetals38 (S1), Klobb (S2), Brodator (S2), Markedbooboy (S3), Randehh (S3), Caydone (S6)
+**8th - 4EyedSlime (8):** Boomblade60 (S5), Markedbooboy (S5), ZebraPantz (S6), Maxwellfifty (S6), Ullti (S7a), Bobbytheturtle (S7a), Maxwellfifty (S7a), DancersTalon (S7b)
 
-**9th - 4EyedSlime (4):** Boomblade60 (S5), Markedbooboy (S5), ZebraPantz (S6), Maxwellfifty (S6)
+**8th - Broseph (8):** ZebraPantz (S4), WackoFlipper (S4), Hecticity (S4), DancersTalon (S7a), TehBaconBrawlerZ (S7a), Caydone (S7a), cherryblawsom (S7a), Brodator (S7b)
 
-**9th - Caydone (4):** CrowJRC (S5), ShootingGoats (S6), CrowJRC (S6), aalaan (S6)
+**10th - Caydone (7):** CrowJRC (S5), ShootingGoats (S6), CrowJRC (S6), aalaan (S6), Markedbooboy (S7a), Ullti (S7b), CrowJRC (S7b)
 
-**9th - Maxwellfifty (4):** Codwhy (S3), SiahStone (S3), WackoFlipper (S6), ItzBeeZ (S6)
+**11th - BoltsInCharge (6):** Ninetals38 (S1), Klobb (S2), Brodator (S2), Markedbooboy (S3), Randehh (S3), Caydone (S6)
 
-**9th - SpaceFenix (4):** Ullti (S5), _Fost_ (S6), Greeples (S6), Ryfri (S6)
+**12th - Boomblade60 (4):** Broseph (S6), Brodator (S6), cherryblawsom (S6), omchris (S7b)
 
-**9th - ZebraPantz (4):** CrowJRC (S1), fruitlogic (S1), ToucanTom (S2), Ullti (S2)
+**12th - Maxwellfifty (4):** Codwhy (S3), SiahStone (S3), WackoFlipper (S6), ItzBeeZ (S6)
 
-**14th - Boomblade60 (3):** Broseph (S6), Brodator (S6), cherryblawsom (S6)
+**12th - ShootingGoats (4):** WackoFlipper (S1), MarcC5M (S1), powermc (S1), Karliffu (S7b)
 
-**14th - Brodator (3):** fruitlogic (S3), BoltsInCharge (S3), ChainingVermin2 (S3)
+**12th - SpaceFenix (4):** Ullti (S5), _Fost_ (S6), Greeples (S6), Ryfri (S6)
 
-**14th - Broseph (3):** ZebraPantz (S4), WackoFlipper (S4), Hecticity (S4)
+**12th - ZebraPantz (4):** CrowJRC (S1), fruitlogic (S1), ToucanTom (S2), Ullti (S2)
 
-**14th - centraleric (3):** Randehh (S1), ShootingGoats (S1), SiahStone (S2)
+**17th - Brodator (3):** fruitlogic (S3), BoltsInCharge (S3), ChainingVermin2 (S3)
 
-**14th - cherryblawsom (3):** TheSlimeBrother (S1), ZebraPantz (S1), ChainingVermin2 (S1)
+**17th - centraleric (3):** Randehh (S1), ShootingGoats (S1), SiahStone (S2)
 
-**14th - Randehh (3):** CodeJoshua (S1), aalaan (S3), ShootingGoats (S3)
+**17th - cherryblawsom (3):** TheSlimeBrother (S1), ZebraPantz (S1), ChainingVermin2 (S1)
 
-**14th - ShootingGoats (3):** WackoFlipper (S1), MarcC5M (S1), powermc (S1)
+**17th - Gorgerous (3):** 4EyedSlime (S7b), ShootingGoats (S7b), Boomblade60 (S7b)
 
-**14th - SiahStone (3):** MaxEvasion (S3), Greeples (S3), CrowJRC (S3)
+**17th - Hecticity (3):** Caydone (S4), ChainingVermin2 (S4), Klickacat (S7a)
 
-**22nd - chloesad (2):** ChainingVermin2 (S2), Rohcket (S2)
+**17th - JustNolan (3):** ChainingVermin2 (S5), ChainingVermin2 (S7a), FrostBros (S7b)
 
-**22nd - CodeJoshua (2):** Boomblade60 (S2), Randehh (S2)
+**17th - Randehh (3):** CodeJoshua (S1), aalaan (S3), ShootingGoats (S3)
 
-**22nd - Hecticity (2):** Caydone (S4), ChainingVermin2 (S4)
+**17th - SiahStone (3):** MaxEvasion (S3), Greeples (S3), CrowJRC (S3)
 
-**22nd - pigghetti (2):** aalaan (S5), Brodator (S5)
+**17th - Vulkarr (3):** BoltsInCharge (S7a), ShootingGoats (S7a), TehBaconBrawlerZ (S7b)
 
-**22nd - Stravilight (2):** DevoyTTV (S4), powermc (S6)
+**26th - chloesad (2):** ChainingVermin2 (S2), Rohcket (S2)
 
-**22nd - TheSlimeBrother (2):** ColdBac (S1), SpaceFenix (S6)
+**26th - CodeJoshua (2):** Boomblade60 (S2), Randehh (S2)
 
-**28th - CommanderK22_ (1):** Rohcket (S5)
+**26th - FrostBros (2):** fruitlogic (S4), ChainingVermin2 (S7b)
 
-**28th - FrostBros (1):** fruitlogic (S4)
+**26th - pigghetti (2):** aalaan (S5), Brodator (S5)
 
-**28th - Greeples (1):** JDwb (S3)
+**26th - Stravilight (2):** DevoyTTV (S4), powermc (S6)
 
-**28th - JustNolan (1):** ChainingVermin2 (S5)
+**26th - TheSlimeBrother (2):** ColdBac (S1), SpaceFenix (S6)
 
-**28th - kirbey (1):** ZebraPantz (S2)
+**26th - Ullti (2):** Brodator (S7a), Mjora (S7a)
 
-**28th - lexicuhl (1):** Maxwellfifty (S4)
+**33rd - CommanderK22_ (1):** Rohcket (S5)
 
-**28th - Markedbooboy (1):** Ullti (S3)
+**33rd - Greeples (1):** JDwb (S3)
 
-**28th - ProGirlGamer (1):** JustNolan (S5)
+**33rd - kirbey (1):** ZebraPantz (S2)
+
+**33rd - lexicuhl (1):** Maxwellfifty (S4)
+
+**33rd - Markedbooboy (1):** Ullti (S3)
+
+**33rd - ProGirlGamer (1):** JustNolan (S5)
+
+**33rd - Ryfri (1):** Kaismartypants (S7b)
+
+**33rd - TehBaconBrawlerZ (1):** Greeples (S7a)
 
 ---
 ### PvE Deaths
 
-**Fall (5):** omchris (S1), Brodator (S1), zoeywithawhy (S3), Klickacat (S3), kirbey (S5)
+**Fall (6):** omchris (S1), Brodator (S1), zoeywithawhy (S3), Klickacat (S3), kirbey (S5), Vulkarr (S7b)
+
+**Skeleton (2):** Westcraft00 (S4), Queequa (S7a)
+
+**Void (2):** Codwhy (S1), Br8dy_ (S7a)
 
 **Creeper (1):** ItzBeeZ (S5)
+
+**Enderman (1):** Br8dy_ (S7b)
 
 **Explosion (1):** Stravilight (S5)
 
 **Left (1):** CodeJoshua (S5)
 
-**Skeleton (1):** Westcraft00 (S4)
-
-**Void (1):** Codwhy (S1)
-
 **Warden (1):** kirbey (S1)
+
+**Zombie (1):** Queequa (S7b)
 
 ---
 ### Participation
 
-**6 Seasons (6):** Brodator (S1-S6), ChainingVermin2 (S1-S6), CrowJRC (S1-S6), fruitlogic (S1-S6), ShootingGoats (S1-S6), ZebraPantz (S1-S6)
+**8 Seasons (5):** Brodator (S1-S7b), ChainingVermin2 (S1-S7b), CrowJRC (S1-S7b), fruitlogic (S1-S7b), ShootingGoats (S1-S7b)
 
-**5 Seasons (4):** aalaan (S1-S3,S5-S6), BoltsInCharge (S1-S4,S6), cherryblawsom (S1-S3,S5-S6), Maxwellfifty (S1,S3-S6)
+**7 Seasons (2):** aalaan (S1-S3,S5-S7b), cherryblawsom (S1-S3,S5-S7b)
 
-**4 Seasons (7):** kirbey (S1-S2,S4-S5), omchris (S1-S2,S4-S5), ToucanTom (S1-S2,S4,S6), Ullti (S1-S3,S5), WackoFlipper (S1,S4-S6), Markedbooboy (S2-S5), Greeples (S3-S6)
+**6 Seasons (6):** BoltsInCharge (S1-S4,S6-S7a), Maxwellfifty (S1,S3-S7a), omchris (S1-S2,S4-S5,S7a-S7b), Ullti (S1-S3,S5,S7a-S7b), ZebraPantz (S1-S6), Greeples (S3-S7b)
 
-**3 Seasons (11):** CodeJoshua (S1-S2,S5), Codwhy (S1-S3), Klickacat (S1-S3), pigghetti (S1-S2,S5), Randehh (S1-S3), TheSlimeBrother (S1-S2,S6), Boomblade60 (S2,S5-S6), Broseph (S4-S6), Caydone (S4-S6), DevoyTTV (S4-S6), Stravilight (S4-S6)
+**5 Seasons (4):** ToucanTom (S1-S2,S4,S6-S7a), Markedbooboy (S2-S5,S7a), Broseph (S4-S7b), Caydone (S4-S7b)
 
-**2 Seasons (12):** centraleric (S1-S2), ColdBac (S1-S2), Ninetals38 (S1,S5), powermc (S1,S6), Rohcket (S2,S5), SiahStone (S2-S3), MaxEvasion (S3-S4), ProGirlGamer (S4-S5), Westcraft00 (S4-S5), 4EyedSlime (S5-S6), ItzBeeZ (S5-S6), SpaceFenix (S5-S6)
+**4 Seasons (6):** kirbey (S1-S2,S4-S5), Klickacat (S1-S3,S7a), WackoFlipper (S1,S4-S6), Boomblade60 (S2,S5-S6,S7b), 4EyedSlime (S5-S7b), ItzBeeZ (S5-S7b)
 
-**1 Season (16):** ERHDude (S1), MarcC5M (S1), chloesad (S2), Klobb (S2), JDwb (S3), zoeywithawhy (S3), FrostBros (S4), Hecticity (S4), lexicuhl (S4), CommanderK22_ (S5), JustNolan (S5), TehBaconBrawlerZ (S5), _Fost_ (S6), Bobbytheturtle (S6), Ryfri (S6), SharkeyJaws (S6)
+**3 Seasons (12):** CodeJoshua (S1-S2,S5), Codwhy (S1-S3), ColdBac (S1-S2,S7a), pigghetti (S1-S2,S5), Randehh (S1-S3), TheSlimeBrother (S1-S2,S6), MaxEvasion (S3-S4,S7b), DevoyTTV (S4-S6), Stravilight (S4-S6), Westcraft00 (S4-S5,S7a), JustNolan (S5,S7a-S7b), TehBaconBrawlerZ (S5,S7a-S7b)
+
+**2 Seasons (17):** centraleric (S1-S2), Ninetals38 (S1,S5), powermc (S1,S6), Rohcket (S2,S5), SiahStone (S2-S3), FrostBros (S4,S7b), Hecticity (S4,S7a), ProGirlGamer (S4-S5), SpaceFenix (S5-S6), Bobbytheturtle (S6-S7a), Ryfri (S6,S7b), Br8dy_ (S7a-S7b), DancersTalon (S7a-S7b), Gorgerous (S7a-S7b), Kaismartypants (S7a-S7b), Queequa (S7a-S7b), Vulkarr (S7a-S7b)
+
+**1 Season (13):** ERHDude (S1), MarcC5M (S1), chloesad (S2), Klobb (S2), JDwb (S3), zoeywithawhy (S3), lexicuhl (S4), CommanderK22_ (S5), _Fost_ (S6), SharkeyJaws (S6), Mjora (S7a), Charrlottie (S7b), Karliffu (S7b)
 
 ---
 ### Debutants
@@ -239,5 +289,9 @@
 **S5 (6):** 4EyedSlime, CommanderK22_, ItzBeeZ, JustNolan, SpaceFenix, TehBaconBrawlerZ
 
 **S6 (4):** _Fost_, Bobbytheturtle, Ryfri, SharkeyJaws
+
+**S7a (7):** Br8dy_, DancersTalon, Gorgerous, Kaismartypants, Mjora, Queequa, Vulkarr
+
+**S7b (2):** Charrlottie, Karliffu
 
 ---

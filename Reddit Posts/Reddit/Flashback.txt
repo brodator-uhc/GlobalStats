@@ -5,7 +5,7 @@
 
 **S1: Lighte (8)**, *BardMain2 (0), SiahStone (1), vynil (3)*
 
-**S2: Gorgerous (2), pigghetti (4), RqDix (6)**, *PresidentFleb (0)*
+**S2: AsianCheatCode (6), Gorgerous (2), pigghetti (4)**, *PresidentFleb (0)*
 
 **S3: ChainingVermin2 (3), cherryblawsom (1), SiahStone (1)**, *MCmattFTW (0)*
 
@@ -23,7 +23,7 @@
 
 **S1:** Lighte (8)
 
-**S2:** RqDix (6)
+**S2:** AsianCheatCode (6)
 
 **S3:** Potsie, Spongey (4)
 
@@ -32,7 +32,7 @@
 
 **S1:** BardMain2 (0), Lighte (8), SiahStone (1), vynil (3)
 
-**S2:** Gorgerous (2), pigghetti (4), PresidentFleb (0), RqDix (6)
+**S2:** Gorgerous (2), pigghetti (4), PresidentFleb (0), AsianCheatCode (6)
 
 **S3:** Brodator (2), MercuryParadox (0), Potsie (4), Spongey (4)
 
@@ -75,11 +75,11 @@
 ---
 ### Kills
 
-**1st - Lighte (10):** NajaOxiana (S1), Dj8ninja (S1), fruitlogic (S1), TheSlimeBrother (S1), cappyrappy (S1), omchris (S1), Livin423 (S1), Drake132667596 (S1), lottebunny (S3), Espik (S3)
+**1st - Lighte (10):** illuminaja (S1), Dj8ninja (S1), fruitlogic (S1), TheSlimeBrother (S1), cappyrappy (S1), omchris (S1), Livin423 (S1), Drake132667596 (S1), lottebunny (S3), Espik (S3)
 
 **2nd - Spongey (7):** Renais (S2), Jwillnot (S2), Krimm (S2), MCmattFTW (S3), TheKevGuy (S3), miles1baseball (S3), MrPolzerino (S3)
 
-**3rd - RqDix (6):** MercuryParadox (S2), ColdBac (S2), kawaiibunri (S2), PotteryTNT (S2), ItsShqky (S2), Bobbytheturtle (S2)
+**3rd - AsianCheatCode (6):** MercuryParadox (S2), ColdBac (S2), kawaiibunri (S2), PotteryTNT (S2), ItsShqky (S2), Bobbytheturtle (S2)
 
 **4th - Bobbytheturtle (5):** Exee (S1), Applepie78 (S1), ColdBac (S1), wizarde (S1), LoafOZ (S2)
 
@@ -175,14 +175,14 @@
 
 **2 Seasons (15):** benidk (S1-S2), Big_Z60 (S1,S3), Bobbytheturtle (S1-S2), Brodator (S1,S3), cherryblawsom (S1,S3), ColdBac (S1-S2), Dj8ninja (S1,S3), Espik (S1,S3), Lighte (S1,S3), Radical24 (S1,S3), SiahStone (S1,S3), SpaceFenix (S1,S3), miles1baseball (S2-S3), natsuvi (S2-S3), Spongey (S2-S3)
 
-**1 Season (81):** AmbientDan (S1), Applepie78 (S1), Bacan (S1), BardMain2 (S1), BatMan_1814 (S1), cappyrappy (S1), Chasmic (S1), CodeJoshua (S1), DarV2 (S1), Drake132667596 (S1), Emerric (S1), Exee (S1), Flohp (S1), fruitlogic (S1), Greeples (S1), Havenhand (S1), Kelawesome (S1), Klickacat (S1), Livin423 (S1), MeadowMoos (S1), Micale (S1), NajaOxiana (S1), omchris (S1), powermc (S1), RiseGR (S1), TheSlimeBrother (S1), TommySuX (S1), vynil (S1), WaXmAn24 (S1), _1mmortal_ (S2), 123SteveBob (S2), 4EyedSlime (S2), Andronify (S2), ArcticSeagull (S2), Charrlottie (S2), CipherKai (S2), DevoyTTV (S2), DJoee (S2), Drafty_ (S2), egl_ (S2), Gorgerous (S2), Itch33 (S2), ItsShqky (S2), JaqOnCraq (S2), jommyappleseed (S2), Jwillnot (S2), Kaddyn (S2), kawaiibunri (S2), KilerKontrantion (S2), Krimm (S2), lexicuhl (S2), LoafOZ (S2), Normoh (S2), pigghetti (S2), PotteryTNT (S2), PresidentFleb (S2), RemyChingling (S2), Renais (S2), RqDix (S2), typicaltrevon (S2), 3Dspoders (S3), aalaan (S3), Bornyo (S3), broccoliar (S3), ChainingVermin2 (S3), DarrenBGP (S3), Fcrm (S3), InsertDotJpeg (S3), kirbey (S3), LegoBeast (S3), lottebunny (S3), MarcC5M (S3), Markedbooboy (S3), MCmattFTW (S3), MrPolzerino (S3), Potsie (S3), poWpaH (S3), Randehh (S3), S_Inquisition (S3), TheKevGuy (S3), Westcraft00 (S3)
+**1 Season (81):** AmbientDan (S1), Applepie78 (S1), Bacan (S1), BardMain2 (S1), BatMan_1814 (S1), cappyrappy (S1), Chasmic (S1), CodeJoshua (S1), DarV2 (S1), Drake132667596 (S1), Emerric (S1), Exee (S1), Flohp (S1), fruitlogic (S1), Greeples (S1), Havenhand (S1), illuminaja (S1), Kelawesome (S1), Klickacat (S1), Livin423 (S1), MeadowMoos (S1), Micale (S1), omchris (S1), powermc (S1), RiseGR (S1), TheSlimeBrother (S1), TommySuX (S1), vynil (S1), WaXmAn24 (S1), _1mmortal_ (S2), 123SteveBob (S2), 4EyedSlime (S2), Andronify (S2), ArcticSeagull (S2), AsianCheatCode (S2), Charrlottie (S2), CipherKai (S2), DevoyTTV (S2), DJoee (S2), Drafty_ (S2), egl_ (S2), Gorgerous (S2), Itch33 (S2), ItsShqky (S2), JaqOnCraq (S2), jommyappleseed (S2), Jwillnot (S2), Kaddyn (S2), kawaiibunri (S2), KilerKontrantion (S2), Krimm (S2), lexicuhl (S2), LoafOZ (S2), Normoh (S2), pigghetti (S2), PotteryTNT (S2), PresidentFleb (S2), RemyChingling (S2), Renais (S2), typicaltrevon (S2), 3Dspoders (S3), aalaan (S3), Bornyo (S3), broccoliar (S3), ChainingVermin2 (S3), DarrenBGP (S3), Fcrm (S3), InsertDotJpeg (S3), kirbey (S3), LegoBeast (S3), lottebunny (S3), MarcC5M (S3), Markedbooboy (S3), MCmattFTW (S3), MrPolzerino (S3), Potsie (S3), poWpaH (S3), Randehh (S3), S_Inquisition (S3), TheKevGuy (S3), Westcraft00 (S3)
 
 ---
 ### Debutants
 
-**S1 (44):** AmbientDan, Applepie78, Bacan, BardMain2, BatMan_1814, benidk, Big_Z60, Bobbytheturtle, Brodator, cappyrappy, Chasmic, cherryblawsom, CodeJoshua, ColdBac, DarV2, Dj8ninja, Drake132667596, Emerric, Espik, Exee, Flohp, fruitlogic, Greeples, Havenhand, Kaismartypants, Kelawesome, Klickacat, Lighte, Livin423, MeadowMoos, MercuryParadox, Micale, NajaOxiana, omchris, powermc, Radical24, RiseGR, SiahStone, SpaceFenix, TheSlimeBrother, TommySuX, vynil, WaXmAn24, wizarde
+**S1 (44):** AmbientDan, Applepie78, Bacan, BardMain2, BatMan_1814, benidk, Big_Z60, Bobbytheturtle, Brodator, cappyrappy, Chasmic, cherryblawsom, CodeJoshua, ColdBac, DarV2, Dj8ninja, Drake132667596, Emerric, Espik, Exee, Flohp, fruitlogic, Greeples, Havenhand, illuminaja, Kaismartypants, Kelawesome, Klickacat, Lighte, Livin423, MeadowMoos, MercuryParadox, Micale, omchris, powermc, Radical24, RiseGR, SiahStone, SpaceFenix, TheSlimeBrother, TommySuX, vynil, WaXmAn24, wizarde
 
-**S2 (34):** _1mmortal_, 123SteveBob, 4EyedSlime, Andronify, ArcticSeagull, Charrlottie, CipherKai, DevoyTTV, DJoee, Drafty_, egl_, Gorgerous, Itch33, ItsShqky, JaqOnCraq, jommyappleseed, Jwillnot, Kaddyn, kawaiibunri, KilerKontrantion, Krimm, lexicuhl, LoafOZ, miles1baseball, natsuvi, Normoh, pigghetti, PotteryTNT, PresidentFleb, RemyChingling, Renais, RqDix, Spongey, typicaltrevon
+**S2 (34):** _1mmortal_, 123SteveBob, 4EyedSlime, Andronify, ArcticSeagull, AsianCheatCode, Charrlottie, CipherKai, DevoyTTV, DJoee, Drafty_, egl_, Gorgerous, Itch33, ItsShqky, JaqOnCraq, jommyappleseed, Jwillnot, Kaddyn, kawaiibunri, KilerKontrantion, Krimm, lexicuhl, LoafOZ, miles1baseball, natsuvi, Normoh, pigghetti, PotteryTNT, PresidentFleb, RemyChingling, Renais, Spongey, typicaltrevon
 
 **S3 (21):** 3Dspoders, aalaan, Bornyo, broccoliar, ChainingVermin2, DarrenBGP, Fcrm, InsertDotJpeg, kirbey, LegoBeast, lottebunny, MarcC5M, Markedbooboy, MCmattFTW, MrPolzerino, Potsie, poWpaH, Randehh, S_Inquisition, TheKevGuy, Westcraft00
 

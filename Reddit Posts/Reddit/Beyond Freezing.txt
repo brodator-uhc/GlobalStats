@@ -15,6 +15,8 @@
 
 **S6: ColdBac (3), Pacman_2022 (3)**, *sr8611 (3), TehBaconBrawlerZ (0)*
 
+**S7: natsuvi (4)**, *Andronify (1), dennnz (2)*
+
 ---
 ### Runner Ups
 
@@ -29,6 +31,8 @@
 **S5:** dolphinman_rl (6), kawaiibunri (5)
 
 **S6:** MercuryParadox (1), ShyGus (1), TheRealHagrid (0), Zenithu (1)
+
+**S7:** ColdBac (3), Nuclearsugar (1), TehBaconBrawlerZ (3)
 
 ---
 ### Most Kills
@@ -45,6 +49,8 @@
 
 **S6:** JaqOnCraq (4)
 
+**S7:** natsuvi (4)
+
 ---
 ### Most Kills (Team)
 
@@ -59,6 +65,8 @@
 **S5:** dolphinman_rl (6), kawaiibunri (5)
 
 **S6:** ColdBac (3), Pacman_2022 (3), sr8611 (3), TehBaconBrawlerZ (0)
+
+**S7:** Andronify (1), dennnz (2), natsuvi (4) & ColdBac (3), Nuclearsugar (1), TehBaconBrawlerZ (3)
 
 ---
 ### First Damage
@@ -75,6 +83,8 @@
 
 **S6:** ColdBac (0:0:57)
 
+**S7:** DevoyTTV (0:0:39)
+
 ---
 ### Ironman
 
@@ -89,6 +99,8 @@
 **S5:** fruitlogic (1:32:5)
 
 **S6:** ironGilligan (1:12:5)
+
+**S7:** Ryfri (1:32:36)
 
 ---
 ### First Blood
@@ -105,6 +117,8 @@
 
 **S6:** Zenithu (zac083)
 
+**S7:** AHSOKATANOSTAN (Flcnt)
+
 ---
 ### First Death
 
@@ -120,56 +134,58 @@
 
 **S6:** zac083 (Zenithu)
 
+**S7:** DevoyTTV (Skeleton)
+
 ---
 ### Kills
 
 **1st - JaqOnCraq (13):** sr8611 (S3), Zebobo10 (S3), ohh_lia (S3), Markedbooboy (S4), 78ford (S4), Flohp (S4), azoof (S4), Zenithu (S5), fruitlogic (S5), DevoyTTV (S6), wizarde (S6), Ninetals38 (S6), sr8611 (S6)
 
-**2nd - Andronify (9):** Ryfri (S4), PokemonDude09 (S5), lexicuhl (S5), 123SteveBob (S5), ObsidianFractal (S5), stupidsylvia (S5), wizarde (S5), noktime (S6), kawaiibunri (S6)
+**2nd - Andronify (10):** Ryfri (S4), PokemonDude09 (S5), lexicuhl (S5), 123SteveBob (S5), ObsidianFractal (S5), stupidsylvia (S5), wizarde (S5), noktime (S6), kawaiibunri (S6), hiyoumethod (S7)
 
-**2nd - kawaiibunri (9):** Jordtim (S1), nug17 (S2), natsuvi (S3), natsuvi (S5), 78ford (S5), CommanderK22_ (S5), Greeples (S5), JaqOnCraq (S5), greaneye (S6)
+**2nd - natsuvi (10):** Biwitch (S2), TehBaconBrawlerZ (S3), Nuclearsugar (S3), jimmyjegs (S4), Espik (S4), Biwitch (S6), ohh_lia (S7), TehBaconBrawlerZ (S7), lilygant (S7), Nuclearsugar (S7)
 
-**4th - wizarde (8):** nug17 (S1), Greeples (S1), fruitlogic (S1), Andronify (S3), Ryfri (S3), Eluniel (S3), lilygant (S6), 123SteveBob (S6)
+**4th - kawaiibunri (9):** Jordtim (S1), nug17 (S2), natsuvi (S3), natsuvi (S5), 78ford (S5), CommanderK22_ (S5), Greeples (S5), JaqOnCraq (S5), greaneye (S6)
 
-**5th - AvyleZ (7):** Jaceon02 (S1), Ninetals38 (S1), natsuvi (S1), rippersteveM5 (S1), Markedbooboy (S1), wizarde (S1), spoocS_ (S1)
+**4th - wizarde (9):** nug17 (S1), Greeples (S1), fruitlogic (S1), Andronify (S3), Ryfri (S3), Eluniel (S3), lilygant (S6), 123SteveBob (S6), JaqOnCraq (S7)
 
-**6th - dolphinman_rl (6):** omchris (S5), Thermql (S5), Markedbooboy (S5), Eluniel (S5), Logan_S_ (S5), Andronify (S5)
+**6th - AvyleZ (7):** Jaceon02 (S1), Ninetals38 (S1), natsuvi (S1), rippersteveM5 (S1), Markedbooboy (S1), wizarde (S1), spoocS_ (S1)
 
-**6th - Eluniel (6):** winterf (S3), Flohp (S3), lexicuhl (S3), omchris (S4), kawaiibunri (S4), TehBaconBrawlerZ (S4)
+**6th - ohh_lia (7):** WinnerSkye (S3), ToontownOnline (S4), PresidentFleb (S4), JaqOnCraq (S4), azoof (S5), AHSOKATANOSTAN (S7), Andronify (S7)
 
-**6th - natsuvi (6):** Biwitch (S2), TehBaconBrawlerZ (S3), Nuclearsugar (S3), jimmyjegs (S4), Espik (S4), Biwitch (S6)
+**6th - omchris (7):** xCand (S3), fruitlogic (S4), Zenithu (S4), ShyGus (S4), MercuryParadox (S4), miles1baseball (S4), MercuryParadox (S7)
 
-**6th - omchris (6):** xCand (S3), fruitlogic (S4), Zenithu (S4), ShyGus (S4), MercuryParadox (S4), miles1baseball (S4)
+**6th - Ryfri (7):** sr8611 (S2), ShmeckleBoy (S2), Zebobo10 (S2), pkee (S2), zac083 (S3), rippersteveM5 (S3), stupidsylvia (S7)
 
-**6th - Ryfri (6):** sr8611 (S2), ShmeckleBoy (S2), Zebobo10 (S2), pkee (S2), zac083 (S3), rippersteveM5 (S3)
+**6th - TehBaconBrawlerZ (7):** azoof (S3), sr8611 (S4), Kaddyn (S4), nug17 (S4), xCand (S7), wizarde (S7), Br8dy_ (S7)
 
-**11th - fruitlogic (5):** ToontownOnline (S1), Big_Z60 (S1), Ullti (S5), PresidentFleb (S5), nug17 (S5)
+**11th - ColdBac (6):** ironGilligan (S6), ShyGus (S6), TheRealHagrid (S6), Espik (S7), Ryfri (S7), dennnz (S7)
 
-**11th - Markedbooboy (5):** jimmyjegs (S3), Ninetals38 (S3), JaqOnCraq (S3), Brodator (S6), BoltsInCharge (S6)
+**11th - dolphinman_rl (6):** omchris (S5), Thermql (S5), Markedbooboy (S5), Eluniel (S5), Logan_S_ (S5), Andronify (S5)
 
-**11th - ohh_lia (5):** WinnerSkye (S3), ToontownOnline (S4), PresidentFleb (S4), JaqOnCraq (S4), azoof (S5)
+**11th - Eluniel (6):** winterf (S3), Flohp (S3), lexicuhl (S3), omchris (S4), kawaiibunri (S4), TehBaconBrawlerZ (S4)
 
-**11th - PresidentFleb (5):** Ninetals38 (S2), Greeples (S2), Ryfri (S2), lexicuhl (S2), Biwitch (S5)
+**11th - fruitlogic (6):** ToontownOnline (S1), Big_Z60 (S1), Ullti (S5), PresidentFleb (S5), nug17 (S5), kawaiibunri (S7)
 
-**11th - sr8611 (5):** nug17 (S3), stupidsylvia (S3), gartbak (S6), KOZlegend (S6), fruitlogic (S6)
+**15th - lilygant (5):** 123SteveBob (S4), stupidsylvia (S4), Greeples (S4), omchris (S7), ColdBac (S7)
 
-**16th - Bluests (4):** Allioideae (S5), AvyleZ (S5), kawaiibunri (S5), dolphinman_rl (S5)
+**15th - Markedbooboy (5):** jimmyjegs (S3), Ninetals38 (S3), JaqOnCraq (S3), Brodator (S6), BoltsInCharge (S6)
 
-**16th - Greeples (4):** RuneTactics (S1), Flohp (S2), CommanderK22_ (S4), WinnerSkye (S4)
+**15th - PresidentFleb (5):** Ninetals38 (S2), Greeples (S2), Ryfri (S2), lexicuhl (S2), Biwitch (S5)
 
-**16th - TehBaconBrawlerZ (4):** azoof (S3), sr8611 (S4), Kaddyn (S4), nug17 (S4)
+**15th - sr8611 (5):** nug17 (S3), stupidsylvia (S3), gartbak (S6), KOZlegend (S6), fruitlogic (S6)
 
-**19th - Biwitch (3):** AmbientDan (S2), jimmyjegs (S2), Brodator (S5)
+**19th - Bluests (4):** Allioideae (S5), AvyleZ (S5), kawaiibunri (S5), dolphinman_rl (S5)
 
-**19th - ColdBac (3):** ironGilligan (S6), ShyGus (S6), TheRealHagrid (S6)
+**19th - Greeples (4):** RuneTactics (S1), Flohp (S2), CommanderK22_ (S4), WinnerSkye (S4)
 
-**19th - gartbak (3):** Logan_S_ (S6), Andronify (S6), TehBaconBrawlerZ (S6)
+**21st - Biwitch (3):** AmbientDan (S2), jimmyjegs (S2), Brodator (S5)
 
-**19th - lilygant (3):** 123SteveBob (S4), stupidsylvia (S4), Greeples (S4)
+**21st - gartbak (3):** Logan_S_ (S6), Andronify (S6), TehBaconBrawlerZ (S6)
 
-**19th - Pacman_2022 (3):** stupidsylvia (S6), JaqOnCraq (S6), MercuryParadox (S6)
+**21st - Pacman_2022 (3):** stupidsylvia (S6), JaqOnCraq (S6), MercuryParadox (S6)
 
-**19th - zac083 (3):** TehBaconBrawlerZ (S1), natsuvi (S2), 123SteveBob (S3)
+**21st - zac083 (3):** TehBaconBrawlerZ (S1), natsuvi (S2), 123SteveBob (S3)
 
 **25th - 123SteveBob (2):** pkee (S4), Eluniel (S6)
 
@@ -179,11 +195,17 @@
 
 **25th - CommanderK22_ (2):** AtomicCrossbow (S5), lasdarling (S6)
 
+**25th - dennnz (2):** Logan_S_ (S7), Aquacam (S7)
+
 **25th - Jordtim (2):** jimmyjegs (S1), omchris (S3)
 
 **25th - Kaddyn (2):** zac083 (S1), Ninetals38 (S4)
 
 **25th - lexicuhl (2):** Flcnt (S2), MercuryParadox (S3)
+
+**25th - MercuryParadox (2):** CommanderK22_ (S6), Broseph (S7)
+
+**25th - Nuclearsugar (2):** Zenithu (S3), 78ford (S7)
 
 **25th - nug17 (2):** Nyxbee (S4), Bluests (S6)
 
@@ -195,35 +217,35 @@
 
 **25th - Zenithu (2):** TheMainMiek (S5), zac083 (S6)
 
-**37th - azoof (1):** ohh_lia (S5)
+**40th - AHSOKATANOSTAN (1):** Flcnt (S7)
 
-**37th - BoltsInCharge (1):** Markedbooboy (S6)
+**40th - azoof (1):** ohh_lia (S5)
 
-**37th - Espik (1):** Andronify (S4)
+**40th - BoltsInCharge (1):** Markedbooboy (S6)
 
-**37th - Flcnt (1):** fruitlogic (S2)
+**40th - Broseph (1):** fruitlogic (S7)
 
-**37th - Flohp (1):** fruitlogic (S3)
+**40th - Espik (1):** Andronify (S4)
 
-**37th - Logan_S_ (1):** nug17 (S6)
+**40th - Flcnt (1):** fruitlogic (S2)
 
-**37th - MercuryParadox (1):** CommanderK22_ (S6)
+**40th - Flohp (1):** fruitlogic (S3)
 
-**37th - Ninetals38 (1):** natsuvi (S6)
+**40th - Logan_S_ (1):** nug17 (S6)
 
-**37th - Nuclearsugar (1):** Zenithu (S3)
+**40th - Ninetals38 (1):** natsuvi (S6)
 
-**37th - pkee (1):** zac083 (S2)
+**40th - pkee (1):** zac083 (S2)
 
-**37th - ShyGus (1):** Zenithu (S6)
+**40th - ShyGus (1):** Zenithu (S6)
 
-**37th - ToontownOnline (1):** natsuvi (S4)
+**40th - ToontownOnline (1):** natsuvi (S4)
 
-**37th - winterf (1):** Big_Z60 (S3)
+**40th - winterf (1):** Big_Z60 (S3)
 
-**37th - xCand (1):** kawaiibunri (S3)
+**40th - xCand (1):** kawaiibunri (S3)
 
-**37th - Zebobo10 (1):** ethodog (S2)
+**40th - Zebobo10 (1):** ethodog (S2)
 
 ---
 ### PvE Deaths
@@ -236,6 +258,8 @@
 
 **Burning (1):** TehBaconBrawlerZ (S2)
 
+**Skeleton (1):** DevoyTTV (S7)
+
 **Suffocation (1):** TheRealHagrid (S3)
 
 **Wither Skeleton (1):** ethodog (S1)
@@ -243,17 +267,19 @@
 ---
 ### Participation
 
-**6 Seasons (5):** fruitlogic (S1-S6), kawaiibunri (S1-S6), natsuvi (S1-S6), Ninetals38 (S1-S6), nug17 (S1-S6)
+**7 Seasons (3):** fruitlogic (S1-S7), kawaiibunri (S1-S7), natsuvi (S1-S7)
 
-**5 Seasons (3):** Greeples (S1-S5), Markedbooboy (S1,S3-S6), TehBaconBrawlerZ (S1-S4,S6)
+**6 Seasons (3):** Ninetals38 (S1-S6), nug17 (S1-S6), TehBaconBrawlerZ (S1-S4,S6-S7)
 
-**4 Seasons (10):** jimmyjegs (S1-S4), wizarde (S1,S3,S5-S6), zac083 (S1-S3,S6), sr8611 (S2-S4,S6), 123SteveBob (S3-S6), Andronify (S3-S6), Eluniel (S3-S6), JaqOnCraq (S3-S6), stupidsylvia (S3-S6), Zenithu (S3-S6)
+**5 Seasons (6):** Greeples (S1-S5), Markedbooboy (S1,S3-S6), wizarde (S1,S3,S5-S7), Andronify (S3-S7), JaqOnCraq (S3-S7), stupidsylvia (S3-S7)
 
-**3 Seasons (12):** Kaddyn (S1,S4-S5), Biwitch (S2,S5-S6), Flohp (S2-S4), lexicuhl (S2-S3,S5), PresidentFleb (S2,S4-S5), Ryfri (S2-S4), 78ford (S3-S5), azoof (S3-S5), MercuryParadox (S3-S4,S6), ohh_lia (S3-S5), omchris (S3-S5), CommanderK22_ (S4-S6)
+**4 Seasons (11):** jimmyjegs (S1-S4), zac083 (S1-S3,S6), Ryfri (S2-S4,S7), sr8611 (S2-S4,S6), 123SteveBob (S3-S6), 78ford (S3-S5,S7), Eluniel (S3-S6), MercuryParadox (S3-S4,S6-S7), ohh_lia (S3-S5,S7), omchris (S3-S5,S7), Zenithu (S3-S6)
 
-**2 Seasons (18):** AvyleZ (S1,S5), Big_Z60 (S1,S3), ethodog (S1-S2), Jordtim (S1,S3), rippersteveM5 (S1,S3), ToontownOnline (S1,S4), pkee (S2,S4), Zebobo10 (S2-S3), Nuclearsugar (S3,S5), TheRealHagrid (S3,S6), WinnerSkye (S3-S4), Espik (S4,S6), lilygant (S4,S6), ShyGus (S4,S6), Bluests (S5-S6), Brodator (S5-S6), DevoyTTV (S5-S6), Logan_S_ (S5-S6)
+**3 Seasons (12):** Kaddyn (S1,S4-S5), Biwitch (S2,S5-S6), Flohp (S2-S4), lexicuhl (S2-S3,S5), PresidentFleb (S2,S4-S5), azoof (S3-S5), Nuclearsugar (S3,S5,S7), CommanderK22_ (S4-S6), Espik (S4,S6-S7), lilygant (S4,S6-S7), DevoyTTV (S5-S7), Logan_S_ (S5-S7)
 
-**1 Season (32):** Jaceon02 (S1), RuneTactics (S1), spoocS_ (S1), AmbientDan (S2), Flcnt (S2), OhMatias (S2), ShmeckleBoy (S2), Granbel (S3), winterf (S3), xCand (S3), MarcusDoesMC (S4), marsbars1017 (S4), miles1baseball (S4), Nyxbee (S4), Allioideae (S5), AtomicCrossbow (S5), dolphinman_rl (S5), ObsidianFractal (S5), PokemonDude09 (S5), SharkeyJaws (S5), TheMainMiek (S5), Thermql (S5), Ullti (S5), BoltsInCharge (S6), ColdBac (S6), gartbak (S6), greaneye (S6), ironGilligan (S6), KOZlegend (S6), lasdarling (S6), noktime (S6), Pacman_2022 (S6)
+**2 Seasons (16):** AvyleZ (S1,S5), Big_Z60 (S1,S3), ethodog (S1-S2), Jordtim (S1,S3), rippersteveM5 (S1,S3), ToontownOnline (S1,S4), Flcnt (S2,S7), pkee (S2,S4), Zebobo10 (S2-S3), TheRealHagrid (S3,S6), WinnerSkye (S3-S4), xCand (S3,S7), ShyGus (S4,S6), Bluests (S5-S6), Brodator (S5-S6), ColdBac (S6-S7)
+
+**1 Season (35):** Jaceon02 (S1), RuneTactics (S1), spoocS_ (S1), AmbientDan (S2), OhMatias (S2), ShmeckleBoy (S2), Granbel (S3), winterf (S3), MarcusDoesMC (S4), marsbars1017 (S4), miles1baseball (S4), Nyxbee (S4), Allioideae (S5), AtomicCrossbow (S5), dolphinman_rl (S5), ObsidianFractal (S5), PokemonDude09 (S5), SharkeyJaws (S5), TheMainMiek (S5), Thermql (S5), Ullti (S5), BoltsInCharge (S6), gartbak (S6), greaneye (S6), ironGilligan (S6), KOZlegend (S6), lasdarling (S6), noktime (S6), Pacman_2022 (S6), AHSOKATANOSTAN (S7), Aquacam (S7), Br8dy_ (S7), Broseph (S7), dennnz (S7), hiyoumethod (S7)
 
 ---
 ### Debutants
@@ -269,5 +295,7 @@
 **S5 (13):** Allioideae, AtomicCrossbow, Bluests, Brodator, DevoyTTV, dolphinman_rl, Logan_S_, ObsidianFractal, PokemonDude09, SharkeyJaws, TheMainMiek, Thermql, Ullti
 
 **S6 (9):** BoltsInCharge, ColdBac, gartbak, greaneye, ironGilligan, KOZlegend, lasdarling, noktime, Pacman_2022
+
+**S7 (6):** AHSOKATANOSTAN, Aquacam, Br8dy_, Broseph, dennnz, hiyoumethod
 
 ---

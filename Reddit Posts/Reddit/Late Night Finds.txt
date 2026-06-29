@@ -7,12 +7,16 @@
 
 **S2: omchris (6)**, *_1mmortal_ (0), CAMKART100 (2)*
 
+**S3: Brodator (5), JustNolan (2), Normoh (3)**, *MaxEvasion (2)*
+
 ---
 ### Runner Ups
 
 **S1:** 4EyedSlime (1), chugmitchell (4)
 
 **S2:** Caydone (2), Klickacat (0), MaxEvasion (0)
+
+**S3:** _1mmortal_ (0), AirInAirOut (0), Codwhy (1), Klickacat (0)
 
 ---
 ### Most Kills
@@ -21,12 +25,16 @@
 
 **S2:** omchris (6)
 
+**S3:** Brodator (5)
+
 ---
 ### Most Kills (Team)
 
 **S1:** Boomblade60 (6), MaxEvasion (1)
 
 **S2:** _1mmortal_ (0), CAMKART100 (2), omchris (6)
+
+**S3:** Brodator (5), JustNolan (2), MaxEvasion (2), Normoh (3)
 
 ---
 ### First Damage
@@ -35,12 +43,16 @@
 
 **S2:** AirInAirOut (0:5:36)
 
+**S3:** omchris (0:3:54)
+
 ---
 ### Ironman
 
 **S1:** 4EyedSlime (0:47:12)
 
 **S2:** MercuryParadox (1:31:28)
+
+**S3:** MercuryParadox (1:25:3)
 
 ---
 ### First Blood
@@ -49,12 +61,16 @@
 
 **S2:** Codwhy (MaxEvasion)
 
+**S3:** Codwhy (Applepie78)
+
 ---
 ### First Death
 
 **S1:** TehBaconBrawlerZ (Creeper)
 
 **S2:** MaxEvasion (Codwhy)
+
+**S3:** Applepie78 (Codwhy)
 
 ---
 ### Kills
@@ -65,35 +81,47 @@
 
 **2nd - omchris (6):** Applepie78 (S2), Boomblade60 (S2), AirInAirOut (S2), wizarde (S2), CrowJRC (S2), Caydone (S2)
 
-**4th - chugmitchell (4):** Westcraft00 (S1), CommanderK22_ (S1), MaxEvasion (S1), ChainingVermin2 (S1)
+**4th - Brodator (5):** powermc (S3), omchris (S3), Caydone (S3), MercuryParadox (S3), _1mmortal_ (S3)
 
-**5th - CAMKART100 (3):** Queequa (S1), CodeJoshua (S2), Queequa (S2)
+**5th - chugmitchell (4):** Westcraft00 (S1), CommanderK22_ (S1), MaxEvasion (S1), ChainingVermin2 (S1)
 
-**5th - ChainingVermin2 (3):** TalonBX (S1), AirInAirOut (S1), Normoh (S2)
+**5th - CodeJoshua (4):** stupidgirltv (S2), TheSlimeBrother (S2), Klickacat (S2), Boomblade60 (S3)
 
-**5th - CodeJoshua (3):** stupidgirltv (S2), TheSlimeBrother (S2), Klickacat (S2)
+**7th - CAMKART100 (3):** Queequa (S1), CodeJoshua (S2), Queequa (S2)
 
-**5th - Ryfri (3):** Codwhy (S1), Blarkslol (S1), Greeples (S1)
+**7th - ChainingVermin2 (3):** TalonBX (S1), AirInAirOut (S1), Normoh (S2)
 
-**9th - AirInAirOut (2):** Ryfri (S2), Kelawesome (S2)
+**7th - Codwhy (3):** JampoJohn (S1), MaxEvasion (S2), Applepie78 (S3)
 
-**9th - Codwhy (2):** JampoJohn (S1), MaxEvasion (S2)
+**7th - JustNolan (3):** Westcraft00 (S2), chugmitchell (S3), AirInAirOut (S3)
 
-**9th - CrowJRC (2):** ChainingVermin2 (S2), CAMKART100 (S2)
+**7th - MaxEvasion (3):** Normoh (S1), Klickacat (S3), ChainingVermin2 (S3)
 
-**9th - Maxwellfifty (2):** Klickacat (S1), Applepie78 (S1)
+**7th - Normoh (3):** Codwhy (S3), TehBaconBrawlerZ (S3), TalonBX (S3)
 
-**9th - wizarde (2):** chugmitchell (S2), Codwhy (S2)
+**7th - Ryfri (3):** Codwhy (S1), Blarkslol (S1), Greeples (S1)
 
-**14th - 4EyedSlime (1):** ShootingGoats (S1)
+**7th - TalonBX (3):** Gorgerous (S3), ShootingGoats (S3), Greeples (S3)
 
-**14th - JustNolan (1):** Westcraft00 (S2)
+**15th - AirInAirOut (2):** Ryfri (S2), Kelawesome (S2)
 
-**14th - Kelawesome (1):** ShootingGoats (S2)
+**15th - CrowJRC (2):** ChainingVermin2 (S2), CAMKART100 (S2)
 
-**14th - MaxEvasion (1):** Normoh (S1)
+**15th - Gorgerous (2):** wizarde (S3), CodeJoshua (S3)
 
-**14th - ShootingGoats (1):** cherryblawsom (S2)
+**15th - Maxwellfifty (2):** Klickacat (S1), Applepie78 (S1)
+
+**15th - wizarde (2):** chugmitchell (S2), Codwhy (S2)
+
+**20th - 4EyedSlime (1):** ShootingGoats (S1)
+
+**20th - Greeples (1):** Maxwellfifty (S3)
+
+**20th - Kelawesome (1):** ShootingGoats (S2)
+
+**20th - ShootingGoats (1):** cherryblawsom (S2)
+
+**20th - TehBaconBrawlerZ (1):** MaxEvasion (S3)
 
 ---
 ### PvE Deaths
@@ -111,9 +139,11 @@
 ---
 ### Participation
 
-**2 Seasons (20):** _1mmortal_ (S1-S2), AirInAirOut (S1-S2), Applepie78 (S1-S2), Boomblade60 (S1-S2), CAMKART100 (S1-S2), Caydone (S1-S2), ChainingVermin2 (S1-S2), chugmitchell (S1-S2), Codwhy (S1-S2), Klickacat (S1-S2), MaxEvasion (S1-S2), MercuryParadox (S1-S2), Normoh (S1-S2), omchris (S1-S2), Queequa (S1-S2), Ryfri (S1-S2), ShootingGoats (S1-S2), TheSlimeBrother (S1-S2), Westcraft00 (S1-S2), zoeywithawhy (S1-S2)
+**3 Seasons (14):** _1mmortal_ (S1-S3), AirInAirOut (S1-S3), Applepie78 (S1-S3), Boomblade60 (S1-S3), Caydone (S1-S3), ChainingVermin2 (S1-S3), chugmitchell (S1-S3), Codwhy (S1-S3), Klickacat (S1-S3), MaxEvasion (S1-S3), MercuryParadox (S1-S3), Normoh (S1-S3), omchris (S1-S3), ShootingGoats (S1-S3)
 
-**1 Season (17):** 4EyedSlime (S1), Blarkslol (S1), ColdBac (S1), CommanderK22_ (S1), Greeples (S1), JampoJohn (S1), Maxwellfifty (S1), SpaceFenix (S1), TalonBX (S1), TehBaconBrawlerZ (S1), cherryblawsom (S2), CodeJoshua (S2), CrowJRC (S2), JustNolan (S2), Kelawesome (S2), stupidgirltv (S2), wizarde (S2)
+**2 Seasons (13):** CAMKART100 (S1-S2), Greeples (S1,S3), Maxwellfifty (S1,S3), Queequa (S1-S2), Ryfri (S1-S2), TalonBX (S1,S3), TehBaconBrawlerZ (S1,S3), TheSlimeBrother (S1-S2), Westcraft00 (S1-S2), zoeywithawhy (S1-S2), CodeJoshua (S2-S3), JustNolan (S2-S3), wizarde (S2-S3)
+
+**1 Season (13):** 4EyedSlime (S1), Blarkslol (S1), ColdBac (S1), CommanderK22_ (S1), JampoJohn (S1), SpaceFenix (S1), cherryblawsom (S2), CrowJRC (S2), Kelawesome (S2), stupidgirltv (S2), Brodator (S3), Gorgerous (S3), powermc (S3)
 
 ---
 ### Debutants
@@ -121,5 +151,7 @@
 **S1 (30):** _1mmortal_, 4EyedSlime, AirInAirOut, Applepie78, Blarkslol, Boomblade60, CAMKART100, Caydone, ChainingVermin2, chugmitchell, Codwhy, ColdBac, CommanderK22_, Greeples, JampoJohn, Klickacat, MaxEvasion, Maxwellfifty, MercuryParadox, Normoh, omchris, Queequa, Ryfri, ShootingGoats, SpaceFenix, TalonBX, TehBaconBrawlerZ, TheSlimeBrother, Westcraft00, zoeywithawhy
 
 **S2 (7):** cherryblawsom, CodeJoshua, CrowJRC, JustNolan, Kelawesome, stupidgirltv, wizarde
+
+**S3 (3):** Brodator, Gorgerous, powermc
 
 ---

@@ -122,7 +122,7 @@
 
 **S7:** Paxtona (1:9:50)
 
-**S8:** JaeHasNoMaidens (1:0:58)
+**S8:** commitstaxfraud (1:0:58)
 
 **S9:** 4EyedSlime (1:22:4)
 
@@ -195,7 +195,7 @@
 
 **11th - Kelawesome (5):** kalleina (S5), SiahStone (S5), CipherKai (S5), SoupestGlobe (S6), Andronify (S6)
 
-**11th - SiahStone (5):** CipherKai (S3), Fra49 (S5), SoupestGlobe (S8), SpaceFenix (S8), JaeHasNoMaidens (S8)
+**11th - SiahStone (5):** CipherKai (S3), Fra49 (S5), SoupestGlobe (S8), SpaceFenix (S8), commitstaxfraud (S8)
 
 **14th - Brodator (4):** 6BU (S1), SmolHatChild (S1), automavic (S1), MrCanada (S2)
 
@@ -295,7 +295,7 @@
 
 **2 Seasons (16):** BreakSalad (S1,S3), Centrios (S1,S4), ConBeanJones (S1,S4), HyperOutHere (S1-S2), Arich (S2,S6), Haama_ (S2-S3), xRosss (S2,S4), centraleric (S3-S4), Mathyy (S3-S4), miles1baseball (S4,S6), Kelawesome (S5-S6), Paxtona (S5,S7), Gorgerous (S6,S8), acadiangel (S8-S9), ChainingVermin2 (S8-S9), fruitlogic (S8-S9)
 
-**1 Season (26):** 6BU (S1), automavic (S1), chloesad (S1), Cyonal (S1), Dj8ninja (S1), DjTalica (S1), dRawry (S1), Mop19 (S1), Daffz (S2), MrCanada (S2), Psykl0ne (S2), QuilJ1 (S2), WaXmAn24 (S3), Fourbitplayer (S4), hazel_doe (S5), kalleina (S5), Rohcket (S5), Jordtim (S6), DJoee (S7), Eluniel (S7), Klickacat (S7), JaeHasNoMaidens (S8), jakeyx3 (S8), brinkwhy (S9), Ryfri (S9), TehBaconBrawlerZ (S9)
+**1 Season (26):** 6BU (S1), automavic (S1), chloesad (S1), Cyonal (S1), Dj8ninja (S1), DjTalica (S1), dRawry (S1), Mop19 (S1), Daffz (S2), MrCanada (S2), Psykl0ne (S2), QuilJ1 (S2), WaXmAn24 (S3), Fourbitplayer (S4), hazel_doe (S5), kalleina (S5), Rohcket (S5), Jordtim (S6), DJoee (S7), Eluniel (S7), Klickacat (S7), commitstaxfraud (S8), jakeyx3 (S8), brinkwhy (S9), Ryfri (S9), TehBaconBrawlerZ (S9)
 
 ---
 ### Debutants
@@ -314,7 +314,7 @@
 
 **S7 (4):** DJoee, Eluniel, Klickacat, MaxEvasion
 
-**S8 (5):** acadiangel, ChainingVermin2, fruitlogic, JaeHasNoMaidens, jakeyx3
+**S8 (5):** acadiangel, ChainingVermin2, commitstaxfraud, fruitlogic, jakeyx3
 
 **S9 (3):** brinkwhy, Ryfri, TehBaconBrawlerZ
 

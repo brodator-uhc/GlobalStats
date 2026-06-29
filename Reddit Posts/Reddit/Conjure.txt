@@ -46,7 +46,7 @@
 
 **S1:** bjr201111 (0), oworca (0)
 
-**S2:** 5kylord (3), JaeHasNoMaidens (2), RemyChingling (0)
+**S2:** 5kylord (3), commitstaxfraud (2), RemyChingling (0)
 
 **S3:** CH0CK (0), Evader22 (1), Kelawesome (3), rattyplayz (2)
 
@@ -58,7 +58,7 @@
 
 **S7:** Arich (2), Brodator (1), Fra49 (0), ShyGus (1), wizarde (1)
 
-**S8:** CHAINGE (1), JaeHasNoMaidens (2)
+**S8:** CHAINGE (1), commitstaxfraud (2)
 
 **S9:** QuilJ1 (2), RemyChingling (3), WackoFlipper (0)
 
@@ -177,7 +177,7 @@
 
 **S5:** automavic (0:2:3)
 
-**S6:** JaeHasNoMaidens (0:1:33)
+**S6:** commitstaxfraud (0:1:33)
 
 **S7:** wibbol (0:1:2)
 
@@ -253,15 +253,15 @@
 
 **S2:** automavic (MercuryParadox)
 
-**S3:** PauloSSB (JaeHasNoMaidens)
+**S3:** PauloSSB (commitstaxfraud)
 
 **S4:** JRjoos (Pelycosaur)
 
-**S5:** JaeHasNoMaidens (wibbol)
+**S5:** commitstaxfraud (wibbol)
 
 **S6:** RemyChingling (automavic)
 
-**S7:** DianaB (JaeHasNoMaidens)
+**S7:** DianaB (commitstaxfraud)
 
 **S8:** PauloSSB (Cyndic)
 
@@ -294,15 +294,15 @@
 
 **S2:** Lucityy (Fall)
 
-**S3:** JaeHasNoMaidens (PauloSSB)
+**S3:** commitstaxfraud (PauloSSB)
 
-**S4:** JaeHasNoMaidens (Burning)
+**S4:** commitstaxfraud (Burning)
 
 **S5:** ElGavinoSupremo (Zombie)
 
 **S6:** QuilJ1 (Creeper)
 
-**S7:** JaeHasNoMaidens (DianaB)
+**S7:** commitstaxfraud (DianaB)
 
 **S8:** Ryfri (Enderman)
 
@@ -331,33 +331,33 @@
 ---
 ### Kills
 
-**1st - Kelawesome (32):** PhenomCloud (S3), PauloSSB (S3), SD_UHC (S3), Bradzi (S4), Fra49 (S4), Greeples (S4), SiahStone (S4), Potsie (S5), automavic (S5), WackoFlipper (S5), lexicuhl (S5), CHAINGE (S5), SD_UHC (S7), lexicuhl (S7), nFang (S8), Spacepod_ (S8), lexicuhl (S8), BBR_ (S8), DianaB (S8), RemyChingling (S8), ThePeridotKnight (S8), JaeHasNoMaidens (S8), CHAINGE (S9), Pelycosaur (S9), Codwhy (S9), Brodator (S9), wizarde (S11), Codwhy (S13), Randehh (S13), DJoee (S13), Randehh (S14), MaxEvasion (S14)
+**1st - Kelawesome (32):** PhenomCloud (S3), PauloSSB (S3), SD_UHC (S3), Bradzi (S4), Fra49 (S4), Greeples (S4), SiahStone (S4), Potsie (S5), automavic (S5), WackoFlipper (S5), lexicuhl (S5), CHAINGE (S5), SD_UHC (S7), lexicuhl (S7), nFang (S8), Spacepod_ (S8), lexicuhl (S8), BBR_ (S8), DianaB (S8), RemyChingling (S8), ThePeridotKnight (S8), commitstaxfraud (S8), CHAINGE (S9), Pelycosaur (S9), Codwhy (S9), Brodator (S9), wizarde (S11), Codwhy (S13), Randehh (S13), DJoee (S13), Randehh (S14), MaxEvasion (S14)
 
-**2nd - RemyChingling (26):** JaeHasNoMaidens (S5), automavic (S6), Normoh (S6), lexicuhl (S6), cherryblawsom (S6), CHAINGE (S6), ShyGus (S6), madmerrick (S6), Spacepod_ (S6), SiahStone (S7), Bradzi (S9), Rohcket (S9), SiahStone (S9), SD_UHC (S10), madmerrick (S12), benidk (S16), Kelawesome (S16), DJoee (S16), wizarde (S16), Fra49 (S16), Bobbytheturtle (S17), CHAINGE (S17), SpaceFenix (S18), BoltsInCharge (S18), Bobbytheturtle (S18), AHSOKATANOSTAN (S18)
+**2nd - RemyChingling (26):** commitstaxfraud (S5), automavic (S6), Normoh (S6), lexicuhl (S6), cherryblawsom (S6), CHAINGE (S6), ShyGus (S6), madmerrick (S6), Spacepod_ (S6), SiahStone (S7), Bradzi (S9), Rohcket (S9), SiahStone (S9), SD_UHC (S10), madmerrick (S12), benidk (S16), Kelawesome (S16), DJoee (S16), wizarde (S16), Fra49 (S16), Bobbytheturtle (S17), CHAINGE (S17), SpaceFenix (S18), BoltsInCharge (S18), Bobbytheturtle (S18), AHSOKATANOSTAN (S18)
 
 **3rd - Bobbytheturtle (21):** Rohcket (S11), ScottPirie (S11), Greeples (S11), Kelawesome (S12), Alacan (S12), Aybel (S12), Biwitch (S12), DJoee (S12), MercuryParadox (S12), Ryfri (S12), LoafOZ (S14), SD_UHC (S14), 5hup (S14), Ryfri (S15), lexicuhl (S15), DJoee (S15), DJoee (S17), Rohcket (S18), SiahStone (S19), zCent (S19), ChainingVermin2 (S19)
 
 **3rd - ColdBac (21):** Cyndic (S1), DeluxeSniper (S1), Potsie (S1), liflaf (S1), bjr201111 (S1), Cyndic (S2), PLENT (S2), Spacepod_ (S4), _mrcool (S4), RemyChingling (S10), SiahStone (S10), Rohcket (S10), hazel_doe (S10), Jordtim (S11), Normoh (S14), Keelando (S14), Brodator (S14), Flohp (S15), wizarde (S15), Nikikula (S19), Fcrm (S19)
 
-**5th - Cyndic (20):** PLENT (S1), _mrcool (S1), Normoh (S2), cherryblawsom (S2), SoulRawr (S2), Potsie (S2), JaeHasNoMaidens (S2), dRawry (S3), nFang (S7), Fra49 (S7), ShyGus (S7), Kelawesome (S9), PresidentFleb (S9), wizarde (S9), QuilJ1 (S9), RemyChingling (S9), ElGavinoSupremo (S10), discoczibi (S11), miles1baseball (S11), pigghetti (S11)
+**5th - Cyndic (20):** PLENT (S1), _mrcool (S1), Normoh (S2), cherryblawsom (S2), SoulRawr (S2), Potsie (S2), commitstaxfraud (S2), dRawry (S3), nFang (S7), Fra49 (S7), ShyGus (S7), Kelawesome (S9), PresidentFleb (S9), wizarde (S9), QuilJ1 (S9), RemyChingling (S9), ElGavinoSupremo (S10), discoczibi (S11), miles1baseball (S11), pigghetti (S11)
 
 **6th - DJoee (17):** automavic (S10), Fra49 (S10), Randehh (S10), MercuryParadox (S10), Ryfri (S10), cherryblawsom (S11), Cyndic (S11), Bobbytheturtle (S11), Gorgerous (S15), Codwhy (S15), _Dieter (S15), Fensua (S15), miles1baseball (S15), Aybel (S15), pkee (S16), Bobbytheturtle (S16), MercuryParadox (S18)
 
-**7th - Potsie (15):** AvaCos (S1), JaeHasNoMaidens (S1), Micale (S2), Chessa (S2), JustNolan (S3), SiahStone (S5), nFang (S6), Greeples (S7), wizarde (S8), Greeples (S9), nFang (S10), pigghetti (S10), PresidentFleb (S10), Greeples (S10), Omertosa (S13)
+**7th - Potsie (15):** AvaCos (S1), commitstaxfraud (S1), Micale (S2), Chessa (S2), JustNolan (S3), SiahStone (S5), nFang (S6), Greeples (S7), wizarde (S8), Greeples (S9), nFang (S10), pigghetti (S10), PresidentFleb (S10), Greeples (S10), Omertosa (S13)
 
-**8th - Brodator (13):** Normoh (S5), Kelawesome (S5), JaeHasNoMaidens (S6), Potsie (S7), wibbol (S9), TorinFBF (S12), WackoFlipper (S13), Bobbytheturtle (S13), friigiid (S13), DJoee (S14), BardMain2 (S15), wizarde (S17), Flohp (S17)
+**8th - Brodator (13):** Normoh (S5), Kelawesome (S5), commitstaxfraud (S6), Potsie (S7), wibbol (S9), TorinFBF (S12), WackoFlipper (S13), Bobbytheturtle (S13), friigiid (S13), DJoee (S14), BardMain2 (S15), wizarde (S17), Flohp (S17)
 
 **8th - Pelycosaur (13):** SD_UHC (S5), RemyChingling (S5), SoulRawr (S5), Randehh (S6), Fra49 (S6), miles1baseball (S6), 5kylord (S6), 78ford (S7), 5kylord (S7), chloesad (S8), Potsie (S8), Apex_Twinkie (S8), Spacepod_ (S10)
 
 **10th - ShyGus (12):** oworca (S4), QuilJ1 (S5), Randehh (S5), Pelycosaur (S5), ToucanTom (S5), Brodator (S5), oworca (S5), CHAINGE (S7), Brodator (S8), Fra49 (S8), Rohcket (S8), Spacepod_ (S9)
 
-**11th - automavic (10):** MercuryParadox (S2), Kelawesome (S3), rattyplayz (S3), RemyChingling (S7), Brodator (S7), wizarde (S7), Normoh (S8), Chasmic (S8), Potsie (S13), NajaOxiana (S18)
+**11th - automavic (10):** MercuryParadox (S2), Kelawesome (S3), rattyplayz (S3), RemyChingling (S7), Brodator (S7), wizarde (S7), Normoh (S8), Chasmic (S8), Potsie (S13), illuminaja (S18)
 
 **11th - Codwhy (10):** Potsie (S9), 78ford (S9), wibbol (S10), Applepie78 (S15), sleepingxd (S15), Brodator (S15), Brodator (S18), benidk (S19), ogrechugbo (S19), YellowVitt (S19)
 
 **11th - Spacepod_ (10):** LegoBeast (S1), RemyChingling (S4), _mrcool (S5), Cyndic (S6), Brodator (S6), Potsie (S6), Greeples (S6), Apex_Twinkie (S7), ShyGus (S8), cherryblawsom (S8)
 
-**14th - PauloSSB (9):** JaeHasNoMaidens (S3), Cyndic (S8), JustNolan (S8), 78ford (S8), madmerrick (S8), automavic (S8), ToucanTom (S8), Eroe (S8), pigghetti (S8)
+**14th - PauloSSB (9):** commitstaxfraud (S3), Cyndic (S8), JustNolan (S8), 78ford (S8), madmerrick (S8), automavic (S8), ToucanTom (S8), Eroe (S8), pigghetti (S8)
 
 **15th - cherryblawsom (8):** ShyGus (S1), JustNolan (S1), Spacepod_ (S1), wizarde (S6), 78ford (S10), TorinFBF (S10), 78ford (S11), Randehh (S11)
 
@@ -373,13 +373,13 @@
 
 **21st - _carn (6):** Greeples (S18), lexicuhl (S18), Applepie78 (S18), MaxCringe (S18), dahii (S18), strategy (S18)
 
-**21st - Fcrm (6):** JaeHasNoMaidens (S17), RemyChingling (S17), MercuryParadox (S17), CHAINGE (S18), RqDix (S19), Normoh (S19)
+**21st - commitstaxfraud (6):** chloesad (S2), automavic (S2), wibbol (S5), Randehh (S8), ColdBac (S8), Brodator (S17)
+
+**21st - Fcrm (6):** commitstaxfraud (S17), RemyChingling (S17), MercuryParadox (S17), CHAINGE (S18), AsianCheatCode (S19), Normoh (S19)
 
 **21st - Fra49 (6):** discoczibi (S10), Keelando (S12), Biwitch (S16), RemyChingling (S16), Nikikula (S18), Fcrm (S18)
 
-**21st - JaeHasNoMaidens (6):** chloesad (S2), automavic (S2), wibbol (S5), Randehh (S8), ColdBac (S8), Brodator (S17)
-
-**21st - JustNolan (6):** CH0CK (S2), SiahStone (S8), JaeHasNoMaidens (S10), cherryblawsom (S10), Chasmic (S10), wizarde (S10)
+**21st - JustNolan (6):** CH0CK (S2), SiahStone (S8), commitstaxfraud (S10), cherryblawsom (S10), Chasmic (S10), wizarde (S10)
 
 **21st - Micale (6):** cherryblawsom (S1), YellowVitt (S2), Spacepod_ (S5), Fra49 (S5), Emerric (S5), Arich (S5)
 
@@ -475,6 +475,8 @@
 
 **56th - strategy (2):** wizarde (S18), ChainingVermin2 (S18)
 
+**73rd - AsianCheatCode (1):** Brodator (S19)
+
 **73rd - AvaCos (1):** oworca (S1)
 
 **73rd - BoltsInCharge (1):** Ryfri (S17)
@@ -483,9 +485,9 @@
 
 **73rd - DeluxeSniper (1):** Micale (S1)
 
-**73rd - DianaB (1):** JaeHasNoMaidens (S7)
+**73rd - DianaB (1):** commitstaxfraud (S7)
 
-**73rd - discoczibi (1):** JaeHasNoMaidens (S11)
+**73rd - discoczibi (1):** commitstaxfraud (S11)
 
 **73rd - dRawry (1):** automavic (S1)
 
@@ -511,8 +513,6 @@
 
 **73rd - PresidentFleb (1):** Eroe (S11)
 
-**73rd - RqDix (1):** Brodator (S19)
-
 **73rd - SmooveManeuver (1):** Cyndic (S3)
 
 **73rd - SpaceFenix (1):** 4EyedSlime (S19)
@@ -528,7 +528,7 @@
 
 **Fall (4):** Gabey (S1), Lucityy (S2), Bobbytheturtle (S15), TorinFBF (S18)
 
-**Burning (2):** JaeHasNoMaidens (S4), floobel (S4)
+**Burning (2):** commitstaxfraud (S4), floobel (S4)
 
 **Lava (2):** Pagers (S9), RemyChingling (S11)
 
@@ -559,7 +559,7 @@
 
 **12 Seasons (2):** ColdBac (S1-S2,S4,S8,S10-S12,S14-S15,S17-S19), Normoh (S1-S3,S5-S8,S10,S12,S14-S15,S19)
 
-**11 Seasons (2):** automavic (S1-S3,S5-S8,S10-S11,S13,S18), JaeHasNoMaidens (S1-S8,S10-S11,S17)
+**11 Seasons (2):** automavic (S1-S3,S5-S8,S10-S11,S13,S18), commitstaxfraud (S1-S8,S10-S11,S17)
 
 **10 Seasons (5):** cherryblawsom (S1-S3,S6,S8,S10-S11,S14,S16,S18), MercuryParadox (S1-S2,S10-S15,S17-S18), Greeples (S3-S11,S18), CHAINGE (S4-S10,S16-S18), DJoee (S10-S19)
 
@@ -579,12 +579,12 @@
 
 **2 Seasons (26):** dRawry (S1,S3), floobel (S1,S4), PLENT (S1-S2), CH0CK (S2-S3), Evader22 (S2-S3), Lucityy (S2,S5), YellowVitt (S2,S19), PauloSSB (S3,S8), Bradzi (S4,S9), spoocS_ (S4-S5), ToucanTom (S5,S8), Apex_Twinkie (S7-S8), Pagers (S7,S9), hazel_doe (S9-S10), discoczibi (S10-S11), ScottPirie (S10-S11), Gorgerous (S13,S15), LoafOZ (S13-S14), Fensua (S14-S15), sleepingxd (S14-S15), BardMain2 (S15-S16), pkee (S15-S16), _carn (S17-S18), AHSOKATANOSTAN (S18-S19), ChainingVermin2 (S18-S19), SpaceFenix (S18-S19)
 
-**1 Season (44):** AvaCos (S1), bjr201111 (S1), DeluxeSniper (S1), Gabey (S1), liflaf (S1), Chessa (S2), Frostbreath (S2), TommySuX (S2), EnergyPulse (S3), JavaJavelin (S3), PhenomCloud (S3), rattyplayz (S3), SmooveManeuver (S3), JRjoos (S4), OnlyCosmia (S5), BBR_ (S8), ThePeridotKnight (S8), centraleric (S11), Alacan (S12), ToontownOnline (S12), DKPMatt (S13), Eluniel (S13), flameorb (S13), friigiid (S13), _pbo (S14), MaxEvasion (S14), tagggz (S14), azoof (S16), Kaddyn (S16), nsket (S16), Psykl0ne (S16), dahii (S18), Dj8ninja (S18), ERHDude (S18), MaxCringe (S18), NajaOxiana (S18), strategy (S18), 4EyedSlime (S19), DevoyTTV (S19), MajorWoof (S19), ogrechugbo (S19), RqDix (S19), Zakkeagle (S19), zCent (S19)
+**1 Season (44):** AvaCos (S1), bjr201111 (S1), DeluxeSniper (S1), Gabey (S1), liflaf (S1), Chessa (S2), Frostbreath (S2), TommySuX (S2), EnergyPulse (S3), JavaJavelin (S3), PhenomCloud (S3), rattyplayz (S3), SmooveManeuver (S3), JRjoos (S4), OnlyCosmia (S5), BBR_ (S8), ThePeridotKnight (S8), centraleric (S11), Alacan (S12), ToontownOnline (S12), DKPMatt (S13), Eluniel (S13), flameorb (S13), friigiid (S13), _pbo (S14), MaxEvasion (S14), tagggz (S14), azoof (S16), Kaddyn (S16), nsket (S16), Psykl0ne (S16), dahii (S18), Dj8ninja (S18), ERHDude (S18), illuminaja (S18), MaxCringe (S18), strategy (S18), 4EyedSlime (S19), AsianCheatCode (S19), DevoyTTV (S19), MajorWoof (S19), ogrechugbo (S19), Zakkeagle (S19), zCent (S19)
 
 ---
 ### Debutants
 
-**S1 (24):** _mrcool, automavic, AvaCos, Bacan, bjr201111, cherryblawsom, ColdBac, Cyndic, DeluxeSniper, dRawry, floobel, Gabey, JaeHasNoMaidens, JustNolan, LegoBeast, liflaf, MercuryParadox, Micale, Normoh, oworca, PLENT, Potsie, ShyGus, Spacepod_
+**S1 (24):** _mrcool, automavic, AvaCos, Bacan, bjr201111, cherryblawsom, ColdBac, commitstaxfraud, Cyndic, DeluxeSniper, dRawry, floobel, Gabey, JustNolan, LegoBeast, liflaf, MercuryParadox, Micale, Normoh, oworca, PLENT, Potsie, ShyGus, Spacepod_
 
 **S2 (13):** 5kylord, CH0CK, Chessa, chloesad, Evader22, Frostbreath, Lucityy, miles1baseball, RemyChingling, SD_UHC, SoulRawr, TommySuX, YellowVitt
 
@@ -618,8 +618,8 @@
 
 **S17 (3):** _carn, BoltsInCharge, Fcrm
 
-**S18 (9):** AHSOKATANOSTAN, ChainingVermin2, dahii, Dj8ninja, ERHDude, MaxCringe, NajaOxiana, SpaceFenix, strategy
+**S18 (9):** AHSOKATANOSTAN, ChainingVermin2, dahii, Dj8ninja, ERHDude, illuminaja, MaxCringe, SpaceFenix, strategy
 
-**S19 (7):** 4EyedSlime, DevoyTTV, MajorWoof, ogrechugbo, RqDix, Zakkeagle, zCent
+**S19 (7):** 4EyedSlime, AsianCheatCode, DevoyTTV, MajorWoof, ogrechugbo, Zakkeagle, zCent
 
 ---

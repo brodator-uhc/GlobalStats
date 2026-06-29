@@ -56,7 +56,7 @@
 
 **S6:** automavic (2), EyeHasNoIdea (1), tilargo (2)
 
-**S7:** automavic (1), JaeHasNoMaidens (0), Potsie (2), Spacepod_ (3)
+**S7:** automavic (1), commitstaxfraud (0), Potsie (2), Spacepod_ (3)
 
 **S8:** ElGavinoSupremo (0), EyeHasNoIdea (0)
 
@@ -76,7 +76,7 @@
 
 **S16:** Bobbytheturtle (2), MercuryParadox (2), zCent (0)
 
-**S17:** DJoee (0), JaeHasNoMaidens (1), LoafOZ (0), YellowVitt (0)
+**S17:** commitstaxfraud (1), DJoee (0), LoafOZ (0), YellowVitt (0)
 
 **S18:** automavic (2), Jakekub (0)
 
@@ -144,7 +144,7 @@
 
 **S9:** Chasmic (1), Jakekub (4), sigilyph (2)
 
-**S10:** Apex_Twinkie (3), wibbol (0), Greeples (1), automavic (4) & Bradzi (0), JaeHasNoMaidens (0), Jakekub (3), Jayzize (5)
+**S10:** Apex_Twinkie (3), wibbol (0), Greeples (1), automavic (4) & Bradzi (0), commitstaxfraud (0), Jakekub (3), Jayzize (5)
 
 **S11:** BardMain2 (0), vynil (9)
 
@@ -171,7 +171,7 @@
 
 **S2:** Cyndic (0:4:23)
 
-**S3:** JaeHasNoMaidens (0:1:27)
+**S3:** commitstaxfraud (0:1:27)
 
 **S4:** Potsie (0:3:57)
 
@@ -222,7 +222,7 @@
 
 **S7:** automavic (1:31:7)
 
-**S8:** JaeHasNoMaidens (1:35:57)
+**S8:** commitstaxfraud (1:35:57)
 
 **S9:** wibbol (0:54:6)
 
@@ -302,7 +302,7 @@
 
 **S6:** Micale (ShyGus)
 
-**S7:** JaeHasNoMaidens (Creeper)
+**S7:** commitstaxfraud (Creeper)
 
 **S8:** rippersteveM5 (ShyGus)
 
@@ -335,17 +335,17 @@
 
 **2nd - vynil (28):** Hoookey (S4), ColdBac (S5), MrCraftinator (S5), zCent (S5), Tootikins (S5), SD_UHC (S5), CHANGA (S6), floobel (S6), cherryblawsom (S6), thebbers (S6), Phoraxe (S6), Austronomical (S6), ElGavinoSupremo (S7), Zydoxe (S7), QuilJ1 (S7), Jayzize (S7), Apex_Twinkie (S8), AJSteel (S8), blazerr (S10), ItsColinn (S11), Chasmic (S11), Greeples (S11), 6BU (S11), swishduck (S11), MajorWoof (S11), Jayzize (S11), ToontownOnline (S11), wibbol (S11)
 
-**3rd - Phoraxe (26):** 5kylord (S2), Chasmic (S2), MistaUnicorn (S3), frogsella (S3), ShyGus (S3), Cyndic (S3), Potsie (S4), thebbers (S4), tilargo (S4), JaeHasNoMaidens (S4), CH0CK (S4), Bacan (S4), Arich (S4), Sluggyg (S4), Apex_Twinkie (S4), SD_UHC (S4), MistaUnicorn (S6), frogsella (S6), Tootikins (S6), MercuryParadox (S11), natsuvi (S12), DJoee (S13), Fra49 (S13), Micale (S13), Fcrm (S13), Bobbytheturtle (S18)
+**3rd - Phoraxe (26):** 5kylord (S2), Chasmic (S2), MistaUnicorn (S3), frogsella (S3), ShyGus (S3), Cyndic (S3), Potsie (S4), thebbers (S4), tilargo (S4), commitstaxfraud (S4), CH0CK (S4), Bacan (S4), Arich (S4), Sluggyg (S4), Apex_Twinkie (S4), SD_UHC (S4), MistaUnicorn (S6), frogsella (S6), Tootikins (S6), MercuryParadox (S11), natsuvi (S12), DJoee (S13), Fra49 (S13), Micale (S13), Fcrm (S13), Bobbytheturtle (S18)
 
 **4th - ColdBac (23):** Cyndic (S2), automavic (S2), Fra49 (S5), Ixolock (S5), Potsie (S6), Jayzize (S8), WhitePikmin (S8), Chasmic (S9), Austronomical (S9), Arich (S10), automavic (S10), Greeples (S10), chloesad (S12), EyeHasNoIdea (S12), YellowVitt (S14), automavic (S14), Normoh (S14), wibbol (S15), natsuvi (S15), madmerrick (S17), MajorWoof (S19), automavic (S19), ChrisCD (S19)
 
-**5th - cherryblawsom (20):** jommyappleseed (S5), Kieranborn (S5), Jayzize (S6), 5kylord (S6), YellowVitt (S8), LegoBeast (S9), ColdBac (S12), Normoh (S12), flameorb (S14), Omertosa (S14), ColdBac (S14), nsket (S17), CipherKai (S17), TheRealHagrid (S17), Greeples (S17), JaeHasNoMaidens (S17), YellowVitt (S18), JaeHasNoMaidens (S18), ogrechugbo (S18), natsuvi (S19)
+**5th - cherryblawsom (20):** jommyappleseed (S5), Kieranborn (S5), Jayzize (S6), 5kylord (S6), YellowVitt (S8), LegoBeast (S9), ColdBac (S12), Normoh (S12), flameorb (S14), Omertosa (S14), ColdBac (S14), nsket (S17), CipherKai (S17), TheRealHagrid (S17), Greeples (S17), commitstaxfraud (S17), YellowVitt (S18), commitstaxfraud (S18), ogrechugbo (S18), natsuvi (S19)
 
 **6th - Potsie (18):** chloesad (S1), Topspinpiggles (S1), EyeHasNoIdea (S2), warriorcat (S5), Zachf01 (S5), Sluggyg (S5), MajorWoof (S5), vynil (S5), Apex_Twinkie (S6), Tootikins (S7), sigilyph (S7), Zachf01 (S8), cherryblawsom (S8), Rasguer (S8), MajorWoof (S9), natsuvi (S9), acadiangel (S16), Greeples (S16)
 
 **7th - Bobbytheturtle (16):** jamertxn (S5), chloesad (S5), flameorb (S9), Potsie (S9), LoafOZ (S10), Tharve (S10), kirbey (S11), ShyGus (S12), BardMain2 (S12), cherryblawsom (S13), warriorcat (S14), Emerric (S14), natsuvi (S16), CipherKai (S16), natsuvi (S17), nsket (S18)
 
-**8th - automavic (15):** Zakkeagle (S2), tilargo (S2), IsaacMT (S4), JaeHasNoMaidens (S6), Bobbytheturtle (S6), Spacepod_ (S7), JaeHasNoMaidens (S9), YellowVitt (S10), Normoh (S10), CipherKai (S10), Fra49 (S10), Fcrm (S14), centraleric (S15), ColdBac (S18), c1n (S18)
+**8th - automavic (15):** Zakkeagle (S2), tilargo (S2), IsaacMT (S4), commitstaxfraud (S6), Bobbytheturtle (S6), Spacepod_ (S7), commitstaxfraud (S9), YellowVitt (S10), Normoh (S10), CipherKai (S10), Fra49 (S10), Fcrm (S14), centraleric (S15), ColdBac (S18), c1n (S18)
 
 **8th - ChrisCD (15):** Bradzi (S7), Jakekub (S7), MrCraftinator (S8), chloesad (S8), Daffz (S8), PenguinBagels (S8), daltcn (S8), ElGavinoSupremo (S8), c1n (S17), MaxEvasion (S19), swishduck (S19), DJoee (S19), Plushy33 (S19), Maxwellfifty (S19), YellowVitt (S19)
 
@@ -377,7 +377,7 @@
 
 **20th - Jakekub (9):** Chasmic (S7), cherryblawsom (S7), wibbol (S9), Tharve (S9), Bradzi (S9), AJSteel (S9), ItsColinn (S10), chloesad (S10), flameorb (S10)
 
-**20th - Jayzize (9):** chloesad (S3), Greeples (S5), Fra49 (S9), NajaOxiana (S10), ShyGus (S10), sigilyph (S10), Emerric (S10), vynil (S10), YellowVitt (S12)
+**20th - Jayzize (9):** chloesad (S3), Greeples (S5), Fra49 (S9), illuminaja (S10), ShyGus (S10), sigilyph (S10), Emerric (S10), vynil (S10), YellowVitt (S12)
 
 **20th - swishduck (9):** AnUncreativeCat (S2), BardMain2 (S11), ThePeridotKnight (S12), ohh_lia (S14), Phoraxe (S18), lottebunny (S18), cherryblawsom (S18), Westcraft00 (S18), automavic (S18)
 
@@ -387,7 +387,7 @@
 
 **28th - _Glen (7):** thebbers (S1), ShyGus (S1), Potsie (S1), tilargo (S1), Normoh (S5), automavic (S5), Austronomical (S5)
 
-**28th - AJSteel (7):** SD_UHC (S1), Lucityy (S1), CHANGA (S1), Greeples (S8), WackoFlipper (S11), Fra49 (S11), JaeHasNoMaidens (S11)
+**28th - AJSteel (7):** SD_UHC (S1), Lucityy (S1), CHANGA (S1), Greeples (S8), WackoFlipper (S11), Fra49 (S11), commitstaxfraud (S11)
 
 **28th - EyeHasNoIdea (7):** sigilyph (S1), Apex_Twinkie (S1), Phoraxe (S3), Bacan (S3), Chasmic (S4), YellowVitt (S5), ColdBac (S6)
 
@@ -399,7 +399,7 @@
 
 **28th - zCent (7):** vynil (S4), ShyGus (S4), Fcrm (S18), Austronomical (S18), brocktober (S18), DJoee (S18), Greeples (S18)
 
-**35th - JaeHasNoMaidens (6):** Tootikins (S3), ohh_lia (S11), centraleric (S14), tagggz (S14), automavic (S15), pigghetti (S17)
+**35th - commitstaxfraud (6):** Tootikins (S3), ohh_lia (S11), centraleric (S14), tagggz (S14), automavic (S15), pigghetti (S17)
 
 **35th - Normoh (6):** OG_Ash (S7), tilargo (S7), tagggz (S7), Fcrm (S10), Phoraxe (S10), MercuryParadox (S14)
 
@@ -407,11 +407,11 @@
 
 **37th - CHANGA (5):** Greeples (S13), ItsColinn (S13), brodioh (S13), LoafOZ (S13), pigghetti (S13)
 
-**37th - chloesad (5):** ShyGus (S2), Potsie (S2), ColdBac (S2), Sluggyg (S3), JaeHasNoMaidens (S12)
+**37th - chloesad (5):** ShyGus (S2), Potsie (S2), ColdBac (S2), Sluggyg (S3), commitstaxfraud (S12)
 
 **37th - fruitberries (5):** Phoraxe (S7), Normoh (S7), Potsie (S7), Fra49 (S8), MajorWoof (S8)
 
-**37th - lottebunny (5):** Normoh (S13), JaeHasNoMaidens (S14), YellowVitt (S15), xCand (S16), ItsColinn (S16)
+**37th - lottebunny (5):** Normoh (S13), commitstaxfraud (S14), YellowVitt (S15), xCand (S16), ItsColinn (S16)
 
 **37th - Micale (5):** Lucityy (S7), Zydoxe (S8), sigilyph (S8), centraleric (S13), automavic (S13)
 
@@ -419,7 +419,7 @@
 
 **37th - YellowVitt (5):** OG_Ash (S2), FazedMC (S3), tilargo (S8), flameorb (S8), JustNolan (S19)
 
-**45th - centraleric (4):** lottebunny (S12), frogsella (S12), Zachf01 (S15), JaeHasNoMaidens (S15)
+**45th - centraleric (4):** lottebunny (S12), frogsella (S12), Zachf01 (S15), commitstaxfraud (S15)
 
 **45th - Chasmic (4):** tagggz (S3), frogsella (S4), Austronomical (S4), cherryblawsom (S9)
 
@@ -427,7 +427,7 @@
 
 **45th - Evader22 (4):** Phoraxe (S5), EyeHasNoIdea (S5), 5kylord (S5), Bacan (S5)
 
-**45th - Fra49 (4):** ThePeridotKnight (S10), JaeHasNoMaidens (S10), ThePeridotKnight (S11), cherryblawsom (S16)
+**45th - Fra49 (4):** ThePeridotKnight (S10), commitstaxfraud (S10), ThePeridotKnight (S11), cherryblawsom (S16)
 
 **45th - Hecticity (4):** Zevulpes (S12), Bobbytheturtle (S19), ItsColinn (S19), ohh_lia (S19)
 
@@ -445,7 +445,7 @@
 
 **53rd - DJoee (3):** pigghetti (S14), WackoFlipper (S15), Potsie (S19)
 
-**53rd - frogsella (3):** JaeHasNoMaidens (S3), ChrisCD (S7), automavic (S7)
+**53rd - frogsella (3):** commitstaxfraud (S3), ChrisCD (S7), automavic (S7)
 
 **53rd - Gorgerous (3):** automavic (S17), kirbey (S18), CHAINGE (S18)
 
@@ -453,7 +453,7 @@
 
 **53rd - MrCraftinator (3):** Micale (S5), thebbers (S5), EyeHasNoIdea (S8)
 
-**53rd - PenguinBagels (3):** JaeHasNoMaidens (S8), 5kylord (S8), fruitberries (S8)
+**53rd - PenguinBagels (3):** commitstaxfraud (S8), 5kylord (S8), fruitberries (S8)
 
 **53rd - ThePeridotKnight (3):** wibbol (S6), Normoh (S6), jommyappleseed (S11)
 
@@ -489,11 +489,11 @@
 
 **76th - Daffz (1):** wibbol (S8)
 
+**76th - illuminaja (1):** Bobbytheturtle (S10)
+
 **76th - jamertxn (1):** ShyGus (S5)
 
 **76th - LoafOZ (1):** ColdBac (S15)
-
-**76th - NajaOxiana (1):** Bobbytheturtle (S10)
 
 **76th - neonpoop (1):** ItsColinn (S17)
 
@@ -522,7 +522,7 @@
 
 **Fall (7):** Spacepod_ (S9), OG_Ash (S9), cherryblawsom (S11), WackoFlipper (S12), brodioh (S12), kirbey (S17), brocktober (S19)
 
-**Creeper (4):** Rawkeyy (S2), JaeHasNoMaidens (S7), MercuryParadox (S12), Fcrm (S12)
+**Creeper (4):** Rawkeyy (S2), commitstaxfraud (S7), MercuryParadox (S12), Fcrm (S12)
 
 **Dripstone (2):** ohh_lia (S12), Gorgerous (S17)
 
@@ -551,7 +551,7 @@
 
 **14 Seasons (6):** Potsie (S1-S10,S12,S14,S16,S19), ColdBac (S2,S4-S6,S8-S10,S12,S14-S19), YellowVitt (S2-S8,S10,S12,S14-S15,S17-S19), Bobbytheturtle (S4-S6,S8-S14,S16-S19), cherryblawsom (S4-S9,S11-S14,S16-S19), Greeples (S5-S14,S16-S19)
 
-**13 Seasons (2):** ShyGus (S1-S6,S8-S14), JaeHasNoMaidens (S3-S4,S6-S12,S14-S15,S17-S18)
+**13 Seasons (2):** ShyGus (S1-S6,S8-S14), commitstaxfraud (S3-S4,S6-S12,S14-S15,S17-S18)
 
 **12 Seasons (2):** MajorWoof (S1-S3,S5-S12,S19), Phoraxe (S2-S7,S10-S13,S16,S18)
 
@@ -575,7 +575,7 @@
 
 **2 Seasons (21):** _Glen (S1,S5), blazerr (S1,S10), Lucityy (S1,S7), AnUncreativeCat (S2,S8), FazedMC (S3-S4), Hoookey (S3-S4), JustNolan (S3,S19), MistaUnicorn (S3,S6), Evader22 (S4-S5), MrCraftinator (S5,S8), floobel (S6-S7), Daffz (S7-S8), fruitberries (S7-S8), Zydoxe (S7-S8), WhitePikmin (S8,S10), 6BU (S11-S12), brodioh (S12-S13), acadiangel (S16-S17), Westcraft00 (S16,S18), c1n (S17-S18), CHAINGE (S17-S18)
 
-**1 Season (28):** thaunking (S1), Zakkeagle (S2), I_is_cheesecake (S4), IsaacMT (S4), Soshikun (S4), Kieranborn (S5), VeniiiD (S6), QuilJ1 (S7), qam022 (S8), Rasguer (S8), NajaOxiana (S10), NTBama (S10), MarExists (S11), nFang (S11), miles1baseball (S12), Sorvent (S12), Zevulpes (S12), _Dieter (S15), madmerrick (S17), neonpoop (S17), ogrechugbo (S18), Psykl0ne (S18), Andronify (S19), Fensua (S19), MaxEvasion (S19), Maxwellfifty (S19), Plushy33 (S19), Thimburrr (S19)
+**1 Season (28):** thaunking (S1), Zakkeagle (S2), I_is_cheesecake (S4), IsaacMT (S4), Soshikun (S4), Kieranborn (S5), VeniiiD (S6), QuilJ1 (S7), qam022 (S8), Rasguer (S8), illuminaja (S10), NTBama (S10), MarExists (S11), nFang (S11), miles1baseball (S12), Sorvent (S12), Zevulpes (S12), _Dieter (S15), madmerrick (S17), neonpoop (S17), ogrechugbo (S18), Psykl0ne (S18), Andronify (S19), Fensua (S19), MaxEvasion (S19), Maxwellfifty (S19), Plushy33 (S19), Thimburrr (S19)
 
 ---
 ### Debutants
@@ -584,7 +584,7 @@
 
 **S2 (10):** AnUncreativeCat, Chasmic, ColdBac, Cyndic, Phoraxe, Rawkeyy, rippersteveM5, swishduck, YellowVitt, Zakkeagle
 
-**S3 (12):** AvaCos, FazedMC, frogsella, Hecticity, Hoookey, JaeHasNoMaidens, Jayzize, JustNolan, MistaUnicorn, Normoh, tagggz, Tootikins
+**S3 (12):** AvaCos, commitstaxfraud, FazedMC, frogsella, Hecticity, Hoookey, Jayzize, JustNolan, MistaUnicorn, Normoh, tagggz, Tootikins
 
 **S4 (12):** Arich, Bobbytheturtle, cherryblawsom, Evader22, friigiid, I_is_cheesecake, IsaacMT, Ixolock, jamertxn, Soshikun, vynil, zCent
 
@@ -598,7 +598,7 @@
 
 **S9 (5):** BardMain2, Emerric, natsuvi, Tharve, TheRealHagrid
 
-**S10 (6):** CipherKai, Fcrm, ItsColinn, LoafOZ, NajaOxiana, NTBama
+**S10 (6):** CipherKai, Fcrm, illuminaja, ItsColinn, LoafOZ, NTBama
 
 **S11 (8):** 6BU, kirbey, MarExists, nFang, ohh_lia, pigghetti, ToontownOnline, WackoFlipper
 

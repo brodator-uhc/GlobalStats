@@ -125,7 +125,7 @@
 
 **1st - Cyndic (10):** Karasu994 (S2), zeesue (S2), JustNolan (S2), pigghetti (S2), ChocoTaco622 (S2), Kelawesome (S3), Chasmic (S3), SpaceFenix (S3), Demomaker (S4), Gorgerous (S5)
 
-**1st - Kelawesome (10):** Ullti (S3), FrostBros (S4), JaqOnCraq (S4), TheSlimeBrother (S4), RqDix (S6), natsuvi (S6), Aybel (S6), DJoee (S6), Codwhy (S6), lexicuhl (S6)
+**1st - Kelawesome (10):** Ullti (S3), FrostBros (S4), JaqOnCraq (S4), TheSlimeBrother (S4), AsianCheatCode (S6), natsuvi (S6), Aybel (S6), DJoee (S6), Codwhy (S6), lexicuhl (S6)
 
 **1st - Prisma (10):** Charrlottie (S1), Greeples (S1), Glarza (S1), FrostBros (S1), Sharkbob94349 (S2), omchris (S2), TheSlimeBrother (S2), FrostBros (S3), BatMan_1814 (S3), SoupestGlobe (S3)
 
@@ -253,7 +253,7 @@
 
 **2 Seasons (18):** Blarkslol (S1,S5), DevoyTTV (S1-S2), TitaniumDino25 (S1,S5), brocktober (S2-S3), Kaddyn (S2,S5), SpaceFenix (S2-S3), _pbo (S3-S4), Bacan (S3-S4), Drake132667596 (S3,S5), GoldenNs (S3,S5), PresidentFleb (S3,S5), Demomaker (S4-S5), Fcrm (S4-S5), Aybel (S5-S6), DianaB (S5-S6), Drkrai (S5-S6), lexicuhl (S5-S6), Randehh (S5-S6)
 
-**1 Season (25):** TastyBaconZ (S1), TMNono (S1), ZachMcD (S1), ZebraPantz (S1), ChocoTaco622 (S2), DarrenBGP (S2), Edviin_ (S2), RuneTactics (S2), ToeKun (S2), zeesue (S2), centraleric (S3), Centrios (S3), SoupestGlobe (S3), Biwitch (S4), 4EyedSlime (S5), Alacan (S5), Broseph (S5), Jordtim (S5), MaxEvasion (S5), Natural44 (S5), branman (S6), Brodator (S6), ColdBac (S6), RabidChipmunk (S6), RqDix (S6)
+**1 Season (25):** TastyBaconZ (S1), TMNono (S1), ZachMcD (S1), ZebraPantz (S1), ChocoTaco622 (S2), DarrenBGP (S2), Edviin_ (S2), RuneTactics (S2), ToeKun (S2), zeesue (S2), centraleric (S3), Centrios (S3), SoupestGlobe (S3), Biwitch (S4), 4EyedSlime (S5), Alacan (S5), Broseph (S5), Jordtim (S5), MaxEvasion (S5), Natural44 (S5), AsianCheatCode (S6), branman (S6), Brodator (S6), ColdBac (S6), RabidChipmunk (S6)
 
 ---
 ### Debutants
@@ -268,6 +268,6 @@
 
 **S5 (11):** 4EyedSlime, Alacan, Aybel, Broseph, DianaB, Drkrai, Jordtim, lexicuhl, MaxEvasion, Natural44, Randehh
 
-**S6 (5):** branman, Brodator, ColdBac, RabidChipmunk, RqDix
+**S6 (5):** AsianCheatCode, branman, Brodator, ColdBac, RabidChipmunk
 
 ---

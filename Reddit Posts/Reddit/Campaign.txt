@@ -33,7 +33,7 @@
 
 **S15: cherryblawsom (2), ShyGus (5)**, *MajorWoof (0)*
 
-**S16: RqDix (7)**
+**S16: AsianCheatCode (7)**
 
 **S17: vynil (6), wizarde (4)**, *_carn (2), Gorgerous (1)*
 
@@ -70,7 +70,7 @@
 
 **S14:** alexnv (5), Glarza (4), MajorWoof (0), nsket (3), Thimburrr (1)
 
-**S15:** AlolanJames (0), CodeJoshua (5), RqDix (1)
+**S15:** AlolanJames (0), AsianCheatCode (1), CodeJoshua (5)
 
 **S16:** benidk (3)
 
@@ -111,7 +111,7 @@
 
 **S15:** Bornyo (8)
 
-**S16:** Bornyo, RqDix (7)
+**S16:** AsianCheatCode, Bornyo (7)
 
 **S17:** vynil (6)
 
@@ -243,7 +243,7 @@
 
 **S3:** Abdalain (frogsella)
 
-**S4:** JaeHasNoMaidens (Broseph)
+**S4:** commitstaxfraud (Broseph)
 
 **S5:** nyaaia (BardMain2)
 
@@ -267,7 +267,7 @@
 
 **S15:** DJoee (Lighte)
 
-**S16:** RqDix (Aybel)
+**S16:** AsianCheatCode (Aybel)
 
 **S17:** Normoh (MCmattFTW)
 
@@ -306,7 +306,7 @@
 
 **S15:** Lighte (DJoee)
 
-**S16:** Aybel (RqDix)
+**S16:** Aybel (AsianCheatCode)
 
 **S17:** MCmattFTW (Normoh)
 
@@ -321,7 +321,7 @@
 
 **3rd - Bornyo (21):** Broseph (S2), PoofessorP (S2), Kaismartypants (S4), Cyonal (S8), Dj8ninja (S8), TalonBX (S9), benidk (S15), strategy (S15), wizarde (S15), Aybel (S15), Dj8ninja (S15), MajorWoof (S15), IyaIsMad (S15), Gorgerous (S15), alexnv (S16), Dj8ninja (S16), Lucarrio (S16), kirbey (S16), Andronify (S16), ohh_lia (S16), Lighte (S16)
 
-**3rd - DJoee (21):** Psykl0ne (S9), pigghetti (S10), Charrlottie (S10), Cqson (S10), jommyappleseed (S11), _carn (S13), Fra49 (S13), vynil (S13), Dj8ninja (S13), SiahStone (S14), pigghetti (S14), Lighte (S15), Normoh (S15), wizarde (S16), JaeHasNoMaidens (S16), OOGAABOOGA3 (S18), _Dieter (S18), benidk (S18), Br8dy_ (S18), Fcrm (S18), Drake132667596 (S18)
+**3rd - DJoee (21):** Psykl0ne (S9), pigghetti (S10), Charrlottie (S10), Cqson (S10), jommyappleseed (S11), _carn (S13), Fra49 (S13), vynil (S13), Dj8ninja (S13), SiahStone (S14), pigghetti (S14), Lighte (S15), Normoh (S15), wizarde (S16), commitstaxfraud (S16), OOGAABOOGA3 (S18), _Dieter (S18), benidk (S18), Br8dy_ (S18), Fcrm (S18), Drake132667596 (S18)
 
 **5th - Normoh (19):** Glarza (S8), Psykl0ne (S8), chloesad (S8), Charrlottie (S8), cherryblawsom (S8), Espik (S9), Charrlottie (S9), EmnossGoalz (S9), turtlesrcool27 (S9), AHSOKATANOSTAN (S9), Lighte (S11), Charrlottie (S12), natsuvi (S12), MCmattFTW (S17), Dj8ninja (S17), strategy (S17), flameh (S18), Charrlottie (S18), PresidentFleb (S18)
 
@@ -331,7 +331,7 @@
 
 **7th - Glarza (16):** Fra49 (S9), Brodator (S10), MaxEvasion (S11), hazel_doe (S11), BardMain2 (S11), lexicuhl (S11), IyaIsMad (S11), lexicuhl (S12), JoshC2 (S12), DJoee (S12), ohh_lia (S13), pigghetti (S13), Lucarrio (S14), Gorgerous (S14), Aybel (S14), TheSlimeBrother (S14)
 
-**9th - TheSlimeBrother (15):** Rebelghost (S7), nFang (S7), BardMain2 (S7), ColdBac (S9), SiahStone (S9), JaeHasNoMaidens (S10), Bluests (S10), TalonBX (S11), ShyGus (S11), Awticon (S11), _Fost_ (S11), DJoee (S15), Flohp (S15), Kaismartypants (S18), DripGodDavid (S18)
+**9th - TheSlimeBrother (15):** Rebelghost (S7), nFang (S7), BardMain2 (S7), ColdBac (S9), SiahStone (S9), commitstaxfraud (S10), Bluests (S10), TalonBX (S11), ShyGus (S11), Awticon (S11), _Fost_ (S11), DJoee (S15), Flohp (S15), Kaismartypants (S18), DripGodDavid (S18)
 
 **10th - MaxEvasion (13):** Zahkari (S6), Psykl0ne (S7), Andronify (S8), JoshC2 (S9), FrostBros (S9), DJoee (S9), jommyappleseed (S10), DJoee (S10), Psykl0ne (S10), Lighte (S10), NotMyLights (S11), Cyonal (S12), IceshardEleven (S12)
 
@@ -339,13 +339,13 @@
 
 **12th - benidk (11):** PresidentFleb (S12), Kaismartypants (S12), PoofessorP (S12), Broseph (S12), TheSlimeBrother (S12), MajorWoof (S14), ERHDude (S16), natsuvi (S16), Bornyo (S16), Brodator (S17), YellowVitt (S18)
 
+**13th - AsianCheatCode (10):** Normoh (S14), Broseph (S15), Aybel (S16), DJoee (S16), cherryblawsom (S16), ColdBac (S16), AHSOKATANOSTAN (S16), Gorgerous (S16), benidk (S16), gartbak (S17)
+
 **13th - Aybel (10):** AHSOKATANOSTAN (S11), Kaismartypants (S11), MajorWoof (S12), Brodator (S12), Lighte (S12), Karliffu (S12), strategy (S13), Broseph (S13), _Fost_ (S13), Dj8ninja (S14)
 
 **13th - hazel_doe (10):** Digdude (S7), Kaismartypants (S8), ghostblurr (S8), Bornyo (S8), MaxEvasion (S8), Pelycosaur (S8), ThePeridotKnight (S10), frogsella (S10), Fra49 (S10), JoshC2 (S10)
 
-**13th - RqDix (10):** Normoh (S14), Broseph (S15), Aybel (S16), DJoee (S16), cherryblawsom (S16), ColdBac (S16), AHSOKATANOSTAN (S16), Gorgerous (S16), benidk (S16), gartbak (S17)
-
-**16th - alexnv (9):** natsuvi (S14), Bornyo (S14), IyaIsMad (S14), RqDix (S14), strategy (S14), _carn (S17), TheSlimeBrother (S18), MCmattFTW (S18), CommanderK22_ (S18)
+**16th - alexnv (9):** natsuvi (S14), Bornyo (S14), IyaIsMad (S14), AsianCheatCode (S14), strategy (S14), _carn (S17), TheSlimeBrother (S18), MCmattFTW (S18), CommanderK22_ (S18)
 
 **16th - ColdBac (9):** turtlesrcool27 (S10), Drkrai (S11), Charrlottie (S13), Brodator (S13), AHSOKATANOSTAN (S13), Glarza (S13), Rebelghost (S14), AHSOKATANOSTAN (S14), NotMyLights (S15)
 
@@ -361,7 +361,7 @@
 
 **21st - Karliffu (7):** TheSlimeBrother (S9), Normoh (S9), pigghetti (S9), Jordtim (S9), SiahStone (S12), cherryblawsom (S12), Aybel (S12)
 
-**21st - SoulRawr (7):** JaeHasNoMaidens (S3), TonyEatWorld (S3), JustNolan (S3), JahMuis (S3), Lighte (S9), Gorgerous (S9), hazel_doe (S9)
+**21st - SoulRawr (7):** commitstaxfraud (S3), TonyEatWorld (S3), JustNolan (S3), JahMuis (S3), Lighte (S9), Gorgerous (S9), hazel_doe (S9)
 
 **25th - _Dieter (6):** Rohcket (S11), Psykl0ne (S11), Dj8ninja (S11), Brodator (S11), Aybel (S11), vynil (S11)
 
@@ -385,7 +385,7 @@
 
 **30th - PresidentFleb (5):** Jordtim (S8), Brodator (S9), Glarza (S9), Thimburrr (S14), Normoh (S18)
 
-**30th - wizarde (5):** Charrlottie (S17), Glarza (S17), _Fost_ (S17), RqDix (S17), dahii (S18)
+**30th - wizarde (5):** Charrlottie (S17), Glarza (S17), _Fost_ (S17), AsianCheatCode (S17), dahii (S18)
 
 **37th - _Fost_ (4):** Karliffu (S11), Glarza (S11), SharkeyJaws (S12), Rebelghost (S17)
 
@@ -405,7 +405,7 @@
 
 **37th - ohh_lia (4):** Codwhy (S14), _Fost_ (S14), alexnv (S14), Brodator (S14)
 
-**37th - SmoothieGod (4):** SharkeyJaws (S3), Lucityy (S4), JaeHasNoMaidens (S4), Bornyo (S4)
+**37th - SmoothieGod (4):** SharkeyJaws (S3), Lucityy (S4), commitstaxfraud (S4), Bornyo (S4)
 
 **37th - strategy (4):** Centrios (S14), azoof (S14), MajorWoof (S16), TheSlimeBrother (S17)
 
@@ -415,7 +415,7 @@
 
 **48th - DaMobFTW (3):** lilygant (S1), BardMain2 (S1), BardMain2 (S2)
 
-**48th - Fcrm (3):** ColdBac (S18), wizarde (S18), RqDix (S18)
+**48th - Fcrm (3):** ColdBac (S18), wizarde (S18), AsianCheatCode (S18)
 
 **48th - frogsella (3):** Bornyo (S2), AlolanJames (S4), BreakfastBacon (S4)
 
@@ -423,7 +423,7 @@
 
 **48th - MCmattFTW (3):** Geroot (S1), PoofessorP (S1), BardMain2 (S3)
 
-**48th - natsuvi (3):** Psykl0ne (S6), JaeHasNoMaidens (S6), Brodator (S16)
+**48th - natsuvi (3):** Psykl0ne (S6), commitstaxfraud (S6), Brodator (S16)
 
 **48th - nsket (3):** JoshC2 (S14), Fra49 (S14), Flohp (S14)
 
@@ -437,15 +437,15 @@
 
 **60th - ChainingVermin2 (2):** Brodator (S15), benidk (S17)
 
+**60th - commitstaxfraud (2):** Broseph (S4), BardMain2 (S10)
+
 **60th - David63 (2):** Broseph (S10), Gorgerous (S10)
 
 **60th - Espik (2):** EmnossGoalz (S9), PresidentFleb (S9)
 
-**60th - Geroot (2):** Zahkari (S1), JaeHasNoMaidens (S1)
+**60th - Geroot (2):** Zahkari (S1), commitstaxfraud (S1)
 
 **60th - guccibulletvest (2):** nh177O13 (S2), DaMobFTW (S2)
-
-**60th - JaeHasNoMaidens (2):** Broseph (S4), BardMain2 (S10)
 
 **60th - jommyappleseed (2):** Dj8ninja (S10), AmbientDan (S10)
 
@@ -495,7 +495,7 @@
 
 **79th - OOGAABOOGA3 (1):** Brodator (S18)
 
-**79th - Pelycosaur (1):** JaeHasNoMaidens (S7)
+**79th - Pelycosaur (1):** commitstaxfraud (S7)
 
 **79th - PoofessorP (1):** honestlyhunter (S3)
 
@@ -510,7 +510,7 @@
 
 **Creeper (6):** Bornyo (S1), guccibulletvest (S3), BBR_ (S3), PedroLeGamer (S5), PedroLeGamer (S6), Fra49 (S16)
 
-**Fall (6):** TooEmo (S1), CountryCutie (S3), Bornyo (S3), natsuvi (S13), RqDix (S15), Lighte (S18)
+**Fall (6):** TooEmo (S1), CountryCutie (S3), Bornyo (S3), natsuvi (S13), AsianCheatCode (S15), Lighte (S18)
 
 **Lava (5):** NotMyLights (S1), JoshC2 (S3), PedroLeGamer (S4), Cqson (S9), MCmattFTW (S15)
 
@@ -547,11 +547,11 @@
 
 **8 Seasons (3):** vynil (S5-S7,S11-S13,S17-S18), Gorgerous (S9-S10,S12-S17), benidk (S11-S18)
 
-**7 Seasons (6):** JaeHasNoMaidens (S1,S3-S4,S6-S7,S10,S16), MaxEvasion (S6-S12), natsuvi (S6,S12-S17), pigghetti (S6,S8-S11,S13-S14), _Fost_ (S7-S8,S11-S14,S17), Karliffu (S9-S12,S15,S17-S18)
+**7 Seasons (6):** commitstaxfraud (S1,S3-S4,S6-S7,S10,S16), MaxEvasion (S6-S12), natsuvi (S6,S12-S17), pigghetti (S6,S8-S11,S13-S14), _Fost_ (S7-S8,S11-S14,S17), Karliffu (S9-S12,S15,S17-S18)
 
 **6 Seasons (6):** MCmattFTW (S1-S3,S15,S17-S18), NotMyLights (S1,S10-S12,S14-S15), Zahkari (S1,S3-S4,S6-S7,S10), Bluests (S2-S3,S6,S10,S13-S14), Aybel (S11-S16), strategy (S13-S18)
 
-**5 Seasons (6):** PoofessorP (S1-S4,S12), frogsella (S2-S4,S8,S10), SharkeyJaws (S3,S5,S7,S12,S18), hazel_doe (S7-S11), _carn (S13,S15-S18), RqDix (S14-S18)
+**5 Seasons (6):** PoofessorP (S1-S4,S12), frogsella (S2-S4,S8,S10), SharkeyJaws (S3,S5,S7,S12,S18), hazel_doe (S7-S11), _carn (S13,S15-S18), AsianCheatCode (S14-S18)
 
 **4 Seasons (13):** lilygant (S1-S3,S6), Thimburrr (S3-S4,S12,S14), IyaIsMad (S4,S11,S14-S15), Cyonal (S5,S8,S12-S13), CHAINGE (S6-S8,S15), ERHDude (S6-S7,S9,S16), Andronify (S7-S8,S16-S17), Jordtim (S8-S11), turtlesrcool27 (S9-S10,S13,S15), lexicuhl (S11-S14), ohh_lia (S13-S14,S16-S17), alexnv (S14,S16-S18), wizarde (S15-S18)
 
@@ -564,7 +564,7 @@
 ---
 ### Debutants
 
-**S1 (16):** AHSOKATANOSTAN, BardMain2, Bornyo, Broseph, DaMobFTW, Geroot, HeyImGrace23, IzunaLoli, JaeHasNoMaidens, JoshC2, lilygant, MCmattFTW, NotMyLights, PoofessorP, TooEmo, Zahkari
+**S1 (16):** AHSOKATANOSTAN, BardMain2, Bornyo, Broseph, commitstaxfraud, DaMobFTW, Geroot, HeyImGrace23, IzunaLoli, JoshC2, lilygant, MCmattFTW, NotMyLights, PoofessorP, TooEmo, Zahkari
 
 **S2 (12):** Bluests, Blurrr_, EmnossGoalz, Envified_, frogsella, guccibulletvest, ItsPqnda, Kaismartypants, nh177O13, TPolls, xCindeR_, zJustinnn
 
@@ -590,7 +590,7 @@
 
 **S13 (3):** _carn, ohh_lia, strategy
 
-**S14 (8):** alexnv, Centrios, Flohp, Lucarrio, nsket, RqDix, tagggz, ToontownOnline
+**S14 (8):** alexnv, AsianCheatCode, Centrios, Flohp, Lucarrio, nsket, tagggz, ToontownOnline
 
 **S15 (3):** ChainingVermin2, CodeJoshua, wizarde
 

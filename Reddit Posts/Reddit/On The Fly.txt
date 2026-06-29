@@ -13,7 +13,7 @@
 
 **S5: natsuvi (8)**
 
-**S6: Fcrm (7), RqDix (2), Zaiki (4)**, *ethodog (0), wizarde (0)*
+**S6: AsianCheatCode (2), Fcrm (7), Zaiki (4)**, *ethodog (0), wizarde (0)*
 
 ---
 ### Runner Ups
@@ -58,7 +58,7 @@
 
 **S5:** N/A
 
-**S6:** ethodog (0), Fcrm (7), RqDix (2), wizarde (0), Zaiki (4)
+**S6:** ethodog (0), Fcrm (7), AsianCheatCode (2), wizarde (0), Zaiki (4)
 
 ---
 ### First Damage
@@ -127,7 +127,7 @@
 
 **2nd - Fcrm (11):** Brodator (S3), Phoraxe (S3), CHAINGE (S4), milkteaboards (S5), benidk (S6), Kelawesome (S6), Caydone (S6), omchris (S6), DJoee (S6), xCand (S6), vynil (S6)
 
-**3rd - Kelawesome (10):** spoocS_ (S1), Vernium (S5), Glarza (S5), pigghetti (S5), RqDix (S5), _ChrisMS (S5), Stravilight (S5), SpaceFenix (S5), swishduck (S6), nug17 (S6)
+**3rd - Kelawesome (10):** spoocS_ (S1), Vernium (S5), Glarza (S5), pigghetti (S5), AsianCheatCode (S5), _ChrisMS (S5), Stravilight (S5), SpaceFenix (S5), swishduck (S6), nug17 (S6)
 
 **4th - ItsColinn (9):** SoupestGlobe (S1), ShyGus (S2), natsuvi (S2), Fcrm (S2), Coward (S2), Kiinako_ (S2), Fcrm (S3), Normoh (S5), SiahStone (S6)
 
@@ -165,19 +165,21 @@
 
 **21st - brinkwhy (3):** 4EyedSlime (S3), ghostblurr (S4), cherryblawsom (S6)
 
-**21st - NajaOxiana (3):** Sorvent (S2), CocoBenja (S2), cynnamon (S2)
+**21st - illuminaja (3):** Sorvent (S2), CocoBenja (S2), cynnamon (S2)
 
 **21st - PoofessorP (3):** DevoyTTV (S2), jakeyx3 (S2), Lighte (S2)
 
 **21st - Ryfri (3):** xCand (S5), HigmanFreud (S5), Normoh (S6)
 
-**21st - SiahStone (3):** NajaOxiana (S2), Microus (S2), FrostBros (S2)
+**21st - SiahStone (3):** illuminaja (S2), Microus (S2), FrostBros (S2)
 
 **21st - Valnius (3):** acadiangel (S3), strategy (S4), swishduck (S4)
 
 **21st - ZachMcD (3):** 4EyedSlime (S2), Bofishkix (S2), wizarde (S4)
 
 **28th - _carn (2):** OhMatias (S6), Microus (S6)
+
+**28th - AsianCheatCode (2):** MaxEvasion (S6), Austronomical (S6)
 
 **28th - benidk (2):** Ryfri (S6), Glarza (S6)
 
@@ -191,7 +193,7 @@
 
 **28th - honestlyhunter (2):** ZachMcD (S2), Rebelghost (S3)
 
-**28th - jakeyx3 (2):** xCand (S2), RqDix (S4)
+**28th - jakeyx3 (2):** xCand (S2), AsianCheatCode (S4)
 
 **28th - Jollymelon111 (2):** NickPlaysGames15 (S6), Spongey (S6)
 
@@ -206,8 +208,6 @@
 **28th - Ozzyowo (2):** Pelycosaur (S3), Codwhy (S3)
 
 **28th - Phoraxe (2):** CipherKai (S3), brinkwhy (S3)
-
-**28th - RqDix (2):** MaxEvasion (S6), Austronomical (S6)
 
 **28th - vynil (2):** ItsColinn (S6), Greeples (S6)
 
@@ -293,22 +293,22 @@
 
 **4 Seasons (7):** Bofishkix (S1-S3,S5), DevoyTTV (S1-S4), Sorvent (S1-S2,S5-S6), wizarde (S1,S3-S4,S6), _ChrisMS (S2-S3,S5-S6), Kiinako_ (S2-S4,S6), Kaismartypants (S3-S6)
 
-**3 Seasons (10):** Kelawesome (S1,S5-S6), Brodator (S2-S3,S5), jakeyx3 (S2-S4), ZachMcD (S2-S4), HigmanFreud (S3-S5), Pelycosaur (S3-S5), CHAINGE (S4-S6), Glarza (S4-S6), RqDix (S4-S6), Stravilight (S4-S6)
+**3 Seasons (10):** Kelawesome (S1,S5-S6), Brodator (S2-S3,S5), jakeyx3 (S2-S4), ZachMcD (S2-S4), HigmanFreud (S3-S5), Pelycosaur (S3-S5), AsianCheatCode (S4-S6), CHAINGE (S4-S6), Glarza (S4-S6), Stravilight (S4-S6)
 
 **2 Seasons (33):** Digdude (S1,S4), JamestheDouglas (S1,S3), PoofessorP (S1-S2), 4EyedSlime (S2-S3), Brocko (S2-S3), Broseph (S2,S4), CocoBenja (S2-S3), eliexists (S2-S3), honestlyhunter (S2-S3), Jorgeeay (S2-S3), mekolame (S2-S3), Microus (S2,S6), natsuvi (S2,S5), nFang (S2-S3), nsket (S2-S3), SiahStone (S2,S6), braidenOW (S3,S6), olivieh (S3,S6), Ozzyowo (S3,S6), ToontownOnline (S3,S6), Valnius (S3-S4), _Dieter (S4,S6), Caydone (S4,S6), ghostblurr (S4-S5), ImChile (S4-S5), MaxEvasion (S4,S6), omchris (S4,S6), poWpaH (S4-S5), SpaceFenix (S4-S5), strategy (S4,S6), swishduck (S4,S6), _Fost_ (S5-S6), Ryfri (S5-S6)
 
-**1 Season (67):** ERHDude (S1), fruitberries (S1), hueLinkk (S1), Lucaslyoko (S1), PauloSSB (S1), RazorAgentB (S1), SoupestGlobe (S1), spoocS_ (S1), Thimburrr (S1), Wilsonkong (S1), Yveltql (S1), Coward (S2), cynnamon (S2), FrostBros (S2), Hoookey (S2), KlutzySphere (S2), Lighte (S2), NajaOxiana (S2), PenguinBagels (S2), Psykl0ne (S2), ShyGus (S2), acadiangel (S3), Bluests (S3), ChainingVermin2 (S3), Codwhy (S3), izunai (S3), marcusmtm (S3), Phoraxe (S3), PotaTomas (S3), Rebelghost (S3), ronanci (S3), SummerBqsh (S3), xRosss (S3), Andronify (S4), PresidentFleb (S4), AnUncreativeCat (S5), chloesad (S5), Hacn35 (S5), milkteaboards (S5), pigghetti (S5), Vernium (S5), WillBrisk (S5), _carn (S6), aalaan (S6), Arich (S6), Austronomical (S6), Aybel (S6), benidk (S6), Bornyo (S6), Bulbexe (S6), Charrlottie (S6), Cyndic (S6), Digitale (S6), DJoee (S6), ethodog (S6), Greeples (S6), Hecticity (S6), Jollymelon111 (S6), Laqqy (S6), NickPlaysGames15 (S6), nug17 (S6), OhMatias (S6), Spongey (S6), TehBaconBrawlerZ (S6), vynil (S6), WackoFlipper (S6), Zaiki (S6)
+**1 Season (67):** ERHDude (S1), fruitberries (S1), hueLinkk (S1), Lucaslyoko (S1), PauloSSB (S1), RazorAgentB (S1), SoupestGlobe (S1), spoocS_ (S1), Thimburrr (S1), Wilsonkong (S1), Yveltql (S1), Coward (S2), cynnamon (S2), FrostBros (S2), Hoookey (S2), illuminaja (S2), KlutzySphere (S2), Lighte (S2), PenguinBagels (S2), Psykl0ne (S2), ShyGus (S2), acadiangel (S3), Bluests (S3), ChainingVermin2 (S3), Codwhy (S3), izunai (S3), marcusmtm (S3), Phoraxe (S3), PotaTomas (S3), Rebelghost (S3), ronanci (S3), SummerBqsh (S3), xRosss (S3), Andronify (S4), PresidentFleb (S4), AnUncreativeCat (S5), chloesad (S5), Hacn35 (S5), milkteaboards (S5), pigghetti (S5), Vernium (S5), WillBrisk (S5), _carn (S6), aalaan (S6), Arich (S6), Austronomical (S6), Aybel (S6), benidk (S6), Bornyo (S6), Bulbexe (S6), Charrlottie (S6), Cyndic (S6), Digitale (S6), DJoee (S6), ethodog (S6), Greeples (S6), Hecticity (S6), Jollymelon111 (S6), Laqqy (S6), NickPlaysGames15 (S6), nug17 (S6), OhMatias (S6), Spongey (S6), TehBaconBrawlerZ (S6), vynil (S6), WackoFlipper (S6), Zaiki (S6)
 
 ---
 ### Debutants
 
 **S1 (24):** Bofishkix, cherryblawsom, CipherKai, DevoyTTV, Digdude, ERHDude, fruitberries, hueLinkk, ItsColinn, JamestheDouglas, Kelawesome, Lucaslyoko, Normoh, PauloSSB, PoofessorP, RazorAgentB, Sorvent, SoupestGlobe, spoocS_, Thimburrr, Wilsonkong, wizarde, xCand, Yveltql
 
-**S2 (30):** _ChrisMS, 4EyedSlime, brinkwhy, Brocko, Brodator, Broseph, CocoBenja, Coward, cynnamon, eliexists, Fcrm, FrostBros, honestlyhunter, Hoookey, jakeyx3, Jorgeeay, Kiinako_, KlutzySphere, Lighte, mekolame, Microus, NajaOxiana, natsuvi, nFang, nsket, PenguinBagels, Psykl0ne, ShyGus, SiahStone, ZachMcD
+**S2 (30):** _ChrisMS, 4EyedSlime, brinkwhy, Brocko, Brodator, Broseph, CocoBenja, Coward, cynnamon, eliexists, Fcrm, FrostBros, honestlyhunter, Hoookey, illuminaja, jakeyx3, Jorgeeay, Kiinako_, KlutzySphere, Lighte, mekolame, Microus, natsuvi, nFang, nsket, PenguinBagels, Psykl0ne, ShyGus, SiahStone, ZachMcD
 
 **S3 (20):** acadiangel, Bluests, braidenOW, ChainingVermin2, Codwhy, HigmanFreud, izunai, Kaismartypants, marcusmtm, olivieh, Ozzyowo, Pelycosaur, Phoraxe, PotaTomas, Rebelghost, ronanci, SummerBqsh, ToontownOnline, Valnius, xRosss
 
-**S4 (16):** _Dieter, Andronify, Caydone, CHAINGE, ghostblurr, Glarza, ImChile, MaxEvasion, omchris, poWpaH, PresidentFleb, RqDix, SpaceFenix, strategy, Stravilight, swishduck
+**S4 (16):** _Dieter, Andronify, AsianCheatCode, Caydone, CHAINGE, ghostblurr, Glarza, ImChile, MaxEvasion, omchris, poWpaH, PresidentFleb, SpaceFenix, strategy, Stravilight, swishduck
 
 **S5 (9):** _Fost_, AnUncreativeCat, chloesad, Hacn35, milkteaboards, pigghetti, Ryfri, Vernium, WillBrisk
 

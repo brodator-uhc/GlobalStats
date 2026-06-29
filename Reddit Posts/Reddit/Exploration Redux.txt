@@ -11,6 +11,8 @@
 
 **S4: Caydone (3), Flcnt (4)**
 
+**S5: AsianCheatCode (3), DevoyTTV (3), YellowVitt (2)**, *ChainingVermin2 (3)*
+
 ---
 ### Runner Ups
 
@@ -21,6 +23,8 @@
 **S3:** _1mmortal_ (1), Blarkslol (2), ProGirlGamer (1)
 
 **S4:** natsuvi (3), ShootingGoats (2)
+
+**S5:** ArcticSeagull (1), Flcnt (1), Kelawesome (3), wizarde (3)
 
 ---
 ### Most Kills
@@ -33,6 +37,8 @@
 
 **S4:** Flcnt, marcusmtm (4)
 
+**S5:** AsianCheatCode, ChainingVermin2, DevoyTTV, Kelawesome, wizarde (3)
+
 ---
 ### Most Kills (Team)
 
@@ -43,6 +49,8 @@
 **S3:** CommanderK22_ (4), DJoee (6), Nuclearsugar (1)
 
 **S4:** Caydone (3), Flcnt (4)
+
+**S5:** ChainingVermin2 (3), DevoyTTV (3), AsianCheatCode (3), YellowVitt (2)
 
 ---
 ### First Damage
@@ -55,6 +63,8 @@
 
 **S4:** DJoee (0:0:40)
 
+**S5:** TalonBX (0:2:1)
+
 ---
 ### Ironman
 
@@ -65,6 +75,8 @@
 **S3:** Rohcket (1:41:58)
 
 **S4:** Nuclearsugar (1:44:30)
+
+**S5:** CrowJRC (1:47:5)
 
 ---
 ### First Blood
@@ -77,6 +89,8 @@
 
 **S4:** Zakkeagle (ItsColinn)
 
+**S5:** ItsColinn (Caydone)
+
 ---
 ### First Death
 
@@ -88,92 +102,116 @@
 
 **S4:** ItsColinn (Zakkeagle)
 
+**S5:** Hecticity (Bogged)
+
 ---
 ### Kills
 
-**1st - Fcrm (13):** 4EyedSlime (S1), Prisma (S1), kirbey (S1), ProGirlGamer (S1), FrostBros (S1), BatMan_1814 (S1), Charrlottie (S1), marcusmtm (S1), Gorgerous (S3), Charrlottie (S3), Nuclearsugar (S3), Rebelghost (S4), CAMKART100 (S4)
+**1st - Fcrm (14):** 4EyedSlime (S1), Prisma (S1), kirbey (S1), ProGirlGamer (S1), FrostBros (S1), BatMan_1814 (S1), Charrlottie (S1), marcusmtm (S1), Gorgerous (S3), Charrlottie (S3), Nuclearsugar (S3), Rebelghost (S4), CAMKART100 (S4), ArcticSeagull (S5)
 
-**2nd - TheSlimeBrother (11):** GoldenNs (S1), JustNolan (S1), YellowVitt (S1), SpaceFenix (S1), Hardkour (S1), ItsColinn (S1), zac083 (S2), SpaceFenix (S3), CAMKART100 (S3), 4EyedSlime (S3), ShootingGoats (S4)
+**2nd - TheSlimeBrother (12):** GoldenNs (S1), JustNolan (S1), YellowVitt (S1), SpaceFenix (S1), Hardkour (S1), ItsColinn (S1), zac083 (S2), SpaceFenix (S3), CAMKART100 (S3), 4EyedSlime (S3), ShootingGoats (S4), Kelawesome (S5)
 
-**3rd - DJoee (8):** TheSlimeBrother (S2), YellowVitt (S3), Flcnt (S3), Plushy33 (S3), Rohcket (S3), JaqOnCraq (S3), ItsColinn (S3), RqDix (S4)
+**3rd - DJoee (10):** TheSlimeBrother (S2), YellowVitt (S3), Flcnt (S3), Plushy33 (S3), Rohcket (S3), JaqOnCraq (S3), ItsColinn (S3), AsianCheatCode (S4), SpaceFenix (S5), natsuvi (S5)
 
-**3rd - Hecticity (8):** ProGirlGamer (S2), centraleric (S2), Plushy33 (S2), Glarza (S2), RqDix (S3), JustNolan (S3), ZebraPantz (S4), Nuclearsugar (S4)
+**3rd - Kelawesome (10):** Ullti (S3), ShootingGoats (S3), Caydone (S3), zac083 (S3), ArcticSeagull (S3), Sharkbob94349 (S4), FrostBros (S4), ZebraPantz (S5), Fcrm (S5), TheSlimeBrother (S5)
 
-**5th - Kelawesome (7):** Ullti (S3), ShootingGoats (S3), Caydone (S3), zac083 (S3), ArcticSeagull (S3), Sharkbob94349 (S4), FrostBros (S4)
+**5th - Hecticity (8):** ProGirlGamer (S2), centraleric (S2), Plushy33 (S2), Glarza (S2), AsianCheatCode (S3), JustNolan (S3), ZebraPantz (S4), Nuclearsugar (S4)
 
 **6th - _1mmortal_ (6):** Brodator (S2), Flcnt (S2), JaqOnCraq (S2), wizarde (S2), Greeples (S3), stupidgirltv (S4)
 
-**7th - Blarkslol (5):** DJoee (S2), FrostBros (S2), YellowVitt (S2), FrostBros (S3), TheSlimeBrother (S3)
+**6th - Blarkslol (6):** DJoee (S2), FrostBros (S2), YellowVitt (S2), FrostBros (S3), TheSlimeBrother (S3), ChainingVermin2 (S5)
 
-**7th - Flcnt (5):** DJoee (S1), TehBaconBrawlerZ (S4), Charrlottie (S4), DJoee (S4), marcusmtm (S4)
+**6th - Flcnt (6):** DJoee (S1), TehBaconBrawlerZ (S4), Charrlottie (S4), DJoee (S4), marcusmtm (S4), illuminaja (S5)
 
-**7th - Plushy33 (5):** Ullti (S1), Flcnt (S1), Sorvent (S2), ethodog (S2), Ullti (S2)
+**9th - JustNolan (5):** Kaddyn (S1), _1mmortal_ (S2), Hecticity (S2), _1mmortal_ (S3), chugmitchell (S5)
 
-**10th - CAMKART100 (4):** 4EyedSlime (S2), centraleric (S3), natsuvi (S3), Ullti (S4)
+**9th - Plushy33 (5):** Ullti (S1), Flcnt (S1), Sorvent (S2), ethodog (S2), Ullti (S2)
 
-**10th - Caydone (4):** Nuclearsugar (S2), MaxEvasion (S4), MajorWoof (S4), natsuvi (S4)
+**11th - CAMKART100 (4):** 4EyedSlime (S2), centraleric (S3), natsuvi (S3), Ullti (S4)
 
-**10th - CommanderK22_ (4):** MaxEvasion (S3), ProGirlGamer (S3), wizarde (S3), Blarkslol (S3)
+**11th - Caydone (4):** Nuclearsugar (S2), MaxEvasion (S4), MajorWoof (S4), natsuvi (S4)
 
-**10th - JustNolan (4):** Kaddyn (S1), _1mmortal_ (S2), Hecticity (S2), _1mmortal_ (S3)
+**11th - CommanderK22_ (4):** MaxEvasion (S3), ProGirlGamer (S3), wizarde (S3), Blarkslol (S3)
 
-**10th - marcusmtm (4):** Kelawesome (S4), _1mmortal_ (S4), Gorgerous (S4), Hecticity (S4)
+**11th - JaqOnCraq (4):** Sharkbob94349 (S2), ShootingGoats (S2), ItsColinn (S5), Normoh (S5)
 
-**10th - MaxEvasion (4):** Fcrm (S2), Kelawesome (S3), 4EyedSlime (S4), SpaceFenix (S4)
+**11th - marcusmtm (4):** Kelawesome (S4), _1mmortal_ (S4), Gorgerous (S4), Hecticity (S4)
 
-**16th - FrostBros (3):** MaxEvasion (S2), Caydone (S2), TalonBX (S4)
+**11th - MaxEvasion (4):** Fcrm (S2), Kelawesome (S3), 4EyedSlime (S4), SpaceFenix (S4)
 
-**16th - natsuvi (3):** automavic (S4), JaqOnCraq (S4), TheSlimeBrother (S4)
+**11th - natsuvi (4):** automavic (S4), JaqOnCraq (S4), TheSlimeBrother (S4), ShootingGoats (S5)
 
-**16th - ZebraPantz (3):** ItsColinn (S2), BatMan_1814 (S2), chugmitchell (S4)
+**11th - YellowVitt (4):** InsertDotJpeg (S2), DevoyTTV (S2), Iplayball (S5), DJoee (S5)
 
-**19th - Glarza (2):** kirbey (S2), ZebraPantz (S2)
+**11th - ZebraPantz (4):** ItsColinn (S2), BatMan_1814 (S2), chugmitchell (S4), Flcnt (S5)
 
-**19th - JaqOnCraq (2):** Sharkbob94349 (S2), ShootingGoats (S2)
+**20th - AsianCheatCode (3):** ProGirlGamer (S5), Nuclearsugar (S5), wizarde (S5)
 
-**19th - Nuclearsugar (2):** Plushy33 (S1), kirbey (S3)
+**20th - ChainingVermin2 (3):** FrostBros (S5), TalonBX (S5), CommanderK22_ (S5)
 
-**19th - ShootingGoats (2):** Fcrm (S4), Maxwellfifty (S4)
+**20th - DevoyTTV (3):** Greeples (S5), CrowJRC (S5), Blarkslol (S5)
 
-**19th - TehBaconBrawlerZ (2):** Normoh (S4), Blarkslol (S4)
+**20th - FrostBros (3):** MaxEvasion (S2), Caydone (S2), TalonBX (S4)
 
-**19th - YellowVitt (2):** InsertDotJpeg (S2), DevoyTTV (S2)
+**20th - Glarza (3):** kirbey (S2), ZebraPantz (S2), DarrenBGP (S5)
 
-**25th - 4EyedSlime (1):** Fcrm (S3)
+**20th - wizarde (3):** Glarza (S5), MaxEvasion (S5), 4EyedSlime (S5)
 
-**25th - centraleric (1):** ArcticSeagull (S2)
+**26th - ItsColinn (2):** Andronify (S3), Caydone (S5)
 
-**25th - Hardkour (1):** Nuclearsugar (S1)
+**26th - Normoh (2):** JustNolan (S5), Broseph (S5)
 
-**25th - ItsColinn (1):** Andronify (S3)
+**26th - Nuclearsugar (2):** Plushy33 (S1), kirbey (S3)
 
-**25th - MajorWoof (1):** YellowVitt (S4)
+**26th - ShootingGoats (2):** Fcrm (S4), Maxwellfifty (S4)
 
-**25th - ProGirlGamer (1):** Hecticity (S3)
+**26th - TehBaconBrawlerZ (2):** Normoh (S4), Blarkslol (S4)
 
-**25th - stupidgirltv (1):** Zakkeagle (S4)
+**31st - 4EyedSlime (1):** Fcrm (S3)
 
-**25th - TalonBX (1):** Greeples (S4)
+**31st - ArcticSeagull (1):** ItzBeeZ (S5)
 
-**25th - Ullti (1):** CAMKART100 (S2)
+**31st - centraleric (1):** ArcticSeagull (S2)
 
-**25th - Zakkeagle (1):** ItsColinn (S4)
+**31st - chugmitchell (1):** PresidentFleb (S5)
+
+**31st - CrowJRC (1):** Maxwellfifty (S5)
+
+**31st - Hardkour (1):** Nuclearsugar (S1)
+
+**31st - MajorWoof (1):** YellowVitt (S4)
+
+**31st - ProGirlGamer (1):** Hecticity (S3)
+
+**31st - stupidgirltv (1):** Zakkeagle (S4)
+
+**31st - TalonBX (1):** Greeples (S4)
+
+**31st - Ullti (1):** CAMKART100 (S2)
+
+**31st - Zakkeagle (1):** ItsColinn (S4)
 
 ---
 ### PvE Deaths
+
+**Bogged (1):** Hecticity (S5)
+
+**Piglin (1):** JaqOnCraq (S5)
 
 **Skeleton (1):** brocktober (S2)
 
 ---
 ### Participation
 
-**4 Seasons (10):** 4EyedSlime (S1-S4), DJoee (S1-S4), Fcrm (S1-S4), Flcnt (S1-S4), FrostBros (S1-S4), ItsColinn (S1-S4), Nuclearsugar (S1-S4), TheSlimeBrother (S1-S4), Ullti (S1-S4), YellowVitt (S1-S4)
+**5 Seasons (9):** 4EyedSlime (S1-S5), DJoee (S1-S5), Fcrm (S1-S5), Flcnt (S1-S5), FrostBros (S1-S5), ItsColinn (S1-S5), Nuclearsugar (S1-S5), TheSlimeBrother (S1-S5), YellowVitt (S1-S5)
 
-**3 Seasons (14):** Charrlottie (S1,S3-S4), JustNolan (S1-S3), kirbey (S1-S3), Plushy33 (S1-S3), ProGirlGamer (S1-S3), SpaceFenix (S1,S3-S4), _1mmortal_ (S2-S4), Blarkslol (S2-S4), CAMKART100 (S2-S4), Caydone (S2-S4), Hecticity (S2-S4), JaqOnCraq (S2-S4), MaxEvasion (S2-S4), ShootingGoats (S2-S4)
+**4 Seasons (10):** JustNolan (S1-S3,S5), ProGirlGamer (S1-S3,S5), SpaceFenix (S1,S3-S5), Ullti (S1-S4), Blarkslol (S2-S5), Caydone (S2-S5), Hecticity (S2-S5), JaqOnCraq (S2-S5), MaxEvasion (S2-S5), ShootingGoats (S2-S5)
 
-**2 Seasons (13):** BatMan_1814 (S1-S2), marcusmtm (S1,S4), ArcticSeagull (S2-S3), centraleric (S2-S3), Sharkbob94349 (S2,S4), wizarde (S2-S3), zac083 (S2-S3), ZebraPantz (S2,S4), Gorgerous (S3-S4), Greeples (S3-S4), Kelawesome (S3-S4), natsuvi (S3-S4), RqDix (S3-S4)
+**3 Seasons (12):** Charrlottie (S1,S3-S4), kirbey (S1-S3), Plushy33 (S1-S3), _1mmortal_ (S2-S4), ArcticSeagull (S2-S3,S5), CAMKART100 (S2-S4), wizarde (S2-S3,S5), ZebraPantz (S2,S4-S5), AsianCheatCode (S3-S5), Greeples (S3-S5), Kelawesome (S3-S5), natsuvi (S3-S5)
 
-**1 Season (24):** GoldenNs (S1), Hardkour (S1), Kaddyn (S1), Prisma (S1), brocktober (S2), Brodator (S2), DevoyTTV (S2), ethodog (S2), Glarza (S2), InsertDotJpeg (S2), Sorvent (S2), Andronify (S3), CommanderK22_ (S3), Rohcket (S3), automavic (S4), chugmitchell (S4), MajorWoof (S4), Maxwellfifty (S4), Normoh (S4), Rebelghost (S4), stupidgirltv (S4), TalonBX (S4), TehBaconBrawlerZ (S4), Zakkeagle (S4)
+**2 Seasons (13):** BatMan_1814 (S1-S2), marcusmtm (S1,S4), centraleric (S2-S3), DevoyTTV (S2,S5), Glarza (S2,S5), Sharkbob94349 (S2,S4), zac083 (S2-S3), CommanderK22_ (S3,S5), Gorgerous (S3-S4), chugmitchell (S4-S5), Maxwellfifty (S4-S5), Normoh (S4-S5), TalonBX (S4-S5)
+
+**1 Season (25):** GoldenNs (S1), Hardkour (S1), Kaddyn (S1), Prisma (S1), brocktober (S2), Brodator (S2), ethodog (S2), InsertDotJpeg (S2), Sorvent (S2), Andronify (S3), Rohcket (S3), automavic (S4), MajorWoof (S4), Rebelghost (S4), stupidgirltv (S4), TehBaconBrawlerZ (S4), Zakkeagle (S4), Broseph (S5), ChainingVermin2 (S5), CrowJRC (S5), DarrenBGP (S5), illuminaja (S5), Iplayball (S5), ItzBeeZ (S5), PresidentFleb (S5)
 
 ---
 ### Debutants
@@ -182,8 +220,10 @@
 
 **S2 (21):** _1mmortal_, ArcticSeagull, Blarkslol, brocktober, Brodator, CAMKART100, Caydone, centraleric, DevoyTTV, ethodog, Glarza, Hecticity, InsertDotJpeg, JaqOnCraq, MaxEvasion, Sharkbob94349, ShootingGoats, Sorvent, wizarde, zac083, ZebraPantz
 
-**S3 (8):** Andronify, CommanderK22_, Gorgerous, Greeples, Kelawesome, natsuvi, Rohcket, RqDix
+**S3 (8):** Andronify, AsianCheatCode, CommanderK22_, Gorgerous, Greeples, Kelawesome, natsuvi, Rohcket
 
 **S4 (10):** automavic, chugmitchell, MajorWoof, Maxwellfifty, Normoh, Rebelghost, stupidgirltv, TalonBX, TehBaconBrawlerZ, Zakkeagle
+
+**S5 (8):** Broseph, ChainingVermin2, CrowJRC, DarrenBGP, illuminaja, Iplayball, ItzBeeZ, PresidentFleb
 
 ---

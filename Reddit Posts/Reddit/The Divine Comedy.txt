@@ -123,7 +123,7 @@
 ---
 ### Kills
 
-**1st - OnlyCosmia (11):** Kingsy_ (S1), Lucityy (S1), Topspinpiggles (S1), Frostbreath (S2), HiImCC (S2), CarlyRaeJepsen (S2), lottebunny (S2), TheSonicJoey (S2), AxeyGM (S3), rippersteveM5 (S3), BSBrent (S4)
+**1st - OnlyCosmia (11):** JerseyTheDevil (S1), Lucityy (S1), Topspinpiggles (S1), Frostbreath (S2), HiImCC (S2), CarlyRaeJepsen (S2), lottebunny (S2), TheSonicJoey (S2), AxeyGM (S3), rippersteveM5 (S3), BSBrent (S4)
 
 **2nd - Maxwellfifty (10):** SummerBqsh (S1), MistaUnicorn (S1), FazedMC (S2), sirples (S2), Emerric (S2), Slothbeans (S2), Sten_Stone (S3), IsaacMT (S4), PhenomCloud (S4), TheSonicJoey (S4)
 
@@ -175,7 +175,7 @@
 
 **23rd - JamestheDouglas (2):** IsaacMT (S1), Maxwellfifty (S4)
 
-**23rd - MistaUnicorn (2):** Kingsy_ (S2), Lucityy (S2)
+**23rd - MistaUnicorn (2):** JerseyTheDevil (S2), Lucityy (S2)
 
 **28th - _pbo (1):** TheSonicJoey (S5b)
 
@@ -223,14 +223,14 @@
 
 **3 Seasons (10):** FazedMC (S1-S3), HiImCC (S1-S3), IsaacMT (S1,S3-S4), JamestheDouglas (S1-S2,S4), Lucityy (S1-S3), NukedNukem (S1-S3), RwDragon (S1,S3,S5a), sirples (S1-S3), SummerBqsh (S1-S3), flameorb (S4-S5b)
 
-**2 Seasons (16):** Grantonic (S1,S3), jamertxn (S1,S4), Kingsy_ (S1-S2), LegoBeast (S1-S2), SidGarcia (S1-S2), AxeyGM (S2-S3), Bonneh (S2-S3), dango989 (S2,S4), _Frankie (S3-S4), BSBrent (S3-S4), PhenomCloud (S3-S4), wibbol (S4-S5a), _pbo (S5a-S5b), Brodator (S5a-S5b), Captinn (S5a-S5b), Jordtim (S5a-S5b)
+**2 Seasons (16):** Grantonic (S1,S3), jamertxn (S1,S4), JerseyTheDevil (S1-S2), LegoBeast (S1-S2), SidGarcia (S1-S2), AxeyGM (S2-S3), Bonneh (S2-S3), dango989 (S2,S4), _Frankie (S3-S4), BSBrent (S3-S4), PhenomCloud (S3-S4), wibbol (S4-S5a), _pbo (S5a-S5b), Brodator (S5a-S5b), Captinn (S5a-S5b), Jordtim (S5a-S5b)
 
 **1 Season (21):** Ruari (S1), Topspinpiggles (S1), Frostbreath (S2), RedAjayDaBunny (S2), Slothbeans (S2), SoitsSara (S2), SpheaI (S3), vynil (S4), wowjennawow (S4), bandwaqonshaqon (S5a), I_is_cheesecake (S5a), Mikemino321 (S5a), nFang (S5a), Pelycosaur (S5a), Rohcket (S5a), 5hup (S5b), Biwitch (S5b), ColdBac (S5b), Milen (S5b), Phyrrus (S5b), TorinFBF (S5b)
 
 ---
 ### Debutants
 
-**S1 (30):** CarlyRaeJepsen, Chasmic, Emerric, Evader22, FazedMC, GeeSam, Grantonic, HiImCC, IsaacMT, jamertxn, JamestheDouglas, Kingsy_, LegoBeast, lottebunny, Lucityy, Maxwellfifty, MistaUnicorn, NukedNukem, OnlyCosmia, rippersteveM5, Ruari, RwDragon, ShyGus, SidGarcia, sirples, Sten_Stone, SummerBqsh, TheSonicJoey, tilargo, Topspinpiggles
+**S1 (30):** CarlyRaeJepsen, Chasmic, Emerric, Evader22, FazedMC, GeeSam, Grantonic, HiImCC, IsaacMT, jamertxn, JamestheDouglas, JerseyTheDevil, LegoBeast, lottebunny, Lucityy, Maxwellfifty, MistaUnicorn, NukedNukem, OnlyCosmia, rippersteveM5, Ruari, RwDragon, ShyGus, SidGarcia, sirples, Sten_Stone, SummerBqsh, TheSonicJoey, tilargo, Topspinpiggles
 
 **S2 (8):** AxeyGM, Bonneh, dango989, Frostbreath, RedAjayDaBunny, Slothbeans, SoitsSara, VeniiiD
 

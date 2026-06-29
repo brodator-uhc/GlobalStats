@@ -48,7 +48,7 @@
 ---
 ### Ironman
 
-**S1:** JaeHasNoMaidens (1:9:33)
+**S1:** commitstaxfraud (1:9:33)
 
 **S2:** Jahrod (0:57:8)
 
@@ -57,7 +57,7 @@
 ---
 ### First Blood
 
-**S1:** JaeHasNoMaidens (TheBP)
+**S1:** commitstaxfraud (TheBP)
 
 **S2:** MaxEvasion (Brodator)
 
@@ -66,7 +66,7 @@
 ---
 ### First Death
 
-**S1:** TheBP (JaeHasNoMaidens)
+**S1:** TheBP (commitstaxfraud)
 
 **S2:** Brodator (MaxEvasion)
 
@@ -75,7 +75,7 @@
 ---
 ### Kills
 
-**1st - ToucanTom (6):** NajaOxiana (S1), TorinFBF (S2), Markedbooboy (S2), Jahrod (S2), pigghetti (S2), aalaan (S2)
+**1st - ToucanTom (6):** illuminaja (S1), TorinFBF (S2), Markedbooboy (S2), Jahrod (S2), pigghetti (S2), aalaan (S2)
 
 **2nd - PwincessVanessa (5):** wibbol (S1), strategy (S1), Regifloat (S1), Ninjajaja (S1), Greeples (S1)
 
@@ -93,7 +93,7 @@
 
 **6th - pigghetti (2):** Rohcket (S2), Charrlottie (S2)
 
-**6th - strategy (2):** ElGavinoSupremo (S1), JaeHasNoMaidens (S1)
+**6th - strategy (2):** ElGavinoSupremo (S1), commitstaxfraud (S1)
 
 **11th - aalaan (1):** MaxEvasion (S2)
 
@@ -103,9 +103,9 @@
 
 **11th - CodeJoshua (1):** TheSheepMasters (S2)
 
-**11th - Greeples (1):** LordLaelaps (S1)
+**11th - commitstaxfraud (1):** TheBP (S1)
 
-**11th - JaeHasNoMaidens (1):** TheBP (S1)
+**11th - Greeples (1):** LordLaelaps (S1)
 
 **11th - kirbey (1):** Brodator (S3)
 
@@ -123,12 +123,12 @@
 
 **2 Seasons (2):** Greeples (S1,S3), MaxEvasion (S2-S3)
 
-**1 Season (34):** ElGavinoSupremo (S1), JaeHasNoMaidens (S1), LordLaelaps (S1), NajaOxiana (S1), Ninjajaja (S1), PwincessVanessa (S1), Regifloat (S1), strategy (S1), TheBP (S1), wibbol (S1), aalaan (S2), Charrlottie (S2), CodeJoshua (S2), Jahrod (S2), Markedbooboy (S2), pigghetti (S2), Rohcket (S2), TheSheepMasters (S2), TorinFBF (S2), WackoFlipper (S2), _1mmortal_ (S3), acadiangel (S3), centraleric (S3), ChainingVermin2 (S3), cherryblawsom (S3), chloesad (S3), DancersTalon (S3), Karliffu (S3), kirbey (S3), Ninetals38 (S3), omchris (S3), ProGirlGamer (S3), Ryfri (S3), zoeywithawhy (S3)
+**1 Season (34):** commitstaxfraud (S1), ElGavinoSupremo (S1), illuminaja (S1), LordLaelaps (S1), Ninjajaja (S1), PwincessVanessa (S1), Regifloat (S1), strategy (S1), TheBP (S1), wibbol (S1), aalaan (S2), Charrlottie (S2), CodeJoshua (S2), Jahrod (S2), Markedbooboy (S2), pigghetti (S2), Rohcket (S2), TheSheepMasters (S2), TorinFBF (S2), WackoFlipper (S2), _1mmortal_ (S3), acadiangel (S3), centraleric (S3), ChainingVermin2 (S3), cherryblawsom (S3), chloesad (S3), DancersTalon (S3), Karliffu (S3), kirbey (S3), Ninetals38 (S3), omchris (S3), ProGirlGamer (S3), Ryfri (S3), zoeywithawhy (S3)
 
 ---
 ### Debutants
 
-**S1 (13):** Brodator, ElGavinoSupremo, Greeples, JaeHasNoMaidens, LordLaelaps, NajaOxiana, Ninjajaja, PwincessVanessa, Regifloat, strategy, TheBP, ToucanTom, wibbol
+**S1 (13):** Brodator, commitstaxfraud, ElGavinoSupremo, Greeples, illuminaja, LordLaelaps, Ninjajaja, PwincessVanessa, Regifloat, strategy, TheBP, ToucanTom, wibbol
 
 **S2 (11):** aalaan, Charrlottie, CodeJoshua, Jahrod, Markedbooboy, MaxEvasion, pigghetti, Rohcket, TheSheepMasters, TorinFBF, WackoFlipper
 

@@ -16,7 +16,7 @@
 ---
 ### Runner Ups
 
-**S1:** Carbonate_ (2), Fra49 (1), JaeHasNoMaidens (2)
+**S1:** Carbonate_ (2), commitstaxfraud (2), Fra49 (1)
 
 **S2:** Andronify (1), milkpoptart (3)
 
@@ -42,7 +42,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** CipherKai (2), JaqOnCraq (2), JustTiny (1) & Carbonate_ (2), Fra49 (1), JaeHasNoMaidens (2) & MellowYellow253 (2), NeededCheese (0), TheNinjaPenguin_ (3)
+**S1:** CipherKai (2), JaqOnCraq (2), JustTiny (1) & Carbonate_ (2), Fra49 (1), commitstaxfraud (2) & MellowYellow253 (2), NeededCheese (0), TheNinjaPenguin_ (3)
 
 **S2:** CipherKai (4), automavic (2)
 
@@ -109,7 +109,7 @@
 
 **1st - natsuvi (9):** wizarde (S2), Djmandude (S2), Brodator (S2), LoafOZ (S5), CipherKai (S5), _1mmortal_ (S5), azoof (S5), JaqOnCraq (S5), notjustin_ (S5)
 
-**2nd - Andronify (7):** ZebraPantz (S2), TacoDab (S3), Sharkbob94349 (S3), JaeHasNoMaidens (S3), ElTioDodo (S3), Glarza (S5), Brodator (S5)
+**2nd - Andronify (7):** ZebraPantz (S2), TacoDab (S3), Sharkbob94349 (S3), commitstaxfraud (S3), ElTioDodo (S3), Glarza (S5), Brodator (S5)
 
 **2nd - CipherKai (7):** LoafOZ (S1), TonyEatWorld (S1), Diisu (S2), MaxEvasion (S2), Andronify (S2), milkpoptart (S2), DarkySheep (S4)
 
@@ -129,19 +129,19 @@
 
 **10th - Frxnkey (3):** Flouzemaker (S2), nFang (S2), automavic (S2)
 
-**10th - milkpoptart (3):** GeniRCT (S2), JaeHasNoMaidens (S2), krangxd (S2)
+**10th - milkpoptart (3):** GeniRCT (S2), commitstaxfraud (S2), krangxd (S2)
 
 **10th - SiahStone (3):** ZebraPantz (S3), Cooooldude (S4), krangxd (S4)
 
-**10th - TheNinjaPenguin_ (3):** Hairybaby123 (S1), krangxd (S1), JaeHasNoMaidens (S1)
+**10th - TheNinjaPenguin_ (3):** Hairybaby123 (S1), krangxd (S1), commitstaxfraud (S1)
 
 **15th - azoof (2):** ohh_lia (S5), benidk (S5)
 
 **15th - Carbonate_ (2):** Brodator (S1), TheNinjaPenguin_ (S1)
 
-**15th - gctwenty (2):** Rohcket (S4), SiahStone (S4)
+**15th - commitstaxfraud (2):** nFang (S1), MellowYellow253 (S1)
 
-**15th - JaeHasNoMaidens (2):** nFang (S1), MellowYellow253 (S1)
+**15th - gctwenty (2):** Rohcket (S4), SiahStone (S4)
 
 **15th - JaqOnCraq (2):** Fra49 (S1), Carbonate_ (S1)
 
@@ -197,7 +197,7 @@
 
 **4 Seasons (3):** Andronify (S1-S3,S5), CipherKai (S1-S2,S4-S5), natsuvi (S2-S5)
 
-**3 Seasons (9):** DarkySheep (S1-S2,S4), JaeHasNoMaidens (S1-S3), JaqOnCraq (S1,S3,S5), krangxd (S1-S2,S4), Sharkbob94349 (S1,S3-S4), Sneaky26 (S1,S3,S5), TacoDab (S2-S3,S5), ZebraPantz (S2-S3,S5), ElTioDodo (S3-S5)
+**3 Seasons (9):** commitstaxfraud (S1-S3), DarkySheep (S1-S2,S4), JaqOnCraq (S1,S3,S5), krangxd (S1-S2,S4), Sharkbob94349 (S1,S3-S4), Sneaky26 (S1,S3,S5), TacoDab (S2-S3,S5), ZebraPantz (S2-S3,S5), ElTioDodo (S3-S5)
 
 **2 Seasons (13):** Flouzemaker (S1-S2), NeededCheese (S1,S3), nFang (S1-S2), TheNinjaPenguin_ (S1,S3), automavic (S2-S3), Djmandude (S2-S3), MaxEvasion (S2,S4), Rohcket (S3-S4), SiahStone (S3-S4), azoof (S4-S5), Cooooldude (S4-S5), Fcrm (S4-S5), Glarza (S4-S5)
 
@@ -206,7 +206,7 @@
 ---
 ### Debutants
 
-**S1 (24):** Andronify, Brodator, Carbonate_, CipherKai, DarkySheep, DevoyTTV, Flouzemaker, Fra49, Hairybaby123, JaeHasNoMaidens, JaqOnCraq, JustTiny, krangxd, LoafOZ, MellowYellow253, MSI_Pig, NeededCheese, nFang, OneLittleLynx, p1an, Sharkbob94349, Sneaky26, TheNinjaPenguin_, TonyEatWorld
+**S1 (24):** Andronify, Brodator, Carbonate_, CipherKai, commitstaxfraud, DarkySheep, DevoyTTV, Flouzemaker, Fra49, Hairybaby123, JaqOnCraq, JustTiny, krangxd, LoafOZ, MellowYellow253, MSI_Pig, NeededCheese, nFang, OneLittleLynx, p1an, Sharkbob94349, Sneaky26, TheNinjaPenguin_, TonyEatWorld
 
 **S2 (13):** automavic, Bofishkix, Caffeindiazepine, Diisu, Djmandude, Frxnkey, GeniRCT, MaxEvasion, milkpoptart, natsuvi, TacoDab, wizarde, ZebraPantz
 

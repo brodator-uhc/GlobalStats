@@ -9,7 +9,9 @@
 
 **S3: Fcrm (6)**
 
-**S4: _1mmortal_ (5), Fra49 (1)**, *4EyedSlime (1), JaeHasNoMaidens (0), Kaismartypants (0), ShootingGoats (0)*
+**S4: _1mmortal_ (5), Fra49 (1)**, *4EyedSlime (1), commitstaxfraud (0), Kaismartypants (0), ShootingGoats (0)*
+
+**S5: AirInAirOut (3), fruitlogic (4)**
 
 ---
 ### Runner Ups
@@ -22,6 +24,8 @@
 
 **S4:** _carn (2), Brodator (0), Broseph (1), ScaryPumpkinFace (1)
 
+**S5:** cherryblawsom (2), MajorWoof (1)
+
 ---
 ### Most Kills
 
@@ -32,6 +36,8 @@
 **S3:** Fcrm (6)
 
 **S4:** Fcrm (8)
+
+**S5:** fruitlogic (4)
 
 ---
 ### Most Kills (Team)
@@ -44,6 +50,8 @@
 
 **S4:** Fcrm (8)
 
+**S5:** AirInAirOut (3), fruitlogic (4)
+
 ---
 ### First Damage
 
@@ -55,6 +63,8 @@
 
 **S4:** Kaismartypants (0:0:4)
 
+**S5:** Sharkbob94349 (0:1:43)
+
 ---
 ### Ironman
 
@@ -64,7 +74,9 @@
 
 **S3:** MercuryParadox (1:6:16)
 
-**S4:** RqDix (1:3:56)
+**S4:** AsianCheatCode (1:3:56)
+
+**S5:** brinkwhy (1:10:47)
 
 ---
 ### First Blood
@@ -77,6 +89,8 @@
 
 **S4:** Kelawesome (Greeples)
 
+**S5:** SpaceFenix (Gorgerous)
+
 ---
 ### First Death
 
@@ -88,10 +102,12 @@
 
 **S4:** _Fost_ (Skeleton)
 
+**S5:** Vetmire (Zombie)
+
 ---
 ### Kills
 
-**1st - Fcrm (18):** TehBaconBrawlerZ (S1), CipherKai (S1), CipherKai (S1), MercuryParadox (S2), CommanderK22_ (S3), ColdBac (S3), _Dieter (S3), _carn (S3), MercuryParadox (S3), Kaismartypants (S3), RqDix (S4), ScaryPumpkinFace (S4), aalaan (S4), Hecticity (S4), ArcticSeagull (S4), cherryblawsom (S4), MaxEvasion (S4), 4EyedSlime (S4)
+**1st - Fcrm (20):** TehBaconBrawlerZ (S1), CipherKai (S1), CipherKai (S1), MercuryParadox (S2), CommanderK22_ (S3), ColdBac (S3), _Dieter (S3), _carn (S3), MercuryParadox (S3), Kaismartypants (S3), AsianCheatCode (S4), ScaryPumpkinFace (S4), aalaan (S4), Hecticity (S4), ArcticSeagull (S4), cherryblawsom (S4), MaxEvasion (S4), 4EyedSlime (S4), Ullti (S5), MajorWoof (S5)
 
 **2nd - Lighte (10):** Greeples (S1), Codwhy (S1), Fcrm (S1), kirbey (S2), Fra49 (S2), CommanderK22_ (S2), pigghetti (S2), Ninetals38 (S3), broccoliar (S3), wizarde (S3)
 
@@ -105,67 +121,87 @@
 
 **5th - natsuvi (5):** _1mmortal_ (S1), Kaismartypants (S1), Flcnt (S1), pigghetti (S1), Lighte (S1)
 
+**8th - Broseph (4):** CodeJoshua (S4), commitstaxfraud (S5), broccoliar (S5), SpaceFenix (S5)
+
+**8th - fruitlogic (4):** omchris (S5), Brodator (S5), Fcrm (S5), cherryblawsom (S5)
+
 **8th - Kaismartypants (4):** Brodator (S1), ItsMeAR10 (S3), Lighte (S3), _1mmortal_ (S3)
 
-**9th - DJoee (3):** Gorgerous (S2), Kaismartypants (S2), CAMKART100 (S4)
+**8th - ScaryPumpkinFace (4):** DevoyTTV (S2), JustNolan (S4), zoeywithawhy (S5), Sharkbob94349 (S5)
 
-**9th - pigghetti (3):** ScaryPumpkinFace (S2), Flcnt (S2), SiahStone (S2)
+**12th - AirInAirOut (3):** Greeples (S5), brinkwhy (S5), Broseph (S5)
 
-**11th - _carn (2):** Normoh (S4), Fcrm (S4)
+**12th - Bobbytheturtle (3):** Ryfri (S4), broccoliar (S4), ShootingGoats (S5)
 
-**11th - Bobbytheturtle (2):** Ryfri (S4), broccoliar (S4)
+**12th - cherryblawsom (3):** Kaismartypants (S4), MercuryParadox (S5), ScaryPumpkinFace (S5)
 
-**11th - broccoliar (2):** Brodator (S3), ShootingGoats (S4)
+**12th - DJoee (3):** Gorgerous (S2), Kaismartypants (S2), CAMKART100 (S4)
 
-**11th - ChrisCD (2):** JaeHasNoMaidens (S4), DJoee (S4)
+**12th - pigghetti (3):** ScaryPumpkinFace (S2), Flcnt (S2), SiahStone (S2)
 
-**11th - ColdBac (2):** cherryblawsom (S2), MarcC5M (S3)
+**12th - SpaceFenix (3):** Gorgerous (S5), Bobbytheturtle (S5), PresidentFleb (S5)
 
-**11th - Hecticity (2):** wizarde (S4), Broseph (S4)
+**18th - _carn (2):** Normoh (S4), Fcrm (S4)
 
-**11th - Kelawesome (2):** Greeples (S4), Vetmire (S4)
+**18th - broccoliar (2):** Brodator (S3), ShootingGoats (S4)
 
-**11th - ScaryPumpkinFace (2):** DevoyTTV (S2), JustNolan (S4)
+**18th - ChrisCD (2):** commitstaxfraud (S4), DJoee (S4)
 
-**11th - SiahStone (2):** Greeples (S2), _1mmortal_ (S2)
+**18th - ColdBac (2):** cherryblawsom (S2), MarcC5M (S3)
 
-**20th - 4EyedSlime (1):** Bobbytheturtle (S4)
+**18th - Hecticity (2):** wizarde (S4), Broseph (S4)
 
-**20th - Broseph (1):** CodeJoshua (S4)
+**18th - Kelawesome (2):** Greeples (S4), Vetmire (S4)
 
-**20th - cherryblawsom (1):** Kaismartypants (S4)
+**18th - SiahStone (2):** Greeples (S2), _1mmortal_ (S2)
 
-**20th - CommanderK22_ (1):** CipherKai (S2)
+**25th - 4EyedSlime (1):** Bobbytheturtle (S4)
 
-**20th - DevoyTTV (1):** ShyGus (S3)
+**25th - brinkwhy (1):** Sfqkeur_ (S5)
 
-**20th - Fra49 (1):** _carn (S4)
+**25th - CommanderK22_ (1):** CipherKai (S2)
 
-**20th - ItsMeAR10 (1):** AirInAirOut (S3)
+**25th - DevoyTTV (1):** ShyGus (S3)
 
-**20th - MaxEvasion (1):** Kelawesome (S4)
+**25th - Fra49 (1):** _carn (S4)
 
-**20th - wizarde (1):** DJoee (S2)
+**25th - ItsMeAR10 (1):** AirInAirOut (S3)
+
+**25th - MajorWoof (1):** DJoee (S5)
+
+**25th - MaxEvasion (1):** Kelawesome (S4)
+
+**25th - Sharkbob94349 (1):** EndestroyerEpic (S5)
+
+**25th - wizarde (1):** DJoee (S2)
 
 ---
 ### PvE Deaths
 
 **Cave Spider (3):** Greeples (S3), natsuvi (S3), CAMKART100 (S3)
 
+**Enderman (1):** Lighte (S5)
+
 **Love (1):** benidk (S1)
 
+**Piglin Brute (1):** chugmitchell (S5)
+
 **Skeleton (1):** _Fost_ (S4)
+
+**Zombie (1):** Vetmire (S5)
 
 ---
 ### Participation
 
-**4 Seasons (6):** _1mmortal_ (S1-S4), Brodator (S1-S4), Fcrm (S1-S4), Greeples (S1-S4), Kaismartypants (S1-S4), wizarde (S1-S4)
+**5 Seasons (3):** Brodator (S1-S5), Fcrm (S1-S5), Greeples (S1-S5)
 
-**3 Seasons (7):** benidk (S1-S2,S4), CommanderK22_ (S1-S3), Fra49 (S1-S2,S4), Lighte (S1-S3), natsuvi (S1-S3), ScaryPumpkinFace (S1-S2,S4), MercuryParadox (S2-S4)
+**4 Seasons (6):** _1mmortal_ (S1-S4), Kaismartypants (S1-S4), Lighte (S1-S3,S5), ScaryPumpkinFace (S1-S2,S4-S5), wizarde (S1-S4), MercuryParadox (S2-S5)
 
-**2 Seasons (12):** CipherKai (S1-S2), Flcnt (S1-S2), pigghetti (S1-S2), Ullti (S1-S2), cherryblawsom (S2,S4), ColdBac (S2-S3), DevoyTTV (S2-S3), DJoee (S2,S4), stupidsylvia (S2-S3), _carn (S3-S4), broccoliar (S3-S4), CAMKART100 (S3-S4)
+**3 Seasons (8):** benidk (S1-S2,S4), CommanderK22_ (S1-S3), Fra49 (S1-S2,S4), natsuvi (S1-S3), Ullti (S1-S2,S5), cherryblawsom (S2,S4-S5), DJoee (S2,S4-S5), broccoliar (S3-S5)
 
-**1 Season (33):** Codwhy (S1), TehBaconBrawlerZ (S1), Gorgerous (S2), kirbey (S2), Lucarrio (S2), Markedbooboy (S2), SiahStone (S2), _Dieter (S3), AirInAirOut (S3), ItsMeAR10 (S3), MarcC5M (S3), Ninetals38 (S3), ShyGus (S3), _Fost_ (S4), 4EyedSlime (S4), aalaan (S4), ArcticSeagull (S4), Bobbytheturtle (S4), Broseph (S4), Caydone (S4), ChrisCD (S4), CodeJoshua (S4), Hecticity (S4), JaeHasNoMaidens (S4), JustNolan (S4), Kelawesome (S4), MaxEvasion (S4), Normoh (S4), RqDix (S4), Ryfri (S4), ShootingGoats (S4), TalonBX (S4), Vetmire (S4)
+**2 Seasons (15):** CipherKai (S1-S2), Flcnt (S1-S2), pigghetti (S1-S2), ColdBac (S2-S3), DevoyTTV (S2-S3), Gorgerous (S2,S5), stupidsylvia (S2-S3), _carn (S3-S4), AirInAirOut (S3,S5), CAMKART100 (S3-S4), Bobbytheturtle (S4-S5), Broseph (S4-S5), commitstaxfraud (S4-S5), ShootingGoats (S4-S5), Vetmire (S4-S5)
+
+**1 Season (37):** Codwhy (S1), TehBaconBrawlerZ (S1), kirbey (S2), Lucarrio (S2), Markedbooboy (S2), SiahStone (S2), _Dieter (S3), ItsMeAR10 (S3), MarcC5M (S3), Ninetals38 (S3), ShyGus (S3), _Fost_ (S4), 4EyedSlime (S4), aalaan (S4), ArcticSeagull (S4), AsianCheatCode (S4), Caydone (S4), ChrisCD (S4), CodeJoshua (S4), Hecticity (S4), JustNolan (S4), Kelawesome (S4), MaxEvasion (S4), Normoh (S4), Ryfri (S4), TalonBX (S4), brinkwhy (S5), chugmitchell (S5), EndestroyerEpic (S5), fruitlogic (S5), MajorWoof (S5), omchris (S5), PresidentFleb (S5), Sfqkeur_ (S5), Sharkbob94349 (S5), SpaceFenix (S5), zoeywithawhy (S5)
 
 ---
 ### Debutants
@@ -176,6 +212,8 @@
 
 **S3 (9):** _carn, _Dieter, AirInAirOut, broccoliar, CAMKART100, ItsMeAR10, MarcC5M, Ninetals38, ShyGus
 
-**S4 (20):** _Fost_, 4EyedSlime, aalaan, ArcticSeagull, Bobbytheturtle, Broseph, Caydone, ChrisCD, CodeJoshua, Hecticity, JaeHasNoMaidens, JustNolan, Kelawesome, MaxEvasion, Normoh, RqDix, Ryfri, ShootingGoats, TalonBX, Vetmire
+**S4 (20):** _Fost_, 4EyedSlime, aalaan, ArcticSeagull, AsianCheatCode, Bobbytheturtle, Broseph, Caydone, ChrisCD, CodeJoshua, commitstaxfraud, Hecticity, JustNolan, Kelawesome, MaxEvasion, Normoh, Ryfri, ShootingGoats, TalonBX, Vetmire
+
+**S5 (11):** brinkwhy, chugmitchell, EndestroyerEpic, fruitlogic, MajorWoof, omchris, PresidentFleb, Sfqkeur_, Sharkbob94349, SpaceFenix, zoeywithawhy
 
 ---

@@ -20,7 +20,7 @@
 ---
 ### Runner Ups
 
-**S1:** azoof (1), RqDix (0)
+**S1:** AsianCheatCode (0), azoof (1)
 
 **S2:** aalaan (0), Austronomical (3)
 
@@ -165,7 +165,7 @@
 
 **13th - BardMain2 (3):** AnUncreativeCat (S1), Flcnt (S6), WackoFlipper (S6)
 
-**13th - Gorgerous (3):** Normoh (S6), RqDix (S6), BardMain2 (S6)
+**13th - Gorgerous (3):** Normoh (S6), AsianCheatCode (S6), BardMain2 (S6)
 
 **13th - TheSlimeBrother (3):** Aybel (S4), _pbo (S7), _Fost_ (S7)
 
@@ -185,7 +185,7 @@
 
 **16th - Purpdan (2):** _Dieter (S3), Kelawesome (S3)
 
-**16th - ShyGus (2):** RqDix (S1), SiahStone (S1)
+**16th - ShyGus (2):** AsianCheatCode (S1), SiahStone (S1)
 
 **16th - SpaceFenix (2):** JustNolan (S5), broccoliar (S6)
 
@@ -259,14 +259,14 @@
 
 **3 Seasons (7):** aalaan (S1-S2,S7), Austronomical (S1-S2,S7), ThePeridotKnight (S2-S3,S7), vynil (S3,S6-S7), _carn (S4,S6-S7), CipherKai (S4-S5,S7), Drkrai (S5-S7)
 
-**2 Seasons (38):** AnUncreativeCat (S1,S7), azoof (S1,S7), BardMain2 (S1,S6), Bobbytheturtle (S1,S7), buttergolem1 (S1,S6), ColdBac (S1,S7), ERHDude (S1,S6), Normoh (S1,S6), RqDix (S1,S6), Cyndic (S2,S6), Fcrm (S2,S7), Gorgerous (S2,S6), Greeples (S2,S6), lexicuhl (S2,S7), pigghetti (S2,S6), PresidentFleb (S2,S7), tagggz (S2-S3), _Dieter (S3,S6), _pbo (S3,S7), benidk (S3,S7), DJoee (S3,S6), Kelawesome (S3,S7), miles1baseball (S3-S4), Purpdan (S3-S4), WackoFlipper (S3,S6), _1mmortal_ (S4,S6), Aybel (S4,S7), Flcnt (S4,S6), Fra49 (S4,S6), kirbey (S4,S6), ohh_lia (S4-S5), TehBaconBrawlerZ (S4,S6), TheSlimeBrother (S4,S7), _Fost_ (S5,S7), brinkwhy (S5,S7), broccoliar (S5-S6), nsket (S5,S7), SpaceFenix (S5-S6)
+**2 Seasons (38):** AnUncreativeCat (S1,S7), AsianCheatCode (S1,S6), azoof (S1,S7), BardMain2 (S1,S6), Bobbytheturtle (S1,S7), buttergolem1 (S1,S6), ColdBac (S1,S7), ERHDude (S1,S6), Normoh (S1,S6), Cyndic (S2,S6), Fcrm (S2,S7), Gorgerous (S2,S6), Greeples (S2,S6), lexicuhl (S2,S7), pigghetti (S2,S6), PresidentFleb (S2,S7), tagggz (S2-S3), _Dieter (S3,S6), _pbo (S3,S7), benidk (S3,S7), DJoee (S3,S6), Kelawesome (S3,S7), miles1baseball (S3-S4), Purpdan (S3-S4), WackoFlipper (S3,S6), _1mmortal_ (S4,S6), Aybel (S4,S7), Flcnt (S4,S6), Fra49 (S4,S6), kirbey (S4,S6), ohh_lia (S4-S5), TehBaconBrawlerZ (S4,S6), TheSlimeBrother (S4,S7), _Fost_ (S5,S7), brinkwhy (S5,S7), broccoliar (S5-S6), nsket (S5,S7), SpaceFenix (S5-S6)
 
 **1 Season (44):** Glarza (S1), LegoBeast (S1), Lighte (S1), ShyGus (S1), SiahStone (S1), CHAINGE (S2), chloesad (S2), hazel_doe (S2), I_is_cheesecake (S2), Jaceon02 (S2), Spongey (S2), wizarde (S2), CodeJoshua (S3), Dida (S3), Eluniel (S3), GetNicked (S3), Kaddyn (S3), Microus (S3), Ryfri (S3), Bacan (S4), Captinn (S4), Cqson (S4), Jakekub (S4), Rohcket (S4), ToontownOnline (S4), BushieHalf (S5), Caydone (S5), Codwhy (S5), Hacn35 (S5), ItsColinn (S5), JustNolan (S5), olivieh (S5), St0rmplayz (S5), Ullti (S5), xDiversity (S5), acadiangel (S7), Brodator (S7), Dj8ninja (S7), frogsella (S7), Gleoss (S7), Jayzize (S7), PupperKun (S7), strategy (S7), stupidsylvia (S7)
 
 ---
 ### Debutants
 
-**S1 (16):** aalaan, AnUncreativeCat, Austronomical, azoof, BardMain2, Bobbytheturtle, buttergolem1, ColdBac, ERHDude, Glarza, LegoBeast, Lighte, Normoh, RqDix, ShyGus, SiahStone
+**S1 (16):** aalaan, AnUncreativeCat, AsianCheatCode, Austronomical, azoof, BardMain2, Bobbytheturtle, buttergolem1, ColdBac, ERHDude, Glarza, LegoBeast, Lighte, Normoh, ShyGus, SiahStone
 
 **S2 (16):** CHAINGE, chloesad, Cyndic, Fcrm, Gorgerous, Greeples, hazel_doe, I_is_cheesecake, Jaceon02, lexicuhl, pigghetti, PresidentFleb, Spongey, tagggz, ThePeridotKnight, wizarde
 

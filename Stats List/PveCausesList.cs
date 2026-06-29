@@ -130,6 +130,9 @@ namespace StatsAnalyzer
                 case String m when m.Contains("magic"):
                 pveDeath = "Potion";
                 break;
+                case String m when m.Contains("hot potato"):
+                pveDeath = "Hot Potato";
+                break;
                 case String m when m.Contains("lightning"):
                 pveDeath = "Lightning";
                 break;

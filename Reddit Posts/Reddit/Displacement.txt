@@ -5,85 +5,131 @@
 
 **S1: onstep (5), Stravilight (2)**, *dahii (1)*
 
+**S2: HUQTER (7)**, *FroztiSnowman (0)*
+
 ---
 ### Runner Ups
 
 **S1:** DevoyTTV (1), grantfaker (3), TheSlimeBrother (1)
+
+**S2:** benidk (1), DevoyTTV (1)
 
 ---
 ### Most Kills
 
 **S1:** onstep (5)
 
+**S2:** HUQTER (7)
+
 ---
 ### Most Kills (Team)
 
 **S1:** dahii (1), onstep (5), Stravilight (2)
+
+**S2:** FroztiSnowman (0), HUQTER (7)
 
 ---
 ### First Damage
 
 **S1:** kawaiibunri (0:15:14)
 
+**S2:** Scringus (0:15:16)
+
 ---
 ### Ironman
 
 **S1:** baldlad (0:36:52)
+
+**S2:** omchris (0:47:52)
 
 ---
 ### First Blood
 
 **S1:** ScaryPumpkinFace (eBrand0)
 
+**S2:** HUQTER (SergeantM)
+
 ---
 ### First Death
 
 **S1:** eBrand0 (ScaryPumpkinFace)
 
+**S2:** SergeantM (HUQTER)
+
 ---
 ### Kills
 
-**1st - onstep (5):** hiyoumethod (S1), Xstevey (S1), ZebraPantz (S1), CodeJoshua (S1), grantfaker (S1)
+**1st - HUQTER (7):** SergeantM (S2), Woobis (S2), omchris (S2), broccoliar (S2), Aquacam (S2), DevoyTTV (S2), benidk (S2)
 
-**2nd - DJoee (3):** ScaryPumpkinFace (S1), CurdledDrip (S1), EndestroyerEpic (S1)
+**2nd - kawaiibunri (6):** baldlad (S2), Kaimaxon (S2), Scringus (S2), Stravilight (S2), MichaelPlayMC (S2), boyyoo (S2)
 
-**2nd - grantfaker (3):** boyyoo (S1), CommanderK22_ (S1), baldlad (S1)
+**3rd - Aquacam (5):** ScaryPumpkinFace (S2), skyzfy (S2), ACommonKiwi (S2), Xstevey (S2), kawaiibunri (S2)
 
-**4th - baldlad (2):** DJoee (S1), TheSlimeBrother (S1)
+**3rd - onstep (5):** hiyoumethod (S1), Xstevey (S1), ZebraPantz (S1), CodeJoshua (S1), grantfaker (S1)
 
-**4th - Stravilight (2):** kawaiibunri (S1), DevoyTTV (S1)
+**5th - broccoliar (4):** FroztiSnowman (S2), CAMKART100 (S2), ShootingGoats (S2), _1mmortal_ (S2)
 
-**6th - CodeJoshua (1):** skyzfy (S1)
+**5th - DJoee (4):** ScaryPumpkinFace (S1), CurdledDrip (S1), EndestroyerEpic (S1), dahii (S2)
 
-**6th - CommanderK22_ (1):** ItzBeeZ (S1)
+**5th - grantfaker (4):** boyyoo (S1), CommanderK22_ (S1), baldlad (S1), Cooooldude (S2)
 
-**6th - CurdledDrip (1):** Kaimaxon (S1)
+**8th - CodeJoshua (3):** skyzfy (S1), _ffect (S2), EroseMC (S2)
 
-**6th - dahii (1):** AirInAirOut (S1)
+**9th - ACommonKiwi (2):** onstep (S2), Sand1y (S2)
 
-**6th - DevoyTTV (1):** Westcraft00 (S1)
+**9th - baldlad (2):** DJoee (S1), TheSlimeBrother (S1)
 
-**6th - EndestroyerEpic (1):** ShootingGoats (S1)
+**9th - boyyoo (2):** Sharkbob94349 (S2), grantfaker (S2)
 
-**6th - hiyoumethod (1):** CAMKART100 (S1)
+**9th - brinkwhy (2):** Karliffu (S2), Rebelghost (S2)
 
-**6th - ScaryPumpkinFace (1):** eBrand0 (S1)
+**9th - DevoyTTV (2):** Westcraft00 (S1), Lynxo (S2)
 
-**6th - TheSlimeBrother (1):** JampoJohn (S1)
+**9th - skyzfy (2):** Westcraft00 (S2), EndestroyerEpic (S2)
+
+**9th - Stravilight (2):** kawaiibunri (S1), DevoyTTV (S1)
+
+**16th - benidk (1):** CodeJoshua (S2)
+
+**16th - CommanderK22_ (1):** ItzBeeZ (S1)
+
+**16th - CurdledDrip (1):** Kaimaxon (S1)
+
+**16th - dahii (1):** AirInAirOut (S1)
+
+**16th - EndestroyerEpic (1):** ShootingGoats (S1)
+
+**16th - hiyoumethod (1):** CAMKART100 (S1)
+
+**16th - Kaimaxon (1):** noktime (S2)
+
+**16th - Lynxo (1):** DJoee (S2)
+
+**16th - ScaryPumpkinFace (1):** eBrand0 (S1)
+
+**16th - TheSlimeBrother (1):** JampoJohn (S1)
 
 ---
 ### PvE Deaths
+
+**Drowning (1):** brinkwhy (S2)
+
+**Fall (1):** CurdledDrip (S2)
 
 **Warden (1):** dahii (S1)
 
 ---
 ### Participation
 
-**1 Season (27):** AirInAirOut (S1), baldlad (S1), boyyoo (S1), CAMKART100 (S1), CodeJoshua (S1), CommanderK22_ (S1), CurdledDrip (S1), dahii (S1), DevoyTTV (S1), DJoee (S1), eBrand0 (S1), EndestroyerEpic (S1), grantfaker (S1), hiyoumethod (S1), ItzBeeZ (S1), JampoJohn (S1), Kaimaxon (S1), kawaiibunri (S1), onstep (S1), ScaryPumpkinFace (S1), ShootingGoats (S1), skyzfy (S1), Stravilight (S1), TheSlimeBrother (S1), Westcraft00 (S1), Xstevey (S1), ZebraPantz (S1)
+**2 Seasons (19):** baldlad (S1-S2), boyyoo (S1-S2), CAMKART100 (S1-S2), CodeJoshua (S1-S2), CurdledDrip (S1-S2), dahii (S1-S2), DevoyTTV (S1-S2), DJoee (S1-S2), EndestroyerEpic (S1-S2), grantfaker (S1-S2), Kaimaxon (S1-S2), kawaiibunri (S1-S2), onstep (S1-S2), ScaryPumpkinFace (S1-S2), ShootingGoats (S1-S2), skyzfy (S1-S2), Stravilight (S1-S2), Westcraft00 (S1-S2), Xstevey (S1-S2)
+
+**1 Season (30):** AirInAirOut (S1), CommanderK22_ (S1), eBrand0 (S1), hiyoumethod (S1), ItzBeeZ (S1), JampoJohn (S1), TheSlimeBrother (S1), ZebraPantz (S1), _1mmortal_ (S2), _ffect (S2), ACommonKiwi (S2), Aquacam (S2), benidk (S2), brinkwhy (S2), broccoliar (S2), Cooooldude (S2), EroseMC (S2), FroztiSnowman (S2), HUQTER (S2), Karliffu (S2), Lynxo (S2), MichaelPlayMC (S2), noktime (S2), omchris (S2), Rebelghost (S2), Sand1y (S2), Scringus (S2), SergeantM (S2), Sharkbob94349 (S2), Woobis (S2)
 
 ---
 ### Debutants
 
 **S1 (27):** AirInAirOut, baldlad, boyyoo, CAMKART100, CodeJoshua, CommanderK22_, CurdledDrip, dahii, DevoyTTV, DJoee, eBrand0, EndestroyerEpic, grantfaker, hiyoumethod, ItzBeeZ, JampoJohn, Kaimaxon, kawaiibunri, onstep, ScaryPumpkinFace, ShootingGoats, skyzfy, Stravilight, TheSlimeBrother, Westcraft00, Xstevey, ZebraPantz
+
+**S2 (22):** _1mmortal_, _ffect, ACommonKiwi, Aquacam, benidk, brinkwhy, broccoliar, Cooooldude, EroseMC, FroztiSnowman, HUQTER, Karliffu, Lynxo, MichaelPlayMC, noktime, omchris, Rebelghost, Sand1y, Scringus, SergeantM, Sharkbob94349, Woobis
 
 ---

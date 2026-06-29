@@ -17,7 +17,7 @@
 
 **S7: SmearBear (3)**
 
-**S8: NajaOxiana (4)**
+**S8: illuminaja (4)**
 
 **S9: TheSonicJoey (6)**
 
@@ -397,11 +397,11 @@
 
 **25th - _Fost_ (4):** TehBaconBrawlerZ (S13), AirInAirOut (S16), TehBaconBrawlerZ (S16), CodeJoshua (S16)
 
+**25th - illuminaja (4):** ghostblurr (S8), Rohcket (S8), rippersteveM5 (S8), Brodator (S8)
+
 **25th - MarcC5M (4):** TheSonicJoey (S16), Brodator (S16), Greeples (S16), Espik (S16)
 
 **25th - Markedbooboy (4):** Regifloat (S1), EmIsThem (S4), wibbol (S5), aalaan (S5)
-
-**25th - NajaOxiana (4):** ghostblurr (S8), Rohcket (S8), rippersteveM5 (S8), Brodator (S8)
 
 **25th - rippersteveM5 (4):** lexicuhl (S8), SmolHatChild (S16), Kaddyn (S16), Brodator (S18a)
 
@@ -545,7 +545,7 @@
 
 **2 Seasons (18):** JamestheDouglas (S1-S2), kalleina (S2,S4), SmearBear (S3,S7), wibbol (S3,S5), Klanke (S4,S19), tooooobin (S4-S5), 78ford (S7,S12), Ghaosty (S8,S12), Jordtim (S8-S9), PrinceSix (S8,S10), JoshC2 (S14,S16), InsertDotJpeg (S15,S18a), kirbey (S15,S18a), Codwhy (S16,S19), Nuclearsugar (S17,S19), Ninetals38 (S18a-S18b), ShootingGoats (S18b-S19), Ullti (S18b-S19)
 
-**1 Season (22):** Regifloat (S1), AyeeSammy (S2), ThePeridotKnight (S2), Zevulpes (S7), chloesad (S8), NajaOxiana (S8), BardMain2 (S9), Klickacat (S9), BreakSalad (S11), Calliwags (S12), NikoAnimation (S12), LocSen (S13), TommySuX (S13), Cyonal (S14), Dactus_ (S16), PatrickTN_ (S16), brodioh (S18a), Demomaker (S18a), 3Dspoders (S18b), JDwb (S18b), Karliffu (S18b), Nikikula (S19)
+**1 Season (22):** Regifloat (S1), AyeeSammy (S2), ThePeridotKnight (S2), Zevulpes (S7), chloesad (S8), illuminaja (S8), BardMain2 (S9), Klickacat (S9), BreakSalad (S11), Calliwags (S12), NikoAnimation (S12), LocSen (S13), TommySuX (S13), Cyonal (S14), Dactus_ (S16), PatrickTN_ (S16), brodioh (S18a), Demomaker (S18a), 3Dspoders (S18b), JDwb (S18b), Karliffu (S18b), Nikikula (S19)
 
 ---
 ### Debutants
@@ -564,7 +564,7 @@
 
 **S7 (3):** 78ford, Charrlottie, Zevulpes
 
-**S8 (7):** chloesad, Ghaosty, Jordtim, lexicuhl, MarcC5M, NajaOxiana, PrinceSix
+**S8 (7):** chloesad, Ghaosty, illuminaja, Jordtim, lexicuhl, MarcC5M, PrinceSix
 
 **S9 (4):** BardMain2, fruitlogic, Klickacat, MaxEvasion
 

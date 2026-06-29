@@ -167,13 +167,13 @@
 
 **S1:** lexicuhl (319phoenix)
 
-**S2:** NajaOxiana (PauloSSB)
+**S2:** illuminaja (PauloSSB)
 
-**S3:** NajaOxiana (centraleric)
+**S3:** illuminaja (centraleric)
 
 **S4:** ConBeanJones (Kaismartypants)
 
-**S5:** PauloSSB (NajaOxiana)
+**S5:** PauloSSB (illuminaja)
 
 **S6:** BatMan_1814 (Codwhy)
 
@@ -194,13 +194,13 @@
 
 **S1:** 319phoenix (lexicuhl)
 
-**S2:** PauloSSB (NajaOxiana)
+**S2:** PauloSSB (illuminaja)
 
 **S3:** jommyappleseed (Skeleton)
 
 **S4:** Kaismartypants (ConBeanJones)
 
-**S5:** NajaOxiana (PauloSSB)
+**S5:** illuminaja (PauloSSB)
 
 **S6:** Codwhy (BatMan_1814)
 
@@ -219,15 +219,15 @@
 ---
 ### Kills
 
-**1st - lexicuhl (18):** 319phoenix (S1), FrostBros (S1), NajaOxiana (S1), Starflash (S1), Heracross (S1), FrostBros (S3), chloesad (S3), Bofishkix (S4), WillBrisk (S4), aalaan (S4), wibbol (S8), BardMain2 (S10), Chasmic (S10), Potsie (S11), DJoee (S12), Dj8ninja (S12), hazel_doe (S12), Kaismartypants (S12)
+**1st - lexicuhl (18):** 319phoenix (S1), FrostBros (S1), illuminaja (S1), Starflash (S1), Heracross (S1), FrostBros (S3), chloesad (S3), Bofishkix (S4), WillBrisk (S4), aalaan (S4), wibbol (S8), BardMain2 (S10), Chasmic (S10), Potsie (S11), DJoee (S12), Dj8ninja (S12), hazel_doe (S12), Kaismartypants (S12)
 
-**2nd - BatMan_1814 (17):** JoshC2 (S4), Ejecko (S4), PenguinBagels (S5), Hardkour (S5), Codwhy (S6), 4EyedSlime (S7), Coward (S7), wowjennawow (S7), Ejecko (S7), SiahStone (S9), ERHDude (S9), NajaOxiana (S9), BardMain2 (S9), Codwhy (S9), PauloSSB (S9), Lighte (S9), BardMain2 (S12)
+**2nd - BatMan_1814 (17):** JoshC2 (S4), Ejecko (S4), PenguinBagels (S5), Hardkour (S5), Codwhy (S6), 4EyedSlime (S7), Coward (S7), wowjennawow (S7), Ejecko (S7), SiahStone (S9), ERHDude (S9), illuminaja (S9), BardMain2 (S9), Codwhy (S9), PauloSSB (S9), Lighte (S9), BardMain2 (S12)
 
-**3rd - Coward (16):** Normoh (S6), lexicuhl (S6), FrostBros (S6), 4EyedSlime (S6), Hardkour (S6), SpaceFenix (S6), vynil (S6), Flufayy (S6), Normoh (S7), _mrcool (S8), aalaan (S8), NajaOxiana (S8), Daltun (S8), Cyndic (S11), SpaceFenix (S11), BardMain2 (S11)
+**3rd - Coward (16):** Normoh (S6), lexicuhl (S6), FrostBros (S6), 4EyedSlime (S6), Hardkour (S6), SpaceFenix (S6), vynil (S6), Flufayy (S6), Normoh (S7), _mrcool (S8), aalaan (S8), illuminaja (S8), Daltun (S8), Cyndic (S11), SpaceFenix (S11), BardMain2 (S11)
 
 **4th - Lighte (14):** Abdalain (S6), SmolHatChild (S6), Prisma (S7), Greeples (S7), warriorcat (S7), Arich (S7), SmolHatChild (S8), Broseph (S8), Potsie (S8), FrostBros (S8), SiahStone (S8), 4EyedSlime (S8), FrostBros (S9), DevoyTTV (S9)
 
-**5th - Potsie (11):** aalaan (S6), SummerBqsh (S7), NajaOxiana (S7), _mrcool (S7), Prisma (S8), BatMan_1814 (S8), zac083 (S8), Wilsonkong (S8), Prisma (S11), MaxEvasion (S11), Codwhy (S11)
+**5th - Potsie (11):** aalaan (S6), SummerBqsh (S7), illuminaja (S7), _mrcool (S7), Prisma (S8), BatMan_1814 (S8), zac083 (S8), Wilsonkong (S8), Prisma (S11), MaxEvasion (S11), Codwhy (S11)
 
 **6th - FrostBros (9):** Mincrooft (S5), spoocS_ (S5), warriorcat (S6), PenguinBagels (S7), Bofishkix (S8), jommyappleseed (S9), ShyGus (S9), aalaan (S11), PresidentFleb (S11)
 
@@ -245,27 +245,27 @@
 
 **10th - Drkrai (6):** Broseph (S5), FrostBros (S5), Bofishkix (S5), Potsie (S10), Harryb2k (S10), Rohcket (S12)
 
-**10th - Hardkour (6):** SpaceFenix (S5), JaeHasNoMaidens (S6), Potsie (S6), Lighte (S6), SiahStone (S10), strategy (S10)
+**10th - Hardkour (6):** SpaceFenix (S5), commitstaxfraud (S6), Potsie (S6), Lighte (S6), SiahStone (S10), strategy (S10)
+
+**10th - illuminaja (6):** PauloSSB (S2), centraleric (S3), JamestheDouglas (S6), aalaan (S7), Pelycosaur (S8), zac083 (S9)
 
 **10th - Kelawesome (6):** Daltun (S9), Big_Z60 (S10), DeluxeSniper (S12), omchris (S12), Normoh (S12), lexicuhl (S12)
-
-**10th - NajaOxiana (6):** PauloSSB (S2), centraleric (S3), JamestheDouglas (S6), aalaan (S7), Pelycosaur (S8), zac083 (S9)
 
 **10th - ShyGus (6):** eliexists (S9), aalaan (S9), _Fost_ (S12), _mrcool (S12), ColdBac (S12), jommyappleseed (S12)
 
 **10th - SiahStone (6):** 4EyedSlime (S4), BatMan_1814 (S4), Dj8ninja (S8), Hardkour (S8), Prisma (S9), jommyappleseed (S11)
 
-**19th - 4EyedSlime (5):** Lighte (S4), PauloSSB (S5), Dj8ninja (S5), NajaOxiana (S6), eliexists (S7)
+**19th - 4EyedSlime (5):** Lighte (S4), PauloSSB (S5), Dj8ninja (S5), illuminaja (S6), eliexists (S7)
 
 **19th - aalaan (5):** Codwhy (S8), Kaismartypants (S9), Broseph (S12), Drkrai (S12), ShyGus (S12)
 
 **19th - Arich (5):** SmolHatChild (S7), Codwhy (S7), SpaceFenix (S7), FrostBros (S7), Paxtona (S7)
 
-**19th - Codwhy (5):** ConBeanJones (S4), JamestheDouglas (S7), JaeHasNoMaidens (S9), centraleric (S10), Broseph (S11)
+**19th - Codwhy (5):** ConBeanJones (S4), JamestheDouglas (S7), commitstaxfraud (S9), centraleric (S10), Broseph (S11)
 
 **19th - Kaismartypants (5):** _mrcool (S3), lexicuhl (S3), _shi (S6), Lighte (S8), PresidentFleb (S12)
 
-**19th - Professer_TNT (5):** Ryfri (S2), Wilsonkong (S2), JahMuis (S2), Psykl0ne (S3), NajaOxiana (S3)
+**19th - Professer_TNT (5):** Ryfri (S2), Wilsonkong (S2), JahMuis (S2), Psykl0ne (S3), illuminaja (S3)
 
 **19th - SpaceFenix (5):** Wilsonkong (S3), MercuryParadox (S3), Kaismartypants (S3), lexicuhl (S11), Spacepod_ (S12)
 
@@ -277,17 +277,17 @@
 
 **26th - Big_Z60 (4):** sigilyph (S1), SpaceFenix (S9), Dj8ninja (S10), Kelawesome (S10)
 
-**26th - GoldenNs (4):** NajaOxiana (S2), ZachMcD (S10), BatMan_1814 (S10), _Fost_ (S10)
+**26th - GoldenNs (4):** illuminaja (S2), ZachMcD (S10), BatMan_1814 (S10), _Fost_ (S10)
 
-**26th - PauloSSB (4):** NajaOxiana (S5), WackoFlipper (S5), Bofishkix (S7), Distantshooter (S9)
+**26th - PauloSSB (4):** illuminaja (S5), WackoFlipper (S5), Bofishkix (S7), Distantshooter (S9)
+
+**32nd - commitstaxfraud (3):** Broseph (S6), BatMan_1814 (S6), Big_Z60 (S9)
 
 **32nd - DevoyTTV (3):** hazel_doe (S9), ZachMcD (S9), Normoh (S9)
 
 **32nd - Flufayy (3):** JamestheDouglas (S4), SummerBqsh (S6), hazel_doe (S6)
 
 **32nd - Harryb2k (3):** Pelycosaur (S10), zac083 (S10), Coward (S10)
-
-**32nd - JaeHasNoMaidens (3):** Broseph (S6), BatMan_1814 (S6), Big_Z60 (S9)
 
 **32nd - JahMuis (3):** Topspinpiggles (S1), honestlyhunter (S1), _mrcool (S2)
 
@@ -407,7 +407,7 @@
 
 **9 Seasons (2):** Dj8ninja (S2-S5,S7-S10,S12), Kaismartypants (S2-S6,S8-S10,S12)
 
-**8 Seasons (3):** lexicuhl (S1,S3-S4,S6,S8,S10-S12), NajaOxiana (S1-S3,S5-S9), BatMan_1814 (S4-S10,S12)
+**8 Seasons (3):** illuminaja (S1-S3,S5-S9), lexicuhl (S1,S3-S4,S6,S8,S10-S12), BatMan_1814 (S4-S10,S12)
 
 **7 Seasons (6):** hazel_doe (S1,S6-S7,S9-S12), _mrcool (S2-S3,S5,S7-S8,S11-S12), SpaceFenix (S3,S5-S7,S9,S11-S12), 4EyedSlime (S4-S8,S10,S12), aalaan (S4,S6-S9,S11-S12), Codwhy (S4,S6-S11)
 
@@ -419,14 +419,14 @@
 
 **3 Seasons (15):** Professer_TNT (S1-S3), ConBeanJones (S2,S4-S5), Ejecko (S2,S4,S7), GoldenNs (S2,S10,S12), SummerBqsh (S5-S7), SmolHatChild (S6-S8), warriorcat (S6-S8), Arich (S7,S9,S12), Greeples (S7,S9,S11), Spacepod_ (S8-S9,S12), _Fost_ (S9-S10,S12), DevoyTTV (S9-S11), Kelawesome (S9-S10,S12), Chasmic (S10-S12), PresidentFleb (S10-S12)
 
-**2 Seasons (25):** Heracross (S1-S2), JahMuis (S1-S2), Starflash (S1-S2), Mincrooft (S2,S5), Ryfri (S2,S11), Psykl0ne (S3,S5), spoocS_ (S3,S5), Abdalain (S4,S6), Anorable (S4-S5), Flufayy (S4,S6), Thermql (S4,S7), PenguinBagels (S5,S7), JaeHasNoMaidens (S6,S9), Paxtona (S6-S7), vynil (S6,S12), eliexists (S7,S9), wowjennawow (S7,S10), Daltun (S8-S9), ERHDude (S9-S10), cherryblawsom (S10,S12), Charrlottie (S11-S12), ColdBac (S11-S12), DJoee (S11-S12), Flcnt (S11-S12), ohh_lia (S11-S12)
+**2 Seasons (25):** Heracross (S1-S2), JahMuis (S1-S2), Starflash (S1-S2), Mincrooft (S2,S5), Ryfri (S2,S11), Psykl0ne (S3,S5), spoocS_ (S3,S5), Abdalain (S4,S6), Anorable (S4-S5), Flufayy (S4,S6), Thermql (S4,S7), PenguinBagels (S5,S7), commitstaxfraud (S6,S9), Paxtona (S6-S7), vynil (S6,S12), eliexists (S7,S9), wowjennawow (S7,S10), Daltun (S8-S9), ERHDude (S9-S10), cherryblawsom (S10,S12), Charrlottie (S11-S12), ColdBac (S11-S12), DJoee (S11-S12), Flcnt (S11-S12), ohh_lia (S11-S12)
 
 **1 Season (30):** 319phoenix (S1), DyeItTight (S1), GRLH (S1), honestlyhunter (S1), sigilyph (S1), Topspinpiggles (S1), chloesad (S3), MercuryParadox (S3), JoshC2 (S4), WillBrisk (S4), WackoFlipper (S5), _shi (S6), Dee957 (S6), Jpgesus (S6), BBR_ (S7), Honiahaka (S7), wibbol (S8), Distantshooter (S9), Rebelghost (S9), Harryb2k (S10), JustNolan (S10), strategy (S10), tagggz (S10), Cyndic (S11), InsertDotJpeg (S11), SoupestGlobe (S11), DeluxeSniper (S12), Livin423 (S12), omchris (S12), Rohcket (S12)
 
 ---
 ### Debutants
 
-**S1 (18):** 319phoenix, Big_Z60, Broseph, centraleric, DyeItTight, FrostBros, GRLH, hazel_doe, Heracross, honestlyhunter, JahMuis, lexicuhl, NajaOxiana, Professer_TNT, sigilyph, Starflash, Topspinpiggles, Wilsonkong
+**S1 (18):** 319phoenix, Big_Z60, Broseph, centraleric, DyeItTight, FrostBros, GRLH, hazel_doe, Heracross, honestlyhunter, illuminaja, JahMuis, lexicuhl, Professer_TNT, sigilyph, Starflash, Topspinpiggles, Wilsonkong
 
 **S2 (10):** _mrcool, ConBeanJones, Coward, Dj8ninja, Ejecko, GoldenNs, Kaismartypants, Mincrooft, PauloSSB, Ryfri
 
@@ -436,7 +436,7 @@
 
 **S5 (7):** Drkrai, Hardkour, Pelycosaur, PenguinBagels, Prisma, SummerBqsh, WackoFlipper
 
-**S6 (11):** _shi, Dee957, JaeHasNoMaidens, Jpgesus, Normoh, Paxtona, Potsie, SmolHatChild, vynil, warriorcat, ZachMcD
+**S6 (11):** _shi, commitstaxfraud, Dee957, Jpgesus, Normoh, Paxtona, Potsie, SmolHatChild, vynil, warriorcat, ZachMcD
 
 **S7 (6):** Arich, BBR_, eliexists, Greeples, Honiahaka, wowjennawow
 

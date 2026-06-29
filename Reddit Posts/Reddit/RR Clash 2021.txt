@@ -9,7 +9,7 @@
 
 **S3: Bradzi (3), Digdude (2)**, *flameorb (1), GeeSam (0), SoulRawr (1)*
 
-**S4: Broseph (7), JaeHasNoMaidens (2)**, *Kaismartypants (2), Sluggyg (0), spoocS_ (1)*
+**S4: Broseph (7), commitstaxfraud (2)**, *Kaismartypants (2), Sluggyg (0), spoocS_ (1)*
 
 **S5: SoulRawr (4)**, *Bradzi (5), flameorb (0), GeeSam (4), I_is_cheesecake (1)*
 
@@ -48,7 +48,7 @@
 
 **S3:** Bradzi (3), Digdude (2), GeeSam (0), flameorb (1), SoulRawr (1)
 
-**S4:** JaeHasNoMaidens (2), Kaismartypants (2), spoocS_ (1), Broseph (7), Sluggyg (0)
+**S4:** commitstaxfraud (2), Kaismartypants (2), spoocS_ (1), Broseph (7), Sluggyg (0)
 
 **S5:** Bradzi (5), GeeSam (4), I_is_cheesecake (1), SoulRawr (4), flameorb (0)
 
@@ -137,11 +137,11 @@
 
 **13th - buttergolem1 (2):** bobjomac (S5), bluu31 (S5)
 
+**13th - commitstaxfraud (2):** Cyonal (S4), Kiinako_ (S4)
+
 **13th - Digdude (2):** Chasmic (S3), WackoFlipper (S3)
 
 **13th - Do_You_Minecraft (2):** brodioh (S2), MajorWoof (S2)
-
-**13th - JaeHasNoMaidens (2):** Cyonal (S4), Kiinako_ (S4)
 
 **13th - Kaismartypants (2):** BBR_ (S4), Chasmic (S4)
 
@@ -181,7 +181,7 @@
 
 **25th - Ninjajaja (1):** LegoBeast (S5)
 
-**25th - Potsie (1):** JaeHasNoMaidens (S5)
+**25th - Potsie (1):** commitstaxfraud (S5)
 
 **25th - QuilJ1 (1):** MarcC5M (S4)
 
@@ -215,7 +215,7 @@
 
 **3 Seasons (4):** 5kylord (S1-S2,S5), MajorWoof (S1-S2,S5), Sluggyg (S1,S4-S5), wibbol (S3-S5)
 
-**2 Seasons (25):** discoczibi (S1,S3), Fensua (S1,S5), I_is_cheesecake (S1,S5), Potsie (S1,S5), ScottPirie (S1,S5), 78ford (S2,S5), Austronomical (S2,S5), bluu31 (S2,S5), buttergolem1 (S2,S5), Daffz (S2,S5), Do_You_Minecraft (S2,S5), dRawry (S2,S5), ThePeridotKnight (S2,S4), warriorcat (S2,S5), Bradzi (S3,S5), Chasmic (S3-S4), flameorb (S3,S5), GeeSam (S3,S5), SoulRawr (S3,S5), WackoFlipper (S3,S5), JaeHasNoMaidens (S4-S5), Kiinako_ (S4-S5), QuilJ1 (S4-S5), Ratchet6859 (S4-S5), silverteeth (S4-S5)
+**2 Seasons (25):** discoczibi (S1,S3), Fensua (S1,S5), I_is_cheesecake (S1,S5), Potsie (S1,S5), ScottPirie (S1,S5), 78ford (S2,S5), Austronomical (S2,S5), bluu31 (S2,S5), buttergolem1 (S2,S5), Daffz (S2,S5), Do_You_Minecraft (S2,S5), dRawry (S2,S5), ThePeridotKnight (S2,S4), warriorcat (S2,S5), Bradzi (S3,S5), Chasmic (S3-S4), flameorb (S3,S5), GeeSam (S3,S5), SoulRawr (S3,S5), WackoFlipper (S3,S5), commitstaxfraud (S4-S5), Kiinako_ (S4-S5), QuilJ1 (S4-S5), Ratchet6859 (S4-S5), silverteeth (S4-S5)
 
 **1 Season (58):** Apex_Twinkie (S1), automavic (S1), cappyrappy (S1), fruitberries (S1), Jakekub (S1), kloosman (S1), KOKeowner (S1), Likean00b (S1), MBeaar (S1), MrCanada (S1), Purpdan (S1), Spacepod_ (S1), Arod_ (S2), bigfoot_ (S2), brodioh (S2), Just_Gerald (S2), oworca (S2), ShAydenelley (S2), VeniiiD (S2), WaXmAn24 (S2), YellowVitt (S2), AttackZach_ (S3), Bacan (S3), BSBrent (S3), DarrenBGP (S3), DianaB (S3), Digdude (S3), Drake132667596 (S3), jvevo (S3), Microus (S3), Milen (S3), sambrikawara (S3), ShyGus (S3), BBR_ (S4), Broseph (S4), Cyonal (S4), Greeples (S4), JamestheDouglas (S4), Kaismartypants (S4), MarcC5M (S4), Mop19 (S4), Regifloat (S4), spoocS_ (S4), wowjennawow (S4), Bobbytheturtle (S5), bobjomac (S5), Canman (S5), Espik (S5), LegoBeast (S5), lottebunny (S5), m4ku (S5), Ninjajaja (S5), rippersteveM5 (S5), SimplySam (S5), TheSonicJoey (S5), ToucanTom (S5), xJesterrr (S5), zac083 (S5)
 
@@ -228,7 +228,7 @@
 
 **S3 (19):** AttackZach_, Bacan, Bradzi, BSBrent, Chasmic, DarrenBGP, DianaB, Digdude, Drake132667596, flameorb, GeeSam, jvevo, Microus, Milen, sambrikawara, ShyGus, SoulRawr, WackoFlipper, wibbol
 
-**S4 (16):** BBR_, Broseph, Cyonal, Greeples, JaeHasNoMaidens, JamestheDouglas, Kaismartypants, Kiinako_, MarcC5M, Mop19, QuilJ1, Ratchet6859, Regifloat, silverteeth, spoocS_, wowjennawow
+**S4 (16):** BBR_, Broseph, commitstaxfraud, Cyonal, Greeples, JamestheDouglas, Kaismartypants, Kiinako_, MarcC5M, Mop19, QuilJ1, Ratchet6859, Regifloat, silverteeth, spoocS_, wowjennawow
 
 **S5 (14):** Bobbytheturtle, bobjomac, Canman, Espik, LegoBeast, lottebunny, m4ku, Ninjajaja, rippersteveM5, SimplySam, TheSonicJoey, ToucanTom, xJesterrr, zac083
 

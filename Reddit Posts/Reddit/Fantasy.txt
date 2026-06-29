@@ -143,7 +143,7 @@
 
 **S7:** DJoee (Kaismartypants)
 
-**S8:** Kaddyn (RqDix)
+**S8:** Kaddyn (AsianCheatCode)
 
 **S9:** dahii (Psykl0ne)
 
@@ -164,7 +164,7 @@
 
 **S7:** Kaismartypants (DJoee)
 
-**S8:** RqDix (Kaddyn)
+**S8:** AsianCheatCode (Kaddyn)
 
 **S9:** Stravilight (Explosion)
 
@@ -181,7 +181,7 @@
 
 **5th - broccoliar (8):** ArcticSeagull (S2), Erdql (S3), xRaltz (S3), emi1iano (S3), xDiversity (S3), poWpaH (S3), xDiversity (S4), MangoPlayz (S5)
 
-**6th - Kaddyn (7):** HeyItsJBug (S4), mycemie (S4), ItsShqky (S4), Charrlottie (S4), Stravilight (S4), MangoPlayz (S4), RqDix (S8)
+**6th - Kaddyn (7):** HeyItsJBug (S4), mycemie (S4), ItsShqky (S4), Charrlottie (S4), Stravilight (S4), MangoPlayz (S4), AsianCheatCode (S8)
 
 **6th - poWpaH (7):** Rebelghost (S2), TehBaconBrawlerZ (S2), TayUHC (S3), Stravilight (S3), QueenxPetty (S3), ItsShqky (S3), Codwhy (S4)
 
@@ -195,7 +195,7 @@
 
 **9th - Quinnton (5):** BarelyPink (S2), broccoliar (S2), Aaerons (S2), xoHue (S2), GeorginaMarie95 (S2)
 
-**13th - azoof (4):** ArcticSeagull (S7), Charrlottie (S7), MaxEvasion (S7), RqDix (S7)
+**13th - azoof (4):** ArcticSeagull (S7), Charrlottie (S7), MaxEvasion (S7), AsianCheatCode (S7)
 
 **13th - CHAINGE (4):** _ChrisMS (S5), Gorgerous (S5), benidk (S5), TheSlimeBrother (S6)
 
@@ -211,6 +211,8 @@
 
 **20th - Aglz (3):** DylanOk (S1), DMR_Games (S1), Izzyxox_ (S1)
 
+**20th - AsianCheatCode (3):** _ChrisMS (S7), CodeJoshua (S7), Bornyo (S7)
+
 **20th - Bofishkix (3):** Tylerplaysgames (S1), Jes3e (S1), QueenxPetty (S2)
 
 **20th - Bornyo (3):** Brodator (S8), Biwitch (S8), Phyrrus (S8)
@@ -223,15 +225,13 @@
 
 **20th - dahii (3):** Psykl0ne (S9), MarcC5M (S9), ChainingVermin2 (S9)
 
-**20th - Fcrm (3):** RqDix (S9), lasdarling (S9), DJoee (S9)
+**20th - Fcrm (3):** AsianCheatCode (S9), lasdarling (S9), DJoee (S9)
 
 **20th - hashtagmat (3):** Charrlottie (S2), TayUHC (S2), Pelycosaur (S2)
 
 **20th - lexicuhl (3):** Bulbexe (S5), Caydone (S8), Stravilight (S8)
 
 **20th - MangoPlayz (3):** Captinn (S4), QueenxPetty (S4), Blarkslol (S5)
-
-**20th - RqDix (3):** _ChrisMS (S7), CodeJoshua (S7), Bornyo (S7)
 
 **20th - TehBaconBrawlerZ (3):** mycemie (S3), Flcnt (S3), T1mT0m (S4)
 
@@ -333,7 +333,7 @@
 
 **4 Seasons (3):** TehBaconBrawlerZ (S2-S4,S7), MangoPlayz (S3-S6), benidk (S5-S7,S9)
 
-**3 Seasons (19):** Erdql (S1-S3), HeyItsJBug (S1,S3-S4), Jes3e (S1-S3), lippylee (S1-S3), Pelycosaur (S1-S2,S4), xoHue (S1-S3), xRaltz (S1,S3,S5), poWpaH (S2-S4), QueenxPetty (S2-S4), xDiversity (S2-S4), Flcnt (S3,S5-S6), Captinn (S4-S6), kawaiibunri (S4,S6,S8), _ChrisMS (S5,S7,S9), Gorgerous (S5-S6,S9), Jahrod (S5-S7), MaxEvasion (S5-S7), _1mmortal_ (S7-S9), RqDix (S7-S9)
+**3 Seasons (19):** Erdql (S1-S3), HeyItsJBug (S1,S3-S4), Jes3e (S1-S3), lippylee (S1-S3), Pelycosaur (S1-S2,S4), xoHue (S1-S3), xRaltz (S1,S3,S5), poWpaH (S2-S4), QueenxPetty (S2-S4), xDiversity (S2-S4), Flcnt (S3,S5-S6), Captinn (S4-S6), kawaiibunri (S4,S6,S8), _ChrisMS (S5,S7,S9), Gorgerous (S5-S6,S9), Jahrod (S5-S7), MaxEvasion (S5-S7), _1mmortal_ (S7-S9), AsianCheatCode (S7-S9)
 
 **2 Seasons (34):** Bofishkix (S1-S2), DMR_Games (S1-S2), Izzyxox_ (S1,S3), Quinnton (S1-S2), _Fost_ (S2,S7), BarelyPink (S2-S3), cocoflourish (S2-S3), emi1iano (S2-S3), ItsJustPanda (S2-S3), TayUHC (S2-S3), brinniex (S3-S4), mycemie (S3-S4), Codwhy (S4,S8), Kaddyn (S4,S8), Blarkslol (S5-S6), Bulbexe (S5-S6), CHAINGE (S5-S6), Greeples (S5,S7), Jordtim (S5-S6), lexicuhl (S5,S8), azoof (S6-S7), TheSlimeBrother (S6-S7), Biwitch (S7-S8), Bornyo (S7-S8), Brodator (S7-S8), Caydone (S7-S8), DJoee (S7,S9), Kaismartypants (S7-S8), natsuvi (S7-S8), Phyrrus (S7-S8), Psykl0ne (S7,S9), strategy (S7,S9), JaqOnCraq (S8-S9), Normoh (S8-S9)
 
@@ -354,7 +354,7 @@
 
 **S6 (4):** azoof, flameorb, TalonBX, TheSlimeBrother
 
-**S7 (13):** _1mmortal_, 78ford, Biwitch, Bornyo, Brodator, Caydone, DJoee, Kaismartypants, natsuvi, Phyrrus, Psykl0ne, RqDix, strategy
+**S7 (13):** _1mmortal_, 78ford, AsianCheatCode, Biwitch, Bornyo, Brodator, Caydone, DJoee, Kaismartypants, natsuvi, Phyrrus, Psykl0ne, strategy
 
 **S8 (3):** Dj8ninja, JaqOnCraq, Normoh
 

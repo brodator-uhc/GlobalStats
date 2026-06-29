@@ -219,13 +219,13 @@
 
 **23rd - zCent (6):** benidk (S5), CHANGA (S6), cherryblawsom (S6), ThisIsHab (S6), Bluests (S7), rattyplayz (S8)
 
+**25th - AsianCheatCode (5):** SmolHatChild (S9), Greeples (S9), PLENT (S9), 5kylord (S9), spittoon (S9)
+
 **25th - Fensua (5):** miles1baseball (S4), ShyGus (S4), ohh_lia (S6), ItsColinn (S6), tagggz (S9)
 
 **25th - Hecticity (5):** Keelando (S2), ChrisCD (S4), flameh (S5), fruitlogic (S7), ToontownOnline (S7)
 
 **25th - Normoh (5):** Ryfri (S1), Thimburrr (S1), Fensua (S2), Hecticity (S9), ConBeanJones (S9)
-
-**25th - RqDix (5):** SmolHatChild (S9), Greeples (S9), PLENT (S9), 5kylord (S9), spittoon (S9)
 
 **25th - Spongey (5):** ThePeridotKnight (S3), flameh (S3), Pooliox (S7), Awticon (S9), smilinkylan (S9)
 
@@ -257,7 +257,7 @@
 
 **38th - pkee (3):** Fcrm (S4), Fensua (S6), natsuvi (S6)
 
-**38th - Ryfri (3):** benidk (S4), ChrisCD (S8), RqDix (S9)
+**38th - Ryfri (3):** benidk (S4), ChrisCD (S8), AsianCheatCode (S9)
 
 **45th - _pbo (2):** Prisma (S6), DKPMatt (S7)
 
@@ -345,7 +345,7 @@
 
 **65th - Lewiss (1):** ChrisCD (S2)
 
-**65th - LoafOZ (1):** NajaOxiana (S9)
+**65th - LoafOZ (1):** illuminaja (S9)
 
 **65th - MaxEvasion (1):** harlotmeister (S9)
 
@@ -415,7 +415,7 @@
 
 **2 Seasons (21):** JmcLFA (S1-S2), Hacn35 (S2,S8), Keelando (S2,S4), automavic (S3,S5), Bacan (S3,S6), Diatu (S3,S9), Jordtim (S3,S5), RemyChingling (S3-S4), xMisha (S3-S4), miles1baseball (S4,S9), whoshaze (S4,S8), Biwitch (S5,S8), lexicuhl (S5,S7), _Dieter (S7-S8), fruitlogic (S7-S8), TehBaconBrawlerZ (S7-S8), BoltsInCharge (S8-S9), ChainingVermin2 (S8-S9), LoafOZ (S8-S9), Psykl0ne (S8-S9), wizarde (S8-S9)
 
-**1 Season (113):** Beastaxel (S1), Hoookey (S1), jordanleevan (S1), Sluggyg (S1), Lewiss (S2), azoof (S3), CH0CK (S3), guugs (S3), jubatyson (S3), Purpdan (S3), Ratchet6859 (S3), ssbear (S3), ThePeridotKnight (S3), tuxpeng (S3), Andyboyonalert (S4), Arod_ (S4), DomoDomo (S4), Franz (S4), Jrose (S4), Louiwe (S4), ShyGus (S4), SimplySam (S4), Dyoza (S5), LegoBeast (S5), Pie212_123 (S5), _carn (S6), Bizzlebub (S6), silh (S6), Fra49 (S7), Mordon (S7), Pooliox (S7), jakeyx3 (S8), NTBama (S8), TacoDab (S8), 123SteveBob (S9), 6sal9 (S9), alexnv (S9), Appointments (S9), ArticRecon12 (S9), Boomblade60 (S9), Bornyo (S9), Br8dy_ (S9), broccoliar (S9), Captureee (S9), Caydone (S9), CHAINGE (S9), chloesad (S9), ConBeanJones (S9), CrowJRC (S9), Cyndic (S9), DarV2 (S9), DeluxeSniper (S9), DOUGHNUTO (S9), DripGodDavid (S9), Drkrai (S9), ERHDude (S9), Evader22 (S9), FluffyAri (S9), friigiid (S9), FroztiSnowman (S9), Gabey (S9), GoldenNs (S9), Greeples (S9), GrovyleXD (S9), gsca (S9), harlotmeister (S9), JahMuis (S9), Jakekub (S9), Jinko42 (S9), JustNolan (S9), Karivig (S9), Karliffu (S9), Kelawesome (S9), kirbey (S9), liflaf (S9), LightningS7 (S9), lolmcgeeksFTW (S9), marcusmtm (S9), MaxCringe (S9), MaxEvasion (S9), Microus (S9), Mineguin10 (S9), NajaOxiana (S9), OOGAABOOGA3 (S9), PhenomCloud (S9), pierce981 (S9), pigghetti (S9), PLENT (S9), Plushy33 (S9), PointAnClick (S9), PotaTomas (S9), ProGirlGamer (S9), Queequa (S9), Radical24 (S9), Rawkeyy (S9), RazorAgentB (S9), RiseGR (S9), RqDix (S9), SharkeyJaws (S9), SiahStone (S9), skebrown (S9), sleepingxd (S9), smilinkylan (S9), SmolHatChild (S9), SPEEDYDIGS (S9), SQAH (S9), tagggz (S9), thebbers (S9), TicedUp (S9), TonyEatWorld (S9), WALRUS_TIME (S9), warriorcat (S9), ZebraPantz (S9)
+**1 Season (113):** Beastaxel (S1), Hoookey (S1), jordanleevan (S1), Sluggyg (S1), Lewiss (S2), azoof (S3), CH0CK (S3), guugs (S3), jubatyson (S3), Purpdan (S3), Ratchet6859 (S3), ssbear (S3), ThePeridotKnight (S3), tuxpeng (S3), Andyboyonalert (S4), Arod_ (S4), DomoDomo (S4), Franz (S4), Jrose (S4), Louiwe (S4), ShyGus (S4), SimplySam (S4), Dyoza (S5), LegoBeast (S5), Pie212_123 (S5), _carn (S6), Bizzlebub (S6), silh (S6), Fra49 (S7), Mordon (S7), Pooliox (S7), jakeyx3 (S8), NTBama (S8), TacoDab (S8), 123SteveBob (S9), 6sal9 (S9), alexnv (S9), Appointments (S9), ArticRecon12 (S9), AsianCheatCode (S9), Boomblade60 (S9), Bornyo (S9), Br8dy_ (S9), broccoliar (S9), Captureee (S9), Caydone (S9), CHAINGE (S9), chloesad (S9), ConBeanJones (S9), CrowJRC (S9), Cyndic (S9), DarV2 (S9), DeluxeSniper (S9), DOUGHNUTO (S9), DripGodDavid (S9), Drkrai (S9), ERHDude (S9), Evader22 (S9), FluffyAri (S9), friigiid (S9), FroztiSnowman (S9), Gabey (S9), GoldenNs (S9), Greeples (S9), GrovyleXD (S9), gsca (S9), harlotmeister (S9), illuminaja (S9), JahMuis (S9), Jakekub (S9), Jinko42 (S9), JustNolan (S9), Karivig (S9), Karliffu (S9), Kelawesome (S9), kirbey (S9), liflaf (S9), LightningS7 (S9), lolmcgeeksFTW (S9), marcusmtm (S9), MaxCringe (S9), MaxEvasion (S9), Microus (S9), Mineguin10 (S9), OOGAABOOGA3 (S9), PhenomCloud (S9), pierce981 (S9), pigghetti (S9), PLENT (S9), Plushy33 (S9), PointAnClick (S9), PotaTomas (S9), ProGirlGamer (S9), Queequa (S9), Radical24 (S9), Rawkeyy (S9), RazorAgentB (S9), RiseGR (S9), SharkeyJaws (S9), SiahStone (S9), skebrown (S9), sleepingxd (S9), smilinkylan (S9), SmolHatChild (S9), SPEEDYDIGS (S9), SQAH (S9), tagggz (S9), thebbers (S9), TicedUp (S9), TonyEatWorld (S9), WALRUS_TIME (S9), warriorcat (S9), ZebraPantz (S9)
 
 ---
 ### Debutants
@@ -436,6 +436,6 @@
 
 **S8 (8):** BoltsInCharge, ChainingVermin2, jakeyx3, LoafOZ, NTBama, Psykl0ne, TacoDab, wizarde
 
-**S9 (79):** 123SteveBob, 6sal9, alexnv, Appointments, ArticRecon12, Boomblade60, Bornyo, Br8dy_, broccoliar, Captureee, Caydone, CHAINGE, chloesad, ConBeanJones, CrowJRC, Cyndic, DarV2, DeluxeSniper, DOUGHNUTO, DripGodDavid, Drkrai, ERHDude, Evader22, FluffyAri, friigiid, FroztiSnowman, Gabey, GoldenNs, Greeples, GrovyleXD, gsca, harlotmeister, JahMuis, Jakekub, Jinko42, JustNolan, Karivig, Karliffu, Kelawesome, kirbey, liflaf, LightningS7, lolmcgeeksFTW, marcusmtm, MaxCringe, MaxEvasion, Microus, Mineguin10, NajaOxiana, OOGAABOOGA3, PhenomCloud, pierce981, pigghetti, PLENT, Plushy33, PointAnClick, PotaTomas, ProGirlGamer, Queequa, Radical24, Rawkeyy, RazorAgentB, RiseGR, RqDix, SharkeyJaws, SiahStone, skebrown, sleepingxd, smilinkylan, SmolHatChild, SPEEDYDIGS, SQAH, tagggz, thebbers, TicedUp, TonyEatWorld, WALRUS_TIME, warriorcat, ZebraPantz
+**S9 (79):** 123SteveBob, 6sal9, alexnv, Appointments, ArticRecon12, AsianCheatCode, Boomblade60, Bornyo, Br8dy_, broccoliar, Captureee, Caydone, CHAINGE, chloesad, ConBeanJones, CrowJRC, Cyndic, DarV2, DeluxeSniper, DOUGHNUTO, DripGodDavid, Drkrai, ERHDude, Evader22, FluffyAri, friigiid, FroztiSnowman, Gabey, GoldenNs, Greeples, GrovyleXD, gsca, harlotmeister, illuminaja, JahMuis, Jakekub, Jinko42, JustNolan, Karivig, Karliffu, Kelawesome, kirbey, liflaf, LightningS7, lolmcgeeksFTW, marcusmtm, MaxCringe, MaxEvasion, Microus, Mineguin10, OOGAABOOGA3, PhenomCloud, pierce981, pigghetti, PLENT, Plushy33, PointAnClick, PotaTomas, ProGirlGamer, Queequa, Radical24, Rawkeyy, RazorAgentB, RiseGR, SharkeyJaws, SiahStone, skebrown, sleepingxd, smilinkylan, SmolHatChild, SPEEDYDIGS, SQAH, tagggz, thebbers, TicedUp, TonyEatWorld, WALRUS_TIME, warriorcat, ZebraPantz
 
 ---

@@ -243,7 +243,7 @@
 
 **27th - Gleoss (5):** mekolame (S4), HigmanFreud (S4), acadiangel (S4), honestlyhunter (S6), omchris (S7)
 
-**27th - Jaysonn (5):** NajaOxiana (S1), Orewo (S3), SquishyRevamp (S3), uhcmyth (S3), ajunn (S3)
+**27th - Jaysonn (5):** illuminaja (S1), Orewo (S3), SquishyRevamp (S3), uhcmyth (S3), ajunn (S3)
 
 **30th - acadiangel (4):** DakotaB15 (S6), TehBaconBrawlerZ (S10), Dredex (S10), Arich (S10)
 
@@ -418,7 +418,7 @@
 ---
 ### PvE Deaths
 
-**Lava (6):** NotMyLights (S3), NajaOxiana (S3), Spacepod_ (S7), Kaismartypants (S7), acadiangel (S9), Pinnkey (S9)
+**Lava (6):** NotMyLights (S3), illuminaja (S3), Spacepod_ (S7), Kaismartypants (S7), acadiangel (S9), Pinnkey (S9)
 
 **Fall (4):** Jaysonn (S1), chrisgames2k (S3), Zaniac0 (S7), Squegi (S8)
 
@@ -453,14 +453,14 @@
 
 **3 Seasons (24):** ColdBac (S1,S6-S7), Fictional (S1-S2,S7), FrostBros (S1,S6-S7), Jaysonn (S1,S3-S4), PoofessorP (S1-S2,S6), Potsie (S1,S7-S8), syndu (S1,S3-S4), ajunn (S2-S3,S8), Javyrojo (S2-S3,S8), citall (S3,S8-S9), Coward (S3,S8-S9), dontbow (S3-S4,S6), Heartedd (S3,S8-S9), Austronomical (S4-S6), Caydone (S4,S6,S8), DiarWolfe (S4-S6), gmailol (S4-S6), Stephybo (S4,S6-S7), xShatter (S4-S6), DevoyTTV (S5-S7), Qndres (S5,S7-S8), HeyItsJBug (S6-S8), jemjosh (S7-S9), Zebobo10 (S7-S8,S10)
 
-**2 Seasons (46):** A1infinite (S1,S3), briquan (S1,S5), DCGUnKnown (S1-S2), NajaOxiana (S1,S3), NFSatchu (S1,S3), OblivionTU (S1,S6), Orewo (S1,S3), PauloSSB (S1,S4), Spacepod_ (S1,S7), Xentian (S1-S2), AHSOKATANOSTAN (S2-S3), Chqllenged (S2,S7), Divina (S2,S4), FireBreathMan (S2-S3), Leftu (S2-S3), Meltoy (S2-S3), MercuryParadox (S2,S4), NotMyLights (S2-S3), xandur (S3,S8), DraqonZ (S4-S5), ERHDude (S4,S7), itsLuxray (S4-S5), NTBama (S4,S6), Squegi (S4,S8), ZXLTRXN (S4,S8), 4EyedSlime (S5,S7), omchris (S5,S7), Stravilight (S5,S10), tuxster (S5,S10), AbsolutelyAlpha (S6-S7), automavic (S6,S10), ben_noodle (S6-S7), drewxd (S6-S7), Evader22 (S6,S8), Glarza (S6-S7), Highs (S6,S9), _ChrisMS (S7,S9), Arich (S7,S10), Pehnk (S7-S8), ToontownOnline (S7-S8), Wiiz (S7-S8), Zoroh (S7-S8), olivieh (S8-S9), violetwoah (S8-S9), Enroh (S9-S10), Vetmire (S9-S10)
+**2 Seasons (46):** A1infinite (S1,S3), briquan (S1,S5), DCGUnKnown (S1-S2), illuminaja (S1,S3), NFSatchu (S1,S3), OblivionTU (S1,S6), Orewo (S1,S3), PauloSSB (S1,S4), Spacepod_ (S1,S7), Xentian (S1-S2), AHSOKATANOSTAN (S2-S3), Chqllenged (S2,S7), Divina (S2,S4), FireBreathMan (S2-S3), Leftu (S2-S3), Meltoy (S2-S3), MercuryParadox (S2,S4), NotMyLights (S2-S3), xandur (S3,S8), DraqonZ (S4-S5), ERHDude (S4,S7), itsLuxray (S4-S5), NTBama (S4,S6), Squegi (S4,S8), ZXLTRXN (S4,S8), 4EyedSlime (S5,S7), omchris (S5,S7), Stravilight (S5,S10), tuxster (S5,S10), AbsolutelyAlpha (S6-S7), automavic (S6,S10), ben_noodle (S6-S7), drewxd (S6-S7), Evader22 (S6,S8), Glarza (S6-S7), Highs (S6,S9), _ChrisMS (S7,S9), Arich (S7,S10), Pehnk (S7-S8), ToontownOnline (S7-S8), Wiiz (S7-S8), Zoroh (S7-S8), olivieh (S8-S9), violetwoah (S8-S9), Enroh (S9-S10), Vetmire (S9-S10)
 
 **1 Season (118):** ab3d (S1), AttackZach_ (S1), AwesomeARD (S1), BENYN (S1), bongslikeshlongs (S1), Chippytoothy (S1), DianaB (S1), GhostGunner (S1), hannahxxrose (S1), NoHealing (S1), Pikachu (S1), Quig (S1), resetin (S1), RetroSlime (S1), Slothbeans (S1), suddens (S1), vSlime (S1), whudafxup (S1), zfiascoz (S1), ZOEEY (S1), Zudoia (S1), andrewbaseball99 (S2), centraleric (S2), DarkPaladinUHC (S2), DoughnutDoctor (S2), Japple (S2), SmooveManuever (S2), Vinny212 (S2), Wyntre (S2), xFade (S2), _mrcool (S3), Alihsoccer (S3), BestRun (S3), CapitalLeens (S3), Charky (S3), chrisgames2k (S3), cpsmod (S3), floood (S3), frogsella (S3), Girnn (S3), GodShots (S3), guccibulletvest (S3), ItsChristiannn (S3), MassiveMetroid (S3), monymc (S3), rb0928 (S3), Robbing (S3), SquishyRevamp (S3), uhcmyth (S3), vetr0h (S3), wizarde (S3), yuhFazz (S3), DoomedCow (S4), FireSuks (S4), HealthyKaden (S4), K0DAKZACK (S4), skebrown (S4), Sorvent (S4), cycless (S5), FREESTRIKER (S5), Kurdie (S5), MajorDH (S5), MyAurora (S5), Ncah (S5), swishduck (S5), trillibytes (S5), BigDaddyFlapjack (S6), Bluests (S6), Dreamsters (S6), InnerArtsTV (S6), jabberwocky99705 (S6), KELCOS (S6), natsuvi (S6), Nyzian (S6), SeeLion (S6), sleepingxd (S6), Alacan (S7), ClosedIT (S7), cnner (S7), Cubic44 (S7), drobot5000 (S7), JohnzRIP (S7), LilHydro (S7), Plushy33 (S7), PupperKun (S7), rodfather (S7), Zaniac0 (S7), Hydrqmi (S8), Markedbooboy (S8), chugin (S9), GoldenNs (S9), harrydagawd (S9), HUQTER (S9), JKJK (S9), Lqser (S9), lunardig (S9), OnlyCosmia (S9), Pie212_123 (S9), Pinnkey (S9), PowerFour (S9), PresidentFleb (S9), Reflectant (S9), SOAKLE (S9), sweatgod (S9), TonyRods (S9), _Gamenight888_ (S10), Bulbexe (S10), CodeJoshua (S10), Dredex (S10), Evzenitable (S10), Greatwarrior_ (S10), loyaltea (S10), Lsnce (S10), Rebelghost (S10), ReDoFPS (S10), TehBaconBrawlerZ (S10), Turqified (S10), zeesue (S10)
 
 ---
 ### Debutants
 
-**S1 (45):** A1infinite, ab3d, AttackZach_, AwesomeARD, BENYN, bongslikeshlongs, brinkwhy, briquan, Chippytoothy, ColdBac, DCGUnKnown, DianaB, Fictional, FrostBros, GhostGunner, Greninja, hannahxxrose, ItsColinn, Jaysonn, mekolame, NajaOxiana, NFSatchu, NoHealing, OblivionTU, Orewo, PauloSSB, Phoraxe, Pikachu, PoofessorP, Potsie, Quig, resetin, RetroSlime, Ryfri, Slothbeans, Spacepod_, Spikemc, suddens, syndu, vSlime, whudafxup, Xentian, zfiascoz, ZOEEY, Zudoia
+**S1 (45):** A1infinite, ab3d, AttackZach_, AwesomeARD, BENYN, bongslikeshlongs, brinkwhy, briquan, Chippytoothy, ColdBac, DCGUnKnown, DianaB, Fictional, FrostBros, GhostGunner, Greninja, hannahxxrose, illuminaja, ItsColinn, Jaysonn, mekolame, NFSatchu, NoHealing, OblivionTU, Orewo, PauloSSB, Phoraxe, Pikachu, PoofessorP, Potsie, Quig, resetin, RetroSlime, Ryfri, Slothbeans, Spacepod_, Spikemc, suddens, syndu, vSlime, whudafxup, Xentian, zfiascoz, ZOEEY, Zudoia
 
 **S2 (23):** AHSOKATANOSTAN, ajunn, andrewbaseball99, centraleric, Chqllenged, Codwhy, DarkPaladinUHC, Divina, DoughnutDoctor, FireBreathMan, Japple, Javyrojo, Leftu, lqllipop, MannyDM, Meltoy, MercuryParadox, milkteaboards, NotMyLights, SmooveManuever, Vinny212, Wyntre, xFade
 

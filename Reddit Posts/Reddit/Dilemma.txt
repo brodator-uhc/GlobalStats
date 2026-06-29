@@ -7,7 +7,7 @@
 
 **S2: egl_ (4), IyaIsMad (3), Rebelghost (1)**, *_Fost_ (0)*
 
-**S3: RqDix (1), ZachMcD (3)**
+**S3: AsianCheatCode (1), ZachMcD (3)**
 
 **S4: ArcticSeagull (4), FrostBros (0), Ryfri (2)**
 
@@ -46,7 +46,7 @@
 
 **S2:** _Fost_ (0), egl_ (4), Rebelghost (1), IyaIsMad (3)
 
-**S3:** RqDix (1), ZachMcD (3) & Ryfri (4), Spongey (0)
+**S3:** AsianCheatCode (1), ZachMcD (3) & Ryfri (4), Spongey (0)
 
 **S4:** ArcticSeagull (4), FrostBros (0), Ryfri (2)
 
@@ -113,17 +113,17 @@
 
 **2nd - Ryfri (6):** Blarkslol (S3), Andronify (S3), AHSOKATANOSTAN (S3), JaqOnCraq (S3), Aspect06 (S4), Normoh (S4)
 
-**4th - RqDix (5):** Ryfri (S2), UglySheep (S2), Jahrod (S3), DevoyTTV (S4), TacoDab (S5)
+**4th - AsianCheatCode (5):** Ryfri (S2), UglySheep (S2), Jahrod (S3), DevoyTTV (S4), TacoDab (S5)
 
 **4th - Zebobo10 (5):** Andronify (S5), MaxEvasion (S5), _Dieter (S5), kirbey (S5), azoof (S5)
 
 **6th - ArcticSeagull (4):** olivieh (S4), Flcnt (S4), Karliffu (S4), Blarkslol (S4)
 
-**6th - Blarkslol (4):** Brodator (S3), MaxEvasion (S3), RqDix (S4), azoof (S4)
+**6th - Blarkslol (4):** Brodator (S3), MaxEvasion (S3), AsianCheatCode (S4), azoof (S4)
 
 **6th - egl_ (4):** FrostBros (S2), _Fost_ (S2), Slooshyy (S2), jakeyx3 (S2)
 
-**6th - TacoDab (4):** Brodator (S2), _ChrisMS (S2), CHAINGE (S5), RqDix (S5)
+**6th - TacoDab (4):** Brodator (S2), _ChrisMS (S2), CHAINGE (S5), AsianCheatCode (S5)
 
 **10th - _ChrisMS (3):** m4ku (S1), Jahrod (S5), OnlyCosmia (S5)
 
@@ -190,7 +190,7 @@
 
 **Creeper (3):** ArcticSeagull (S2), jakeyx3 (S3), nFang (S3)
 
-**Burning (2):** RqDix (S2), Hrray (S5)
+**Burning (2):** AsianCheatCode (S2), Hrray (S5)
 
 **Fall (2):** TheSheepMasters (S1), Rebelghost (S3)
 
@@ -201,7 +201,7 @@
 
 **5 Seasons (0):** 
 
-**4 Seasons (4):** JaqOnCraq (S1,S3-S5), natsuvi (S1,S3-S5), Rebelghost (S1-S3,S5), RqDix (S2-S5)
+**4 Seasons (4):** JaqOnCraq (S1,S3-S5), natsuvi (S1,S3-S5), Rebelghost (S1-S3,S5), AsianCheatCode (S2-S5)
 
 **3 Seasons (12):** _ChrisMS (S1-S2,S5), _Fost_ (S1-S3), DevoyTTV (S1-S2,S4), Drake132667596 (S1,S4-S5), Pelycosaur (S1-S3), TacoDab (S1-S2,S5), ArcticSeagull (S2-S4), Blarkslol (S2-S4), Jahrod (S2-S3,S5), MaxEvasion (S2-S3,S5), Ryfri (S2-S4), Andronify (S3-S5)
 
@@ -214,7 +214,7 @@
 
 **S1 (27):** _ChrisMS, _Fost_, AtomicCrossbow, Brocko, CHAINGE, Cubic44, DevoyTTV, Drake132667596, egl_, Fcrm, Fourbitplayer, JamestheDouglas, JaqOnCraq, m4ku, natsuvi, ohh_lia, p1an, Pelycosaur, Phyrrus, Rebelghost, Slooshyy, TacoDab, TayUHC, Thermql, TheSheepMasters, TvError, Vetmire
 
-**S2 (13):** ArcticSeagull, Blarkslol, Brodator, Chipzzy, FrostBros, IyaIsMad, Jahrod, jakeyx3, MaxEvasion, nFang, RqDix, Ryfri, UglySheep
+**S2 (13):** ArcticSeagull, AsianCheatCode, Blarkslol, Brodator, Chipzzy, FrostBros, IyaIsMad, Jahrod, jakeyx3, MaxEvasion, nFang, Ryfri, UglySheep
 
 **S3 (7):** AHSOKATANOSTAN, Andronify, Bluests, MarExists, Spongey, TheSlimeBrother, ZachMcD
 

@@ -175,9 +175,9 @@
 
 **2nd - ogrechugbo (15):** Jordtim (S1), Ryfri (S5), zCent (S5), JayPhantom (S5), Vawqer (S5), Austronomical (S5), Arich (S5), PenguinBagels (S5), YellowVitt (S6), chloesad (S6), Codwhy (S7), chugmitchell (S7), PenguinBagels (S7), vynil (S7), Austronomical (S9)
 
-**3rd - liflaf (12):** PenguinBagels (S4), Professer_TNT (S4), SoupestGlobe (S4), jommyappleseed (S4), Broseph (S4), JaeHasNoMaidens (S4), vynil (S4), AmbientDan (S4), Austronomical (S4), Arich (S4), Thimburrr (S4), benidk (S9)
+**3rd - liflaf (12):** PenguinBagels (S4), Professer_TNT (S4), SoupestGlobe (S4), jommyappleseed (S4), Broseph (S4), commitstaxfraud (S4), vynil (S4), AmbientDan (S4), Austronomical (S4), Arich (S4), Thimburrr (S4), benidk (S9)
 
-**4th - acadiangel (11):** EyeHasNoIdea (S2), NajaOxiana (S3), zCent (S4), YellowVitt (S5), Codwhy (S5), PresidentFleb (S8), EyeHasNoIdea (S8), Hecticity (S8), Aybel (S9), CrowJRC (S9), chloesad (S9)
+**4th - acadiangel (11):** EyeHasNoIdea (S2), illuminaja (S3), zCent (S4), YellowVitt (S5), Codwhy (S5), PresidentFleb (S8), EyeHasNoIdea (S8), Hecticity (S8), Aybel (S9), CrowJRC (S9), chloesad (S9)
 
 **5th - Awticon (10):** AmbientDan (S2), Microus (S2), Microus (S3), vishs (S3), SiahStone (S4), JayPhantom (S6), RazorAgentB (S6), EyeHasNoIdea (S6), Codwhy (S6), PenguinBagels (S6)
 
@@ -189,7 +189,7 @@
 
 **9th - AmbientDan (8):** acadiangel (S1), MrCanada (S1), Hecticity (S1), tilargo (S1), Vawqer (S1), chugmitchell (S1), Hecticity (S7), Br8dy_ (S9)
 
-**9th - Arich (8):** Ryfri (S4), vishs (S4), YellowVitt (S4), MajorWoof (S5), Fensua (S5), vynil (S5), liflaf (S6), JaeHasNoMaidens (S6)
+**9th - Arich (8):** Ryfri (S4), vishs (S4), YellowVitt (S4), MajorWoof (S5), Fensua (S5), vynil (S5), liflaf (S6), commitstaxfraud (S6)
 
 **11th - Broseph (7):** Jordtim (S2), SiahStone (S3), Arich (S6), Microus (S7), YellowVitt (S7), RazorAgentB (S7), EyeHasNoIdea (S7)
 
@@ -207,7 +207,7 @@
 
 **18th - Hecticity (5):** TalonBX (S1), vishs (S7), MajorWoof (S7), liflaf (S9), RazorAgentB (S9)
 
-**18th - Thimburrr (5):** NajaOxiana (S4), Codwhy (S4), Microus (S5), Bluests (S9), Ryfri (S9)
+**18th - Thimburrr (5):** illuminaja (S4), Codwhy (S4), Microus (S5), Bluests (S9), Ryfri (S9)
 
 **18th - zCent (5):** PenguinBagels (S3), Thimburrr (S6), limisnow (S6), TalonBX (S6), vynil (S6)
 
@@ -255,7 +255,7 @@
 
 **39th - ColdBac (1):** Austronomical (S8)
 
-**39th - JaeHasNoMaidens (1):** frogsella (S4)
+**39th - commitstaxfraud (1):** frogsella (S4)
 
 **39th - jommyappleseed (1):** xCand (S5)
 
@@ -293,7 +293,7 @@
 
 **3 Seasons (5):** DrJamezz (S1-S2,S6), TalonBX (S1,S6-S7), tilargo (S1,S3,S9), Arich (S4-S6), Fensua (S4-S5,S9)
 
-**2 Seasons (13):** Professer_TNT (S1,S4), NajaOxiana (S3-S4), ShyGus (S3,S6), frogsella (S4,S7), JaeHasNoMaidens (S4,S6), jommyappleseed (S4-S5), Lighte (S6-S7), CrowJRC (S7,S9), omchris (S7,S9), _carn (S8-S9), Aybel (S8-S9), ColdBac (S8-S9), PresidentFleb (S8-S9)
+**2 Seasons (13):** Professer_TNT (S1,S4), illuminaja (S3-S4), ShyGus (S3,S6), commitstaxfraud (S4,S6), frogsella (S4,S7), jommyappleseed (S4-S5), Lighte (S6-S7), CrowJRC (S7,S9), omchris (S7,S9), _carn (S8-S9), Aybel (S8-S9), ColdBac (S8-S9), PresidentFleb (S8-S9)
 
 **1 Season (12):** flameorb (S1), Cyonal (S4), xCand (S5), Centrios (S6), Alchymy (S9), benidk (S9), Bluests (S9), Br8dy_ (S9), Glarza (S9), MajorDH (S9), swishduck (S9), Zakkeagle (S9)
 
@@ -304,9 +304,9 @@
 
 **S2 (9):** Broseph, chloesad, Codwhy, Microus, RazorAgentB, Ryfri, Thimburrr, vynil, YellowVitt
 
-**S3 (5):** Austronomical, Bradzi, JayPhantom, NajaOxiana, ShyGus
+**S3 (5):** Austronomical, Bradzi, illuminaja, JayPhantom, ShyGus
 
-**S4 (7):** Arich, Cyonal, Fensua, frogsella, JaeHasNoMaidens, jommyappleseed, liflaf
+**S4 (7):** Arich, commitstaxfraud, Cyonal, Fensua, frogsella, jommyappleseed, liflaf
 
 **S5 (1):** xCand
 

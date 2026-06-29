@@ -160,7 +160,7 @@
 
 **S5:** DancersTalon (Fall)
 
-**S6:** PLENT (Creeper )
+**S6:** PLENT (Creeper)
 
 **S7:** frogsella (Enderman)
 
@@ -171,11 +171,11 @@
 ---
 ### Kills
 
-**1st - RemyChingling (15):** Zevulpes (S6), 5kylord (S6), Nikikula (S6), JaeHasNoMaidens (S6), GhostLikesCakes (S6), Zahkari (S7), InsertDotJpeg (S7), GhostLikesCakes (S7), ShimamuraUzuki (S7), Godrixcs (S7), Greeples (S7), dahii (S9), EyeBlack (S9), ShyGus (S9), IMZ_imanzaza (S9)
+**1st - RemyChingling (15):** Zevulpes (S6), 5kylord (S6), Nikikula (S6), commitstaxfraud (S6), GhostLikesCakes (S6), Zahkari (S7), InsertDotJpeg (S7), GhostLikesCakes (S7), ShimamuraUzuki (S7), Godrixcs (S7), Greeples (S7), dahii (S9), EyeBlack (S9), ShyGus (S9), IMZ_imanzaza (S9)
 
 **2nd - checog (14):** dahii (S6), MarcC5M (S6), Glarza (S6), RemyChingling (S6), marcusmtm (S9), MaxCringe (S9), Gabey (S9), AiroKun (S9), Karliffu (S9), Exee (S9), brodioh (S9), IsaacMT (S9), ChrisCD (S9), PLENT (S9)
 
-**3rd - tilargo (11):** Edviin_ (S2), JaeHasNoMaidens (S2), typhlo0o (S2), Kiinako_ (S2), oworca (S2), Shadoune666 (S2), Daffz (S2), rippersteveM5 (S2), Sluggyg (S2), flameorb (S3), Chasmic (S3)
+**3rd - tilargo (11):** Edviin_ (S2), commitstaxfraud (S2), typhlo0o (S2), Kiinako_ (S2), oworca (S2), Shadoune666 (S2), Daffz (S2), rippersteveM5 (S2), Sluggyg (S2), flameorb (S3), Chasmic (S3)
 
 **4th - _Cleg (10):** IsaacMT (S1), Mop19 (S1), Skymeagle (S1), Daffz (S1), Reeppm (S1), Chasmic (S1), FazedMC (S1), CaesarOctavius (S1), Omyga (S3), Awticon (S3)
 
@@ -185,7 +185,7 @@
 
 **7th - m4ku (9):** Wqbbit (S4), Kiinako_ (S4), ScottPirie (S4), Nikikula (S4), Awticon (S4), Karliffu (S5), GhostLikesCakes (S5), Broseph (S5), wizarde (S5)
 
-**8th - 5kylord (8):** Fra49 (S3), Hoookey (S3), Haama_ (S4), aalaan (S4), JaeHasNoMaidens (S4), m4ku (S4), egl_ (S8), TheSlimeBrother (S8)
+**8th - 5kylord (8):** Fra49 (S3), Hoookey (S3), Haama_ (S4), aalaan (S4), commitstaxfraud (S4), m4ku (S4), egl_ (S8), TheSlimeBrother (S8)
 
 **8th - Awticon (8):** Jordtim (S4), ThePeridotKnight (S4), BowSpamLover (S4), xMisha (S4), Sluggyg (S4), EyeBlack (S4), TheSonicJoey (S4), TonyEatWorld (S6)
 
@@ -209,11 +209,11 @@
 
 **18th - CipherKai (5):** TonyEatWorld (S7), 5kylord (S7), spittoon (S7), qFern (S7), Eluniel (S7)
 
-**18th - Dancoqui (5):** BSBrent (S3), JaeHasNoMaidens (S3), IsaacMT (S3), WALRUS_TIME (S3), vynil (S3)
+**18th - Dancoqui (5):** BSBrent (S3), commitstaxfraud (S3), IsaacMT (S3), WALRUS_TIME (S3), vynil (S3)
 
 **18th - DevoyTTV (5):** Mrakoslav (S9), 5kylord (S9), Sluggyg (S9), Plushy33 (S9), Glarza (S9)
 
-**18th - Glarza (5):** _Dieter (S6), Clemjo (S8), CodeJoshua (S8), JaeHasNoMaidens (S9), poWpaH (S9)
+**18th - Glarza (5):** _Dieter (S6), Clemjo (S8), CodeJoshua (S8), commitstaxfraud (S9), poWpaH (S9)
 
 **18th - ItsColinn (5):** discoczibi (S7), Valnius (S7), poWpaH (S7), dahii (S8), IMZ_imanzaza (S8)
 
@@ -313,6 +313,8 @@
 
 **67th - Chasmic (1):** frogsella (S3)
 
+**67th - commitstaxfraud (1):** Frostbreath (S3)
+
 **67th - Eluniel (1):** Kieranborn (S5)
 
 **67th - EyeBlack (1):** tescobagforlife (S4)
@@ -328,8 +330,6 @@
 **67th - Haama_ (1):** xote2000 (S2)
 
 **67th - ItsShqky (1):** Ten10TH (S7)
-
-**67th - JaeHasNoMaidens (1):** Frostbreath (S3)
 
 **67th - jamertxn (1):** DarV2 (S6)
 
@@ -370,15 +370,13 @@
 ---
 ### PvE Deaths
 
-**Creeper (7):** DancersTalon (S2), Long_Journey (S2), InsertDotJpeg (S4), LegoBeast (S4), wibbol (S4), Zylen (S7), aalaan (S8)
+**Creeper (9):** DancersTalon (S2), Long_Journey (S2), InsertDotJpeg (S4), LegoBeast (S4), wibbol (S4), PLENT (S6), spittoon (S6), Zylen (S7), aalaan (S8)
 
 **Fall (5):** Godrixcs (S2), DancersTalon (S5), TheBP (S6), DarV2 (S7), egl_ (S7)
 
 **Skeleton (3):** IsaacMT (S4), jamertxn (S6), Phyrrus (S8)
 
 **Burning (2):** sirples (S2), lottebunny (S9)
-
-**Creeper  (2):** PLENT (S6), spittoon (S6)
 
 **Enderman (1):** frogsella (S7)
 
@@ -399,7 +397,7 @@
 
 **6 Seasons (1):** InsertDotJpeg (S2,S4-S8)
 
-**5 Seasons (8):** Daffz (S1-S5), IsaacMT (S1-S4,S9), JaeHasNoMaidens (S2-S4,S6,S9), Fra49 (S3-S6,S8), m4ku (S3-S5,S8-S9), Karliffu (S5-S9), poWpaH (S5-S9), spittoon (S5-S9)
+**5 Seasons (8):** Daffz (S1-S5), IsaacMT (S1-S4,S9), commitstaxfraud (S2-S4,S6,S9), Fra49 (S3-S6,S8), m4ku (S3-S5,S8-S9), Karliffu (S5-S9), poWpaH (S5-S9), spittoon (S5-S9)
 
 **4 Seasons (14):** Chasmic (S1-S3,S9), Kiinako_ (S1-S4), Zylen (S1-S2,S7,S9), DancersTalon (S2-S3,S5,S9), Fancyyy (S2-S5), Godrixcs (S2-S3,S7-S8), Sluggyg (S2-S4,S9), WALRUS_TIME (S2-S3,S5,S8), Awticon (S3-S6), frogsella (S3-S5,S7), Rasguer (S3,S5,S7-S8), Nikikula (S4-S7), Phyrrus (S5,S7-S9), dahii (S6-S9)
 
@@ -414,7 +412,7 @@
 
 **S1 (24):** _Cleg, 016Nojr, Axer_, BaneOfSmite, CaesarOctavius, Chasmic, Chipzzy, chloesad, Daffz, FazedMC, Frostbreath, FrozenBenny, GRLH, IsaacMT, Kiinako_, Mop19, Odennn, pierce981, rattyplayz, Reeppm, rippersteveM5, Skymeagle, VeniiiD, Zylen
 
-**S2 (21):** BSBrent, DancersTalon, Edviin_, EyeBlack, Fancyyy, Godrixcs, Haama_, InsertDotJpeg, JaeHasNoMaidens, Jpgesus, Long_Journey, oworca, powermc, Shadoune666, sirples, Sluggyg, TheSonicJoey, tilargo, typhlo0o, WALRUS_TIME, xote2000
+**S2 (21):** BSBrent, commitstaxfraud, DancersTalon, Edviin_, EyeBlack, Fancyyy, Godrixcs, Haama_, InsertDotJpeg, Jpgesus, Long_Journey, oworca, powermc, Shadoune666, sirples, Sluggyg, TheSonicJoey, tilargo, typhlo0o, WALRUS_TIME, xote2000
 
 **S3 (29):** 5kylord, AvaCos, awesomemacD, Awticon, BowSpamLover, Dancoqui, Emylyl, Ferkikudo, flameorb, Fra49, frogsella, Hacn35, HoneyFromHell, Hoookey, IncredibleDino, JamestheDouglas, Krenzinator, lottebunny, m4ku, MajorWoof, matking91, Maxwellfifty, Nykke420, Omyga, PMC_Sanji, QuilJ1, Rasguer, tescobagforlife, vynil
 

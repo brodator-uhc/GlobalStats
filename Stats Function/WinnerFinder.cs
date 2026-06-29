@@ -70,6 +70,7 @@ namespace StatsAnalyzer
                     seasonInfo.SeasonGamemodes.Contains("Escape From Gaia") ||
                     seasonInfo.SeasonGamemodes.Contains("Trouble In Paradise") ||
                     seasonInfo.SeasonGamemodes.Contains("Dragon Rush Deviation Version") ||
+                    seasonInfo.SeasonGamemodes.Contains("Mega Spud Rush") ||
                     seasonInfo.SeasonGamemodes.Contains("Hydra Rush"))
                 {
                     IXLCell dragonRushCell = winnerInfo.LastDataRowCell.CellRight(2);

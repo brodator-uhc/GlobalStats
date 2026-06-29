@@ -7,7 +7,7 @@
 
 **S2: Maxwellfifty (3)**, *5hup (3)*
 
-**S3: _Bogo (4), Swedish_ (1)**, *Flouzemaker (1), Kingsy_ (0)*
+**S3: _Bogo (4), Swedish_ (1)**, *Flouzemaker (1), JerseyTheDevil (0)*
 
 **S4: ScottPirie (2)**
 
@@ -40,7 +40,7 @@
 
 **S2:** 5hup (3), Maxwellfifty (3)
 
-**S3:** Kingsy_ (0), Flouzemaker (1), _Bogo (4), Swedish_ (1)
+**S3:** JerseyTheDevil (0), Flouzemaker (1), _Bogo (4), Swedish_ (1)
 
 **S4:** N/A
 
@@ -64,7 +64,7 @@
 
 **S3:** Leriella (2:10:56)
 
-**S4:** Kingsy_ (1:41:22)
+**S4:** JerseyTheDevil (1:41:22)
 
 ---
 ### First Blood
@@ -91,9 +91,9 @@
 ---
 ### Kills
 
-**1st - _Bogo (9):** GeeSam (S1), Swedish_ (S1), LinkOcarinaTime (S1), Maxwellfifty (S1), CountryCutie (S3), GeeSam (S3), Maxwellfifty (S3), SidGarcia (S3), Kingsy_ (S4)
+**1st - _Bogo (9):** GeeSam (S1), Swedish_ (S1), LinkOcarinaTime (S1), Maxwellfifty (S1), CountryCutie (S3), GeeSam (S3), Maxwellfifty (S3), SidGarcia (S3), JerseyTheDevil (S4)
 
-**2nd - 5hup (6):** TheMop (S2), Kingsy_ (S2), MrPolzerino (S2), KatyLawson (S4), poempedoempoex (S4), oDogLFC (S4)
+**2nd - 5hup (6):** TheMop (S2), JerseyTheDevil (S2), MrPolzerino (S2), KatyLawson (S4), poempedoempoex (S4), oDogLFC (S4)
 
 **3rd - Swedish_ (5):** Emerric (S1), ScottPirie (S1), Flohp (S1), GeeSam (S2), ShyGus (S3)
 
@@ -121,11 +121,11 @@
 
 **12th - Flouzemaker (2):** oDogLFC (S3), jvevo (S4)
 
-**12th - Hollymatman (2):** Kingsy_ (S1), BarbieGamer (S1)
+**12th - Hollymatman (2):** JerseyTheDevil (S1), BarbieGamer (S1)
 
-**12th - Kingsy_ (2):** Tomathius (S1), MrCraftinator (S2)
+**12th - JerseyTheDevil (2):** Tomathius (S1), MrCraftinator (S2)
 
-**12th - ShyGus (2):** Ruari (S1), Kingsy_ (S3)
+**12th - ShyGus (2):** Ruari (S1), JerseyTheDevil (S3)
 
 **12th - SidGarcia (2):** Chasmic (S2), BarbieGamer (S2)
 
@@ -155,7 +155,7 @@
 ---
 ### Participation
 
-**4 Seasons (5):** 5hup (S1-S4), Chasmic (S1-S4), GeeSam (S1-S4), Kingsy_ (S1-S4), poempedoempoex (S1-S4)
+**4 Seasons (5):** 5hup (S1-S4), Chasmic (S1-S4), GeeSam (S1-S4), JerseyTheDevil (S1-S4), poempedoempoex (S1-S4)
 
 **3 Seasons (15):** _Bogo (S1,S3-S4), CountryCutie (S1-S3), Emerric (S1-S3), KatyLawson (S1,S3-S4), Leriella (S1-S3), Maxwellfifty (S1-S3), QuilJ1 (S1,S3-S4), Ruari (S1-S2,S4), ScottPirie (S1-S2,S4), Swedish_ (S1-S3), TheSonicJoey (S1-S3), xPhinehas (S1-S3), FazedMC (S2-S4), Flouzemaker (S2-S4), oDogLFC (S2-S4)
 
@@ -166,7 +166,7 @@
 ---
 ### Debutants
 
-**S1 (30):** _Bogo, 5hup, BarbieGamer, CelVeritas, Chasmic, CountryCutie, Emerric, Flohp, GeeSam, Gillieeeee, Hollymatman, KatyLawson, Kingsy_, Leriella, LinkOcarinaTime, Livin423, Maxwellfifty, poempedoempoex, QuilJ1, Ruari, ScottPirie, ShyGus, Supah_Matt, Swedish_, Swyrnd, TheSonicJoey, Tomathius, Tomochevski, TotallyNotSirius, xPhinehas
+**S1 (30):** _Bogo, 5hup, BarbieGamer, CelVeritas, Chasmic, CountryCutie, Emerric, Flohp, GeeSam, Gillieeeee, Hollymatman, JerseyTheDevil, KatyLawson, Leriella, LinkOcarinaTime, Livin423, Maxwellfifty, poempedoempoex, QuilJ1, Ruari, ScottPirie, ShyGus, Supah_Matt, Swedish_, Swyrnd, TheSonicJoey, Tomathius, Tomochevski, TotallyNotSirius, xPhinehas
 
 **S2 (7):** FazedMC, Flouzemaker, MrCraftinator, MrPolzerino, oDogLFC, SidGarcia, TheMop
 

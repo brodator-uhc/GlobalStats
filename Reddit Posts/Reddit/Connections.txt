@@ -21,11 +21,11 @@
 
 **S9: PresidentFleb (7)**, *_ChrisMS (1), Normoh (0)*
 
-**S10: 4EyedSlime (2), JaeHasNoMaidens (4)**
+**S10: 4EyedSlime (2), commitstaxfraud (4)**
 
 **S11: Fcrm (7)**
 
-**S12: Fcrm (6), Jordtim (0), RqDix (3)**, *ohh_lia (0), Ullti (0)*
+**S12: AsianCheatCode (3), Fcrm (6), Jordtim (0)**, *ohh_lia (0), Ullti (0)*
 
 **S13: Coward (4)**, *_ChrisMS (0), ArcticSeagull (0), Drkrai (1)*
 
@@ -76,7 +76,7 @@
 
 **S15:** Caydone (2), Rohcket (0), wizarde (2)
 
-**S16:** _Dieter (1), Caydone (1), Charrlottie (0), RqDix (0)
+**S16:** _Dieter (1), AsianCheatCode (0), Caydone (1), Charrlottie (0)
 
 **S17:** acadiangel (2), CodeJoshua (0), ohh_lia (1)
 
@@ -107,7 +107,7 @@
 
 **S9:** PresidentFleb (7)
 
-**S10:** JaeHasNoMaidens (4)
+**S10:** commitstaxfraud (4)
 
 **S11:** Fcrm (7)
 
@@ -150,7 +150,7 @@
 
 **S9:** _ChrisMS (1), PresidentFleb (7), Normoh (0)
 
-**S10:** 4EyedSlime (2), JaeHasNoMaidens (4)
+**S10:** 4EyedSlime (2), commitstaxfraud (4)
 
 **S11:** N/A
 
@@ -283,7 +283,7 @@
 
 **S11:** natsuvi (Potsie)
 
-**S12:** RqDix (Markedbooboy)
+**S12:** AsianCheatCode (Markedbooboy)
 
 **S13:** FrostBros (ArcticSeagull)
 
@@ -326,7 +326,7 @@
 
 **S11:** Potsie (natsuvi)
 
-**S12:** Markedbooboy (RqDix)
+**S12:** Markedbooboy (AsianCheatCode)
 
 **S13:** TheSlimeBrother (Burning)
 
@@ -357,9 +357,9 @@
 
 **5th - Lighte (20):** SoupestGlobe (S1), CocoBenja (S4), FrostBros (S4), izunai (S5), JamestheDouglas (S5), Codwhy (S5), Brodator (S6), ZachMcD (S6), Digdude (S6), FrostBros (S6), Ullti (S6), Caydone (S6), TheSlimeBrother (S20), 4EyedSlime (S20), Fcrm (S20), Brodator (S20), Vetmire (S20), Rohcket (S20), marcusmtm (S20), wizarde (S20)
 
-**6th - wizarde (18):** Fcrm (S8), Pelycosaur (S8), TayUHC (S8), Jayzize (S8), Kaddyn (S9), Codwhy (S9), RqDix (S15), _ChrisMS (S15), DianaB (S16), SpaceFenix (S16), ItsColinn (S16), Brodator (S16), _Dieter (S16), RqDix (S16), Drkrai (S16), Caydone (S16), Evzenitable (S19), Evzenitable (S20)
+**6th - wizarde (18):** Fcrm (S8), Pelycosaur (S8), TayUHC (S8), Jayzize (S8), Kaddyn (S9), Codwhy (S9), AsianCheatCode (S15), _ChrisMS (S15), DianaB (S16), SpaceFenix (S16), ItsColinn (S16), Brodator (S16), _Dieter (S16), AsianCheatCode (S16), Drkrai (S16), Caydone (S16), Evzenitable (S19), Evzenitable (S20)
 
-**7th - Coward (15):** jakeyx3 (S1), HyperOutHere (S1), DevoyTTV (S1), Vetmire (S3), ItsColinn (S4), ghostblurr (S7), dumbhaela (S8), CocoBenja (S8), JaeHasNoMaidens (S8), _Dieter (S8), FrostBros (S10), SiahStone (S13), RqDix (S13), Lucarrio (S13), Fcrm (S13)
+**7th - Coward (15):** jakeyx3 (S1), HyperOutHere (S1), DevoyTTV (S1), Vetmire (S3), ItsColinn (S4), ghostblurr (S7), dumbhaela (S8), CocoBenja (S8), commitstaxfraud (S8), _Dieter (S8), FrostBros (S10), SiahStone (S13), AsianCheatCode (S13), Lucarrio (S13), Fcrm (S13)
 
 **7th - Normoh (15):** Bofishkix (S6), Chrominize (S6), 4EyedSlime (S6), xRosss (S8), chloesad (S8), Gorgerous (S11), ohh_lia (S11), tagggz (S11), cherryblawsom (S11), ItsColinn (S12), MaxEvasion (S12), SiahStone (S12), AdonisGaming (S17), Chrominize (S17), chugmitchell (S20)
 
@@ -367,7 +367,7 @@
 
 **10th - acadiangel (13):** Coward (S6), Keelando (S6), xRosss (S7), Fcrm (S7), Kelawesome (S7), AmbientDan (S8), ItsColinn (S8), Normoh (S8), ZachMcD (S8), Gorgerous (S16), ColdBac (S17), Kelawesome (S17), CodeJoshua (S18)
 
-**10th - DevoyTTV (13):** Markedbooboy (S2), Ullti (S4), KlutzySphere (S4), Alacan (S4), Bluests (S4), ZachMcD (S5), Digdude (S5), ghostblurr (S8), Rebelghost (S8), DogOfKrondor (S20), RqDix (S20), Greeples (S20), Lighte (S20)
+**10th - DevoyTTV (13):** Markedbooboy (S2), Ullti (S4), KlutzySphere (S4), Alacan (S4), Bluests (S4), ZachMcD (S5), Digdude (S5), ghostblurr (S8), Rebelghost (S8), DogOfKrondor (S20), AsianCheatCode (S20), Greeples (S20), Lighte (S20)
 
 **10th - FrostBros (13):** Vetmire (S5), honestlyhunter (S5), nsket (S5), xCand (S6), cherryblawsom (S7), _ChrisMS (S7), DianaB (S8), DeluxeSniper (S8), SoupestGlobe (S9), 4EyedSlime (S9), ArcticSeagull (S13), tagggz (S13), Glarza (S13)
 
@@ -377,13 +377,13 @@
 
 **14th - xRosss (12):** _ChrisMS (S1), Awticon (S1), Lighte (S1), zac083 (S1), nh177O13 (S1), Brodator (S3), Digdude (S3), wowjennawow (S3), Evzenitable (S5), chugmitchell (S6), Vetmire (S7), SiahStone (S7)
 
-**16th - Spongey (11):** Vetmire (S17), RqDix (S17), nsket (S17), Fcrm (S17), Normoh (S17), WackoFlipper (S17), Kaismartypants (S18), _1mmortal_ (S18), Markedbooboy (S18), Kelawesome (S18), wizarde (S18)
+**16th - Spongey (11):** Vetmire (S17), AsianCheatCode (S17), nsket (S17), Fcrm (S17), Normoh (S17), WackoFlipper (S17), Kaismartypants (S18), _1mmortal_ (S18), Markedbooboy (S18), Kelawesome (S18), wizarde (S18)
+
+**17th - AsianCheatCode (10):** Markedbooboy (S12), _Dieter (S12), ZebraPantz (S12), ZachMcD (S13), Evzenitable (S14), CodeJoshua (S14), FrostBros (S14), Normoh (S15), DJoee (S20), Charrlottie (S20)
 
 **17th - Glarza (10):** Kaddyn (S10), Gorgerous (S10), ItsColinn (S11), 4EyedSlime (S13), Captinn (S13), jakeyx3 (S16), azoof (S17), Lighte (S17), TheRealHagrid (S17), Spongey (S17)
 
 **17th - Markedbooboy (10):** ArcticSeagull (S8), MaxEvasion (S13), Kelawesome (S14), Fra49 (S16), AirInAirOut (S18), Bobbytheturtle (S18), aalaan (S18), marcusmtm (S19), aalaan (S19), egl_ (S19)
-
-**17th - RqDix (10):** Markedbooboy (S12), _Dieter (S12), ZebraPantz (S12), ZachMcD (S13), Evzenitable (S14), CodeJoshua (S14), FrostBros (S14), Normoh (S15), DJoee (S20), Charrlottie (S20)
 
 **20th - benidk (9):** Ryfri (S16), Gorgerous (S18), cherryblawsom (S19), SiahStone (S19), DogOfKrondor (S19), DeluxeSniper (S19), wizarde (S19), fruitlogic (S20), Flcnt (S20)
 
@@ -415,7 +415,7 @@
 
 **30th - Ullti (7):** xRosss (S2), ZachMcD (S2), yuhFazz (S3), Fcrm (S6), Charrlottie (S9), Glarza (S9), Greeples (S15)
 
-**35th - _ChrisMS (6):** Codwhy (S6), LoafOZ (S8), Dawncy (S9), RqDix (S14), azoof (S14), MaxEvasion (S14)
+**35th - _ChrisMS (6):** Codwhy (S6), LoafOZ (S8), Dawncy (S9), AsianCheatCode (S14), azoof (S14), MaxEvasion (S14)
 
 **35th - Bluests (6):** JamestheDouglas (S3), Bofishkix (S3), ElGavinoSupremo (S5), PresidentFleb (S8), chugmitchell (S8), Lighte (S16)
 
@@ -423,7 +423,7 @@
 
 **35th - Jayzize (6):** Bofishkix (S8), Coward (S8), SoupestGlobe (S10), zac083 (S10), _ChrisMS (S17), Normoh (S20)
 
-**35th - WackoFlipper (6):** Ullti (S2), Caydone (S8), JaeHasNoMaidens (S11), kirbey (S20), Jayzize (S20), egl_ (S20)
+**35th - WackoFlipper (6):** Ullti (S2), Caydone (S8), commitstaxfraud (S11), kirbey (S20), Jayzize (S20), egl_ (S20)
 
 **40th - aalaan (5):** Vetmire (S8), nFang (S9), Markedbooboy (S10), Jayzize (S17), _Dieter (S18)
 
@@ -431,13 +431,13 @@
 
 **40th - Broseph (5):** 4EyedSlime (S1), Tneesh (S1), HyperOutHere (S4), xRosss (S4), Pelycosaur (S4)
 
+**40th - commitstaxfraud (5):** ElGavinoSupremo (S8), aalaan (S10), Captinn (S10), Jayzize (S10), Caydone (S10)
+
 **40th - egl_ (5):** Glarza (S8), Markedbooboy (S8), Spongey (S19), CodeJoshua (S19), PresidentFleb (S20)
 
 **40th - Flcnt (5):** Jayzize (S12), CodeJoshua (S12), 4EyedSlime (S12), _pbo (S18), aalaan (S20)
 
 **40th - HyperOutHere (5):** Digdude (S4), nh177O13 (S4), CHAINGE (S6), Evzenitable (S6), JamestheDouglas (S6)
-
-**40th - JaeHasNoMaidens (5):** ElGavinoSupremo (S8), aalaan (S10), Captinn (S10), Jayzize (S10), Caydone (S10)
 
 **40th - jakeyx3 (5):** xCand (S3), 4EyedSlime (S4), Harmen (S5), Flcnt (S16), benidk (S17)
 
@@ -605,7 +605,7 @@
 
 **8 Seasons (11):** DevoyTTV (S1-S5,S8,S19-S20), jakeyx3 (S1,S3-S6,S16-S17,S20), Lighte (S1,S4-S6,S16-S17,S19-S20), xRosss (S1-S8), Pelycosaur (S2-S8,S10), Evzenitable (S3-S7,S14,S19-S20), Codwhy (S5-S9,S13-S14,S17), Jayzize (S7-S8,S10-S13,S17,S20), natsuvi (S8,S10-S11,S15-S18,S20), wizarde (S8-S9,S14-S16,S18-S20), Charrlottie (S9,S11-S14,S16-S17,S20)
 
-**7 Seasons (9):** zac083 (S1,S8,S10-S11,S13-S14,S20), Bofishkix (S2-S8), CocoBenja (S2-S8), WackoFlipper (S2,S8-S11,S17,S20), Captinn (S9-S13,S15,S20), Ryfri (S11-S12,S15-S18,S20), benidk (S12,S15-S20), CodeJoshua (S12,S14,S16-S20), RqDix (S12-S17,S20)
+**7 Seasons (9):** zac083 (S1,S8,S10-S11,S13-S14,S20), Bofishkix (S2-S8), CocoBenja (S2-S8), WackoFlipper (S2,S8-S11,S17,S20), Captinn (S9-S13,S15,S20), Ryfri (S11-S12,S15-S18,S20), AsianCheatCode (S12-S17,S20), benidk (S12,S15-S20), CodeJoshua (S12,S14,S16-S20)
 
 **6 Seasons (12):** chugmitchell (S1,S4-S6,S8,S20), ZachMcD (S2,S4-S6,S8,S13), Bluests (S3-S5,S8,S16-S17), olivieh (S5,S7-S9,S12,S20), _Fost_ (S6-S8,S11,S14,S16), cherryblawsom (S7,S11,S14,S16,S19-S20), Kaddyn (S9-S10,S13-S14,S17,S20), kirbey (S9-S11,S13-S14,S20), Karliffu (S10-S14,S20), Rohcket (S11,S13,S15-S16,S18,S20), _pbo (S12-S13,S16-S19), ColdBac (S13,S15-S19)
 
@@ -613,7 +613,7 @@
 
 **4 Seasons (17):** HyperOutHere (S1,S4-S6), izunai (S1,S3-S5), nh177O13 (S1-S4), nsket (S1,S5,S17,S20), SoupestGlobe (S1,S9-S11), Digdude (S3-S6), ghostblurr (S5-S8), Keelando (S5-S6,S8,S12), CHAINGE (S6,S8,S13-S14), SiahStone (S7,S12-S13,S19), Rebelghost (S8,S13-S14,S16), Jordtim (S10-S13), Livin423 (S10-S11,S16-S17), DogOfKrondor (S14,S18-S20), Bobbytheturtle (S16-S18,S20), Kaismartypants (S17-S20), Spongey (S17-S20)
 
-**3 Seasons (25):** Broseph (S1,S4,S19), JoshC2 (S1-S2,S8), Yveltql (S2,S7-S8), JamestheDouglas (S3,S5-S6), RassL (S3,S16-S17), SummerBqsh (S3-S4,S6), Alacan (S4-S5,S13), DeluxeSniper (S5,S8,S19), Psykl0ne (S5,S18,S20), Chrominize (S6,S13,S17), Dawncy (S8-S10), egl_ (S8,S19-S20), Fra49 (S8,S16,S20), JaeHasNoMaidens (S8,S10-S11), LoafOZ (S8-S10), azoof (S9,S14,S17), tagggz (S11,S13,S15), ZebraPantz (S11-S12,S14), Drkrai (S13-S14,S16), Greeples (S13,S15,S20), fruitlogic (S17,S19-S20), _1mmortal_ (S18-S20), AirInAirOut (S18-S20), dahii (S18-S20), DJoee (S18-S20)
+**3 Seasons (25):** Broseph (S1,S4,S19), JoshC2 (S1-S2,S8), Yveltql (S2,S7-S8), JamestheDouglas (S3,S5-S6), RassL (S3,S16-S17), SummerBqsh (S3-S4,S6), Alacan (S4-S5,S13), DeluxeSniper (S5,S8,S19), Psykl0ne (S5,S18,S20), Chrominize (S6,S13,S17), commitstaxfraud (S8,S10-S11), Dawncy (S8-S10), egl_ (S8,S19-S20), Fra49 (S8,S16,S20), LoafOZ (S8-S10), azoof (S9,S14,S17), tagggz (S11,S13,S15), ZebraPantz (S11-S12,S14), Drkrai (S13-S14,S16), Greeples (S13,S15,S20), fruitlogic (S17,S19-S20), _1mmortal_ (S18-S20), AirInAirOut (S18-S20), dahii (S18-S20), DJoee (S18-S20)
 
 **2 Seasons (10):** Awticon (S1,S11), MinecrafNinja (S6,S11), TayUHC (S7-S8), DianaB (S8,S16), nFang (S8-S9), ethodog (S11-S12), ShyGus (S13-S14), TacoDab (S15-S16), lexicuhl (S18,S20), marcusmtm (S19-S20)
 
@@ -636,7 +636,7 @@
 
 **S7 (6):** _Dieter, aalaan, cherryblawsom, Jayzize, SiahStone, TayUHC
 
-**S8 (17):** AmbientDan, ArcticSeagull, chloesad, Davelions, Dawncy, DianaB, dumbhaela, egl_, Fra49, Glarza, JaeHasNoMaidens, LoafOZ, natsuvi, nFang, PresidentFleb, Rebelghost, wizarde
+**S8 (17):** AmbientDan, ArcticSeagull, chloesad, commitstaxfraud, Davelions, Dawncy, DianaB, dumbhaela, egl_, Fra49, Glarza, LoafOZ, natsuvi, nFang, PresidentFleb, Rebelghost, wizarde
 
 **S9 (6):** azoof, Captinn, Charrlottie, Gorgerous, Kaddyn, kirbey
 
@@ -644,7 +644,7 @@
 
 **S11 (7):** Cqson, ethodog, Potsie, Rohcket, Ryfri, tagggz, ZebraPantz
 
-**S12 (7):** _pbo, benidk, CodeJoshua, Eluniel, Flcnt, RqDix, TheSlimeBrother
+**S12 (7):** _pbo, AsianCheatCode, benidk, CodeJoshua, Eluniel, Flcnt, TheSlimeBrother
 
 **S13 (6):** ColdBac, Drkrai, Greeples, ShyGus, SpaceFenix, Spacepod_
 

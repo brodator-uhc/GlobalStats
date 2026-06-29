@@ -17,6 +17,8 @@
 
 **S7: alexnv (3)**, *Markedbooboy (0)*
 
+**S8: CodeJoshua (1), Markedbooboy (1)**, *Hecticity (4)*
+
 ---
 ### Runner Ups
 
@@ -33,6 +35,8 @@
 **S6:** alexnv (8), DJoee (2), Westcraft00 (0)
 
 **S7:** Blarkslol (2), DevoyTTV (1)
+
+**S8:** ArcticSeagull (1), BoltsInCharge (3), SpaceFenix (1)
 
 ---
 ### Most Kills
@@ -51,6 +55,8 @@
 
 **S7:** _Dieter, Kaddyn (4)
 
+**S8:** Hecticity (4)
+
 ---
 ### Most Kills (Team)
 
@@ -67,6 +73,8 @@
 **S6:** alexnv (8), DJoee (2), Westcraft00 (0)
 
 **S7:** _Dieter (4), kawaiibunri (2)
+
+**S8:** CodeJoshua (1), Hecticity (4), Markedbooboy (1)
 
 ---
 ### First Damage
@@ -85,6 +93,8 @@
 
 **S7:** Hecticity (0:3:48)
 
+**S8:** Greeples (0:6:7)
+
 ---
 ### Ironman
 
@@ -102,6 +112,8 @@
 
 **S7:** Blarkslol (1:32:3)
 
+**S8:** Markedbooboy (0:31:23)
+
 ---
 ### First Blood
 
@@ -109,7 +121,7 @@
 
 **S2:** PresidentFleb (Bradzi)
 
-**S3:** xRosss (JaeHasNoMaidens)
+**S3:** xRosss (commitstaxfraud)
 
 **S4:** natsuvi (Vetmire)
 
@@ -119,6 +131,8 @@
 
 **S7:** ScaryPumpkinFace (Markedbooboy)
 
+**S8:** CodeJoshua (natsuvi)
+
 ---
 ### First Death
 
@@ -126,7 +140,7 @@
 
 **S2:** Bradzi (PresidentFleb)
 
-**S3:** JaeHasNoMaidens (xRosss)
+**S3:** commitstaxfraud (xRosss)
 
 **S4:** Vetmire (natsuvi)
 
@@ -136,128 +150,136 @@
 
 **S7:** Markedbooboy (ScaryPumpkinFace)
 
+**S8:** natsuvi (CodeJoshua)
+
 ---
 ### Kills
 
 **1st - alexnv (11):** BoltsInCharge (S6), Markedbooboy (S6), ScaryPumpkinFace (S6), CommanderK22_ (S6), benidk (S6), Psykl0ne (S6), TehBaconBrawlerZ (S6), CodeJoshua (S6), Westcraft00 (S7), Bobbytheturtle (S7), Blarkslol (S7)
 
-**2nd - xRosss (10):** Rebelghost (S1), Pelycosaur (S1), Bradzi (S1), wizarde (S1), Davidsid (S2), kalleina (S2), Zcin (S2), Brodator (S2), JaeHasNoMaidens (S3), natsuvi (S3)
+**2nd - xRosss (10):** Rebelghost (S1), Pelycosaur (S1), Bradzi (S1), wizarde (S1), Davidsid (S2), kalleina (S2), Zcin (S2), Brodator (S2), commitstaxfraud (S3), natsuvi (S3)
 
 **3rd - TayUHC (9):** Fourbitplayer (S1), kalleina (S1), pigghetti (S1), Dawncy (S3), Bofishkix (S3), ZebraPantz (S4), kalleina (S4), Glarza (S4), Jayzize (S4)
 
 **4th - acadiangel (8):** 4EyedSlime (S1), violetwoah (S1), ZebraPantz (S2), ArcticSeagull (S2), Vetmire (S2), MaxEvasion (S2), wizarde (S2), ColdBac (S7)
 
+**5th - Bobbytheturtle (7):** TacoDab (S5), JaqOnCraq (S5), benidk (S5), Spongey (S5), TacoDab (S7), SmolHatChild (S8), ZebraPantz (S8)
+
+**5th - Hecticity (7):** broccoliar (S7), CommanderK22_ (S7), ScaryPumpkinFace (S7), Greeples (S8), 4EyedSlime (S8), Bobbytheturtle (S8), SpaceFenix (S8)
+
 **5th - poWpaH (7):** ArcticSeagull (S3), LoafOZ (S3), _Fost_ (S3), ArcticSeagull (S6), Glarza (S6), broccoliar (S6), Kaismartypants (S6)
 
-**6th - _Dieter (6):** Broseph (S6), fruitlogic (S6), benidk (S7), Greeples (S7), DevoyTTV (S7), Kaismartypants (S7)
+**8th - _Dieter (6):** Broseph (S6), fruitlogic (S6), benidk (S7), Greeples (S7), DevoyTTV (S7), Kaismartypants (S7)
 
-**6th - Brodator (6):** Fcrm (S2), Jahrod (S4), _1mmortal_ (S5), lexicuhl (S5), TheSlimeBrother (S5), AHSOKATANOSTAN (S5)
+**8th - 4EyedSlime (6):** nFang (S3), Jayzize (S3), LoafOZ (S4), ZachMcD (S4), Greeples (S6), zCent (S8)
 
-**6th - MaxEvasion (6):** Fra49 (S1), JaqOnCraq (S1), _Fost_ (S1), Vetmire (S1), Plushy33 (S2), Fourbitplayer (S3)
+**8th - Brodator (6):** Fcrm (S2), Jahrod (S4), _1mmortal_ (S5), lexicuhl (S5), TheSlimeBrother (S5), AHSOKATANOSTAN (S5)
 
-**6th - Pelycosaur (6):** egl_ (S2), SpaceFenix (S2), xRosss (S2), nFang (S2), PresidentFleb (S2), 78ford (S3)
+**8th - MaxEvasion (6):** Fra49 (S1), JaqOnCraq (S1), _Fost_ (S1), Vetmire (S1), Plushy33 (S2), Fourbitplayer (S3)
 
-**10th - 4EyedSlime (5):** nFang (S3), Jayzize (S3), LoafOZ (S4), ZachMcD (S4), Greeples (S6)
+**8th - Pelycosaur (6):** egl_ (S2), SpaceFenix (S2), xRosss (S2), nFang (S2), PresidentFleb (S2), 78ford (S3)
 
-**10th - benidk (5):** ArcticSeagull (S5), CodeJoshua (S5), Stravilight (S6), MercuryParadox (S6), vynil (S6)
+**13th - benidk (5):** ArcticSeagull (S5), CodeJoshua (S5), Stravilight (S6), MercuryParadox (S6), vynil (S6)
 
-**10th - Bobbytheturtle (5):** TacoDab (S5), JaqOnCraq (S5), benidk (S5), Spongey (S5), TacoDab (S7)
+**13th - Fcrm (5):** 78ford (S2), Jahrod (S2), Captinn (S2), jakeyx3 (S5), alexnv (S6)
 
-**10th - Fcrm (5):** 78ford (S2), Jahrod (S2), Captinn (S2), jakeyx3 (S5), alexnv (S6)
+**13th - Kaddyn (5):** Ryfri (S7), Broseph (S7), kawaiibunri (S7), _Dieter (S7), ArcticSeagull (S8)
 
-**10th - Karliffu (5):** ItsShqky (S3), FrostBros (S3), SpaceFenix (S3), poWpaH (S3), poWpaH (S4)
+**13th - Karliffu (5):** ItsShqky (S3), FrostBros (S3), SpaceFenix (S3), poWpaH (S3), poWpaH (S4)
 
-**10th - wizarde (5):** Dawncy (S1), SpaceFenix (S1), Plushy33 (S1), CrowJRC (S2), aalaan (S7)
+**13th - SpaceFenix (5):** Kaismartypants (S1), aalaan (S1), hazel_doe (S4), 78ford (S4), _1mmortal_ (S8)
 
-**16th - _Fost_ (4):** Caydone (S1), ElGavinoSupremo (S1), Phyrrus (S1), PresidentFleb (S3)
+**13th - wizarde (5):** Dawncy (S1), SpaceFenix (S1), Plushy33 (S1), CrowJRC (S2), aalaan (S7)
 
-**16th - Caydone (4):** Brodator (S1), MaxEvasion (S3), TayUHC (S3), Karliffu (S3)
+**19th - _Fost_ (4):** Caydone (S1), ElGavinoSupremo (S1), Phyrrus (S1), PresidentFleb (S3)
 
-**16th - CipherKai (4):** emi1iano (S4), Zcin (S4), BoltsInCharge (S7), acadiangel (S7)
+**19th - Caydone (4):** Brodator (S1), MaxEvasion (S3), TayUHC (S3), Karliffu (S3)
 
-**16th - Kaddyn (4):** Ryfri (S7), Broseph (S7), kawaiibunri (S7), _Dieter (S7)
+**19th - CipherKai (4):** emi1iano (S4), Zcin (S4), BoltsInCharge (S7), acadiangel (S7)
 
-**16th - kawaiibunri (4):** PitSolitayrh (S6), SmolHatChild (S6), ArcticSeagull (S7), Flcnt (S7)
+**19th - kawaiibunri (4):** PitSolitayrh (S6), SmolHatChild (S6), ArcticSeagull (S7), Flcnt (S7)
 
-**16th - LoafOZ (4):** TehBaconBrawlerZ (S3), Captinn (S3), egl_ (S3), olivieh (S4)
+**19th - LoafOZ (4):** TehBaconBrawlerZ (S3), Captinn (S3), egl_ (S3), olivieh (S4)
 
-**16th - pigghetti (4):** MaxEvasion (S1), acadiangel (S1), _Fost_ (S4), natsuvi (S4)
+**19th - pigghetti (4):** MaxEvasion (S1), acadiangel (S1), _Fost_ (S4), natsuvi (S4)
 
-**16th - PresidentFleb (4):** Bradzi (S2), Davidsid (S3), Vetmire (S3), 4EyedSlime (S3)
+**19th - PresidentFleb (4):** Bradzi (S2), Davidsid (S3), Vetmire (S3), 4EyedSlime (S3)
 
-**16th - SpaceFenix (4):** Kaismartypants (S1), aalaan (S1), hazel_doe (S4), 78ford (S4)
+**26th - ArcticSeagull (3):** xRosss (S3), Stravilight (S4), aalaan (S8)
 
-**25th - Blarkslol (3):** _Dieter (S6), CipherKai (S7), Kaddyn (S7)
+**26th - Blarkslol (3):** _Dieter (S6), CipherKai (S7), Kaddyn (S7)
 
-**25th - Captinn (3):** SpaceFenix (S4), cherryblawsom (S4), ShyGus (S4)
+**26th - BoltsInCharge (3):** CAMKART100 (S8), Kaddyn (S8), Hecticity (S8)
 
-**25th - Hecticity (3):** broccoliar (S7), CommanderK22_ (S7), ScaryPumpkinFace (S7)
+**26th - Captinn (3):** SpaceFenix (S4), cherryblawsom (S4), ShyGus (S4)
 
-**25th - Jahrod (3):** Fourbitplayer (S2), ShyGus (S3), Charrlottie (S4)
+**26th - CodeJoshua (3):** Fcrm (S5), poWpaH (S6), natsuvi (S8)
 
-**25th - JaqOnCraq (3):** 78ford (S1), Ryfri (S1), Normoh (S5)
+**26th - Jahrod (3):** Fourbitplayer (S2), ShyGus (S3), Charrlottie (S4)
 
-**25th - natsuvi (3):** Vetmire (S4), Brodator (S4), 4EyedSlime (S4)
+**26th - JaqOnCraq (3):** 78ford (S1), Ryfri (S1), Normoh (S5)
 
-**25th - Stravilight (3):** 4EyedSlime (S5), DogOfKrondor (S6), Hecticity (S7)
+**26th - natsuvi (3):** Vetmire (S4), Brodator (S4), 4EyedSlime (S4)
 
-**25th - ZachMcD (3):** Bofishkix (S4), Karliffu (S4), ArcticSeagull (S4)
+**26th - Stravilight (3):** 4EyedSlime (S5), DogOfKrondor (S6), Hecticity (S7)
 
-**33rd - AHSOKATANOSTAN (2):** acadiangel (S5), TehBaconBrawlerZ (S5)
+**26th - ZachMcD (3):** Bofishkix (S4), Karliffu (S4), ArcticSeagull (S4)
 
-**33rd - ArcticSeagull (2):** xRosss (S3), Stravilight (S4)
+**36th - AHSOKATANOSTAN (2):** acadiangel (S5), TehBaconBrawlerZ (S5)
 
-**33rd - CodeJoshua (2):** Fcrm (S5), poWpaH (S6)
+**36th - ColdBac (2):** MercuryParadox (S5), 4EyedSlime (S7)
 
-**33rd - ColdBac (2):** MercuryParadox (S5), 4EyedSlime (S7)
+**36th - DJoee (2):** Blarkslol (S6), ChainingVermin2 (S6)
 
-**33rd - DJoee (2):** Blarkslol (S6), ChainingVermin2 (S6)
+**36th - egl_ (2):** aalaan (S2), Jahrod (S3)
 
-**33rd - egl_ (2):** aalaan (S2), Jahrod (S3)
+**36th - Glarza (2):** Charrlottie (S3), Codwhy (S4)
 
-**33rd - Glarza (2):** Charrlottie (S3), Codwhy (S4)
+**36th - Ryfri (2):** Stravilight (S7), _1mmortal_ (S7)
 
-**33rd - Ryfri (2):** Stravilight (S7), _1mmortal_ (S7)
+**36th - ScaryPumpkinFace (2):** gartbak (S6), Markedbooboy (S7)
 
-**33rd - ScaryPumpkinFace (2):** gartbak (S6), Markedbooboy (S7)
+**36th - ShyGus (2):** Brodator (S3), CipherKai (S4)
 
-**33rd - ShyGus (2):** Brodator (S3), CipherKai (S4)
+**36th - Spongey (2):** Blarkslol (S5), Stravilight (S5)
 
-**33rd - Spongey (2):** Blarkslol (S5), Stravilight (S5)
+**36th - TehBaconBrawlerZ (2):** _Dieter (S5), ColdBac (S5)
 
-**33rd - TehBaconBrawlerZ (2):** _Dieter (S5), ColdBac (S5)
+**46th - Bradzi (1):** PresidentFleb (S1)
 
-**45th - Bradzi (1):** PresidentFleb (S1)
+**46th - broccoliar (1):** _1mmortal_ (S6)
 
-**45th - broccoliar (1):** _1mmortal_ (S6)
+**46th - cherryblawsom (1):** Fra49 (S4)
 
-**45th - cherryblawsom (1):** Fra49 (S4)
+**46th - Codwhy (1):** TayUHC (S2)
 
-**45th - Codwhy (1):** TayUHC (S2)
+**46th - CommanderK22_ (1):** DJoee (S6)
 
-**45th - CommanderK22_ (1):** DJoee (S6)
+**46th - DevoyTTV (1):** wizarde (S7)
 
-**45th - DevoyTTV (1):** wizarde (S7)
+**46th - FrostBros (1):** Pelycosaur (S3)
 
-**45th - FrostBros (1):** Pelycosaur (S3)
+**46th - fruitlogic (1):** aalaan (S6)
 
-**45th - fruitlogic (1):** aalaan (S6)
+**46th - Greeples (1):** 4EyedSlime (S6)
 
-**45th - Greeples (1):** 4EyedSlime (S6)
+**46th - ItsShqky (1):** Glarza (S3)
 
-**45th - ItsShqky (1):** Glarza (S3)
+**46th - Jayzize (1):** violetwoah (S3)
 
-**45th - Jayzize (1):** violetwoah (S3)
+**46th - Kaismartypants (1):** Brodator (S6)
 
-**45th - Kaismartypants (1):** Brodator (S6)
+**46th - Markedbooboy (1):** BoltsInCharge (S8)
 
-**45th - MercuryParadox (1):** kawaiibunri (S6)
+**46th - MercuryParadox (1):** kawaiibunri (S6)
 
-**45th - TacoDab (1):** fruitlogic (S5)
+**46th - TacoDab (1):** fruitlogic (S5)
 
-**45th - vynil (1):** Westcraft00 (S6)
+**46th - vynil (1):** Westcraft00 (S6)
 
-**45th - Zcin (1):** 4EyedSlime (S2)
+**46th - Zcin (1):** 4EyedSlime (S2)
+
+**46th - ZebraPantz (1):** Stravilight (S8)
 
 ---
 ### PvE Deaths
@@ -269,19 +291,21 @@
 ---
 ### Participation
 
-**7 Seasons (2):** 4EyedSlime (S1-S7), ArcticSeagull (S1-S7)
+**8 Seasons (2):** 4EyedSlime (S1-S8), ArcticSeagull (S1-S8)
+
+**7 Seasons (0):** 
 
 **6 Seasons (1):** Brodator (S1-S6)
 
-**5 Seasons (0):** 
+**5 Seasons (3):** aalaan (S1-S2,S6-S8), SpaceFenix (S1-S4,S8), Stravilight (S4-S8)
 
-**4 Seasons (7):** 78ford (S1-S4), aalaan (S1-S2,S6-S7), acadiangel (S1-S2,S5,S7), SpaceFenix (S1-S4), TayUHC (S1-S4), Vetmire (S1-S4), Stravilight (S4-S7)
+**4 Seasons (5):** 78ford (S1-S4), acadiangel (S1-S2,S5,S7), TayUHC (S1-S4), Vetmire (S1-S4), _1mmortal_ (S5-S8)
 
-**3 Seasons (20):** _Fost_ (S1,S3-S4), Dawncy (S1,S3-S4), Fourbitplayer (S1-S3), Kaismartypants (S1,S6-S7), kalleina (S1-S2,S4), MaxEvasion (S1-S3), Pelycosaur (S1-S3), PresidentFleb (S1-S3), wizarde (S1-S2,S7), xRosss (S1-S3), Captinn (S2-S4), Fcrm (S2,S5-S6), Jahrod (S2-S4), Glarza (S3-S4,S6), poWpaH (S3-S4,S6), TehBaconBrawlerZ (S3,S5-S6), _1mmortal_ (S5-S7), _Dieter (S5-S7), benidk (S5-S7), Blarkslol (S5-S7)
+**3 Seasons (26):** _Fost_ (S1,S3-S4), Dawncy (S1,S3-S4), Fourbitplayer (S1-S3), Kaismartypants (S1,S6-S7), kalleina (S1-S2,S4), MaxEvasion (S1-S3), Pelycosaur (S1-S3), PresidentFleb (S1-S3), wizarde (S1-S2,S7), xRosss (S1-S3), Captinn (S2-S4), Fcrm (S2,S5-S6), Jahrod (S2-S4), ZebraPantz (S2,S4,S8), Glarza (S3-S4,S6), natsuvi (S3-S4,S8), poWpaH (S3-S4,S6), TehBaconBrawlerZ (S3,S5-S6), _Dieter (S5-S7), benidk (S5-S7), Blarkslol (S5-S7), Bobbytheturtle (S5,S7-S8), CodeJoshua (S5-S6,S8), BoltsInCharge (S6-S8), Greeples (S6-S8), Markedbooboy (S6-S8)
 
-**2 Seasons (39):** Bradzi (S1-S2), Caydone (S1,S3), Fra49 (S1,S4), JaqOnCraq (S1,S5), pigghetti (S1,S4), Plushy33 (S1-S2), Ryfri (S1,S7), violetwoah (S1,S3), Codwhy (S2,S4), Davidsid (S2-S3), egl_ (S2-S3), nFang (S2-S3), Zcin (S2,S4), ZebraPantz (S2,S4), Bofishkix (S3-S4), Charrlottie (S3-S4), DevoyTTV (S3,S7), Jayzize (S3-S4), Karliffu (S3-S4), LoafOZ (S3-S4), natsuvi (S3-S4), ShyGus (S3-S4), CipherKai (S4,S7), Bobbytheturtle (S5,S7), CodeJoshua (S5-S6), ColdBac (S5,S7), fruitlogic (S5-S6), MercuryParadox (S5-S6), TacoDab (S5,S7), alexnv (S6-S7), BoltsInCharge (S6-S7), broccoliar (S6-S7), Broseph (S6-S7), CommanderK22_ (S6-S7), Greeples (S6-S7), kawaiibunri (S6-S7), Markedbooboy (S6-S7), ScaryPumpkinFace (S6-S7), Westcraft00 (S6-S7)
+**2 Seasons (35):** Bradzi (S1-S2), Caydone (S1,S3), Fra49 (S1,S4), JaqOnCraq (S1,S5), pigghetti (S1,S4), Plushy33 (S1-S2), Ryfri (S1,S7), violetwoah (S1,S3), Codwhy (S2,S4), Davidsid (S2-S3), egl_ (S2-S3), nFang (S2-S3), Zcin (S2,S4), Bofishkix (S3-S4), Charrlottie (S3-S4), DevoyTTV (S3,S7), Jayzize (S3-S4), Karliffu (S3-S4), LoafOZ (S3-S4), ShyGus (S3-S4), CipherKai (S4,S7), ColdBac (S5,S7), fruitlogic (S5-S6), MercuryParadox (S5-S6), TacoDab (S5,S7), alexnv (S6-S7), broccoliar (S6-S7), Broseph (S6-S7), CommanderK22_ (S6-S7), kawaiibunri (S6-S7), ScaryPumpkinFace (S6-S7), SmolHatChild (S6,S8), Westcraft00 (S6-S7), Hecticity (S7-S8), Kaddyn (S7-S8)
 
-**1 Season (31):** ElGavinoSupremo (S1), Phyrrus (S1), Rebelghost (S1), CrowJRC (S2), _ChrisMS (S3), FrostBros (S3), ItsShqky (S3), JaeHasNoMaidens (S3), cherryblawsom (S4), emi1iano (S4), hazel_doe (S4), olivieh (S4), ZachMcD (S4), AHSOKATANOSTAN (S5), jakeyx3 (S5), lexicuhl (S5), Normoh (S5), Spongey (S5), TheSlimeBrother (S5), bayweafs (S6), ChainingVermin2 (S6), DJoee (S6), DogOfKrondor (S6), gartbak (S6), PitSolitayrh (S6), Psykl0ne (S6), SmolHatChild (S6), vynil (S6), Flcnt (S7), Hecticity (S7), Kaddyn (S7)
+**1 Season (30):** ElGavinoSupremo (S1), Phyrrus (S1), Rebelghost (S1), CrowJRC (S2), _ChrisMS (S3), commitstaxfraud (S3), FrostBros (S3), ItsShqky (S3), cherryblawsom (S4), emi1iano (S4), hazel_doe (S4), olivieh (S4), ZachMcD (S4), AHSOKATANOSTAN (S5), jakeyx3 (S5), lexicuhl (S5), Normoh (S5), Spongey (S5), TheSlimeBrother (S5), bayweafs (S6), ChainingVermin2 (S6), DJoee (S6), DogOfKrondor (S6), gartbak (S6), PitSolitayrh (S6), Psykl0ne (S6), vynil (S6), Flcnt (S7), CAMKART100 (S8), zCent (S8)
 
 ---
 ### Debutants
@@ -290,7 +314,7 @@
 
 **S2 (10):** Captinn, Codwhy, CrowJRC, Davidsid, egl_, Fcrm, Jahrod, nFang, Zcin, ZebraPantz
 
-**S3 (15):** _ChrisMS, Bofishkix, Charrlottie, DevoyTTV, FrostBros, Glarza, ItsShqky, JaeHasNoMaidens, Jayzize, Karliffu, LoafOZ, natsuvi, poWpaH, ShyGus, TehBaconBrawlerZ
+**S3 (15):** _ChrisMS, Bofishkix, Charrlottie, commitstaxfraud, DevoyTTV, FrostBros, Glarza, ItsShqky, Jayzize, Karliffu, LoafOZ, natsuvi, poWpaH, ShyGus, TehBaconBrawlerZ
 
 **S4 (7):** cherryblawsom, CipherKai, emi1iano, hazel_doe, olivieh, Stravilight, ZachMcD
 
@@ -299,5 +323,7 @@
 **S6 (19):** alexnv, bayweafs, BoltsInCharge, broccoliar, Broseph, ChainingVermin2, CommanderK22_, DJoee, DogOfKrondor, gartbak, Greeples, kawaiibunri, Markedbooboy, PitSolitayrh, Psykl0ne, ScaryPumpkinFace, SmolHatChild, vynil, Westcraft00
 
 **S7 (3):** Flcnt, Hecticity, Kaddyn
+
+**S8 (2):** CAMKART100, zCent
 
 ---

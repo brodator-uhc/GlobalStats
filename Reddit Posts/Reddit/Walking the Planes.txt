@@ -7,7 +7,7 @@
 
 **S2: Pehnk (3)**, *Regifloat (0), Starflash (0)*
 
-**S3: vishs (5)**, *McBomba (0), NajaOxiana (0), Starflash (1)*
+**S3: vishs (5)**, *illuminaja (0), McBomba (0), Starflash (1)*
 
 **S4: vishs (7)**
 
@@ -24,7 +24,7 @@
 
 **S4:** Regifloat (1)
 
-**S5:** aalaan (0), Abdalain (0), Awticon (0), Davelions (0), Dj8ninja (0), Flouzemaker (0), JaeHasNoMaidens (0), Lighte (2), NajaOxiana (0), Professer_TNT (1), Rebelghost (0), spoocS_ (0)
+**S5:** aalaan (0), Abdalain (0), Awticon (0), commitstaxfraud (0), Davelions (0), Dj8ninja (0), Flouzemaker (0), illuminaja (0), Lighte (2), Professer_TNT (1), Rebelghost (0), spoocS_ (0)
 
 ---
 ### Most Kills
@@ -44,7 +44,7 @@
 
 **S1:** Big_Z60 (4), MajorDH (1)
 
-**S2:** Big_Z60 (3), Professer_TNT (1), TheRealHagrid (0) & Austronomical (2), IzunaLoli (1), JaeHasNoMaidens (1)
+**S2:** Big_Z60 (3), Professer_TNT (1), TheRealHagrid (0) & Austronomical (2), IzunaLoli (1), commitstaxfraud (1)
 
 **S3:** Austronomical (5), Big_Z60 (2), Bottiken (2), Chipzzy (1)
 
@@ -76,7 +76,7 @@
 
 **S4:** kalleina (1:52:3)
 
-**S5:** NajaOxiana (1:42:13)
+**S5:** illuminaja (1:42:13)
 
 ---
 ### First Blood
@@ -107,9 +107,9 @@
 ---
 ### Kills
 
-**1st - vishs (12):** Professer_TNT (S3), Big_Z60 (S3), Austronomical (S3), Bottiken (S3), Chipzzy (S3), McBomba (S4), Digitil (S4), JaeHasNoMaidens (S4), spoocS_ (S4), IceMan8030 (S4), Pehnk (S4), Regifloat (S4)
+**1st - vishs (12):** Professer_TNT (S3), Big_Z60 (S3), Austronomical (S3), Bottiken (S3), Chipzzy (S3), McBomba (S4), Digitil (S4), commitstaxfraud (S4), spoocS_ (S4), IceMan8030 (S4), Pehnk (S4), Regifloat (S4)
 
-**2nd - Big_Z60 (11):** StoneAgedGaming (S1), Professer_TNT (S1), spoocS_ (S1), TheRealHagrid (S1), JaeHasNoMaidens (S2), Balone (S2), jamertxn (S2), Sluggyg (S3), JaeHasNoMaidens (S3), Mincrooft (S4), Sluggyg (S4)
+**2nd - Big_Z60 (11):** StoneAgedGaming (S1), Professer_TNT (S1), spoocS_ (S1), TheRealHagrid (S1), commitstaxfraud (S2), Balone (S2), jamertxn (S2), Sluggyg (S3), commitstaxfraud (S3), Mincrooft (S4), Sluggyg (S4)
 
 **3rd - Pehnk (10):** Chipzzy (S1), StoneAgedGaming (S2), MistaUnicorn (S2), Big_Z60 (S2), spoocS_ (S3), Dj8ninja (S3), TheRealHagrid (S3), TheRealHagrid (S4), Professer_TNT (S4), kalleina (S4)
 
@@ -131,13 +131,13 @@
 
 **10th - vynil (2):** LunarUmbreon (S5), Mincrooft (S5)
 
-**13th - Chipzzy (1):** NajaOxiana (S3)
+**13th - Chipzzy (1):** illuminaja (S3)
+
+**13th - commitstaxfraud (1):** Regifloat (S2)
 
 **13th - Dj8ninja (1):** Starflash (S4)
 
 **13th - IzunaLoli (1):** RedSky (S2)
-
-**13th - JaeHasNoMaidens (1):** Regifloat (S2)
 
 **13th - KingsGaming (1):** LunarUmbreon (S3)
 
@@ -169,11 +169,11 @@
 
 **5 Seasons (3):** Professer_TNT (S1-S5), Sluggyg (S1-S5), spoocS_ (S1-S5)
 
-**4 Seasons (7):** Big_Z60 (S1-S4), IceMan8030 (S1-S4), LunarUmbreon (S1-S3,S5), Pehnk (S1-S4), Starflash (S1-S4), TheRealHagrid (S1-S4), JaeHasNoMaidens (S2-S5)
+**4 Seasons (7):** Big_Z60 (S1-S4), IceMan8030 (S1-S4), LunarUmbreon (S1-S3,S5), Pehnk (S1-S4), Starflash (S1-S4), TheRealHagrid (S1-S4), commitstaxfraud (S2-S5)
 
 **3 Seasons (7):** IzunaLoli (S1-S3), McBomba (S1,S3-S4), StoneAgedGaming (S1-S3), Bulbae (S2-S3,S5), Regifloat (S2-S4), Dj8ninja (S3-S5), vishs (S3-S5)
 
-**2 Seasons (8):** Chipzzy (S1,S3), MajorDH (S1,S3), RedSky (S1-S2), Austronomical (S2-S3), NajaOxiana (S3,S5), octagonalpaul (S3-S4), Lighte (S4-S5), Mincrooft (S4-S5)
+**2 Seasons (8):** Chipzzy (S1,S3), MajorDH (S1,S3), RedSky (S1-S2), Austronomical (S2-S3), illuminaja (S3,S5), octagonalpaul (S3-S4), Lighte (S4-S5), Mincrooft (S4-S5)
 
 **1 Season (24):** GoldenNs (S1), Balone (S2), BZ_STEVE (S2), iRedx (S2), jamertxn (S2), MistaUnicorn (S2), Bottiken (S3), KingsGaming (S3), Digitil (S4), kalleina (S4), aalaan (S5), Abdalain (S5), Awticon (S5), BBR_ (S5), Broseph (S5), Davelions (S5), Flouzemaker (S5), GamingMes (S5), JamestheDouglas (S5), Kiinako_ (S5), lexicuhl (S5), Rebelghost (S5), vynil (S5), WillBrisk (S5)
 
@@ -182,9 +182,9 @@
 
 **S1 (16):** Big_Z60, Chipzzy, GoldenNs, IceMan8030, IzunaLoli, LunarUmbreon, MajorDH, McBomba, Pehnk, Professer_TNT, RedSky, Sluggyg, spoocS_, Starflash, StoneAgedGaming, TheRealHagrid
 
-**S2 (9):** Austronomical, Balone, Bulbae, BZ_STEVE, iRedx, JaeHasNoMaidens, jamertxn, MistaUnicorn, Regifloat
+**S2 (9):** Austronomical, Balone, Bulbae, BZ_STEVE, commitstaxfraud, iRedx, jamertxn, MistaUnicorn, Regifloat
 
-**S3 (6):** Bottiken, Dj8ninja, KingsGaming, NajaOxiana, octagonalpaul, vishs
+**S3 (6):** Bottiken, Dj8ninja, illuminaja, KingsGaming, octagonalpaul, vishs
 
 **S4 (4):** Digitil, kalleina, Lighte, Mincrooft
 

@@ -599,7 +599,7 @@
 
 **52nd - SimplySam (3):** Jahrod (S21), Brodator (S22), AvaCos (S22)
 
-**52nd - SpaceFenix (3):** DancersTalon (S28), JaeHasNoMaidens (S28), Gorgerous (S28)
+**52nd - SpaceFenix (3):** DancersTalon (S28), commitstaxfraud (S28), Gorgerous (S28)
 
 **64th - Balone (2):** Chasmic (S10), KirbyMD (S11)
 
@@ -647,6 +647,8 @@
 
 **81st - ColdFusion5 (1):** MaltoseMatt (S2)
 
+**81st - commitstaxfraud (1):** chloesad (S28)
+
 **81st - CrowJRC (1):** warriorcat (S28)
 
 **81st - DarkCrystalFlame (1):** TommySuX (S6)
@@ -658,8 +660,6 @@
 **81st - Frostbreath (1):** 5kylord (S12)
 
 **81st - Gorgerous (1):** CrowJRC (S28)
-
-**81st - JaeHasNoMaidens (1):** chloesad (S28)
 
 **81st - jamertxn (1):** TastyBaconZ (S20)
 
@@ -801,7 +801,7 @@
 
 **2 Seasons (20):** Pippiter (S1-S2), ColdFusion5 (S2-S3), Bagpipehero (S3-S4), Neoscys (S3-S4), Dylarno (S6-S7), bytexal (S7,S11), Shadowlego (S8,S12), LeonTG (S11-S12), _Frankie (S16,S19), OddBaller (S19-S20), KOKeowner (S20,S28), pigghetti (S20,S28), H_L_llama (S22-S23), VintageBeef (S22-S23), TorinFBF (S24-S25), Rohcket (S25-S26), Bobbytheturtle (S27-S28), firefoxvulpix (S27-S28), ShootingGoats (S27-S28), SpaceFenix (S27-S28)
 
-**1 Season (51):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), marcaron (S27), 78ford (S28), centraleric (S28), ChainingVermin2 (S28), cherryblawsom (S28), chloesad (S28), CrowJRC (S28), DJoee (S28), Fourbitplayer (S28), Gorgerous (S28), Hacn35 (S28), Hoppy (S28), JaeHasNoMaidens (S28), kirbey (S28), Klickacat (S28), lottebunny (S28), MajorWoof (S28), MaxEvasion (S28), MercuryParadox (S28), Nintendoshi (S28), Potsie (S28), tagggz (S28), TheKevGuy (S28), TheRealHagrid (S28), WackoFlipper (S28), warriorcat (S28), YellowVitt (S28)
+**1 Season (51):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), marcaron (S27), 78ford (S28), centraleric (S28), ChainingVermin2 (S28), cherryblawsom (S28), chloesad (S28), commitstaxfraud (S28), CrowJRC (S28), DJoee (S28), Fourbitplayer (S28), Gorgerous (S28), Hacn35 (S28), Hoppy (S28), kirbey (S28), Klickacat (S28), lottebunny (S28), MajorWoof (S28), MaxEvasion (S28), MercuryParadox (S28), Nintendoshi (S28), Potsie (S28), tagggz (S28), TheKevGuy (S28), TheRealHagrid (S28), WackoFlipper (S28), warriorcat (S28), YellowVitt (S28)
 
 ---
 ### Debutants
@@ -860,6 +860,6 @@
 
 **S27 (5):** Bobbytheturtle, firefoxvulpix, marcaron, ShootingGoats, SpaceFenix
 
-**S28 (26):** 78ford, centraleric, ChainingVermin2, cherryblawsom, chloesad, CrowJRC, DJoee, Fourbitplayer, Gorgerous, Hacn35, Hoppy, JaeHasNoMaidens, kirbey, Klickacat, lottebunny, MajorWoof, MaxEvasion, MercuryParadox, Nintendoshi, Potsie, tagggz, TheKevGuy, TheRealHagrid, WackoFlipper, warriorcat, YellowVitt
+**S28 (26):** 78ford, centraleric, ChainingVermin2, cherryblawsom, chloesad, commitstaxfraud, CrowJRC, DJoee, Fourbitplayer, Gorgerous, Hacn35, Hoppy, kirbey, Klickacat, lottebunny, MajorWoof, MaxEvasion, MercuryParadox, Nintendoshi, Potsie, tagggz, TheKevGuy, TheRealHagrid, WackoFlipper, warriorcat, YellowVitt
 
 ---

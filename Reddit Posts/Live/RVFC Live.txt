@@ -155,7 +155,7 @@
 ---
 ### Kills
 
-**1st - Kelawesome (37):** Tharve (S3), Flcnt (S3), Rebelghost (S3), Captinn (S3), ItzIgglesPiggles (S3), TehBaconBrawlerZ (S3), TehBaconBrawlerZ (S4), Charrlottie (S4), Codwhy (S4), Zcin (S4), TayUHC (S4), JaeHasNoMaidens (S4), Rebelghost (S4), TayUHC (S5), TehBaconBrawlerZ (S5), ItzIgglesPiggles (S5), Flcnt (S5), poWpaH (S5), SergeantM (S6), Vetmire (S6), silvaasaur (S6), xDiversity (S6), TehBaconBrawlerZ (S6), Jorgeeay (S6), Cubic44 (S6), MangoPlayz (S6), TayUHC (S7), Pelycosaur (S7), Dynamitedoughnut (S7), Standen05 (S7), MangoPlayz (S7), TheSlimeBrother (S8), MarcusDoesMC (S8), SiahStone (S8), CipherKai (S8), TayUHC (S8), TehBaconBrawlerZ (S8)
+**1st - Kelawesome (37):** Tharve (S3), Flcnt (S3), Rebelghost (S3), Captinn (S3), ItzIgglesPiggles (S3), TehBaconBrawlerZ (S3), TehBaconBrawlerZ (S4), Charrlottie (S4), Codwhy (S4), Zcin (S4), TayUHC (S4), commitstaxfraud (S4), Rebelghost (S4), TayUHC (S5), TehBaconBrawlerZ (S5), ItzIgglesPiggles (S5), Flcnt (S5), poWpaH (S5), SergeantM (S6), Vetmire (S6), silvaasaur (S6), xDiversity (S6), TehBaconBrawlerZ (S6), Jorgeeay (S6), Cubic44 (S6), MangoPlayz (S6), TayUHC (S7), Pelycosaur (S7), Dynamitedoughnut (S7), Standen05 (S7), MangoPlayz (S7), TheSlimeBrother (S8), MarcusDoesMC (S8), SiahStone (S8), CipherKai (S8), TayUHC (S8), TehBaconBrawlerZ (S8)
 
 **2nd - broccoliar (13):** Plushy33 (S1), 4EyedSlime (S1), Captinn (S4), Vetmire (S5), ArcticSeagull (S5), Bofishkix (S5), Kaddyn (S5), Kaddyn (S6), ManWithRaft (S6), Bofishkix (S6), ItzIgglesPiggles (S6), MarExists (S7), Charrlottie (S8)
 
@@ -163,7 +163,7 @@
 
 **4th - ItzIgglesPiggles (10):** CodeJoshua (S1), xDiversity (S1), TayUHC (S1), MaxEvasion (S2), Charrlottie (S3), Bulbexe (S4), poWpaH (S6), ArcticSeagull (S7), Jaceon02 (S7), MCmorganplayz (S8)
 
-**5th - poWpaH (9):** ItsShqky (S2), ArcticSeagull (S2), emi1iano (S5), xDiversity (S5), JaeHasNoMaidens (S5), Vetmire (S7), MCmorganplayz (S7), NickPlaysGames15 (S8), Vetmire (S8)
+**5th - poWpaH (9):** ItsShqky (S2), ArcticSeagull (S2), emi1iano (S5), xDiversity (S5), commitstaxfraud (S5), Vetmire (S7), MCmorganplayz (S7), NickPlaysGames15 (S8), Vetmire (S8)
 
 **6th - Cubic44 (8):** natsuvi (S2), SergeantM (S2), Bofishkix (S2), ItzIgglesPiggles (S2), Bulbexe (S2), poWpaH (S2), _Fost_ (S6), MarExists (S6)
 
@@ -277,7 +277,7 @@
 
 **3 Seasons (9):** Cubic44 (S2-S3,S6), Jorgeeay (S2,S5-S6), natsuvi (S2-S3,S7), emi1iano (S3,S5,S8), GeniRCT (S4-S5,S8), HeyItsJBug (S4,S7-S8), silvaasaur (S4-S6), CipherKai (S6-S8), TheSlimeBrother (S6-S8)
 
-**2 Seasons (15):** Evzenitable (S1,S6), JamestheDouglas (S1-S2), Kaner21 (S1-S2), Plushy33 (S1-S2), _Fost_ (S2,S6), Brodator (S2,S7), C10WD (S3,S6), JaeHasNoMaidens (S4-S5), SpaceFenix (S5-S6), FrostBros (S6-S7), ghostblurr (S6-S7), MarExists (S6-S7), brinniex (S7-S8), Jaceon02 (S7-S8), Standen05 (S7-S8)
+**2 Seasons (15):** Evzenitable (S1,S6), JamestheDouglas (S1-S2), Kaner21 (S1-S2), Plushy33 (S1-S2), _Fost_ (S2,S6), Brodator (S2,S7), C10WD (S3,S6), commitstaxfraud (S4-S5), SpaceFenix (S5-S6), FrostBros (S6-S7), ghostblurr (S6-S7), MarExists (S6-S7), brinniex (S7-S8), Jaceon02 (S7-S8), Standen05 (S7-S8)
 
 **1 Season (23):** 4EyedSlime (S1), HeroGolem5 (S1), CocoBenja (S2), 3Tips (S3), ArloIsVibing (S3), Kae_F (S3), Tharve (S3), Julse (S5), Rohcket (S5), ManWithRaft (S6), opachi69 (S6), Dynamitedoughnut (S7), Hrray (S7), JoshC2 (S7), Rekt_DJ (S7), superjimyeah (S7), TitaniumDino25 (S7), DONG_FORTNITE (S8), Geroot (S8), MarcusDoesMC (S8), MasterGarf (S8), NickPlaysGames15 (S8), SiahStone (S8)
 
@@ -290,7 +290,7 @@
 
 **S3 (9):** 3Tips, AdonisGaming, ArloIsVibing, C10WD, emi1iano, Kae_F, Pelycosaur, Stravilight, Tharve
 
-**S4 (5):** GeniRCT, HeyItsJBug, JaeHasNoMaidens, Kaddyn, silvaasaur
+**S4 (5):** commitstaxfraud, GeniRCT, HeyItsJBug, Kaddyn, silvaasaur
 
 **S5 (5):** DianaB, Julse, MCmorganplayz, Rohcket, SpaceFenix
 
