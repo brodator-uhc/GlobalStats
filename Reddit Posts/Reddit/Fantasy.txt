@@ -171,9 +171,9 @@
 ---
 ### Kills
 
-**1st - benidk (14):** Zevulpes (S5), Captinn (S5), MaxEvasion (S5), xRaltz (S5), broccoliar (S5), Flcnt (S6), kawaiibunri (S6), ItsShqky (S6), Jahrod (S7), TehBaconBrawlerZ (S7), SpaceFenix (S9), ArcticSeagull (S9), _1mmortal_ (S9), BoltsInCharge (S9)
+**1st - benidk (14):** Zevulpes (S5), Captinn (S5), MaxEvasion (S5), xRaltz (S5), broccoliar (S5), Flcnt (S6), evuhlynx (S6), ItsShqky (S6), Jahrod (S7), TehBaconBrawlerZ (S7), SpaceFenix (S9), ArcticSeagull (S9), _1mmortal_ (S9), BoltsInCharge (S9)
 
-**2nd - xDiversity (12):** cocoflourish (S2), ItsShqky (S2), hashtagmat (S2), poWpaH (S2), cocoflourish (S3), MangoPlayz (S3), HeyItsJBug (S3), lippylee (S3), TehBaconBrawlerZ (S3), AdonisGaming (S4), kawaiibunri (S4), broccoliar (S4)
+**2nd - xDiversity (12):** cocoflourish (S2), ItsShqky (S2), hashtagmat (S2), poWpaH (S2), cocoflourish (S3), MangoPlayz (S3), HeyItsJBug (S3), lippylee (S3), TehBaconBrawlerZ (S3), AdonisGaming (S4), evuhlynx (S4), broccoliar (S4)
 
 **3rd - Pelycosaur (11):** xoHue (S1), Quinnton (S1), xRaltz (S1), Ethsans (S1), CalebD52 (S2), Erdql (S2), Zcin (S2), Cqson (S4), ArcticSeagull (S4), Dawncy (S4), brinniex (S4)
 
@@ -189,7 +189,7 @@
 
 **9th - DJoee (5):** Kaismartypants (S7), natsuvi (S7), TheSlimeBrother (S7), _Fost_ (S7), Greeples (S7)
 
-**9th - kawaiibunri (5):** flameorb (S6), Gorgerous (S6), Charrlottie (S6), azoof (S6), ItsShqky (S8)
+**9th - evuhlynx (5):** flameorb (S6), Gorgerous (S6), Charrlottie (S6), azoof (S6), ItsShqky (S8)
 
 **9th - MaxEvasion (5):** Broseph (S5), Charrlottie (S5), CodeJoshua (S6), Stravilight (S6), broccoliar (S6)
 
@@ -205,7 +205,7 @@
 
 **13th - Gorgerous (4):** Bulbexe (S6), Normoh (S9), wizarde (S9), cherryblawsom (S9)
 
-**13th - natsuvi (4):** Kaismartypants (S8), Normoh (S8), kawaiibunri (S8), _1mmortal_ (S8)
+**13th - natsuvi (4):** Kaismartypants (S8), Normoh (S8), evuhlynx (S8), _1mmortal_ (S8)
 
 **13th - strategy (4):** Biwitch (S7), _carn (S9), broccoliar (S9), CAMKART100 (S9)
 
@@ -333,7 +333,7 @@
 
 **4 Seasons (3):** TehBaconBrawlerZ (S2-S4,S7), MangoPlayz (S3-S6), benidk (S5-S7,S9)
 
-**3 Seasons (19):** Erdql (S1-S3), HeyItsJBug (S1,S3-S4), Jes3e (S1-S3), lippylee (S1-S3), Pelycosaur (S1-S2,S4), xoHue (S1-S3), xRaltz (S1,S3,S5), poWpaH (S2-S4), QueenxPetty (S2-S4), xDiversity (S2-S4), Flcnt (S3,S5-S6), Captinn (S4-S6), kawaiibunri (S4,S6,S8), _ChrisMS (S5,S7,S9), Gorgerous (S5-S6,S9), Jahrod (S5-S7), MaxEvasion (S5-S7), _1mmortal_ (S7-S9), AsianCheatCode (S7-S9)
+**3 Seasons (19):** Erdql (S1-S3), HeyItsJBug (S1,S3-S4), Jes3e (S1-S3), lippylee (S1-S3), Pelycosaur (S1-S2,S4), xoHue (S1-S3), xRaltz (S1,S3,S5), poWpaH (S2-S4), QueenxPetty (S2-S4), xDiversity (S2-S4), Flcnt (S3,S5-S6), Captinn (S4-S6), evuhlynx (S4,S6,S8), _ChrisMS (S5,S7,S9), Gorgerous (S5-S6,S9), Jahrod (S5-S7), MaxEvasion (S5-S7), _1mmortal_ (S7-S9), AsianCheatCode (S7-S9)
 
 **2 Seasons (34):** Bofishkix (S1-S2), DMR_Games (S1-S2), Izzyxox_ (S1,S3), Quinnton (S1-S2), _Fost_ (S2,S7), BarelyPink (S2-S3), cocoflourish (S2-S3), emi1iano (S2-S3), ItsJustPanda (S2-S3), TayUHC (S2-S3), brinniex (S3-S4), mycemie (S3-S4), Codwhy (S4,S8), Kaddyn (S4,S8), Blarkslol (S5-S6), Bulbexe (S5-S6), CHAINGE (S5-S6), Greeples (S5,S7), Jordtim (S5-S6), lexicuhl (S5,S8), azoof (S6-S7), TheSlimeBrother (S6-S7), Biwitch (S7-S8), Bornyo (S7-S8), Brodator (S7-S8), Caydone (S7-S8), DJoee (S7,S9), Kaismartypants (S7-S8), natsuvi (S7-S8), Phyrrus (S7-S8), Psykl0ne (S7,S9), strategy (S7,S9), JaqOnCraq (S8-S9), Normoh (S8-S9)
 
@@ -348,7 +348,7 @@
 
 **S3 (6):** brinniex, Calliwags, Flcnt, MangoPlayz, mycemie, Stravilight
 
-**S4 (12):** AdonisGaming, Captinn, CodeJoshua, Codwhy, Cqson, Dawncy, Jaceon02, Kaddyn, kawaiibunri, RuneTactics, T1mT0m, ToeKun
+**S4 (12):** AdonisGaming, Captinn, CodeJoshua, Codwhy, Cqson, Dawncy, evuhlynx, Jaceon02, Kaddyn, RuneTactics, T1mT0m, ToeKun
 
 **S5 (15):** _ChrisMS, benidk, Blarkslol, Broseph, Bulbexe, CHAINGE, ethodog, Gorgerous, Greeples, Jahrod, Jordtim, lexicuhl, MaxEvasion, SiahStone, Zevulpes
 

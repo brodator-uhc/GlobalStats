@@ -23,7 +23,7 @@ namespace StatsAnalyzer
             if (ironmanTimeCell.GetString().Equals(""))
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                //Console.WriteLine("ERROR: Ironman time missing! " + round_name + " " + season_number);
+                Console.WriteLine("ERROR: Ironman time missing! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
             }
             else
             {

@@ -72,7 +72,7 @@
 
 **S6:** alexnv (8), DJoee (2), Westcraft00 (0)
 
-**S7:** _Dieter (4), kawaiibunri (2)
+**S7:** _Dieter (4), evuhlynx (2)
 
 **S8:** CodeJoshua (1), Hecticity (4), Markedbooboy (1)
 
@@ -183,7 +183,7 @@
 
 **13th - Fcrm (5):** 78ford (S2), Jahrod (S2), Captinn (S2), jakeyx3 (S5), alexnv (S6)
 
-**13th - Kaddyn (5):** Ryfri (S7), Broseph (S7), kawaiibunri (S7), _Dieter (S7), ArcticSeagull (S8)
+**13th - Kaddyn (5):** Ryfri (S7), Broseph (S7), evuhlynx (S7), _Dieter (S7), ArcticSeagull (S8)
 
 **13th - Karliffu (5):** ItsShqky (S3), FrostBros (S3), SpaceFenix (S3), poWpaH (S3), poWpaH (S4)
 
@@ -197,7 +197,7 @@
 
 **19th - CipherKai (4):** emi1iano (S4), Zcin (S4), BoltsInCharge (S7), acadiangel (S7)
 
-**19th - kawaiibunri (4):** PitSolitayrh (S6), SmolHatChild (S6), ArcticSeagull (S7), Flcnt (S7)
+**19th - evuhlynx (4):** PitSolitayrh (S6), SmolHatChild (S6), ArcticSeagull (S7), Flcnt (S7)
 
 **19th - LoafOZ (4):** TehBaconBrawlerZ (S3), Captinn (S3), egl_ (S3), olivieh (S4)
 
@@ -271,7 +271,7 @@
 
 **46th - Markedbooboy (1):** BoltsInCharge (S8)
 
-**46th - MercuryParadox (1):** kawaiibunri (S6)
+**46th - MercuryParadox (1):** evuhlynx (S6)
 
 **46th - TacoDab (1):** fruitlogic (S5)
 
@@ -303,7 +303,7 @@
 
 **3 Seasons (26):** _Fost_ (S1,S3-S4), Dawncy (S1,S3-S4), Fourbitplayer (S1-S3), Kaismartypants (S1,S6-S7), kalleina (S1-S2,S4), MaxEvasion (S1-S3), Pelycosaur (S1-S3), PresidentFleb (S1-S3), wizarde (S1-S2,S7), xRosss (S1-S3), Captinn (S2-S4), Fcrm (S2,S5-S6), Jahrod (S2-S4), ZebraPantz (S2,S4,S8), Glarza (S3-S4,S6), natsuvi (S3-S4,S8), poWpaH (S3-S4,S6), TehBaconBrawlerZ (S3,S5-S6), _Dieter (S5-S7), benidk (S5-S7), Blarkslol (S5-S7), Bobbytheturtle (S5,S7-S8), CodeJoshua (S5-S6,S8), BoltsInCharge (S6-S8), Greeples (S6-S8), Markedbooboy (S6-S8)
 
-**2 Seasons (35):** Bradzi (S1-S2), Caydone (S1,S3), Fra49 (S1,S4), JaqOnCraq (S1,S5), pigghetti (S1,S4), Plushy33 (S1-S2), Ryfri (S1,S7), violetwoah (S1,S3), Codwhy (S2,S4), Davidsid (S2-S3), egl_ (S2-S3), nFang (S2-S3), Zcin (S2,S4), Bofishkix (S3-S4), Charrlottie (S3-S4), DevoyTTV (S3,S7), Jayzize (S3-S4), Karliffu (S3-S4), LoafOZ (S3-S4), ShyGus (S3-S4), CipherKai (S4,S7), ColdBac (S5,S7), fruitlogic (S5-S6), MercuryParadox (S5-S6), TacoDab (S5,S7), alexnv (S6-S7), broccoliar (S6-S7), Broseph (S6-S7), CommanderK22_ (S6-S7), kawaiibunri (S6-S7), ScaryPumpkinFace (S6-S7), SmolHatChild (S6,S8), Westcraft00 (S6-S7), Hecticity (S7-S8), Kaddyn (S7-S8)
+**2 Seasons (35):** Bradzi (S1-S2), Caydone (S1,S3), Fra49 (S1,S4), JaqOnCraq (S1,S5), pigghetti (S1,S4), Plushy33 (S1-S2), Ryfri (S1,S7), violetwoah (S1,S3), Codwhy (S2,S4), Davidsid (S2-S3), egl_ (S2-S3), nFang (S2-S3), Zcin (S2,S4), Bofishkix (S3-S4), Charrlottie (S3-S4), DevoyTTV (S3,S7), Jayzize (S3-S4), Karliffu (S3-S4), LoafOZ (S3-S4), ShyGus (S3-S4), CipherKai (S4,S7), ColdBac (S5,S7), fruitlogic (S5-S6), MercuryParadox (S5-S6), TacoDab (S5,S7), alexnv (S6-S7), broccoliar (S6-S7), Broseph (S6-S7), CommanderK22_ (S6-S7), evuhlynx (S6-S7), ScaryPumpkinFace (S6-S7), SmolHatChild (S6,S8), Westcraft00 (S6-S7), Hecticity (S7-S8), Kaddyn (S7-S8)
 
 **1 Season (30):** ElGavinoSupremo (S1), Phyrrus (S1), Rebelghost (S1), CrowJRC (S2), _ChrisMS (S3), commitstaxfraud (S3), FrostBros (S3), ItsShqky (S3), cherryblawsom (S4), emi1iano (S4), hazel_doe (S4), olivieh (S4), ZachMcD (S4), AHSOKATANOSTAN (S5), jakeyx3 (S5), lexicuhl (S5), Normoh (S5), Spongey (S5), TheSlimeBrother (S5), bayweafs (S6), ChainingVermin2 (S6), DJoee (S6), DogOfKrondor (S6), gartbak (S6), PitSolitayrh (S6), Psykl0ne (S6), vynil (S6), Flcnt (S7), CAMKART100 (S8), zCent (S8)
 
@@ -320,7 +320,7 @@
 
 **S5 (16):** _1mmortal_, _Dieter, AHSOKATANOSTAN, benidk, Blarkslol, Bobbytheturtle, CodeJoshua, ColdBac, fruitlogic, jakeyx3, lexicuhl, MercuryParadox, Normoh, Spongey, TacoDab, TheSlimeBrother
 
-**S6 (19):** alexnv, bayweafs, BoltsInCharge, broccoliar, Broseph, ChainingVermin2, CommanderK22_, DJoee, DogOfKrondor, gartbak, Greeples, kawaiibunri, Markedbooboy, PitSolitayrh, Psykl0ne, ScaryPumpkinFace, SmolHatChild, vynil, Westcraft00
+**S6 (19):** alexnv, bayweafs, BoltsInCharge, broccoliar, Broseph, ChainingVermin2, CommanderK22_, DJoee, DogOfKrondor, evuhlynx, gartbak, Greeples, Markedbooboy, PitSolitayrh, Psykl0ne, ScaryPumpkinFace, SmolHatChild, vynil, Westcraft00
 
 **S7 (3):** Flcnt, Hecticity, Kaddyn
 

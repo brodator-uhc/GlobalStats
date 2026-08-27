@@ -31,7 +31,7 @@
 
 **S14: bjr201111 (5)**
 
-**S15: CedGhoss (2), hammer_fan (1), oworca (4)**, *Incipiens (0)*
+**S15: CedGhoss (2), hammer_fan (1), orcau (4)**, *Incipiens (0)*
 
 **S16: hammer_fan (6)**, *Coolust (4)*
 
@@ -43,7 +43,7 @@
 
 **S20: CedGhoss (8)**
 
-**S21: Emerric (3)**, *oworca (0)*
+**S21: Emerric (3)**, *orcau (0)*
 
 **S22: Krenzinator (0), typhlo0o (4)**, *5kylord (5), Kiinako_ (0)*
 
@@ -90,7 +90,7 @@
 
 **S15:** Coolust (1), Havenhand (0), jamietheelite (1), Kidfo (1), LongaVita (0), Micale (1)
 
-**S16:** Kieranborn (2), oworca (1)
+**S16:** Kieranborn (2), orcau (1)
 
 **S17:** chloesad (1), hammer_fan (4), LongaVita (0)
 
@@ -145,7 +145,7 @@
 
 **S14:** bjr201111, Jakekub (5)
 
-**S15:** oworca (4)
+**S15:** orcau (4)
 
 **S16:** hammer_fan (6)
 
@@ -202,7 +202,7 @@
 
 **S14:** N/A
 
-**S15:** CedGhoss (2), hammer_fan (1), Incipiens (0), oworca (4)
+**S15:** CedGhoss (2), hammer_fan (1), Incipiens (0), orcau (4)
 
 **S16:** Coolust (4), hammer_fan (6)
 
@@ -214,7 +214,7 @@
 
 **S20:** N/A
 
-**S21:** BBR_ (3), Greeples (0) & Emerric (3), oworca (0) & discoczibi (1), ScottPirie (2) & wibbol (0), Hecticity (3)
+**S21:** BBR_ (3), Greeples (0) & Emerric (3), orcau (0) & discoczibi (1), ScottPirie (2) & wibbol (0), Hecticity (3)
 
 **S22:** 5kylord (5), Kiinako_ (0), Krenzinator (0), typhlo0o (4)
 
@@ -459,9 +459,9 @@
 ---
 ### Kills
 
-**1st - CedGhoss (31):** VeryNice (S10), Coolust (S10), Maj0r_Min3r_98 (S10), discoczibi (S10), ScottPirie (S11), VeniiiD (S11), GlowingNeon (S11), MrPolzerino (S11), Tootikins (S11), MrCraftinator (S11), TommySuX (S11), Hoppy (S12), Kelt78 (S12), MrCraftinator (S12), PythonRrR (S12), Tootikins (S12), Kiinako_ (S15), SimplySam (S15), wibbol (S17), Jakekub (S17), dRawry (S18), Tootikins (S18), ColdBac (S18), VeniiiD (S20), Micale (S20), Chasmic (S20), Timonscholte (S20), TheSonicJoey (S20), WackoFlipper (S20), oworca (S20), CarlyRaeJepsen (S20)
+**1st - CedGhoss (31):** VeryNice (S10), Coolust (S10), Maj0r_Min3r_98 (S10), discoczibi (S10), ScottPirie (S11), VeniiiD (S11), GlowingNeon (S11), MrPolzerino (S11), Tootikins (S11), MrCraftinator (S11), TommySuX (S11), Hoppy (S12), Kelt78 (S12), MrCraftinator (S12), PythonRrR (S12), Tootikins (S12), Kiinako_ (S15), SimplySam (S15), wibbol (S17), Jakekub (S17), dRawry (S18), Tootikins (S18), ColdBac (S18), VeniiiD (S20), Micale (S20), Chasmic (S20), Timonscholte (S20), TheSonicJoey (S20), WackoFlipper (S20), orcau (S20), CarlyRaeJepsen (S20)
 
-**2nd - hammer_fan (20):** GlowingNeon (S9), MrPolzerino (S9), LukiGg (S9), PythonRrR (S9), VeryNice (S11), LukiGg (S11), Coolust (S12), Frostbreath (S15), TommySuX (S16), TheSonicJoey (S16), Stollaz (S16), Hecticity (S16), Kieranborn (S16), oworca (S16), BSBrent (S17), ColdBac (S17), CedGhoss (S17), Chasmic (S17), LongaVita (S19), ScottPirie (S24)
+**2nd - hammer_fan (20):** GlowingNeon (S9), MrPolzerino (S9), LukiGg (S9), PythonRrR (S9), VeryNice (S11), LukiGg (S11), Coolust (S12), Frostbreath (S15), TommySuX (S16), TheSonicJoey (S16), Stollaz (S16), Hecticity (S16), Kieranborn (S16), orcau (S16), BSBrent (S17), ColdBac (S17), CedGhoss (S17), Chasmic (S17), LongaVita (S19), ScottPirie (S24)
 
 **3rd - TheSonicJoey (18):** Schmeon (S1), discoczibi (S1), Hoppy (S10), Havenhand (S10), Chasmic (S12), TommySuX (S12), Kidfo (S12), Hecticity (S15), lottebunny (S17), dRawry (S17), VeniiiD (S17), KatyLawson (S17), Kiinako_ (S17), dRawry (S19), BSBrent (S19), Frostbreath (S20), ColdBac (S24), ShutUpBrick (S24)
 
@@ -485,7 +485,7 @@
 
 **12th - Timonscholte (11):** VeniiiD (S4), _Frankie (S5), Dark_rust (S5), Kakintse (S7), Stooof (S7), LukiGg (S8), GlowingNeon (S8), VeniiiD (S16), KatyLawson (S16), discoczibi (S20), Greeples (S20)
 
-**14th - BBR_ (10):** Kiinako_ (S19), oworca (S19), WackoFlipper (S19), hammer_fan (S19), Kiinako_ (S21), ScottPirie (S21), oworca (S21), Goldcap (S22), lottebunny (S22), BSBrent (S24)
+**14th - BBR_ (10):** Kiinako_ (S19), orcau (S19), WackoFlipper (S19), hammer_fan (S19), Kiinako_ (S21), ScottPirie (S21), orcau (S21), Goldcap (S22), lottebunny (S22), BSBrent (S24)
 
 **14th - ColdBac (10):** Frostbreath (S17), Chasmic (S18), wibbol (S19), TommySuX (S19), jamertxn (S24), jamertxn (S25), lexicuhl (S25), TheSonicJoey (S26), wibbol (S27), Jakekub (S27)
 
@@ -499,7 +499,7 @@
 
 **18th - wibbol (9):** Hollymatman (S4), NiFear (S5), VeryNice (S13), Frostbreath (S18), BBR_ (S24), Rohcket (S24), MeadowMoos (S26), lexicuhl (S26), Goldcap (S27)
 
-**21st - Chasmic (8):** oworca (S17), Incipiens (S18), Emerric (S18), LongaVita (S18), jamertxn (S18), BSBrent (S18), FazedMC (S18), Rohcket (S26)
+**21st - Chasmic (8):** orcau (S17), Incipiens (S18), Emerric (S18), LongaVita (S18), jamertxn (S18), BSBrent (S18), FazedMC (S18), Rohcket (S26)
 
 **21st - Incipiens (8):** Timonscholte (S5), Lilla98 (S5), PythonRrR (S5), Hollymatman (S7), NiFear (S8), hammer_fan (S8), Chasmic (S16), chloesad (S20)
 
@@ -507,7 +507,7 @@
 
 **21st - Maj0r_Min3r_98 (8):** Stollaz (S7), Jakekub (S7), Frostbreath (S8), Timonscholte (S8), TommySuX (S8), MrPolzerino (S8), PythonRrR (S8), jamietheelite (S8)
 
-**21st - oworca (8):** KatyLawson (S15), TommySuX (S15), SidGarcia (S15), Cookiecrumble_ (S15), wibbol (S16), TheSonicJoey (S17), jamietheelite (S20), Incipiens (S20)
+**21st - orcau (8):** KatyLawson (S15), TommySuX (S15), SidGarcia (S15), Cookiecrumble_ (S15), wibbol (S16), TheSonicJoey (S17), jamietheelite (S20), Incipiens (S20)
 
 **21st - VeryNice (8):** Stooof (S3), LukiGg (S3), MrPolzerino (S3), Havenhand (S4), Incipiens (S8), MrCraftinator (S10), chloesad (S17), hammer_fan (S17)
 
@@ -695,7 +695,7 @@
 
 **7 Seasons (10):** Lilla98 (S1-S7), Stollaz (S1-S3,S5,S7,S16,S19), PythonRrR (S5-S10,S12), Tootikins (S7,S9,S11-S12,S14,S18-S19), ScottPirie (S11,S19-S22,S24-S25), Micale (S12,S15,S19-S22,S27), bjr201111 (S13-S15,S17,S20,S23,S26), FazedMC (S15-S18,S20,S23-S24), BSBrent (S17-S22,S24), jamertxn (S17-S21,S24-S25)
 
-**6 Seasons (7):** Maj0r_Min3r_98 (S4,S6-S8,S10,S15), GlowingNeon (S5-S6,S8-S11), Goldcap (S7,S20,S22-S23,S26-S27), oworca (S15-S17,S19-S21), BBR_ (S19-S24), Greeples (S20-S21,S23-S25,S27), Rohcket (S22-S27)
+**6 Seasons (7):** Maj0r_Min3r_98 (S4,S6-S8,S10,S15), GlowingNeon (S5-S6,S8-S11), Goldcap (S7,S20,S22-S23,S26-S27), orcau (S15-S17,S19-S21), BBR_ (S19-S24), Greeples (S20-S21,S23-S25,S27), Rohcket (S22-S27)
 
 **5 Seasons (9):** KacTheRedPanda (S1-S3,S5,S20), Dark_rust (S4-S8), Maniacmagee (S4,S6,S9-S10,S12), Cookiecrumble_ (S9,S12,S14-S15,S20), MrCraftinator (S9-S12,S14), Hoppy (S10-S13,S23), Kidfo (S11-S15), SimplySam (S13-S16,S22), Emylyl (S23-S27)
 
@@ -738,7 +738,7 @@
 
 **S14 (0):** 
 
-**S15 (3):** FazedMC, Hecticity, oworca
+**S15 (3):** FazedMC, Hecticity, orcau
 
 **S16 (2):** Kieranborn, lottebunny
 

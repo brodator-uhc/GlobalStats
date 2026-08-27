@@ -28,7 +28,7 @@
 
 **S4:** JaqOnCraq (4), Nyxbee (0), TehBaconBrawlerZ (3)
 
-**S5:** dolphinman_rl (6), kawaiibunri (5)
+**S5:** dolphinman_rl (6), evuhlynx (5)
 
 **S6:** MercuryParadox (1), ShyGus (1), TheRealHagrid (0), Zenithu (1)
 
@@ -62,7 +62,7 @@
 
 **S4:** Eluniel (3), ohh_lia (3), lilygant (3)
 
-**S5:** dolphinman_rl (6), kawaiibunri (5)
+**S5:** dolphinman_rl (6), evuhlynx (5)
 
 **S6:** ColdBac (3), Pacman_2022 (3), sr8611 (3), TehBaconBrawlerZ (0)
 
@@ -71,7 +71,7 @@
 ---
 ### First Damage
 
-**S1:** kawaiibunri (0:2:30)
+**S1:** evuhlynx (0:2:30)
 
 **S2:** natsuvi (0:2:4)
 
@@ -141,11 +141,11 @@
 
 **1st - JaqOnCraq (13):** sr8611 (S3), Zebobo10 (S3), ohh_lia (S3), Markedbooboy (S4), 78ford (S4), Flohp (S4), azoof (S4), Zenithu (S5), fruitlogic (S5), DevoyTTV (S6), wizarde (S6), Ninetals38 (S6), sr8611 (S6)
 
-**2nd - Andronify (10):** Ryfri (S4), PokemonDude09 (S5), lexicuhl (S5), 123SteveBob (S5), ObsidianFractal (S5), stupidsylvia (S5), wizarde (S5), noktime (S6), kawaiibunri (S6), hiyoumethod (S7)
+**2nd - Andronify (10):** Ryfri (S4), PokemonDude09 (S5), lexicuhl (S5), 123SteveBob (S5), ObsidianFractal (S5), stupidsylvia (S5), wizarde (S5), noktime (S6), evuhlynx (S6), hiyoumethod (S7)
 
 **2nd - natsuvi (10):** Biwitch (S2), TehBaconBrawlerZ (S3), Nuclearsugar (S3), jimmyjegs (S4), Espik (S4), Biwitch (S6), ohh_lia (S7), TehBaconBrawlerZ (S7), lilygant (S7), Nuclearsugar (S7)
 
-**4th - kawaiibunri (9):** Jordtim (S1), nug17 (S2), natsuvi (S3), natsuvi (S5), 78ford (S5), CommanderK22_ (S5), Greeples (S5), JaqOnCraq (S5), greaneye (S6)
+**4th - evuhlynx (9):** Jordtim (S1), nug17 (S2), natsuvi (S3), natsuvi (S5), 78ford (S5), CommanderK22_ (S5), Greeples (S5), JaqOnCraq (S5), greaneye (S6)
 
 **4th - wizarde (9):** nug17 (S1), Greeples (S1), fruitlogic (S1), Andronify (S3), Ryfri (S3), Eluniel (S3), lilygant (S6), 123SteveBob (S6), JaqOnCraq (S7)
 
@@ -163,9 +163,9 @@
 
 **11th - dolphinman_rl (6):** omchris (S5), Thermql (S5), Markedbooboy (S5), Eluniel (S5), Logan_S_ (S5), Andronify (S5)
 
-**11th - Eluniel (6):** winterf (S3), Flohp (S3), lexicuhl (S3), omchris (S4), kawaiibunri (S4), TehBaconBrawlerZ (S4)
+**11th - Eluniel (6):** winterf (S3), Flohp (S3), lexicuhl (S3), omchris (S4), evuhlynx (S4), TehBaconBrawlerZ (S4)
 
-**11th - fruitlogic (6):** ToontownOnline (S1), Big_Z60 (S1), Ullti (S5), PresidentFleb (S5), nug17 (S5), kawaiibunri (S7)
+**11th - fruitlogic (6):** ToontownOnline (S1), Big_Z60 (S1), Ullti (S5), PresidentFleb (S5), nug17 (S5), evuhlynx (S7)
 
 **15th - lilygant (5):** 123SteveBob (S4), stupidsylvia (S4), Greeples (S4), omchris (S7), ColdBac (S7)
 
@@ -175,7 +175,7 @@
 
 **15th - sr8611 (5):** nug17 (S3), stupidsylvia (S3), gartbak (S6), KOZlegend (S6), fruitlogic (S6)
 
-**19th - Bluests (4):** Allioideae (S5), AvyleZ (S5), kawaiibunri (S5), dolphinman_rl (S5)
+**19th - Bluests (4):** Allioideae (S5), AvyleZ (S5), evuhlynx (S5), dolphinman_rl (S5)
 
 **19th - Greeples (4):** RuneTactics (S1), Flohp (S2), CommanderK22_ (S4), WinnerSkye (S4)
 
@@ -211,7 +211,7 @@
 
 **25th - rippersteveM5 (2):** Markedbooboy (S3), Jordtim (S3)
 
-**25th - spoocS_ (2):** Kaddyn (S1), kawaiibunri (S1)
+**25th - spoocS_ (2):** Kaddyn (S1), evuhlynx (S1)
 
 **25th - stupidsylvia (2):** Ninetals38 (S5), Kaddyn (S5)
 
@@ -243,14 +243,14 @@
 
 **40th - winterf (1):** Big_Z60 (S3)
 
-**40th - xCand (1):** kawaiibunri (S3)
+**40th - xCand (1):** evuhlynx (S3)
 
 **40th - Zebobo10 (1):** ethodog (S2)
 
 ---
 ### PvE Deaths
 
-**Lava (3):** OhMatias (S2), kawaiibunri (S2), DevoyTTV (S5)
+**Lava (3):** OhMatias (S2), evuhlynx (S2), DevoyTTV (S5)
 
 **Creeper (2):** Granbel (S3), MarcusDoesMC (S4)
 
@@ -267,7 +267,7 @@
 ---
 ### Participation
 
-**7 Seasons (3):** fruitlogic (S1-S7), kawaiibunri (S1-S7), natsuvi (S1-S7)
+**7 Seasons (3):** evuhlynx (S1-S7), fruitlogic (S1-S7), natsuvi (S1-S7)
 
 **6 Seasons (3):** Ninetals38 (S1-S6), nug17 (S1-S6), TehBaconBrawlerZ (S1-S4,S6-S7)
 
@@ -284,7 +284,7 @@
 ---
 ### Debutants
 
-**S1 (21):** AvyleZ, Big_Z60, ethodog, fruitlogic, Greeples, Jaceon02, jimmyjegs, Jordtim, Kaddyn, kawaiibunri, Markedbooboy, natsuvi, Ninetals38, nug17, rippersteveM5, RuneTactics, spoocS_, TehBaconBrawlerZ, ToontownOnline, wizarde, zac083
+**S1 (21):** AvyleZ, Big_Z60, ethodog, evuhlynx, fruitlogic, Greeples, Jaceon02, jimmyjegs, Jordtim, Kaddyn, Markedbooboy, natsuvi, Ninetals38, nug17, rippersteveM5, RuneTactics, spoocS_, TehBaconBrawlerZ, ToontownOnline, wizarde, zac083
 
 **S2 (12):** AmbientDan, Biwitch, Flcnt, Flohp, lexicuhl, OhMatias, pkee, PresidentFleb, Ryfri, ShmeckleBoy, sr8611, Zebobo10
 

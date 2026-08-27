@@ -104,7 +104,7 @@
 
 **S3:** 78ford (1:42:24)
 
-**S4:** oworca (1:52:58)
+**S4:** orcau (1:52:58)
 
 **S5:** _pbo (0:33:21)
 
@@ -117,7 +117,7 @@
 ---
 ### First Blood
 
-**S1:** flameorb (oworca)
+**S1:** flameorb (orcau)
 
 **S2:** ScottPirie (warriorcat)
 
@@ -159,15 +159,15 @@
 
 **2nd - fruitberries (13):** 78ford (S1), Cyonal (S1), Daffz (S1), tagggz (S1), warriorcat (S1), Hecticity (S2), ScottPirie (S2), Neeve_ (S3), 5hup (S4), OnlyCosmia (S7), ShAydenelley (S7), Awticon (S7), Spacepod_ (S7)
 
-**3rd - bjr201111 (9):** AJSteel (S3), OnlyCosmia (S3), oworca (S3), 78ford (S3), OnlyCosmia (S5), I_is_cheesecake (S5), Potsie (S5), Pie212_123 (S6), Awticon (S6)
+**3rd - bjr201111 (9):** AJSteel (S3), OnlyCosmia (S3), orcau (S3), 78ford (S3), OnlyCosmia (S5), I_is_cheesecake (S5), Potsie (S5), Pie212_123 (S6), Awticon (S6)
 
-**3rd - ColdBac (9):** CruelFives (S2), Spacepod_ (S4), oworca (S4), Maxwellfifty (S4), YellowVitt (S4), tagggz (S4), AJSteel (S5), chloesad (S5), lottebunny (S6)
+**3rd - ColdBac (9):** CruelFives (S2), Spacepod_ (S4), orcau (S4), Maxwellfifty (S4), YellowVitt (S4), tagggz (S4), AJSteel (S5), chloesad (S5), lottebunny (S6)
 
 **5th - CHAINGE (8):** ScottPirie (S6), tagggz (S6), Neeve_ (S6), daltcn (S6), bjr201111 (S6), Jordtim (S7), warriorcat (S7), Maxwellfifty (S7)
 
 **6th - 5hup (7):** Hecticity (S4), BSBrent (S4), RoachGlue (S5), daltcn (S5), OnlyCosmia (S6), Bacan (S7), Potsie (S7)
 
-**6th - flameorb (7):** oworca (S1), Flouzemaker (S1), RedAjayDaBunny (S1), jommyappleseed (S5), 5hup (S5), chloesad (S6), awau (S7)
+**6th - flameorb (7):** orcau (S1), Flouzemaker (S1), RedAjayDaBunny (S1), jommyappleseed (S5), 5hup (S5), chloesad (S6), awau (S7)
 
 **6th - I_is_cheesecake (7):** YellowVitt (S3), tagggz (S3), Lefo_ (S3), ScottPirie (S4), ThePeridotKnight (S4), Flouzemaker (S5), flameorb (S6)
 
@@ -189,7 +189,7 @@
 
 **14th - Omertosa (4):** RoachGlue (S6), _pbo (S7), 5hup (S7), jvevo (S7)
 
-**14th - Spacepod_ (4):** oworca (S2), Pie212_123 (S3), BSBrent (S3), m4ku (S4)
+**14th - Spacepod_ (4):** orcau (S2), Pie212_123 (S3), BSBrent (S3), m4ku (S4)
 
 **14th - warriorcat (4):** blazerr (S1), Awticon (S3), flameorb (S3), Omertosa (S6)
 
@@ -217,7 +217,7 @@
 
 **29th - m4ku (2):** spittoon (S8), brodioh (S8)
 
-**29th - oworca (2):** Neeve_ (S2), wibbol (S2)
+**29th - orcau (2):** Neeve_ (S2), wibbol (S2)
 
 **29th - ShAydenelley (2):** YellowVitt (S2), lampbro (S7)
 
@@ -281,7 +281,7 @@
 
 **5 Seasons (7):** Flouzemaker (S1,S3-S6), TheSonicJoey (S1-S2,S5-S7), warriorcat (S1-S3,S6-S7), ColdBac (S2,S4-S6,S8), OnlyCosmia (S2-S3,S5-S7), Awticon (S3,S5-S8), Pie212_123 (S3,S5-S8)
 
-**4 Seasons (9):** 78ford (S1-S4), Neeve_ (S1-S3,S6), oworca (S1-S4), wibbol (S1-S3,S5), AJSteel (S3-S6), bjr201111 (S3,S5-S6,S8), I_is_cheesecake (S3-S6), 5hup (S4-S7), _pbo (S5-S8)
+**4 Seasons (9):** 78ford (S1-S4), Neeve_ (S1-S3,S6), orcau (S1-S4), wibbol (S1-S3,S5), AJSteel (S3-S6), bjr201111 (S3,S5-S6,S8), I_is_cheesecake (S3-S6), 5hup (S4-S7), _pbo (S5-S8)
 
 **3 Seasons (10):** ShAydenelley (S1-S2,S7), Hecticity (S2,S4,S8), ScottPirie (S2,S4,S6), chloesad (S3,S5-S6), Maxwellfifty (S3-S4,S7), Potsie (S4-S5,S7), RoachGlue (S4-S6), lottebunny (S5-S6,S8), cherryblawsom (S6-S8), Jordtim (S6-S8)
 
@@ -292,7 +292,7 @@
 ---
 ### Debutants
 
-**S1 (24):** 78ford, Bacan, blazerr, BSBrent, Cyonal, Daffz, EnergyPulse, flameorb, Flouzemaker, Frozeno_, fruitberries, jommyappleseed, Neeve_, NTBama, oworca, QuilJ1, RedAjayDaBunny, ShAydenelley, Spacepod_, tagggz, TheSonicJoey, warriorcat, wibbol, YellowVitt
+**S1 (24):** 78ford, Bacan, blazerr, BSBrent, Cyonal, Daffz, EnergyPulse, flameorb, Flouzemaker, Frozeno_, fruitberries, jommyappleseed, Neeve_, NTBama, orcau, QuilJ1, RedAjayDaBunny, ShAydenelley, Spacepod_, tagggz, TheSonicJoey, warriorcat, wibbol, YellowVitt
 
 **S2 (6):** ColdBac, CruelFives, floobel, Hecticity, OnlyCosmia, ScottPirie
 

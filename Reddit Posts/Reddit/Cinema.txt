@@ -54,9 +54,9 @@
 
 **S6:** Flouzemaker (1), lottebunny (4), tagggz (0)
 
-**S7:** 78ford (0), Daffz (2), lottebunny (0), oworca (1), Potsie (1), vynil (2)
+**S7:** 78ford (0), Daffz (2), lottebunny (0), orcau (1), Potsie (1), vynil (2)
 
-**S8:** oworca (3), rippersteveM5 (0)
+**S8:** orcau (3), rippersteveM5 (0)
 
 **S9:** ColdBac (3), frogsella (0), HoneyFromHell (0)
 
@@ -210,7 +210,7 @@
 
 **S6:** rippersteveM5 (1:21:50)
 
-**S7:** oworca (1:29:52)
+**S7:** orcau (1:29:52)
 
 **S8:** rippersteveM5 (1:27:38)
 
@@ -353,7 +353,7 @@
 
 **15th - Rohcket (7):** cherryblawsom (S11), chloesad (S12), ShyGus (S12), Maxwellfifty (S13), cherryblawsom (S13), MajorWoof (S14), Lighte (S15)
 
-**15th - vynil (7):** ShyGus (S7), chloesad (S7), Kiinako_ (S8), WackoFlipper (S8), oworca (S8), YellowVitt (S8), rippersteveM5 (S8)
+**15th - vynil (7):** ShyGus (S7), chloesad (S7), Kiinako_ (S8), WackoFlipper (S8), orcau (S8), YellowVitt (S8), rippersteveM5 (S8)
 
 **21st - Cyndic (6):** TheKevGuy (S10), 5kylord (S10), QuilJ1 (S10), Edviin_ (S10), MaxEvasion (S14), Hacn35 (S14)
 
@@ -363,7 +363,7 @@
 
 **21st - OblivionTU (6):** nihontiger (S2), Huntree (S2), MrPolzerino (S3), CedGhoss (S3), Venusial (S3), Huntree (S3)
 
-**21st - QuilJ1 (6):** Mathyy (S5), oworca (S7), Chasmic (S9), MajorWoof (S9), ShyGus (S10), BBR_ (S11)
+**21st - QuilJ1 (6):** Mathyy (S5), orcau (S7), Chasmic (S9), MajorWoof (S9), ShyGus (S10), BBR_ (S11)
 
 **21st - WackoFlipper (6):** HoneyFromHell (S8), TheRealHagrid (S8), Rohcket (S12), ColdBac (S12), DJoee (S14), Klickacat (S16b)
 
@@ -393,7 +393,7 @@
 
 **33rd - MrCraftinator (4):** Maddognils (S1), FDeath (S1), Hoppy (S2), Daffz (S7)
 
-**33rd - oworca (4):** TommySuX (S7), MercuryParadox (S8), frogsella (S8), dRawry (S8)
+**33rd - orcau (4):** TommySuX (S7), MercuryParadox (S8), frogsella (S8), dRawry (S8)
 
 **33rd - YellowVitt (4):** rippersteveM5 (S7), Potsie (S8), WackoFlipper (S14), 5kylord (S16b)
 
@@ -555,7 +555,7 @@
 
 **3 Seasons (11):** Havenhand (S4,S15,S16b), BushieHalf (S5-S7), dRawry (S5-S6,S8), BSBrent (S9-S10,S16b), discoczibi (S11,S15-S16a), DjTalica (S11-S12,S14), brodioh (S12,S14,S16b), Hacn35 (S12,S14,S16b), WillBrisk (S12-S13,S16a), Nintendoshi (S13-S14,S16b), CrowJRC (S15,S16b-S17)
 
-**2 Seasons (29):** FDeath (S1,S3), LongaVita (S1,S7), MrPolzerino (S1,S3), Ruari (S1-S2), Algebra (S2-S3), Cryptic (S2-S3), Fairyjuice (S2,S5), Hoppy (S2,S16b), Huntree (S2-S3), Kidfo (S2-S3), OblivionTU (S2-S3), CedGhoss (S3-S4), Stellios_Cantos (S4,S9), AvaCos (S6-S7), Ixolock (S7,S9), LegoBeast (S7,S12), oworca (S7-S8), scriblur (S7-S8), vynil (S7-S8), Cyndic (S10,S14), WaXmAn24 (S10,S13), 5hup (S12,S14), nFang (S12,S14), mqson (S13-S14), warriorcat (S13,S16b), H_L_llama (S14-S15), Pie212_123 (S14-S15), Lighte (S15-S16a), ChainingVermin2 (S16b-S17)
+**2 Seasons (29):** FDeath (S1,S3), LongaVita (S1,S7), MrPolzerino (S1,S3), Ruari (S1-S2), Algebra (S2-S3), Cryptic (S2-S3), Fairyjuice (S2,S5), Hoppy (S2,S16b), Huntree (S2-S3), Kidfo (S2-S3), OblivionTU (S2-S3), CedGhoss (S3-S4), Stellios_Cantos (S4,S9), AvaCos (S6-S7), Ixolock (S7,S9), LegoBeast (S7,S12), orcau (S7-S8), scriblur (S7-S8), vynil (S7-S8), Cyndic (S10,S14), WaXmAn24 (S10,S13), 5hup (S12,S14), nFang (S12,S14), mqson (S13-S14), warriorcat (S13,S16b), H_L_llama (S14-S15), Pie212_123 (S14-S15), Lighte (S15-S16a), ChainingVermin2 (S16b-S17)
 
 **1 Season (39):** Chapter_III (S1), GlowingNeon (S1), Maddognils (S1), Tomathius (S1), WintherMaw (S1), Gillieeeee (S2), slowpr0 (S2), xenon__54 (S2), scotteh (S3), Venusial (S3), Guep (S4), Topspinpiggles (S5), floobel (S6), SummerBqsh (S9), illuminaja (S12), ElGavinoSupremo (S15), jvevo (S16a), Zevulpes (S16a), Bobbytheturtle (S16b), Brodator (S16b), buttergolem1 (S16b), commitstaxfraud (S16b), DancersTalon (S16b), Exee (S16b), firefoxvulpix (S16b), fruitlogic (S16b), Greeples (S16b), Jahrod (S16b), kirbey (S16b), KOKeowner (S16b), MarcC5M (S16b), Micale (S16b), Nikikula (S16b), Pehnk (S16b), ShootingGoats (S16b), SpaceFenix (S16b), starlxghtmoon (S16b), wibbol (S16b), automavic (S17)
 
@@ -574,7 +574,7 @@
 
 **S6 (7):** AvaCos, Chasmic, Daffz, floobel, miles1baseball, rippersteveM5, tagggz
 
-**S7 (8):** chloesad, frogsella, Ixolock, LegoBeast, oworca, scriblur, vynil, YellowVitt
+**S7 (8):** chloesad, frogsella, Ixolock, LegoBeast, orcau, scriblur, vynil, YellowVitt
 
 **S8 (1):** WackoFlipper
 

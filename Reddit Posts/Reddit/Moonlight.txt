@@ -13,6 +13,8 @@
 
 **S5: Fcrm (4), Karliffu (5), Ninetals38 (1)**, *GuyNamedKreo (0)*
 
+**S6: gmailol (6)**, *ItsShqky (2), RomeoG0401 (0)*
+
 ---
 ### Runner Ups
 
@@ -26,6 +28,8 @@
 
 **S5:** ADinoPlayingMC (0), BigJedo (0), Qmos (0), zoeywithawhy (0)
 
+**S6:** DogOfKrondor (0), HUQTER (8), Ryfri (2)
+
 ---
 ### Most Kills
 
@@ -35,9 +39,11 @@
 
 **S3:** Fcrm (7)
 
-**S4:** kawaiibunri (7)
+**S4:** evuhlynx (7)
 
-**S5:** Karliffu, kawaiibunri (5)
+**S5:** evuhlynx, Karliffu (5)
+
+**S6:** HUQTER (8)
 
 ---
 ### Most Kills (Team)
@@ -48,9 +54,11 @@
 
 **S3:** N/A
 
-**S4:** acadiangel (0), CAMKART100 (0), kawaiibunri (7), omchris (1)
+**S4:** acadiangel (0), CAMKART100 (0), evuhlynx (7), omchris (1)
 
 **S5:** Fcrm (4), GuyNamedKreo (0), Karliffu (5), Ninetals38 (1)
+
+**S6:** DogOfKrondor (0), HUQTER (8), Ryfri (2)
 
 ---
 ### First Damage
@@ -65,6 +73,8 @@
 
 **S5:** broccoliar (0:0:23)
 
+**S6:** Kaismartypants (0:0:20)
+
 ---
 ### Ironman
 
@@ -78,6 +88,8 @@
 
 **S5:** Qmos (1:23:35)
 
+**S6:** CodeJoshua (1:26:6)
+
 ---
 ### First Blood
 
@@ -87,9 +99,11 @@
 
 **S3:** Fcrm (HeyItsJBug)
 
-**S4:** kawaiibunri (Stravilight)
+**S4:** evuhlynx (Stravilight)
 
 **S5:** DogOfKrondor (DevoyTTV)
+
+**S6:** JampoJohn (MineKG)
 
 ---
 ### First Death
@@ -100,96 +114,114 @@
 
 **S3:** GuyNamedKreo (Left)
 
-**S4:** Stravilight (kawaiibunri)
+**S4:** Stravilight (evuhlynx)
 
 **S5:** DevoyTTV (DogOfKrondor)
+
+**S6:** MineKG (JampoJohn)
 
 ---
 ### Kills
 
-**1st - Fcrm (22):** _1mmortal_ (S1), ScaryPumpkinFace (S1), grantfaker (S2), DogOfKrondor (S2), OneMoreWeek (S2), IrishandProud (S2), MineKG (S2), boyyoo (S2), kabobaa (S2), HeyItsJBug (S3), Clemjo (S3), kabobaa (S3), ScaryPumpkinFace (S3), DevoyTTV (S3), Pgy (S3), AirInAirOut (S3), Broseph (S4), Ryfri (S4), Fearx_ (S5), DogOfKrondor (S5), MrMasterball (S5), m4ku (S5)
+**1st - Fcrm (25):** _1mmortal_ (S1), ScaryPumpkinFace (S1), grantfaker (S2), DogOfKrondor (S2), OneMoreWeek (S2), IrishandProud (S2), MineKG (S2), boyyoo (S2), kabobaa (S2), HeyItsJBug (S3), Clemjo (S3), kabobaa (S3), ScaryPumpkinFace (S3), DevoyTTV (S3), Pgy (S3), AirInAirOut (S3), Broseph (S4), Ryfri (S4), Fearx_ (S5), DogOfKrondor (S5), MrMasterball (S5), m4ku (S5), EndestroyerEpic (S6), JampoJohn (S6), Ryfri (S6)
 
-**2nd - kawaiibunri (12):** Stravilight (S4), ItsShqky (S4), ImChile (S4), HUQTER (S4), RomeoG0401 (S4), Fearx_ (S4), noktime (S4), BigJedo (S5), King_Aiden (S5), RomeoG0401 (S5), BEANJEE (S5), GuyNamedKreo (S5)
+**2nd - evuhlynx (12):** Stravilight (S4), ItsShqky (S4), ImChile (S4), HUQTER (S4), RomeoG0401 (S4), Fearx_ (S4), noktime (S4), BigJedo (S5), King_Aiden (S5), RomeoG0401 (S5), BEANJEE (S5), GuyNamedKreo (S5)
 
-**3rd - JampoJohn (6):** rae0vr (S1), DevoyTTV (S2), MichaelPlayMC (S5), St0rmplayz (S5), brinkwhy (S5), CAMKART100 (S5)
+**3rd - HUQTER (8):** Kaismartypants (S6), MichaelPlayMC (S6), EroseMC (S6), Karliffu (S6), FroztiSnowman (S6), GuyNamedKreo (S6), boyyoo (S6), Fcrm (S6)
 
-**4th - ImChile (5):** Bobbytheturtle (S4), JampoJohn (S4), ScaryPumpkinFace (S4), kabobaa (S4), LightingMC (S5)
+**4th - JampoJohn (7):** rae0vr (S1), DevoyTTV (S2), MichaelPlayMC (S5), St0rmplayz (S5), brinkwhy (S5), CAMKART100 (S5), MineKG (S6)
 
-**4th - kabobaa (5):** Blind4ndD34f (S2), Kaismartypants (S2), BoltsInCharge (S2), King_Aiden (S4), ShootingGoats (S4)
+**4th - Karliffu (7):** Random_Penguin72 (S5), boyyoo (S5), poWpaH (S5), evuhlynx (S5), Broseph (S5), ItsShqky (S6), IrishandProud (S6)
 
-**4th - Karliffu (5):** Random_Penguin72 (S5), boyyoo (S5), poWpaH (S5), kawaiibunri (S5), Broseph (S5)
+**6th - DevoyTTV (6):** broccoliar (S2), ItsShqky (S3), ArcticSeagull (S3), broccoliar (S3), grantfaker (S6), ItzBeeZ (S6)
 
-**4th - LightingMC (5):** ShootingGoats (S2), JampoJohn (S2), GuyNamedKreo (S2), EroseMC (S3), Moonlitess (S5)
+**6th - gmailol (6):** Bobbytheturtle (S6), vDyre (S6), omchris (S6), Bulbexe (S6), OneMoreWeek (S6), HUQTER (S6)
 
-**8th - boyyoo (4):** JampoJohn (S1), LightingMC (S3), ItsJustSherm (S5), ItsShqky (S5)
+**6th - ItsShqky (6):** zoeywithawhy (S2), MichaelPlayMC (S3), broccoliar (S4), SpaceFenix (S5), Sharkbob94349 (S6), DevoyTTV (S6)
 
-**8th - broccoliar (4):** boyyoo (S3), Blind4ndD34f (S3), vDyre (S3), CommanderK22_ (S5)
+**6th - kabobaa (6):** Blind4ndD34f (S2), Kaismartypants (S2), BoltsInCharge (S2), King_Aiden (S4), ShootingGoats (S4), strategy (S6)
 
-**8th - DevoyTTV (4):** broccoliar (S2), ItsShqky (S3), ArcticSeagull (S3), broccoliar (S3)
+**10th - ImChile (5):** Bobbytheturtle (S4), JampoJohn (S4), ScaryPumpkinFace (S4), kabobaa (S4), LightingMC (S5)
 
-**8th - DJoee (4):** DogOfKrondor (S4), grantfaker (S4), Pgy (S4), Bulbexe (S4)
+**10th - LightingMC (5):** ShootingGoats (S2), JampoJohn (S2), GuyNamedKreo (S2), EroseMC (S3), Moonlitess (S5)
 
-**8th - ItsShqky (4):** zoeywithawhy (S2), MichaelPlayMC (S3), broccoliar (S4), SpaceFenix (S5)
+**12th - boyyoo (4):** JampoJohn (S1), LightingMC (S3), ItsJustSherm (S5), ItsShqky (S5)
 
-**8th - Stravilight (4):** vDyre (S2), LightingMC (S2), ScaryPumpkinFace (S2), ShootingGoats (S5)
+**12th - broccoliar (4):** boyyoo (S3), Blind4ndD34f (S3), vDyre (S3), CommanderK22_ (S5)
 
-**14th - CAMKART100 (3):** ImChile (S5), Stravilight (S5), CodeJoshua (S5)
+**12th - DJoee (4):** DogOfKrondor (S4), grantfaker (S4), Pgy (S4), Bulbexe (S4)
 
-**14th - Fearx_ (3):** Karliffu (S4), boyyoo (S4), Blind4ndD34f (S5)
+**12th - Stravilight (4):** vDyre (S2), LightingMC (S2), ScaryPumpkinFace (S2), ShootingGoats (S5)
 
-**14th - JustStefqn (3):** Fcrm (S1), MichaelPlayMC (S1), Dreamfall (S1)
+**16th - Bulbexe (3):** omchris (S4), evuhlynx (S4), kabobaa (S6)
 
-**14th - noktime (3):** vDyre (S4), Fcrm (S4), SpaceFenix (S4)
+**16th - CAMKART100 (3):** ImChile (S5), Stravilight (S5), CodeJoshua (S5)
 
-**14th - poWpaH (3):** kabobaa (S5), ADinoPlayingMC (S5), Qmos (S5)
+**16th - Fearx_ (3):** Karliffu (S4), boyyoo (S4), Blind4ndD34f (S5)
 
-**19th - AirInAirOut (2):** JampoJohn (S3), BEANJEE (S3)
+**16th - JustStefqn (3):** Fcrm (S1), MichaelPlayMC (S1), Dreamfall (S1)
 
-**19th - BoltsInCharge (2):** MichaelPlayMC (S2), AirInAirOut (S2)
+**16th - noktime (3):** vDyre (S4), Fcrm (S4), SpaceFenix (S4)
 
-**19th - Bulbexe (2):** omchris (S4), kawaiibunri (S4)
+**16th - poWpaH (3):** kabobaa (S5), ADinoPlayingMC (S5), Qmos (S5)
 
-**19th - Dreamfall (2):** Kaismartypants (S1), JustStefqn (S1)
+**16th - Ryfri (3):** MrMasterball (S4), ScaryPumpkinFace (S6), CodeJoshua (S6)
 
-**19th - grantfaker (2):** boyyoo (S1), acadiangel (S4)
+**23rd - AirInAirOut (2):** JampoJohn (S3), BEANJEE (S3)
 
-**19th - m4ku (2):** ItzBeeZ (S5), JampoJohn (S5)
+**23rd - BoltsInCharge (2):** MichaelPlayMC (S2), AirInAirOut (S2)
 
-**19th - Ninetals38 (2):** DogOfKrondor (S1), zoeywithawhy (S5)
+**23rd - Dreamfall (2):** Kaismartypants (S1), JustStefqn (S1)
 
-**19th - Pgy (2):** ArcticSeagull (S4), EndestroyerEpic (S4)
+**23rd - grantfaker (2):** boyyoo (S1), acadiangel (S4)
 
-**19th - ScaryPumpkinFace (2):** ItsShqky (S2), CAMKART100 (S4)
+**23rd - m4ku (2):** ItzBeeZ (S5), JampoJohn (S5)
 
-**19th - ShootingGoats (2):** Westcraft00 (S5), IrishandProud (S5)
+**23rd - Ninetals38 (2):** DogOfKrondor (S1), zoeywithawhy (S5)
 
-**29th - ArcticSeagull (1):** Random_Penguin72 (S3)
+**23rd - omchris (2):** OneMoreWeek (S4), BEANJEE (S6)
 
-**29th - CodeJoshua (1):** NickPlaysGames15 (S5)
+**23rd - Pgy (2):** ArcticSeagull (S4), EndestroyerEpic (S4)
 
-**29th - CommanderK22_ (1):** FroztiSnowman (S5)
+**23rd - ScaryPumpkinFace (2):** ItsShqky (S2), CAMKART100 (S4)
 
-**29th - DogOfKrondor (1):** DevoyTTV (S5)
+**23rd - ShootingGoats (2):** Westcraft00 (S5), IrishandProud (S5)
 
-**29th - EndestroyerEpic (1):** broccoliar (S5)
+**33rd - ArcticSeagull (1):** Random_Penguin72 (S3)
 
-**29th - EroseMC (1):** OneMoreWeek (S5)
+**33rd - CodeJoshua (1):** NickPlaysGames15 (S5)
 
-**29th - Evzenitable (1):** Ninetals38 (S1)
+**33rd - CommanderK22_ (1):** FroztiSnowman (S5)
 
-**29th - MichaelPlayMC (1):** SuperToads64 (S5)
+**33rd - DogOfKrondor (1):** DevoyTTV (S5)
 
-**29th - Moonlitess (1):** EroseMC (S5)
+**33rd - EndestroyerEpic (1):** broccoliar (S5)
 
-**29th - omchris (1):** OneMoreWeek (S4)
+**33rd - EroseMC (1):** OneMoreWeek (S5)
 
-**29th - RomeoG0401 (1):** EndestroyerEpic (S5)
+**33rd - Evzenitable (1):** Ninetals38 (S1)
 
-**29th - Ryfri (1):** MrMasterball (S4)
+**33rd - FroztiSnowman (1):** DogOfKrondor (S6)
 
-**29th - SpaceFenix (1):** MichaelPlayMC (S4)
+**33rd - GuyNamedKreo (1):** RomeoG0401 (S6)
 
-**29th - Westcraft00 (1):** grantfaker (S5)
+**33rd - ItzBeeZ (1):** CAMKART100 (S6)
+
+**33rd - MichaelPlayMC (1):** SuperToads64 (S5)
+
+**33rd - Moonlitess (1):** EroseMC (S5)
+
+**33rd - OneMoreWeek (1):** Pgy (S6)
+
+**33rd - RomeoG0401 (1):** EndestroyerEpic (S5)
+
+**33rd - SpaceFenix (1):** MichaelPlayMC (S4)
+
+**33rd - strategy (1):** Maybe_Puffer (S6)
+
+**33rd - vDyre (1):** Fearx_ (S6)
+
+**33rd - Westcraft00 (1):** grantfaker (S5)
 
 ---
 ### PvE Deaths
@@ -205,15 +237,17 @@
 ---
 ### Participation
 
-**5 Seasons (7):** boyyoo (S1-S5), Fcrm (S1-S5), grantfaker (S1-S5), ItsShqky (S1-S5), JampoJohn (S1-S5), kabobaa (S1-S5), MichaelPlayMC (S1-S5)
+**6 Seasons (7):** boyyoo (S1-S6), Fcrm (S1-S6), grantfaker (S1-S6), ItsShqky (S1-S6), JampoJohn (S1-S6), kabobaa (S1-S6), MichaelPlayMC (S1-S6)
 
-**4 Seasons (3):** DogOfKrondor (S1-S2,S4-S5), ScaryPumpkinFace (S1-S4), broccoliar (S2-S5)
+**5 Seasons (2):** DogOfKrondor (S1-S2,S4-S6), ScaryPumpkinFace (S1-S4,S6)
 
-**3 Seasons (9):** IrishandProud (S1-S2,S5), Blind4ndD34f (S2-S3,S5), DevoyTTV (S2-S3,S5), GuyNamedKreo (S2-S3,S5), LightingMC (S2-S3,S5), OneMoreWeek (S2,S4-S5), ShootingGoats (S2,S4-S5), Stravilight (S2,S4-S5), vDyre (S2-S4)
+**4 Seasons (6):** IrishandProud (S1-S2,S5-S6), broccoliar (S2-S5), DevoyTTV (S2-S3,S5-S6), GuyNamedKreo (S2-S3,S5-S6), OneMoreWeek (S2,S4-S6), vDyre (S2-S4,S6)
 
-**2 Seasons (20):** Kaismartypants (S1-S2), Ninetals38 (S1,S5), AirInAirOut (S2-S3), zoeywithawhy (S2,S5), ArcticSeagull (S3-S4), BEANJEE (S3,S5), EroseMC (S3,S5), Pgy (S3-S4), Random_Penguin72 (S3,S5), Broseph (S4-S5), CAMKART100 (S4-S5), EndestroyerEpic (S4-S5), Fearx_ (S4-S5), ImChile (S4-S5), Karliffu (S4-S5), kawaiibunri (S4-S5), King_Aiden (S4-S5), MrMasterball (S4-S5), RomeoG0401 (S4-S5), SpaceFenix (S4-S5)
+**3 Seasons (13):** Kaismartypants (S1-S2,S6), Blind4ndD34f (S2-S3,S5), LightingMC (S2-S3,S5), ShootingGoats (S2,S4-S5), Stravilight (S2,S4-S5), BEANJEE (S3,S5-S6), EroseMC (S3,S5-S6), Pgy (S3-S4,S6), CAMKART100 (S4-S6), EndestroyerEpic (S4-S6), Fearx_ (S4-S6), Karliffu (S4-S6), RomeoG0401 (S4-S6)
 
-**1 Season (34):** _1mmortal_ (S1), Dreamfall (S1), Evzenitable (S1), JustStefqn (S1), rae0vr (S1), BoltsInCharge (S2), MineKG (S2), Clemjo (S3), gasosaurus518 (S3), HeyItsJBug (S3), acadiangel (S4), Bobbytheturtle (S4), Bulbexe (S4), DJoee (S4), HUQTER (S4), noktime (S4), omchris (S4), Ryfri (S4), ADinoPlayingMC (S5), BigJedo (S5), brinkwhy (S5), CodeJoshua (S5), CommanderK22_ (S5), FroztiSnowman (S5), ItsJustSherm (S5), ItzBeeZ (S5), m4ku (S5), Moonlitess (S5), NickPlaysGames15 (S5), poWpaH (S5), Qmos (S5), St0rmplayz (S5), SuperToads64 (S5), Westcraft00 (S5)
+**2 Seasons (20):** Ninetals38 (S1,S5), AirInAirOut (S2-S3), MineKG (S2,S6), zoeywithawhy (S2,S5), ArcticSeagull (S3-S4), Random_Penguin72 (S3,S5), Bobbytheturtle (S4,S6), Broseph (S4-S5), Bulbexe (S4,S6), evuhlynx (S4-S5), HUQTER (S4,S6), ImChile (S4-S5), King_Aiden (S4-S5), MrMasterball (S4-S5), omchris (S4,S6), Ryfri (S4,S6), SpaceFenix (S4-S5), CodeJoshua (S5-S6), FroztiSnowman (S5-S6), ItzBeeZ (S5-S6)
+
+**1 Season (29):** _1mmortal_ (S1), Dreamfall (S1), Evzenitable (S1), JustStefqn (S1), rae0vr (S1), BoltsInCharge (S2), Clemjo (S3), gasosaurus518 (S3), HeyItsJBug (S3), acadiangel (S4), DJoee (S4), noktime (S4), ADinoPlayingMC (S5), BigJedo (S5), brinkwhy (S5), CommanderK22_ (S5), ItsJustSherm (S5), m4ku (S5), Moonlitess (S5), NickPlaysGames15 (S5), poWpaH (S5), Qmos (S5), St0rmplayz (S5), SuperToads64 (S5), Westcraft00 (S5), gmailol (S6), Maybe_Puffer (S6), Sharkbob94349 (S6), strategy (S6)
 
 ---
 ### Debutants
@@ -224,8 +258,10 @@
 
 **S3 (8):** ArcticSeagull, BEANJEE, Clemjo, EroseMC, gasosaurus518, HeyItsJBug, Pgy, Random_Penguin72
 
-**S4 (19):** acadiangel, Bobbytheturtle, Broseph, Bulbexe, CAMKART100, DJoee, EndestroyerEpic, Fearx_, HUQTER, ImChile, Karliffu, kawaiibunri, King_Aiden, MrMasterball, noktime, omchris, RomeoG0401, Ryfri, SpaceFenix
+**S4 (19):** acadiangel, Bobbytheturtle, Broseph, Bulbexe, CAMKART100, DJoee, EndestroyerEpic, evuhlynx, Fearx_, HUQTER, ImChile, Karliffu, King_Aiden, MrMasterball, noktime, omchris, RomeoG0401, Ryfri, SpaceFenix
 
 **S5 (16):** ADinoPlayingMC, BigJedo, brinkwhy, CodeJoshua, CommanderK22_, FroztiSnowman, ItsJustSherm, ItzBeeZ, m4ku, Moonlitess, NickPlaysGames15, poWpaH, Qmos, St0rmplayz, SuperToads64, Westcraft00
+
+**S6 (4):** gmailol, Maybe_Puffer, Sharkbob94349, strategy
 
 ---

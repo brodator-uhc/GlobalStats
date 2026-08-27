@@ -145,7 +145,7 @@
 
 **S2:** 4EyedSlime (TayUHC)
 
-**S3:** kawaiibunri (David63)
+**S3:** evuhlynx (David63)
 
 **S4:** ArcticSeagull (Geroot)
 
@@ -168,7 +168,7 @@
 
 **S2:** TayUHC (4EyedSlime)
 
-**S3:** David63 (kawaiibunri)
+**S3:** David63 (evuhlynx)
 
 **S4:** Geroot (ArcticSeagull)
 
@@ -189,11 +189,11 @@
 
 **1st - Bobbytheturtle (26):** poWpaH (S8), Kaismartypants (S8), ShootingGoats (S8), wizarde (S8), Evzenitable (S8), omchris (S8), ChainingVermin2 (S9), ItsShqky (S9), omchris (S9), Ryfri (S9), IdkKiller (S9), TheSlimeBrother (S9), wizarde (S9), DevoyTTV (S9), Bornyo (S10), ImChile (S10), BoltsInCharge (S10), grantfaker (S10), Kaismartypants (S10), Ryfri (S10), IdkKiller (S10), Stravilight (S10), Markedbooboy (S10), Ryfri (S10), Ullti (S10), Geroot (S10)
 
-**2nd - DJoee (14):** ItzIgglesPiggles (S2), SiahStone (S2), Ullti (S2), Stravilight (S3), kawaiibunri (S3), SiahStone (S3), Flcnt (S5), AshRiolu100985 (S5), lasdarling (S5), Broseph (S5), MichaelPlayMC (S7), MichaelPlayMC (S10), brinkwhy (S10), brinkwhy (S10)
+**2nd - DJoee (14):** ItzIgglesPiggles (S2), SiahStone (S2), Ullti (S2), Stravilight (S3), evuhlynx (S3), SiahStone (S3), Flcnt (S5), AshRiolu100985 (S5), lasdarling (S5), Broseph (S5), MichaelPlayMC (S7), MichaelPlayMC (S10), brinkwhy (S10), brinkwhy (S10)
 
 **2nd - Fcrm (14):** TheSlimeBrother (S4), _Dieter (S5), Markedbooboy (S6), Stravilight (S6), Kaismartypants (S6), Ullti (S6), BuildingBard300 (S7), ArcticSeagull (S7), JaqOnCraq (S7), Stravilight (S9), BoltsInCharge (S9), SiahStone (S9), CommanderK22_ (S10), omchris (S10)
 
-**4th - benidk (13):** lasdarling (S6), CommanderK22_ (S7), kawaiibunri (S7), _Dieter (S7), Mikemino321 (S7), Bornyo (S7), _1mmortal_ (S7), Markedbooboy (S7), ColdBac (S7), broccoliar (S7), Fcrm (S7), vynil (S7), cherryblawsom (S8)
+**4th - benidk (13):** lasdarling (S6), CommanderK22_ (S7), evuhlynx (S7), _Dieter (S7), Mikemino321 (S7), Bornyo (S7), _1mmortal_ (S7), Markedbooboy (S7), ColdBac (S7), broccoliar (S7), Fcrm (S7), vynil (S7), cherryblawsom (S8)
 
 **5th - Vetmire (11):** Fra49 (S1), ItzIgglesPiggles (S1), poWpaH (S1), 4EyedSlime (S2), ArcticSeagull (S4), Chasmic (S5), Kaddyn (S5), CAMKART100 (S6), _Dieter (S6), Westcraft00 (S8), CodeJoshua (S9)
 
@@ -201,7 +201,7 @@
 
 **6th - Spongey (9):** Vetmire (S10), Codwhy (S10), Greeples (S10), rae0vr (S10), ScaryPumpkinFace (S10), Greeples (S10), _1mmortal_ (S10), ImChile (S10), TheSlimeBrother (S10)
 
-**8th - kawaiibunri (8):** David63 (S3), TheSlimeBrother (S5), Geroot (S5), Stravilight (S5), Fcrm (S5), Kaismartypants (S9), ArcticSeagull (S9), Flcnt (S9)
+**8th - evuhlynx (8):** David63 (S3), TheSlimeBrother (S5), Geroot (S5), Stravilight (S5), Fcrm (S5), Kaismartypants (S9), ArcticSeagull (S9), Flcnt (S9)
 
 **9th - _1mmortal_ (7):** CAMKART100 (S7), MercuryParadox (S7), Gorgerous (S7), TorinFBF (S8), broccoliar (S8), Westcraft00 (S10), DJoee (S10)
 
@@ -213,7 +213,7 @@
 
 **11th - natsuvi (6):** MangoPlayz (S3), Broseph (S3), Vetmire (S3), Kaddyn (S3), Vetmire (S5), JaqOnCraq (S5)
 
-**11th - poWpaH (6):** TayUHC (S1), Stravilight (S1), ArcticSeagull (S1), TheSlimeBrother (S1), kawaiibunri (S9), MichaelPlayMC (S9)
+**11th - poWpaH (6):** TayUHC (S1), Stravilight (S1), ArcticSeagull (S1), TheSlimeBrother (S1), evuhlynx (S9), MichaelPlayMC (S9)
 
 **15th - Captinn (5):** SiahStone (S4), Ullti (S4), lasdarling (S4), Broseph (S4), Qmos (S4)
 
@@ -221,7 +221,7 @@
 
 **15th - DevoyTTV (5):** TorinFBF (S6), SpaceFenix (S6), Fcrm (S6), Vetmire (S6), Vetmire (S9)
 
-**15th - Dj8ninja (5):** broccoliar (S5), poWpaH (S5), kawaiibunri (S5), vynil (S5), Psykl0ne (S5)
+**15th - Dj8ninja (5):** broccoliar (S5), poWpaH (S5), evuhlynx (S5), vynil (S5), Psykl0ne (S5)
 
 **15th - Kaismartypants (5):** MaxEvasion (S3), Flcnt (S3), Mikemino321 (S3), MercuryParadox (S8), Ullti (S10)
 
@@ -257,7 +257,7 @@
 
 **33rd - CodeJoshua (3):** xDiversity (S4), grantfaker (S9), Westcraft00 (S9)
 
-**33rd - Codwhy (3):** poWpaH (S3), TorinFBF (S3), kawaiibunri (S4)
+**33rd - Codwhy (3):** poWpaH (S3), TorinFBF (S3), evuhlynx (S4)
 
 **33rd - Fra49 (3):** Pelycosaur (S1), Ullti (S1), Mikemino321 (S9)
 
@@ -349,7 +349,7 @@
 
 **6 Seasons (4):** Flcnt (S3-S6,S8-S9), Kaismartypants (S3,S5-S6,S8-S10), Fcrm (S4-S7,S9-S10), MichaelPlayMC (S5-S10)
 
-**5 Seasons (10):** ArcticSeagull (S1-S2,S4,S7,S9), CodeJoshua (S1,S3-S5,S9), Chasmic (S2-S5,S8), DJoee (S2-S3,S5,S7,S10), SiahStone (S2-S4,S7,S9), kawaiibunri (S3-S5,S7,S9), Geroot (S4-S6,S8,S10), MercuryParadox (S4-S5,S7-S9), _1mmortal_ (S6-S10), CommanderK22_ (S6-S10)
+**5 Seasons (10):** ArcticSeagull (S1-S2,S4,S7,S9), CodeJoshua (S1,S3-S5,S9), Chasmic (S2-S5,S8), DJoee (S2-S3,S5,S7,S10), SiahStone (S2-S4,S7,S9), evuhlynx (S3-S5,S7,S9), Geroot (S4-S6,S8,S10), MercuryParadox (S4-S5,S7-S9), _1mmortal_ (S6-S10), CommanderK22_ (S6-S10)
 
 **4 Seasons (12):** Captinn (S1-S4), SpaceFenix (S1,S6,S8,S10), _Dieter (S2,S5-S7), 4EyedSlime (S2-S4,S6), IdkKiller (S2-S3,S9-S10), Gorgerous (S3,S5-S7), Markedbooboy (S3,S6-S7,S10), TorinFBF (S3-S4,S6,S8), ColdBac (S4-S5,S7-S8), lasdarling (S4-S7), CAMKART100 (S6-S8,S10), ItsShqky (S7-S10)
 
@@ -366,7 +366,7 @@
 
 **S2 (8):** _Dieter, 4EyedSlime, Chasmic, DJoee, IdkKiller, SiahStone, TehBaconBrawlerZ, Vastelle
 
-**S3 (15):** AWhivenGuy, Broseph, Codwhy, David63, Flcnt, Gorgerous, Kaddyn, Kaismartypants, kawaiibunri, MangoPlayz, Markedbooboy, Mikemino321, natsuvi, TastyBaconZ, TorinFBF
+**S3 (15):** AWhivenGuy, Broseph, Codwhy, David63, evuhlynx, Flcnt, Gorgerous, Kaddyn, Kaismartypants, MangoPlayz, Markedbooboy, Mikemino321, natsuvi, TastyBaconZ, TorinFBF
 
 **S4 (11):** _Fost_, broccoliar, ColdBac, Fcrm, Geroot, InsertDotJpeg, kirbey, lasdarling, MercuryParadox, Qmos, xDiversity
 

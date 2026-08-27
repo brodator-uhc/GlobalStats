@@ -111,7 +111,7 @@
 
 **2nd - Greeples (7):** ArcticSeagull (S2), Captinn (S2), Jaceon02 (S2), broccoliar (S2), TheSlimeBrother (S2), Ninetals38 (S3), 4EyedSlime (S3)
 
-**3rd - AHSOKATANOSTAN (6):** TehBaconBrawlerZ (S3), nug17 (S3), natsuvi (S3), Greeples (S3), kawaiibunri (S3), Flcnt (S3)
+**3rd - AHSOKATANOSTAN (6):** TehBaconBrawlerZ (S3), nug17 (S3), natsuvi (S3), Greeples (S3), evuhlynx (S3), Flcnt (S3)
 
 **3rd - natsuvi (6):** ArcticSeagull (S3), T1mT0m (S4), 4EyedSlime (S4), broccoliar (S5), Kaismartypants (S5), CommanderK22_ (S5)
 
@@ -133,7 +133,7 @@
 
 **13th - BoltsInCharge (3):** IdkKiller (S4), Kaismartypants (S4), ItsColinn (S4)
 
-**13th - Captinn (3):** kawaiibunri (S1), brinniex (S1), CodeJoshua (S1)
+**13th - Captinn (3):** evuhlynx (S1), brinniex (S1), CodeJoshua (S1)
 
 **13th - DragonGlory (3):** zeesue (S1), Kaddyn (S1), _1mmortal_ (S1)
 
@@ -213,14 +213,14 @@
 
 **3 Seasons (13):** ArcticSeagull (S1-S3), Charrlottie (S1,S3-S4), Kaddyn (S1-S3), poWpaH (S1,S4-S5), RuneTactics (S1,S4-S5), Blarkslol (S2,S4-S5), Greeples (S2-S3,S5), IdkKiller (S2-S4), Markedbooboy (S2,S4-S5), Vetmire (S2-S4), bayweafs (S3-S5), Kaismartypants (S3-S5), natsuvi (S3-S5)
 
-**2 Seasons (21):** Captinn (S1-S2), Evzenitable (S1,S3), Flcnt (S1,S3), Jaceon02 (S1-S2), kawaiibunri (S1,S3), MangoPlayz (S1-S2), ToeKun (S1-S2), zeesue (S1-S2), brinkwhy (S2,S5), ItsColinn (S2,S4), 4EyedSlime (S3-S4), BuildingBard300 (S3-S4), Ninetals38 (S3,S5), Ryfri (S3,S5), BoltsInCharge (S4-S5), Brodator (S4-S5), CAMKART100 (S4-S5), CommanderK22_ (S4-S5), Fcrm (S4-S5), MercuryParadox (S4-S5), Westcraft00 (S4-S5)
+**2 Seasons (21):** Captinn (S1-S2), evuhlynx (S1,S3), Evzenitable (S1,S3), Flcnt (S1,S3), Jaceon02 (S1-S2), MangoPlayz (S1-S2), ToeKun (S1-S2), zeesue (S1-S2), brinkwhy (S2,S5), ItsColinn (S2,S4), 4EyedSlime (S3-S4), BuildingBard300 (S3-S4), Ninetals38 (S3,S5), Ryfri (S3,S5), BoltsInCharge (S4-S5), Brodator (S4-S5), CAMKART100 (S4-S5), CommanderK22_ (S4-S5), Fcrm (S4-S5), MercuryParadox (S4-S5), Westcraft00 (S4-S5)
 
 **1 Season (30):** Bofishkix (S1), brinniex (S1), DragonGlory (S1), PwincessVanessa (S1), TayUHC (S1), TitaniumDino25 (S1), xDiversity (S1), Bulbexe (S2), Cinnamiinii (S2), Gorgerous (S2), MichaelPlayMC (S2), MxlonPeach (S2), Tunaisheree (S2), UbiquityHD (S2), AdonisGaming (S3), AHSOKATANOSTAN (S3), Bornyo (S3), Codwhy (S3), Lsnce (S3), MaxEvasion (S3), nug17 (S3), TehBaconBrawlerZ (S3), AirInAirOut (S4), BEANJEE (S4), lasdarling (S4), Spongey (S4), T1mT0m (S4), wizarde (S4), ZebraPantz (S4), Kaimaxon (S5)
 
 ---
 ### Debutants
 
-**S1 (26):** _1mmortal_, ArcticSeagull, Bofishkix, brinniex, broccoliar, Captinn, Charrlottie, CodeJoshua, DragonGlory, Evzenitable, Flcnt, ItsShqky, Jaceon02, Kaddyn, kawaiibunri, MangoPlayz, poWpaH, PwincessVanessa, RuneTactics, Stravilight, TayUHC, TheSlimeBrother, TitaniumDino25, ToeKun, xDiversity, zeesue
+**S1 (26):** _1mmortal_, ArcticSeagull, Bofishkix, brinniex, broccoliar, Captinn, Charrlottie, CodeJoshua, DragonGlory, evuhlynx, Evzenitable, Flcnt, ItsShqky, Jaceon02, Kaddyn, MangoPlayz, poWpaH, PwincessVanessa, RuneTactics, Stravilight, TayUHC, TheSlimeBrother, TitaniumDino25, ToeKun, xDiversity, zeesue
 
 **S2 (15):** benidk, Blarkslol, brinkwhy, Bulbexe, Cinnamiinii, Gorgerous, Greeples, IdkKiller, ItsColinn, Markedbooboy, MichaelPlayMC, MxlonPeach, Tunaisheree, UbiquityHD, Vetmire
 

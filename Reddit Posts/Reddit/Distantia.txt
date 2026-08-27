@@ -18,11 +18,11 @@
 
 **S1:** BJPlays (0), jamietheelite (1)
 
-**S2:** oworca (0), TicedUp (0)
+**S2:** orcau (0), TicedUp (0)
 
-**S3:** neonpoop (2), oworca (2), QuilJ1 (0)
+**S3:** neonpoop (2), orcau (2), QuilJ1 (0)
 
-**S4:** CedGhoss (1), oworca (1)
+**S4:** CedGhoss (1), orcau (1)
 
 **S5:** Bergasms (0), ColdBac (3), LeonTG (0)
 
@@ -109,7 +109,7 @@
 
 **1st - Edviin_ (6):** brodioh (S3), jamietheelite (S3), CedGhoss (S3), Bergasms (S3), CopperWalrus (S3), TommySuX (S3)
 
-**2nd - 5hup (5):** AvaCos (S5), oworca (S5), brodioh (S5), Apex_Twinkie (S5), Chasmic (S5)
+**2nd - 5hup (5):** AvaCos (S5), orcau (S5), brodioh (S5), Apex_Twinkie (S5), Chasmic (S5)
 
 **2nd - jamietheelite (5):** ShutUpBrick (S1), FDeath (S2), ShutUpBrick (S2), lsperlo (S4), neonpoop (S4)
 
@@ -135,7 +135,7 @@
 
 **11th - Micale (3):** jamietheelite (S2), jamietheelite (S4), CedGhoss (S4)
 
-**11th - oworca (3):** Gillieeeee (S3), TheSonicJoey (S3), 5hup (S4)
+**11th - orcau (3):** Gillieeeee (S3), TheSonicJoey (S3), 5hup (S4)
 
 **11th - upriserryker (3):** PhenomCloud (S5), jamietheelite (S5), Bergasms (S5)
 
@@ -161,7 +161,7 @@
 
 **22nd - Cryptic (1):** rippersteveM5 (S4)
 
-**22nd - Fairyjuice (1):** oworca (S1)
+**22nd - Fairyjuice (1):** orcau (S1)
 
 **22nd - LordLaelaps (1):** Edviin_ (S3)
 
@@ -182,7 +182,7 @@
 
 **Fall (3):** Kurtit (S1), Bergasms (S2), BushieHalf (S4)
 
-**Arrow (2):** oworca (S3), oworca (S4)
+**Arrow (2):** orcau (S3), orcau (S4)
 
 **Zombie (2):** Thebestcandy (S1), LeonTG (S5)
 
@@ -191,7 +191,7 @@
 ---
 ### Participation
 
-**5 Seasons (2):** jamietheelite (S1-S5), oworca (S1-S5)
+**5 Seasons (2):** jamietheelite (S1-S5), orcau (S1-S5)
 
 **4 Seasons (3):** Bergasms (S1-S3,S5), neonpoop (S1,S3-S5), rippersteveM5 (S2-S5)
 
@@ -204,7 +204,7 @@
 ---
 ### Debutants
 
-**S1 (20):** Bergasms, bigfoot_, BJPlays, BlazeThePolymath, BreakSalad, Fairyjuice, iLifting, jamietheelite, Kaleeka, Kurtit, Learning, LinkOcarinaTime, neonpoop, nolyd, oworca, ShutUpBrick, sorlite, Thebestcandy, TheSonicJoey, yjite
+**S1 (20):** Bergasms, bigfoot_, BJPlays, BlazeThePolymath, BreakSalad, Fairyjuice, iLifting, jamietheelite, Kaleeka, Kurtit, Learning, LinkOcarinaTime, neonpoop, nolyd, orcau, ShutUpBrick, sorlite, Thebestcandy, TheSonicJoey, yjite
 
 **S2 (11):** FDeath, Gillieeeee, Kidfo, Kiinako_, lsperlo, MadSainter, Micale, MrPolzerino, rippersteveM5, TicedUp, Zydoxe
 

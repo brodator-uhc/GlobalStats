@@ -11,9 +11,9 @@
 
 **S4: Dylarno (7)**
 
-**S5: DarenKao (2), Kurtit (2), oworca (4), Rhi (0)**, *Dylarno (2)*
+**S5: DarenKao (2), Kurtit (2), orcau (4), Rhi (0)**, *Dylarno (2)*
 
-**S6: bigfoot_ (2), oworca (3)**
+**S6: bigfoot_ (2), orcau (3)**
 
 ---
 ### Runner Ups
@@ -22,7 +22,7 @@
 
 **S2:** BreakSalad (2), ThirteenCurry (2)
 
-**S3:** Ezkimoz (0), gnty (1), oworca (0)
+**S3:** Ezkimoz (0), gnty (1), orcau (0)
 
 **S4:** TicedUp (2)
 
@@ -41,7 +41,7 @@
 
 **S4:** Dylarno (7)
 
-**S5:** oworca (4)
+**S5:** orcau (4)
 
 **S6:** Bergasms (4)
 
@@ -56,9 +56,9 @@
 
 **S4:** N/A
 
-**S5:** Dylarno (2), DarenKao (2), Kurtit (2), Rhi (0), oworca (4)
+**S5:** Dylarno (2), DarenKao (2), Kurtit (2), Rhi (0), orcau (4)
 
-**S6:** bigfoot_ (2), oworca (3)
+**S6:** bigfoot_ (2), orcau (3)
 
 ---
 ### First Damage
@@ -84,7 +84,7 @@
 
 **S3:** Aslandier (1:14:53)
 
-**S4:** oworca (1:31:10)
+**S4:** orcau (1:31:10)
 
 **S5:** Dylarno (1:10:19)
 
@@ -103,7 +103,7 @@
 
 **S5:** Kurtit (GlitchyRainbow)
 
-**S6:** oworca (GlitchyRainbow)
+**S6:** orcau (GlitchyRainbow)
 
 ---
 ### First Death
@@ -123,9 +123,9 @@
 ---
 ### Kills
 
-**1st - Dylarno (9):** bigfoot_ (S4), ThirteenCurry (S4), GlitchyRainbow (S4), Aslandier (S4), benebeneben2 (S4), oworca (S4), TicedUp (S4), PoshNPie (S5), BreakSalad (S5)
+**1st - Dylarno (9):** bigfoot_ (S4), ThirteenCurry (S4), GlitchyRainbow (S4), Aslandier (S4), benebeneben2 (S4), orcau (S4), TicedUp (S4), PoshNPie (S5), BreakSalad (S5)
 
-**2nd - oworca (8):** Rhi (S4), LinkOcarinaTime (S5), gnty (S5), benebeneben2 (S5), joeykin (S5), GlitchyRainbow (S6), gnty (S6), Bergasms (S6)
+**2nd - orcau (8):** Rhi (S4), LinkOcarinaTime (S5), gnty (S5), benebeneben2 (S5), joeykin (S5), GlitchyRainbow (S6), gnty (S6), Bergasms (S6)
 
 **3rd - Bergasms (6):** YayTomato101 (S1), OmegaMatt_ (S4), BJPlays (S6), Kurtit (S6), Ezkimoz (S6), LinkOcarinaTime (S6)
 
@@ -135,7 +135,7 @@
 
 **3rd - ThirteenCurry (6):** joeykin (S2), Aslandier (S2), Aslandier (S3), OnlyShero (S3), gnty (S4), Conflictt (S4)
 
-**7th - joeykin (5):** OnlyShero (S1), Bergasms (S2), oworca (S2), SSiafs (S2), LinkOcarinaTime (S4)
+**7th - joeykin (5):** OnlyShero (S1), Bergasms (S2), orcau (S2), SSiafs (S2), LinkOcarinaTime (S4)
 
 **8th - BreakSalad (4):** LinkOcarinaTime (S1), TheGymLeaderAus (S2), Ezkimoz (S2), Dylarno (S5)
 
@@ -149,7 +149,7 @@
 
 **12th - Kurtit (2):** GlitchyRainbow (S5), TicedUp (S5)
 
-**12th - OnlyShero (2):** joeykin (S3), oworca (S3)
+**12th - OnlyShero (2):** joeykin (S3), orcau (S3)
 
 **12th - TicedUp (2):** BreakSalad (S4), OnlyShero (S4)
 
@@ -183,7 +183,7 @@
 
 **6 Seasons (3):** bigfoot_ (S1-S6), joeykin (S1-S6), LinkOcarinaTime (S1-S6)
 
-**5 Seasons (5):** Aslandier (S1-S4,S6), Bergasms (S1-S4,S6), OnlyShero (S1-S4,S6), gnty (S2-S6), oworca (S2-S6)
+**5 Seasons (5):** Aslandier (S1-S4,S6), Bergasms (S1-S4,S6), OnlyShero (S1-S4,S6), gnty (S2-S6), orcau (S2-S6)
 
 **4 Seasons (4):** BreakSalad (S1-S2,S4-S5), TicedUp (S1-S2,S4-S5), Ezkimoz (S2-S3,S5-S6), GlitchyRainbow (S3-S6)
 
@@ -198,7 +198,7 @@
 
 **S1 (11):** Aslandier, Bergasms, bigfoot_, BreakSalad, joeykin, LinkOcarinaTime, OnlyShero, SSiafs, TheRinnald, TicedUp, YayTomato101
 
-**S2 (7):** boyceterous, Ezkimoz, gnty, oworca, TheGymLeaderAus, ThirteenCurry, willywonka707
+**S2 (7):** boyceterous, Ezkimoz, gnty, orcau, TheGymLeaderAus, ThirteenCurry, willywonka707
 
 **S3 (4):** Conflictt, dnnyys, GlitchyRainbow, Zarky
 

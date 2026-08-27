@@ -175,7 +175,7 @@
 
 **2nd - xNestorio (17):** ShutUpBrick (S2), PokeLP (S5), Heralen (S5), Micale (S5), cappyrappy (S5), kloosman (S5), TommySuX (S5), Huntree (S5), 4D_Pixel (S5), Chippytoothy (S6), Kakintse (S6), Bergasms (S6), rippersteveM5 (S6), Frostbreath (S6), Fukano (S6), TommySuX (S6), MarcC5M (S6)
 
-**3rd - Micale (11):** bytexal (S4), Pencilguy37 (S4), Chippytoothy (S4), MarcC5M (S5), Mjora (S6), kloosman (S7), ShutUpBrick (S7), sugarl0af (S7), brodioh (S8), Chasmic (S8), oworca (S8)
+**3rd - Micale (11):** bytexal (S4), Pencilguy37 (S4), Chippytoothy (S4), MarcC5M (S5), Mjora (S6), kloosman (S7), ShutUpBrick (S7), sugarl0af (S7), brodioh (S8), Chasmic (S8), orcau (S8)
 
 **4th - upriserryker (9):** 8bitfusion (S1), iiQuakezz (S3), cappyrappy (S3), Chippytoothy (S3), Pencilguy37 (S3), dragonpasa (S3), Mjora (S9), TheSonicJoey (S9), Chasmic (S9)
 
@@ -223,7 +223,7 @@
 
 **20th - MarcC5M (2):** Andyboyonalert (S8), Ixolock (S8)
 
-**20th - oworca (2):** Frostbreath (S8), TommySuX (S8)
+**20th - orcau (2):** Frostbreath (S8), TommySuX (S8)
 
 **20th - Sean081799 (2):** Shadowlego (S6), TicedUp (S7)
 
@@ -297,7 +297,7 @@
 
 **2 Seasons (19):** antbound (S1,S9), iDanzah (S1-S2), TheBestGinger13 (S2,S5), bytexal (S3-S4), Pencilguy37 (S3-S4), Shadowlego (S3,S6), Bergasms (S5-S6), kloosman (S5,S7), sugarl0af (S5,S7), Havenhand (S6-S7), rippersteveM5 (S6,S8), AvaCos (S7-S8), Chasmic (S8-S9), Cyndic (S8-S9), Emerric (S8-S9), lottebunny (S8-S9), QuilJ1 (S8-S9), silh (S8-S9), TheSonicJoey (S8-S9)
 
-**1 Season (31):** 8bitfusion (S1), CMattznes (S2), iiQuakezz (S3), MadSainter (S3), MrTeamRaven (S4), beastboyrolf (S5), BlueComputers (S5), Huntree (S5), Learning (S5), Jakekub (S6), MrCraftinator (S6), slowpr0 (S6), Keirim (S7), 016Nojr (S8), Andyboyonalert (S8), brodioh (S8), BSBrent (S8), CHANGA (S8), ColdBac (S8), DaPenguin19 (S8), Evader22 (S8), Hoookey (S8), Ixolock (S8), JimmyB0yyy (S8), oworca (S8), Sudic (S8), warriorcat (S8), Brodator (S9), jamertxn (S9), Sten_Stone (S9), YellowVitt (S9)
+**1 Season (31):** 8bitfusion (S1), CMattznes (S2), iiQuakezz (S3), MadSainter (S3), MrTeamRaven (S4), beastboyrolf (S5), BlueComputers (S5), Huntree (S5), Learning (S5), Jakekub (S6), MrCraftinator (S6), slowpr0 (S6), Keirim (S7), 016Nojr (S8), Andyboyonalert (S8), brodioh (S8), BSBrent (S8), CHANGA (S8), ColdBac (S8), DaPenguin19 (S8), Evader22 (S8), Hoookey (S8), Ixolock (S8), JimmyB0yyy (S8), orcau (S8), Sudic (S8), warriorcat (S8), Brodator (S9), jamertxn (S9), Sten_Stone (S9), YellowVitt (S9)
 
 ---
 ### Debutants
@@ -316,7 +316,7 @@
 
 **S7 (2):** AvaCos, Keirim
 
-**S8 (21):** 016Nojr, Andyboyonalert, brodioh, BSBrent, CHANGA, Chasmic, ColdBac, Cyndic, DaPenguin19, Emerric, Evader22, Hoookey, Ixolock, JimmyB0yyy, lottebunny, oworca, QuilJ1, silh, Sudic, TheSonicJoey, warriorcat
+**S8 (21):** 016Nojr, Andyboyonalert, brodioh, BSBrent, CHANGA, Chasmic, ColdBac, Cyndic, DaPenguin19, Emerric, Evader22, Hoookey, Ixolock, JimmyB0yyy, lottebunny, orcau, QuilJ1, silh, Sudic, TheSonicJoey, warriorcat
 
 **S9 (4):** Brodator, jamertxn, Sten_Stone, YellowVitt
 

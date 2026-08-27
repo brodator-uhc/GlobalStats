@@ -11,19 +11,19 @@
 
 **S4: TommySuX (7), xNestorio (8)**, *MeadowMoos (1)*
 
-**S5: oworca (5), upriserryker (7)**
+**S5: orcau (5), upriserryker (7)**
 
-**S6: bytexal (1), Jakekub (1), oworca (4), upriserryker (3)**
+**S6: bytexal (1), Jakekub (1), orcau (4), upriserryker (3)**
 
 **S7: Tomathius (5)**
 
 **S8: Frostbreath (0), Huntree (2), Micale (3)**
 
-**S9: MadSainter (2), oworca (5)**, *bigfoot_ (1), Micale (5)*
+**S9: MadSainter (2), orcau (5)**, *bigfoot_ (1), Micale (5)*
 
 **S10: Fukano (1), Stellios_Cantos (2)**
 
-**S11: Guep (4), Jakekub (2), oworca (3), ShutUpBrick (5)**, *Cryptic (1)*
+**S11: Guep (4), Jakekub (2), orcau (3), ShutUpBrick (5)**, *Cryptic (1)*
 
 ---
 ### Runner Ups
@@ -42,7 +42,7 @@
 
 **S7:** Fairyjuice (1)
 
-**S8:** Kiinako_ (2), LiveScream (1), oworca (0)
+**S8:** Kiinako_ (2), LiveScream (1), orcau (0)
 
 **S9:** Cryptic (1), HoneyFromHell (3), infiniteturbine (0), MrPolzerino (0)
 
@@ -63,13 +63,13 @@
 
 **S5:** upriserryker (7)
 
-**S6:** Micale, oworca (4)
+**S6:** Micale, orcau (4)
 
 **S7:** Tomathius (5)
 
 **S8:** dans1988 (4)
 
-**S9:** Micale, oworca (5)
+**S9:** Micale, orcau (5)
 
 **S10:** MrCraftinator (3)
 
@@ -86,19 +86,19 @@
 
 **S4:** TommySuX (7), MeadowMoos (1), xNestorio (8)
 
-**S5:** upriserryker (7), oworca (5)
+**S5:** upriserryker (7), orcau (5)
 
-**S6:** oworca (4), Jakekub (1), bytexal (1), upriserryker (3)
+**S6:** orcau (4), Jakekub (1), bytexal (1), upriserryker (3)
 
 **S7:** N/A
 
 **S8:** Huntree (2), Frostbreath (0), Micale (3)
 
-**S9:** Micale (5), MadSainter (2), bigfoot_ (1), oworca (5)
+**S9:** Micale (5), MadSainter (2), bigfoot_ (1), orcau (5)
 
 **S10:** Jakekub (2), Cryptic (2)
 
-**S11:** Jakekub (2), ShutUpBrick (5), Guep (4), oworca (3), Cryptic (1)
+**S11:** Jakekub (2), ShutUpBrick (5), Guep (4), orcau (3), Cryptic (1)
 
 ---
 ### First Damage
@@ -205,11 +205,11 @@
 
 **1st - Jakekub (18):** SirQuackens (S1), Kiinako_ (S1), TommySuX (S1), fadingdeath (S1), Zermbeeh (S1), Kelt78 (S2), Nie200 (S3), Sneegsnag (S3), iDanzah (S3), Scott_XD (S3), Mjora (S5), Micale (S5), SirQuackens (S6), MadSainter (S8), infiniteturbine (S10), Kelt78 (S10), KOKeowner (S11), AzaleaComet (S11)
 
-**2nd - oworca (17):** Ricardo_A (S5), HoneyFromHell (S5), TheCaveman (S5), TommySuX (S5), KOKeowner (S5), infiniteturbine (S6), MrTeamRaven (S6), Pencilguy37 (S6), bigfoot_ (S6), Frostbreath (S9), Stellios_Cantos (S9), cappyrappy (S9), Kiinako_ (S9), MrPolzerino (S9), Ricardo_A (S11), Kelt78 (S11), rippersteveM5 (S11)
+**2nd - orcau (17):** Ricardo_A (S5), HoneyFromHell (S5), TheCaveman (S5), TommySuX (S5), KOKeowner (S5), infiniteturbine (S6), MrTeamRaven (S6), Pencilguy37 (S6), bigfoot_ (S6), Frostbreath (S9), Stellios_Cantos (S9), cappyrappy (S9), Kiinako_ (S9), MrPolzerino (S9), Ricardo_A (S11), Kelt78 (S11), rippersteveM5 (S11)
 
 **2nd - upriserryker (17):** Scott_XD (S1), Ricardo_A (S1), Blissinz (S1), KOKeowner (S1), blackbear612 (S2), Zaenith (S3), TommySuX (S3), AzaleaComet (S5), Kiinako_ (S5), Zydoxe (S5), infiniteturbine (S5), Zenniker (S5), Nie200 (S5), Jakekub (S5), HoneyFromHell (S6), Kakintse (S6), Kiinako_ (S6)
 
-**4th - Micale (12):** MeadowMoos (S6), MadSainter (S6), Mjora (S6), Zermbeeh (S6), TheSonicJoey (S8), oworca (S8), LiveScream (S8), Mop19 (S9), Nie200 (S9), Jakekub (S9), infiniteturbine (S9), TheSonicJoey (S9)
+**4th - Micale (12):** MeadowMoos (S6), MadSainter (S6), Mjora (S6), Zermbeeh (S6), TheSonicJoey (S8), orcau (S8), LiveScream (S8), Mop19 (S9), Nie200 (S9), Jakekub (S9), infiniteturbine (S9), TheSonicJoey (S9)
 
 **5th - iDanzah (10):** Jakekub (S2), Kakintse (S2), Blissinz (S2), SirQuackens (S2), Zermbeeh (S2), PoisonPanda (S2), Ricardo_A (S2), Tomathius (S2), infiniteturbine (S2), Shadowlego (S3)
 
@@ -347,7 +347,7 @@
 
 **6 Seasons (8):** Mop19 (S1-S4,S9-S10), Ricardo_A (S1-S2,S4-S5,S10-S11), Scott_XD (S1-S6), SirQuackens (S1-S3,S5-S7), Tomathius (S1-S4,S7-S8), VeniiiD (S1-S3,S5,S9,S11), Zermbeeh (S1-S2,S4-S7), Micale (S4-S6,S8-S9,S11)
 
-**5 Seasons (2):** upriserryker (S1-S3,S5-S6), oworca (S5-S6,S8-S9,S11)
+**5 Seasons (2):** upriserryker (S1-S3,S5-S6), orcau (S5-S6,S8-S9,S11)
 
 **4 Seasons (9):** Blissinz (S1-S2,S4,S6), LiveScream (S1,S3,S8,S10), Shadowlego (S3-S4,S6-S7), Zydoxe (S3,S5-S6,S11), bigfoot_ (S4,S6,S8-S9), AndrizzlePC (S6,S9-S11), cappyrappy (S6-S9), MadSainter (S6-S9), TheSonicJoey (S8-S11)
 
@@ -368,7 +368,7 @@
 
 **S4 (4):** bigfoot_, MeadowMoos, Micale, SidGarcia
 
-**S5 (4):** AzaleaComet, Mjora, oworca, Zenniker
+**S5 (4):** AzaleaComet, Mjora, orcau, Zenniker
 
 **S6 (5):** AndrizzlePC, bytexal, cappyrappy, MadSainter, Pencilguy37
 

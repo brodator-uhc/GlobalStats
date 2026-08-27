@@ -7,12 +7,16 @@
 
 **S2: HUQTER (3), JampoJohn (1), LightingMC (2)**, *cherryblawsom (1)*
 
+**S3: boyyoo (2)**, *brinkwhy (2), MichaelPlayMC (0)*
+
 ---
 ### Runner Ups
 
 **S1:** _Fost_ (1), ACommonKiwi (3), DevoyTTV (2)
 
 **S2:** 4EyedSlime (1), chugmitchell (1), Ryfri (0), Zenithu (0)
+
+**S3:** ItzBeeZ (3), JampoJohn (1), omchris (2)
 
 ---
 ### Most Kills
@@ -21,12 +25,16 @@
 
 **S2:** Gorgerous, HUQTER (3)
 
+**S3:** ItzBeeZ (3)
+
 ---
 ### Most Kills (Team)
 
 **S1:** kabobaa (8), MichaelPlayMC (1), boyyoo (0)
 
 **S2:** cherryblawsom (1), HUQTER (3), JampoJohn (1), LightingMC (2)
+
+**S3:** ItzBeeZ (3), JampoJohn (1), omchris (2)
 
 ---
 ### First Damage
@@ -35,12 +43,16 @@
 
 **S2:** benidk (0:2:12)
 
+**S3:** CAMKART100 (0:23:54)
+
 ---
 ### Ironman
 
 **S1:** MichaelPlayMC (1:30:42)
 
 **S2:** HUQTER (0:36:16)
+
+**S3:** AirInAirOut (1:43:28)
 
 ---
 ### First Blood
@@ -49,6 +61,8 @@
 
 **S2:** LightingMC (Zenithu)
 
+**S3:** omchris (BoltsInCharge)
+
 ---
 ### First Death
 
@@ -56,58 +70,62 @@
 
 **S2:** Zenithu (LightingMC)
 
+**S3:** BoltsInCharge (omchris)
+
 ---
 ### Kills
 
-**1st - kabobaa (8):** CAMKART100 (S1), DJoee (S1), 4EyedSlime (S1), Stravilight (S1), brinkwhy (S1), _Fost_ (S1), ACommonKiwi (S1), DevoyTTV (S1)
+**1st - kabobaa (10):** CAMKART100 (S1), DJoee (S1), 4EyedSlime (S1), Stravilight (S1), brinkwhy (S1), _Fost_ (S1), ACommonKiwi (S1), DevoyTTV (S1), MichaelPlayMC (S3), SmolHatChild (S3)
 
-**2nd - ACommonKiwi (3):** CodeJoshua (S1), Codwhy (S1), SmolHatChild (S1)
+**2nd - DevoyTTV (5):** MercuryParadox (S1), omchris (S1), MichaelPlayMC (S2), Flcnt (S3), ShootingGoats (S3)
 
-**2nd - benidk (3):** boyyoo (S1), kabobaa (S2), boyyoo (S2)
+**3rd - benidk (4):** boyyoo (S1), kabobaa (S2), boyyoo (S2), DevoyTTV (S3)
 
-**2nd - DevoyTTV (3):** MercuryParadox (S1), omchris (S1), MichaelPlayMC (S2)
+**3rd - HUQTER (4):** ItzBeeZ (S2), DevoyTTV (S2), FrostBros (S2), 4EyedSlime (S3)
 
-**2nd - Gorgerous (3):** CommanderK22_ (S2), Westcraft00 (S2), Ryfri (S2)
+**3rd - ItzBeeZ (4):** cherryblawsom (S2), HUQTER (S3), brinkwhy (S3), kabobaa (S3)
 
-**2nd - HUQTER (3):** ItzBeeZ (S2), DevoyTTV (S2), FrostBros (S2)
+**6th - ACommonKiwi (3):** CodeJoshua (S1), Codwhy (S1), SmolHatChild (S1)
 
-**7th - 4EyedSlime (2):** Zenithu (S1), Gorgerous (S2)
+**6th - boyyoo (3):** BoltsInCharge (S2), chugmitchell (S3), ItzBeeZ (S3)
 
-**7th - BoltsInCharge (2):** omchris (S2), grantfaker (S2)
+**6th - brinkwhy (3):** MichaelPlayMC (S1), CAMKART100 (S3), AirInAirOut (S3)
 
-**7th - JustNolan (2):** FrostBros (S1), ItzBeeZ (S1)
+**6th - chugmitchell (3):** benidk (S2), omchris (S3), JampoJohn (S3)
 
-**7th - LightingMC (2):** Zenithu (S2), chugmitchell (S2)
+**6th - Gorgerous (3):** CommanderK22_ (S2), Westcraft00 (S2), Ryfri (S2)
 
-**11th - _Fost_ (1):** Bulbexe (S1)
+**6th - LightingMC (3):** Zenithu (S2), chugmitchell (S2), benidk (S3)
 
-**11th - boyyoo (1):** BoltsInCharge (S2)
+**6th - omchris (3):** brinkwhy (S2), BoltsInCharge (S3), LightingMC (S3)
 
-**11th - Br8dy_ (1):** BoltsInCharge (S1)
+**13th - 4EyedSlime (2):** Zenithu (S1), Gorgerous (S2)
 
-**11th - brinkwhy (1):** MichaelPlayMC (S1)
+**13th - BoltsInCharge (2):** omchris (S2), grantfaker (S2)
 
-**11th - cherryblawsom (1):** Bulbexe (S2)
+**13th - JampoJohn (2):** 4EyedSlime (S2), EroseMC (S3)
 
-**11th - chugmitchell (1):** benidk (S2)
+**13th - JustNolan (2):** FrostBros (S1), ItzBeeZ (S1)
 
-**11th - CodeJoshua (1):** grantfaker (S1)
+**17th - _Fost_ (1):** Bulbexe (S1)
 
-**11th - Codwhy (1):** benidk (S1)
+**17th - Br8dy_ (1):** BoltsInCharge (S1)
 
-**11th - CommanderK22_ (1):** SmolHatChild (S2)
+**17th - cherryblawsom (1):** Bulbexe (S2)
 
-**11th - DJoee (1):** BEANJEE (S1)
+**17th - CodeJoshua (1):** grantfaker (S1)
 
-**11th - FrostBros (1):** EroseMC (S1)
+**17th - Codwhy (1):** benidk (S1)
 
-**11th - ItzBeeZ (1):** cherryblawsom (S2)
+**17th - CommanderK22_ (1):** SmolHatChild (S2)
 
-**11th - JampoJohn (1):** 4EyedSlime (S2)
+**17th - DJoee (1):** BEANJEE (S1)
 
-**11th - MichaelPlayMC (1):** Br8dy_ (S1)
+**17th - FrostBros (1):** EroseMC (S1)
 
-**11th - omchris (1):** brinkwhy (S2)
+**17th - MichaelPlayMC (1):** Br8dy_ (S1)
+
+**17th - ShootingGoats (1):** Bulbexe (S3)
 
 ---
 ### PvE Deaths
@@ -117,9 +135,11 @@
 ---
 ### Participation
 
-**2 Seasons (15):** 4EyedSlime (S1-S2), benidk (S1-S2), BoltsInCharge (S1-S2), boyyoo (S1-S2), brinkwhy (S1-S2), Bulbexe (S1-S2), DevoyTTV (S1-S2), FrostBros (S1-S2), grantfaker (S1-S2), ItzBeeZ (S1-S2), kabobaa (S1-S2), MichaelPlayMC (S1-S2), omchris (S1-S2), SmolHatChild (S1-S2), Zenithu (S1-S2)
+**3 Seasons (12):** 4EyedSlime (S1-S3), benidk (S1-S3), BoltsInCharge (S1-S3), boyyoo (S1-S3), brinkwhy (S1-S3), Bulbexe (S1-S3), DevoyTTV (S1-S3), ItzBeeZ (S1-S3), kabobaa (S1-S3), MichaelPlayMC (S1-S3), omchris (S1-S3), SmolHatChild (S1-S3)
 
-**1 Season (21):** _Fost_ (S1), ACommonKiwi (S1), BEANJEE (S1), Br8dy_ (S1), CAMKART100 (S1), CodeJoshua (S1), Codwhy (S1), DJoee (S1), EroseMC (S1), JustNolan (S1), MercuryParadox (S1), Stravilight (S1), cherryblawsom (S2), chugmitchell (S2), CommanderK22_ (S2), Gorgerous (S2), HUQTER (S2), JampoJohn (S2), LightingMC (S2), Ryfri (S2), Westcraft00 (S2)
+**2 Seasons (9):** CAMKART100 (S1,S3), EroseMC (S1,S3), FrostBros (S1-S2), grantfaker (S1-S2), Zenithu (S1-S2), chugmitchell (S2-S3), HUQTER (S2-S3), JampoJohn (S2-S3), LightingMC (S2-S3)
+
+**1 Season (18):** _Fost_ (S1), ACommonKiwi (S1), BEANJEE (S1), Br8dy_ (S1), CodeJoshua (S1), Codwhy (S1), DJoee (S1), JustNolan (S1), MercuryParadox (S1), Stravilight (S1), cherryblawsom (S2), CommanderK22_ (S2), Gorgerous (S2), Ryfri (S2), Westcraft00 (S2), AirInAirOut (S3), Flcnt (S3), ShootingGoats (S3)
 
 ---
 ### Debutants
@@ -127,5 +147,7 @@
 **S1 (27):** _Fost_, 4EyedSlime, ACommonKiwi, BEANJEE, benidk, BoltsInCharge, boyyoo, Br8dy_, brinkwhy, Bulbexe, CAMKART100, CodeJoshua, Codwhy, DevoyTTV, DJoee, EroseMC, FrostBros, grantfaker, ItzBeeZ, JustNolan, kabobaa, MercuryParadox, MichaelPlayMC, omchris, SmolHatChild, Stravilight, Zenithu
 
 **S2 (9):** cherryblawsom, chugmitchell, CommanderK22_, Gorgerous, HUQTER, JampoJohn, LightingMC, Ryfri, Westcraft00
+
+**S3 (3):** AirInAirOut, Flcnt, ShootingGoats
 
 ---

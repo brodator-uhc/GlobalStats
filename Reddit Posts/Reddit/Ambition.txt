@@ -45,13 +45,13 @@
 
 **S21: brodioh (4), Nate2gamer (1), ThePeridotKnight (1)**
 
-**S22: cappyrappy (2), EPICSACKVILLE (1), oworca (1)**, *Likean00b (1), Nate2gamer (0)*
+**S22: cappyrappy (2), EPICSACKVILLE (1), orcau (1)**, *Likean00b (1), Nate2gamer (0)*
 
 **S23: Purpdan (3), ThePeridotKnight (2)**
 
 **S24: Grantonic (4), Jinko42 (9), Likean00b (1), ShyGus (3)**
 
-**S25: cappyrappy (4), oworca (3)**, *Fensua (0), Huntree (1), KOKeowner (0)*
+**S25: cappyrappy (4), orcau (3)**, *Fensua (0), Huntree (1), KOKeowner (0)*
 
 **S26: I_is_cheesecake (2), Purpdan (2)**
 
@@ -276,11 +276,11 @@
 
 **S24:** Grantonic (4), Jinko42 (9), Likean00b (1), ShyGus (3)
 
-**S25:** Fensua (0), Huntree (1), KOKeowner (0), cappyrappy (4), oworca (3)
+**S25:** Fensua (0), Huntree (1), KOKeowner (0), cappyrappy (4), orcau (3)
 
 **S26:** Jinko42 (6), LegoBeast (1)
 
-**S27:** oworca (3), ShyGus (4), warriorcat (3)
+**S27:** orcau (3), ShyGus (4), warriorcat (3)
 
 **S28:** N/A
 
@@ -603,13 +603,13 @@
 ---
 ### Kills
 
-**1st - Jinko42 (82):** scriblur (S17), Nate2gamer (S17), 4D_Pixel (S17), TommySuX (S17), Learning (S17), Grantonic (S17), JonnyFairplay (S19), Likean00b (S19), sirples (S19), brodioh (S19), Bobbytheturtle (S19), cappyrappy (S20), JonnyFairplay (S20), sirples (S20), Micale (S20), Topspinpiggles (S20), KOKeowner (S20), Bobbytheturtle (S20), dango989 (S20), Chippytoothy (S20), Rawkeyy (S20), warriorcat (S20), Ricardo_A (S22), Soshikun (S22), Hoookey (S23), Rawkeyy (S23), EPICSACKVILLE (S23), Fortwerth (S23), oworca (S23), Bobbytheturtle (S23), sirples (S23), CopperWalrus (S24), oworca (S24), xhockey (S24), ThePeridotKnight (S24), Rawkeyy (S24), cappyrappy (S24), warriorcat (S24), Bobbytheturtle (S24), brodioh (S24), BushieHalf (S25), friigiid (S26), scriblur (S26), OblivionTU (S26), Nie200 (S26), Fensua (S26), SimplySam (S26), SimplySam (S27), brodioh (S27), NTBama (S28), cappyrappy (S29), ThePeridotKnight (S29), EPICSACKVILLE (S29), TicedUp (S29), KOKeowner (S29), Bobbytheturtle (S29), Micale (S29), CH0CK (S29), OblivionTU (S29), Walshy (S29), SimplySam (S29), NTBama (S30), Micale (S30), Jayzize (S30), Grantonic (S30), tagggz (S31), ShyGus (S31), Jakekub (S31), miles1baseball (S31), Nate2gamer (S32), KOKeowner (S32), automavic (S32), bjr201111 (S32), brodioh (S34), T0n35 (S34), Nate2gamer (S35), zCent (S35), antbound (S36), CHANGA (S36), MercuryParadox (S36), zCent (S36), Omertosa (S36)
+**1st - Jinko42 (82):** scriblur (S17), Nate2gamer (S17), 4D_Pixel (S17), TommySuX (S17), Learning (S17), Grantonic (S17), JonnyFairplay (S19), Likean00b (S19), sirples (S19), brodioh (S19), Bobbytheturtle (S19), cappyrappy (S20), JonnyFairplay (S20), sirples (S20), Micale (S20), Topspinpiggles (S20), KOKeowner (S20), Bobbytheturtle (S20), dango989 (S20), Chippytoothy (S20), Rawkeyy (S20), warriorcat (S20), Ricardo_A (S22), Soshikun (S22), Hoookey (S23), Rawkeyy (S23), EPICSACKVILLE (S23), Fortwerth (S23), orcau (S23), Bobbytheturtle (S23), sirples (S23), CopperWalrus (S24), orcau (S24), xhockey (S24), ThePeridotKnight (S24), Rawkeyy (S24), cappyrappy (S24), warriorcat (S24), Bobbytheturtle (S24), brodioh (S24), BushieHalf (S25), friigiid (S26), scriblur (S26), OblivionTU (S26), Nie200 (S26), Fensua (S26), SimplySam (S26), SimplySam (S27), brodioh (S27), NTBama (S28), cappyrappy (S29), ThePeridotKnight (S29), EPICSACKVILLE (S29), TicedUp (S29), KOKeowner (S29), Bobbytheturtle (S29), Micale (S29), CH0CK (S29), OblivionTU (S29), Walshy (S29), SimplySam (S29), NTBama (S30), Micale (S30), Jayzize (S30), Grantonic (S30), tagggz (S31), ShyGus (S31), Jakekub (S31), miles1baseball (S31), Nate2gamer (S32), KOKeowner (S32), automavic (S32), bjr201111 (S32), brodioh (S34), T0n35 (S34), Nate2gamer (S35), zCent (S35), antbound (S36), CHANGA (S36), MercuryParadox (S36), zCent (S36), Omertosa (S36)
 
-**2nd - Bobbytheturtle (71):** Sneegsnag (S12), Shortgamer (S14), OddBaller (S14), Chippytoothy (S14), TommySuX (S14), Zenniker (S14), Nate2gamer (S15), ShutUpBrick (S15), TicedUp (S17), Scott_XD (S17), KOKeowner (S17), Flohp (S17), TicedUp (S19), Soshikun (S19), warriorcat (S19), miles1baseball (S19), scriblur (S20), Likean00b (S20), EPICSACKVILLE (S21), oworca (S21), Fairyjuice (S22), kloosman (S22), xhockey (S22), KOKeowner (S22), Likean00b (S22), EPICSACKVILLE (S24), KOKeowner (S24), Fensua (S25), Nate2gamer (S25), miles1baseball (S25), KOKeowner (S25), KOKeowner (S26), Jinko42 (S26), warriorcat (S27), Fensua (S27), guugs (S27), OddBaller (S27), CHANGA (S28), Grantonic (S28), SimplySam (S30), brodioh (S30), LegoBeast (S31), pkee (S31), harrydagawd (S32), Chippytoothy (S32), Gabey (S33), zCent (S33), BushieHalf (S33), BushieHalf (S34), Psykl0ne (S34), antbound (S34), miles1baseball (S34), Rawkeyy (S34), swishduck (S34), Jinko42 (S34), Bacan (S34), Micale (S34), Fensua (S34), Br8dy_ (S35), ChrisCD (S35), Jinko42 (S35), MercuryParadox (S35), nsket (S35), PresidentFleb (S35), Brodator (S36), tagggz (S36), Micale (S36), benidk (S36), nsket (S36), Fortwerth (S36), brodioh (S36)
+**2nd - Bobbytheturtle (71):** Sneegsnag (S12), Shortgamer (S14), OddBaller (S14), Chippytoothy (S14), TommySuX (S14), Zenniker (S14), Nate2gamer (S15), ShutUpBrick (S15), TicedUp (S17), Scott_XD (S17), KOKeowner (S17), Flohp (S17), TicedUp (S19), Soshikun (S19), warriorcat (S19), miles1baseball (S19), scriblur (S20), Likean00b (S20), EPICSACKVILLE (S21), orcau (S21), Fairyjuice (S22), kloosman (S22), xhockey (S22), KOKeowner (S22), Likean00b (S22), EPICSACKVILLE (S24), KOKeowner (S24), Fensua (S25), Nate2gamer (S25), miles1baseball (S25), KOKeowner (S25), KOKeowner (S26), Jinko42 (S26), warriorcat (S27), Fensua (S27), guugs (S27), OddBaller (S27), CHANGA (S28), Grantonic (S28), SimplySam (S30), brodioh (S30), LegoBeast (S31), pkee (S31), harrydagawd (S32), Chippytoothy (S32), Gabey (S33), zCent (S33), BushieHalf (S33), BushieHalf (S34), Psykl0ne (S34), antbound (S34), miles1baseball (S34), Rawkeyy (S34), swishduck (S34), Jinko42 (S34), Bacan (S34), Micale (S34), Fensua (S34), Br8dy_ (S35), ChrisCD (S35), Jinko42 (S35), MercuryParadox (S35), nsket (S35), PresidentFleb (S35), Brodator (S36), tagggz (S36), Micale (S36), benidk (S36), nsket (S36), Fortwerth (S36), brodioh (S36)
 
 **3rd - Micale (39):** Kelt78 (S11), MrTeamRaven (S11), Sneegsnag (S11), Dida (S11), kloosman (S11), KOKeowner (S12), 4D_Pixel (S12), TicedUp (S12), Kakintse (S12), Ricardo_A (S12), Chippytoothy (S12), Huntree (S14), LegoBeast (S16), Sneegsnag (S16), TommySuX (S16), Fortwerth (S18), LegoBeast (S18), scriblur (S18), scriblur (S19), cappyrappy (S21), Purpdan (S22), Nate2gamer (S22), BushieHalf (S22), CH0CK (S22), Fortwerth (S22), AvaCos (S25), Phoebe (S25), CH0CK (S25), miles1baseball (S26), brodioh (S26), cappyrappy (S26), Rawkeyy (S26), xJesterrr (S26), TonyEatWorld (S30), Phoebe (S30), EPICSACKVILLE (S32), Rawkeyy (S32), Scott_XD (S33), zCent (S34)
 
-**4th - KOKeowner (35):** oworca (S2), WhaTiTzBrOwN (S2), miles1baseball (S4), Ricardo_A (S5), Sneegsnag (S6), MPMG (S7), Kakintse (S8), Zenniker (S10), Kurtit (S10), Zenniker (S12), miles1baseball (S13), Nate2gamer (S13), Nate2gamer (S14), Shadowlego (S15), Soshikun (S16), Dida (S16), Fairyjuice (S16), AzaleaComet (S16), Micale (S16), Likean00b (S17), Jinko42 (S17), TicedUp (S18), ShutUpBrick (S19), Rawkeyy (S21), TommySuX (S23), LegoBeast (S24), SimplySam (S24), jommyappleseed (S31), MercuryParadox (S31), miles1baseball (S32), Fensua (S33), jvevo (S34), Br8dy_ (S34), benidk (S34), CHANGA (S35)
+**4th - KOKeowner (35):** orcau (S2), WhaTiTzBrOwN (S2), miles1baseball (S4), Ricardo_A (S5), Sneegsnag (S6), MPMG (S7), Kakintse (S8), Zenniker (S10), Kurtit (S10), Zenniker (S12), miles1baseball (S13), Nate2gamer (S13), Nate2gamer (S14), Shadowlego (S15), Soshikun (S16), Dida (S16), Fairyjuice (S16), AzaleaComet (S16), Micale (S16), Likean00b (S17), Jinko42 (S17), TicedUp (S18), ShutUpBrick (S19), Rawkeyy (S21), TommySuX (S23), LegoBeast (S24), SimplySam (S24), jommyappleseed (S31), MercuryParadox (S31), miles1baseball (S32), Fensua (S33), jvevo (S34), Br8dy_ (S34), benidk (S34), CHANGA (S35)
 
 **5th - Likean00b (30):** Ricardo_A (S1), Zaenith (S3), EPICSACKVILLE (S5), AzaleaComet (S6), Edviin_ (S6), EPICSACKVILLE (S6), xNestorio (S6), Blindedgamer (S6), Huntree (S9), Flohp (S9), miles1baseball (S9), Ricardo_A (S9), Kelt78 (S9), TommySuX (S11), scriblur (S14), EPICSACKVILLE (S15), AzaleaComet (S15), Bobbytheturtle (S18), dango989 (S18), Micale (S18), TommySuX (S18), bytexal (S18), cappyrappy (S19), miles1baseball (S20), LegoBeast (S22), scriblur (S24), SolGoat (S25), warriorcat (S26), KOKeowner (S30), jommyappleseed (S36)
 
@@ -629,7 +629,7 @@
 
 **12th - ShyGus (18):** JonnyFairplay (S21), Ricardo_A (S21), Nie200 (S22), Purpdan (S24), Kidfo (S24), MercuryParadox (S24), pkee (S27), I_is_cheesecake (S27), OblivionTU (S27), Phoebe (S27), Dida (S30), Havenhand (S30), ShutUpBrick (S30), zCent (S31), KOKeowner (S33), c1n (S33), miles1baseball (S33), Rawkeyy (S33)
 
-**14th - iDanzah (17):** Ricardo_A (S3), c1n (S3), PokeLP (S3), TaylorLive (S3), TommySuX (S3), oworca (S3), Vi7155 (S3), SolGoat (S3), Scott_XD (S3), AzaleaComet (S4), KOKeowner (S4), SolGoat (S4), Scott_XD (S6), HappyKirby (S6), Ricardo_A (S7), Shortgamer (S8), EPICSACKVILLE (S12)
+**14th - iDanzah (17):** Ricardo_A (S3), c1n (S3), PokeLP (S3), TaylorLive (S3), TommySuX (S3), orcau (S3), Vi7155 (S3), SolGoat (S3), Scott_XD (S3), AzaleaComet (S4), KOKeowner (S4), SolGoat (S4), Scott_XD (S6), HappyKirby (S6), Ricardo_A (S7), Shortgamer (S8), EPICSACKVILLE (S12)
 
 **15th - nsket (15):** Micale (S31), Nate2gamer (S33), Zakkeagle (S33), c1n (S35), KempsOG (S35), Bacan (S35), Fortwerth (S35), Zakkeagle (S36), Fensua (S36), c1n (S36), Maxwellfifty (S36), Psykl0ne (S36), TicedUp (S36), swishduck (S36), ChrisCD (S36)
 
@@ -671,7 +671,7 @@
 
 **32nd - Huntree (8):** Blindedgamer (S9), Chickeeeen (S10), miles1baseball (S10), scriblur (S11), Micale (S11), AzaleaComet (S14), 4D_Pixel (S25), scriblur (S29)
 
-**32nd - oworca (8):** Micale (S22), KOKeowner (S23), OblivionTU (S25), dango989 (S25), brodioh (S25), Jinko42 (S27), LegoBeast (S27), NTBama (S27)
+**32nd - orcau (8):** Micale (S22), KOKeowner (S23), OblivionTU (S25), dango989 (S25), brodioh (S25), Jinko42 (S27), LegoBeast (S27), NTBama (S27)
 
 **32nd - Ricardo_A (8):** AzaleaComet (S2), Scott_XD (S10), kloosman (S12), Flohp (S12), miles1baseball (S15), Shortgamer (S15), Grantonic (S18), Scott_XD (S21)
 
@@ -685,7 +685,7 @@
 
 **39th - Shadowlego (7):** Likean00b (S1), KOKeowner (S1), joeykin (S1), antbound (S2), cheesymonkey78 (S5), MPMG (S5), CopperWalrus (S15)
 
-**39th - SolGoat (7):** EPICSACKVILLE (S1), oworca (S1), Shortgamer (S2), EPICSACKVILLE (S4), GeistBuster7 (S4), TicedUp (S4), Scott_XD (S12)
+**39th - SolGoat (7):** EPICSACKVILLE (S1), orcau (S1), Shortgamer (S2), EPICSACKVILLE (S4), GeistBuster7 (S4), TicedUp (S4), Scott_XD (S12)
 
 **43rd - EirenePneuma (6):** Zarky (S1), Sneegsnag (S1), Likean00b (S4), PoisonPanda (S4), Blindedgamer (S4), antbound (S4)
 
@@ -745,7 +745,7 @@
 
 **67th - Chickeeeen (3):** AlexO (S9), BushieHalf (S30), madmerrick (S30)
 
-**67th - Fairyjuice (3):** ShyGus (S27), oworca (S27), sleepingxd (S29)
+**67th - Fairyjuice (3):** ShyGus (S27), orcau (S27), sleepingxd (S29)
 
 **67th - Flohp (3):** Costanza (S13), LegoBeast (S17), CH0CK (S31)
 
@@ -832,7 +832,7 @@
 ---
 ### PvE Deaths
 
-**Creeper (18):** miles1baseball (S2), Zaenith (S4), Edviin_ (S10), Zaenith (S10), Flohp (S11), EPICSACKVILLE (S11), LegoBeast (S14), Ricardo_A (S14), Flohp (S14), Bobbytheturtle (S16), Nie200 (S18), MercuryParadox (S23), CH0CK (S30), LegoBeast (S30), oworca (S30), Micale (S35), EPICSACKVILLE (S36), JonnyFairplay (S36)
+**Creeper (18):** miles1baseball (S2), Zaenith (S4), Edviin_ (S10), Zaenith (S10), Flohp (S11), EPICSACKVILLE (S11), LegoBeast (S14), Ricardo_A (S14), Flohp (S14), Bobbytheturtle (S16), Nie200 (S18), MercuryParadox (S23), CH0CK (S30), LegoBeast (S30), orcau (S30), Micale (S35), EPICSACKVILLE (S36), JonnyFairplay (S36)
 
 **Fall (18):** MPMG (S4), Doornbread (S4), Fortwerth (S7), Scott_XD (S8), Chickeeeen (S13), EPICSACKVILLE (S19), Rawkeyy (S28), Fortwerth (S31), brodioh (S31), tiffaroni (S32), c1n (S32), LegoBeast (S32), Micale (S32), Blindedgamer (S32), Rawkeyy (S35), Plushy33 (S35), Br8dy_ (S36), Jinko42 (S36)
 
@@ -925,7 +925,7 @@
 
 **11 Seasons (5):** MrTeamRaven (S1-S3,S5-S12), antbound (S2-S5,S7,S9,S11,S33-S36), AzaleaComet (S2,S4-S7,S10,S12-S16), Nie200 (S15-S18,S20-S23,S26,S29-S30), ShyGus (S21-S24,S26-S27,S30-S34)
 
-**10 Seasons (6):** oworca (S1-S3,S21-S25,S27,S30), Zaenith (S1-S10), Blindedgamer (S2,S4-S6,S9,S11,S16,S32-S33,S35), Chickeeeen (S5-S13,S30), Kelt78 (S5-S13,S15), warriorcat (S18-S20,S22-S24,S26-S27,S29-S30)
+**10 Seasons (6):** orcau (S1-S3,S21-S25,S27,S30), Zaenith (S1-S10), Blindedgamer (S2,S4-S6,S9,S11,S16,S32-S33,S35), Chickeeeen (S5-S13,S30), Kelt78 (S5-S13,S15), warriorcat (S18-S20,S22-S24,S26-S27,S29-S30)
 
 **9 Seasons (8):** c1n (S1-S3,S30,S32-S36), PokeLP (S2-S3,S5-S11), Shortgamer (S2-S4,S8-S10,S13-S15), Fairyjuice (S12-S13,S15-S16,S19,S22,S27,S29-S30), JonnyFairplay (S19-S22,S24-S25,S27,S30,S36), BushieHalf (S21-S22,S24-S25,S30-S34), pkee (S25-S33), zCent (S28-S36)
 
@@ -948,7 +948,7 @@
 ---
 ### Debutants
 
-**S1 (21):** c1n, Doornbread, EirenePneuma, EPICSACKVILLE, joeykin, KOKeowner, Likean00b, miles1baseball, MPMG, MrTeamRaven, oworca, Ricardo_A, schluttner, Scott_XD, Shadowlego, Sneegsnag, SolGoat, TaylorLive, xNestorio, Zaenith, Zarky
+**S1 (21):** c1n, Doornbread, EirenePneuma, EPICSACKVILLE, joeykin, KOKeowner, Likean00b, miles1baseball, MPMG, MrTeamRaven, orcau, Ricardo_A, schluttner, Scott_XD, Shadowlego, Sneegsnag, SolGoat, TaylorLive, xNestorio, Zaenith, Zarky
 
 **S2 (14):** Actually_yes, antbound, AzaleaComet, Blindedgamer, Costanza, HappyKirby, KatManKhaos, MarcC5M, PokeLP, scriblur, Shortgamer, TicedUp, Vi7155, WhaTiTzBrOwN
 

@@ -9,6 +9,8 @@
 
 **S3: chugmitchell (5)**, *ItzBeeZ (0)*
 
+**S4: chugmitchell (1), Vetmire (3)**, *MercuryParadox (0)*
+
 ---
 ### Runner Ups
 
@@ -17,6 +19,8 @@
 **S2:** ColdBac (1), Greeples (0), Zakkeagle (1)
 
 **S3:** AirInAirOut (2), JampoJohn (2)
+
+**S4:** 4EyedSlime (1), Br8dy_ (0), Maxwellfifty (4)
 
 ---
 ### Most Kills
@@ -27,6 +31,8 @@
 
 **S3:** chugmitchell (5)
 
+**S4:** Maxwellfifty (4)
+
 ---
 ### Most Kills (Team)
 
@@ -35,6 +41,8 @@
 **S2:** brinkwhy (2), Karliffu (2), TehBaconBrawlerZ (1)
 
 **S3:** chugmitchell (5), ItzBeeZ (0)
+
+**S4:** 4EyedSlime (1), Br8dy_ (0), Maxwellfifty (4)
 
 ---
 ### First Damage
@@ -45,6 +53,8 @@
 
 **S3:** ColdBac (0:10:37)
 
+**S4:** chloesad (0:15:3)
+
 ---
 ### Ironman
 
@@ -53,6 +63,8 @@
 **S2:** FrostBros (1:22:9)
 
 **S3:** Kaismartypants (1:33:26)
+
+**S4:** 4EyedSlime (1:33:49)
 
 ---
 ### First Blood
@@ -63,6 +75,8 @@
 
 **S3:** WackoFlipper (chloesad)
 
+**S4:** FrostBros (TheSlimeBrother)
+
 ---
 ### First Death
 
@@ -72,72 +86,86 @@
 
 **S3:** noktime (Fall)
 
+**S4:** TheSlimeBrother (FrostBros)
+
 ---
 ### Kills
 
-**1st - ColdBac (8):** Bradzi (S1), natsuvi (S1), Andronify (S1), Cyndic (S1), SpaceFenix (S1), 4EyedSlime (S1), boyyoo (S2), zac083 (S3)
+**1st - MaxEvasion (9):** PresidentFleb (S1), chugmitchell (S2), 4EyedSlime (S2), 4EyedSlime (S3), ItzBeeZ (S3), MajorWoof (S3), ColdBac (S4), JampoJohn (S4), Greeples (S4)
 
-**2nd - chugmitchell (6):** MaxEvasion (S1), MaxEvasion (S3), WackoFlipper (S3), Flufayy (S3), AirInAirOut (S3), JampoJohn (S3)
+**2nd - ColdBac (8):** Bradzi (S1), natsuvi (S1), Andronify (S1), Cyndic (S1), SpaceFenix (S1), 4EyedSlime (S1), boyyoo (S2), zac083 (S3)
 
-**2nd - MaxEvasion (6):** PresidentFleb (S1), chugmitchell (S2), 4EyedSlime (S2), 4EyedSlime (S3), ItzBeeZ (S3), MajorWoof (S3)
+**3rd - chugmitchell (7):** MaxEvasion (S1), MaxEvasion (S3), WackoFlipper (S3), Flufayy (S3), AirInAirOut (S3), JampoJohn (S3), automavic (S4)
 
-**4th - 4EyedSlime (5):** Kaismartypants (S1), chugmitchell (S1), Keelando (S1), CommanderK22_ (S2), centraleric (S3)
+**4th - 4EyedSlime (6):** Kaismartypants (S1), chugmitchell (S1), Keelando (S1), CommanderK22_ (S2), centraleric (S3), Karliffu (S4)
 
-**5th - acadiangel (3):** MercuryParadox (S2), Zakkeagle (S2), Greeples (S2)
+**5th - Karliffu (5):** natsuvi (S2), PresidentFleb (S2), ItzBeeZ (S4), DarrenBGP (S4), Gorgerous (S4)
 
-**6th - AirInAirOut (2):** Maxwellfifty (S3), Ryfri (S3)
+**6th - Maxwellfifty (4):** chloesad (S4), MaxEvasion (S4), MercuryParadox (S4), SpaceFenix (S4)
 
-**6th - Andronify (2):** Bluests (S1), ColdBac (S3)
+**7th - acadiangel (3):** MercuryParadox (S2), Zakkeagle (S2), Greeples (S2)
 
-**6th - boyyoo (2):** DarrenBGP (S2), SpaceFenix (S2)
+**7th - DarrenBGP (3):** TheSlimeBrother (S3), FrostBros (S4), Br8dy_ (S4)
 
-**6th - brinkwhy (2):** MaxEvasion (S2), ColdBac (S2)
+**7th - Vetmire (3):** boyyoo (S4), Maxwellfifty (S4), 4EyedSlime (S4)
 
-**6th - JampoJohn (2):** Gorgerous (S3), Kaismartypants (S3)
+**10th - AirInAirOut (2):** Maxwellfifty (S3), Ryfri (S3)
 
-**6th - Kaismartypants (2):** Nuclearsugar (S2), DarrenBGP (S3)
+**10th - Andronify (2):** Bluests (S1), ColdBac (S3)
 
-**6th - Karliffu (2):** natsuvi (S2), PresidentFleb (S2)
+**10th - boyyoo (2):** DarrenBGP (S2), SpaceFenix (S2)
 
-**6th - Keelando (2):** RassL (S1), CommanderK22_ (S1)
+**10th - brinkwhy (2):** MaxEvasion (S2), ColdBac (S2)
 
-**6th - MajorWoof (2):** boyyoo (S3), Andronify (S3)
+**10th - JampoJohn (2):** Gorgerous (S3), Kaismartypants (S3)
 
-**6th - RassL (2):** TehBaconBrawlerZ (S1), MercuryParadox (S1)
+**10th - Kaismartypants (2):** Nuclearsugar (S2), DarrenBGP (S3)
 
-**6th - SpaceFenix (2):** ItzBeeZ (S2), JampoJohn (S2)
+**10th - Keelando (2):** RassL (S1), CommanderK22_ (S1)
 
-**6th - TehBaconBrawlerZ (2):** jakeyx3 (S1), zac083 (S2)
+**10th - MajorWoof (2):** boyyoo (S3), Andronify (S3)
 
-**18th - Bluests (1):** GoldenNs (S1)
+**10th - RassL (2):** TehBaconBrawlerZ (S1), MercuryParadox (S1)
 
-**18th - Cyndic (1):** acadiangel (S1)
+**10th - SpaceFenix (2):** ItzBeeZ (S2), JampoJohn (S2)
 
-**18th - DarrenBGP (1):** TheSlimeBrother (S3)
+**10th - TehBaconBrawlerZ (2):** jakeyx3 (S1), zac083 (S2)
 
-**18th - Nuclearsugar (1):** Kaismartypants (S2)
+**21st - Bluests (1):** GoldenNs (S1)
 
-**18th - WackoFlipper (1):** chloesad (S3)
+**21st - centraleric (1):** ShootingGoats (S4)
 
-**18th - zac083 (1):** YellowVitt (S2)
+**21st - Cyndic (1):** acadiangel (S1)
 
-**18th - Zakkeagle (1):** FrostBros (S2)
+**21st - FrostBros (1):** TheSlimeBrother (S4)
+
+**21st - Gorgerous (1):** brinkwhy (S4)
+
+**21st - Nuclearsugar (1):** Kaismartypants (S2)
+
+**21st - WackoFlipper (1):** chloesad (S3)
+
+**21st - zac083 (1):** YellowVitt (S2)
+
+**21st - Zakkeagle (1):** FrostBros (S2)
 
 ---
 ### PvE Deaths
 
-**Fall (3):** noktime (S3), Br8dy_ (S3), Keelando (S3)
+**Fall (5):** noktime (S3), Br8dy_ (S3), Keelando (S3), centraleric (S4), Nuclearsugar (S4)
 
 **Fire (1):** acadiangel (S2)
 
 ---
 ### Participation
 
-**3 Seasons (5):** 4EyedSlime (S1-S3), chugmitchell (S1-S3), ColdBac (S1-S3), Kaismartypants (S1-S3), MaxEvasion (S1-S3)
+**4 Seasons (4):** 4EyedSlime (S1-S4), chugmitchell (S1-S4), ColdBac (S1-S4), MaxEvasion (S1-S4)
 
-**2 Seasons (14):** acadiangel (S1-S2), Andronify (S1,S3), CommanderK22_ (S1-S2), Keelando (S1,S3), MercuryParadox (S1-S2), natsuvi (S1-S2), PresidentFleb (S1-S2), SpaceFenix (S1-S2), TehBaconBrawlerZ (S1-S2), boyyoo (S2-S3), DarrenBGP (S2-S3), ItzBeeZ (S2-S3), JampoJohn (S2-S3), zac083 (S2-S3)
+**3 Seasons (7):** Kaismartypants (S1-S3), MercuryParadox (S1-S2,S4), SpaceFenix (S1-S2,S4), boyyoo (S2-S4), DarrenBGP (S2-S4), ItzBeeZ (S2-S4), JampoJohn (S2-S4)
 
-**1 Season (25):** Bluests (S1), Bradzi (S1), Cyndic (S1), GoldenNs (S1), jakeyx3 (S1), RassL (S1), brinkwhy (S2), FrostBros (S2), Greeples (S2), Karliffu (S2), Nuclearsugar (S2), YellowVitt (S2), Zakkeagle (S2), AirInAirOut (S3), Br8dy_ (S3), centraleric (S3), chloesad (S3), Flufayy (S3), Gorgerous (S3), MajorWoof (S3), Maxwellfifty (S3), noktime (S3), Ryfri (S3), TheSlimeBrother (S3), WackoFlipper (S3)
+**2 Seasons (19):** acadiangel (S1-S2), Andronify (S1,S3), CommanderK22_ (S1-S2), Keelando (S1,S3), natsuvi (S1-S2), PresidentFleb (S1-S2), TehBaconBrawlerZ (S1-S2), brinkwhy (S2,S4), FrostBros (S2,S4), Greeples (S2,S4), Karliffu (S2,S4), Nuclearsugar (S2,S4), zac083 (S2-S3), Br8dy_ (S3-S4), centraleric (S3-S4), chloesad (S3-S4), Gorgerous (S3-S4), Maxwellfifty (S3-S4), TheSlimeBrother (S3-S4)
+
+**1 Season (17):** Bluests (S1), Bradzi (S1), Cyndic (S1), GoldenNs (S1), jakeyx3 (S1), RassL (S1), YellowVitt (S2), Zakkeagle (S2), AirInAirOut (S3), Flufayy (S3), MajorWoof (S3), noktime (S3), Ryfri (S3), WackoFlipper (S3), automavic (S4), ShootingGoats (S4), Vetmire (S4)
 
 ---
 ### Debutants
@@ -147,5 +175,7 @@
 **S2 (12):** boyyoo, brinkwhy, DarrenBGP, FrostBros, Greeples, ItzBeeZ, JampoJohn, Karliffu, Nuclearsugar, YellowVitt, zac083, Zakkeagle
 
 **S3 (12):** AirInAirOut, Br8dy_, centraleric, chloesad, Flufayy, Gorgerous, MajorWoof, Maxwellfifty, noktime, Ryfri, TheSlimeBrother, WackoFlipper
+
+**S4 (3):** automavic, ShootingGoats, Vetmire
 
 ---

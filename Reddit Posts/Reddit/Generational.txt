@@ -71,7 +71,7 @@
 
 **S1:** Shu_MCSG (skyzfy)
 
-**S2:** _carn & kawaiibunri (Double Kill)
+**S2:** _carn & evuhlynx (Double Kill)
 
 **S3:** strategy (MercuryParadox)
 
@@ -82,7 +82,7 @@
 
 **S1:** skyzfy (Shu_MCSG)
 
-**S2:** kawaiibunri & _carn (Double Kill)
+**S2:** evuhlynx & _carn (Double Kill)
 
 **S3:** MercuryParadox (strategy)
 
@@ -95,7 +95,7 @@
 
 **2nd - benidk (8):** FroztiSnowman (S1), PupperKun (S1), Spongey (S1), grantfaker (S4), GodlySteal (S4), Gleoss (S4), LUCRODIUM (S4), Tonylmao (S4)
 
-**2nd - PupperKun (8):** sgouche (S1), Fearx_ (S1), HalfLechuga (S1), GrassPiece (S1), kawaiibunri (S1), painterwanabe (S2), dahii (S2), carterwarterbear (S2)
+**2nd - PupperKun (8):** sgouche (S1), Fearx_ (S1), HalfLechuga (S1), GrassPiece (S1), evuhlynx (S1), painterwanabe (S2), dahii (S2), carterwarterbear (S2)
 
 **4th - Cloversss (7):** CurdledDrip (S1), _carn (S1), wizarde (S1), DogOfKrondor (S2), SAYNAR (S2), sgouche (S2), nsket (S2)
 
@@ -103,7 +103,7 @@
 
 **6th - SAYNAR (6):** broccoliar (S1), CurdledDrip (S3), onstep (S3), ToeKun (S3), DumbThiccNick (S3), DJoee (S4)
 
-**7th - _carn (5):** kawaiibunri (S2), ethodog (S3), Brodator (S3), strategy (S3), broccoliar (S3)
+**7th - _carn (5):** evuhlynx (S2), ethodog (S3), Brodator (S3), strategy (S3), broccoliar (S3)
 
 **7th - broccoliar (5):** ArcticSeagull (S3), Psykl0ne (S3), GodlySteal (S3), vynil (S3), Glarza (S3)
 
@@ -113,9 +113,9 @@
 
 **7th - sgouche (5):** ArcticSeagull (S1), BuildingBard300 (S2), onstep (S2), SOAKLE (S2), benidk (S2)
 
-**12th - Glarza (4):** carterwarterbear (S1), onstep (S1), benidk (S1), onstep (S4)
+**12th - evuhlynx (4):** Gleoss (S1), Brodator (S1), SpaceFenix (S1), _carn (S2)
 
-**12th - kawaiibunri (4):** Gleoss (S1), Brodator (S1), SpaceFenix (S1), _carn (S2)
+**12th - Glarza (4):** carterwarterbear (S1), onstep (S1), benidk (S1), onstep (S4)
 
 **12th - LUCRODIUM (4):** skyzfy (S4), sgouche (S4), SAYNAR (S4), GrassPiece (S4)
 
@@ -123,7 +123,7 @@
 
 **15th - CurdledDrip (3):** skyzfy (S3), applrei (S4), Fcrm (S4)
 
-**15th - Fearx_ (3):** kawaiibunri (S2), HUQTER (S4), SOAKLE (S4)
+**15th - Fearx_ (3):** evuhlynx (S2), HUQTER (S4), SOAKLE (S4)
 
 **15th - GrassPiece (3):** Zoroh (S1), ethodog (S1), MercuryParadox (S1)
 
@@ -185,14 +185,14 @@
 
 **3 Seasons (9):** _carn (S1-S3), broccoliar (S1-S3), Brodator (S1-S3), carterwarterbear (S1-S3), dahii (S1-S3), Glarza (S1,S3-S4), painterwanabe (S1-S3), Psykl0ne (S1,S3-S4), sgouche (S1-S2,S4)
 
-**2 Seasons (21):** ArcticSeagull (S1,S3), BuildingBard300 (S1-S2), CAMKART100 (S1-S2), DJoee (S1,S4), ethodog (S1,S3), FroztiSnowman (S1,S4), Gleoss (S1,S4), GrassPiece (S1,S4), Greeples (S1-S2), HalfLechuga (S1,S3), kawaiibunri (S1-S2), MercuryParadox (S1,S3), PotatoPlayer_ (S1,S3), PupperKun (S1-S2), Shu_MCSG (S1-S2), SpaceFenix (S1,S4), Spongey (S1-S2), vynil (S1,S3), Kaismartypants (S2-S3), SOAKLE (S2,S4), HUQTER (S3-S4)
+**2 Seasons (21):** ArcticSeagull (S1,S3), BuildingBard300 (S1-S2), CAMKART100 (S1-S2), DJoee (S1,S4), ethodog (S1,S3), evuhlynx (S1-S2), FroztiSnowman (S1,S4), Gleoss (S1,S4), GrassPiece (S1,S4), Greeples (S1-S2), HalfLechuga (S1,S3), MercuryParadox (S1,S3), PotatoPlayer_ (S1,S3), PupperKun (S1-S2), Shu_MCSG (S1-S2), SpaceFenix (S1,S4), Spongey (S1-S2), vynil (S1,S3), Kaismartypants (S2-S3), SOAKLE (S2,S4), HUQTER (S3-S4)
 
 **1 Season (30):** bayweafs (S1), Bornyo (S1), IdkKiller (S1), wizarde (S1), zCent (S1), Zoroh (S1), _pbo (S2), AvyleZ (S2), brinkwhy (S2), DogOfKrondor (S2), gartbak (S2), Ginzburg (S2), Lighte (S2), nsket (S2), Bobbytheturtle (S3), BoltsInCharge (S3), Dcrpy (S3), DumbThiccNick (S3), strategy (S3), ToeKun (S3), alexnv (S4), applrei (S4), ClosedIT (S4), DEREKAST (S4), grantfaker (S4), LUCRODIUM (S4), Seabasstian (S4), Tonylmao (S4), Valnius (S4), zohhhh (S4)
 
 ---
 ### Debutants
 
-**S1 (42):** _carn, ArcticSeagull, bayweafs, benidk, Bornyo, broccoliar, Brodator, BuildingBard300, CAMKART100, carterwarterbear, Cloversss, CurdledDrip, dahii, DJoee, ethodog, Fcrm, Fearx_, FroztiSnowman, Glarza, Gleoss, GodlySteal, GrassPiece, Greeples, HalfLechuga, IdkKiller, kawaiibunri, MercuryParadox, onstep, painterwanabe, PotatoPlayer_, Psykl0ne, PupperKun, SAYNAR, sgouche, Shu_MCSG, skyzfy, SpaceFenix, Spongey, vynil, wizarde, zCent, Zoroh
+**S1 (42):** _carn, ArcticSeagull, bayweafs, benidk, Bornyo, broccoliar, Brodator, BuildingBard300, CAMKART100, carterwarterbear, Cloversss, CurdledDrip, dahii, DJoee, ethodog, evuhlynx, Fcrm, Fearx_, FroztiSnowman, Glarza, Gleoss, GodlySteal, GrassPiece, Greeples, HalfLechuga, IdkKiller, MercuryParadox, onstep, painterwanabe, PotatoPlayer_, Psykl0ne, PupperKun, SAYNAR, sgouche, Shu_MCSG, skyzfy, SpaceFenix, Spongey, vynil, wizarde, zCent, Zoroh
 
 **S2 (10):** _pbo, AvyleZ, brinkwhy, DogOfKrondor, gartbak, Ginzburg, Kaismartypants, Lighte, nsket, SOAKLE
 

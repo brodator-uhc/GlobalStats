@@ -205,7 +205,7 @@
 
 **1st - Bobbytheturtle (18):** TalonBX (S8), awau (S8), Fazz2 (S8), nsket (S8), 5hup (S8), Omertosa (S8), jvevo (S9), vynil (S9), Lighte (S9), MercuryParadox (S9), Kelawesome (S9), Fazz2 (S10), RobertBadlose (S10), CurdledDrip (S11), MercuryParadox (S11), FroztiSnowman (S11), benidk (S11), Aybel (S11)
 
-**2nd - jvevo (17):** Bradzi (S1), Harryb2k (S1), Singlish (S3), ShAydenelley (S4), ItzBliz (S5), Pie212_123 (S7), Gorgerous (S7), Jordtim (S7), Awticon (S7), oworca (S7), Harryb2k (S7), 5hup (S7), tagggz (S8), oworca (S8), MercuryParadox (S10), awau (S10), brodioh (S10)
+**2nd - jvevo (17):** Bradzi (S1), Harryb2k (S1), Singlish (S3), ShAydenelley (S4), ItzBliz (S5), Pie212_123 (S7), Gorgerous (S7), Jordtim (S7), Awticon (S7), orcau (S7), Harryb2k (S7), 5hup (S7), tagggz (S8), orcau (S8), MercuryParadox (S10), awau (S10), brodioh (S10)
 
 **3rd - Omertosa (16):** Jordtim (S1), Entity_Error (S1), lsperlo (S2), I_is_cheesecake (S3), ShAydenelley (S3), InsertDotJpeg (S4), Gabey (S4), M19Simpson (S5), ShyGus (S5), Digdude (S6), Purpdan (S7), Fazz2 (S7), jvevo (S7), Applepie78 (S9), Applepie78 (S10), nsket (S10)
 
@@ -303,7 +303,7 @@
 
 **39th - Macdde (2):** CHAINGE (S7), I_is_cheesecake (S8)
 
-**39th - oworca (2):** mqson (S8), lexicuhl (S8)
+**39th - orcau (2):** mqson (S8), lexicuhl (S8)
 
 **39th - PaperVinnie (2):** brodioh (S8), PresidentFleb (S8)
 
@@ -395,7 +395,7 @@
 
 **3 Seasons (20):** Entity_Error (S1-S2,S4), Harryb2k (S1,S3,S7), LordLaelaps (S1-S3), Tanceo (S1-S3), TheKevGuy (S2,S4,S6), BJPlays (S3,S5,S8), rippersteveM5 (S4-S6), tuxpeng (S4-S6), Zamario (S4-S6), friigiid (S6,S9-S10), Awticon (S7-S9), frogsella (S7-S8,S11), Gorgerous (S7-S9), Lighte (S7,S9-S10), WackoFlipper (S7-S8,S10), WillBrisk (S7-S8,S10), DJoee (S8-S10), lexicuhl (S8-S10), benidk (S9-S11), vynil (S9-S11)
 
-**2 Seasons (28):** ElementalYT (S2-S3), lsperlo (S2,S6), PaperVinnie (S2,S8), Gabey (S3-S4), ItzBliz (S4-S5), ShimamuraUzuki (S4-S5), Emerric (S5-S6), M19Simpson (S5-S6), gnty (S6-S7), automavic (S7,S9), Biwitch (S7-S8), CHAINGE (S7-S8), ColdBac (S7,S9), lampbro (S7-S8), Nintendoshi (S7-S8), OnlyCosmia (S7,S9), oworca (S7-S8), Pie212_123 (S7-S8), Purpdan (S7-S8), ScaryPumpkinFace (S7,S9), TalonBX (S7-S8), AvaCos (S8,S10), awau (S8,S10), Flohp (S8-S9), kirbey (S8,S10), Potsie (S8,S10), _carn (S10-S11), Aybel (S10-S11)
+**2 Seasons (28):** ElementalYT (S2-S3), lsperlo (S2,S6), PaperVinnie (S2,S8), Gabey (S3-S4), ItzBliz (S4-S5), ShimamuraUzuki (S4-S5), Emerric (S5-S6), M19Simpson (S5-S6), gnty (S6-S7), automavic (S7,S9), Biwitch (S7-S8), CHAINGE (S7-S8), ColdBac (S7,S9), lampbro (S7-S8), Nintendoshi (S7-S8), OnlyCosmia (S7,S9), orcau (S7-S8), Pie212_123 (S7-S8), Purpdan (S7-S8), ScaryPumpkinFace (S7,S9), TalonBX (S7-S8), AvaCos (S8,S10), awau (S8,S10), Flohp (S8-S9), kirbey (S8,S10), Potsie (S8,S10), _carn (S10-S11), Aybel (S10-S11)
 
 **1 Season (47):** Ben1_1 (S2), Creeper2Danknee (S2), Cryptic (S2), Dylan_SF (S2), DaPenguin19 (S3), GoodOldBanter (S3), Daffz (S5), sorlite (S5), Flopalopagus (S6), chloesad (S7), DjTalica (S7), Harmen (S7), Rohcket (S7), wibbol (S7), lasdarling (S8), MinimanTurtle (S8), warriorcat (S8), Austronomical (S9), ChrisCD (S9), Hecticity (S9), Kelawesome (S9), azoof (S10), centraleric (S10), CipherKai (S10), Fcrm (S10), Glarza (S10), Normoh (S10), Psykl0ne (S10), strategy (S10), badgaaa (S11), Br8dy_ (S11), Broseph (S11), CurdledDrip (S11), Dj8ninja (S11), DogOfKrondor (S11), DripGodDavid (S11), FroztiSnowman (S11), gartbak (S11), Jakekub (S11), Kaismartypants (S11), LightingMC (S11), Lynxo (S11), m4ku (S11), OOGAABOOGA3 (S11), Rawkeyy (S11), SAYNAR (S11), YellowVitt (S11)
 
@@ -414,7 +414,7 @@
 
 **S6 (3):** Flopalopagus, friigiid, gnty
 
-**S7 (35):** Applepie78, automavic, Awticon, BardMain2, Biwitch, CHAINGE, chloesad, ColdBac, DjTalica, dw0w, Fazz2, flameorb, frogsella, Gorgerous, Harmen, jommyappleseed, lampbro, Lighte, Macdde, MercuryParadox, mqson, Nintendoshi, OnlyCosmia, oworca, Pie212_123, PresidentFleb, Purpdan, RobertBadlose, Rohcket, ScaryPumpkinFace, tagggz, TalonBX, WackoFlipper, wibbol, WillBrisk
+**S7 (35):** Applepie78, automavic, Awticon, BardMain2, Biwitch, CHAINGE, chloesad, ColdBac, DjTalica, dw0w, Fazz2, flameorb, frogsella, Gorgerous, Harmen, jommyappleseed, lampbro, Lighte, Macdde, MercuryParadox, mqson, Nintendoshi, OnlyCosmia, orcau, Pie212_123, PresidentFleb, Purpdan, RobertBadlose, Rohcket, ScaryPumpkinFace, tagggz, TalonBX, WackoFlipper, wibbol, WillBrisk
 
 **S8 (12):** AvaCos, awau, Bobbytheturtle, DJoee, Flohp, kirbey, lasdarling, lexicuhl, MinimanTurtle, nsket, Potsie, warriorcat
 

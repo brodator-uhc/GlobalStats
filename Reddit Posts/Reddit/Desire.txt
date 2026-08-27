@@ -11,7 +11,7 @@
 
 **S4: Jakekub (8)**, *smellyburrito (3)*
 
-**S5: oworca (3)**
+**S5: orcau (3)**
 
 **S6: brodioh (1), cappyrappy (3), scriblur (2)**, *Flouzemaker (0)*
 
@@ -36,13 +36,13 @@
 
 **S2:** HunterWolf (1), Learning (1), TommySuX (1)
 
-**S3:** Gillieeeee (1), Jakekub (2), MadSainter (0), oworca (1)
+**S3:** Gillieeeee (1), Jakekub (2), MadSainter (0), orcau (1)
 
 **S4:** KOKeowner (2), scriblur (3)
 
 **S5:** cappyrappy (1)
 
-**S6:** Kelt78 (0), oworca (3), Sneegsnag (0), Spacepod_ (3)
+**S6:** Kelt78 (0), orcau (3), Sneegsnag (0), Spacepod_ (3)
 
 **S7:** AvaCos (6), Kidfo (2), sirples (0)
 
@@ -69,7 +69,7 @@
 
 **S4:** Jakekub (8)
 
-**S5:** AvaCos, Micale, oworca, ShyGus (3)
+**S5:** AvaCos, Micale, orcau, ShyGus (3)
 
 **S6:** Zenniker (4)
 
@@ -100,7 +100,7 @@
 
 **S5:** N/A
 
-**S6:** Kelt78 (0), Sneegsnag (0), Spacepod_ (3), oworca (3) & Flouzemaker (0), brodioh (1), cappyrappy (3), scriblur (2)
+**S6:** Kelt78 (0), Sneegsnag (0), Spacepod_ (3), orcau (3) & Flouzemaker (0), brodioh (1), cappyrappy (3), scriblur (2)
 
 **S7:** Kidfo (2), AvaCos (6), sirples (0)
 
@@ -121,7 +121,7 @@
 
 **S1:** dragonpasa (0:0:19)
 
-**S2:** oworca (0:4:33)
+**S2:** orcau (0:4:33)
 
 **S3:** Timonscholte (0:0:42)
 
@@ -235,17 +235,17 @@
 ---
 ### Kills
 
-**1st - Zenniker (27):** Keirim (S1), Micale (S1), Kelt78 (S1), Kelt78 (S2), Learning (S2), TommySuX (S2), Kaleeka (S3), ScottishNutcase (S3), _Bunnies (S3), Jakekub (S3), oworca (S3), Branson2398 (S4), Kelt78 (S4), Shortgamer (S6), Flohp (S6), xhockey (S6), HunterWolf (S6), LordLaelaps (S9), KOKeowner (S9), brodioh (S9), KOKeowner (S10), dRawry (S10), Learning (S10), LordLaelaps (S11), QuilJ1 (S11), Micale (S11), ColdBac (S11)
+**1st - Zenniker (27):** Keirim (S1), Micale (S1), Kelt78 (S1), Kelt78 (S2), Learning (S2), TommySuX (S2), Kaleeka (S3), ScottishNutcase (S3), _Bunnies (S3), Jakekub (S3), orcau (S3), Branson2398 (S4), Kelt78 (S4), Shortgamer (S6), Flohp (S6), xhockey (S6), HunterWolf (S6), LordLaelaps (S9), KOKeowner (S9), brodioh (S9), KOKeowner (S10), dRawry (S10), Learning (S10), LordLaelaps (S11), QuilJ1 (S11), Micale (S11), ColdBac (S11)
 
 **2nd - Jakekub (23):** Flouzemaker (S2), Maj0r_Min3r_98 (S3), Timonscholte (S3), Oyubook (S4), Naecoo (S4), kloosman (S4), Micale (S4), ShutUpBrick (S4), Zenniker (S4), scriblur (S4), KOKeowner (S4), sirples (S5), cappyrappy (S8), TalonIII (S8), Bobbytheturtle (S8), Flouzemaker (S9), _Frankie (S10), MrCanada (S10), Oyubook (S10), TommySuX (S10), Spacepod_ (S11), wibbol (S11), ThePeridotKnight (S11)
 
 **3rd - Bobbytheturtle (20):** ShutUpBrick (S8), Fairyjuice (S8), BJPlays (S8), _Frankie (S9), Frostbreath (S9), Emerric (S9), ShyGus (S9), ColdBac (S9), OblivionTU (S10), Sneegsnag (S10), Timonscholte (S10), Emerric (S10), Tootikins (S10), Zydoxe (S11), Spacepod_ (S12), WackoFlipper (S12), brodioh (S12), I_is_cheesecake (S13), Cyonal (S13), tagggz (S13)
 
-**4th - AvaCos (17):** scriblur (S5), Fukano (S5), Micale (S5), Fukano (S6), TommySuX (S7), oworca (S7), Flouzemaker (S7), Amactus (S7), brodioh (S7), Fukano (S7), Topspinpiggles (S9), Micale (S9), Zenniker (S10), CH0CK (S11), Apex_Twinkie (S11), Emerric (S11), Bobbytheturtle (S11)
+**4th - AvaCos (17):** scriblur (S5), Fukano (S5), Micale (S5), Fukano (S6), TommySuX (S7), orcau (S7), Flouzemaker (S7), Amactus (S7), brodioh (S7), Fukano (S7), Topspinpiggles (S9), Micale (S9), Zenniker (S10), CH0CK (S11), Apex_Twinkie (S11), Emerric (S11), Bobbytheturtle (S11)
 
 **5th - Micale (16):** dragonpasa (S1), KatManKhaos (S1), Hannilala (S4), Havenhand (S5), KOKeowner (S5), Emerric (S5), Apex_Twinkie (S7), Flouzemaker (S8), KOKeowner (S8), Jakekub (S8), FazedMC (S8), LordLaelaps (S8), Emerric (S8), brodioh (S8), LegoBeast (S9), QuilJ1 (S12)
 
-**6th - oworca (12):** Maj0r_Min3r_98 (S2), TommySuX (S3), Fairyjuice (S5), ShyGus (S5), cappyrappy (S5), OblivionTU (S6), MarcC5M (S6), Micale (S6), VeniiiD (S9), FazedMC (S9), AvaCos (S9), Apex_Twinkie (S10)
+**6th - orcau (12):** Maj0r_Min3r_98 (S2), TommySuX (S3), Fairyjuice (S5), ShyGus (S5), cappyrappy (S5), OblivionTU (S6), MarcC5M (S6), Micale (S6), VeniiiD (S9), FazedMC (S9), AvaCos (S9), Apex_Twinkie (S10)
 
 **7th - Apex_Twinkie (11):** rippersteveM5 (S7), BushieHalf (S9), Ninjajaja (S11), brodioh (S11), Daffz (S11), KOKeowner (S12), ColdBac (S12), Oyubook (S12), Bobbytheturtle (S12), Jakekub (S13), ColdBac (S13)
 
@@ -259,25 +259,25 @@
 
 **8th - Oyubook (8):** MrTeamRaven (S3), MrCraftinator (S3), Kelt78 (S3), Flouzemaker (S3), Gillieeeee (S3), AvaCos (S10), I_is_cheesecake (S12), TheSonicJoey (S13)
 
-**13th - scriblur (7):** MrCraftinator (S4), Gillieeeee (S4), smellyburrito (S4), Jakekub (S6), oworca (S6), Oyubook (S13), Emerric (S13)
+**13th - scriblur (7):** MrCraftinator (S4), Gillieeeee (S4), smellyburrito (S4), Jakekub (S6), orcau (S6), Oyubook (S13), Emerric (S13)
 
 **14th - ShyGus (6):** Flouzemaker (S5), brodioh (S5), AvaCos (S5), Micale (S10), Topspinpiggles (S10), Flufayy (S11)
 
-**14th - smellyburrito (6):** MrTeamRaven (S2), oworca (S2), Flouzemaker (S4), HunterWolf (S4), TommySuX (S4), Kelt78 (S6)
+**14th - smellyburrito (6):** MrTeamRaven (S2), orcau (S2), Flouzemaker (S4), HunterWolf (S4), TommySuX (S4), Kelt78 (S6)
 
 **16th - KOKeowner (5):** Mjora (S4), PoshNPie (S4), smellyburrito (S6), ToucanTom (S11), LordLaelaps (S12)
 
 **17th - iDanzah (4):** TheCaveman (S1), Kaleeka (S1), Carps_ (S1), xNestorio (S1)
 
-**17th - tagggz (4):** Flouzemaker (S13), oworca (S13), rippersteveM5 (S13), TommySuX (S13)
+**17th - tagggz (4):** Flouzemaker (S13), orcau (S13), rippersteveM5 (S13), TommySuX (S13)
 
 **17th - TommySuX (4):** DeRockProject (S1), Learning (S1), TheCaveman (S2), wibbol (S13)
 
-**17th - ToucanTom (4):** dragonpasa (S11), oworca (S12), cappyrappy (S12), Flufayy (S12)
+**17th - ToucanTom (4):** dragonpasa (S11), orcau (S12), cappyrappy (S12), Flufayy (S12)
 
 **21st - Bacan (3):** Kieranborn (S10), Micale (S12), Apex_Twinkie (S12)
 
-**21st - ColdBac (3):** VeniiiD (S8), oworca (S9), Micale (S13)
+**21st - ColdBac (3):** VeniiiD (S8), orcau (S9), Micale (S13)
 
 **21st - Daffz (3):** Oyubook (S11), Flouzemaker (S11), ShyGus (S11)
 
@@ -299,7 +299,7 @@
 
 **31st - Bagpipehero (2):** 19Fraser99 (S1), Zenniker (S1)
 
-**31st - CH0CK (2):** Jakekub (S11), oworca (S11)
+**31st - CH0CK (2):** Jakekub (S11), orcau (S11)
 
 **31st - Fukano (2):** BJPlays (S5), SidGarcia (S7)
 
@@ -362,11 +362,11 @@
 ---
 ### PvE Deaths
 
-**Creeper (5):** MrPolzerino (S2), oworca (S4), DeRockProject (S6), Bacan (S11), LordLaelaps (S13)
+**Creeper (5):** MrPolzerino (S2), orcau (S4), DeRockProject (S6), Bacan (S11), LordLaelaps (S13)
 
 **Fall (2):** bytexal (S8), AndrizzlePC (S12)
 
-**Skeleton (2):** oworca (S10), LordLaelaps (S10)
+**Skeleton (2):** orcau (S10), LordLaelaps (S10)
 
 **Zombie (2):** _Bunnies (S1), Hoppy (S6)
 
@@ -383,7 +383,7 @@
 
 **12 Seasons (1):** Jakekub (S2-S13)
 
-**11 Seasons (2):** Flouzemaker (S2-S11,S13), oworca (S2-S7,S9-S13)
+**11 Seasons (2):** Flouzemaker (S2-S11,S13), orcau (S2-S7,S9-S13)
 
 **10 Seasons (1):** KOKeowner (S3-S12)
 
@@ -410,7 +410,7 @@
 
 **S1 (18):** _Bunnies, 19Fraser99, Bagpipehero, Carps_, DeRockProject, dragonpasa, iDanzah, Kakintse, Kaleeka, KatManKhaos, Keirim, Kelt78, Learning, Micale, TheCaveman, TommySuX, xNestorio, Zenniker
 
-**S2 (15):** _Frankie, caseyjones223, Flouzemaker, Havenhand, HunterWolf, Jakekub, MadSainter, Maj0r_Min3r_98, Mjora, MrPolzerino, MrTeamRaven, oworca, smellyburrito, Timonscholte, Trikeri
+**S2 (15):** _Frankie, caseyjones223, Flouzemaker, Havenhand, HunterWolf, Jakekub, MadSainter, Maj0r_Min3r_98, Mjora, MrPolzerino, MrTeamRaven, orcau, smellyburrito, Timonscholte, Trikeri
 
 **S3 (8):** Ab0veAverage, AndrizzlePC, bytexal, Gillieeeee, KOKeowner, MrCraftinator, Oyubook, ScottishNutcase
 

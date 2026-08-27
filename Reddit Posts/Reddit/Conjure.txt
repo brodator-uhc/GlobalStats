@@ -5,7 +5,7 @@
 
 **S1: ColdBac (5)**, *Bacan (0)*
 
-**S2: ColdBac (2), oworca (1)**, *SD_UHC (1)*
+**S2: ColdBac (2), orcau (1)**, *SD_UHC (1)*
 
 **S3: Arich (1), automavic (2), SoulRawr (3)**, *SD_UHC (3)*
 
@@ -44,7 +44,7 @@
 ---
 ### Runner Ups
 
-**S1:** bjr201111 (0), oworca (0)
+**S1:** bjr201111 (0), orcau (0)
 
 **S2:** 5kylord (3), commitstaxfraud (2), RemyChingling (0)
 
@@ -52,7 +52,7 @@
 
 **S4:** ElGavinoSupremo (1), QuilJ1 (2)
 
-**S5:** Arich (0), Emerric (0), oworca (1), ToucanTom (0)
+**S5:** Arich (0), Emerric (0), orcau (1), ToucanTom (0)
 
 **S6:** 5kylord (2), Brodator (1), Potsie (1)
 
@@ -349,7 +349,7 @@
 
 **8th - Pelycosaur (13):** SD_UHC (S5), RemyChingling (S5), SoulRawr (S5), Randehh (S6), Fra49 (S6), miles1baseball (S6), 5kylord (S6), 78ford (S7), 5kylord (S7), chloesad (S8), Potsie (S8), Apex_Twinkie (S8), Spacepod_ (S10)
 
-**10th - ShyGus (12):** oworca (S4), QuilJ1 (S5), Randehh (S5), Pelycosaur (S5), ToucanTom (S5), Brodator (S5), oworca (S5), CHAINGE (S7), Brodator (S8), Fra49 (S8), Rohcket (S8), Spacepod_ (S9)
+**10th - ShyGus (12):** orcau (S4), QuilJ1 (S5), Randehh (S5), Pelycosaur (S5), ToucanTom (S5), Brodator (S5), orcau (S5), CHAINGE (S7), Brodator (S8), Fra49 (S8), Rohcket (S8), Spacepod_ (S9)
 
 **11th - automavic (10):** MercuryParadox (S2), Kelawesome (S3), rattyplayz (S3), RemyChingling (S7), Brodator (S7), wizarde (S7), Normoh (S8), Chasmic (S8), Potsie (S13), illuminaja (S18)
 
@@ -435,7 +435,7 @@
 
 **47th - Omertosa (3):** pkee (S15), 5kylord (S16), Kaddyn (S16)
 
-**47th - oworca (3):** 5kylord (S2), ShyGus (S4), spoocS_ (S5)
+**47th - orcau (3):** 5kylord (S2), ShyGus (S4), spoocS_ (S5)
 
 **47th - ScottPirie (3):** Pelycosaur (S10), Chasmic (S11), automavic (S11)
 
@@ -471,13 +471,13 @@
 
 **56th - miles1baseball (2):** 5hup (S11), Codwhy (S11)
 
-**56th - rattyplayz (2):** Greeples (S3), oworca (S3)
+**56th - rattyplayz (2):** Greeples (S3), orcau (S3)
 
 **56th - strategy (2):** wizarde (S18), ChainingVermin2 (S18)
 
 **73rd - AsianCheatCode (1):** Brodator (S19)
 
-**73rd - AvaCos (1):** oworca (S1)
+**73rd - AvaCos (1):** orcau (S1)
 
 **73rd - BoltsInCharge (1):** Ryfri (S17)
 
@@ -571,7 +571,7 @@
 
 **6 Seasons (6):** JustNolan (S1-S3,S8,S10,S19), SD_UHC (S2-S3,S5,S7,S10,S14), WackoFlipper (S5,S8-S11,S13), PresidentFleb (S9-S12,S14,S16), Aybel (S12,S14-S18), Flohp (S12-S13,S15-S17,S19)
 
-**5 Seasons (4):** oworca (S1-S5), wibbol (S4-S5,S7,S9-S10), nFang (S6-S10), Applepie78 (S13,S15-S16,S18-S19)
+**5 Seasons (4):** orcau (S1-S5), wibbol (S4-S5,S7,S9-S10), nFang (S6-S10), Applepie78 (S13,S15-S16,S18-S19)
 
 **4 Seasons (12):** _mrcool (S1-S2,S4-S5), LegoBeast (S1,S11,S14,S16), miles1baseball (S2,S6,S11,S15), SoulRawr (S2-S3,S5,S9), Arich (S3,S5,S7,S9), ElGavinoSupremo (S4-S6,S10), QuilJ1 (S4-S6,S9), Eroe (S6,S8,S11,S18), _Dieter (S11-S12,S15,S17), Keelando (S12-S14,S17), benidk (S13,S15-S16,S19), Omertosa (S13-S16)
 
@@ -584,7 +584,7 @@
 ---
 ### Debutants
 
-**S1 (24):** _mrcool, automavic, AvaCos, Bacan, bjr201111, cherryblawsom, ColdBac, commitstaxfraud, Cyndic, DeluxeSniper, dRawry, floobel, Gabey, JustNolan, LegoBeast, liflaf, MercuryParadox, Micale, Normoh, oworca, PLENT, Potsie, ShyGus, Spacepod_
+**S1 (24):** _mrcool, automavic, AvaCos, Bacan, bjr201111, cherryblawsom, ColdBac, commitstaxfraud, Cyndic, DeluxeSniper, dRawry, floobel, Gabey, JustNolan, LegoBeast, liflaf, MercuryParadox, Micale, Normoh, orcau, PLENT, Potsie, ShyGus, Spacepod_
 
 **S2 (13):** 5kylord, CH0CK, Chessa, chloesad, Evader22, Frostbreath, Lucityy, miles1baseball, RemyChingling, SD_UHC, SoulRawr, TommySuX, YellowVitt
 

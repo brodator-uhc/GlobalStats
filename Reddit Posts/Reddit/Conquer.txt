@@ -13,12 +13,12 @@
 ---
 ### Most Kills
 
-**S1:** kawaiibunri (6)
+**S1:** evuhlynx (6)
 
 ---
 ### Most Kills (Team)
 
-**S1:** BuildingBard300 (0), CurdledDrip (0), kawaiibunri (6) & benidk (3), DevoyTTV (2), ShootingGoats (1)
+**S1:** BuildingBard300 (0), CurdledDrip (0), evuhlynx (6) & benidk (3), DevoyTTV (2), ShootingGoats (1)
 
 ---
 ### First Damage
@@ -33,7 +33,7 @@
 ---
 ### First Blood
 
-**S1:** kawaiibunri (MercuryParadox)
+**S1:** evuhlynx (MercuryParadox)
 
 ---
 ### First Death
@@ -43,7 +43,7 @@
 ---
 ### Kills
 
-**1st - kawaiibunri (6):** MercuryParadox (S1), Haroun_ (S1), Kaimaxon (S1), bayweafs (S1), JampoJohn (S1), DogOfKrondor (S1)
+**1st - evuhlynx (6):** MercuryParadox (S1), Haroun_ (S1), Kaimaxon (S1), bayweafs (S1), JampoJohn (S1), DogOfKrondor (S1)
 
 **2nd - benidk (3):** noktime (S1), PatrickTN_ (S1), AirInAirOut (S1)
 
@@ -51,7 +51,7 @@
 
 **2nd - Sk8eight (3):** Kaddyn (S1), dahii (S1), poWpaH (S1)
 
-**5th - AirInAirOut (2):** kawaiibunri (S1), Sk8eight (S1)
+**5th - AirInAirOut (2):** evuhlynx (S1), Sk8eight (S1)
 
 **5th - DevoyTTV (2):** Sharkbob94349 (S1), CommanderK22_ (S1)
 
@@ -69,11 +69,11 @@
 ---
 ### Participation
 
-**1 Season (27):** AirInAirOut (S1), bayweafs (S1), benidk (S1), BuildingBard300 (S1), CAMKART100 (S1), CommanderK22_ (S1), CurdledDrip (S1), dahii (S1), DevoyTTV (S1), DogOfKrondor (S1), Fcrm (S1), Haroun_ (S1), ItsShqky (S1), JampoJohn (S1), Kaddyn (S1), Kaimaxon (S1), kawaiibunri (S1), MercuryParadox (S1), noktime (S1), PatrickTN_ (S1), poWpaH (S1), Sharkbob94349 (S1), ShootingGoats (S1), Sk8eight (S1), SOAKLE (S1), Stravilight (S1), Westcraft00 (S1)
+**1 Season (27):** AirInAirOut (S1), bayweafs (S1), benidk (S1), BuildingBard300 (S1), CAMKART100 (S1), CommanderK22_ (S1), CurdledDrip (S1), dahii (S1), DevoyTTV (S1), DogOfKrondor (S1), evuhlynx (S1), Fcrm (S1), Haroun_ (S1), ItsShqky (S1), JampoJohn (S1), Kaddyn (S1), Kaimaxon (S1), MercuryParadox (S1), noktime (S1), PatrickTN_ (S1), poWpaH (S1), Sharkbob94349 (S1), ShootingGoats (S1), Sk8eight (S1), SOAKLE (S1), Stravilight (S1), Westcraft00 (S1)
 
 ---
 ### Debutants
 
-**S1 (27):** AirInAirOut, bayweafs, benidk, BuildingBard300, CAMKART100, CommanderK22_, CurdledDrip, dahii, DevoyTTV, DogOfKrondor, Fcrm, Haroun_, ItsShqky, JampoJohn, Kaddyn, Kaimaxon, kawaiibunri, MercuryParadox, noktime, PatrickTN_, poWpaH, Sharkbob94349, ShootingGoats, Sk8eight, SOAKLE, Stravilight, Westcraft00
+**S1 (27):** AirInAirOut, bayweafs, benidk, BuildingBard300, CAMKART100, CommanderK22_, CurdledDrip, dahii, DevoyTTV, DogOfKrondor, evuhlynx, Fcrm, Haroun_, ItsShqky, JampoJohn, Kaddyn, Kaimaxon, MercuryParadox, noktime, PatrickTN_, poWpaH, Sharkbob94349, ShootingGoats, Sk8eight, SOAKLE, Stravilight, Westcraft00
 
 ---

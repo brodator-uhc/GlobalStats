@@ -281,39 +281,39 @@
 
 **28th - Gorgerous (3):** Cqson (S4), Vetmire (S10), FrostBros (S12)
 
+**28th - grantfaker (3):** broccoliar (S12), Sharkbob94349 (S12), ShootingGoats (S12)
+
 **28th - hazel_doe (3):** kirbey (S4), Gorgerous (S4), Glarza (S4)
 
 **28th - Karliffu (3):** _Fost_ (S7), Andronify (S10), Rebelghost (S10)
 
 **28th - Vetmire (3):** Andronify (S2), WackoFlipper (S5), MajorWoof (S11)
 
-**35th - Andronify (2):** ghostblurr (S1), egl_ (S5)
+**36th - Andronify (2):** ghostblurr (S1), egl_ (S5)
 
-**35th - automavic (2):** CrowJRC (S12), azoof (S12)
+**36th - automavic (2):** CrowJRC (S12), azoof (S12)
 
-**35th - azoof (2):** Brodator (S11), ChainingVermin2 (S12)
+**36th - azoof (2):** Brodator (S11), ChainingVermin2 (S12)
 
-**35th - chloesad (2):** SpaceFenix (S7), Karliffu (S7)
+**36th - chloesad (2):** SpaceFenix (S7), Karliffu (S7)
 
-**35th - ColdBac (2):** Rogue_Batman (S6), Greeples (S8)
+**36th - ColdBac (2):** Rogue_Batman (S6), Greeples (S8)
 
-**35th - DarrenBGP (2):** Ullti (S7), Greeples (S7)
+**36th - DarrenBGP (2):** Ullti (S7), Greeples (S7)
 
-**35th - egl_ (2):** TonyEatWorld (S1), CHAINGE (S5)
+**36th - egl_ (2):** TonyEatWorld (S1), CHAINGE (S5)
 
-**35th - Fcrm (2):** ghostblurr (S4), natsuvi (S6)
+**36th - Fcrm (2):** ghostblurr (S4), natsuvi (S6)
 
-**35th - grantfaker (2):** broccoliar (S12), ShootingGoats (S12)
+**36th - Kaismartypants (2):** MaxEvasion (S7), ItsColinn (S12)
 
-**35th - Kaismartypants (2):** MaxEvasion (S7), ItsColinn (S12)
+**36th - nyaaia (2):** kirbey (S9), ChainingVermin2 (S9)
 
-**35th - nyaaia (2):** kirbey (S9), ChainingVermin2 (S9)
+**36th - ProGirlGamer (2):** Ryfri (S9), lottebunny (S9)
 
-**35th - ProGirlGamer (2):** Ryfri (S9), lottebunny (S9)
+**36th - SiahStone (2):** ToucanTom (S7), ProGirlGamer (S9)
 
-**35th - SiahStone (2):** ToucanTom (S7), ProGirlGamer (S9)
-
-**35th - Ullti (2):** 4EyedSlime (S7), lexicuhl (S8)
+**36th - Ullti (2):** 4EyedSlime (S7), lexicuhl (S8)
 
 **49th - ArcticSeagull (1):** MCmattFTW (S10)
 
@@ -368,7 +368,7 @@
 ---
 ### PvE Deaths
 
-**Fall (8):** emi1iano (S4), pigghetti (S5), AmbientDan (S5), MaxEvasion (S6), Rohcket (S9), m4ku (S10), Brodator (S12), Sharkbob94349 (S12)
+**Fall (7):** emi1iano (S4), pigghetti (S5), AmbientDan (S5), MaxEvasion (S6), Rohcket (S9), m4ku (S10), Brodator (S12)
 
 **Drowning (3):** ShootingGoats (S9), ColdBac (S9), Rogue_Batman (S10)
 

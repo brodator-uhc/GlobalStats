@@ -7,13 +7,13 @@
 
 **S2:** *CountryCutie (0), SoulRawr (1), abateur (0) & DrJamezz (6), GeeSam (2), JerseyTheDevil (0)*
 
-**S3: Bradzi (6), oworca (2)**, *CountryCutie (0), Digdude (0)*
+**S3: Bradzi (6), orcau (2)**, *CountryCutie (0), Digdude (0)*
 
 **S4: Bradzi (3), FazedMC (1), GeeSam (3), swishduck (1)**
 
 **S5: SoulRawr (7)**, *Dannythecool123 (0), RwDragon (1)*
 
-**S6: Bradzi (0), IsaacMT (2), oworca (3)**, *ThePeridotKnight (0)*
+**S6: Bradzi (0), IsaacMT (2), orcau (3)**, *ThePeridotKnight (0)*
 
 **S7: Lucityy (4)**, *BBR_ (1), Broseph (2), ColdBac (1), wibbol (1)*
 
@@ -47,7 +47,7 @@
 
 **S5:** SoulRawr (7)
 
-**S6:** oworca, SoulRawr (3)
+**S6:** orcau, SoulRawr (3)
 
 **S7:** Lucityy, Potsie (4)
 
@@ -58,13 +58,13 @@
 
 **S2:** DrJamezz (6), GeeSam (2), JerseyTheDevil (0)
 
-**S3:** Bradzi (6), oworca (2), Digdude (0), CountryCutie (0)
+**S3:** Bradzi (6), orcau (2), Digdude (0), CountryCutie (0)
 
 **S4:** Bradzi (3), GeeSam (3), swishduck (1), FazedMC (1)
 
 **S5:** SoulRawr (7), RwDragon (1), Dannythecool123 (0)
 
-**S6:** Bradzi (0), IsaacMT (2), oworca (3), ThePeridotKnight (0)
+**S6:** Bradzi (0), IsaacMT (2), orcau (3), ThePeridotKnight (0)
 
 **S7:** BBR_ (1), wibbol (1), Broseph (2), ColdBac (1), Lucityy (4)
 
@@ -100,7 +100,7 @@
 
 **S6:** QuilJ1 (1:25:2)
 
-**S7:** oworca (1:53:48)
+**S7:** orcau (1:53:48)
 
 ---
 ### First Blood
@@ -139,9 +139,9 @@
 ---
 ### Kills
 
-**1st - SoulRawr (16):** DrJamezz (S2), Digdude (S3), Topspinpiggles (S3), IsaacMT (S3), chloesad (S5), Lucityy (S5), QuilJ1 (S5), GeeSam (S5), Emerric (S5), ShyGus (S5), Jayzize (S5), Flouzemaker (S6), GeeSam (S6), blazerr (S6), Bradzi (S7), oworca (S7)
+**1st - SoulRawr (16):** DrJamezz (S2), Digdude (S3), Topspinpiggles (S3), IsaacMT (S3), chloesad (S5), Lucityy (S5), QuilJ1 (S5), GeeSam (S5), Emerric (S5), ShyGus (S5), Jayzize (S5), Flouzemaker (S6), GeeSam (S6), blazerr (S6), Bradzi (S7), orcau (S7)
 
-**2nd - Bradzi (9):** lexicuhl (S3), Bluests (S3), Dj8ninja (S3), blazerr (S3), LordLaelaps (S3), Mincrooft (S3), Digdude (S4), oworca (S4), automavic (S4)
+**2nd - Bradzi (9):** lexicuhl (S3), Bluests (S3), Dj8ninja (S3), blazerr (S3), LordLaelaps (S3), Mincrooft (S3), Digdude (S4), orcau (S4), automavic (S4)
 
 **3rd - GeeSam (8):** LordLaelaps (S1), CountryCutie (S2), LordLaelaps (S2), DareDevilDawson (S3), LordLaelaps (S4), CountryCutie (S4), Flouzemaker (S4), Hoookey (S6)
 
@@ -151,7 +151,7 @@
 
 **4th - I_is_cheesecake (6):** swishduck (S1), CH0CK (S1), FazedMC (S1), T0n35 (S1), Flouzemaker (S1), TheSonicJoey (S1)
 
-**4th - oworca (6):** Jayzize (S3), SoulRawr (S3), Digdude (S6), Bacan (S6), SoulRawr (S6), QuilJ1 (S7)
+**4th - orcau (6):** Jayzize (S3), SoulRawr (S3), Digdude (S6), Bacan (S6), SoulRawr (S6), QuilJ1 (S7)
 
 **4th - Potsie (6):** RwDragon (S6), ColdBac (S6), wibbol (S7), Flouzemaker (S7), ColdBac (S7), SoulRawr (S7)
 
@@ -259,7 +259,7 @@
 
 **5 Seasons (6):** CountryCutie (S1-S5), FazedMC (S1-S5), ShyGus (S1,S4-S7), QuilJ1 (S2-S3,S5-S7), Bradzi (S3-S7), IsaacMT (S3-S7)
 
-**4 Seasons (7):** lexicuhl (S1,S3-S5), LordLaelaps (S1-S4), RwDragon (S1,S4-S6), JerseyTheDevil (S2-S5), rippersteveM5 (S2-S4,S7), Digdude (S3-S4,S6-S7), oworca (S3-S4,S6-S7)
+**4 Seasons (7):** lexicuhl (S1,S3-S5), LordLaelaps (S1-S4), RwDragon (S1,S4-S6), JerseyTheDevil (S2-S5), rippersteveM5 (S2-S4,S7), Digdude (S3-S4,S6-S7), orcau (S3-S4,S6-S7)
 
 **3 Seasons (8):** automavic (S2,S4-S5), blazerr (S2-S3,S6), Broseph (S2,S6-S7), chloesad (S3-S5), Topspinpiggles (S3-S5), Lucityy (S4-S5,S7), MistaUnicorn (S4-S6), ThePeridotKnight (S4-S6)
 
@@ -274,7 +274,7 @@
 
 **S2 (12):** abateur, automavic, blazerr, Broseph, DrJamezz, Jayzize, JerseyTheDevil, Mincrooft, powermc, QuilJ1, rippersteveM5, SoulRawr
 
-**S3 (9):** Bluests, Bradzi, chloesad, DareDevilDawson, Digdude, Dj8ninja, IsaacMT, oworca, Topspinpiggles
+**S3 (9):** Bluests, Bradzi, chloesad, DareDevilDawson, Digdude, Dj8ninja, IsaacMT, orcau, Topspinpiggles
 
 **S4 (3):** Lucityy, MistaUnicorn, ThePeridotKnight
 

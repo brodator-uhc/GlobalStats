@@ -7,7 +7,7 @@
 
 **S2: Shortgamer (10)**, *BJPlays (1), CedGhoss (1), Gillieeeee (0)*
 
-**S3: oworca (6)**, *LordLaelaps (1)*
+**S3: orcau (6)**, *LordLaelaps (1)*
 
 **S4: AvaCos (2), DjTalica (1), Flouzemaker (1)**, *TommySuX (2)*
 
@@ -20,7 +20,7 @@
 
 **S3:** Chasmic (3), Grantonic (1)
 
-**S4:** brodioh (2), Cryptic (0), oworca (2), Topspinpiggles (0)
+**S4:** brodioh (2), Cryptic (0), orcau (2), Topspinpiggles (0)
 
 ---
 ### Most Kills
@@ -29,9 +29,9 @@
 
 **S2:** Shortgamer (10)
 
-**S3:** oworca (6)
+**S3:** orcau (6)
 
-**S4:** AvaCos, bjr201111, brodioh, Jakekub, oworca, Shortgamer, Stellios_Cantos, TommySuX, Zamario (2)
+**S4:** AvaCos, bjr201111, brodioh, Jakekub, orcau, Shortgamer, Stellios_Cantos, TommySuX, Zamario (2)
 
 ---
 ### Most Kills (Team)
@@ -40,7 +40,7 @@
 
 **S2:** CedGhoss (1), BJPlays (1), Gillieeeee (0), Shortgamer (10)
 
-**S3:** LordLaelaps (1), oworca (6)
+**S3:** LordLaelaps (1), orcau (6)
 
 **S4:** TommySuX (2), DjTalica (1), Flouzemaker (1), AvaCos (2)
 
@@ -64,7 +64,7 @@
 
 **S3:** rippersteveM5 (1:7:30)
 
-**S4:** oworca (1:46:26)
+**S4:** orcau (1:46:26)
 
 ---
 ### First Blood
@@ -91,11 +91,11 @@
 ---
 ### Kills
 
-**1st - Shortgamer (13):** oworca (S2), DjTalica (S2), Kidfo (S2), Hoppy (S2), brodioh (S2), MadSainter (S2), lsperlo (S2), Stellios_Cantos (S2), ElementalYT (S2), Fairyjuice (S2), brodioh (S3), Topspinpiggles (S4), Cryptic (S4)
+**1st - Shortgamer (13):** orcau (S2), DjTalica (S2), Kidfo (S2), Hoppy (S2), brodioh (S2), MadSainter (S2), lsperlo (S2), Stellios_Cantos (S2), ElementalYT (S2), Fairyjuice (S2), brodioh (S3), Topspinpiggles (S4), Cryptic (S4)
 
-**2nd - oworca (10):** GlowingNeon (S1), BJPlays (S1), Tetrixxx (S3), MrCraftinator (S3), Hoppy (S3), Guep (S3), Cryptic (S3), Chasmic (S3), Jakekub (S4), Stellios_Cantos (S4)
+**2nd - orcau (10):** GlowingNeon (S1), BJPlays (S1), Tetrixxx (S3), MrCraftinator (S3), Hoppy (S3), Guep (S3), Cryptic (S3), Chasmic (S3), Jakekub (S4), Stellios_Cantos (S4)
 
-**3rd - Guep (8):** Shortgamer (S1), Chasmic (S1), Mathyy (S1), oworca (S1), TommySuX (S3), Fukano (S3), lsperlo (S3), Soshikun (S4)
+**3rd - Guep (8):** Shortgamer (S1), Chasmic (S1), Mathyy (S1), orcau (S1), TommySuX (S3), Fukano (S3), lsperlo (S3), Soshikun (S4)
 
 **4th - Chasmic (6):** Kidfo (S1), Stellios_Cantos (S1), rippersteveM5 (S3), MadSainter (S3), CedGhoss (S3), Edviin_ (S4)
 
@@ -107,7 +107,7 @@
 
 **7th - Stellios_Cantos (4):** rippersteveM5 (S2), Etoiles (S3), Emerric (S4), Chasmic (S4)
 
-**9th - DjTalica (3):** Flohp (S2), CedGhoss (S2), oworca (S4)
+**9th - DjTalica (3):** Flohp (S2), CedGhoss (S2), orcau (S4)
 
 **9th - Edviin_ (3):** TommySuX (S2), JimmyJambles (S2), bjr201111 (S4)
 
@@ -175,7 +175,7 @@
 ---
 ### Participation
 
-**4 Seasons (11):** brodioh (S1-S4), Chasmic (S1-S4), DjTalica (S1-S4), Guep (S1-S4), Kidfo (S1-S4), MrCraftinator (S1-S4), oworca (S1-S4), rippersteveM5 (S1-S4), Shortgamer (S1-S4), Stellios_Cantos (S1-S4), TommySuX (S1-S4)
+**4 Seasons (11):** brodioh (S1-S4), Chasmic (S1-S4), DjTalica (S1-S4), Guep (S1-S4), Kidfo (S1-S4), MrCraftinator (S1-S4), orcau (S1-S4), rippersteveM5 (S1-S4), Shortgamer (S1-S4), Stellios_Cantos (S1-S4), TommySuX (S1-S4)
 
 **3 Seasons (7):** CedGhoss (S1-S3), Cryptic (S1,S3-S4), Flohp (S1-S2,S4), QuilJ1 (S1-S2,S4), Edviin_ (S2-S4), Fukano (S2-S4), LordLaelaps (S2-S4)
 
@@ -186,7 +186,7 @@
 ---
 ### Debutants
 
-**S1 (27):** bigfoot_, BJPlays, BlakeCraft, boyceterous, brodioh, CedGhoss, Chasmic, Cryptic, DjTalica, Flohp, Gillieeeee, GlowingNeon, Guep, Hannilala, Kidfo, Mathyy, MrCraftinator, MrPolzerino, oworca, PoshNPie, QuilJ1, rippersteveM5, Shortgamer, Stellios_Cantos, TheGamerCool, TommySuX, Venusial
+**S1 (27):** bigfoot_, BJPlays, BlakeCraft, boyceterous, brodioh, CedGhoss, Chasmic, Cryptic, DjTalica, Flohp, Gillieeeee, GlowingNeon, Guep, Hannilala, Kidfo, Mathyy, MrCraftinator, MrPolzerino, orcau, PoshNPie, QuilJ1, rippersteveM5, Shortgamer, Stellios_Cantos, TheGamerCool, TommySuX, Venusial
 
 **S2 (12):** Edviin_, ElementalYT, Emerric, Fairyjuice, Fukano, Hoppy, JimmyJambles, LordLaelaps, lsperlo, MadSainter, Tetrixxx, WintherMaw
 

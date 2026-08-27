@@ -3,54 +3,54 @@
 ---
 ### Winners
 
-**S1: ChainingVermin2 (1)**
+**S1: automavic (0), Boomblade60 (0), ChainingVermin2 (1), natsuvi (0)**
 
-**S2: kawaiibunri (2)**
+**S2: cherryblawsom (0), evuhlynx (2), SOAKLE (0), Spongey (0)**
 
-**S3: kawaiibunri (13)**
+**S3: BoltsInCharge (0), evuhlynx (13), Fcrm (0), TheSlimeBrother (0)**
 
-**S4: BoltsInCharge (7)**
+**S4: BoltsInCharge (7), EndestroyerEpic (0), Fcrm (0), Sharkbob94349 (0)**
 
 **S5: _1mmortal_ (0), AirInAirOut (2), Bobbytheturtle (0), BoltsInCharge (0), DJoee (0), Fcrm (0), ImChile (0), swishduck (0)**, *CommanderK22_ (0)*
 
 ---
 ### Runner Ups
 
-**S1:** natsuvi (0)
+**S1:** Bornyo (1)
 
-**S2:** SOAKLE (0)
+**S2:** Bobbytheturtle (2)
 
-**S3:** Fcrm (0)
+**S3:** SmolHatChild (0)
 
-**S4:** Fcrm (0)
+**S4:** DJoee (0)
 
 **S5:** brinkwhy (1)
 
 ---
 ### Most Kills
 
-**S1:** kawaiibunri (14)
+**S1:** evuhlynx (14)
 
 **S2:** broccoliar (17)
 
-**S3:** kawaiibunri (13)
+**S3:** evuhlynx (13)
 
 **S4:** broccoliar (14)
 
-**S5:** kawaiibunri, ZebraPantz (6)
+**S5:** evuhlynx, ZebraPantz (6)
 
 ---
 ### Most Kills (Team)
 
-**S1:** N/A
+**S1:** evuhlynx (14)
 
-**S2:** N/A
+**S2:** broccoliar (17)
 
-**S3:** N/A
+**S3:** BoltsInCharge (0), TheSlimeBrother (0), Fcrm (0), evuhlynx (13)
 
-**S4:** N/A
+**S4:** broccoliar (14)
 
-**S5:** kawaiibunri (6) & ZebraPantz (6)
+**S5:** evuhlynx (6) & ZebraPantz (6)
 
 ---
 ### First Damage
@@ -109,7 +109,7 @@
 
 **1st - broccoliar (41):** Fcrm (S1), LipGlossica (S1), Markedbooboy (S1), ShootingGoats (S1), HalfLechuga (S2), ShootingGoats (S2), LipGlossica (S2), natsuvi (S2), CharizOVO (S2), skyzfy (S2), CodeJoshua (S2), Westcraft00 (S2), TheSlimeBrother (S2), flintflint04 (S2), fruitlogic (S2), SpaceFenix (S2), Greeples (S2), CommanderK22_ (S2), Kaimaxon (S2), Cloversss (S2), AirInAirOut (S2), ScaryPumpkinFace (S3), boyyoo (S4), grantfaker (S4), ZebraPantz (S4), LipGlossica (S4), SmolHatChild (S4), ChrisCD (S4), GuyNamedKreo (S4), MichaelPlayMC (S4), SpaceFenix (S4), ItsLittleT (S4), SharkeyJaws (S4), Westcraft00 (S4), Kaismartypants (S4), Blarkslol (S4), CAMKART100 (S5), Cooooldude (S5), zCent (S5), Fifty_Two (S5), Westcraft00 (S5)
 
-**2nd - kawaiibunri (35):** noktime (S1), Codwhy (S1), Ryfri (S1), GuyNamedKreo (S1), ZebraPantz (S1), TheSlimeBrother (S1), Westcraft00 (S1), LoafOZ (S1), Sharkbob94349 (S1), Greeples (S1), BoltsInCharge (S1), SpaceFenix (S1), ThisIsHab (S1), AirInAirOut (S1), MercuryParadox (S2), Bobbytheturtle (S2), swishduck (S3), Xstevey (S3), Fearx_ (S3), ItsShqky (S3), TehBaconBrawlerZ (S3), Stravilight (S3), broccoliar (S3), CAMKART100 (S3), SpaceFenix (S3), Sharkbob94349 (S3), ImChile (S3), Kaismartypants (S3), SmolHatChild (S3), broccoliar (S5), ZebraPantz (S5), justacarrot_ (S5), GamingStarr (S5), zoeywithawhy (S5), Sharkbob94349 (S5)
+**2nd - evuhlynx (35):** noktime (S1), Codwhy (S1), Ryfri (S1), GuyNamedKreo (S1), ZebraPantz (S1), TheSlimeBrother (S1), Westcraft00 (S1), LoafOZ (S1), Sharkbob94349 (S1), Greeples (S1), BoltsInCharge (S1), SpaceFenix (S1), ThisIsHab (S1), AirInAirOut (S1), MercuryParadox (S2), Bobbytheturtle (S2), swishduck (S3), Xstevey (S3), Fearx_ (S3), ItsShqky (S3), TehBaconBrawlerZ (S3), Stravilight (S3), broccoliar (S3), CAMKART100 (S3), SpaceFenix (S3), Sharkbob94349 (S3), ImChile (S3), Kaismartypants (S3), SmolHatChild (S3), broccoliar (S5), ZebraPantz (S5), justacarrot_ (S5), GamingStarr (S5), zoeywithawhy (S5), Sharkbob94349 (S5)
 
 **3rd - BoltsInCharge (10):** Ullti (S1), bayweafs (S1), Kaismartypants (S1), BEANJEE (S4), Ullti (S4), 4EyedSlime (S4), ChainingVermin2 (S4), Sfqkeur_ (S4), broccoliar (S4), DJoee (S4)
 
@@ -139,11 +139,11 @@
 
 **12th - swishduck (2):** noktime (S3), grantfaker (S3)
 
-**17th - Aquacam (1):** kawaiibunri (S5)
+**17th - Aquacam (1):** evuhlynx (S5)
 
 **17th - Boomblade60 (1):** RiseGR (S3)
 
-**17th - Bornyo (1):** kawaiibunri (S1)
+**17th - Bornyo (1):** evuhlynx (S1)
 
 **17th - brinkwhy (1):** omchris (S5)
 
@@ -178,7 +178,7 @@
 
 **Fall (2):** omchris (S4), Zakkeagle (S5)
 
-**Lava (2):** omchris (S3), kawaiibunri (S4)
+**Lava (2):** omchris (S3), evuhlynx (S4)
 
 **Vex (2):** rae0vr (S2), Karliffu (S3)
 
@@ -197,7 +197,7 @@
 ---
 ### Participation
 
-**5 Seasons (7):** broccoliar (S1-S5), Fcrm (S1-S5), kawaiibunri (S1-S5), omchris (S1-S5), Sharkbob94349 (S1-S5), ShootingGoats (S1-S5), Westcraft00 (S1-S5)
+**5 Seasons (7):** broccoliar (S1-S5), evuhlynx (S1-S5), Fcrm (S1-S5), omchris (S1-S5), Sharkbob94349 (S1-S5), ShootingGoats (S1-S5), Westcraft00 (S1-S5)
 
 **4 Seasons (5):** AirInAirOut (S1-S2,S4-S5), BoltsInCharge (S1,S3-S5), Kaismartypants (S1-S4), SpaceFenix (S1-S4), CAMKART100 (S2-S5)
 
@@ -210,7 +210,7 @@
 ---
 ### Debutants
 
-**S1 (38):** Agentad, AirInAirOut, automavic, bayweafs, benidk, BoltsInCharge, Boomblade60, Bornyo, broccoliar, ChainingVermin2, cherryblawsom, Codwhy, Fcrm, fruitlogic, Glarza, Greeples, GuyNamedKreo, HalfLechuga, Kaismartypants, kawaiibunri, lasdarling, LipGlossica, LoafOZ, Markedbooboy, MichaelPlayMC, natsuvi, noktime, omchris, Ryfri, Sharkbob94349, ShootingGoats, SpaceFenix, Stravilight, TheSlimeBrother, ThisIsHab, Ullti, Westcraft00, ZebraPantz
+**S1 (38):** Agentad, AirInAirOut, automavic, bayweafs, benidk, BoltsInCharge, Boomblade60, Bornyo, broccoliar, ChainingVermin2, cherryblawsom, Codwhy, evuhlynx, Fcrm, fruitlogic, Glarza, Greeples, GuyNamedKreo, HalfLechuga, Kaismartypants, lasdarling, LipGlossica, LoafOZ, Markedbooboy, MichaelPlayMC, natsuvi, noktime, omchris, Ryfri, Sharkbob94349, ShootingGoats, SpaceFenix, Stravilight, TheSlimeBrother, ThisIsHab, Ullti, Westcraft00, ZebraPantz
 
 **S2 (17):** _1mmortal_, Andronify, Bobbytheturtle, CAMKART100, CharizOVO, Cloversss, CodeJoshua, CommanderK22_, flintflint04, Kaimaxon, MercuryParadox, Ninetals38, rae0vr, Scringus, skyzfy, SOAKLE, Spongey
 

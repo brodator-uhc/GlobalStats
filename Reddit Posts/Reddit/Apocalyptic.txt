@@ -353,7 +353,7 @@
 
 **3rd - Kelawesome (30):** DevoyTTV (S13), CipherKai (S13), OnlyHalf (S14), krovyle (S14), ArcticSeagull (S14), 4EyedSlime (S14), Plushy33 (S14), DevoyTTV (S14), Stravilight (S14), Rebelghost (S14), PwincessVanessa (S14), JaqOnCraq (S14), Jaceon02 (S15), Qmos (S15), JaqOnCraq (S15), Stravilight (S16), Klanke (S17), MaxEvasion (S17), 78ford (S17), Karliffu (S17), Flcnt (S17), MangoPlayz (S17), benidk (S17), _Dieter (S17), bayweafs (S19), Valnius (S20), dahii (S20), HigmanFreud (S20), alexnv (S20), benidk (S20)
 
-**4th - CipherKai (29):** CodeJoshua (S3), xCand (S3), Vetmire (S6), Jorgeeay (S6), Karliffu (S6), Brocko (S6), Vetmire (S10), MinorLeagueGamer (S10), FrostBros (S10), Karliffu (S11), DJoee (S13), Kelawesome (S13), Kaismartypants (S14), _Dieter (S16), benidk (S18), JaqOnCraq (S18), natsuvi (S18), xDiversity (S18), zCent (S20), strategy (S20), BoltsInCharge (S20), Kelawesome (S20), kawaiibunri (S20), Spongey (S20), brinkwhy (S20), ColdBac (S20), SOAKLE (S20), Bobbytheturtle (S20), checog (S20)
+**4th - CipherKai (29):** CodeJoshua (S3), xCand (S3), Vetmire (S6), Jorgeeay (S6), Karliffu (S6), Brocko (S6), Vetmire (S10), MinorLeagueGamer (S10), FrostBros (S10), Karliffu (S11), DJoee (S13), Kelawesome (S13), Kaismartypants (S14), _Dieter (S16), benidk (S18), JaqOnCraq (S18), natsuvi (S18), xDiversity (S18), zCent (S20), strategy (S20), BoltsInCharge (S20), Kelawesome (S20), evuhlynx (S20), Spongey (S20), brinkwhy (S20), ColdBac (S20), SOAKLE (S20), Bobbytheturtle (S20), checog (S20)
 
 **5th - JaqOnCraq (28):** RiseGR (S3), Karliffu (S3), AsianCheatCode (S3), strategy (S3), Thermql (S3), 123SteveBob (S3), brinkwhy (S3), ElioGeoFreeze32 (S4), Bofishkix (S4), 4EyedSlime (S5), SmolHatChild (S5), chugmitchell (S5), xCand (S5), Sneaky26 (S5), Nikanod (S8), Truzoi (S8), Phyrrus (S10), ADinoPlayingMC (S10), PwincessVanessa (S12), Vetmire (S14), _Dieter (S14), Kelawesome (S14), broccoliar (S15), poWpaH (S16), wizarde (S19), JosephCFC18 (S20), Caydone (S20), AsianCheatCode (S20)
 
@@ -475,9 +475,11 @@
 
 **60th - ColdBac (3):** Bornyo (S20), Glarza (S20), Cloversss (S20)
 
-**60th - DeluxeSniper (3):** TheSlimeBrother (S19), kawaiibunri (S19), zac083 (S19)
+**60th - DeluxeSniper (3):** TheSlimeBrother (S19), evuhlynx (S19), zac083 (S19)
 
 **60th - DKPMatt (3):** Captinn (S19), cat6376 (S19), CipherKai (S19)
+
+**60th - evuhlynx (3):** Cqson (S18), Bulbexe (S19), Supersun_ (S20)
 
 **60th - Geroot (3):** ArcticSeagull (S5), Bofishkix (S5), JaqOnCraq (S5)
 
@@ -486,8 +488,6 @@
 **60th - ItsShqky (3):** Evzenitable (S8), stupidsylvia (S10), Fcrm (S14)
 
 **60th - JamestheDouglas (3):** Nuba (S1), Pelycosaur (S11), colbay (S11)
-
-**60th - kawaiibunri (3):** Cqson (S18), Bulbexe (S19), Supersun_ (S20)
 
 **60th - kirbey (3):** ohh_lia (S10), MaxEvasion (S14), IyaIsMad (S16)
 
@@ -501,7 +501,7 @@
 
 **60th - strategy (3):** CelestialReira (S3), ADinoPlayingMC (S20), Zebobo10 (S20)
 
-**60th - xDiversity (3):** Charrlottie (S17), kawaiibunri (S18), DevoyTTV (S18)
+**60th - xDiversity (3):** Charrlottie (S17), evuhlynx (S18), DevoyTTV (S18)
 
 **79th - AvyleZ (2):** ItsShqky (S12), 4EyedSlime (S13)
 
@@ -693,7 +693,7 @@
 
 **4 Seasons (19):** BlackPants (S1-S2,S10,S14), JamestheDouglas (S1-S2,S9,S11), Sneaky26 (S1,S5-S6,S10), Blarkslol (S3,S5,S9-S10), MineKG (S3-S5,S20), _ChrisMS (S5-S7,S13), Lucarrio (S5-S8), Cubic44 (S7,S9,S11,S13), Nikanod (S7-S9,S11), ItsColinn (S8,S11,S17-S18), Psykl0ne (S8,S16,S18,S20), BreakfastBacon (S9-S11,S14), PikachuNumbers (S9-S12), SiahStone (S9-S10,S15-S16), OnlyHalf (S12,S14-S15,S18), Cqson (S13,S15,S17-S18), xDiversity (S13,S16-S18), benidk (S17-S20), Gorgerous (S17-S20)
 
-**3 Seasons (29):** Heddit (S1-S2,S4), stupidsylvia (S1,S10,S20), xJC (S1-S2,S7), AdonisGaming (S3-S4,S6), billyummmm (S5,S8,S20), CharizOVO (S5,S9,S19), CHAINGE (S6,S10,S20), DakotaB15 (S6-S8), Jorgeeay (S6,S8-S9), p1an (S6-S8), Evzenitable (S7-S8,S10), nFang (S7,S9,S11), TacoDab (S7-S8,S10), ZachMcD (S7-S9), azoof (S8-S10), Klanke (S8-S9,S17), MinorLeagueGamer (S8-S10), Truzoi (S8-S10), Aybel (S9-S10,S20), St0rmplayz (S9-S10,S20), Lsnce (S12-S14), Zcin (S12-S13,S20), Prisma (S13-S15), Qmos (S13-S15), IyaIsMad (S15-S16,S18), 78ford (S16-S17,S20), zac083 (S16,S18-S19), Randehh (S17,S19-S20), kawaiibunri (S18-S20)
+**3 Seasons (29):** Heddit (S1-S2,S4), stupidsylvia (S1,S10,S20), xJC (S1-S2,S7), AdonisGaming (S3-S4,S6), billyummmm (S5,S8,S20), CharizOVO (S5,S9,S19), CHAINGE (S6,S10,S20), DakotaB15 (S6-S8), Jorgeeay (S6,S8-S9), p1an (S6-S8), Evzenitable (S7-S8,S10), nFang (S7,S9,S11), TacoDab (S7-S8,S10), ZachMcD (S7-S9), azoof (S8-S10), Klanke (S8-S9,S17), MinorLeagueGamer (S8-S10), Truzoi (S8-S10), Aybel (S9-S10,S20), St0rmplayz (S9-S10,S20), Lsnce (S12-S14), Zcin (S12-S13,S20), Prisma (S13-S15), Qmos (S13-S15), IyaIsMad (S15-S16,S18), 78ford (S16-S17,S20), zac083 (S16,S18-S19), Randehh (S17,S19-S20), evuhlynx (S18-S20)
 
 **2 Seasons (27):** ShmeckleBoy (S2,S20), ghostblurr (S3,S5), RiseGR (S3,S20), Thermql (S3,S5), xCand (S3,S5), Jwillnot (S4-S5), Crafters (S5-S6), xSaturn (S5,S9), TayUHC (S6,S9), Andronify (S7-S8), KlutzySphere (S7-S8), violetwoah (S7-S8), alexnv (S8,S20), m4ku (S8,S20), HigmanFreud (S10,S20), LoafOZ (S11,S13), Chrominize (S12,S14), cahsowo (S13,S20), Julse (S13,S17), SSGSS4Goku (S13,S16), Fearx_ (S15,S20), cherryblawsom (S16-S17), checog (S17,S20), Kaddyn (S17,S19), Arich (S18-S19), bayweafs (S19-S20), Ryfri (S19-S20)
 
@@ -736,7 +736,7 @@
 
 **S17 (5):** benidk, checog, Gorgerous, Kaddyn, Randehh
 
-**S18 (3):** Arich, Jordtim, kawaiibunri
+**S18 (3):** Arich, evuhlynx, Jordtim
 
 **S19 (6):** bayweafs, DeluxeSniper, DKPMatt, Lnrdo, Ryfri, UbiquityHD
 

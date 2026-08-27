@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: Coolust (4), oworca (4), upriserryker (1)**, *Zermbeeh (0)*
+**S1: Coolust (4), orcau (4), upriserryker (1)**, *Zermbeeh (0)*
 
 **S2: Edviin_ (3), infiniteturbine (1), patpat44patrick (3)**
 
@@ -24,14 +24,14 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Coolust (4), upriserryker (1), oworca (4), Zermbeeh (0) & neonpoop (6), Hollymatman (0), Shortgamer (0), Squattamelon (3)
+**S1:** Coolust (4), upriserryker (1), orcau (4), Zermbeeh (0) & neonpoop (6), Hollymatman (0), Shortgamer (0), Squattamelon (3)
 
 **S2:** _shadowapples (0), ShutUpBrick (3), AvaCos (4) & Edviin_ (3), patpat44patrick (3), infiniteturbine (1)
 
 ---
 ### First Damage
 
-**S1:** oworca (0:0:2)
+**S1:** orcau (0:0:2)
 
 **S2:** Kakintse (0:2:1)
 
@@ -65,7 +65,7 @@
 
 **2nd - Coolust (4):** Joeylinks (S1), Chasmic (S1), FDeath (S1), neonpoop (S1)
 
-**2nd - oworca (4):** Shortgamer (S1), Squattamelon (S1), Edviin_ (S1), Hollymatman (S1)
+**2nd - orcau (4):** Shortgamer (S1), Squattamelon (S1), Edviin_ (S1), Hollymatman (S1)
 
 **5th - Edviin_ (3):** AvaCos (S2), _shadowapples (S2), jamietheelite (S2)
 
@@ -99,12 +99,12 @@
 
 **2 Seasons (10):** _shadowapples (S1-S2), Chasmic (S1-S2), Coolust (S1-S2), Edviin_ (S1-S2), FDeath (S1-S2), infiniteturbine (S1-S2), Shortgamer (S1-S2), slowpr0 (S1-S2), xenon__54 (S1-S2), xJesterrr (S1-S2)
 
-**1 Season (25):** bigfoot_ (S1), BJPlays (S1), Costanza (S1), Fairyjuice (S1), Gillieeeee (S1), Hollymatman (S1), Joeylinks (S1), Kidfo (S1), neonpoop (S1), oworca (S1), Squattamelon (S1), Tomathius (S1), upriserryker (S1), Zermbeeh (S1), AvaCos (S2), Cybers_ (S2), jamietheelite (S2), Kakintse (S2), Likean00b (S2), MrPolzerino (S2), OblivionTU (S2), patpat44patrick (S2), SandraStorm (S2), ShutUpBrick (S2), Walshy (S2)
+**1 Season (25):** bigfoot_ (S1), BJPlays (S1), Costanza (S1), Fairyjuice (S1), Gillieeeee (S1), Hollymatman (S1), Joeylinks (S1), Kidfo (S1), neonpoop (S1), orcau (S1), Squattamelon (S1), Tomathius (S1), upriserryker (S1), Zermbeeh (S1), AvaCos (S2), Cybers_ (S2), jamietheelite (S2), Kakintse (S2), Likean00b (S2), MrPolzerino (S2), OblivionTU (S2), patpat44patrick (S2), SandraStorm (S2), ShutUpBrick (S2), Walshy (S2)
 
 ---
 ### Debutants
 
-**S1 (24):** _shadowapples, bigfoot_, BJPlays, Chasmic, Coolust, Costanza, Edviin_, Fairyjuice, FDeath, Gillieeeee, Hollymatman, infiniteturbine, Joeylinks, Kidfo, neonpoop, oworca, Shortgamer, slowpr0, Squattamelon, Tomathius, upriserryker, xenon__54, xJesterrr, Zermbeeh
+**S1 (24):** _shadowapples, bigfoot_, BJPlays, Chasmic, Coolust, Costanza, Edviin_, Fairyjuice, FDeath, Gillieeeee, Hollymatman, infiniteturbine, Joeylinks, Kidfo, neonpoop, orcau, Shortgamer, slowpr0, Squattamelon, Tomathius, upriserryker, xenon__54, xJesterrr, Zermbeeh
 
 **S2 (11):** AvaCos, Cybers_, jamietheelite, Kakintse, Likean00b, MrPolzerino, OblivionTU, patpat44patrick, SandraStorm, ShutUpBrick, Walshy
 

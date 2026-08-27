@@ -7,7 +7,7 @@
 
 **S2: Bobbytheturtle (3)**, *warriorcat (0)*
 
-**S3: cappyrappy (2)**, *oworca (2), ShAydenelley (1), VeniiiD (0)*
+**S3: cappyrappy (2)**, *orcau (2), ShAydenelley (1), VeniiiD (0)*
 
 **S4: TommySuX (3)**, *ColdBac (1), OddBaller (0)*
 
@@ -125,7 +125,7 @@
 
 **1st - Bobbytheturtle (20):** BushieHalf (S1), floobel (S1), Do_You_Minecraft (S1), LegoBeast (S1), VeniiiD (S1), Emerric (S2), ColdBac (S2), CH0CK (S2), ShutUpBrick (S3), IonJ (S3), PhenomCloud (S3), Arod_ (S3), KOKeowner (S4), Cyndic (S4), ShyGus (S4), miles1baseball (S6), Arod_ (S6), KOKeowner (S6), Daffz (S6), OddBaller (S6)
 
-**2nd - Apex_Twinkie (9):** Grantonic (S1), TommySuX (S1), dRawry (S1), VeniiiD (S2), Evader22 (S2), automavic (S2), oworca (S4), flameorb (S5), OnlyCosmia (S5)
+**2nd - Apex_Twinkie (9):** Grantonic (S1), TommySuX (S1), dRawry (S1), VeniiiD (S2), Evader22 (S2), automavic (S2), orcau (S4), flameorb (S5), OnlyCosmia (S5)
 
 **3rd - automavic (8):** sigilyph (S2), OnlyCosmia (S2), Do_You_Minecraft (S3), ShAydenelley (S3), Flouzemaker (S5), SidGarcia (S5), Apex_Twinkie (S5), ShAydenelley (S5)
 
@@ -147,15 +147,15 @@
 
 **9th - ShAydenelley (5):** Daffz (S3), ColdBac (S5), ColdBac (S6), Zarky (S6), Bobbytheturtle (S6)
 
-**9th - warriorcat (5):** oworca (S3), firefoxvulpix (S4), Apex_Twinkie (S4), OddBaller (S4), LongaVita (S4)
+**9th - warriorcat (5):** orcau (S3), firefoxvulpix (S4), Apex_Twinkie (S4), OddBaller (S4), LongaVita (S4)
 
 **14th - CH0CK (4):** Soshikun (S2), BushieHalf (S2), cappyrappy (S2), BurningT (S2)
 
 **14th - Daffz (4):** BSBrent (S3), Bobbytheturtle (S4), warriorcat (S4), ThePeridotKnight (S5)
 
-**14th - flameorb (4):** ShyGus (S5), ThePeridotKnight (S6), oworca (S6), Fensua (S6)
+**14th - flameorb (4):** ShyGus (S5), ThePeridotKnight (S6), orcau (S6), Fensua (S6)
 
-**14th - oworca (4):** Apex_Twinkie (S3), Emerric (S3), Ninjajaja (S4), BardMain2 (S6)
+**14th - orcau (4):** Apex_Twinkie (S3), Emerric (S3), Ninjajaja (S4), BardMain2 (S6)
 
 **14th - ShyGus (4):** Keirim (S1), firefoxvulpix (S5), OddBaller (S5), Zarky (S5)
 
@@ -171,7 +171,7 @@
 
 **20th - Spacepod_ (3):** Flouzemaker (S6), SD_UHC (S6), friigiid (S6)
 
-**25th - BSBrent (2):** TommySuX (S5), oworca (S5)
+**25th - BSBrent (2):** TommySuX (S5), orcau (S5)
 
 **25th - BushieHalf (2):** VeniiiD (S3), Evader22 (S4)
 
@@ -211,7 +211,7 @@
 
 **5 Seasons (3):** Arod_ (S1-S4,S6), Bobbytheturtle (S1-S4,S6), Daffz (S1,S3-S6)
 
-**4 Seasons (12):** automavic (S1-S3,S5), BushieHalf (S1-S4), Do_You_Minecraft (S1-S4), dRawry (S1-S3,S6), ShyGus (S1-S2,S4-S5), TommySuX (S1,S4-S6), VeniiiD (S1-S4), warriorcat (S1-S4), ShAydenelley (S2-S3,S5-S6), ThePeridotKnight (S2,S4-S6), firefoxvulpix (S3-S6), oworca (S3-S6)
+**4 Seasons (12):** automavic (S1-S3,S5), BushieHalf (S1-S4), Do_You_Minecraft (S1-S4), dRawry (S1-S3,S6), ShyGus (S1-S2,S4-S5), TommySuX (S1,S4-S6), VeniiiD (S1-S4), warriorcat (S1-S4), ShAydenelley (S2-S3,S5-S6), ThePeridotKnight (S2,S4-S6), firefoxvulpix (S3-S6), orcau (S3-S6)
 
 **3 Seasons (8):** cappyrappy (S1-S3), LegoBeast (S1,S3,S6), SD_UHC (S1-S2,S6), OnlyCosmia (S2,S4-S5), BSBrent (S3-S5), Cyndic (S3-S4,S6), frogsella (S4-S6), OddBaller (S4-S6)
 
@@ -226,7 +226,7 @@
 
 **S2 (7):** Evader22, OnlyCosmia, ShAydenelley, SidGarcia, sigilyph, ThePeridotKnight, Zevulpes
 
-**S3 (7):** BSBrent, Cyndic, firefoxvulpix, LongaVita, oworca, PhenomCloud, ShutUpBrick
+**S3 (7):** BSBrent, Cyndic, firefoxvulpix, LongaVita, orcau, PhenomCloud, ShutUpBrick
 
 **S4 (5):** frogsella, KOKeowner, Ninjajaja, OddBaller, scriblur
 

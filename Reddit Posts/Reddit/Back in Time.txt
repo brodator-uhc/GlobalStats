@@ -15,7 +15,7 @@
 
 **S6: Jinko42 (7)**, *Jakekub (1), SidGarcia (1)*
 
-**S7: OblivionTU (3)**, *KOKeowner (0), Micale (0), oworca (1), scriblur (2)*
+**S7: OblivionTU (3)**, *KOKeowner (0), Micale (0), orcau (1), scriblur (2)*
 
 ---
 ### Runner Ups
@@ -143,9 +143,9 @@
 
 **2nd - OblivionTU (11):** Jakekub (S2), MrPolzerino (S2), jamietheelite (S2), Hoppy (S2), ________Mental (S2), xJesterrr (S2), Sneegsnag (S6), sirples (S6), DjTalica (S7), Jinko42 (S7), sirples (S7)
 
-**3rd - brodioh (8):** ColdBac (S5), oworca (S5), liflaf (S5), Jakekub (S5), oDogLFC (S5), sirples (S5), Keirim (S6), PhenomCloud (S6)
+**3rd - brodioh (8):** ColdBac (S5), orcau (S5), liflaf (S5), Jakekub (S5), oDogLFC (S5), sirples (S5), Keirim (S6), PhenomCloud (S6)
 
-**3rd - Jakekub (8):** LordLaelaps (S4), scriblur (S4), TommySuX (S4), oworca (S4), Rawkeyy (S5), LordLaelaps (S6), KOKeowner (S7), oworca (S7)
+**3rd - Jakekub (8):** LordLaelaps (S4), scriblur (S4), TommySuX (S4), orcau (S4), Rawkeyy (S5), LordLaelaps (S6), KOKeowner (S7), orcau (S7)
 
 **5th - jamietheelite (7):** BushieHalf (S2), neonpoop (S2), Micale (S2), HUNTERKUN (S2), slowpr0 (S2), bjr201111 (S6), Jakekub (S6)
 
@@ -187,7 +187,7 @@
 
 **22nd - Guep (2):** Cryptic (S4), Zenniker (S4)
 
-**22nd - HUNTERKUN (2):** warriorcat (S6), oworca (S6)
+**22nd - HUNTERKUN (2):** warriorcat (S6), orcau (S6)
 
 **22nd - Ixolock (2):** AvaCos (S7), Jakekub (S7)
 
@@ -225,7 +225,7 @@
 
 **34th - MrPolzerino (1):** BerlinRiver (S1)
 
-**34th - oworca (1):** Chasmic (S7)
+**34th - orcau (1):** Chasmic (S7)
 
 **34th - PhenomCloud (1):** oDogLFC (S6)
 
@@ -265,7 +265,7 @@
 
 **5 Seasons (9):** BushieHalf (S1-S2,S5-S7), FDeath (S1-S2,S4-S5,S7), jamietheelite (S1-S2,S4-S6), Jinko42 (S1-S2,S5-S7), Kidfo (S1-S5), Jakekub (S2,S4-S7), LordLaelaps (S2-S6), Micale (S2-S4,S6-S7), tilargo (S3-S7)
 
-**4 Seasons (10):** Frostbreath (S1,S3,S5-S6), liflaf (S1,S3-S5), slowpr0 (S1-S2,S4-S5), xenon__54 (S1-S3,S5), HUNTERKUN (S2,S4-S6), scriblur (S2,S4-S5,S7), TommySuX (S2-S4,S6), SimplySam (S3,S5-S7), oworca (S4-S7), warriorcat (S4-S7)
+**4 Seasons (10):** Frostbreath (S1,S3,S5-S6), liflaf (S1,S3-S5), slowpr0 (S1-S2,S4-S5), xenon__54 (S1-S3,S5), HUNTERKUN (S2,S4-S6), scriblur (S2,S4-S5,S7), TommySuX (S2-S4,S6), SimplySam (S3,S5-S7), orcau (S4-S7), warriorcat (S4-S7)
 
 **3 Seasons (6):** xJesterrr (S1-S3), Costanza (S2,S5,S7), Soshikun (S2,S4-S5), Coolust (S3,S5,S7), Fukano (S3-S5), ColdBac (S5-S7)
 
@@ -282,7 +282,7 @@
 
 **S3 (8):** Coolust, Cryptic, Dida, Fukano, OhBehave, SimplySam, TicedUp, tilargo
 
-**S4 (9):** bjr201111, Guep, Kakintse, lampbro, oworca, ShutUpBrick, silh, warriorcat, Zenniker
+**S4 (9):** bjr201111, Guep, Kakintse, lampbro, orcau, ShutUpBrick, silh, warriorcat, Zenniker
 
 **S5 (9):** brodioh, CMattznes, ColdBac, luxime, oDogLFC, Rawkeyy, sleepingxd, SmooveManeuver, vinny212
 

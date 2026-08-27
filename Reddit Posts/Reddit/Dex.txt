@@ -95,7 +95,7 @@
 
 **6th - PLENT (3):** PIGG_LET (S1), Gabey (S1), PIGG_LET (S2)
 
-**6th - Purpdan (3):** Coward (S2), oworca (S2), Kelawesome (S2)
+**6th - Purpdan (3):** Coward (S2), orcau (S2), Kelawesome (S2)
 
 **6th - vishs (3):** Phoraxe (S1), Leftu (S2), Austronomical (S2)
 
@@ -125,7 +125,7 @@
 
 **20th - Hacn35 (1):** Apex_Twinkie (S1)
 
-**20th - HUNTERKUN (1):** oworca (S1)
+**20th - HUNTERKUN (1):** orcau (S1)
 
 **20th - ItsColinn (1):** xShatter (S2)
 
@@ -147,14 +147,14 @@
 
 **3 Seasons (6):** Apex_Twinkie (S1-S3), Hacn35 (S1-S3), Jinko42 (S1-S3), Kelawesome (S1-S3), PhenomCloud (S1-S3), PIGG_LET (S1-S3)
 
-**2 Seasons (18):** 5kylord (S1-S2), Austronomical (S1-S2), Cyndic (S1-S2), dontbow (S1-S2), Gps02 (S1-S2), HUNTERKUN (S1,S3), Leftu (S1-S2), LightningS7 (S1-S2), oworca (S1-S2), Phoraxe (S1-S2), PLENT (S1-S2), T0n35 (S1-S2), vishs (S1-S2), Coward (S2-S3), DKPMatt (S2-S3), ItsColinn (S2-S3), Micale (S2-S3), spoood (S2-S3)
+**2 Seasons (18):** 5kylord (S1-S2), Austronomical (S1-S2), Cyndic (S1-S2), dontbow (S1-S2), Gps02 (S1-S2), HUNTERKUN (S1,S3), Leftu (S1-S2), LightningS7 (S1-S2), orcau (S1-S2), Phoraxe (S1-S2), PLENT (S1-S2), T0n35 (S1-S2), vishs (S1-S2), Coward (S2-S3), DKPMatt (S2-S3), ItsColinn (S2-S3), Micale (S2-S3), spoood (S2-S3)
 
 **1 Season (27):** _Glen (S1), Andrew512 (S1), ColdBac (S1), DeluxeSniper (S1), dragonpasa (S1), Gabey (S1), JustNolan (S1), Spacepod_ (S1), Tootikins (S1), WALRUS_TIME (S1), Zcka (S1), AvaCos (S2), brodioh (S2), flameh (S2), NotMyLights (S2), OblivionTU (S2), PauloSSB (S2), Purpdan (S2), SmooveManeuver (S2), whoshaze (S2), xhockey (S2), xShatter (S2), CedGhoss (S3), checog (S3), dahii (S3), fruitberries (S3), xMisha (S3)
 
 ---
 ### Debutants
 
-**S1 (30):** _Glen, 5kylord, Andrew512, Apex_Twinkie, Austronomical, ColdBac, Cyndic, DeluxeSniper, dontbow, dragonpasa, Gabey, Gps02, Hacn35, HUNTERKUN, Jinko42, JustNolan, Kelawesome, Leftu, LightningS7, oworca, PhenomCloud, Phoraxe, PIGG_LET, PLENT, Spacepod_, T0n35, Tootikins, vishs, WALRUS_TIME, Zcka
+**S1 (30):** _Glen, 5kylord, Andrew512, Apex_Twinkie, Austronomical, ColdBac, Cyndic, DeluxeSniper, dontbow, dragonpasa, Gabey, Gps02, Hacn35, HUNTERKUN, Jinko42, JustNolan, Kelawesome, Leftu, LightningS7, orcau, PhenomCloud, Phoraxe, PIGG_LET, PLENT, Spacepod_, T0n35, Tootikins, vishs, WALRUS_TIME, Zcka
 
 **S2 (16):** AvaCos, brodioh, Coward, DKPMatt, flameh, ItsColinn, Micale, NotMyLights, OblivionTU, PauloSSB, Purpdan, SmooveManeuver, spoood, whoshaze, xhockey, xShatter
 

@@ -327,7 +327,7 @@
 
 **56th - Ninetals38 (1):** Greeples (S8)
 
-**56th - OhMatias (1):** kawaiibunri (S8)
+**56th - OhMatias (1):** evuhlynx (S8)
 
 **56th - Plushy33 (1):** ACommonKiwi (S9)
 
@@ -385,7 +385,7 @@
 
 **2 Seasons (23):** FortuneInfinity (S1,S3), jakeyx3 (S1,S3), Kaddyn (S1-S2), ohh_lia (S2,S8), Daltun (S3,S7), Espik (S3,S9), Flcnt (S3,S8), lilygant (S3,S8), Randehh (S3,S6), CHAINGE (S5,S8), Ryfri (S5-S6), MaxEvasion (S6-S7), Plushy33 (S6,S9), AirInAirOut (S7,S9), centraleric (S7-S8), ACommonKiwi (S9-S10), Buzzy_Bee_120 (S9-S10), fruitlogic (S9-S10), ItzBeeZ (S9-S10), JustNolan (S9-S10), MajorWoof (S9-S10), Queequa (S9-S10), Sharkbob94349 (S9-S10)
 
-**1 Season (37):** DarrenBGP (S1), lexicuhl (S1), MarcC5M (S1), TheSlimeBrother (S1), Blackbelt244 (S2), SilverShelby (S2), Digitale (S3), ItsGinger (S3), PresidentFleb (S5), _ChrisMS (S7), AmbientDan (S8), azoof (S8), chugmitchell (S8), Exstreme (S8), Guardaxion (S8), kawaiibunri (S8), Mcjess30 (S8), Ninetals38 (S8), OhMatias (S8), powermc (S8), 5kylord (S9), aalaan (S9), AHSOKATANOSTAN (S9), BoltsInCharge (S9), Br8dy_ (S9), commitstaxfraud (S9), Kelawesome (S9), Lighte (S9), lottebunny (S9), TalonBX (S9), TonyEatWorld (S9), grantfaker (S10), InsertDotJpeg (S10), jojoistoasted (S10), KilerKontrantion (S10), ProGirlGamer (S10), yingapore (S10)
+**1 Season (37):** DarrenBGP (S1), lexicuhl (S1), MarcC5M (S1), TheSlimeBrother (S1), Blackbelt244 (S2), SilverShelby (S2), Digitale (S3), ItsGinger (S3), PresidentFleb (S5), _ChrisMS (S7), AmbientDan (S8), azoof (S8), chugmitchell (S8), evuhlynx (S8), Exstreme (S8), Guardaxion (S8), Mcjess30 (S8), Ninetals38 (S8), OhMatias (S8), powermc (S8), 5kylord (S9), aalaan (S9), AHSOKATANOSTAN (S9), BoltsInCharge (S9), Br8dy_ (S9), commitstaxfraud (S9), Kelawesome (S9), Lighte (S9), lottebunny (S9), TalonBX (S9), TonyEatWorld (S9), grantfaker (S10), InsertDotJpeg (S10), jojoistoasted (S10), KilerKontrantion (S10), ProGirlGamer (S10), yingapore (S10)
 
 ---
 ### Debutants
@@ -404,7 +404,7 @@
 
 **S7 (5):** _ChrisMS, AirInAirOut, centraleric, EndestroyerEpic, YellowVitt
 
-**S8 (11):** _Fost_, AmbientDan, azoof, chugmitchell, Exstreme, Guardaxion, kawaiibunri, Mcjess30, Ninetals38, OhMatias, powermc
+**S8 (11):** _Fost_, AmbientDan, azoof, chugmitchell, evuhlynx, Exstreme, Guardaxion, Mcjess30, Ninetals38, OhMatias, powermc
 
 **S9 (19):** 5kylord, aalaan, ACommonKiwi, AHSOKATANOSTAN, BoltsInCharge, Br8dy_, Buzzy_Bee_120, commitstaxfraud, fruitlogic, ItzBeeZ, JustNolan, Kelawesome, Lighte, lottebunny, MajorWoof, Queequa, Sharkbob94349, TalonBX, TonyEatWorld
 

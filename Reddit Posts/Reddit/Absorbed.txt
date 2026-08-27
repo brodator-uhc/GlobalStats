@@ -231,7 +231,7 @@
 
 **S8:** AvyleZ (0:2:41)
 
-**S9:** kawaiibunri (0:1:51)
+**S9:** evuhlynx (0:1:51)
 
 **S10:** kirbey (0:3:37)
 
@@ -437,7 +437,7 @@
 
 **5th - Bornyo (16):** Evzenitable (S12), PotteryTNT (S14), AshRiolu100985 (S15), _1mmortal_ (S18), bayweafs (S18), Kaismartypants (S18), aalaan (S18), BuildingBard300 (S18), AvyleZ (S18), broccoliar (S18), IdkKiller (S18), AirInAirOut (S19), BEANJEE (S19), Bulbexe (S21), BoltsInCharge (S21), Markedbooboy (S21)
 
-**5th - DevoyTTV (16):** Markedbooboy (S2), PotteryTNT (S2), loyaltea (S2), MrSurvivalist (S2), ArcticSeagull (S5), Hendysaurus (S5), AdonisGaming (S5), Vetmire (S5), kirbey (S10), Bornyo (S18), nug17 (S19), Westcraft00 (S21), MineKG (S21), _1mmortal_ (S21), Zenithu (S24), fruitlogic (S25)
+**5th - DevoyTTV (16):** Markedbooboy (S2), PotteryTNT (S2), loyaltea (S2), MrSurvivalist (S2), ArcticSeagull (S5), hendy53 (S5), AdonisGaming (S5), Vetmire (S5), kirbey (S10), Bornyo (S18), nug17 (S19), Westcraft00 (S21), MineKG (S21), _1mmortal_ (S21), Zenithu (S24), fruitlogic (S25)
 
 **7th - LightingMC (15):** Zebobo10 (S10), ItsShqky (S12), Markedbooboy (S13), Krbreb (S14), Zenithu (S14), lazys (S14), Glarza (S15), HeyItsJBug (S18), CAMKART100 (S18), RollRealQuick (S18), AlkuranZak (S20), stupidsylvia (S20), _1mmortal_ (S20), Fcrm (S20), Stravilight (S20)
 
@@ -447,7 +447,7 @@
 
 **10th - Flcnt (12):** ohh_lia (S11), xXMaximusMC (S11), Karliffu (S17), RuneTactics (S17), DJoee (S17), natsuvi (S17), brinkwhy (S21), ArcticSeagull (S21), SpaceFenix (S21), Bornyo (S21), Haroun_ (S21), ArcticSeagull (S23)
 
-**10th - Kaddyn (12):** Bofishkix (S8), zohhhh (S9), kawaiibunri (S9), AUPinqer (S19), Dcrpy (S19), MercuryParadox (S19), DevoyTTV (S19), Ryfri (S19), ItsShqky (S19), AshRiolu100985 (S23), LightingMC (S23), Mikemino321 (S23)
+**10th - Kaddyn (12):** Bofishkix (S8), zohhhh (S9), evuhlynx (S9), AUPinqer (S19), Dcrpy (S19), MercuryParadox (S19), DevoyTTV (S19), Ryfri (S19), ItsShqky (S19), AshRiolu100985 (S23), LightingMC (S23), Mikemino321 (S23)
 
 **10th - natsuvi (12):** TacoDab (S10), LightingMC (S10), ArcticSeagull (S10), Normoh (S10), _1mmortal_ (S10), AshRiolu100985 (S14), Erdql (S14), benidk (S16), Codwhy (S16), Kaddyn (S16), azoof (S17), Flcnt (S17)
 
@@ -599,7 +599,7 @@
 
 **66th - TheSlimeBrother (2):** PotteryTNT (S11), ItsShqky (S16)
 
-**66th - Zebobo10 (2):** Charrlottie (S10), kawaiibunri (S10)
+**66th - Zebobo10 (2):** Charrlottie (S10), evuhlynx (S10)
 
 **66th - ZebraPantz (2):** AshRiolu100985 (S22), Fcrm (S22)
 
@@ -743,9 +743,9 @@
 
 **3 Seasons (23):** Derpay (S1,S3-S4), CelestialReira (S2,S8,S16), CloudCharles (S3,S6,S8), Dredex (S3,S5,S13), Haydcn (S3-S4,S25), emi1iano (S6-S7,S10), xXMaximusMC (S6-S7,S11), ImChile (S7,S23-S24), IdkKiller (S11,S18,S20), JaqOnCraq (S11,S15-S16), ohh_lia (S11,S14-S15), Krbreb (S12-S14), noktime (S12-S14), Erdql (S14,S20,S23), Hamishhhh (S14,S17,S24), Zenithu (S14,S21,S24), RollRealQuick (S15,S17-S18), Codwhy (S16,S18-S19), NicholasCYA (S16,S19,S24), BEANJEE (S17,S19,S25), iyvenus (S20,S23,S25), Westcraft00 (S20-S22), SpaceFenix (S21-S22,S25)
 
-**2 Seasons (36):** Bohe (S1,S8), jemjosh (S2-S3), MrSurvivalist (S2-S3), Nikanod (S2,S11), TayUHC (S2,S4), TBThardyfan (S2,S9), Mohala (S3,S6), Senkhi (S3,S13), yistv2 (S3,S10), AeroCash (S4,S7), CheeseJay (S4,S12), LoserCringe (S4,S6), Megumin_ (S4-S5), Klanke (S5-S6), ADinoPlayingMC (S6,S24), St0rmplayz (S6-S7), Zunair (S6,S24), MrLeviFOLDED (S7-S8), kawaiibunri (S9-S10), zeesue (S11,S17), Abyr (S13,S15), TheSheepMasters (S14,S16), HalfLechuga (S15,S18), jimmyjegs (S15-S16), aalaan (S16,S18), Kxnani (S17,S19), Fearx_ (S19,S25), MercuryParadox (S19,S22), GuyNamedKreo (S20-S21), Jkisthebest (S20,S23), Nuclearsugar (S20-S21), Hqrvi (S21,S24), OneMoreWeek (S22,S25), grantfaker (S23-S24), kabobaa (S23-S24), boyyoo (S24-S25)
+**2 Seasons (36):** Bohe (S1,S8), jemjosh (S2-S3), MrSurvivalist (S2-S3), Nikanod (S2,S11), TayUHC (S2,S4), TBThardyfan (S2,S9), Mohala (S3,S6), Senkhi (S3,S13), yistv2 (S3,S10), AeroCash (S4,S7), CheeseJay (S4,S12), LoserCringe (S4,S6), Megumin_ (S4-S5), Klanke (S5-S6), ADinoPlayingMC (S6,S24), St0rmplayz (S6-S7), Zunair (S6,S24), MrLeviFOLDED (S7-S8), evuhlynx (S9-S10), zeesue (S11,S17), Abyr (S13,S15), TheSheepMasters (S14,S16), HalfLechuga (S15,S18), jimmyjegs (S15-S16), aalaan (S16,S18), Kxnani (S17,S19), Fearx_ (S19,S25), MercuryParadox (S19,S22), GuyNamedKreo (S20-S21), Jkisthebest (S20,S23), Nuclearsugar (S20-S21), Hqrvi (S21,S24), OneMoreWeek (S22,S25), grantfaker (S23-S24), kabobaa (S23-S24), boyyoo (S24-S25)
 
-**1 Season (91):** 1XD (S1), CloseYourLegs (S1), Proffic (S1), TheLuckyAsian (S1), whalelike (S1), Zemi__ (S1), Zyaf (S1), pureinnocence (S2), Cosmico (S3), Dizzayy (S3), Trenzey (S3), Dargxn (S4), Delighted2MeetU (S4), marceloifhy (S4), MsCrystal (S4), Retrofied (S4), The_Guardian_Tim (S4), _Fost_ (S5), ClosedIT (S5), egl_ (S5), Hendysaurus (S5), SergeantM (S5), wrenston (S5), BraydenCFA (S6), Cyawn (S6), ItsYaBoiToxic (S6), TonyEatWorld (S6), coldified (S7), GeorgiaIsDad (S8), TehBaconBrawlerZ (S9), ToeKun (S9), zohhhh (S9), Charrlottie (S10), Jaceon02 (S10), MangoPlayz (S10), Normoh (S10), Zebobo10 (S10), IyaIsMad (S11), JahMuis (S11), TitaniumDino25 (S13), GamingStarr (S14), lazys (S14), omqxcookies (S14), PoofessorP (S14), QueenxPetty (S14), xDiversity (S14), Glarza (S15), KennyTee (S15), Demomaker (S16), azoof (S17), Dawncy (S17), Greeples (S17), harkuaa (S17), Catsimc (S18), ItsLittleT (S18), Viatic_ (S18), AUPinqer (S19), Dcrpy (S19), Espik (S19), Ryfri (S19), Spongey (S19), Trinan6918 (S19), bh1747 (S20), CatchingGenie (S20), JayFleaYT (S20), Karasu994 (S20), MatthewDiamandis (S20), nqho (S20), Sharkbob94349 (S20), SiahStone (S20), T1mT0m (S20), 78ford (S21), Haroun_ (S21), Hqlfs (S21), EndestroyerEpic (S22), rae0vr (S22), ZebraPantz (S22), ChaseOwO (S23), Mikemino321 (S23), acadiangel (S24), Cristehn (S24), DarrenBGP (S24), GrandSlamBlocker (S24), IronWolfPlays (S24), MadamGiggles (S24), Qmos (S24), vDyre (S24), GodlySteal (S25), jsr_ (S25), MCmattFTW (S25), thnead (S25)
+**1 Season (91):** 1XD (S1), CloseYourLegs (S1), Proffic (S1), TheLuckyAsian (S1), whalelike (S1), Zemi__ (S1), Zyaf (S1), pureinnocence (S2), Cosmico (S3), Dizzayy (S3), Trenzey (S3), Dargxn (S4), Delighted2MeetU (S4), marceloifhy (S4), MsCrystal (S4), Retrofied (S4), The_Guardian_Tim (S4), _Fost_ (S5), ClosedIT (S5), egl_ (S5), hendy53 (S5), SergeantM (S5), wrenston (S5), BraydenCFA (S6), Cyawn (S6), ItsYaBoiToxic (S6), TonyEatWorld (S6), coldified (S7), GeorgiaIsDad (S8), TehBaconBrawlerZ (S9), ToeKun (S9), zohhhh (S9), Charrlottie (S10), Jaceon02 (S10), MangoPlayz (S10), Normoh (S10), Zebobo10 (S10), IyaIsMad (S11), JahMuis (S11), TitaniumDino25 (S13), GamingStarr (S14), lazys (S14), omqxcookies (S14), PoofessorP (S14), QueenxPetty (S14), xDiversity (S14), Glarza (S15), KennyTee (S15), Demomaker (S16), azoof (S17), Dawncy (S17), Greeples (S17), harkuaa (S17), Catsimc (S18), ItsLittleT (S18), Viatic_ (S18), AUPinqer (S19), Dcrpy (S19), Espik (S19), Ryfri (S19), Spongey (S19), Trinan6918 (S19), bh1747 (S20), CatchingGenie (S20), JayFleaYT (S20), Karasu994 (S20), MatthewDiamandis (S20), nqho (S20), Sharkbob94349 (S20), SiahStone (S20), T1mT0m (S20), 78ford (S21), Haroun_ (S21), Hqlfs (S21), EndestroyerEpic (S22), rae0vr (S22), ZebraPantz (S22), ChaseOwO (S23), Mikemino321 (S23), acadiangel (S24), Cristehn (S24), DarrenBGP (S24), GrandSlamBlocker (S24), IronWolfPlays (S24), MadamGiggles (S24), Qmos (S24), vDyre (S24), GodlySteal (S25), jsr_ (S25), MCmattFTW (S25), thnead (S25)
 
 ---
 ### Debutants
@@ -758,7 +758,7 @@
 
 **S4 (13):** AeroCash, ArcticSeagull, Bofishkix, CheeseJay, Dargxn, Delighted2MeetU, LoserCringe, marceloifhy, Megumin_, MineKG, MsCrystal, Retrofied, The_Guardian_Tim
 
-**S5 (9):** _Fost_, _Txchno_, ClosedIT, egl_, Hendysaurus, Klanke, SergeantM, Vetmire, wrenston
+**S5 (9):** _Fost_, _Txchno_, ClosedIT, egl_, hendy53, Klanke, SergeantM, Vetmire, wrenston
 
 **S6 (12):** ADinoPlayingMC, AvyleZ, BigJedo, BraydenCFA, Cyawn, emi1iano, ItsYaBoiToxic, Moonlitess, St0rmplayz, TonyEatWorld, xXMaximusMC, Zunair
 
@@ -766,7 +766,7 @@
 
 **S8 (3):** Flcnt, GeorgiaIsDad, TacoDab
 
-**S9 (5):** kawaiibunri, RuneTactics, TehBaconBrawlerZ, ToeKun, zohhhh
+**S9 (5):** evuhlynx, RuneTactics, TehBaconBrawlerZ, ToeKun, zohhhh
 
 **S10 (9):** Charrlottie, HeyItsJBug, Jaceon02, LightingMC, MangoPlayz, natsuvi, Normoh, TheSlimeBrother, Zebobo10
 
