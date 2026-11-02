@@ -197,7 +197,7 @@
 
 **5th - JustNolan (9):** Eternql (S3), Apex_Twinkie (S3), TheRealHagrid (S4), Professer_TNT (S5), Eroe (S6), ItsColinn (S6), warriorcat (S8), Kelawesome (S8), cynnamon (S8)
 
-**5th - wizarde (9):** GRLH (S2), InsertDotJpeg (S2), stupidgirltv (S2), FrostBros (S3), Professer_TNT (S3), Bradzi (S5), ohh_lia (S10), Kelawesome (S10), Brodator (S10)
+**5th - wizarde (9):** GRLH (S2), InsertDotJpeg (S2), stupidgirltv (S2), FrostBros (S3), Professer_TNT (S3), Bradzi (S5), puppygirlmaple (S10), Kelawesome (S10), Brodator (S10)
 
 **7th - Coward (8):** GRLH (S5), I3enjamin (S5), Eroe (S5), Flufayy (S6), SpaceFenix (S6), Kelawesome (S6), GoldenNs (S6), NotMineProblem (S9)
 
@@ -229,7 +229,7 @@
 
 **16th - stupidgirltv (4):** TheRealHagrid (S3), GoldenNs (S3), Iplayball (S3), ConBeanJones (S3)
 
-**16th - TheRealHagrid (4):** DallasHD (S2), Eroe (S2), IzunaLoli (S3), FrostBros (S4)
+**16th - TheRealHagrid (4):** DallasHD (S2), Eroe (S2), IzunE_ (S3), FrostBros (S4)
 
 **23rd - Bottiken (3):** lexicuhl (S7), JustNolan (S7), Potsie (S8)
 
@@ -312,7 +312,7 @@
 
 **Creeper (3):** stupidgirltv (S1), Randehh (S8), Iplayball (S9)
 
-**Void (3):** Zahkari (S6), TonyEatWorld (S6), Wilsonkong (S6)
+**World Border (3):** Zahkari (S6), TonyEatWorld (S6), Wilsonkong (S6)
 
 **Burning (1):** Ryfri (S7)
 
@@ -347,7 +347,7 @@
 
 **2 Seasons (23):** DiarWolfe (S1-S2), HoneyFromHell (S2-S3), xXMaximusMC (S2,S8), commitstaxfraud (S4,S7), _itslennard14 (S5,S9), _mrcool (S5,S7), Bradzi (S5-S6), haw3z (S5,S7), JamestheDouglas (S5-S6), Broseph (S6-S7), DeluxeSniper (S6-S7), ItsColinn (S6-S7), jakeyx3 (S6,S9), MaxEvasion (S6,S10), ScottPirie (S6,S9), Wilsonkong (S6-S7), cynnamon (S7-S8), Bofishkix (S8,S10), ERHDude (S8-S9), Fra49 (S8-S9), Brodator (S9-S10), cherryblawsom (S9-S10), ZachMcD (S9-S10)
 
-**1 Season (46):** Mldouble07 (S1), TheYuMan (S1), BraydenCFA (S2), DallasHD (S2), pumpit247 (S2), Apex_Twinkie (S3), crazy_monkey7531 (S3), Eternql (S3), IzunaLoli (S3), RwDragon (S3), DeRockProject (S4), I3enjamin (S5), JmcLFA (S5), spoocS_ (S5), Andrew512 (S6), Awticon (S6), ColdBac (S6), CountryCutie (S6), dontbow (S6), DyeItTight (S6), Frozeno_ (S6), Normoh (S6), pigghetti (S6), RassL (S6), xRosss (S6), AmbientDan (S7), BlackGarrett (S7), Bulbae (S7), DomoDomo (S7), JRjoos (S7), lexicuhl (S7), vishs (S7), Drake132667596 (S8), Hardkour (S8), warriorcat (S8), Alacan (S9), Boomblade60 (S9), Caffeindiazepine (S9), Lucarrio (S9), NotMineProblem (S9), ThundahBird (S9), CHAINGE (S10), CipherKai (S10), Glarza (S10), natsuvi (S10), ohh_lia (S10)
+**1 Season (46):** Mldouble07 (S1), TheYuMan (S1), BraydenCFA (S2), DallasHD (S2), pumpit247 (S2), Apex_Twinkie (S3), crazy_monkey7531 (S3), Eternql (S3), IzunE_ (S3), RwDragon (S3), DeRockProject (S4), I3enjamin (S5), JmcLFA (S5), spoocS_ (S5), Andrew512 (S6), Awticon (S6), ColdBac (S6), CountryCutie (S6), dontbow (S6), DyeItTight (S6), Frozeno_ (S6), Normoh (S6), pigghetti (S6), RassL (S6), xRosss (S6), AmbientDan (S7), BlackGarrett (S7), Bulbae (S7), DomoDomo (S7), JRjoos (S7), lexicuhl (S7), vishs (S7), Drake132667596 (S8), Hardkour (S8), warriorcat (S8), Alacan (S9), Boomblade60 (S9), Caffeindiazepine (S9), Lucarrio (S9), NotMineProblem (S9), ThundahBird (S9), CHAINGE (S10), CipherKai (S10), Glarza (S10), natsuvi (S10), puppygirlmaple (S10)
 
 ---
 ### Debutants
@@ -356,7 +356,7 @@
 
 **S2 (10):** BraydenCFA, DallasHD, Eroe, GRLH, HoneyFromHell, InsertDotJpeg, pumpit247, TheRealHagrid, wizarde, xXMaximusMC
 
-**S3 (12):** Apex_Twinkie, crazy_monkey7531, Eternql, GoldenNs, Iplayball, IzunaLoli, JustNolan, Kelawesome, Professer_TNT, RwDragon, ThePeridotKnight, Zahkari
+**S3 (12):** Apex_Twinkie, crazy_monkey7531, Eternql, GoldenNs, Iplayball, IzunE_, JustNolan, Kelawesome, Professer_TNT, RwDragon, ThePeridotKnight, Zahkari
 
 **S4 (5):** commitstaxfraud, DeRockProject, SiahStone, TonyEatWorld, Topspinpiggles
 
@@ -370,6 +370,6 @@
 
 **S9 (9):** Alacan, Boomblade60, Brodator, Caffeindiazepine, cherryblawsom, Lucarrio, NotMineProblem, ThundahBird, ZachMcD
 
-**S10 (5):** CHAINGE, CipherKai, Glarza, natsuvi, ohh_lia
+**S10 (5):** CHAINGE, CipherKai, Glarza, natsuvi, puppygirlmaple
 
 ---

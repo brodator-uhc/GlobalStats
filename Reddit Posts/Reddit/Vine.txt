@@ -107,9 +107,9 @@
 
 **11th - natsuvi (2):** Psykl0ne (S3), JaqOnCraq (S3)
 
-**11th - ohh_lia (2):** Aybel (S2), MaxEvasion (S3)
-
 **11th - pigghetti (2):** _pbo (S3), Aybel (S3)
+
+**11th - puppygirlmaple (2):** Aybel (S2), MaxEvasion (S3)
 
 **11th - RabidChipmunk (2):** SiahStone (S1), Biwitch (S1)
 
@@ -117,7 +117,7 @@
 
 **21st - _ChrisMS (1):** ArcticSeagull (S2)
 
-**21st - Aybel (1):** ohh_lia (S2)
+**21st - Aybel (1):** puppygirlmaple (S2)
 
 **21st - branman (1):** ColdBac (S3)
 
@@ -142,7 +142,7 @@
 
 **Fall (2):** ShyGus (S2), AsianCheatCode (S3)
 
-**Burning (1):** ohh_lia (S3)
+**Burning (1):** puppygirlmaple (S3)
 
 **Lava (1):** kirbey (S2)
 
@@ -151,7 +151,7 @@
 
 **3 Seasons (8):** AsianCheatCode (S1-S3), cherryblawsom (S1-S3), Drake132667596 (S1-S3), Glarza (S1-S3), Gorgerous (S1-S3), Jahrod (S1-S3), lunne (S1-S3), TheSlimeBrother (S1-S3)
 
-**2 Seasons (18):** Doopaboy (S1-S2), Doormatt65 (S1-S2), PresidentFleb (S1,S3), RabidChipmunk (S1-S2), silent_spriicket (S1,S3), _pbo (S2-S3), 6BU (S2-S3), ArcticSeagull (S2-S3), Aybel (S2-S3), ColdBac (S2-S3), DJoee (S2-S3), frogsella (S2-S3), MaxEvasion (S2-S3), ohh_lia (S2-S3), Rohcket (S2-S3), ShyGus (S2-S3), Spongey (S2-S3), ZachMcD (S2-S3)
+**2 Seasons (18):** Doopaboy (S1-S2), Doormatt65 (S1-S2), PresidentFleb (S1,S3), RabidChipmunk (S1-S2), silent_spriicket (S1,S3), _pbo (S2-S3), 6BU (S2-S3), ArcticSeagull (S2-S3), Aybel (S2-S3), ColdBac (S2-S3), DJoee (S2-S3), frogsella (S2-S3), MaxEvasion (S2-S3), puppygirlmaple (S2-S3), Rohcket (S2-S3), ShyGus (S2-S3), Spongey (S2-S3), ZachMcD (S2-S3)
 
 **1 Season (32):** _Dieter (S1), AvyleZ (S1), Biwitch (S1), CHAINGE (S1), evuhlynx (S1), flameorb (S1), illuminaja (S1), Ryfri (S1), SiahStone (S1), Supersun_ (S1), TehBaconBrawlerZ (S1), _ChrisMS (S2), Alacan (S2), BardMain2 (S2), Cqson (S2), ERHDude (S2), Fra49 (S2), kirbey (S2), Rogue_Batman (S2), Spacepod_ (S2), branman (S3), Brodator (S3), JaqOnCraq (S3), jommyappleseed (S3), Klickacat (S3), natsuvi (S3), nFang (S3), nsket (S3), Phoraxe (S3), pigghetti (S3), Psykl0ne (S3), WackoFlipper (S3)
 
@@ -160,7 +160,7 @@
 
 **S1 (24):** _Dieter, AsianCheatCode, AvyleZ, Biwitch, CHAINGE, cherryblawsom, Doopaboy, Doormatt65, Drake132667596, evuhlynx, flameorb, Glarza, Gorgerous, illuminaja, Jahrod, lunne, PresidentFleb, RabidChipmunk, Ryfri, SiahStone, silent_spriicket, Supersun_, TehBaconBrawlerZ, TheSlimeBrother
 
-**S2 (22):** _ChrisMS, _pbo, 6BU, Alacan, ArcticSeagull, Aybel, BardMain2, ColdBac, Cqson, DJoee, ERHDude, Fra49, frogsella, kirbey, MaxEvasion, ohh_lia, Rogue_Batman, Rohcket, ShyGus, Spacepod_, Spongey, ZachMcD
+**S2 (22):** _ChrisMS, _pbo, 6BU, Alacan, ArcticSeagull, Aybel, BardMain2, ColdBac, Cqson, DJoee, ERHDude, Fra49, frogsella, kirbey, MaxEvasion, puppygirlmaple, Rogue_Batman, Rohcket, ShyGus, Spacepod_, Spongey, ZachMcD
 
 **S3 (12):** branman, Brodator, JaqOnCraq, jommyappleseed, Klickacat, natsuvi, nFang, nsket, Phoraxe, pigghetti, Psykl0ne, WackoFlipper
 

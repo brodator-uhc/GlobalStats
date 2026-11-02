@@ -4,9 +4,9 @@ namespace StatsAnalyzer
 {
     public class KillsAnalyzer
     {
-        public static void GetKills(List<GlobalStats> globalStatsList, RedditPosts redditPosts, List<KillsList> killsList, 
-            List<StatsList> firstBloodList, List<StatsList> pveDeathList, List<PveCausesList> pveCausesList, SeasonInfo seasonInfo, 
-            Dictionary<String, int> killboard, String seasonNumberPost, IXLRange killerRange)
+        public static void GetKills(List<GlobalStats> globalStatsList, RedditPosts redditPosts, List<KillsList> killsList,
+            List<StatsList> firstBloodList, List<StatsList> pveDeathList, List<PveCausesList> pveCausesList, List<MethodList> methodList,
+            SeasonInfo seasonInfo, Dictionary<String, int> killboard, String seasonNumberPost, IXLRange killerRange)
         {
             bool firstBlood = false;
             foreach (IXLCell killCell in killerRange.Cells())
@@ -14,6 +14,33 @@ namespace StatsAnalyzer
                 String killer = killCell.GetString();
                 String victim = killCell.CellLeft(2).GetString();
                 String method = killCell.CellLeft().GetString();
+
+                //Compiles all methods
+                if (!method.Equals(""))
+                {
+                    if (!method.Equals("Winner"))
+                    {
+                        if (seasonInfo.IsCrossoverSeason == false)
+                        {
+                            if (methodList.Any(p => p.Method == method))
+                            {
+                                MethodList.UpdateMethod(methodList, method);
+                            }
+                            else
+                            {
+                                methodList.Add(new MethodList(method, 1));
+                            }
+                        }
+                    }
+                }
+                else
+                {
+                    if (!killer.Equals("Nothing"))
+                    {
+                        Console.ForegroundColor = ConsoleColor.Yellow;
+                        Console.WriteLine("ERROR: Method missing! " + seasonInfo.SeasonName + " " + seasonInfo.SeasonNumber);
+                    }
+                }
 
                 //Checks if killer is PvE or Player
                 if (globalStatsList.Any(p => p.Player == killer))
@@ -68,7 +95,7 @@ namespace StatsAnalyzer
                                 String secondHalfKill = killCell.CellBelow().CellLeft(2).GetString();
 
                                 redditPosts.FirstBlood.Add("**S" + seasonNumberPost + ":** " + killer + " & " + secondHalf + " (" + victim + " & " + secondHalfKill + ")" + Environment.NewLine);
-                                
+
                                 GlobalStats.UpdateFirstBloods(globalStatsList, secondHalf);
                                 firstBloodList.Add(new StatsList(seasonInfo, secondHalf));
                             }

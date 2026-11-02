@@ -61,7 +61,7 @@
 
 **1st - Austronomical (9):** DevoyTTV (S1), Normoh (S1), PresidentFleb (S1), St0rmplayz (S1), CloseYourLegs (S2), Moonlitess (S2), _ChrisMS (S2), ERHDude (S2), HigmanFreud (S2)
 
-**2nd - Kelawesome (5):** Arich (S1), PatCreeperBrown (S1), mekolame (S1), Daltun (S2), _Fost_ (S2)
+**2nd - Kelawesome (5):** Arich (S1), SmolHatChild (S1), mekolame (S1), Daltun (S2), _Fost_ (S2)
 
 **2nd - vynil (5):** Abdalain (S1), Markedbooboy (S1), Slooshyy (S1), brinkwhy (S1), Caydone (S1)
 
@@ -115,12 +115,12 @@
 
 **2 Seasons (12):** _ChrisMS (S1-S2), Abdalain (S1-S2), Alacan (S1-S2), Austronomical (S1-S2), azoof (S1-S2), brinkwhy (S1-S2), Brocko (S1-S2), HigmanFreud (S1-S2), Kelawesome (S1-S2), PresidentFleb (S1-S2), Slooshyy (S1-S2), St0rmplayz (S1-S2)
 
-**1 Season (36):** 6BU (S1), aalaan (S1), Arich (S1), BigJedo (S1), Caydone (S1), Codwhy (S1), DevoyTTV (S1), ElGavinoSupremo (S1), GhostLikesCakes (S1), JamestheDouglas (S1), Markedbooboy (S1), mekolame (S1), Normoh (S1), PatCreeperBrown (S1), Psykl0ne (S1), vynil (S1), _Fost_ (S2), _mrcool (S2), ADinoPlayingMC (S2), braidenOW (S2), Broseph (S2), CloseYourLegs (S2), Daltun (S2), DatGuyAdam (S2), egl_ (S2), ERHDude (S2), ImChile (S2), IsoLights (S2), Lucarrio (S2), Lunar_ (S2), MajorWoof (S2), Moonlitess (S2), strategy (S2), SummerBqsh (S2), Tharve (S2), Zoos (S2)
+**1 Season (36):** 6BU (S1), aalaan (S1), Arich (S1), BigJedo (S1), Caydone (S1), Codwhy (S1), DevoyTTV (S1), ElGavinoSupremo (S1), GhostLikesCakes (S1), JamestheDouglas (S1), Markedbooboy (S1), mekolame (S1), Normoh (S1), Psykl0ne (S1), SmolHatChild (S1), vynil (S1), _Fost_ (S2), _mrcool (S2), ADinoPlayingMC (S2), braidenOW (S2), Broseph (S2), CloseYourLegs (S2), Daltun (S2), DatGuyAdam (S2), egl_ (S2), ERHDude (S2), ImChile (S2), IsoLights (S2), Lucarrio (S2), Lunar_ (S2), MajorWoof (S2), Moonlitess (S2), strategy (S2), SummerBqsh (S2), Tharve (S2), Zoos (S2)
 
 ---
 ### Debutants
 
-**S1 (28):** _ChrisMS, 6BU, aalaan, Abdalain, Alacan, Arich, Austronomical, azoof, BigJedo, brinkwhy, Brocko, Caydone, Codwhy, DevoyTTV, ElGavinoSupremo, GhostLikesCakes, HigmanFreud, JamestheDouglas, Kelawesome, Markedbooboy, mekolame, Normoh, PatCreeperBrown, PresidentFleb, Psykl0ne, Slooshyy, St0rmplayz, vynil
+**S1 (28):** _ChrisMS, 6BU, aalaan, Abdalain, Alacan, Arich, Austronomical, azoof, BigJedo, brinkwhy, Brocko, Caydone, Codwhy, DevoyTTV, ElGavinoSupremo, GhostLikesCakes, HigmanFreud, JamestheDouglas, Kelawesome, Markedbooboy, mekolame, Normoh, PresidentFleb, Psykl0ne, Slooshyy, SmolHatChild, St0rmplayz, vynil
 
 **S2 (20):** _Fost_, _mrcool, ADinoPlayingMC, braidenOW, Broseph, CloseYourLegs, Daltun, DatGuyAdam, egl_, ERHDude, ImChile, IsoLights, Lucarrio, Lunar_, MajorWoof, Moonlitess, strategy, SummerBqsh, Tharve, Zoos
 

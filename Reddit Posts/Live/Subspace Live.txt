@@ -105,7 +105,7 @@
 
 **5th - noktime (8):** MarcC5M (S1), Kaddyn (S1), poWpaH (S2), Ninetals38 (S2), Stravilight (S2), SpaceFenix (S2), Geroot (S2), CodeJoshua (S2)
 
-**8th - Fcrm (6):** kawaiibunri (S2), Geroot (S4), SpaceFenix (S4), Ryfri (S4), strategy (S4), ShootingGoats (S4)
+**8th - Fcrm (6):** evuhlynx (S2), Geroot (S4), SpaceFenix (S4), Ryfri (S4), strategy (S4), ShootingGoats (S4)
 
 **9th - DJoee (4):** Stravilight (S1), benidk (S1), omchris (S1), Bornyo (S1)
 
@@ -121,9 +121,9 @@
 
 **14th - alexnv (2):** AshRiolu100985 (S4), ScaryPumpkinFace (S4)
 
-**14th - BuildingBard300 (2):** kawaiibunri (S1), CodeJoshua (S1)
+**14th - BuildingBard300 (2):** evuhlynx (S1), CodeJoshua (S1)
 
-**14th - kawaiibunri (2):** Fcrm (S2), MichaelPlayMC (S3)
+**14th - evuhlynx (2):** Fcrm (S2), MichaelPlayMC (S3)
 
 **14th - nsket (2):** DevoyTTV (S3), Lucarrio (S3)
 
@@ -133,7 +133,7 @@
 
 **14th - Stravilight (2):** _1mmortal_ (S1), Vetmire (S1)
 
-**14th - UbiquityHD (2):** kawaiibunri (S3), Geroot (S3)
+**14th - UbiquityHD (2):** evuhlynx (S3), Geroot (S3)
 
 **14th - Vetmire (2):** Sotrix (S1), TheSlimeBrother (S1)
 
@@ -143,7 +143,7 @@
 
 **24th - DrSliced (1):** benidk (S2)
 
-**24th - Gorgerous (1):** kawaiibunri (S4)
+**24th - Gorgerous (1):** evuhlynx (S4)
 
 **24th - Hecticity (1):** CAMKART100 (S4)
 
@@ -167,7 +167,7 @@
 ---
 ### Participation
 
-**4 Seasons (9):** _1mmortal_ (S1-S4), benidk (S1-S4), broccoliar (S1-S4), CAMKART100 (S1-S4), Fcrm (S1-S4), Kaismartypants (S1-S4), kawaiibunri (S1-S4), Stravilight (S1-S4), TheSlimeBrother (S1-S4)
+**4 Seasons (9):** _1mmortal_ (S1-S4), benidk (S1-S4), broccoliar (S1-S4), CAMKART100 (S1-S4), evuhlynx (S1-S4), Fcrm (S1-S4), Kaismartypants (S1-S4), Stravilight (S1-S4), TheSlimeBrother (S1-S4)
 
 **3 Seasons (12):** _carn (S1-S2,S4), BoltsInCharge (S1-S3), ChainingVermin2 (S1-S3), CodeJoshua (S1-S2,S4), CommanderK22_ (S1-S3), MichaelPlayMC (S1-S3), omchris (S1-S3), poWpaH (S1-S3), ArcticSeagull (S2-S4), Geroot (S2-S4), ShootingGoats (S2-S4), SpaceFenix (S2-S4)
 
@@ -178,7 +178,7 @@
 ---
 ### Debutants
 
-**S1 (33):** _1mmortal_, _carn, AirInAirOut, bayweafs, benidk, BoltsInCharge, Bornyo, broccoliar, BuildingBard300, CAMKART100, ChainingVermin2, CodeJoshua, CommanderK22_, DJoee, DogOfKrondor, Fcrm, ItsShqky, Kaddyn, Kaismartypants, kawaiibunri, MarcC5M, MichaelPlayMC, Ninetals38, noktime, omchris, poWpaH, Sharkbob94349, Sotrix, strategy, Stravilight, TheSlimeBrother, Vetmire, Westcraft00
+**S1 (33):** _1mmortal_, _carn, AirInAirOut, bayweafs, benidk, BoltsInCharge, Bornyo, broccoliar, BuildingBard300, CAMKART100, ChainingVermin2, CodeJoshua, CommanderK22_, DJoee, DogOfKrondor, evuhlynx, Fcrm, ItsShqky, Kaddyn, Kaismartypants, MarcC5M, MichaelPlayMC, Ninetals38, noktime, omchris, poWpaH, Sharkbob94349, Sotrix, strategy, Stravilight, TheSlimeBrother, Vetmire, Westcraft00
 
 **S2 (10):** ArcticSeagull, CHAINGE, cherryblawsom, DrSliced, Geroot, KineticYT, ShootingGoats, SpaceFenix, Spongey, stupidsylvia
 

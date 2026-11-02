@@ -493,7 +493,7 @@
 
 **6th - TommySuX (18):** AndrizzlePC (S4), scriblur (S6), Kakintse (S7), AndrizzlePC (S7), scriblur (S9), MrCraftinator (S9), KirbyMD (S9), ThePeridotKnight (S11), LongaVita (S12), Cyonal (S12), jamertxn (S12), scriblur (S12), LeonTG (S12), Micale (S16), Regifloat (S16), VeniiiD (S16), TastyBaconZ (S22), Regifloat (S24)
 
-**10th - Bobbytheturtle (17):** 5hup (S27), SpaceFenix (S27), Greeples (S27), TastyBaconZ (S27), Hoppy (S28), MaxEvasion (S28), buttergolem1 (S28), ShootingGoats (S28), cherryblawsom (S28), centraleric (S28), WackoFlipper (S28), Havenhand (S28), TheKevGuy (S28), Maxwellfifty (S28), MarcC5M (S28), SpaceFenix (S28), MercuryParadox (S28)
+**10th - Bobbytheturtle (17):** 5hup (S27), SpaceFenix (S27), Greeples (S27), TastyBaconZ (S27), Hoppy (S28), MaxEvasion (S28), buttergolem1 (S28), ShootingGoats (S28), cherryblawsom (S28), centraleric (S28), WackoFlipper (S28), Havenhand (S28), TheKevJawn (S28), Maxwellfifty (S28), MarcC5M (S28), SpaceFenix (S28), MercuryParadox (S28)
 
 **11th - 5kylord (16):** Regifloat (S12), DianaB (S13), orcau (S13), MarcC5M (S13), Flouzemaker (S13), MrCraftinator (S14), orcau (S15), Cyonal (S16), Chasmic (S18), buttergolem1 (S18), Micale (S18), ColdBac (S18), Frostbreath (S18), Bergasms (S19), OddBaller (S19), Pehnk (S25)
 
@@ -801,7 +801,7 @@
 
 **2 Seasons (20):** Pippiter (S1-S2), ColdFusion5 (S2-S3), Bagpipehero (S3-S4), Neoscys (S3-S4), Dylarno (S6-S7), bytexal (S7,S11), Shadowlego (S8,S12), LeonTG (S11-S12), _Frankie (S16,S19), OddBaller (S19-S20), KOKeowner (S20,S28), pigghetti (S20,S28), H_L_llama (S22-S23), VintageBeef (S22-S23), TorinFBF (S24-S25), Rohcket (S25-S26), Bobbytheturtle (S27-S28), firefoxvulpix (S27-S28), ShootingGoats (S27-S28), SpaceFenix (S27-S28)
 
-**1 Season (51):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), marcaron (S27), 78ford (S28), centraleric (S28), ChainingVermin2 (S28), cherryblawsom (S28), chloesad (S28), commitstaxfraud (S28), CrowJRC (S28), DJoee (S28), Fourbitplayer (S28), Gorgerous (S28), Hacn35 (S28), Hoppy (S28), kirbey (S28), Klickacat (S28), lottebunny (S28), MajorWoof (S28), MaxEvasion (S28), MercuryParadox (S28), Nintendoshi (S28), Potsie (S28), tagggz (S28), TheKevGuy (S28), TheRealHagrid (S28), WackoFlipper (S28), warriorcat (S28), YellowVitt (S28)
+**1 Season (51):** Belrus (S1), OddyC (S1), EirenePneuma (S2), Mentally (S6), KTRBoT (S10), JonnyFairplay (S14), dnnyys (S15), AnUncreativeCat (S16), Kieranborn (S16), kloosman (S16), MistaUnicorn (S17), BreakSalad (S20), joeykin (S20), Krenzinator (S20), LordLaelaps (S20), Mop19 (S20), nihontiger (S20), QuilJ1 (S20), Ratchet6859 (S20), silverteeth (S20), sonmica (S20), TheSonicJoey (S20), Flohp (S25), Heralen (S25), marcaron (S27), 78ford (S28), centraleric (S28), ChainingVermin2 (S28), cherryblawsom (S28), chloesad (S28), commitstaxfraud (S28), CrowJRC (S28), DJoee (S28), Fourbitplayer (S28), Gorgerous (S28), Hacn35 (S28), Hoppy (S28), kirbey (S28), Klickacat (S28), lottebunny (S28), MajorWoof (S28), MaxEvasion (S28), MercuryParadox (S28), Nintendoshi (S28), Potsie (S28), tagggz (S28), TheKevJawn (S28), TheRealHagrid (S28), WackoFlipper (S28), warriorcat (S28), YellowVitt (S28)
 
 ---
 ### Debutants
@@ -860,6 +860,6 @@
 
 **S27 (5):** Bobbytheturtle, firefoxvulpix, marcaron, ShootingGoats, SpaceFenix
 
-**S28 (26):** 78ford, centraleric, ChainingVermin2, cherryblawsom, chloesad, commitstaxfraud, CrowJRC, DJoee, Fourbitplayer, Gorgerous, Hacn35, Hoppy, kirbey, Klickacat, lottebunny, MajorWoof, MaxEvasion, MercuryParadox, Nintendoshi, Potsie, tagggz, TheKevGuy, TheRealHagrid, WackoFlipper, warriorcat, YellowVitt
+**S28 (26):** 78ford, centraleric, ChainingVermin2, cherryblawsom, chloesad, commitstaxfraud, CrowJRC, DJoee, Fourbitplayer, Gorgerous, Hacn35, Hoppy, kirbey, Klickacat, lottebunny, MajorWoof, MaxEvasion, MercuryParadox, Nintendoshi, Potsie, tagggz, TheKevJawn, TheRealHagrid, WackoFlipper, warriorcat, YellowVitt
 
 ---

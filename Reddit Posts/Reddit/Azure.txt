@@ -19,7 +19,7 @@
 
 **S8: SoulRawr (5)**
 
-**S9: SrTortuga (2)**, *HshSlinginSlashr (1)*
+**S9: srtortuga (2)**, *HshSlinginSlashr (1)*
 
 **S10: fruitberries (4)**
 
@@ -44,6 +44,8 @@
 **S19: _1mmortal_ (0)**
 
 **S20: Caydone (7)**, *Charrlottie (0)*
+
+**S21: SpaceFenix (2), ThisIsHab (2)**
 
 ---
 ### Runner Ups
@@ -90,6 +92,8 @@
 
 **S20:** MercuryParadox (0), natsuvi (2)
 
+**S21:** commitstaxfraud (1), ItsColinn (1)
+
 ---
 ### Most Kills
 
@@ -134,6 +138,8 @@
 **S19:** marcusmtm (2)
 
 **S20:** Austronomical, Caydone (7)
+
+**S21:** mekolame (5)
 
 ---
 ### Most Kills (Team)
@@ -180,6 +186,8 @@
 
 **S20:** Austronomical (7), Br8dy_ (0) & Caydone (7), Charrlottie (0)
 
+**S21:** Br8dy_ (1), Spongey (4) & Centrios (0), mekolame (5)
+
 ---
 ### First Damage
 
@@ -225,6 +233,8 @@
 
 **S20:** Greeples (0:3:53)
 
+**S21:** Br8dy_ (0:1:21)
+
 ---
 ### Ironman
 
@@ -244,7 +254,7 @@
 
 **S8:** SoulRawr (0:48:56)
 
-**S9:** SrTortuga (1:19:10)
+**S9:** srtortuga (1:19:10)
 
 **S10:** Fictional (1:13:50)
 
@@ -269,6 +279,8 @@
 **S19:** lexicuhl (1:14:53)
 
 **S20:** JasonBPE (1:32:2)
+
+**S21:** Gorgerous (0:51:42)
 
 ---
 ### First Blood
@@ -315,6 +327,8 @@
 
 **S20:** automavic (Greeples)
 
+**S21:** mekolame (Gorgerous)
+
 ---
 ### First Death
 
@@ -360,48 +374,50 @@
 
 **S20:** Greeples (automavic)
 
+**S21:** Kaismartypants (Burning)
+
 ---
 ### Kills
 
-**1st - ItsColinn (35):** IceshardEleven (S4), JRjoos (S4), stupidgirltv (S8), fruitberries (S8), ShyGus (S10), PenguinBagels (S10), Centrios (S10), sigilyph (S10), Arich (S10), Ryfri (S10), Centrios (S12a), Jayzize (S12a), Kelawesome (S12a), commitstaxfraud (S12b), BardMain2 (S12b), brinkwhy (S12b), azoof (S12b), Sorvent (S13), flameorb (S13), ConBeanJones (S14), Sorvent (S14), Charrlottie (S14), natsuvi (S15), Digitale (S16), ThisIsHab (S16), JustNolan (S16), Sorvent (S17), SpaceFenix (S17), DevoyTTV (S17), natsuvi (S17), Spongey (S17), CipherKai (S17), Blarkslol (S17), brinkwhy (S17), 4EyedSlime (S20)
+**1st - ItsColinn (36):** IceshardEleven (S4), JRjoos (S4), stupidgirltv (S8), fruitberries (S8), ShyGus (S10), PenguinBagels (S10), Centrios (S10), sigilyph (S10), Arich (S10), Ryfri (S10), Centrios (S12a), Jayzize (S12a), Kelawesome (S12a), commitstaxfraud (S12b), BardMain2 (S12b), brinkwhy (S12b), azoof (S12b), Sorvent (S13), flameorb (S13), ConBeanJones (S14), Sorvent (S14), Charrlottie (S14), natsuvi (S15), Digitale (S16), ThisIsHab (S16), JustNolan (S16), Sorvent (S17), SpaceFenix (S17), DevoyTTV (S17), natsuvi (S17), Spongey (S17), CipherKai (S17), Blarkslol (S17), brinkwhy (S17), 4EyedSlime (S20), cherryblawsom (S21)
 
 **2nd - CipherKai (24):** marcusmtm (S11), Broseph (S12b), DJoee (S12b), GamerNthn (S12b), milkteaboards (S14), marcusmtm (S14), DJoee (S14), colbay (S14), swishduck (S15), commitstaxfraud (S15), Sorvent (S15), Daltun (S15), ItsColinn (S15), Spongey (S15), ChainingVermin2 (S17), marcusmtm (S17), 4EyedSlime (S17), Plushy33 (S17), swishduck (S17), JahMuis (S17), Ryfri (S17), cherryblawsom (S17), Ryfri (S20), Ozzyowo (S20)
 
 **3rd - JustNolan (15):** JasonBPE (S3), ItsColinn (S12a), commitstaxfraud (S12a), ColdBac (S12a), swishduck (S16), braidenOW (S16), brinkwhy (S16), natsuvi (S16), Spongey (S16), FrostBros (S16), SpaceFenix (S18), MaxEvasion (S20), GamerNthn (S20), skrunklee (S20), automavic (S20)
 
-**4th - fruitberries (13):** Potsie (S8), FrostBros (S10), Chasmic (S10), Potsie (S10), ItsColinn (S10), Centrios (S11), Daltun (S11), Kelawesome (S14), AmandaWest (S14), flameorb (S14), MercuryParadox (S14), Caydone (S14), ohh_lia (S20)
+**4th - fruitberries (13):** Potsie (S8), FrostBros (S10), Chasmic (S10), Potsie (S10), ItsColinn (S10), Centrios (S11), Daltun (S11), Kelawesome (S14), AmandaWest (S14), flameorb (S14), MercuryParadox (S14), Caydone (S14), puppygirlmaple (S20)
+
+**4th - Spongey (13):** DrSliced (S12b), Arich (S12b), ItsColinn (S12b), kirbey (S13), marcusmtm (S15), Jayzize (S16), zCent (S17), _1mmortal_ (S20), JahMuis (S20), _1mmortal_ (S21), SpheaI (S21), commitstaxfraud (S21), mekolame (S21)
 
 **4th - Zudoia (13):** iRyciL (S2), SpheaI (S2), ConBeanJones (S2), ChainingVermin2 (S2), ItsColinn (S2), VyperMC (S3), EndFlame (S3), Fieryz (S3), Sorvent (S5), fruitberries (S9), _Vivac (S9), sigilyph (S9), Coward (S9)
 
-**6th - marcusmtm (12):** frogsella (S11), ColdBac (S11), CipherKai (S11), swishduck (S14), Codwhy (S15), AHSOKATANOSTAN (S15), Hecticity (S18), Greeples (S18), swishduck (S19), aalaan (S19), Iplayball (S20), ColdBac (S20)
+**7th - marcusmtm (12):** frogsella (S11), ColdBac (S11), CipherKai (S11), swishduck (S14), Codwhy (S15), AHSOKATANOSTAN (S15), Hecticity (S18), Greeples (S18), swishduck (S19), aalaan (S19), Iplayball (S20), ColdBac (S20)
 
-**6th - Zahkari (12):** ItsFishy (S7), ChainingVermin2 (S7), _Vivac (S8), IceshardEleven (S8), Zudoia (S9), HshSlinginSlashr (S9), Fensua (S10), SiahStone (S11), swishduck (S11), Spongey (S11), Ryfri (S11), xCand (S11)
+**7th - Zahkari (12):** ItsFishy (S7), ChainingVermin2 (S7), _Vivac (S8), IceshardEleven (S8), Zudoia (S9), HshSlinginSlashr (S9), Fensua (S10), SiahStone (S11), swishduck (S11), Spongey (S11), Ryfri (S11), xCand (S11)
 
-**8th - ChainingVermin2 (11):** Sorvent (S2), ItsColinn (S4), babyhiccups (S4), chloesad (S7), Iplayball (S9), MaxEvasion (S17), brinkwhy (S18), CipherKai (S18), Fcrm (S18), JustNolan (S18), Blarkslol (S18)
+**9th - ChainingVermin2 (11):** Sorvent (S2), ItsColinn (S4), babyhiccups (S4), chloesad (S7), Iplayball (S9), MaxEvasion (S17), brinkwhy (S18), CipherKai (S18), Fcrm (S18), JustNolan (S18), Blarkslol (S18)
 
-**8th - DJoee (11):** HigmanFreud (S12a), olivieh (S12b), Jayzize (S13), Ryfri (S13), Zevulpes (S13), Cyndic (S13), brinkwhy (S13), AsianCheatCode (S14), Jayzize (S14), Fictional (S14), ItsColinn (S14)
+**9th - DJoee (11):** HigmanFreud (S12a), olivieh (S12b), Jayzize (S13), Ryfri (S13), Zevulpes (S13), Cyndic (S13), brinkwhy (S13), AsianCheatCode (S14), Jayzize (S14), Fictional (S14), ItsColinn (S14)
 
-**8th - Sorvent (11):** smellay (S1), sigilyph (S1), ChainingVermin2 (S1), JasonBPE (S2), ChainingVermin2 (S4), Fictional (S8), Rawkeyy (S10), ChainingVermin2 (S11), Kelawesome (S12b), GamerNthn (S18), Iplayball (S18)
+**9th - Sorvent (11):** smellay (S1), sigilyph (S1), ChainingVermin2 (S1), JasonBPE (S2), ChainingVermin2 (S4), Fictional (S8), Rawkeyy (S10), ChainingVermin2 (S11), Kelawesome (S12b), GamerNthn (S18), Iplayball (S18)
 
-**11th - Caydone (10):** DJoee (S13), MinecrafNinja (S14), Kaismartypants (S14), lqndslide (S20), IceshardEleven (S20), JasonBPE (S20), zCent (S20), Jayzize (S20), lexicuhl (S20), natsuvi (S20)
+**12th - Caydone (10):** DJoee (S13), MinecrafNinja (S14), Kaismartypants (S14), lqndslide (S20), IceshardEleven (S20), JasonBPE (S20), zCent (S20), Jayzize (S20), lexicuhl (S20), natsuvi (S20)
 
-**12th - ConBeanJones (9):** JahMuis (S2), MercuryParadox (S3), JahMuis (S3), Sorvent (S6), MinecrafNinja (S6), sigilyph (S6), Potsie (S6), Iplayball (S6), Austronomical (S14)
+**13th - cherryblawsom (9):** Fictional (S5), heyitskylie (S5), sigilyph (S5), JRjoos (S8), lexicuhl (S12b), ColdBac (S14), Normoh (S14), ColdBac (S17), TonyEatWorld (S21)
 
-**12th - Fcrm (9):** ItsColinn (S11), Coward (S11), Kaismartypants (S11), swishduck (S12a), Sorvent (S12b), JustNolan (S12b), CipherKai (S12b), automavic (S19), braidenOW (S20)
+**13th - ConBeanJones (9):** JahMuis (S2), MercuryParadox (S3), JahMuis (S3), Sorvent (S6), MinecrafNinja (S6), sigilyph (S6), Potsie (S6), Iplayball (S6), Austronomical (S14)
 
-**12th - Ryfri (9):** DyeItTight (S5), cynnamon (S9), Sorvent (S10), Fictional (S10), GamerNthn (S12a), GamerNthn (S13), SiahStone (S14), TehBaconBrawlerZ (S17), _1mmortal_ (S17)
+**13th - Fcrm (9):** ItsColinn (S11), Coward (S11), Kaismartypants (S11), swishduck (S12a), Sorvent (S12b), JustNolan (S12b), CipherKai (S12b), automavic (S19), braidenOW (S20)
 
-**12th - Spongey (9):** DrSliced (S12b), Arich (S12b), ItsColinn (S12b), kirbey (S13), marcusmtm (S15), Jayzize (S16), zCent (S17), _1mmortal_ (S20), JahMuis (S20)
+**13th - Ryfri (9):** DyeItTight (S5), cynnamon (S9), Sorvent (S10), Fictional (S10), GamerNthn (S12a), GamerNthn (S13), SiahStone (S14), TehBaconBrawlerZ (S17), _1mmortal_ (S17)
 
-**16th - cherryblawsom (8):** Fictional (S5), heyitskylie (S5), sigilyph (S5), JRjoos (S8), lexicuhl (S12b), ColdBac (S14), Normoh (S14), ColdBac (S17)
+**17th - Fictional (8):** JRjoos (S1), Sorvent (S1), allena (S1), DerkThePig (S1), ConBeanJones (S1), JustNolan (S5), ConBeanJones (S6), guccibulletvest (S10)
 
-**16th - Fictional (8):** JRjoos (S1), Sorvent (S1), allena (S1), DerkThePig (S1), ConBeanJones (S1), JustNolan (S5), ConBeanJones (S6), guccibulletvest (S10)
+**17th - JasonBPE (8):** sigilyph (S4), JahMuis (S4), Iplayball (S4), Sorvent (S4), JustNolan (S4), ConBeanJones (S7), Potsie (S7), Fictional (S7)
 
-**16th - JasonBPE (8):** sigilyph (S4), JahMuis (S4), Iplayball (S4), Sorvent (S4), JustNolan (S4), ConBeanJones (S7), Potsie (S7), Fictional (S7)
+**17th - MaxEvasion (8):** srtortuga (S11), Fcrm (S11), ShyGus (S11), brinkwhy (S12a), Fcrm (S12a), Codwhy (S18), CodeJoshua (S18), ColdBac (S18)
 
-**16th - MaxEvasion (8):** SrTortuga (S11), Fcrm (S11), ShyGus (S11), brinkwhy (S12a), Fcrm (S12a), Codwhy (S18), CodeJoshua (S18), ColdBac (S18)
-
-**16th - swishduck (8):** handpicked (S11), FrostBros (S12a), kirbey (S12b), FrostBros (S14), Levrez (S15), brinkwhy (S15), braidenOW (S17), FrostBros (S17)
+**17th - swishduck (8):** handpicked (S11), FrostBros (S12a), kirbey (S12b), FrostBros (S14), Levrez (S15), brinkwhy (S15), braidenOW (S17), FrostBros (S17)
 
 **21st - Austronomical (7):** Kelawesome (S20), brinkwhy (S20), DevoyTTV (S20), fruitberries (S20), ProGirlGamer (S20), Br8dy_ (S20), ItsColinn (S20)
 
@@ -411,7 +427,7 @@
 
 **24th - Centrios (6):** smellay (S3), SpheaI (S3), vegis (S3), sigilyph (S3), ConBeanJones (S3), ChainingVermin2 (S9)
 
-**24th - Iplayball (6):** JustNolan (S3), MercuryParadox (S4), Grek_ (S4), SpheaI (S5), SpheaI (S6), Coward (S6)
+**24th - Iplayball (6):** JustNolan (S3), MercuryParadox (S4), Pelemelee (S4), SpheaI (S5), SpheaI (S6), Coward (S6)
 
 **24th - lexicuhl (6):** Potsie (S12a), Kaismartypants (S12a), olivieh (S13), _Fost_ (S15), CipherKai (S20), JustNolan (S20)
 
@@ -419,143 +435,151 @@
 
 **24th - sigilyph (6):** ChainingVermin2 (S5), babyhiccups (S5), Sorvent (S8), Levrez (S8), cherryblawsom (S9), ItsColinn (S9)
 
-**29th - Arich (5):** Zahkari (S10), JRjoos (S10), Fictional (S11), FrostBros (S11), Chasmic (S11)
+**24th - SpaceFenix (6):** Ryfri (S16), JustNolan (S19), AHSOKATANOSTAN (S20), wizarde (S20), Spongey (S21), ItsColinn (S21)
 
-**29th - azoof (5):** zCent (S12b), swishduck (S12b), Kaismartypants (S12b), cherryblawsom (S12b), HshSlinginSlashr (S12b)
+**30th - 4EyedSlime (5):** Sorvent (S16), ChainingVermin2 (S16), stupidgirltv (S18), Cyclops (S20), GamerNthn (S21)
 
-**29th - brinkwhy (5):** lasdarling (S13), Kaismartypants (S13), GoldenNs (S17), ToontownOnline (S17), JustNolan (S17)
+**30th - Arich (5):** Zahkari (S10), JRjoos (S10), Fictional (S11), FrostBros (S11), Chasmic (S11)
 
-**29th - colbay (5):** GamerNthn (S14), olivieh (S14), natsuvi (S14), JasonBPE (S14), Spongey (S14)
+**30th - azoof (5):** zCent (S12b), swishduck (S12b), Kaismartypants (S12b), cherryblawsom (S12b), HshSlinginSlashr (S12b)
 
-**29th - ColdBac (5):** lexicuhl (S15), Codwhy (S16), aalaan (S18), _1mmortal_ (S18), _Fost_ (S20)
+**30th - brinkwhy (5):** lasdarling (S13), Kaismartypants (S13), GoldenNs (S17), ToontownOnline (S17), JustNolan (S17)
 
-**29th - Coward (5):** vexio (S5), JasonBPE (S5), cherryblawsom (S5), Ryfri (S9), sigilyph (S11)
+**30th - colbay (5):** GamerNthn (S14), olivieh (S14), natsuvi (S14), JasonBPE (S14), Spongey (S14)
 
-**29th - IceshardEleven (5):** DjSprayK (S3), ItsFishy (S6), MercuryParadox (S7), MinecrafNinja (S7), ItsFishy (S8)
+**30th - ColdBac (5):** lexicuhl (S15), Codwhy (S16), aalaan (S18), _1mmortal_ (S18), _Fost_ (S20)
 
-**29th - SoulRawr (5):** Abdalain (S8), JasonBPE (S8), ItsColinn (S8), sigilyph (S8), cherryblawsom (S8)
+**30th - Coward (5):** wtbarce (S5), JasonBPE (S5), cherryblawsom (S5), Ryfri (S9), sigilyph (S11)
 
-**29th - zCent (5):** skrunklee (S16), aalaan (S17), 5kylord (S20), MercuryParadox (S20), ChainingVermin2 (S20)
+**30th - IceshardEleven (5):** DjSprayK (S3), ItsFishy (S6), MercuryParadox (S7), MinecrafNinja (S7), ItsFishy (S8)
 
-**38th - _Vivac (4):** DyeItTight (S8), Rawkeyy (S9), SoulRawr (S9), FrostBros (S9)
+**30th - mekolame (5):** Gorgerous (S21), FrostBros (S21), Sorvent (S21), brinkwhy (S21), 4EyedSlime (S21)
 
-**38th - 4EyedSlime (4):** Sorvent (S16), ChainingVermin2 (S16), stupidgirltv (S18), Cyclops (S20)
+**30th - SoulRawr (5):** Abdalain (S8), JasonBPE (S8), ItsColinn (S8), sigilyph (S8), cherryblawsom (S8)
 
-**38th - automavic (4):** Ryfri (S19), Greeples (S20), Ratchet6859 (S20), milkteaboards (S20)
+**30th - zCent (5):** skrunklee (S16), aalaan (S17), 5kylord (S20), MercuryParadox (S20), ChainingVermin2 (S20)
 
-**38th - babyhiccups (4):** ConBeanJones (S4), stupidgirltv (S5), Zudoia (S5), Ryfri (S5)
+**41st - _Vivac (4):** DyeItTight (S8), Rawkeyy (S9), SoulRawr (S9), FrostBros (S9)
 
-**38th - Blxckinq (4):** MercuryParadox (S16), fruitberries (S16), cherryblawsom (S16), aalaan (S16)
+**41st - automavic (4):** Ryfri (S19), Greeples (S20), Ratchet6859 (S20), milkteaboards (S20)
 
-**38th - HshSlinginSlashr (4):** Centrios (S9), Ryfri (S12b), MaxEvasion (S12b), Codwhy (S17)
+**41st - babyhiccups (4):** ConBeanJones (S4), stupidgirltv (S5), Zudoia (S5), Ryfri (S5)
 
-**38th - Jayzize (4):** Zahkari (S12a), DrSliced (S13), megatallicayer (S20), Normoh (S20)
+**41st - Blxckinq (4):** MercuryParadox (S16), fruitberries (S16), cherryblawsom (S16), aalaan (S16)
 
-**38th - JRjoos (4):** loveletterss (S1), Zahkari (S1), SpheaI (S1), cherryblawsom (S10)
+**41st - commitstaxfraud (4):** Broseph (S12a), MaxEvasion (S12a), zCent (S15), wizarde (S21)
 
-**38th - SpaceFenix (4):** Ryfri (S16), JustNolan (S19), AHSOKATANOSTAN (S20), wizarde (S20)
+**41st - HshSlinginSlashr (4):** Centrios (S9), Ryfri (S12b), MaxEvasion (S12b), Codwhy (S17)
 
-**47th - Codwhy (3):** ColdBac (S15), Fictional (S16), HshSlinginSlashr (S17)
+**41st - Jayzize (4):** Zahkari (S12a), DrSliced (S13), megatallicayer (S20), Normoh (S20)
 
-**47th - commitstaxfraud (3):** Broseph (S12a), MaxEvasion (S12a), zCent (S15)
+**41st - JRjoos (4):** loveletterss (S1), Zahkari (S1), SpheaI (S1), cherryblawsom (S10)
 
-**47th - Daltun (3):** Centrios (S15), Chandiggitydog (S15), ColdBac (S16)
+**49th - Codwhy (3):** ColdBac (S15), Fictional (S16), HshSlinginSlashr (S17)
 
-**47th - GamerNthn (3):** HigmanFreud (S12b), FrostBros (S13), ConBeanJones (S13)
+**49th - Daltun (3):** Centrios (S15), Chandiggitydog (S15), ColdBac (S16)
 
-**47th - Gorgerous (3):** Charrlottie (S13), marcusmtm (S20), TonyEatWorld (S20)
+**49th - GamerNthn (3):** HigmanFreud (S12b), FrostBros (S13), ConBeanJones (S13)
 
-**47th - JahMuis (3):** DjSprayK (S2), smellay (S4), yistv2 (S20)
+**49th - Gorgerous (3):** Charrlottie (S13), marcusmtm (S20), TonyEatWorld (S20)
 
-**47th - Kaismartypants (3):** JRjoos (S11), chloesad (S11), ColdBac (S12b)
+**49th - JahMuis (3):** DjSprayK (S2), smellay (S4), yistv2 (S20)
 
-**47th - Kelawesome (3):** Ryfri (S12a), ItsColinn (S13), Fcrm (S13)
+**49th - Kaismartypants (3):** JRjoos (S11), chloesad (S11), ColdBac (S12b)
 
-**47th - lqndslide (3):** ItsColinn (S3), Iplayball (S3), Zahkari (S6)
+**49th - Kelawesome (3):** Ryfri (S12a), ItsColinn (S13), Fcrm (S13)
 
-**47th - MercuryParadox (3):** Sorvent (S7), FrostBros (S7), Zahkari (S7)
+**49th - lqndslide (3):** ItsColinn (S3), Iplayball (S3), Zahkari (S6)
 
-**47th - olivieh (3):** MinecrafNinja (S13), brinkwhy (S14), Fcrm (S14)
+**49th - MercuryParadox (3):** Sorvent (S7), FrostBros (S7), Zahkari (S7)
 
-**58th - _Fost_ (2):** CodeJoshua (S20), Sorvent (S20)
+**49th - olivieh (3):** MinecrafNinja (S13), brinkwhy (S14), Fcrm (S14)
 
-**58th - AHSOKATANOSTAN (2):** ChainingVermin2 (S15), Kaismartypants (S15)
+**59th - _1mmortal_ (2):** Ryfri (S21), Br8dy_ (S21)
 
-**58th - DevoyTTV (2):** lexicuhl (S17), Arradir (S20)
+**59th - _Fost_ (2):** CodeJoshua (S20), Sorvent (S20)
 
-**58th - EndFlame (2):** Sorvent (S3), Magiclz (S3)
+**59th - AHSOKATANOSTAN (2):** ChainingVermin2 (S15), Kaismartypants (S15)
 
-**58th - FrostBros (2):** Sorvent (S9), Plushy33 (S16)
+**59th - DevoyTTV (2):** lexicuhl (S17), Arradir (S20)
 
-**58th - Grek_ (2):** Centrios (S4), GoldenNs (S4)
+**59th - EndFlame (2):** Sorvent (S3), Magiclz (S3)
 
-**58th - HigmanFreud (2):** DJoee (S12a), Jayzize (S12b)
+**59th - FrostBros (2):** Sorvent (S9), Plushy33 (S16)
 
-**58th - Normoh (2):** Spongey (S13), xCand (S20)
+**59th - HigmanFreud (2):** DJoee (S12a), Jayzize (S12b)
 
-**58th - Rawkeyy (2):** cherryblawsom (S11), MinecrafNinja (S11)
+**59th - Normoh (2):** Spongey (S13), xCand (S20)
 
-**58th - ShyGus (2):** Arich (S11), Sorvent (S11)
+**59th - Pelemelee (2):** Centrios (S4), GoldenNs (S4)
 
-**58th - SrTortuga (2):** loveletterss (S9), Zahkari (S9)
+**59th - ProGirlGamer (2):** Spongey (S20), JustNolan (S21)
 
-**58th - TonyEatWorld (2):** Blarkslol (S20), Charrlottie (S20)
+**59th - Rawkeyy (2):** cherryblawsom (S11), MinecrafNinja (S11)
 
-**58th - vegis (2):** Zahkari (S3), Zudoia (S3)
+**59th - ShyGus (2):** Arich (S11), Sorvent (S11)
 
-**58th - vexio (2):** JahMuis (S5), BlackGarrett (S5)
+**59th - SpheaI (2):** IceshardEleven (S7), YellowVitt (S21)
 
-**72nd - Abdalain (1):** Zahkari (S8)
+**59th - srtortuga (2):** loveletterss (S9), Zahkari (S9)
 
-**72nd - AsianCheatCode (1):** ChainingVermin2 (S14)
+**59th - ThisIsHab (2):** Arradir (S21), Centrios (S21)
 
-**72nd - benidk (1):** Kelawesome (S13)
+**59th - TonyEatWorld (2):** Blarkslol (S20), Charrlottie (S20)
 
-**72nd - braidenOW (1):** Normoh (S17)
+**59th - vegis (2):** Zahkari (S3), Zudoia (S3)
 
-**72nd - Chandiggitydog (1):** Ryfri (S15)
+**59th - wizarde (2):** kirbey (S20), Austronomical (S21)
 
-**72nd - Charrlottie (1):** benidk (S13)
+**59th - wtbarce (2):** JahMuis (S5), BlackGarrett (S5)
 
-**72nd - Chasmic (1):** SpaceFenix (S20)
+**78th - Abdalain (1):** Zahkari (S8)
 
-**72nd - Cyndic (1):** AsianCheatCode (S13)
+**78th - AsianCheatCode (1):** ChainingVermin2 (S14)
 
-**72nd - DrSliced (1):** JahMuis (S13)
+**78th - benidk (1):** Kelawesome (S13)
 
-**72nd - DyeItTight (1):** Coward (S8)
+**78th - Br8dy_ (1):** ProGirlGamer (S21)
 
-**72nd - Fieryz (1):** Fictional (S3)
+**78th - braidenOW (1):** Normoh (S17)
 
-**72nd - handpicked (1):** lexicuhl (S11)
+**78th - Chandiggitydog (1):** Ryfri (S15)
 
-**72nd - Hecticity (1):** ItsColinn (S18)
+**78th - Charrlottie (1):** benidk (S13)
 
-**72nd - kirbey (1):** Codwhy (S13)
+**78th - Chasmic (1):** SpaceFenix (S20)
 
-**72nd - Magiclz (1):** stupidgirltv (S3)
+**78th - Cyndic (1):** AsianCheatCode (S13)
 
-**72nd - milkteaboards (1):** Sorvent (S18)
+**78th - DrSliced (1):** JahMuis (S13)
 
-**72nd - MinecrafNinja (1):** fruitberries (S11)
+**78th - DyeItTight (1):** Coward (S8)
 
-**72nd - ohh_lia (1):** Fictional (S20)
+**78th - Fieryz (1):** Fictional (S3)
 
-**72nd - Ozzyowo (1):** Chasmic (S20)
+**78th - handpicked (1):** lexicuhl (S11)
 
-**72nd - Pensul (1):** Iplayball (S5)
+**78th - Hecticity (1):** ItsColinn (S18)
 
-**72nd - Plushy33 (1):** commitstaxfraud (S17)
+**78th - kirbey (1):** Codwhy (S13)
 
-**72nd - ProGirlGamer (1):** Spongey (S20)
+**78th - Magiclz (1):** stupidgirltv (S3)
 
-**72nd - SiahStone (1):** Ryfri (S14)
+**78th - milkteaboards (1):** Sorvent (S18)
 
-**72nd - SpheaI (1):** IceshardEleven (S7)
+**78th - MinecrafNinja (1):** fruitberries (S11)
 
-**72nd - wizarde (1):** kirbey (S20)
+**78th - Ozzyowo (1):** Chasmic (S20)
 
-**72nd - xCand (1):** Brodator (S20)
+**78th - Pensul (1):** Iplayball (S5)
+
+**78th - Plushy33 (1):** commitstaxfraud (S17)
+
+**78th - puppygirlmaple (1):** Fictional (S20)
+
+**78th - SiahStone (1):** Ryfri (S14)
+
+**78th - xCand (1):** Brodator (S20)
 
 ---
 ### PvE Deaths
@@ -566,11 +590,11 @@
 
 **Fall (4):** _JJL (S1), Iplayball (S2), Codwhy (S19), stupidgirltv (S20)
 
+**Burning (3):** IceshardEleven (S2), Austronomical (S19), Kaismartypants (S21)
+
 **Lava (3):** FrostBros (S8), Fieryz (S8), DevoyTTV (S11)
 
 **Zombie (3):** DyeItTight (S7), Centrios (S8), xCand (S18)
-
-**Burning (2):** IceshardEleven (S2), Austronomical (S19)
 
 **Piglin (2):** Sorvent (S19), stupidgirltv (S19)
 
@@ -583,47 +607,49 @@
 ---
 ### Participation
 
-**21 Seasons (1):** Sorvent (S1-S20)
+**22 Seasons (1):** Sorvent (S1-S21)
+
+**21 Seasons (0):** 
 
 **20 Seasons (0):** 
 
 **19 Seasons (0):** 
 
-**18 Seasons (0):** 
+**18 Seasons (1):** ItsColinn (S2-S4,S8-S21)
 
-**17 Seasons (1):** ItsColinn (S2-S4,S8-S20)
+**17 Seasons (0):** 
 
 **16 Seasons (0):** 
 
-**15 Seasons (0):** 
+**15 Seasons (1):** Ryfri (S5,S9-S21)
 
-**14 Seasons (1):** Ryfri (S5,S9-S20)
+**14 Seasons (0):** 
 
 **13 Seasons (1):** ChainingVermin2 (S1-S2,S4-S5,S7,S9,S11,S14-S18,S20)
 
-**12 Seasons (0):** 
+**12 Seasons (1):** brinkwhy (S11-S21)
 
-**11 Seasons (3):** Fictional (S1,S3,S5-S8,S10-S11,S14,S16,S20), sigilyph (S1-S11), brinkwhy (S11-S20)
+**11 Seasons (4):** Fictional (S1,S3,S5-S8,S10-S11,S14,S16,S20), sigilyph (S1-S11), JustNolan (S3-S5,S12a-S12b,S16-S21), FrostBros (S7-S12a,S13-S14,S16-S17,S21)
 
-**10 Seasons (2):** JustNolan (S3-S5,S12a-S12b,S16-S20), FrostBros (S7-S12a,S13-S14,S16-S17)
+**10 Seasons (3):** Centrios (S3-S4,S6,S8-S12a,S15,S21), cherryblawsom (S5,S8-S11,S12b,S14,S16-S17,S21), Spongey (S11,S12b-S17,S19-S21)
 
-**9 Seasons (8):** Zahkari (S1,S3,S6-S12a), JasonBPE (S2-S8,S14,S20), Centrios (S3-S4,S6,S8-S12a,S15), cherryblawsom (S5,S8-S11,S12b,S14,S16-S17), ColdBac (S11-S12b,S14-S18,S20), lexicuhl (S11-S15,S17,S19-S20), Spongey (S11,S12b-S17,S19-S20), swishduck (S11-S12b,S14-S19)
+**9 Seasons (5):** Zahkari (S1,S3,S6-S12a), JasonBPE (S2-S8,S14,S20), ColdBac (S11-S12b,S14-S18,S20), lexicuhl (S11-S15,S17,S19-S20), swishduck (S11-S12b,S14-S19)
 
-**8 Seasons (3):** ConBeanJones (S1-S4,S6-S7,S13-S14), Iplayball (S2-S6,S9,S18,S20), Fcrm (S11-S14,S18-S20)
+**8 Seasons (4):** ConBeanJones (S1-S4,S6-S7,S13-S14), Iplayball (S2-S6,S9,S18,S20), Fcrm (S11-S14,S18-S20), Kaismartypants (S11-S15,S20-S21)
 
-**7 Seasons (7):** IceshardEleven (S2-S4,S6-S8,S20), JahMuis (S2-S5,S13,S17,S20), fruitberries (S8-S11,S14,S16,S20), CipherKai (S11,S12b,S14-S15,S17-S18,S20), Kaismartypants (S11-S15,S20), marcusmtm (S11,S14-S15,S17-S20), Codwhy (S13-S19)
+**7 Seasons (8):** SpheaI (S1-S3,S5-S7,S21), IceshardEleven (S2-S4,S6-S8,S20), JahMuis (S2-S5,S13,S17,S20), fruitberries (S8-S11,S14,S16,S20), CipherKai (S11,S12b,S14-S15,S17-S18,S20), marcusmtm (S11,S14-S15,S17-S20), GamerNthn (S12a-S14,S18,S20-S21), Codwhy (S13-S19)
 
-**6 Seasons (10):** JRjoos (S1,S4,S6,S8,S10-S11), SpheaI (S1-S3,S5-S7), MercuryParadox (S3-S4,S7,S14,S16,S20), stupidgirltv (S3,S5,S8,S18-S20), MinecrafNinja (S6-S7,S11,S13-S14,S17), Kelawesome (S11-S14,S20), MaxEvasion (S11-S12b,S17-S18,S20), GamerNthn (S12a-S14,S18,S20), Jayzize (S12a-S14,S16,S20), natsuvi (S12b,S14-S17,S20)
+**6 Seasons (11):** JRjoos (S1,S4,S6,S8,S10-S11), MercuryParadox (S3-S4,S7,S14,S16,S20), stupidgirltv (S3,S5,S8,S18-S20), MinecrafNinja (S6-S7,S11,S13-S14,S17), Kelawesome (S11-S14,S20), MaxEvasion (S11-S12b,S17-S18,S20), commitstaxfraud (S12a-S12b,S14-S15,S17,S21), Jayzize (S12a-S14,S16,S20), natsuvi (S12b,S14-S17,S20), 4EyedSlime (S16-S21), SpaceFenix (S16-S21)
 
-**5 Seasons (6):** Coward (S5-S6,S8-S9,S11), Potsie (S6-S8,S10,S12a), commitstaxfraud (S12a-S12b,S14-S15,S17), zCent (S12b,S15-S17,S20), 4EyedSlime (S16-S20), SpaceFenix (S16-S20)
+**5 Seasons (4):** Coward (S5-S6,S8-S9,S11), Potsie (S6-S8,S10,S12a), zCent (S12b,S15-S17,S20), _1mmortal_ (S17-S21)
 
-**4 Seasons (7):** smellay (S1-S4), Zudoia (S2-S3,S5,S9), DJoee (S12a-S14), olivieh (S12a-S14), Normoh (S13-S14,S17,S20), aalaan (S16-S19), _1mmortal_ (S17-S20)
+**4 Seasons (8):** smellay (S1-S4), Zudoia (S2-S3,S5,S9), DJoee (S12a-S14), olivieh (S12a-S14), Normoh (S13-S14,S17,S20), Austronomical (S14,S19-S21), aalaan (S16-S19), Br8dy_ (S18-S21)
 
-**3 Seasons (22):** lqndslide (S3,S6,S20), GoldenNs (S4,S12a,S17), DyeItTight (S5,S7-S8), ItsFishy (S6-S8), Levrez (S8,S14-S15), HshSlinginSlashr (S9,S12b,S17), Rawkeyy (S9-S11), Arich (S10-S11,S12b), Chasmic (S10-S11,S20), Daltun (S11,S15-S16), DevoyTTV (S11,S17,S20), xCand (S11,S18,S20), kirbey (S12b-S13,S20), Caydone (S13-S14,S20), Charrlottie (S13-S14,S20), Austronomical (S14,S19-S20), milkteaboards (S14,S18,S20), AHSOKATANOSTAN (S15,S19-S20), braidenOW (S16-S17,S20), Blarkslol (S17-S18,S20), Br8dy_ (S18-S20), Greeples (S18-S20)
+**3 Seasons (21):** lqndslide (S3,S6,S20), GoldenNs (S4,S12a,S17), DyeItTight (S5,S7-S8), ItsFishy (S6-S8), Levrez (S8,S14-S15), HshSlinginSlashr (S9,S12b,S17), Rawkeyy (S9-S11), Arich (S10-S11,S12b), Chasmic (S10-S11,S20), Daltun (S11,S15-S16), DevoyTTV (S11,S17,S20), xCand (S11,S18,S20), kirbey (S12b-S13,S20), Caydone (S13-S14,S20), Charrlottie (S13-S14,S20), Gorgerous (S13,S20-S21), milkteaboards (S14,S18,S20), AHSOKATANOSTAN (S15,S19-S20), braidenOW (S16-S17,S20), Blarkslol (S17-S18,S20), Greeples (S18-S20)
 
-**2 Seasons (26):** loveletterss (S1,S9), DjSprayK (S2-S3), Fieryz (S3,S8), Abdalain (S4,S8), babyhiccups (S4-S5), chloesad (S7,S11), _Vivac (S8-S9), SoulRawr (S8-S9), SrTortuga (S9,S11), handpicked (S10-S11), ShyGus (S10-S11), SiahStone (S11,S14), Broseph (S12a-S12b), HigmanFreud (S12a-S12b), DrSliced (S12b-S13), AsianCheatCode (S13-S14), benidk (S13-S14), flameorb (S13-S14), Gorgerous (S13,S20), TehBaconBrawlerZ (S14,S17), _Fost_ (S15,S20), Digitale (S16-S17), Plushy33 (S16-S17), skrunklee (S16,S20), CodeJoshua (S18,S20), automavic (S19-S20)
+**2 Seasons (30):** loveletterss (S1,S9), DjSprayK (S2-S3), Fieryz (S3,S8), Abdalain (S4,S8), babyhiccups (S4-S5), chloesad (S7,S11), _Vivac (S8-S9), SoulRawr (S8-S9), srtortuga (S9,S11), handpicked (S10-S11), ShyGus (S10-S11), SiahStone (S11,S14), Broseph (S12a-S12b), HigmanFreud (S12a-S12b), DrSliced (S12b-S13), AsianCheatCode (S13-S14), benidk (S13-S14), flameorb (S13-S14), TehBaconBrawlerZ (S14,S17), _Fost_ (S15,S20), Digitale (S16-S17), Plushy33 (S16-S17), skrunklee (S16,S20), ThisIsHab (S16,S21), CodeJoshua (S18,S20), automavic (S19-S20), Arradir (S20-S21), ProGirlGamer (S20-S21), TonyEatWorld (S20-S21), wizarde (S20-S21)
 
-**1 Season (45):** _JJL (S1), allena (S1), DerkThePig (S1), VisionSkillz (S1), iRyciL (S2), ParkMc (S2), EndFlame (S3), Magiclz (S3), vegis (S3), VyperMC (S3), Grek_ (S4), Triazale (S4), BlackGarrett (S5), heyitskylie (S5), Pensul (S5), vexio (S5), cynnamon (S9), Fensua (S10), guccibulletvest (S10), PenguinBagels (S10), frogsella (S11), azoof (S12b), BardMain2 (S12b), Cyndic (S13), lasdarling (S13), Zevulpes (S13), AmandaWest (S14), colbay (S14), Chandiggitydog (S15), Blxckinq (S16), ThisIsHab (S16), ToontownOnline (S17), Hecticity (S18), 5kylord (S20), Arradir (S20), Brodator (S20), Cyclops (S20), megatallicayer (S20), ohh_lia (S20), Ozzyowo (S20), ProGirlGamer (S20), Ratchet6859 (S20), TonyEatWorld (S20), wizarde (S20), yistv2 (S20)
+**1 Season (42):** _JJL (S1), allena (S1), DerkThePig (S1), VisionSkillz (S1), iRyciL (S2), ParkMc (S2), EndFlame (S3), Magiclz (S3), vegis (S3), VyperMC (S3), Pelemelee (S4), Triazale (S4), BlackGarrett (S5), heyitskylie (S5), Pensul (S5), wtbarce (S5), cynnamon (S9), Fensua (S10), guccibulletvest (S10), PenguinBagels (S10), frogsella (S11), azoof (S12b), BardMain2 (S12b), Cyndic (S13), lasdarling (S13), Zevulpes (S13), AmandaWest (S14), colbay (S14), Chandiggitydog (S15), Blxckinq (S16), ToontownOnline (S17), Hecticity (S18), 5kylord (S20), Brodator (S20), Cyclops (S20), megatallicayer (S20), Ozzyowo (S20), puppygirlmaple (S20), Ratchet6859 (S20), yistv2 (S20), mekolame (S21), YellowVitt (S21)
 
 ---
 ### Debutants
@@ -634,9 +660,9 @@
 
 **S3 (10):** Centrios, EndFlame, Fieryz, JustNolan, lqndslide, Magiclz, MercuryParadox, stupidgirltv, vegis, VyperMC
 
-**S4 (5):** Abdalain, babyhiccups, GoldenNs, Grek_, Triazale
+**S4 (5):** Abdalain, babyhiccups, GoldenNs, Pelemelee, Triazale
 
-**S5 (8):** BlackGarrett, cherryblawsom, Coward, DyeItTight, heyitskylie, Pensul, Ryfri, vexio
+**S5 (8):** BlackGarrett, cherryblawsom, Coward, DyeItTight, heyitskylie, Pensul, Ryfri, wtbarce
 
 **S6 (3):** ItsFishy, MinecrafNinja, Potsie
 
@@ -644,7 +670,7 @@
 
 **S8 (4):** _Vivac, fruitberries, Levrez, SoulRawr
 
-**S9 (4):** cynnamon, HshSlinginSlashr, Rawkeyy, SrTortuga
+**S9 (4):** cynnamon, HshSlinginSlashr, Rawkeyy, srtortuga
 
 **S10 (7):** Arich, Chasmic, Fensua, guccibulletvest, handpicked, PenguinBagels, ShyGus
 
@@ -668,6 +694,8 @@
 
 **S19 (1):** automavic
 
-**S20 (12):** 5kylord, Arradir, Brodator, Cyclops, megatallicayer, ohh_lia, Ozzyowo, ProGirlGamer, Ratchet6859, TonyEatWorld, wizarde, yistv2
+**S20 (12):** 5kylord, Arradir, Brodator, Cyclops, megatallicayer, Ozzyowo, ProGirlGamer, puppygirlmaple, Ratchet6859, TonyEatWorld, wizarde, yistv2
+
+**S21 (2):** mekolame, YellowVitt
 
 ---

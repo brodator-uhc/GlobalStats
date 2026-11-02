@@ -13,7 +13,7 @@
 
 **S5: AvyleZ (1), BigJedo (1), Cristehn (3), Yeatzy (1)**
 
-**S6: Hendysaurus (4)**, *emi1iano (2)*
+**S6: hendy53 (4)**, *emi1iano (2)*
 
 **S7: Retrofied (4)**
 
@@ -47,7 +47,7 @@
 
 **S5:** Cristehn (3)
 
-**S6:** Hendysaurus (4)
+**S6:** hendy53 (4)
 
 **S7:** Retrofied (4)
 
@@ -64,7 +64,7 @@
 
 **S5:** AvyleZ (1), Cristehn (3), BigJedo (1), Yeatzy (1)
 
-**S6:** emi1iano (2), Hendysaurus (4)
+**S6:** emi1iano (2), hendy53 (4)
 
 **S7:** N/A
 
@@ -141,9 +141,9 @@
 
 **1st - Cristehn (8):** HeroGolem5 (S3), JamesRamune (S3), HeroGolem5 (S4), Greater_Soul (S4), PwincessVanessa (S4), Retrofied (S5), Zcin (S5), broccoliar (S5)
 
-**2nd - broccoliar (4):** Hendysaurus (S5), JamesRamune (S5), emi1iano (S7), Evzenitable (S7)
+**2nd - broccoliar (4):** hendy53 (S5), JamesRamune (S5), emi1iano (S7), Evzenitable (S7)
 
-**2nd - Hendysaurus (4):** egl_ (S6), ConBeanJones (S6), PwincessVanessa (S6), MatthewDiamandis (S6)
+**2nd - hendy53 (4):** egl_ (S6), ConBeanJones (S6), PwincessVanessa (S6), MatthewDiamandis (S6)
 
 **2nd - ItsShqky (4):** ClosedIT (S4), sr8611 (S7), Kaismartypants (S7), CHAINGE (S7)
 
@@ -227,7 +227,7 @@
 
 **3 Seasons (4):** Cristehn (S3-S5), JamesRamune (S3-S5), Truzoi (S3-S5), AvyleZ (S4-S5,S7)
 
-**2 Seasons (11):** Rudyjo (S1,S7), peacfulcuma (S2,S4), Bofishkix (S3,S7), GeniRCT (S4-S5), ItsShqky (S4,S7), Kaismartypants (S4,S7), broccoliar (S5,S7), Hendysaurus (S5-S6), Retrofied (S5,S7), emi1iano (S6-S7), TehBaconBrawlerZ (S6-S7)
+**2 Seasons (11):** Rudyjo (S1,S7), peacfulcuma (S2,S4), Bofishkix (S3,S7), GeniRCT (S4-S5), ItsShqky (S4,S7), Kaismartypants (S4,S7), broccoliar (S5,S7), hendy53 (S5-S6), Retrofied (S5,S7), emi1iano (S6-S7), TehBaconBrawlerZ (S6-S7)
 
 **1 Season (38):** Fishant (S1), iwillbeaturbutt (S1), Mircro (S1), Ghosteyy (S2), TDS_Nerd (S2), Vulfoliac (S2), __Drew (S3), Kolportiroas (S3), ClosedIT (S4), Evxn101 (S4), Greater_Soul (S4), horayah (S4), BigJedo (S5), Captinn (S5), contraabass (S5), Yeatzy (S5), Zcin (S5), BreakfastBacon (S6), Caffeinediazpine (S6), ConBeanJones (S6), dino50 (S6), egl_ (S6), MatthewDiamandis (S6), ArcticSeagull (S7), Blarkslol (S7), brinkwhy (S7), brinniex (S7), Bulbexe (S7), CHAINGE (S7), Evzenitable (S7), Flcnt (S7), hashtagmat (S7), kirbey (S7), MangoPlayz (S7), PitSolitayrh (S7), Sivocho (S7), sr8611 (S7), Stravilight (S7)
 
@@ -242,7 +242,7 @@
 
 **S4 (9):** AvyleZ, ClosedIT, Evxn101, GeniRCT, Greater_Soul, horayah, ItsShqky, Kaismartypants, PwincessVanessa
 
-**S5 (8):** BigJedo, broccoliar, Captinn, contraabass, Hendysaurus, Retrofied, Yeatzy, Zcin
+**S5 (8):** BigJedo, broccoliar, Captinn, contraabass, hendy53, Retrofied, Yeatzy, Zcin
 
 **S6 (8):** BreakfastBacon, Caffeinediazpine, ConBeanJones, dino50, egl_, emi1iano, MatthewDiamandis, TehBaconBrawlerZ
 

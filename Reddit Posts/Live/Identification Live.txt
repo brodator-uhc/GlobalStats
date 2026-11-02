@@ -79,13 +79,13 @@
 
 **2nd - SAYNAR (9):** SpaceFenix (S2), RohanSmashBro (S2), Lucarrio (S2), _carn (S2), nsket (S3), FroztiSnowman (S3), cherryblawsom (S3), Lucarrio (S3), SOAKLE (S3)
 
-**3rd - xtiger34 (8):** Brodator (S1), Fcrm (S1), DJoee (S1), dahii (S1), stupidsylvia (S1), vynil (S1), kawaiibunri (S1), Glarza (S1)
+**3rd - xtiger34 (8):** Brodator (S1), Fcrm (S1), DJoee (S1), dahii (S1), stupidsylvia (S1), vynil (S1), evuhlynx (S1), Glarza (S1)
 
 **4th - SOAKLE (7):** FrostBros (S1), ArcticSeagull (S3), Kaismartypants (S3), stupidsylvia (S3), benidk (S3), RohanSmashBro (S3), skyzfy (S3)
 
 **5th - AuroreIkuyo (6):** Kaismartypants (S2), stupidsylvia (S2), CipherKai (S2), ChrisCD (S2), Cloversss (S2), swishduck (S3)
 
-**5th - PupperKun (6):** Ginzburg (S1), xtiger34 (S1), Karliffu (S3), Fra49 (S3), kawaiibunri (S3), SAYNAR (S3)
+**5th - PupperKun (6):** Ginzburg (S1), xtiger34 (S1), Karliffu (S3), Fra49 (S3), evuhlynx (S3), SAYNAR (S3)
 
 **7th - Cloversss (5):** ColdBac (S1), cAurore (S2), BuildingBard300 (S2), Hecticity (S2), alexnv (S2)
 
@@ -109,7 +109,7 @@
 
 **15th - DumbThiccNick (2):** SAYNAR (S1), swishduck (S1)
 
-**15th - kawaiibunri (2):** cAurore (S3), _shi (S3)
+**15th - evuhlynx (2):** cAurore (S3), _shi (S3)
 
 **15th - LightingMC (2):** bayweafs (S1), sgouche (S1)
 
@@ -179,14 +179,14 @@
 
 **3 Seasons (9):** bayweafs (S1-S3), benidk (S1-S3), Bobbytheturtle (S1-S3), Fcrm (S1-S3), Ginzburg (S1-S3), SAYNAR (S1-S3), SpaceFenix (S1-S3), stupidsylvia (S1-S3), zCent (S1-S3)
 
-**2 Seasons (23):** _carn (S1-S2), ArcticSeagull (S1,S3), BoltsInCharge (S1-S2), Brodator (S1-S2), CHAINGE (S1,S3), Cloversss (S1-S2), CurdledDrip (S1,S3), FrostBros (S1,S3), kawaiibunri (S1,S3), PupperKun (S1,S3), sgouche (S1,S3), SOAKLE (S1,S3), swishduck (S1,S3), _1mmortal_ (S2-S3), AuroreIkuyo (S2-S3), cAurore (S2-S3), CodeJoshua (S2-S3), DevoyTTV (S2-S3), Kaismartypants (S2-S3), Lucarrio (S2-S3), RohanSmashBro (S2-S3), Sharkbob94349 (S2-S3), strategy (S2-S3)
+**2 Seasons (23):** _carn (S1-S2), ArcticSeagull (S1,S3), BoltsInCharge (S1-S2), Brodator (S1-S2), CHAINGE (S1,S3), Cloversss (S1-S2), CurdledDrip (S1,S3), evuhlynx (S1,S3), FrostBros (S1,S3), PupperKun (S1,S3), sgouche (S1,S3), SOAKLE (S1,S3), swishduck (S1,S3), _1mmortal_ (S2-S3), AuroreIkuyo (S2-S3), cAurore (S2-S3), CodeJoshua (S2-S3), DevoyTTV (S2-S3), Kaismartypants (S2-S3), Lucarrio (S2-S3), RohanSmashBro (S2-S3), Sharkbob94349 (S2-S3), strategy (S2-S3)
 
 **1 Season (48):** brinkwhy (S1), CharizOVO (S1), Codwhy (S1), ColdBac (S1), dahii (S1), DJoee (S1), DumbThiccNick (S1), Fearx_ (S1), Glarza (S1), HalfLechuga (S1), LightingMC (S1), MercuryParadox (S1), smurpes (S1), SPEEDYDIGS (S1), vynil (S1), xtiger34 (S1), alexnv (S2), broccoliar (S2), BuildingBard300 (S2), Cacedoupamso (S2), ChainingVermin2 (S2), ChrisCD (S2), CipherKai (S2), Hecticity (S2), ItsMeAR10 (S2), Kaddyn (S2), m4ku (S2), noktime (S2), poWpaH (S2), Psykl0ne (S2), ShootingGoats (S2), _shi (S3), CAMKART100 (S3), cherryblawsom (S3), CommanderK22_ (S3), flameh (S3), Fra49 (S3), FroztiSnowman (S3), gartbak (S3), GrassPiece (S3), GuyNamedKreo (S3), Karliffu (S3), KineticYT (S3), nsket (S3), Omertosa (S3), skyzfy (S3), Spongey (S3), Stravilight (S3)
 
 ---
 ### Debutants
 
-**S1 (38):** _carn, ArcticSeagull, bayweafs, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, Brodator, CHAINGE, CharizOVO, Cloversss, Codwhy, ColdBac, CurdledDrip, dahii, DJoee, DumbThiccNick, Fcrm, Fearx_, FrostBros, Ginzburg, Glarza, HalfLechuga, kawaiibunri, LightingMC, MercuryParadox, PupperKun, SAYNAR, sgouche, smurpes, SOAKLE, SpaceFenix, SPEEDYDIGS, stupidsylvia, swishduck, vynil, xtiger34, zCent
+**S1 (38):** _carn, ArcticSeagull, bayweafs, benidk, Bobbytheturtle, BoltsInCharge, brinkwhy, Brodator, CHAINGE, CharizOVO, Cloversss, Codwhy, ColdBac, CurdledDrip, dahii, DJoee, DumbThiccNick, evuhlynx, Fcrm, Fearx_, FrostBros, Ginzburg, Glarza, HalfLechuga, LightingMC, MercuryParadox, PupperKun, SAYNAR, sgouche, smurpes, SOAKLE, SpaceFenix, SPEEDYDIGS, stupidsylvia, swishduck, vynil, xtiger34, zCent
 
 **S2 (25):** _1mmortal_, alexnv, AuroreIkuyo, broccoliar, BuildingBard300, Cacedoupamso, cAurore, ChainingVermin2, ChrisCD, CipherKai, CodeJoshua, DevoyTTV, Hecticity, ItsMeAR10, Kaddyn, Kaismartypants, Lucarrio, m4ku, noktime, poWpaH, Psykl0ne, RohanSmashBro, Sharkbob94349, ShootingGoats, strategy
 

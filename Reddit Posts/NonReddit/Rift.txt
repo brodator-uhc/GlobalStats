@@ -7,7 +7,7 @@
 
 **S2: DECTHEELITE (3)**, *leonmoir119 (0)*
 
-**S3: Hecticity (4), Kingsy_ (2)**, *DECTHEELITE (2)*
+**S3: Hecticity (4), JerseyTheDevil (2)**, *DECTHEELITE (2)*
 
 **S4: Hecticity (1)**
 
@@ -22,7 +22,7 @@
 
 **S1:** Hecticity (0)
 
-**S2:** Hecticity (0), Kingsy_ (1)
+**S2:** Hecticity (0), JerseyTheDevil (1)
 
 **S3:** darkgreyhound (1), footballfanatic9 (0), okaygr_ce (0)
 
@@ -58,11 +58,11 @@
 
 **S2:** DiamondOwnage (1), HiImCC (2) & DECTHEELITE (3), leonmoir119 (0)
 
-**S3:** DECTHEELITE (2), Kingsy_ (2), Hecticity (4)
+**S3:** DECTHEELITE (2), JerseyTheDevil (2), Hecticity (4)
 
 **S4:** N/A
 
-**S5:** DECTHEELITE (2), Kingsy_ (1), NotNotJohn (2) & LoganHam1313 (1), pigcolony (2), vinny212 (2)
+**S5:** DECTHEELITE (2), JerseyTheDevil (1), NotNotJohn (2) & LoganHam1313 (1), pigcolony (2), vinny212 (2)
 
 **S6:** HiImCC (1), iEnderz (3), lolmcgeeksFTW (0)
 
@@ -98,7 +98,7 @@
 
 **S5:** thegrombmx11 (1:14:3)
 
-**S6:** Kingsy_ (1:12:43)
+**S6:** JerseyTheDevil (1:12:43)
 
 **S7:** ItsNato (1:12:27)
 
@@ -139,21 +139,21 @@
 ---
 ### Kills
 
-**1st - DECTHEELITE (20):** HiImCC (S1), Kingsy_ (S1), Hecticity (S1), HiImCC (S2), Hecticity (S2), Kingsy_ (S2), ron7890 (S3), AGL7 (S3), ron7890 (S4), JmanKillerz (S4), Kingsy_ (S4), HiImCC (S4), DrDreVit (S5), HiImCC (S5), Kingsy_ (S6), iEnderz (S6), _Seanybhoy_ (S7), ScottPirie (S7), lolmcgeeksFTW (S7), IzunaLoli (S7)
+**1st - DECTHEELITE (20):** HiImCC (S1), JerseyTheDevil (S1), Hecticity (S1), HiImCC (S2), Hecticity (S2), JerseyTheDevil (S2), ron7890 (S3), AGL7 (S3), ron7890 (S4), JmanKillerz (S4), JerseyTheDevil (S4), HiImCC (S4), DrDreVit (S5), HiImCC (S5), JerseyTheDevil (S6), iEnderz (S6), _Seanybhoy_ (S7), ScottPirie (S7), lolmcgeeksFTW (S7), IzunaLoli (S7)
 
 **2nd - HiImCC (9):** DuckMeh (S2), DarkNinja111 (S2), JackTS (S3), Voideee (S3), xLiquidHD (S4), LoganHam1313 (S4), Kryonate (S6), VengefulZed (S7), Supah_Matt (S7)
 
 **3rd - Hecticity (6):** xLiquidHD (S3), Milen (S3), HiImCC (S3), okaygr_ce (S3), DECTHEELITE (S4), DrDreVit (S6)
 
-**3rd - Kingsy_ (6):** leonmoir119 (S2), footballfanatic9 (S3), darkgreyhound (S3), swishduck (S4), Cloudy_Mist1 (S5), Supah_Matt (S6)
+**3rd - JerseyTheDevil (6):** leonmoir119 (S2), footballfanatic9 (S3), darkgreyhound (S3), swishduck (S4), Cloudy_Mist1 (S5), Supah_Matt (S6)
 
-**3rd - MajorWoof (6):** Bottiken (S7), _DrummonD_ (S7), Evader22 (S7), JahMuis (S7), Kingsy_ (S7), S_Inquisition (S7)
+**3rd - MajorWoof (6):** Bottiken (S7), _DrummonD_ (S7), Evader22 (S7), JahMuis (S7), JerseyTheDevil (S7), S_Inquisition (S7)
 
 **6th - xLiquidHD (4):** Bottiken (S3), _DrummonD_ (S3), xRyan98 (S3), DiamondOwnage (S4)
 
 **7th - iEnderz (3):** Livin423 (S6), Grantonic (S6), Hecticity (S6)
 
-**7th - Livin423 (3):** Kingsy_ (S5), vinny212 (S5), pigcolony (S5)
+**7th - Livin423 (3):** JerseyTheDevil (S5), vinny212 (S5), pigcolony (S5)
 
 **7th - xRyan98 (3):** Bottiken (S6), HiImCC (S7), bjr201111 (S7)
 
@@ -235,7 +235,7 @@
 ---
 ### Participation
 
-**7 Seasons (4):** DECTHEELITE (S1-S7), Hecticity (S1-S7), HiImCC (S1-S7), Kingsy_ (S1-S7)
+**7 Seasons (4):** DECTHEELITE (S1-S7), Hecticity (S1-S7), HiImCC (S1-S7), JerseyTheDevil (S1-S7)
 
 **6 Seasons (0):** 
 
@@ -252,7 +252,7 @@
 ---
 ### Debutants
 
-**S1 (9):** AGL7, captain_aws0me, DECTHEELITE, FailCallax, GEORGE_THE_HOBO, Hecticity, HiImCC, Kingsy_, kkshotgun
+**S1 (9):** AGL7, captain_aws0me, DECTHEELITE, FailCallax, GEORGE_THE_HOBO, Hecticity, HiImCC, JerseyTheDevil, kkshotgun
 
 **S2 (10):** captain_awes0me, darkgreyhound, DarkNinja111, DiamondOwnage, DuckMeh, footballfanatic9, leonmoir119, okaygr_ce, PikaKat_, xRyan98
 

@@ -123,7 +123,7 @@
 ---
 ### Kills
 
-**1st - CipherKai (20):** coldified (S1), violetwoah (S1), Moonlitess (S1), loyaltea (S1), AHSOKATANOSTAN (S1), Dcrpy (S1), ERHDude (S2), DevoyTTV (S2), FrostBros (S2), Kelawesome (S2), Cyndic (S3), Zebobo10 (S3), LightingMC (S4), Bulbexe (S4), Karliffu (S4), brinkwhy (S4), Kelawesome (S4), DJoee (S5), _carn (S5), xtiger34 (S5)
+**1st - CipherKai (20):** coldified (S1), violetwow (S1), Moonlitess (S1), loyaltea (S1), AHSOKATANOSTAN (S1), Dcrpy (S1), ERHDude (S2), DevoyTTV (S2), FrostBros (S2), Kelawesome (S2), Cyndic (S3), Zebobo10 (S3), LightingMC (S4), Bulbexe (S4), Karliffu (S4), brinkwhy (S4), Kelawesome (S4), DJoee (S5), _carn (S5), xtiger34 (S5)
 
 **2nd - Kelawesome (8):** xDiversity (S2), natsuvi (S2), loyaltea (S2), DrSliced (S2), DevoyTTV (S4), _carn (S4), Fcrm (S4), Flcnt (S4)
 
@@ -135,7 +135,7 @@
 
 **5th - DevoyTTV (6):** AHSOKATANOSTAN (S2), brinkwhy (S2), IyaIsMad (S3), Bulbexe (S3), Fearx_ (S4), SpaceFenix (S5)
 
-**5th - LightingMC (6):** swishduck (S3), violetwoah (S3), zeesue (S3), onstep (S3), natsuvi (S3), willif (S4)
+**5th - LightingMC (6):** swishduck (S3), violetwow (S3), zeesue (S3), onstep (S3), natsuvi (S3), willif (S4)
 
 **5th - natsuvi (6):** Cubic44 (S2), zac083 (S3), brinkwhy (S3), RohanSmashBro (S3), Jayzize (S4), broccoliar (S4)
 
@@ -159,7 +159,7 @@
 
 **14th - Flcnt (3):** Krbreb (S4), solnyki (S4), benidk (S4)
 
-**14th - FrostBros (3):** Moonlitess (S2), violetwoah (S2), zac083 (S2)
+**14th - FrostBros (3):** Moonlitess (S2), violetwow (S2), zac083 (S2)
 
 **14th - fruitberries (3):** eliexists (S1), colbay (S1), Jorgeeay (S1)
 
@@ -215,7 +215,7 @@
 
 **28th - strategy (1):** Jayzize (S3)
 
-**28th - violetwoah (1):** poWpaH (S2)
+**28th - violetwow (1):** poWpaH (S2)
 
 **28th - zeesue (1):** natsuvi (S4)
 
@@ -233,7 +233,7 @@
 
 **4 Seasons (3):** Fcrm (S1,S4-S6), natsuvi (S2-S5), RohanSmashBro (S3-S6)
 
-**3 Seasons (14):** cherryblawsom (S1-S2,S6), Dcrpy (S1,S4-S5), Karliffu (S1,S3-S4), Moonlitess (S1-S3), violetwoah (S1-S3), xDiversity (S1-S2,S6), brinkwhy (S2-S4), broccoliar (S2,S4,S6), zac083 (S2-S4), Jayzize (S3-S5), zeesue (S3-S5), _carn (S4-S6), benidk (S4-S6), Krbreb (S4-S6)
+**3 Seasons (14):** cherryblawsom (S1-S2,S6), Dcrpy (S1,S4-S5), Karliffu (S1,S3-S4), Moonlitess (S1-S3), violetwow (S1-S3), xDiversity (S1-S2,S6), brinkwhy (S2-S4), broccoliar (S2,S4,S6), zac083 (S2-S4), Jayzize (S3-S5), zeesue (S3-S5), _carn (S4-S6), benidk (S4-S6), Krbreb (S4-S6)
 
 **2 Seasons (15):** AHSOKATANOSTAN (S1-S2), colbay (S1,S5), Cubic44 (S1-S2), ItsColinn (S1,S6), loyaltea (S1-S2), vynil (S2,S6), Cyndic (S3,S6), LightingMC (S3-S4), Lucarrio (S3,S6), strategy (S3,S6), SpaceFenix (S4-S5), UbiquityHD (S4-S5), carterwarterbear (S5-S6), Cloversss (S5-S6), sgouche (S5-S6)
 
@@ -242,7 +242,7 @@
 ---
 ### Debutants
 
-**S1 (21):** _1mmortal_, AHSOKATANOSTAN, Bohe, cherryblawsom, CipherKai, colbay, coldified, Cubic44, Dcrpy, DevoyTTV, eliexists, Fcrm, fruitberries, ItsColinn, Jorgeeay, Karliffu, loyaltea, Moonlitess, Vetmire, violetwoah, xDiversity
+**S1 (21):** _1mmortal_, AHSOKATANOSTAN, Bohe, cherryblawsom, CipherKai, colbay, coldified, Cubic44, Dcrpy, DevoyTTV, eliexists, Fcrm, fruitberries, ItsColinn, Jorgeeay, Karliffu, loyaltea, Moonlitess, Vetmire, violetwow, xDiversity
 
 **S2 (16):** _shi, _Txchno_, AvyleZ, brinkwhy, broccoliar, Bulbexe, Coward, DrSliced, ERHDude, FrostBros, Kelawesome, natsuvi, poWpaH, vynil, zac083, ZachMcD
 

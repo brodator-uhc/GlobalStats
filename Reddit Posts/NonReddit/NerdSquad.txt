@@ -213,7 +213,7 @@
 
 **11th - HeyItsVincey (2):** Hamishhhh (S9), QueenxPetty (S9)
 
-**11th - Joabz (2):** Roxeens (S8), QueenxPetty (S8)
+**11th - Joabz (2):** RubyRoxeens (S8), QueenxPetty (S8)
 
 **11th - Kaismartypants (2):** HeyItsJBug (S9), HeyItsJBug (S10)
 
@@ -268,7 +268,7 @@
 
 **Ender Dragon (1):** StaryzeGamer (S8)
 
-**Fire (1):** Roxeens (S9)
+**Fire (1):** RubyRoxeens (S9)
 
 **Iron Golem (1):** HgMercury73 (S7)
 
@@ -293,7 +293,7 @@
 
 **3 Seasons (16):** J05HUA14 (S1-S3), bebeflynn (S2-S3,S6), LeeWantsToGame (S2-S3,S5), MatthewDiamandis (S2,S6,S9), WishyNathan (S2,S4-S5), Bofishkix (S3-S5), LovelyAngwl (S3-S5), TehBaconBrawlerZ (S3,S5-S6), AmarisCCrap (S4-S6), Charrlottie (S4-S6), GrandSlamBlocker (S4-S6), ItsShqky (S4-S5,S10), ItzMeNoah_ (S7-S9), ValerieBliss (S7-S8,S10), Hamishhhh (S8-S10), Kaismartypants (S8-S10)
 
-**2 Seasons (14):** Hallfryd (S1-S2), ItsFlynn (S1-S2), Vhuxi (S1-S2), Wolari (S2-S3), Aaerons (S3,S5), be_yonce (S4-S5), Bizygamer1 (S4,S7), WolfieLiam (S4-S5), ArcticSeagull (S5-S6), Jaceon02 (S5-S6), Kaddyn (S5-S6), ElegantEmmy (S7-S8), Joabz (S8-S9), Roxeens (S8-S9)
+**2 Seasons (14):** Hallfryd (S1-S2), ItsFlynn (S1-S2), Vhuxi (S1-S2), Wolari (S2-S3), Aaerons (S3,S5), be_yonce (S4-S5), Bizygamer1 (S4,S7), WolfieLiam (S4-S5), ArcticSeagull (S5-S6), Jaceon02 (S5-S6), Kaddyn (S5-S6), ElegantEmmy (S7-S8), Joabz (S8-S9), RubyRoxeens (S8-S9)
 
 **1 Season (35):** DakotaB15 (S1), PhoenyxVT (S1), yoyotop (S1), buttermilkfilms (S2), GamingStarr (S2), MrEzzo (S2), Retrofied (S2), AamiraOnTheWall (S3), hashtagmat (S3), SurgeSajjadYT (S3), Dcrpy (S4), Elvee_ (S4), emi1iano (S4), My_Peoples (S4), mycemie (S4), Demi2wolf (S5), MineKG (S5), softpinks (S5), Stravilight (S5), ToeKun (S6), UrFriendBiderman (S6), BarelyPink (S7), GdayItsCam (S7), HgMercury73 (S7), loficold (S7), iyvenus (S8), Lifeline684 (S8), StaryzeGamer (S8), HeyItsVincey (S9), BuildingBard300 (S10), Catsimc (S10), Cookie_for_life (S10), Itselioriom (S10), noktime (S10), SunnyYT2 (S10)
 
@@ -314,7 +314,7 @@
 
 **S7 (7):** BarelyPink, ElegantEmmy, GdayItsCam, HgMercury73, ItzMeNoah_, loficold, ValerieBliss
 
-**S8 (7):** Hamishhhh, iyvenus, Joabz, Kaismartypants, Lifeline684, Roxeens, StaryzeGamer
+**S8 (7):** Hamishhhh, iyvenus, Joabz, Kaismartypants, Lifeline684, RubyRoxeens, StaryzeGamer
 
 **S9 (1):** HeyItsVincey
 

@@ -362,7 +362,7 @@
 
 **S8:** MLS (Creeper)
 
-**S9:** Aschilon (Void)
+**S9:** Aschilon (World Border)
 
 **S10:** Izmir_Stinger (Skeleton)
 
@@ -448,9 +448,9 @@
 
 **Blaze (6):** MadDjinn (S2), MLS (S6), MLS (S13), Davelions (S16), MadDjinn (S21), Gameslayer989 (S22)
 
-**Void (6):** Aschilon (S9), MadDjinn (S9), GrimVek (S9), GrimVek (S13), KirbyMD (S22), DanQ_CC (S23)
-
 **Fall (5):** ixias0 (S4), ekat2468 (S6), MLS (S9), DanQ_CC (S10), CanusAlbinus (S13)
+
+**World Border (5):** Aschilon (S9), MadDjinn (S9), GrimVek (S9), GrimVek (S13), KirbyMD (S22)
 
 **Enderman (4):** AlphaShard (S6), AlphaShard (S13), TheMeInTeam (S14), elKingMorgan (S16)
 
@@ -467,6 +467,8 @@
 **Burning (1):** TheMeInTeam (S13)
 
 **Lava (1):** MLS (S7)
+
+**Void (1):** DanQ_CC (S23)
 
 **Witch (1):** DanQ_CC (S3)
 

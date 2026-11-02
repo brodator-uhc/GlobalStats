@@ -11,7 +11,7 @@
 
 **S4: _mrcool (1), Do_You_Minecraft (2), TheRealHagrid (0), tuxpeng (4)**, *lexicuhl (2)*
 
-**S5: IzunaLoli (2), Potsie (5), tuxpeng (9)**
+**S5: IzunE_ (2), Potsie (5), tuxpeng (9)**
 
 **S6: ColdBac (2), ShyGus (3)**
 
@@ -19,7 +19,7 @@
 
 **S7b: lexicuhl (1), ShyGus (2), tilargo (1)**, *SoulRawr (2)*
 
-**S8: lexicuhl (1), MercuryParadox (2), ohh_lia (1)**
+**S8: lexicuhl (1), MercuryParadox (2), puppygirlmaple (1)**
 
 **S9: JamestheDouglas (3), Vawqer (1)**, *lexicuhl (0), wowjennawow (0)*
 
@@ -54,7 +54,7 @@
 
 **S8:** GoldenNs (3), Ryfri (3), zCent (0)
 
-**S9:** 78ford (0), Dee957 (0), natsuvi (1), ohh_lia (0)
+**S9:** 78ford (0), Dee957 (0), natsuvi (1), puppygirlmaple (0)
 
 **S10:** 6BU (0), jamietheelite (2), vishs (3)
 
@@ -62,7 +62,7 @@
 
 **S12:** Flouzemaker (0), TheRealHagrid (1)
 
-**S13:** lexicuhl (2), ohh_lia (2), wizarde (4)
+**S13:** lexicuhl (2), puppygirlmaple (2), wizarde (4)
 
 **S14:** Caydone (4), JaqOnCraq (2)
 
@@ -110,7 +110,7 @@
 
 **S4:** TheRealHagrid (0), lexicuhl (2), _mrcool (1), tuxpeng (4), Do_You_Minecraft (2)
 
-**S5:** IzunaLoli (2), Potsie (5), tuxpeng (9)
+**S5:** IzunE_ (2), Potsie (5), tuxpeng (9)
 
 **S6:** Spongey (3), SoulRawr (4)
 
@@ -128,7 +128,7 @@
 
 **S12:** Bobbytheturtle (7), Fensua (3)
 
-**S13:** ohh_lia (2), lexicuhl (2), wizarde (4)
+**S13:** puppygirlmaple (2), lexicuhl (2), wizarde (4)
 
 **S14:** Kelawesome (9), pigghetti (0)
 
@@ -269,7 +269,7 @@
 
 **1st - GoldenNs (15):** stupidgirltv (S2), BlackGarrett (S2), Austronomical (S2), Chipzzy (S3), CountryCutie (S3), Professer_TNT (S3), Ryfri (S3), Beastaxel (S8), JamestheDouglas (S8), Spongey (S8), Fensua (S9), buttergolem1 (S9), TheRealHagrid (S9), wowjennawow (S9), wowjennawow (S10)
 
-**2nd - Fensua (13):** IzunaLoli (S2), 78ford (S10), Chipzzy (S10), TalonBX (S10), vishs (S10), TheRealHagrid (S11), SummerBqsh (S11), Regifloat (S11), Potsie (S11), ConBeanJones (S11), automavic (S12), SiahStone (S12), TheRealHagrid (S12)
+**2nd - Fensua (13):** IzunE_ (S2), 78ford (S10), Chipzzy (S10), TalonBX (S10), vishs (S10), TheRealHagrid (S11), SummerBqsh (S11), Regifloat (S11), Potsie (S11), ConBeanJones (S11), automavic (S12), SiahStone (S12), TheRealHagrid (S12)
 
 **2nd - tuxpeng (13):** Wilsonkong (S4), IceshardEleven (S4), Spongey (S4), Maxwellfifty (S4), Spongey (S5), automavic (S5), Sluggyg (S5), Professer_TNT (S5), lexicuhl (S5), BlackGarrett (S5), TheRealHagrid (S5), Austronomical (S5), SoulRawr (S5)
 
@@ -307,7 +307,7 @@
 
 **16th - Normoh (6):** Bacan (S8), Vawqer (S8), lexicuhl (S9), OnlyCosmia (S9), Wilsonkong (S9), ScottPirie (S10)
 
-**16th - Wilsonkong (6):** IzunaLoli (S1), Professer_TNT (S6), Spongey (S6), YellowVitt (S7b), VeniiiD (S7b), chloesad (S7b)
+**16th - Wilsonkong (6):** IzunE_ (S1), Professer_TNT (S6), Spongey (S6), YellowVitt (S7b), VeniiiD (S7b), chloesad (S7b)
 
 **22nd - Chasmic (5):** Sluggyg (S6), dRawry (S7a), 78ford (S9), Codwhy (S14), lexicuhl (S14)
 
@@ -323,7 +323,7 @@
 
 **27th - Caydone (4):** Greeples (S14), ConBeanJones (S14), ThisIsHab (S14), ChainingVermin2 (S14)
 
-**27th - JamestheDouglas (4):** Normoh (S9), Spacepod_ (S9), ohh_lia (S9), automavic (S10)
+**27th - JamestheDouglas (4):** Normoh (S9), Spacepod_ (S9), puppygirlmaple (S9), automavic (S10)
 
 **27th - KingsGaming (4):** GoldenNs (S2), Professer_TNT (S2), Fensua (S2), Ryfri (S2)
 
@@ -347,9 +347,9 @@
 
 **34th - MercuryParadox (3):** ConBeanJones (S1), thebbers (S8), GoldenNs (S8)
 
-**34th - ohh_lia (3):** swishduck (S8), Normoh (S13), Charrlottie (S13)
-
 **34th - Professer_TNT (3):** MercuryParadox (S2), jus10_la3anca (S3), ConBeanJones (S5)
+
+**34th - puppygirlmaple (3):** swishduck (S8), Normoh (S13), Charrlottie (S13)
 
 **34th - Vawqer (3):** Fictional (S6), spoocS_ (S8), GoldenNs (S9)
 
@@ -363,7 +363,7 @@
 
 **45th - Flouzemaker (2):** lexicuhl (S10), Abdalain (S10)
 
-**45th - IzunaLoli (2):** Do_You_Minecraft (S5), Broseph (S5)
+**45th - IzunE_ (2):** Do_You_Minecraft (S5), Broseph (S5)
 
 **45th - jamietheelite (2):** Kiinako_ (S10), JamestheDouglas (S10)
 
@@ -450,7 +450,7 @@
 
 **Creeper (5):** Broseph (S2), Fensua (S3), TalonIII (S3), Kiinako_ (S11), WackoFlipper (S11)
 
-**Fall (5):** Austronomical (S4), VeniiiD (S7a), ScottPirie (S9), BlackGarrett (S10), ohh_lia (S13)
+**Fall (5):** Austronomical (S4), VeniiiD (S7a), ScottPirie (S9), BlackGarrett (S10), puppygirlmaple (S13)
 
 **Skeleton (5):** DKeri (S3), CH0CK (S4), Lucityy (S4), Arich (S11), Just_Gerald (S11)
 
@@ -501,7 +501,7 @@
 
 **4 Seasons (10):** Chipzzy (S3-S5,S10), automavic (S5-S6,S10,S12), ColdBac (S6-S7a,S12,S14), DaPenguin19 (S6-S7a,S8,S14), spoocS_ (S7a-S8,S10), SummerBqsh (S7a-S7b,S10-S11), Normoh (S8-S10,S13), natsuvi (S9,S11,S13-S14), wizarde (S10,S12-S14), Brodator (S11-S14)
 
-**3 Seasons (16):** IzunaLoli (S1-S2,S5), JasonBPE (S1-S3), RedSky (S2-S4), Bacan (S3,S8-S9), Beastaxel (S3,S7a,S8), IsaacMT (S4,S6,S7b), VeniiiD (S6-S7b), wowjennawow (S7a,S9-S10), buttergolem1 (S8-S9,S12), JamestheDouglas (S8-S10), ohh_lia (S8-S9,S13), ScottPirie (S9-S11), Kiinako_ (S10-S12), WackoFlipper (S10-S12), QuilJ1 (S11-S12,S14), Charrlottie (S12-S14)
+**3 Seasons (16):** IzunE_ (S1-S2,S5), JasonBPE (S1-S3), RedSky (S2-S4), Bacan (S3,S8-S9), Beastaxel (S3,S7a,S8), IsaacMT (S4,S6,S7b), VeniiiD (S6-S7b), wowjennawow (S7a,S9-S10), buttergolem1 (S8-S9,S12), JamestheDouglas (S8-S10), puppygirlmaple (S8-S9,S13), ScottPirie (S9-S11), Kiinako_ (S10-S12), WackoFlipper (S10-S12), QuilJ1 (S11-S12,S14), Charrlottie (S12-S14)
 
 **2 Seasons (31):** Abdalain (S1,S10), ChainingVermin2 (S1,S14), jus10_la3anca (S1,S3), patriotsfan75 (S3-S4), Regifloat (S3,S11), Do_You_Minecraft (S4-S5), Lucityy (S4-S5), Maxwellfifty (S4-S5), tuxpeng (S4-S5), dRawry (S5,S7a), Bobbytheturtle (S6,S12), ShyGus (S6,S7b), TaylorLive (S6-S7a), chloesad (S7a-S7b), TalonBX (S7a,S10), zCent (S8,S14), 3Dspoders (S9-S10), ElGavinoSupremo (S9,S14), Spacepod_ (S9,S12), Greeples (S10,S14), Just_Gerald (S10-S11), ZachMcD (S10-S11), Emerric (S11,S14), MaxEvasion (S11-S12), LoafOZ (S12,S14), Andronify (S13-S14), azoof (S13-S14), benidk (S13-S14), Fcrm (S13-S14), JaqOnCraq (S13-S14), Vetmire (S13-S14)
 
@@ -510,7 +510,7 @@
 ---
 ### Debutants
 
-**S1 (15):** Abdalain, BlackGarrett, ChainingVermin2, ConBeanJones, DJblak, Fensua, IceshardEleven, IzunaLoli, JasonBPE, jus10_la3anca, MercuryParadox, Mldouble07, nh177O13, seanlol, Wilsonkong
+**S1 (15):** Abdalain, BlackGarrett, ChainingVermin2, ConBeanJones, DJblak, Fensua, IceshardEleven, IzunE_, JasonBPE, jus10_la3anca, MercuryParadox, Mldouble07, nh177O13, seanlol, Wilsonkong
 
 **S2 (9):** Austronomical, Broseph, GoldenNs, KingsGaming, Professer_TNT, RedSky, Ryfri, stupidgirltv, TheRealHagrid
 
@@ -526,7 +526,7 @@
 
 **S7b (3):** Cubeh, miles1baseball, YellowVitt
 
-**S8 (9):** 78ford, buttergolem1, Flouzemaker, JamestheDouglas, Normoh, ohh_lia, swishduck, thebbers, zCent
+**S8 (9):** 78ford, buttergolem1, Flouzemaker, JamestheDouglas, Normoh, puppygirlmaple, swishduck, thebbers, zCent
 
 **S9 (7):** 3Dspoders, Dee957, ElGavinoSupremo, natsuvi, OnlyCosmia, ScottPirie, Spacepod_
 

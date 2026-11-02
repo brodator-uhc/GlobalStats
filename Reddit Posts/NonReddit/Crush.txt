@@ -22,7 +22,7 @@
 
 **S3:** Ethqn (1), Petialuca (2), Vorpeo (2)
 
-**S4:** JaeHasNoMaidens (2), TonyEatWorld (0)
+**S4:** commitstaxfraud (2), TonyEatWorld (0)
 
 **S5:** Broseph (0), JoshC2 (0), Lucityy (0), SiahStone (0)
 
@@ -76,7 +76,7 @@
 
 **S4:** xNinetales (1:7:40)
 
-**S5:** JaeHasNoMaidens (11:51:35)
+**S5:** commitstaxfraud (11:51:35)
 
 ---
 ### First Blood
@@ -111,7 +111,7 @@
 
 **2nd - zack502rh (9):** zakei (S1), Fout (S1), xNate_ (S1), Repsy (S1), frogsella (S1), MCmattFTW (S1), frogsella (S4), Geroot (S4), TonyEatWorld (S5)
 
-**3rd - AHSOKATANOSTAN (6):** JoshC2 (S4), zack502rh (S4), JaeHasNoMaidens (S4), BardMain2 (S5), Ryfri (S5), SiahStone (S5)
+**3rd - AHSOKATANOSTAN (6):** JoshC2 (S4), zack502rh (S4), commitstaxfraud (S4), BardMain2 (S5), Ryfri (S5), SiahStone (S5)
 
 **3rd - BardMain2 (6):** MCmattFTW (S4), FastSpore2 (S4), Fout (S4), ItsChristiannn (S4), frogsella (S5), zack502rh (S5)
 
@@ -121,7 +121,7 @@
 
 **7th - TastyTaco (4):** zack502rh (S2), ItsStevenn (S2), officialpinger (S2), xVirus_ (S2)
 
-**8th - JaeHasNoMaidens (3):** ItsPqnda (S4), Zahkari (S4), Sluggyg (S5)
+**8th - commitstaxfraud (3):** ItsPqnda (S4), Zahkari (S4), Sluggyg (S5)
 
 **8th - Repsy (3):** xMelee (S1), xDuk (S1), frogsella (S2)
 
@@ -129,7 +129,7 @@
 
 **8th - xFlameV (3):** MrBeachinYT (S2), FastSpore2 (S2), Chuggg9gg (S2)
 
-**12th - brinkwhy (2):** JoshC2 (S5), JaeHasNoMaidens (S5)
+**12th - brinkwhy (2):** JoshC2 (S5), commitstaxfraud (S5)
 
 **12th - Chuggg9gg (2):** ItsStrafesPvP (S1), xMelee (S2)
 
@@ -191,7 +191,7 @@
 
 **3 Seasons (3):** DaMobFTW (S1-S2,S4), lilygant (S1-S3), Sluggyg (S2-S3,S5)
 
-**2 Seasons (22):** BerryTea (S1-S2), Chuggg9gg (S1-S2), ItsStrafesPvP (S1-S2), Repsy (S1-S2), Roblox (S1-S2), xFlameV (S1-S2), xMelee (S1-S2), xWisely (S1-S2), FastSpore2 (S2,S4), Frqst (S2-S3), ItsPqnda (S2,S4), MrBeachinYT (S2-S3), Vorpeo (S2-S3), ItsChristiannn (S3-S4), MrLazeo101 (S3-S4), ShutUpHoe (S3-S4), AHSOKATANOSTAN (S4-S5), BardMain2 (S4-S5), Broseph (S4-S5), JaeHasNoMaidens (S4-S5), JoshC2 (S4-S5), TonyEatWorld (S4-S5)
+**2 Seasons (22):** BerryTea (S1-S2), Chuggg9gg (S1-S2), ItsStrafesPvP (S1-S2), Repsy (S1-S2), Roblox (S1-S2), xFlameV (S1-S2), xMelee (S1-S2), xWisely (S1-S2), FastSpore2 (S2,S4), Frqst (S2-S3), ItsPqnda (S2,S4), MrBeachinYT (S2-S3), Vorpeo (S2-S3), ItsChristiannn (S3-S4), MrLazeo101 (S3-S4), ShutUpHoe (S3-S4), AHSOKATANOSTAN (S4-S5), BardMain2 (S4-S5), Broseph (S4-S5), commitstaxfraud (S4-S5), JoshC2 (S4-S5), TonyEatWorld (S4-S5)
 
 **1 Season (36):** _NoHacksJustlag (S1), Flqy (S1), Hypertrix (S1), xCynesta (S1), xDuk (S1), xNate_ (S1), xPingWinMan (S1), zakei (S1), Blue_DZN (S2), Chez_Burger (S2), CombosOP (S2), ItsStevenn (S2), NoThoughtz (S2), officialpinger (S2), TastyTaco (S2), ToxiccPvPer (S2), TurtlePlaysFTW (S2), xVirus_ (S2), Ethqn (S3), IceshardEleven (S3), KouzTheGreat (S3), Petialuca (S3), PolarAura (S3), Sawnic (S3), Fayon (S4), Geroot (S4), guccibulletvest (S4), loagn (S4), xNinetales (S4), Zahkari (S4), Bornyo (S5), brinkwhy (S5), centraleric (S5), Lucityy (S5), Ryfri (S5), SiahStone (S5)
 
@@ -204,7 +204,7 @@
 
 **S3 (9):** Ethqn, IceshardEleven, ItsChristiannn, KouzTheGreat, MrLazeo101, Petialuca, PolarAura, Sawnic, ShutUpHoe
 
-**S4 (12):** AHSOKATANOSTAN, BardMain2, Broseph, Fayon, Geroot, guccibulletvest, JaeHasNoMaidens, JoshC2, loagn, TonyEatWorld, xNinetales, Zahkari
+**S4 (12):** AHSOKATANOSTAN, BardMain2, Broseph, commitstaxfraud, Fayon, Geroot, guccibulletvest, JoshC2, loagn, TonyEatWorld, xNinetales, Zahkari
 
 **S5 (6):** Bornyo, brinkwhy, centraleric, Lucityy, Ryfri, SiahStone
 

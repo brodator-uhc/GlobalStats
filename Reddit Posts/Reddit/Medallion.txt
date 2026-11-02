@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - SamAGaming (10):** FSP_Ninja (S1), MetalGuy_100 (S1), Hgford (S1), VisaNos (S1), MitchyRules (S1), Incipiens (S1), ShockeryFlame (S2), Hgford (S3), WackoFlipper (S4), MetalGuy_100 (S4)
+**1st - SamAGaming (10):** FSP_Ninja (S1), MetalGuy_100 (S1), Hgford (S1), VisaNos (S1), Mitchyrules (S1), Incipiens (S1), ShockeryFlame (S2), Hgford (S3), WackoFlipper (S4), MetalGuy_100 (S4)
 
 **2nd - DrWonkenstein (7):** WackoFlipper (S2), Kiinako_ (S2), SpikeWinn (S3), HoneyFromHell (S3), vinny212 (S3), jordanleevan (S3), Snuggelz007 (S3)
 
@@ -155,12 +155,12 @@
 
 **2 Seasons (10):** FSP_Ninja (S1-S2), tiffaroni (S1,S3), VisaNos (S1,S3), DrWonkenstein (S2-S3), Kakintse (S2-S3), SpikeWinn (S2-S3), thegrombmx11 (S2-S3), vinny212 (S2-S3), Ruari (S3-S4), tooooobin (S3-S4)
 
-**1 Season (18):** Dr_Beanz (S1), MitchyRules (S1), PokeLP (S2), Qyet (S2), Sanderson (S2), ShockeryFlame (S2), EuropesNinja (S3), jordanleevan (S3), KacTheRedPanda (S3), Schmeon (S3), SuddenlyBeagles (S3), _shadowapples (S4), Frostbreath (S4), Goldcap (S4), Jakekub (S4), RastaNinja_ (S4), Shadowlego (S4), TaylorLive (S4)
+**1 Season (18):** Dr_Beanz (S1), Mitchyrules (S1), PokeLP (S2), Qyet (S2), Sanderson (S2), ShockeryFlame (S2), EuropesNinja (S3), jordanleevan (S3), KacTheRedPanda (S3), Schmeon (S3), SuddenlyBeagles (S3), _shadowapples (S4), Frostbreath (S4), Goldcap (S4), Jakekub (S4), RastaNinja_ (S4), Shadowlego (S4), TaylorLive (S4)
 
 ---
 ### Debutants
 
-**S1 (14):** Builder999, Dr_Beanz, FSP_Ninja, Hgford, HoneyFromHell, Incipiens, MetalGuy_100, MitchyRules, MooshroomCrafter, pigcolony, SamAGaming, Snuggelz007, tiffaroni, VisaNos
+**S1 (14):** Builder999, Dr_Beanz, FSP_Ninja, Hgford, HoneyFromHell, Incipiens, MetalGuy_100, Mitchyrules, MooshroomCrafter, pigcolony, SamAGaming, Snuggelz007, tiffaroni, VisaNos
 
 **S2 (11):** DrWonkenstein, Kakintse, Kiinako_, PokeLP, Qyet, Sanderson, ShockeryFlame, SpikeWinn, thegrombmx11, vinny212, WackoFlipper
 

@@ -365,7 +365,7 @@
 
 **28th - insanegguy (3):** Hollymatman (S2), LongaVita (S9), nihontiger (S10)
 
-**28th - Matsuzen (3):** ScOpE_H3ad (S9), 272 (S12), dnnyys (S12)
+**28th - Matsuzen (3):** Scope_H3ad (S9), 272 (S12), dnnyys (S12)
 
 **28th - Pippiter (3):** CheckTheMic (S3), LongaVita (S4), ScorpionJg (S4)
 
@@ -387,7 +387,7 @@
 
 **38th - Maddognils (2):** KacTheRedPanda (S8), preamblee (S8)
 
-**38th - ScOpE_H3ad (2):** Frostbreath (S9), Conflictt (S9)
+**38th - Scope_H3ad (2):** Frostbreath (S9), Conflictt (S9)
 
 **38th - wibbol (2):** WackoFlipper (S17), dnnyys (S17)
 
@@ -475,7 +475,7 @@
 
 **2 Seasons (21):** gekkekanirie (S1-S2), TheBestGinger13 (S1-S2), Kdid (S4,S8), UnicornAnna (S4-S5), Eli7777777 (S5-S6), GeoLP (S6-S7), Kaleeka (S6,S8), Conflictt (S7,S9), SidGarcia (S7,S13), Maddognils (S8,S11), HunterWolf (S10-S11), smellyburrito (S10,S12), Hannilala (S11,S13), Kieranborn (S13-S14), 78ford (S15-S16), BBR_ (S15-S16), dRawry (S15-S16), Fancyyy (S15-S16), Mathyy (S15-S16), ScottPirie (S15-S16), centraleric (S16-S17)
 
-**1 Season (21):** Jaewoook (S2), No0neAtAll (S2), fx04 (S7), bror31 (S8), ScOpE_H3ad (S9), Carterpaul (S10), Gillieeeee (S11), Tomathius (S11), Kev (S12), TGMB1 (S13), BreakSalad (S14), Zevulpes (S14), Daffz (S15), Flouzemaker (S15), ThePeridotKnight (S16), AronBaynes (S17), Brodator (S17), ColdBac (S17), Dylanthesnake (S17), hammer_fan (S17), Tootikins (S17)
+**1 Season (21):** Jaewoook (S2), No0neAtAll (S2), fx04 (S7), bror31 (S8), Scope_H3ad (S9), Carterpaul (S10), Gillieeeee (S11), Tomathius (S11), Kev (S12), TGMB1 (S13), BreakSalad (S14), Zevulpes (S14), Daffz (S15), Flouzemaker (S15), ThePeridotKnight (S16), AronBaynes (S17), Brodator (S17), ColdBac (S17), Dylanthesnake (S17), hammer_fan (S17), Tootikins (S17)
 
 ---
 ### Debutants
@@ -496,7 +496,7 @@
 
 **S8 (2):** bror31, Maddognils
 
-**S9 (4):** Frostbreath, nihontiger, ScOpE_H3ad, Zenniker
+**S9 (4):** Frostbreath, nihontiger, Scope_H3ad, Zenniker
 
 **S10 (4):** Carterpaul, HunterWolf, smellyburrito, TheSonicJoey
 

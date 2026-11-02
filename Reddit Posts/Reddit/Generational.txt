@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: Bornyo (3), Shu_MCSG (2)**, *bayweafs (0), ethodog (0), Fearx_ (0), FroztiSnowman (0), GodlySteal (0), zCent (1)*
+**S1: Bornyo (3), ShuMCSG (2)**, *bayweafs (0), ethodog (0), Fearx_ (0), FroztiSnowman (0), GodlySteal (0), zCent (1)*
 
 **S2: PupperKun (3), skyzfy (2)**
 
@@ -69,7 +69,7 @@
 ---
 ### First Blood
 
-**S1:** Shu_MCSG (skyzfy)
+**S1:** ShuMCSG (skyzfy)
 
 **S2:** _carn & evuhlynx (Double Kill)
 
@@ -80,7 +80,7 @@
 ---
 ### First Death
 
-**S1:** skyzfy (Shu_MCSG)
+**S1:** skyzfy (ShuMCSG)
 
 **S2:** evuhlynx & _carn (Double Kill)
 
@@ -127,7 +127,7 @@
 
 **15th - GrassPiece (3):** Zoroh (S1), ethodog (S1), MercuryParadox (S1)
 
-**15th - Shu_MCSG (3):** skyzfy (S1), bayweafs (S1), Fearx_ (S2)
+**15th - ShuMCSG (3):** skyzfy (S1), bayweafs (S1), Fearx_ (S2)
 
 **15th - strategy (3):** MercuryParadox (S3), Fcrm (S3), Bobbytheturtle (S3)
 
@@ -135,7 +135,7 @@
 
 **21st - Dcrpy (2):** BoltsInCharge (S3), Cloversss (S3)
 
-**21st - skyzfy (2):** _pbo (S2), Shu_MCSG (S2)
+**21st - skyzfy (2):** _pbo (S2), ShuMCSG (S2)
 
 **21st - Valnius (2):** alexnv (S4), CurdledDrip (S4)
 
@@ -185,14 +185,14 @@
 
 **3 Seasons (9):** _carn (S1-S3), broccoliar (S1-S3), Brodator (S1-S3), carterwarterbear (S1-S3), dahii (S1-S3), Glarza (S1,S3-S4), painterwanabe (S1-S3), Psykl0ne (S1,S3-S4), sgouche (S1-S2,S4)
 
-**2 Seasons (21):** ArcticSeagull (S1,S3), BuildingBard300 (S1-S2), CAMKART100 (S1-S2), DJoee (S1,S4), ethodog (S1,S3), evuhlynx (S1-S2), FroztiSnowman (S1,S4), Gleoss (S1,S4), GrassPiece (S1,S4), Greeples (S1-S2), HalfLechuga (S1,S3), MercuryParadox (S1,S3), PotatoPlayer_ (S1,S3), PupperKun (S1-S2), Shu_MCSG (S1-S2), SpaceFenix (S1,S4), Spongey (S1-S2), vynil (S1,S3), Kaismartypants (S2-S3), SOAKLE (S2,S4), HUQTER (S3-S4)
+**2 Seasons (21):** ArcticSeagull (S1,S3), BuildingBard300 (S1-S2), CAMKART100 (S1-S2), DJoee (S1,S4), ethodog (S1,S3), evuhlynx (S1-S2), FroztiSnowman (S1,S4), Gleoss (S1,S4), GrassPiece (S1,S4), Greeples (S1-S2), HalfLechuga (S1,S3), MercuryParadox (S1,S3), PotatoPlayer_ (S1,S3), PupperKun (S1-S2), ShuMCSG (S1-S2), SpaceFenix (S1,S4), Spongey (S1-S2), vynil (S1,S3), Kaismartypants (S2-S3), SOAKLE (S2,S4), HUQTER (S3-S4)
 
 **1 Season (30):** bayweafs (S1), Bornyo (S1), IdkKiller (S1), wizarde (S1), zCent (S1), Zoroh (S1), _pbo (S2), AvyleZ (S2), brinkwhy (S2), DogOfKrondor (S2), gartbak (S2), Ginzburg (S2), Lighte (S2), nsket (S2), Bobbytheturtle (S3), BoltsInCharge (S3), Dcrpy (S3), DumbThiccNick (S3), strategy (S3), ToeKun (S3), alexnv (S4), applrei (S4), ClosedIT (S4), DEREKAST (S4), grantfaker (S4), LUCRODIUM (S4), Seabasstian (S4), Tonylmao (S4), Valnius (S4), zohhhh (S4)
 
 ---
 ### Debutants
 
-**S1 (42):** _carn, ArcticSeagull, bayweafs, benidk, Bornyo, broccoliar, Brodator, BuildingBard300, CAMKART100, carterwarterbear, Cloversss, CurdledDrip, dahii, DJoee, ethodog, evuhlynx, Fcrm, Fearx_, FroztiSnowman, Glarza, Gleoss, GodlySteal, GrassPiece, Greeples, HalfLechuga, IdkKiller, MercuryParadox, onstep, painterwanabe, PotatoPlayer_, Psykl0ne, PupperKun, SAYNAR, sgouche, Shu_MCSG, skyzfy, SpaceFenix, Spongey, vynil, wizarde, zCent, Zoroh
+**S1 (42):** _carn, ArcticSeagull, bayweafs, benidk, Bornyo, broccoliar, Brodator, BuildingBard300, CAMKART100, carterwarterbear, Cloversss, CurdledDrip, dahii, DJoee, ethodog, evuhlynx, Fcrm, Fearx_, FroztiSnowman, Glarza, Gleoss, GodlySteal, GrassPiece, Greeples, HalfLechuga, IdkKiller, MercuryParadox, onstep, painterwanabe, PotatoPlayer_, Psykl0ne, PupperKun, SAYNAR, sgouche, ShuMCSG, skyzfy, SpaceFenix, Spongey, vynil, wizarde, zCent, Zoroh
 
 **S2 (10):** _pbo, AvyleZ, brinkwhy, DogOfKrondor, gartbak, Ginzburg, Kaismartypants, Lighte, nsket, SOAKLE
 

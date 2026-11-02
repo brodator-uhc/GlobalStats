@@ -127,7 +127,7 @@
 
 **2nd - Fcrm (17):** CodeJoshua (S1), Kaimaxon (S1), noktime (S1), broccoliar (S1), BlueIceCrown (S3), _1mmortal_ (S3), Cloversss (S3), _1mmortal_ (S4), BoltsInCharge (S4), Colozi (S5), LightingMC (S5), ItsShqky (S6), CAMKART100 (S6), omchris (S6), LightingMC (S6), TheSlimeBrother (S6), Blarkslol (S6)
 
-**3rd - ItsShqky (12):** BuildingBard300 (S1), Kaddyn (S2), AdonisGaming (S2), broccoliar (S2), broccoliar (S3), BuildingBard300 (S4), RomeoG0401 (S5), broccoliar (S5), OneMoreWeek (S5), MineKG (S5), CodeJoshua (S5), ethodog (S5)
+**3rd - ItsShqky (12):** BuildingBard300 (S1), Kaddyn (S2), AdonisGaming (S2), broccoliar (S2), broccoliar (S3), BuildingBard300 (S4), RomeoG0401 (S5), broccoliar (S5), Fhqntom_ (S5), MineKG (S5), CodeJoshua (S5), ethodog (S5)
 
 **4th - broccoliar (10):** Krbreb (S1), AdonisGaming (S1), _1mmortal_ (S1), Kaddyn (S1), Jalapinecone (S2), MichaelPlayMC (S2), ItsShqky (S2), AshRiolu100985 (S3), Kaismartypants (S4), ZebraPantz (S4)
 
@@ -151,13 +151,13 @@
 
 **13th - ethodog (2):** Kaismartypants (S5), omchris (S5)
 
+**13th - Fhqntom_ (2):** rae0vr (S5), CommanderK22_ (S5)
+
 **13th - Kaddyn (2):** MinimanTurtle (S1), CodeJoshua (S2)
 
 **13th - MichaelPlayMC (2):** BuildingBard300 (S2), Dombers (S2)
 
 **13th - omchris (2):** Codwhy (S5), Bornyo (S6)
-
-**13th - OneMoreWeek (2):** rae0vr (S5), CommanderK22_ (S5)
 
 **13th - ZebraPantz (2):** Cloversss (S4), broccoliar (S4)
 
@@ -213,7 +213,7 @@
 
 **2 Seasons (15):** AdonisGaming (S1-S2), DJoee (S1,S3), DogOfKrondor (S1,S3), MinimanTurtle (S1,S5), nug17 (S1-S2), RomeoG0401 (S1,S5), Dombers (S2-S3), BlueIceCrown (S3,S5), Stravilight (S3,S5), Blarkslol (S5-S6), Bornyo (S5-S6), GitpaT24 (S5-S6), GuyNamedKreo (S5-S6), Markedbooboy (S5-S6), omchris (S5-S6)
 
-**1 Season (37):** benidk (S1), Forgot_N (S1), Hamishhhh (S1), Kaimaxon (S1), Krbreb (S1), Brodator (S2), Jalapinecone (S2), jimmyjegs (S2), JPmagic (S2), qTad (S2), xDiversity (S2), ExcalicoX75 (S3), ItsMeAR10 (S3), Vetmire (S3), zoeywithawhy (S3), ItsLittleT (S4), Kxnani (S4), Spongey (S4), ArcticSeagull (S5), Bobbytheturtle (S5), Codwhy (S5), Colozi (S5), CommanderK22_ (S5), Erdql (S5), ethodog (S5), Evxn101 (S5), Fireeypvp (S5), GamingStarr (S5), MercuryParadox (S5), MineKG (S5), OneMoreWeek (S5), QuillIsLost (S5), rae0vr (S5), Viatic_ (S5), WishyNathan (S5), BEANJEE (S6), TheSlimeBrother (S6)
+**1 Season (37):** benidk (S1), Forgot_N (S1), Hamishhhh (S1), Kaimaxon (S1), Krbreb (S1), Brodator (S2), Jalapinecone (S2), jimmyjegs (S2), JPmagic (S2), qTad (S2), xDiversity (S2), ExcalicoX75 (S3), ItsMeAR10 (S3), Vetmire (S3), zoeywithawhy (S3), ItsLittleT (S4), Kxnani (S4), Spongey (S4), ArcticSeagull (S5), Bobbytheturtle (S5), Codwhy (S5), Colozi (S5), CommanderK22_ (S5), Erdql (S5), ethodog (S5), Evxn101 (S5), Fhqntom_ (S5), Fireeypvp (S5), GamingStarr (S5), MercuryParadox (S5), MineKG (S5), QuillIsLost (S5), rae0vr (S5), Viatic_ (S5), WishyNathan (S5), BEANJEE (S6), TheSlimeBrother (S6)
 
 ---
 ### Debutants
@@ -226,7 +226,7 @@
 
 **S4 (6):** BoltsInCharge, CAMKART100, ItsLittleT, Kxnani, Spongey, ZebraPantz
 
-**S5 (23):** ArcticSeagull, Blarkslol, Bobbytheturtle, Bornyo, Codwhy, Colozi, CommanderK22_, Erdql, ethodog, Evxn101, Fireeypvp, GamingStarr, GitpaT24, GuyNamedKreo, Markedbooboy, MercuryParadox, MineKG, omchris, OneMoreWeek, QuillIsLost, rae0vr, Viatic_, WishyNathan
+**S5 (23):** ArcticSeagull, Blarkslol, Bobbytheturtle, Bornyo, Codwhy, Colozi, CommanderK22_, Erdql, ethodog, Evxn101, Fhqntom_, Fireeypvp, GamingStarr, GitpaT24, GuyNamedKreo, Markedbooboy, MercuryParadox, MineKG, omchris, QuillIsLost, rae0vr, Viatic_, WishyNathan
 
 **S6 (2):** BEANJEE, TheSlimeBrother
 

@@ -61,7 +61,7 @@
 
 **S2:** iSoq (Etoiles)
 
-**S4:** ClemXYZ69 (Steviix)
+**S4:** clemXYZ69 (Steviix)
 
 ---
 ### First Death
@@ -70,14 +70,14 @@
 
 **S2:** Pib4me (Creeper)
 
-**S4:** Steviix (ClemXYZ69)
+**S4:** Steviix (clemXYZ69)
 
 ---
 ### Kills
 
 **1st - CedGhoss (13):** Daiko (S1), Dezd (S1), Flouzemaker (S1), iSoq (S1), Pauluux (S1), TheGamerCool (S1), Notitou (S2), Daiko (S2), iSoq (S2), Pauluux (S2), MrLulucas (S2), Owls (S2), Ninboso (S2)
 
-**2nd - Notitou (6):** MrLulucas (S1), Minichaud (S2), Guep (S4), Guitou (S4), ClemXYZ69 (S4), Etoiles (S4)
+**2nd - Notitou (6):** MrLulucas (S1), Minichaud (S2), Guep (S4), Guitou (S4), clemXYZ69 (S4), Etoiles (S4)
 
 **3rd - Gamur (5):** Stellios_Cantos (S2), Flouzemaker (S2), Moustafa74 (S2), Dezd (S2), CedGhoss (S2)
 
@@ -87,7 +87,7 @@
 
 **5th - TheGamerCool (3):** Nannoxx (S1), Steviix (S1), Stellios_Cantos (S1)
 
-**7th - ClemXYZ69 (2):** Steviix (S4), Nonoboy62 (S4)
+**7th - clemXYZ69 (2):** Steviix (S4), Nonoboy62 (S4)
 
 **7th - Guitou (2):** Loupio66 (S4), Wolf381 (S4)
 
@@ -97,13 +97,13 @@
 
 **7th - Shadoune666 (2):** Nannoxx (S2), Steviix (S2)
 
-**7th - Stellios_Cantos (2):** Okthxbye (S4), Luministe (S4)
+**7th - Stellios_Cantos (2):** okthxbye (S4), Luministe (S4)
 
 **13th - Etoiles (1):** Pauluux (S4)
 
 **13th - Flouzemaker (1):** Notitou (S1)
 
-**13th - Luministe (1):** Xygna (S4)
+**13th - Luministe (1):** xygna (S4)
 
 **13th - nemenems (1):** Guep (S2)
 
@@ -127,7 +127,7 @@
 
 **2 Seasons (6):** CedGhoss (S1-S2), Dezd (S1-S2), Flouzemaker (S1-S2), Fukano (S1-S2), iSoq (S1-S2), MrLulucas (S1-S2)
 
-**1 Season (21):** TheGamerCool (S1), Gamur (S2), Minichaud (S2), Moustafa74 (S2), nemenems (S2), Ninboso (S2), Owls (S2), Pib4me (S2), Shadoune666 (S2), ThozFR (S2), Babouine (S4), ClemXYZ69 (S4), Guitou (S4), Loupio66 (S4), Luministe (S4), Nadouu (S4), Nonoboy62 (S4), Okthxbye (S4), T1nky (S4), TheGuill84 (S4), Xygna (S4)
+**1 Season (21):** TheGamerCool (S1), Gamur (S2), Minichaud (S2), Moustafa74 (S2), nemenems (S2), Ninboso (S2), Owls (S2), Pib4me (S2), Shadoune666 (S2), ThozFR (S2), Babouine (S4), clemXYZ69 (S4), Guitou (S4), Loupio66 (S4), Luministe (S4), Nadouu (S4), Nonoboy62 (S4), okthxbye (S4), T1nky (S4), TheGuill84 (S4), xygna (S4)
 
 ---
 ### Debutants
@@ -136,6 +136,6 @@
 
 **S2 (9):** Gamur, Minichaud, Moustafa74, nemenems, Ninboso, Owls, Pib4me, Shadoune666, ThozFR
 
-**S4 (11):** Babouine, ClemXYZ69, Guitou, Loupio66, Luministe, Nadouu, Nonoboy62, Okthxbye, T1nky, TheGuill84, Xygna
+**S4 (11):** Babouine, clemXYZ69, Guitou, Loupio66, Luministe, Nadouu, Nonoboy62, okthxbye, T1nky, TheGuill84, xygna
 
 ---

@@ -99,7 +99,7 @@
 
 **3rd - rockyers57 (3):** AshleyMashley (S4), ItsShqky (S4), CAMKART100 (S4)
 
-**5th - broccoliar (2):** kawaiibunri (S1), Forgot_N (S1)
+**5th - broccoliar (2):** evuhlynx (S1), Forgot_N (S1)
 
 **5th - Kaimaxon (2):** BuildingBard300 (S2), noktime (S2)
 
@@ -119,11 +119,11 @@
 
 **9th - CommanderK22_ (1):** Evzenitable (S4)
 
+**9th - evuhlynx (1):** Codwhy (S1)
+
 **9th - fruitlogic (1):** GrandSlamBlocker (S2)
 
 **9th - ItsLittleT (1):** BuildingBard300 (S4)
-
-**9th - kawaiibunri (1):** Codwhy (S1)
 
 **9th - TheSlimeBrother (1):** _FallenTurtle_ (S3)
 
@@ -153,12 +153,12 @@
 
 **2 Seasons (6):** _1mmortal_ (S1,S3), ItsLittleT (S1,S4), Kaimaxon (S1-S2), noktime (S2-S3), rockyers57 (S2,S4), ItsShqky (S3-S4)
 
-**1 Season (19):** bh1747 (S1), CodeJoshua (S1), Codwhy (S1), Forgot_N (S1), Foxables (S1), kawaiibunri (S1), NoblePig (S1), T1mT0m (S1), TheOGToot (S1), fruitlogic (S2), Jalapinecone (S2), Outoftheblue77 (S3), TehBaconBrawlerZ (S3), AshleyMashley (S4), AshRiolu100985 (S4), CAMKART100 (S4), cilvj (S4), CommanderK22_ (S4), Evzenitable (S4)
+**1 Season (19):** bh1747 (S1), CodeJoshua (S1), Codwhy (S1), evuhlynx (S1), Forgot_N (S1), Foxables (S1), NoblePig (S1), T1mT0m (S1), TheOGToot (S1), fruitlogic (S2), Jalapinecone (S2), Outoftheblue77 (S3), TehBaconBrawlerZ (S3), AshleyMashley (S4), AshRiolu100985 (S4), CAMKART100 (S4), cilvj (S4), CommanderK22_ (S4), Evzenitable (S4)
 
 ---
 ### Debutants
 
-**S1 (18):** _1mmortal_, _FallenTurtle_, bh1747, broccoliar, BuildingBard300, CodeJoshua, Codwhy, Forgot_N, Foxables, GrandSlamBlocker, ItsLittleT, Kaimaxon, Kaismartypants, kawaiibunri, NoblePig, T1mT0m, TheOGToot, TheSlimeBrother
+**S1 (18):** _1mmortal_, _FallenTurtle_, bh1747, broccoliar, BuildingBard300, CodeJoshua, Codwhy, evuhlynx, Forgot_N, Foxables, GrandSlamBlocker, ItsLittleT, Kaimaxon, Kaismartypants, NoblePig, T1mT0m, TheOGToot, TheSlimeBrother
 
 **S2 (4):** fruitlogic, Jalapinecone, noktime, rockyers57
 

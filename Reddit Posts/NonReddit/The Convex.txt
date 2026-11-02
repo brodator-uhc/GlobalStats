@@ -97,7 +97,7 @@
 
 **3rd - Vetmire (6):** poWpaH (S1), St0rmplayz (S2), _Dieter (S3), Fcrm (S3), ArcticSeagull (S3), David63 (S4)
 
-**4th - cherryblawsom (5):** Broseph (S4), poWpaH (S4), FrostBros (S4), DevoyTTV (S4), RqDix (S4)
+**4th - cherryblawsom (5):** Broseph (S4), poWpaH (S4), FrostBros (S4), DevoyTTV (S4), AsianCheatCode (S4)
 
 **4th - TayUHC (5):** Fourbitplayer (S2), Glarza (S2), CodeJoshua (S2), pitzamachine (S3), silent_spriicket (S3)
 
@@ -141,6 +141,8 @@
 
 **25th - _Fost_ (1):** UglySheep (S2)
 
+**25th - AsianCheatCode (1):** 4EyedSlime (S4)
+
 **25th - Broseph (1):** emi1iano (S3)
 
 **25th - Bulbexe (1):** TehBaconBrawlerZ (S3)
@@ -156,8 +158,6 @@
 **25th - NickPlaysGames15 (1):** Slooshyy (S1)
 
 **25th - Pelycosaur (1):** _Fost_ (S1)
-
-**25th - RqDix (1):** 4EyedSlime (S4)
 
 **25th - silent_spriicket (1):** Bulbexe (S3)
 
@@ -189,7 +189,7 @@
 
 **2 Seasons (14):** _Fost_ (S1-S2), brinkwhy (S1-S2), Evzenitable (S1-S2), OddishThoughts (S1-S2), Slooshyy (S1-S2), Bulbexe (S2-S3), CodeJoshua (S2,S4), David63 (S2,S4), Fourbitplayer (S2-S3), TayUHC (S2-S3), Broseph (S3-S4), Codwhy (S3-S4), DevoyTTV (S3-S4), IyaIsMad (S3-S4)
 
-**1 Season (34):** Crafters (S1), Espik (S1), ghostblurr (S1), KlutzySphere (S1), Mincrooft (S1), ohh_lia (S1), p1an (S1), Rebelghost (S1), TvError (S1), violetwoah (S1), Alekii (S2), DatGuyAdam (S2), Jorgeeay (S2), kirbey (S2), St0rmplayz (S2), UglySheep (S2), _Dieter (S3), Cubic44 (S3), deccop (S3), Fcrm (S3), ItsColinn (S3), pitzamachine (S3), _shi (S4), 4EyedSlime (S4), Austronomical (S4), Caydone (S4), Charrlottie (S4), cherryblawsom (S4), CipherKai (S4), FrostBros (S4), harkuaa (S4), JaqOnCraq (S4), Normoh (S4), RqDix (S4)
+**1 Season (34):** Crafters (S1), Espik (S1), ghostblurr (S1), KlutzySphere (S1), Mincrooft (S1), ohh_lia (S1), p1an (S1), Rebelghost (S1), TvError (S1), violetwoah (S1), Alekii (S2), DatGuyAdam (S2), Jorgeeay (S2), kirbey (S2), St0rmplayz (S2), UglySheep (S2), _Dieter (S3), Cubic44 (S3), deccop (S3), Fcrm (S3), ItsColinn (S3), pitzamachine (S3), _shi (S4), 4EyedSlime (S4), AsianCheatCode (S4), Austronomical (S4), Caydone (S4), Charrlottie (S4), cherryblawsom (S4), CipherKai (S4), FrostBros (S4), harkuaa (S4), JaqOnCraq (S4), Normoh (S4)
 
 ---
 ### Debutants
@@ -200,6 +200,6 @@
 
 **S3 (10):** _Dieter, Broseph, Codwhy, Cubic44, deccop, DevoyTTV, Fcrm, ItsColinn, IyaIsMad, pitzamachine
 
-**S4 (12):** _shi, 4EyedSlime, Austronomical, Caydone, Charrlottie, cherryblawsom, CipherKai, FrostBros, harkuaa, JaqOnCraq, Normoh, RqDix
+**S4 (12):** _shi, 4EyedSlime, AsianCheatCode, Austronomical, Caydone, Charrlottie, cherryblawsom, CipherKai, FrostBros, harkuaa, JaqOnCraq, Normoh
 
 ---

@@ -19,7 +19,7 @@
 
 **S1:** Heralen (6)
 
-**S2:** Pippiter, ScOpE_H3ad, TicedUp (4)
+**S2:** Pippiter, Scope_H3ad, TicedUp (4)
 
 ---
 ### Most Kills (Team)
@@ -47,7 +47,7 @@
 
 **S1:** CMattznes (BushieHalf)
 
-**S2:** Vi7155 (ItzTabzy)
+**S2:** Vi7155 (ItsTabzy)
 
 ---
 ### First Death
@@ -61,11 +61,11 @@
 
 **1st - Heralen (6):** MythicBlade999 (S1), ZestPlaysMC (S1), Guitardoodler (S1), GoldenOlive (S1), ItsJustMr80 (S1), YT_DIPER (S1)
 
-**2nd - Pippiter (4):** ScOpE_H3ad (S2), Sneegsnag (S2), MarcC5M (S2), TheBestGinger13 (S2)
+**2nd - Pippiter (4):** Scope_H3ad (S2), Sneegsnag (S2), MarcC5M (S2), TheBestGinger13 (S2)
 
-**2nd - ScOpE_H3ad (4):** GoldenOlive (S2), Shadoune666 (S2), EirenePneuma (S2), Shortgamer (S2)
+**2nd - Scope_H3ad (4):** GoldenOlive (S2), Shadoune666 (S2), EirenePneuma (S2), Shortgamer (S2)
 
-**2nd - TicedUp (4):** MythicBlade999 (S2), KanivaTimber (S2), _Frankie (S2), Maddognils (S2)
+**2nd - TicedUp (4):** MythicBlade999 (S2), kanivatimber (S2), _Frankie (S2), Maddognils (S2)
 
 **5th - 272 (2):** Blaikie (S2), Gilzor (S2)
 
@@ -81,7 +81,7 @@
 
 **9th - MythicBlade999 (1):** Vi7155 (S2)
 
-**9th - Vi7155 (1):** ItzTabzy (S2)
+**9th - Vi7155 (1):** ItsTabzy (S2)
 
 **9th - ZestPlaysMC (1):** BurningT (S1)
 
@@ -97,13 +97,13 @@
 
 **2 Seasons (4):** GoldenOlive (S1-S2), Guitardoodler (S1-S2), MythicBlade999 (S1-S2), ZestPlaysMC (S1-S2)
 
-**1 Season (27):** BurningT (S1), BushieHalf (S1), CMattznes (S1), Heralen (S1), ItsJustMr80 (S1), ShakeJunt (S1), YT_DIPER (S1), _Frankie (S2), 272 (S2), Blaikie (S2), EirenePneuma (S2), Gilzor (S2), ItzTabzy (S2), KanivaTimber (S2), Krenzinator (S2), Maddognils (S2), MarcC5M (S2), Pippiter (S2), ScOpE_H3ad (S2), Shadoune666 (S2), Shortgamer (S2), Sneegsnag (S2), stingswitch (S2), TheBestGinger13 (S2), TicedUp (S2), TommySuX (S2), Vi7155 (S2)
+**1 Season (27):** BurningT (S1), BushieHalf (S1), CMattznes (S1), Heralen (S1), ItsJustMr80 (S1), ShakeJunt (S1), YT_DIPER (S1), _Frankie (S2), 272 (S2), Blaikie (S2), EirenePneuma (S2), Gilzor (S2), ItsTabzy (S2), kanivatimber (S2), Krenzinator (S2), Maddognils (S2), MarcC5M (S2), Pippiter (S2), Scope_H3ad (S2), Shadoune666 (S2), Shortgamer (S2), Sneegsnag (S2), stingswitch (S2), TheBestGinger13 (S2), TicedUp (S2), TommySuX (S2), Vi7155 (S2)
 
 ---
 ### Debutants
 
 **S1 (11):** BurningT, BushieHalf, CMattznes, GoldenOlive, Guitardoodler, Heralen, ItsJustMr80, MythicBlade999, ShakeJunt, YT_DIPER, ZestPlaysMC
 
-**S2 (20):** _Frankie, 272, Blaikie, EirenePneuma, Gilzor, ItzTabzy, KanivaTimber, Krenzinator, Maddognils, MarcC5M, Pippiter, ScOpE_H3ad, Shadoune666, Shortgamer, Sneegsnag, stingswitch, TheBestGinger13, TicedUp, TommySuX, Vi7155
+**S2 (20):** _Frankie, 272, Blaikie, EirenePneuma, Gilzor, ItsTabzy, kanivatimber, Krenzinator, Maddognils, MarcC5M, Pippiter, Scope_H3ad, Shadoune666, Shortgamer, Sneegsnag, stingswitch, TheBestGinger13, TicedUp, TommySuX, Vi7155
 
 ---

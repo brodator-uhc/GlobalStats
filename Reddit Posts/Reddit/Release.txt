@@ -5,7 +5,7 @@
 
 **S1: Livin423 (2)**
 
-**S2: IyaIsMad (1), lilygant (3)**, *ItsPqnda (3)*
+**S2: catgirlharmony (3), IyaIsMad (1)**, *ItsPqnda (3)*
 
 **S3: AHSOKATANOSTAN (2), DKeri (1), Westcraft00 (2)**
 
@@ -23,7 +23,7 @@
 
 **S1:** iQuick_, IyaIsMad, Livin423 (2)
 
-**S2:** ItsPqnda, lilygant (3)
+**S2:** catgirlharmony, ItsPqnda (3)
 
 **S3:** broccoliar, natsuvi (3)
 
@@ -32,7 +32,7 @@
 
 **S1:** N/A
 
-**S2:** ItsPqnda (3), IyaIsMad (1), lilygant (3)
+**S2:** ItsPqnda (3), IyaIsMad (1), catgirlharmony (3)
 
 **S3:** Andronify (2), Kaismartypants (2), natsuvi (3)
 
@@ -66,7 +66,7 @@
 ---
 ### First Death
 
-**S1:** beanerr (Fall)
+**S1:** upsetbean (Fall)
 
 **S2:** BreakfastBacon (Fall)
 
@@ -79,11 +79,11 @@
 
 **1st - broccoliar (3):** Zebobo10 (S3), St0rmplayz (S3), brinkwhy (S3)
 
+**1st - catgirlharmony (3):** xCindeR_ (S2), Impqct (S2), AHSOKATANOSTAN (S2)
+
 **1st - ItsPqnda (3):** PoofessorP (S2), Bwaxton (S2), brinkwhy (S2)
 
 **1st - IyaIsMad (3):** TPolls (S1), DaMobFTW (S1), TheEquilizer (S2)
-
-**1st - lilygant (3):** xCindeR_ (S2), Impqct (S2), AHSOKATANOSTAN (S2)
 
 **1st - natsuvi (3):** Bornyo (S3), xKerigan (S3), BoltsInCharge (S3)
 
@@ -120,7 +120,7 @@
 ---
 ### PvE Deaths
 
-**Fall (2):** beanerr (S1), BreakfastBacon (S2)
+**Fall (2):** upsetbean (S1), BreakfastBacon (S2)
 
 **Fire (1):** JoshC2 (S2)
 
@@ -135,14 +135,14 @@
 
 **2 Seasons (4):** JoshC2 (S1-S2), Kaismartypants (S1,S3), brinkwhy (S2-S3), Ejecko (S2-S3)
 
-**1 Season (35):** BardMain2 (S1), beanerr (S1), Broseph (S1), DaMobFTW (S1), guccibulletvest (S1), iQuick_ (S1), Livin423 (S1), MegaLuxray (S1), nh177O13 (S1), TPolls (S1), BreakfastBacon (S2), Bwaxton (S2), Impqct (S2), ItsPqnda (S2), lilygant (S2), Master_Saber (S2), PoofessorP (S2), TheEquilizer (S2), ThisIsHab (S2), xCindeR_ (S2), Andronify (S3), Blarkslol (S3), BoltsInCharge (S3), broccoliar (S3), ChainingVermin2 (S3), DarkShard (S3), DKeri (S3), natsuvi (S3), Roci97 (S3), SharkeyJaws (S3), St0rmplayz (S3), Westcraft00 (S3), wizarde (S3), xKerigan (S3), Zebobo10 (S3)
+**1 Season (35):** BardMain2 (S1), Broseph (S1), DaMobFTW (S1), guccibulletvest (S1), iQuick_ (S1), Livin423 (S1), MegaLuxray (S1), nh177O13 (S1), TPolls (S1), upsetbean (S1), BreakfastBacon (S2), Bwaxton (S2), catgirlharmony (S2), Impqct (S2), ItsPqnda (S2), Master_Saber (S2), PoofessorP (S2), TheEquilizer (S2), ThisIsHab (S2), xCindeR_ (S2), Andronify (S3), Blarkslol (S3), BoltsInCharge (S3), broccoliar (S3), ChainingVermin2 (S3), DarkShard (S3), DKeri (S3), natsuvi (S3), Roci97 (S3), SharkeyJaws (S3), St0rmplayz (S3), Westcraft00 (S3), wizarde (S3), xKerigan (S3), Zebobo10 (S3)
 
 ---
 ### Debutants
 
-**S1 (15):** AHSOKATANOSTAN, BardMain2, beanerr, Bornyo, Broseph, DaMobFTW, guccibulletvest, iQuick_, IyaIsMad, JoshC2, Kaismartypants, Livin423, MegaLuxray, nh177O13, TPolls
+**S1 (15):** AHSOKATANOSTAN, BardMain2, Bornyo, Broseph, DaMobFTW, guccibulletvest, iQuick_, IyaIsMad, JoshC2, Kaismartypants, Livin423, MegaLuxray, nh177O13, TPolls, upsetbean
 
-**S2 (12):** BreakfastBacon, brinkwhy, Bwaxton, Ejecko, Impqct, ItsPqnda, lilygant, Master_Saber, PoofessorP, TheEquilizer, ThisIsHab, xCindeR_
+**S2 (12):** BreakfastBacon, brinkwhy, Bwaxton, catgirlharmony, Ejecko, Impqct, ItsPqnda, Master_Saber, PoofessorP, TheEquilizer, ThisIsHab, xCindeR_
 
 **S3 (15):** Andronify, Blarkslol, BoltsInCharge, broccoliar, ChainingVermin2, DarkShard, DKeri, natsuvi, Roci97, SharkeyJaws, St0rmplayz, Westcraft00, wizarde, xKerigan, Zebobo10
 

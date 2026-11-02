@@ -76,7 +76,7 @@
 
 **S16b:** MercuryParadox (2), Nintendoshi (1)
 
-**S17:** MaxEvasion (4), TheKevGuy (0)
+**S17:** MaxEvasion (4), TheKevJawn (0)
 
 ---
 ### Most Kills
@@ -317,7 +317,7 @@
 
 **1st - ColdBac (27):** ToucanTom (S5), dRawry (S5), Topspinpiggles (S5), 78ford (S6), lottebunny (S6), AvaCos (S7), BBR_ (S7), scriblur (S7), YellowVitt (S7), MercuryParadox (S7), tilargo (S9), Daffz (S9), Ixolock (S9), Chasmic (S11), nFang (S12), BBR_ (S12), Potsie (S12), Flouzemaker (S12), Nintendoshi (S13), frogsella (S13), WillBrisk (S13), MercuryParadox (S15), Klickacat (S15), Maxwellfifty (S15), YellowVitt (S15), Rohcket (S15), Rohcket (S17)
 
-**2nd - Bobbytheturtle (13):** Hoppy (S16b), MaxEvasion (S16b), buttergolem1 (S16b), ShootingGoats (S16b), cherryblawsom (S16b), centraleric (S16b), WackoFlipper (S16b), Havenhand (S16b), TheKevGuy (S16b), Maxwellfifty (S16b), MarcC5M (S16b), SpaceFenix (S16b), MercuryParadox (S16b)
+**2nd - Bobbytheturtle (13):** Hoppy (S16b), MaxEvasion (S16b), buttergolem1 (S16b), ShootingGoats (S16b), cherryblawsom (S16b), centraleric (S16b), WackoFlipper (S16b), Havenhand (S16b), TheKevJawn (S16b), Maxwellfifty (S16b), MarcC5M (S16b), SpaceFenix (S16b), MercuryParadox (S16b)
 
 **2nd - lottebunny (13):** dRawry (S6), AvaCos (S6), TheRealHagrid (S6), Maxwellfifty (S6), scriblur (S8), Kiinako_ (S9), MrCraftinator (S9), 78ford (S9), rippersteveM5 (S13), Klickacat (S14), H_L_llama (S15), DJoee (S15), MaxEvasion (S15)
 
@@ -325,7 +325,7 @@
 
 **2nd - Potsie (13):** Maxwellfifty (S5), MercuryParadox (S6), Daffz (S6), TommySuX (S6), LordLaelaps (S6), floobel (S6), frogsella (S7), 78ford (S8), Flouzemaker (S9), 78ford (S11), MercuryParadox (S13), QuilJ1 (S13), mqson (S13)
 
-**6th - MercuryParadox (12):** LordLaelaps (S5), QuilJ1 (S8), illuminaja (S12), Klickacat (S13), ShyGus (S14), ChainingVermin2 (S16b), pigghetti (S16b), Flouzemaker (S17), chloesad (S17), TheKevGuy (S17), centraleric (S17), MaxEvasion (S17)
+**6th - MercuryParadox (12):** LordLaelaps (S5), QuilJ1 (S8), illuminaja (S12), Klickacat (S13), ShyGus (S14), ChainingVermin2 (S16b), pigghetti (S16b), Flouzemaker (S17), chloesad (S17), TheKevJawn (S17), centraleric (S17), MaxEvasion (S17)
 
 **6th - tagggz (12):** Mathyy (S7), LongaVita (S7), chloesad (S9), Potsie (S9), WackoFlipper (S11), ColdBac (S11), Edviin_ (S11), DjTalica (S11), rippersteveM5 (S11), brodioh (S12), miles1baseball (S12), Flohp (S12)
 
@@ -355,9 +355,9 @@
 
 **15th - vynil (7):** ShyGus (S7), chloesad (S7), Kiinako_ (S8), WackoFlipper (S8), orcau (S8), YellowVitt (S8), rippersteveM5 (S8)
 
-**21st - Cyndic (6):** TheKevGuy (S10), 5kylord (S10), QuilJ1 (S10), Edviin_ (S10), MaxEvasion (S14), Hacn35 (S14)
+**21st - Cyndic (6):** TheKevJawn (S10), 5kylord (S10), QuilJ1 (S10), Edviin_ (S10), MaxEvasion (S14), Hacn35 (S14)
 
-**21st - discoczibi (6):** TheKevGuy (S11), WackoFlipper (S15), frogsella (S15), Potsie (S15), lottebunny (S15), TheRealHagrid (S15)
+**21st - discoczibi (6):** TheKevJawn (S11), WackoFlipper (S15), frogsella (S15), Potsie (S15), lottebunny (S15), TheRealHagrid (S15)
 
 **21st - MajorWoof (6):** Omertosa (S13), DJoee (S13), Chasmic (S16a), Maxwellfifty (S16a), WillBrisk (S16a), BSBrent (S16b)
 
@@ -485,7 +485,7 @@
 
 **68th - SummerBqsh (1):** HoneyFromHell (S9)
 
-**68th - TheKevGuy (1):** Chasmic (S10)
+**68th - TheKevJawn (1):** Chasmic (S10)
 
 **68th - Tomathius (1):** _shadowapples (S1)
 
@@ -551,7 +551,7 @@
 
 **5 Seasons (9):** MrCraftinator (S1-S3,S7,S9), HoneyFromHell (S2-S3,S5,S8-S9), TommySuX (S2-S4,S6-S7), ToucanTom (S5,S12-S13,S16a-S16b), OnlyCosmia (S9-S13), jommyappleseed (S12-S16a), DJoee (S13-S16b), MaxEvasion (S13-S15,S16b-S17), centraleric (S14-S17)
 
-**4 Seasons (11):** _shadowapples (S1-S4), Flohp (S1,S12,S15-S16a), nihontiger (S2,S4,S6,S15), jamertxn (S5-S7,S16b), LordLaelaps (S5-S7,S10), Daffz (S6-S9), miles1baseball (S6-S7,S9,S12), Fourbitplayer (S10-S11,S13,S16b), TheKevGuy (S10-S11,S16b-S17), Omertosa (S13-S16a), Gorgerous (S14,S16a-S17)
+**4 Seasons (11):** _shadowapples (S1-S4), Flohp (S1,S12,S15-S16a), nihontiger (S2,S4,S6,S15), jamertxn (S5-S7,S16b), LordLaelaps (S5-S7,S10), Daffz (S6-S9), miles1baseball (S6-S7,S9,S12), Fourbitplayer (S10-S11,S13,S16b), TheKevJawn (S10-S11,S16b-S17), Omertosa (S13-S16a), Gorgerous (S14,S16a-S17)
 
 **3 Seasons (11):** Havenhand (S4,S15,S16b), BushieHalf (S5-S7), dRawry (S5-S6,S8), BSBrent (S9-S10,S16b), discoczibi (S11,S15-S16a), DjTalica (S11-S12,S14), brodioh (S12,S14,S16b), Hacn35 (S12,S14,S16b), WillBrisk (S12-S13,S16a), Nintendoshi (S13-S14,S16b), CrowJRC (S15,S16b-S17)
 
@@ -580,7 +580,7 @@
 
 **S9 (4):** BSBrent, MajorWoof, OnlyCosmia, SummerBqsh
 
-**S10 (5):** 5kylord, Cyndic, Fourbitplayer, TheKevGuy, WaXmAn24
+**S10 (5):** 5kylord, Cyndic, Fourbitplayer, TheKevJawn, WaXmAn24
 
 **S11 (5):** cherryblawsom, discoczibi, DjTalica, pigghetti, Rohcket
 

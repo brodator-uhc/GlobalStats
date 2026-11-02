@@ -293,11 +293,11 @@
 
 **5th - Zeegul (11):** ObamaBinLaden24 (S2), Purp_ (S5), Colozi (S7), PPanix (S7), Purp_ (S8), thrublock (S8), Silquey (S11), goompah (S12), 5ARx (S15), ItsShqky (S16), goompah (S16)
 
-**6th - goompah (10):** ItsShqky (S1), Marcopoloian (S1), SwirllzXL (S1), Tunaisheree (S7), kawaiibunri (S10), YoboiImBad (S15), SwirllzXL (S15), JuniorTheCrafter (S15), Purp_ (S15), YoboiImBad (S16)
+**6th - goompah (10):** ItsShqky (S1), Marcopoloian (S1), SwirllzXL (S1), Tunaisheree (S7), evuhlynx (S10), YoboiImBad (S15), SwirllzXL (S15), JuniorTheCrafter (S15), Purp_ (S15), YoboiImBad (S16)
 
 **6th - Sprief (10):** SmoothCombos (S2), NumberJuan64 (S2), 5ARx (S2), Azjented (S8), bayweafs (S8), ItsShqky (S8), Jkkl (S8), SOAKLE (S11), SwirllzXL (S11), HalfLechuga (S16)
 
-**6th - thrublock (10):** goompah (S5), Marcopoloian (S5), bayweafs (S6), Silquey (S6), Arcaded (S9), Wreckm (S9), Colozi (S9), kawaiibunri (S15), Zeegul (S15), Sprief (S16)
+**6th - thrublock (10):** goompah (S5), Marcopoloian (S5), bayweafs (S6), Silquey (S6), Arcaded (S9), Wreckm (S9), Colozi (S9), evuhlynx (S15), Zeegul (S15), Sprief (S16)
 
 **9th - Kaismartypants (9):** 5ARx (S11), Purp_ (S12), Marcopoloian (S12), Tunaisheree (S12), Purp_ (S14), 5ARx (S14), thrublock (S14), YoboiImBad (S14), sgouche (S16)
 
@@ -415,7 +415,7 @@
 
 **3 Seasons (7):** HeroFGG (S2-S3,S12), iDJB (S2,S4,S9), QuacksL (S3,S8-S9), PPanix (S7,S9,S14), TehBaconBrawlerZ (S8-S10), Wreckm (S9,S13,S16), LukaADoncic (S12-S14)
 
-**2 Seasons (9):** ObamaBinLaden24 (S2,S7), SmoothCombos (S2,S4), JuniorTheCrafter (S5,S15), AshRiolu100985 (S7,S9), conchapapu17 (S8-S9), SOAKLE (S9,S11), kawaiibunri (S10,S15), StrategySam (S10,S12), Killerfebreeze (S14-S15)
+**2 Seasons (9):** ObamaBinLaden24 (S2,S7), SmoothCombos (S2,S4), JuniorTheCrafter (S5,S15), AshRiolu100985 (S7,S9), conchapapu17 (S8-S9), SOAKLE (S9,S11), evuhlynx (S10,S15), StrategySam (S10,S12), Killerfebreeze (S14-S15)
 
 **1 Season (18):** NumberJuan64 (S2), Centrah (S3), nolanishot (S3), onstep (S3), RollRealQuick (S3), skyzfy (S3), zohhhh (S3), V3V0 (S6), Axoly1 (S8), carterwarterbear (S9), AWhivenGuy (S10), DevoyTTV (S10), Kaddyn (S10), Krimm (S10), St0rmplayz (S10), MarcGaia (S13), TGBcarlosGAMING1 (S14), sgouche (S16)
 
@@ -440,7 +440,7 @@
 
 **S9 (3):** carterwarterbear, SOAKLE, Wreckm
 
-**S10 (9):** AWhivenGuy, DevoyTTV, Kaddyn, Kaismartypants, kawaiibunri, Krimm, St0rmplayz, StrategySam, YoboiImBad
+**S10 (9):** AWhivenGuy, DevoyTTV, evuhlynx, Kaddyn, Kaismartypants, Krimm, St0rmplayz, StrategySam, YoboiImBad
 
 **S11 (0):** 
 

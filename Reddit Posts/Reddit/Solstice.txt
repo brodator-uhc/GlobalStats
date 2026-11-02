@@ -45,21 +45,21 @@
 ---
 ### First Blood
 
-**S1:** SRGamingLucas (CrystalBullet)
+**S1:** SRGamingLucas (Crystalbullet)
 
 **S2:** Dee957 (TheGalaxy)
 
 ---
 ### First Death
 
-**S1:** CrystalBullet (SRGamingLucas)
+**S1:** Crystalbullet (SRGamingLucas)
 
 **S2:** ChizWiz (Spider)
 
 ---
 ### Kills
 
-**1st - SRGamingLucas (7):** CrystalBullet (S1), CraftingSeas (S1), BarrackOLlama (S1), General_Pandaman (S2), FumoSnake (S2), Dee957 (S2), Funoxii (S2)
+**1st - SRGamingLucas (7):** Crystalbullet (S1), CraftingSeas (S1), BarrackOLlama (S1), General_Pandaman (S2), FumoSnake (S2), Dee957 (S2), Funoxii (S2)
 
 **2nd - Funoxii (5):** UpriseReaper (S1), SRGamingLucas (S1), JakeCorp (S1), BruteCharger (S1), SuchPandaMC (S1)
 
@@ -79,12 +79,12 @@
 
 **2 Seasons (3):** Funoxii (S1-S2), JakeCorp (S1-S2), SRGamingLucas (S1-S2)
 
-**1 Season (14):** BarrackOLlama (S1), BruteCharger (S1), CraftingSeas (S1), CrystalBullet (S1), Purplesword (S1), SuchPandaMC (S1), UpriseReaper (S1), ChizWiz (S2), Dee957 (S2), Dj8ninja (S2), FumoSnake (S2), General_Pandaman (S2), TheGalaxy (S2), xCat (S2)
+**1 Season (14):** BarrackOLlama (S1), BruteCharger (S1), CraftingSeas (S1), Crystalbullet (S1), Purplesword (S1), SuchPandaMC (S1), UpriseReaper (S1), ChizWiz (S2), Dee957 (S2), Dj8ninja (S2), FumoSnake (S2), General_Pandaman (S2), TheGalaxy (S2), xCat (S2)
 
 ---
 ### Debutants
 
-**S1 (10):** BarrackOLlama, BruteCharger, CraftingSeas, CrystalBullet, Funoxii, JakeCorp, Purplesword, SRGamingLucas, SuchPandaMC, UpriseReaper
+**S1 (10):** BarrackOLlama, BruteCharger, CraftingSeas, Crystalbullet, Funoxii, JakeCorp, Purplesword, SRGamingLucas, SuchPandaMC, UpriseReaper
 
 **S2 (7):** ChizWiz, Dee957, Dj8ninja, FumoSnake, General_Pandaman, TheGalaxy, xCat
 

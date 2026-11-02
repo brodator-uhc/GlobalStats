@@ -20,7 +20,7 @@
 ---
 ### Runner Ups
 
-**S1:** ArcticSeagull (1), DragonGlory (1), kawaiibunri (0), TehBaconBrawlerZ (0)
+**S1:** ArcticSeagull (1), DragonGlory (1), evuhlynx (0), TehBaconBrawlerZ (0)
 
 **S2:** apa37 (4), DanishDrill (0), deanomode (1), DumbThiccNick (3), Ninetals38 (0)
 
@@ -28,7 +28,7 @@
 
 **S4:** chimah (3), onstep (6)
 
-**S5:** Abyr (0), Clemjo (2), PolarTaco (0), Shizuxd (2)
+**S5:** Abyr (0), Clemjo (2), PolarTaco (0), xAkqme (2)
 
 **S6:** benidk (5), carterwarterbear (0), HUQTER (1), Krbreb (0), skyzfy (3)
 
@@ -56,7 +56,7 @@
 
 **S1:** Blarkslol (6), kirkomode (1), jjsteeples (3), SSGSS4Goku (1)
 
-**S2:** lapppp (10), loyaltea (0), OddishThoughts (0), kawaiibunri (2), Sharkzol (0)
+**S2:** lapppp (10), loyaltea (0), OddishThoughts (0), evuhlynx (2), Sharkzol (0)
 
 **S3:** N/A
 
@@ -141,7 +141,7 @@
 
 **1st - lapppp (30):** Trenton01 (S2), DripGodDavid (S2), harkuaa (S2), sxd (S2), HalfLechuga (S2), MineKG (S2), FishManIsPotato (S2), Dcrpy (S2), Abyr (S2), deanomode (S2), Rennoxx (S3), OddishThoughts (S3), EmergedRaider (S3), HalfLechuga (S3), Krbreb (S3), DragonGlory (S3), DumbThiccNick (S4), Centrah (S4), DripGodDavid (S4), enablin (S4), RohanSmashBro (S4), chimah (S4), RohanSmashBro (S5), _british (S5), Dargxn (S5), willif (S5), carterwarterbear (S5), PolarTaco (S5), MarcoThePh0enix (S6), OddishThoughts (S6)
 
-**2nd - AiroKun (12):** MineKG (S1), zeesue (S1), WoodFired (S2), kawaiibunri (S2), DumbThiccNick (S2), brinkwhy (S4), toggleuhc (S4), apa37 (S4), zeesue (S4), benidk (S4), onstep (S4), skyzfy (S5)
+**2nd - AiroKun (12):** MineKG (S1), zeesue (S1), WoodFired (S2), evuhlynx (S2), DumbThiccNick (S2), brinkwhy (S4), toggleuhc (S4), apa37 (S4), zeesue (S4), benidk (S4), onstep (S4), skyzfy (S5)
 
 **2nd - chimah (12):** jjsteeples (S3), Greatwarrior_ (S3), FishManIsPotato (S3), onstep (S3), SOAKLE (S4), deanomode (S4), Cloversss (S4), PotatoPlayer_ (S5), TPolls (S5), kirkomode (S5), DripGodDavid (S5), Abyr (S5)
 
@@ -155,7 +155,7 @@
 
 **4th - WoodFired (10):** Dargxn (S1), poWpaH (S1), coldified (S1), kirkomode (S1), 8GT (S3), Cloversss (S3), SOAKLE (S7), iLoveBoris (S7), jjsteeples (S7), OddishThoughts (S7)
 
-**9th - DanishDrill (8):** Stravilight (S1), ArcticSeagull (S1), urfake (S5), Krbreb (S5), Hendysaurus (S6), DeadlyFoxx (S6), Cloversss (S6), Krbreb (S6)
+**9th - DanishDrill (8):** Stravilight (S1), ArcticSeagull (S1), urfake (S5), Krbreb (S5), hendy53 (S6), DeadlyFoxx (S6), Cloversss (S6), Krbreb (S6)
 
 **10th - Blarkslol (6):** ToeKun (S1), brinniex (S1), brinkwhy (S1), AvyleZ (S1), HalfLechuga (S1), LightingMC (S1)
 
@@ -173,7 +173,7 @@
 
 **14th - zSlayRow (5):** YouCheated (S3), zeesue (S3), Clemjo (S3), kirkomode (S3), _1mmortal_ (S3)
 
-**18th - apa37 (4):** violetwoah (S2), OddishThoughts (S2), ToeKun (S2), IdkKiller (S2)
+**18th - apa37 (4):** violetwow (S2), OddishThoughts (S2), ToeKun (S2), IdkKiller (S2)
 
 **18th - Dizzying (4):** DripGodDavid (S6), carterwarterbear (S6), brghts (S6), lapppp (S6)
 
@@ -185,9 +185,9 @@
 
 **23rd - _carn (3):** benidk (S7), Batusko (S7), skyzfy (S7)
 
-**23rd - brinkwhy (3):** kawaiibunri (S1), Greatwarrior_ (S1), DanishDrill (S1)
+**23rd - brinkwhy (3):** evuhlynx (S1), Greatwarrior_ (S1), DanishDrill (S1)
 
-**23rd - DragonGlory (3):** Forrest325 (S1), Sharkzol (S2), ToeKun (S3)
+**23rd - DragonGlory (3):** Forrest235 (S1), Sharkzol (S2), ToeKun (S3)
 
 **23rd - Lynxo (3):** ToeKun (S5), saltbag (S5), broccoliar (S5)
 
@@ -199,11 +199,13 @@
 
 **28th - Clemjo (2):** Dcrpy (S5), HalfLechuga (S5)
 
-**28th - colbay (2):** Shizuxd (S5), deanomode (S6)
+**28th - colbay (2):** xAkqme (S5), deanomode (S6)
 
 **28th - Dcrpy (2):** toggleuhc (S2), Retrofied (S4)
 
-**28th - hypcr (2):** colbay (S5), DRIGOAT (S5)
+**28th - evuhlynx (2):** PotatoPlayer_ (S2), Txpher (S2)
+
+**28th - hypcr (2):** colbay (S5), DRI60 (S5)
 
 **28th - IdkKiller (2):** TurboNinja03 (S2), Tonylmao (S2)
 
@@ -211,9 +213,7 @@
 
 **28th - K0DAKZACK (2):** Lord_Revan13 (S6), HUQTER (S6)
 
-**28th - kawaiibunri (2):** PotatoPlayer_ (S2), Txpher (S2)
-
-**28th - kirkomode (2):** violetwoah (S1), Dargxn (S7)
+**28th - kirkomode (2):** violetwow (S1), Dargxn (S7)
 
 **28th - Krbreb (2):** Ninetals38 (S2), AiroKun (S5)
 
@@ -221,11 +221,11 @@
 
 **28th - retrys (2):** zohhhh (S2), REM0VE_ (S4)
 
-**28th - Shizuxd (2):** jjsteeples (S5), pawnss (S5)
-
 **28th - SOAKLE (2):** lapppp (S2), apa37 (S2)
 
-**28th - violetwoah (2):** deanomode (S1), winterf (S2)
+**28th - violetwow (2):** deanomode (S1), winterf (S2)
+
+**28th - xAkqme (2):** jjsteeples (S5), pawnss (S5)
 
 **45th - 8GT (1):** apa37 (S3)
 
@@ -280,7 +280,7 @@
 
 **Explosion (1):** willif (S1)
 
-**Suffocation (1):** kawaiibunri (S3)
+**Suffocation (1):** evuhlynx (S3)
 
 ---
 ### Participation
@@ -293,16 +293,16 @@
 
 **4 Seasons (8):** Abyr (S1-S3,S5), Greatwarrior_ (S1-S4), zeesue (S1-S4), apa37 (S2-S4,S6), DripGodDavid (S2,S4-S6), FishManIsPotato (S2-S5), Krbreb (S2-S3,S5-S6), onstep (S2-S4,S7)
 
-**3 Seasons (16):** AvyleZ (S1,S4,S6), brinkwhy (S1,S4,S7), CeolTun (S1,S3-S4), DragonGlory (S1-S3), hypcr (S1,S5-S6), kawaiibunri (S1-S3), PotatoPlayer_ (S1-S2,S5), SSGSS4Goku (S1,S6-S7), Dcrpy (S2,S4-S5), iLoveBoris (S2-S3,S7), SOAKLE (S2,S4,S7), zohhhh (S2-S4), chimah (S3-S5), HUQTER (S3,S5-S6), PolarTaco (S3-S5), ItsShqky (S4-S6)
+**3 Seasons (16):** AvyleZ (S1,S4,S6), brinkwhy (S1,S4,S7), CeolTun (S1,S3-S4), DragonGlory (S1-S3), evuhlynx (S1-S3), hypcr (S1,S5-S6), PotatoPlayer_ (S1-S2,S5), SSGSS4Goku (S1,S6-S7), Dcrpy (S2,S4-S5), iLoveBoris (S2-S3,S7), SOAKLE (S2,S4,S7), zohhhh (S2-S4), chimah (S3-S5), HUQTER (S3,S5-S6), PolarTaco (S3-S5), ItsShqky (S4-S6)
 
-**2 Seasons (27):** _1mmortal_ (S1,S3), ArcticSeagull (S1,S5), broccoliar (S1,S5), MangoPlayz (S1-S2), MineKG (S1-S2), Pacman_2022 (S1,S4), Stravilight (S1,S4), violetwoah (S1-S2), DumbThiccNick (S2,S4), loyaltea (S2-S3), retrys (S2,S4), Sharkzol (S2,S4), Tonylmao (S2-S3), Trenton01 (S2,S4), winterf (S2-S3), _carn (S3,S7), Bicut (S3,S7), Cahnner (S3-S4), Clemjo (S3,S5), DeadlyFoxx (S3,S6), EmergedRaider (S3-S4), jake_hoe (S3,S5), Kaddyn (S4-S5), RohanSmashBro (S4-S5), St0rmplayz (S4,S7), colbay (S5-S6), MarcoThePh0enix (S6-S7)
+**2 Seasons (28):** _1mmortal_ (S1,S3), ArcticSeagull (S1,S5), broccoliar (S1,S5), MangoPlayz (S1-S2), MineKG (S1-S2), Pacman_2022 (S1,S4), Stravilight (S1,S4), violetwow (S1-S2), DumbThiccNick (S2,S4), loyaltea (S2-S3), retrys (S2,S4), Sharkzol (S2,S4), Tonylmao (S2-S3), Trenton01 (S2,S4), winterf (S2-S3), _carn (S3,S7), Bicut (S3,S7), Cahnner (S3-S4), Clemjo (S3,S5), DeadlyFoxx (S3,S6), EmergedRaider (S3-S4), jake_hoe (S3,S5), Kaddyn (S4-S5), RohanSmashBro (S4-S5), St0rmplayz (S4,S7), colbay (S5-S6), DRI60 (S5,S7), MarcoThePh0enix (S6-S7)
 
-**1 Season (50):** AshRiolu100985 (S1), Blarkslol (S1), brinniex (S1), coldified (S1), Flcnt (S1), Forrest325 (S1), LightingMC (S1), poWpaH (S1), TehBaconBrawlerZ (S1), chugin (S2), harkuaa (S2), IdkKiller (S2), Ninetals38 (S2), RuneTactics (S2), sxd (S2), TurboNinja03 (S2), Txpher (S2), 8GT (S3), Kelldeo (S3), Rennoxx (S3), void_hi (S3), YouCheated (S3), zSlayRow (S3), Bulbexe (S4), Centrah (S4), enablin (S4), InProper (S4), REM0VE_ (S4), Retrofied (S4), _british (S5), DRIGOAT (S5), FearThrows (S5), Lynxo (S5), pawnss (S5), saltbag (S5), Shizuxd (S5), TPolls (S5), urfake (S5), brghts (S6), Dizzying (S6), Hendysaurus (S6), K0DAKZACK (S6), Lord_Revan13 (S6), Raying (S6), Batusko (S7), DRI60 (S7), Johatsu (S7), Slooshyy (S7), strategy (S7), Zebobo10 (S7)
+**1 Season (48):** AshRiolu100985 (S1), Blarkslol (S1), brinniex (S1), coldified (S1), Flcnt (S1), Forrest235 (S1), LightingMC (S1), poWpaH (S1), TehBaconBrawlerZ (S1), chugin (S2), harkuaa (S2), IdkKiller (S2), Ninetals38 (S2), RuneTactics (S2), sxd (S2), TurboNinja03 (S2), Txpher (S2), 8GT (S3), Kelldeo (S3), Rennoxx (S3), void_hi (S3), YouCheated (S3), zSlayRow (S3), Bulbexe (S4), Centrah (S4), enablin (S4), InProper (S4), REM0VE_ (S4), Retrofied (S4), _british (S5), FearThrows (S5), Lynxo (S5), pawnss (S5), saltbag (S5), TPolls (S5), urfake (S5), xAkqme (S5), brghts (S6), Dizzying (S6), hendy53 (S6), K0DAKZACK (S6), Lord_Revan13 (S6), Raying (S6), Batusko (S7), Johatsu (S7), Slooshyy (S7), strategy (S7), Zebobo10 (S7)
 
 ---
 ### Debutants
 
-**S1 (40):** _1mmortal_, Abyr, AiroKun, ArcticSeagull, AshRiolu100985, AvyleZ, Blarkslol, brinkwhy, brinniex, broccoliar, carterwarterbear, CeolTun, coldified, DanishDrill, Dargxn, deanomode, DragonGlory, Flcnt, Forrest325, Greatwarrior_, HalfLechuga, hypcr, jjsteeples, kawaiibunri, kirkomode, LightingMC, MangoPlayz, MineKG, Pacman_2022, PotatoPlayer_, poWpaH, SSGSS4Goku, Stravilight, TehBaconBrawlerZ, ToeKun, toggleuhc, violetwoah, willif, WoodFired, zeesue
+**S1 (40):** _1mmortal_, Abyr, AiroKun, ArcticSeagull, AshRiolu100985, AvyleZ, Blarkslol, brinkwhy, brinniex, broccoliar, carterwarterbear, CeolTun, coldified, DanishDrill, Dargxn, deanomode, DragonGlory, evuhlynx, Flcnt, Forrest235, Greatwarrior_, HalfLechuga, hypcr, jjsteeples, kirkomode, LightingMC, MangoPlayz, MineKG, Pacman_2022, PotatoPlayer_, poWpaH, SSGSS4Goku, Stravilight, TehBaconBrawlerZ, ToeKun, toggleuhc, violetwow, willif, WoodFired, zeesue
 
 **S2 (27):** apa37, benidk, chugin, Dcrpy, DripGodDavid, DumbThiccNick, FishManIsPotato, harkuaa, IdkKiller, iLoveBoris, Krbreb, lapppp, loyaltea, Ninetals38, OddishThoughts, onstep, retrys, RuneTactics, Sharkzol, SOAKLE, sxd, Tonylmao, Trenton01, TurboNinja03, Txpher, winterf, zohhhh
 
@@ -310,10 +310,10 @@
 
 **S4 (10):** Bulbexe, Centrah, enablin, InProper, ItsShqky, Kaddyn, REM0VE_, Retrofied, RohanSmashBro, St0rmplayz
 
-**S5 (10):** _british, colbay, DRIGOAT, FearThrows, Lynxo, pawnss, saltbag, Shizuxd, TPolls, urfake
+**S5 (10):** _british, colbay, DRI60, FearThrows, Lynxo, pawnss, saltbag, TPolls, urfake, xAkqme
 
-**S6 (7):** brghts, Dizzying, Hendysaurus, K0DAKZACK, Lord_Revan13, MarcoThePh0enix, Raying
+**S6 (7):** brghts, Dizzying, hendy53, K0DAKZACK, Lord_Revan13, MarcoThePh0enix, Raying
 
-**S7 (6):** Batusko, DRI60, Johatsu, Slooshyy, strategy, Zebobo10
+**S7 (5):** Batusko, Johatsu, Slooshyy, strategy, Zebobo10
 
 ---

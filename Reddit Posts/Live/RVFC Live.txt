@@ -175,7 +175,7 @@
 
 **7th - TayUHC (7):** HeroGolem5 (S1), Kelawesome (S2), kirbey (S3), SergeantM (S3), CodeJoshua (S3), poWpaH (S4), Kaddyn (S4)
 
-**11th - Vetmire (6):** JamestheDouglas (S1), Zcin (S1), MangoPlayz (S2), Kae_F (S3), Rebelghost (S5), Kaddyn (S8)
+**11th - Vetmire (6):** JamestheDouglas (S1), Zcin (S1), MangoPlayz (S2), Kaelan_ (S3), Rebelghost (S5), Kaddyn (S8)
 
 **11th - Zcin (6):** Bulbexe (S3), AdonisGaming (S4), Pelycosaur (S5), SpaceFenix (S5), Stravilight (S6), Kelawesome (S6)
 
@@ -205,7 +205,7 @@
 
 **21st - DianaB (3):** broccoliar (S6), broccoliar (S8), DONG_FORTNITE (S8)
 
-**21st - ghostblurr (3):** DianaB (S6), CipherKai (S6), superjimyeah (S7)
+**21st - ghostblurr (3):** DianaB (S6), CipherKai (S6), Superjimyeah (S7)
 
 **21st - ItsShqky (3):** Jorgeeay (S5), MaxEvasion (S5), DianaB (S8)
 
@@ -252,7 +252,7 @@
 ---
 ### PvE Deaths
 
-**Fall (8):** Brodator (S2), Zcin (S2), emi1iano (S3), ArloIsVibing (S3), Kelawesome (S5), poWpaH (S7), brinniex (S8), Standen05 (S8)
+**Fall (8):** Brodator (S2), Zcin (S2), emi1iano (S3), Aprillious (S3), Kelawesome (S5), poWpaH (S7), brinniex (S8), Standen05 (S8)
 
 **Creeper (3):** Evzenitable (S1), Rebelghost (S2), Cubic44 (S3)
 
@@ -279,7 +279,7 @@
 
 **2 Seasons (15):** Evzenitable (S1,S6), JamestheDouglas (S1-S2), Kaner21 (S1-S2), Plushy33 (S1-S2), _Fost_ (S2,S6), Brodator (S2,S7), C10WD (S3,S6), commitstaxfraud (S4-S5), SpaceFenix (S5-S6), FrostBros (S6-S7), ghostblurr (S6-S7), MarExists (S6-S7), brinniex (S7-S8), Jaceon02 (S7-S8), Standen05 (S7-S8)
 
-**1 Season (23):** 4EyedSlime (S1), HeroGolem5 (S1), CocoBenja (S2), 3Tips (S3), ArloIsVibing (S3), Kae_F (S3), Tharve (S3), Julse (S5), Rohcket (S5), ManWithRaft (S6), opachi69 (S6), Dynamitedoughnut (S7), Hrray (S7), JoshC2 (S7), Rekt_DJ (S7), superjimyeah (S7), TitaniumDino25 (S7), DONG_FORTNITE (S8), Geroot (S8), MarcusDoesMC (S8), MasterGarf (S8), NickPlaysGames15 (S8), SiahStone (S8)
+**1 Season (23):** 4EyedSlime (S1), HeroGolem5 (S1), CocoBenja (S2), 3Tips (S3), Aprillious (S3), Kaelan_ (S3), Tharve (S3), Julse (S5), Rohcket (S5), ManWithRaft (S6), opachi69 (S6), Dynamitedoughnut (S7), Hrray (S7), JoshC2 (S7), Rekt_DJ (S7), Superjimyeah (S7), TitaniumDino25 (S7), DONG_FORTNITE (S8), Geroot (S8), MarcusDoesMC (S8), MasterGarf (S8), NickPlaysGames15 (S8), SiahStone (S8)
 
 ---
 ### Debutants
@@ -288,7 +288,7 @@
 
 **S2 (15):** _Fost_, Brodator, Bulbexe, Charrlottie, CocoBenja, Cubic44, Flcnt, ItsShqky, Jorgeeay, Kelawesome, MangoPlayz, MaxEvasion, natsuvi, poWpaH, TehBaconBrawlerZ
 
-**S3 (9):** 3Tips, AdonisGaming, ArloIsVibing, C10WD, emi1iano, Kae_F, Pelycosaur, Stravilight, Tharve
+**S3 (9):** 3Tips, AdonisGaming, Aprillious, C10WD, emi1iano, Kaelan_, Pelycosaur, Stravilight, Tharve
 
 **S4 (5):** commitstaxfraud, GeniRCT, HeyItsJBug, Kaddyn, silvaasaur
 
@@ -296,7 +296,7 @@
 
 **S6 (7):** CipherKai, FrostBros, ghostblurr, ManWithRaft, MarExists, opachi69, TheSlimeBrother
 
-**S7 (9):** brinniex, Dynamitedoughnut, Hrray, Jaceon02, JoshC2, Rekt_DJ, Standen05, superjimyeah, TitaniumDino25
+**S7 (9):** brinniex, Dynamitedoughnut, Hrray, Jaceon02, JoshC2, Rekt_DJ, Standen05, Superjimyeah, TitaniumDino25
 
 **S8 (6):** DONG_FORTNITE, Geroot, MarcusDoesMC, MasterGarf, NickPlaysGames15, SiahStone
 

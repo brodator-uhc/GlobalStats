@@ -11,7 +11,7 @@
 
 **S4: Blarkslol (2), HeyItsJBug (1), nFang (1), PwincessVanessa (1)**
 
-**S5a: egl_ (1), GeniRCT (0), Hendysaurus (2), MrEzzo (1)**, *_Fost_ (2)*
+**S5a: egl_ (1), GeniRCT (0), hendy53 (2), MrEzzo (1)**, *_Fost_ (2)*
 
 **S5b: Blarkslol (2), Pelycosaur (3), Vetmire (2)**
 
@@ -46,7 +46,7 @@
 
 **S8:** Rebelghost (1), Stravilight (2)
 
-**S9:** ItzIgglesPiggles (3), JaeHasNoMaidens (0), TayUHC (0)
+**S9:** commitstaxfraud (0), ItzIgglesPiggles (3), TayUHC (0)
 
 **S10:** AdonisGaming (0), broccoliar (4), PresidentFleb (0), Zcin (1)
 
@@ -121,7 +121,7 @@
 
 **S8:** kirbey
 
-**S9:** JaeHasNoMaidens
+**S9:** commitstaxfraud
 
 **S10:** Rebelghost
 
@@ -245,7 +245,7 @@
 
 **17th - TayUHC (4):** Cristehn (S2), AdonisGaming (S5a), Fourbitplayer (S6), _Fost_ (S6)
 
-**17th - TonyEatWorld (4):** Hendysaurus (S5b), Thermql (S5b), Glarza (S5b), nFang (S5b)
+**17th - TonyEatWorld (4):** hendy53 (S5b), Thermql (S5b), Glarza (S5b), nFang (S5b)
 
 **17th - xDiversity (4):** brinniex (S10), Julse (S10), Vetmire (S10), Stravilight (S10)
 
@@ -259,13 +259,13 @@
 
 **28th - AdonisGaming (2):** MaxEvasion (S9), Vetmire (S9)
 
-**28th - Charrlottie (2):** Cubic44 (S9), JaeHasNoMaidens (S9)
+**28th - Charrlottie (2):** Cubic44 (S9), commitstaxfraud (S9)
 
 **28th - GamingStarr (2):** Evxn101 (S2), CodeJoshua (S6)
 
 **28th - Glarza (2):** Djmandude (S5b), Cubic44 (S8)
 
-**28th - Hendysaurus (2):** Thermql (S5a), nFang (S5a)
+**28th - hendy53 (2):** Thermql (S5a), nFang (S5a)
 
 **28th - HenryPlays (2):** TonyEatWorld (S5b), Blarkslol (S9)
 
@@ -283,7 +283,7 @@
 
 **37th - brinniex (1):** Kaismartypants (S8)
 
-**37th - CalebTilkins (1):** Hendysaurus (S2)
+**37th - CalebTilkins (1):** hendy53 (S2)
 
 **37th - CodeJoshua (1):** Pelycosaur (S8)
 
@@ -339,18 +339,18 @@
 
 **4 Seasons (9):** egl_ (S3-S5a,S6), HenryPlays (S3,S5a-S5b,S9), HeyItsJBug (S3-S5b), Glarza (S5a-S5b,S8,S10), brinniex (S7-S10), Cubic44 (S7-S10), MaxEvasion (S7-S10), poWpaH (S7-S10), TehBaconBrawlerZ (S7-S10)
 
-**3 Seasons (11):** GamingStarr (S2-S3,S6), Hendysaurus (S2,S5a-S5b), _Dieter (S3-S4,S10), MichaelPlayMC (S3-S4,S8), Caffeindiazepine (S4-S5a,S6), MrEzzo (S4-S5b), hashtagmat (S5a,S6-S7), Djmandude (S5b,S8,S10), Alisa_Muffins (S6-S8), Erdql (S6-S8), Kaddyn (S8-S10)
+**3 Seasons (11):** GamingStarr (S2-S3,S6), hendy53 (S2,S5a-S5b), _Dieter (S3-S4,S10), MichaelPlayMC (S3-S4,S8), Caffeindiazepine (S4-S5a,S6), MrEzzo (S4-S5b), hashtagmat (S5a,S6-S7), Djmandude (S5b,S8,S10), Alisa_Muffins (S6-S8), Erdql (S6-S8), Kaddyn (S8-S10)
 
 **2 Seasons (19):** FrostBros (S1,S3), wowjennawow (S1,S6), CalebTilkins (S2,S5a), CHAINGE (S2,S6), Cristehn (S2,S4), Evxn101 (S2,S4), Thermql (S5a-S5b), TonyEatWorld (S5b,S10), Aaerons (S6-S7), draylor09 (S6-S7), ItsJustPanda (S6-S7), JamestheDouglas (S6-S7), Plushy33 (S6,S8), emi1iano (S7,S10), Kaismartypants (S7-S8), SergeantM (S8,S10), TitaniumDino25 (S8-S9), Charrlottie (S9-S10), xDiversity (S9-S10)
 
-**1 Season (15):** WillBrisk (S1), DakotaB15 (S2), Slooshyy (S3), HeroGolem5 (S4), Dungusthefluffy (S5a), Klanke (S5b), Aglz (S6), Fourbitplayer (S6), Sivocho (S6), Ancient_Bunny (S8), Espik (S8), Cqson (S9), JaeHasNoMaidens (S9), Mastercrossbow (S9), PresidentFleb (S10)
+**1 Season (15):** WillBrisk (S1), DakotaB15 (S2), Slooshyy (S3), HeroGolem5 (S4), Dungusthefluffy (S5a), Klanke (S5b), Aglz (S6), Fourbitplayer (S6), Sivocho (S6), Ancient_Bunny (S8), Espik (S8), commitstaxfraud (S9), Cqson (S9), Mastercrossbow (S9), PresidentFleb (S10)
 
 ---
 ### Debutants
 
 **S1 (4):** Bofishkix, FrostBros, WillBrisk, wowjennawow
 
-**S2 (17):** _Fost_, ArcticSeagull, CalebTilkins, CHAINGE, Cristehn, DakotaB15, Evxn101, GamingStarr, GeniRCT, Hendysaurus, nFang, OddishThoughts, Pelycosaur, PwincessVanessa, Stravilight, TayUHC, Zcin
+**S2 (17):** _Fost_, ArcticSeagull, CalebTilkins, CHAINGE, Cristehn, DakotaB15, Evxn101, GamingStarr, GeniRCT, hendy53, nFang, OddishThoughts, Pelycosaur, PwincessVanessa, Stravilight, TayUHC, Zcin
 
 **S3 (15):** _Dieter, AdonisGaming, broccoliar, Captinn, Codwhy, egl_, HenryPlays, HeyItsJBug, ItzIgglesPiggles, Julse, MichaelPlayMC, NickPlaysGames15, Rebelghost, Slooshyy, Vetmire
 
@@ -366,7 +366,7 @@
 
 **S8 (5):** Ancient_Bunny, Espik, Kaddyn, SergeantM, TitaniumDino25
 
-**S9 (5):** Charrlottie, Cqson, JaeHasNoMaidens, Mastercrossbow, xDiversity
+**S9 (5):** Charrlottie, commitstaxfraud, Cqson, Mastercrossbow, xDiversity
 
 **S10 (1):** PresidentFleb
 

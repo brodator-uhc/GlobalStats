@@ -5,14 +5,14 @@
 
 **S1: MrPhilipBar (5)**, *RwDragon (0)*
 
-**S2: MarcProBow_13 (3), RwDragon (2), xXMaximusMC (2)**, *Etallity (1)*
+**S2: MarcProBow (3), RwDragon (2), xXMaximusMC (2)**, *Etallity (1)*
 
 **S3: FearlessRedHawk (4), M3T4L_Y3J (1), MajorWoof (3)**
 
 ---
 ### Runner Ups
 
-**S1:** Gunner857 (3), ZaxerYT (1)
+**S1:** Gunner857 (3), Zaaxer (1)
 
 **S2:** 016Nojr (0), DonartKrs (0), Jordinn (1), TheGrifDogYT (0)
 
@@ -23,7 +23,7 @@
 
 **S1:** MrPhilipBar (5)
 
-**S2:** MarcProBow_13 (3)
+**S2:** MarcProBow (3)
 
 **S3:** FearlessRedHawk (4)
 
@@ -32,7 +32,7 @@
 
 **S1:** RwDragon (0), MrPhilipBar (5)
 
-**S2:** xXMaximusMC (2), Etallity (1), MarcProBow_13 (3), RwDragon (2)
+**S2:** xXMaximusMC (2), Etallity (1), MarcProBow (3), RwDragon (2)
 
 **S3:** M3T4L_Y3J (1), FearlessRedHawk (4), MajorWoof (3)
 
@@ -48,7 +48,7 @@
 ---
 ### Ironman
 
-**S1:** MarcProBow_13 (0:53:26)
+**S1:** MarcProBow (0:53:26)
 
 **S2:** 016Nojr (1:50:5)
 
@@ -75,7 +75,7 @@
 ---
 ### Kills
 
-**1st - MrPhilipBar (6):** Wheezypz (S1), MarcProBow_13 (S1), xRyan98 (S1), ZaxerYT (S1), Gunner857 (S1), Jordinn (S3)
+**1st - MrPhilipBar (6):** Wheezypz (S1), MarcProBow (S1), xRyan98 (S1), Zaaxer (S1), Gunner857 (S1), Jordinn (S3)
 
 **2nd - FearlessRedHawk (4):** Chipzzy (S3), Professer_TNT (S3), TheRealHagrid (S3), xRyan98 (S3)
 
@@ -83,7 +83,7 @@
 
 **3rd - MajorWoof (3):** CrazyCallum (S3), AmbientDan (S3), RwDragon (S3)
 
-**3rd - MarcProBow_13 (3):** oDogLFC (S2), Etallity (S2), Decieved (S2)
+**3rd - MarcProBow (3):** oDogLFC (S2), Etallity (S2), Decieved (S2)
 
 **6th - Jordinn (2):** Bulbae (S2), Dj8ninja (S3)
 
@@ -101,7 +101,7 @@
 
 **9th - oDogLFC (1):** Infiniti_x (S2)
 
-**9th - ZaxerYT (1):** FortuneInfinity (S1)
+**9th - Zaaxer (1):** FortuneInfinity (S1)
 
 ---
 ### PvE Deaths
@@ -117,14 +117,14 @@
 
 **3 Seasons (1):** RwDragon (S1-S3)
 
-**2 Seasons (9):** MarcProBow_13 (S1-S2), MrPhilipBar (S1,S3), xRyan98 (S1,S3), 016Nojr (S2-S3), Chipzzy (S2-S3), Dj8ninja (S2-S3), GRLH (S2-S3), Jordinn (S2-S3), Professer_TNT (S2-S3)
+**2 Seasons (9):** MarcProBow (S1-S2), MrPhilipBar (S1,S3), xRyan98 (S1,S3), 016Nojr (S2-S3), Chipzzy (S2-S3), Dj8ninja (S2-S3), GRLH (S2-S3), Jordinn (S2-S3), Professer_TNT (S2-S3)
 
-**1 Season (23):** Eroe (S1), FortuneInfinity (S1), Gunner857 (S1), SiretGaming (S1), Wheezypz (S1), ZaxerYT (S1), Bulbae (S2), Decieved (S2), DonartKrs (S2), Etallity (S2), Infiniti_x (S2), oDogLFC (S2), TheGrifDogYT (S2), xXMaximusMC (S2), AmbientDan (S3), automavic (S3), crazy_monkey7531 (S3), CrazyCallum (S3), FearlessRedHawk (S3), HiImCC (S3), M3T4L_Y3J (S3), MajorWoof (S3), TheRealHagrid (S3)
+**1 Season (23):** Eroe (S1), FortuneInfinity (S1), Gunner857 (S1), SiretGaming (S1), Wheezypz (S1), Zaaxer (S1), Bulbae (S2), Decieved (S2), DonartKrs (S2), Etallity (S2), Infiniti_x (S2), oDogLFC (S2), TheGrifDogYT (S2), xXMaximusMC (S2), AmbientDan (S3), automavic (S3), crazy_monkey7531 (S3), CrazyCallum (S3), FearlessRedHawk (S3), HiImCC (S3), M3T4L_Y3J (S3), MajorWoof (S3), TheRealHagrid (S3)
 
 ---
 ### Debutants
 
-**S1 (10):** Eroe, FortuneInfinity, Gunner857, MarcProBow_13, MrPhilipBar, RwDragon, SiretGaming, Wheezypz, xRyan98, ZaxerYT
+**S1 (10):** Eroe, FortuneInfinity, Gunner857, MarcProBow, MrPhilipBar, RwDragon, SiretGaming, Wheezypz, xRyan98, Zaaxer
 
 **S2 (14):** 016Nojr, Bulbae, Chipzzy, Decieved, Dj8ninja, DonartKrs, Etallity, GRLH, Infiniti_x, Jordinn, oDogLFC, Professer_TNT, TheGrifDogYT, xXMaximusMC
 

@@ -46,7 +46,7 @@
 
 **S8:** chunkster14 (1), Dawncy (0), DevoyTTV (0), SharkeyJaws (0)
 
-**S9:** _Fost_ (1), Krbreb (0), violetwoah (0)
+**S9:** _Fost_ (1), Krbreb (0), violetwow (0)
 
 **S10:** _Fost_ (1), Karliffu (2)
 
@@ -219,7 +219,7 @@
 ---
 ### Kills
 
-**1st - Brocko (10):** Master_Saber (S7), BBR_ (S7), BBR_ (S8), tbhjosh (S9), Codwhy (S9), _ChrisMS (S9), IyaIsMad (S9), violetwoah (S9), _Fost_ (S9), Krbreb (S9)
+**1st - Brocko (10):** Master_Saber (S7), BBR_ (S7), BBR_ (S8), tbhjosh (S9), Codwhy (S9), _ChrisMS (S9), IyaIsMad (S9), violetwow (S9), _Fost_ (S9), Krbreb (S9)
 
 **1st - ItsColinn (10):** ConBeanJones (S7), Abdalain (S7), Karliffu (S7), SharkeyJaws (S7), Andronify (S7), Slooshyy (S7), TheSheepMasters (S7), Kaismartypants (S7), JasonBPE (S7), Bornyo (S12)
 
@@ -227,7 +227,7 @@
 
 **4th - ConBeanJones (9):** DyeItTight (S3), NotMineProblem (S3), PauloSSB (S3), BardMain2 (S3), Sluggyg (S3), DaMobFTW (S3), Master_Saber (S4), Sluggyg (S4), Kaismartypants (S4)
 
-**4th - Ryfri (9):** cards4in_ (S3), Boosters (S3), IzunaLoli (S3), spoocS_ (S5), honestlyhunter (S5), aalaan (S12), InsertDotJpeg (S12), AlTheWriter (S12), TonyEatWorld (S12)
+**4th - Ryfri (9):** cards4in (S3), Boosters (S3), IzunE_ (S3), spoocS_ (S5), honestlyhunter (S5), aalaan (S12), InsertDotJpeg (S12), AlTheWriter (S12), TonyEatWorld (S12)
 
 **6th - Fcrm (8):** Karliffu (S8), Dawncy (S8), Sluggyg (S8), Slooshyy (S8), TonyEatWorld (S8), Slooshyy (S9), PoofessorP (S9), Jwillnot (S9)
 
@@ -239,7 +239,7 @@
 
 **10th - Andrew512 (6):** flameorb (S4), PauloSSB (S4), JustNolan (S4), SiahStone (S4), SiahStone (S11), SharkeyJaws (S11)
 
-**10th - Bornyo (6):** PauloSSB (S5), Sluggyg (S5), TonyEatWorld (S5), BardMain2 (S5), cards4in_ (S5), Broseph (S5)
+**10th - Bornyo (6):** PauloSSB (S5), Sluggyg (S5), TonyEatWorld (S5), BardMain2 (S5), cards4in (S5), Broseph (S5)
 
 **10th - GoldenNs (6):** JoshvsGaming (S2), NotMineProblem (S2), SoulRawr (S2), Ryfri (S2), Ethqn (S2), TheBird_ (S2)
 
@@ -281,7 +281,7 @@
 
 **28th - DevoyTTV (3):** Plushy33 (S6), JahMuis (S7), Pelycosaur (S7)
 
-**28th - Ethqn (3):** cherryblawsom (S2), MCmattFTW (S2), IzunaLoli (S2)
+**28th - Ethqn (3):** cherryblawsom (S2), MCmattFTW (S2), IzunE_ (S2)
 
 **28th - FrostBros (3):** DROhD (S3), Bradzi (S8), chunkster14 (S9)
 
@@ -293,7 +293,7 @@
 
 **28th - Jwillnot (3):** aalaan (S6), Caffeindiazepine (S9), Kiinako_ (S9)
 
-**28th - Master_Saber (3):** Sluggyg (S7), 4EyedSlime (S9), ohh_lia (S9)
+**28th - Master_Saber (3):** Sluggyg (S7), 4EyedSlime (S9), puppygirlmaple (S9)
 
 **28th - MaxEvasion (3):** Fourbitplayer (S10), NickPlaysGames15 (S10), SpaceFenix (S10)
 
@@ -347,11 +347,11 @@
 
 **55th - ItsPqnda (1):** Jrose (S1)
 
-**55th - IzunaLoli (1):** Ryfri (S3)
-
-**55th - ohh_lia (1):** Bornyo (S9)
+**55th - IzunE_ (1):** Ryfri (S3)
 
 **55th - Ozzyowo (1):** Thermql (S9)
+
+**55th - puppygirlmaple (1):** Bornyo (S9)
 
 **55th - SiahStone (1):** InsertDotJpeg (S11)
 
@@ -411,18 +411,18 @@
 
 **3 Seasons (16):** DaMobFTW (S1-S3), ItsPqnda (S1,S3-S4), NotMineProblem (S2-S3,S9), PauloSSB (S3-S5), Master_Saber (S4,S7,S9), JoshC2 (S5,S10-S11), aalaan (S6,S11-S12), Bradzi (S6-S8), ghostblurr (S6-S7,S9), xRosss (S6-S8), Kiinako_ (S7,S9,S11), SharkeyJaws (S7-S8,S11), egl_ (S8-S9,S11), Fcrm (S8-S9,S12), _Fost_ (S9-S11), NickPlaysGames15 (S9-S11)
 
-**2 Seasons (37):** DROhD (S1,S3), stupidgirltv (S1,S11), cherryblawsom (S2,S12), GoldenNs (S2,S5), IzunaLoli (S2-S3), MinecrafNinja (S2,S8), SoulRawr (S2-S3), BardMain2 (S3,S5), cards4in_ (S3,S5), JasonBPE (S3,S7), Kelawesome (S3,S11), Vorpeo (S3,S6), Andrew512 (S4,S11), Centrios (S4,S9), frogsella (S4-S5), JustNolan (S4,S11), Abdalain (S5,S7), Boomblade60 (S5-S6), Broseph (S5-S6), honestlyhunter (S5-S6), ThisIsHab (S5,S12), CipherKai (S6-S7), Jwillnot (S6,S9), BBR_ (S7-S8), JamestheDouglas (S7-S8), Thermql (S7,S9), chunkster14 (S8-S9), Dawncy (S8,S11), nFang (S8-S9), Rebelghost (S8-S9), ItsShqky (S9,S12), tbhjosh (S9,S12), AlTheWriter (S10,S12), Fourbitplayer (S10-S11), SpaceFenix (S10,S12), TacoDab (S10-S11), Bohe (S11-S12)
+**2 Seasons (37):** DROhD (S1,S3), stupidgirltv (S1,S11), cherryblawsom (S2,S12), GoldenNs (S2,S5), IzunE_ (S2-S3), MinecrafNinja (S2,S8), SoulRawr (S2-S3), BardMain2 (S3,S5), cards4in (S3,S5), JasonBPE (S3,S7), Kelawesome (S3,S11), Vorpeo (S3,S6), Andrew512 (S4,S11), Centrios (S4,S9), frogsella (S4-S5), JustNolan (S4,S11), Abdalain (S5,S7), Boomblade60 (S5-S6), Broseph (S5-S6), honestlyhunter (S5-S6), ThisIsHab (S5,S12), CipherKai (S6-S7), Jwillnot (S6,S9), BBR_ (S7-S8), JamestheDouglas (S7-S8), Thermql (S7,S9), chunkster14 (S8-S9), Dawncy (S8,S11), nFang (S8-S9), Rebelghost (S8-S9), ItsShqky (S9,S12), tbhjosh (S9,S12), AlTheWriter (S10,S12), Fourbitplayer (S10-S11), SpaceFenix (S10,S12), TacoDab (S10-S11), Bohe (S11-S12)
 
-**1 Season (64):** BerryTea (S1), Drasylin (S1), GammaRayBurst_ (S1), IHyproHD (S1), ItsChristiannn (S1), Jrose (S1), Midnight897 (S1), Roblox (S1), xWisely (S1), Ethqn (S2), JoshvsGaming (S2), Spencerdood (S2), TheBird_ (S2), Zahkari (S2), Boosters (S3), commitstaxfraud (S3), DyeItTight (S3), IceshardEleven (S3), Abandoned (S4), flameorb (S4), Sorvent (S4), spoocS_ (S5), _mrcool (S6), Coward (S6), Cyndic (S6), GeeSam (S6), Normoh (S6), nsket (S6), Stormy_Boy (S6), Fra49 (S7), TheSheepMasters (S7), Anorable (S8), Dj8ninja (S8), _ChrisMS (S9), 4EyedSlime (S9), BigJedo (S9), Caffeindiazepine (S9), Codwhy (S9), IyaIsMad (S9), Krbreb (S9), LoafOZ (S9), Markedbooboy (S9), ohh_lia (S9), Ozzyowo (S9), PoofessorP (S9), violetwoah (S9), Woex (S9), ArcticSeagull (S10), Caydone (S10), Connosaurus (S10), Glarza (S10), MaxEvasion (S10), milkpoptart (S10), _1mmortal_ (S11), ERHDude (S11), BoltsInCharge (S12), ChainingVermin2 (S12), evuhlynx (S12), Sharkbob94349 (S12), skrunklee (S12), TheSlimeBrother (S12), Westcraft00 (S12), wizarde (S12), zCent (S12)
+**1 Season (64):** BerryTea (S1), Drasylin (S1), GammaRayBurst_ (S1), IHyproHD (S1), ItsChristiannn (S1), Jrose (S1), Midnight897 (S1), Roblox (S1), xWisely (S1), Ethqn (S2), JoshvsGaming (S2), Spencerdood (S2), TheBird_ (S2), Zahkari (S2), Boosters (S3), commitstaxfraud (S3), DyeItTight (S3), IceshardEleven (S3), Abandoned (S4), flameorb (S4), Sorvent (S4), spoocS_ (S5), _mrcool (S6), Coward (S6), Cyndic (S6), GeeSam (S6), Normoh (S6), nsket (S6), Stormy_Boy (S6), Fra49 (S7), TheSheepMasters (S7), Anorable (S8), Dj8ninja (S8), _ChrisMS (S9), 4EyedSlime (S9), BigJedo (S9), Caffeindiazepine (S9), Codwhy (S9), IyaIsMad (S9), Krbreb (S9), LoafOZ (S9), Markedbooboy (S9), Ozzyowo (S9), PoofessorP (S9), puppygirlmaple (S9), violetwow (S9), Woex (S9), ArcticSeagull (S10), Caydone (S10), Connosaurus (S10), Glarza (S10), MaxEvasion (S10), milkpoptart (S10), _1mmortal_ (S11), ERHDude (S11), BoltsInCharge (S12), ChainingVermin2 (S12), evuhlynx (S12), Sharkbob94349 (S12), skrunklee (S12), TheSlimeBrother (S12), Westcraft00 (S12), wizarde (S12), zCent (S12)
 
 ---
 ### Debutants
 
 **S1 (16):** BerryTea, DaMobFTW, Drasylin, DROhD, GammaRayBurst_, IHyproHD, ItsChristiannn, ItsPqnda, Jrose, MCmattFTW, Midnight897, Roblox, Sluggyg, stupidgirltv, TonyEatWorld, xWisely
 
-**S2 (12):** cherryblawsom, Ethqn, GoldenNs, IzunaLoli, JoshvsGaming, MinecrafNinja, NotMineProblem, Ryfri, SoulRawr, Spencerdood, TheBird_, Zahkari
+**S2 (12):** cherryblawsom, Ethqn, GoldenNs, IzunE_, JoshvsGaming, MinecrafNinja, NotMineProblem, Ryfri, SoulRawr, Spencerdood, TheBird_, Zahkari
 
-**S3 (14):** BardMain2, Boosters, cards4in_, commitstaxfraud, ConBeanJones, DyeItTight, FrostBros, IceshardEleven, ItsColinn, JasonBPE, Kaismartypants, Kelawesome, PauloSSB, Vorpeo
+**S3 (14):** BardMain2, Boosters, cards4in, commitstaxfraud, ConBeanJones, DyeItTight, FrostBros, IceshardEleven, ItsColinn, JasonBPE, Kaismartypants, Kelawesome, PauloSSB, Vorpeo
 
 **S4 (10):** Abandoned, Andrew512, Centrios, flameorb, frogsella, JahMuis, JustNolan, Master_Saber, SiahStone, Sorvent
 
@@ -434,7 +434,7 @@
 
 **S8 (9):** Anorable, chunkster14, Dawncy, Dj8ninja, egl_, Fcrm, InsertDotJpeg, nFang, Rebelghost
 
-**S9 (18):** _ChrisMS, _Fost_, 4EyedSlime, BigJedo, Caffeindiazepine, Codwhy, ItsShqky, IyaIsMad, Krbreb, LoafOZ, Markedbooboy, NickPlaysGames15, ohh_lia, Ozzyowo, PoofessorP, tbhjosh, violetwoah, Woex
+**S9 (18):** _ChrisMS, _Fost_, 4EyedSlime, BigJedo, Caffeindiazepine, Codwhy, ItsShqky, IyaIsMad, Krbreb, LoafOZ, Markedbooboy, NickPlaysGames15, Ozzyowo, PoofessorP, puppygirlmaple, tbhjosh, violetwow, Woex
 
 **S10 (10):** AlTheWriter, ArcticSeagull, Caydone, Connosaurus, Fourbitplayer, Glarza, MaxEvasion, milkpoptart, SpaceFenix, TacoDab
 

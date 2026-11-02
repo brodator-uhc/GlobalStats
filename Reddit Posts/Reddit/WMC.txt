@@ -555,7 +555,7 @@
 
 **8th - Raydur (17):** CMattznes (S9), EighteenQs (S9), Fairyjuice (S9), firefoxvulpix (S9), nihontiger (S9), BreakSalad (S9), Heralen (S10), JakeAladarSmith (S10), EighteenQs (S10), Bergasms (S10), Mop19 (S10), nihontiger (S10), munchmo (S12), MrTeamRaven (S14), sonmica (S14), Mop19 (S14), VeniiiD (S25)
 
-**9th - shikenzaned (15):** zachlip98 (S4), xXSwiftArrowzXx (S10), Bergasms (S11), firefoxvulpix (S11), JakeAladarSmith (S13), Costanza (S13), firefoxvulpix (S13), munchmo (S13), Bergasms (S13), ShutUpBrick (S14), Heralen (S14), Frostbreath (S19), bytexal (S19), Fairyjuice (S19), nihontiger (S19)
+**9th - shikenzaned (15):** zachlip98 (S4), SwiftDandy (S10), Bergasms (S11), firefoxvulpix (S11), JakeAladarSmith (S13), Costanza (S13), firefoxvulpix (S13), munchmo (S13), Bergasms (S13), ShutUpBrick (S14), Heralen (S14), Frostbreath (S19), bytexal (S19), Fairyjuice (S19), nihontiger (S19)
 
 **10th - dans1988 (13):** shikenzaned (S12), Zarky (S14), WintherMaw (S14), AndrizzlePC (S14), joeykin (S14), MeadowMoos (S15), beastboyrolf (S15), TicedUp (S16), Learning (S16), Flouzemaker (S17), Mop19 (S20), Pizzadudes7 (S21), sonmica (S24)
 
@@ -819,7 +819,7 @@
 
 **2 Seasons (9):** peteyboo (S1,S4), EestiCrafter (S5-S6), TGMB1 (S6,S16), ColdFusion5 (S10,S12), ghowden (S15,S20), Hollymatman (S18,S23), boyceterous (S20,S30), Krenzinator (S28,S30), orcau (S30-S31)
 
-**1 Season (32):** Lorgon111 (S6), xXSwiftArrowzXx (S10), BloodStinger745 (S12), Kampel125 (S18), HunterWolf (S23), TheMop (S24), dRawry (S26), Timonscholte (S26), scriblur (S28), AvaCos (S30), Brodator (S30), buttergolem1 (S30), ColdBac (S30), Cyonal (S30), DarkCrystalFlame (S30), ElGavinoSupremo (S30), Emerric (S30), Greeples (S30), Jakekub (S30), jamertxn (S30), KatyLawson (S30), KirbyMD (S30), Nikikula (S30), Ninjajaja (S30), Regifloat (S30), TastyBaconZ (S30), ToucanTom (S30), Phoebe (S31), Bobbytheturtle (S32), Flohp (S32), Guardaxion (S32), tagggz (S32)
+**1 Season (32):** Lorgon111 (S6), SwiftDandy (S10), BloodStinger745 (S12), Kampel125 (S18), HunterWolf (S23), TheMop (S24), dRawry (S26), Timonscholte (S26), scriblur (S28), AvaCos (S30), Brodator (S30), buttergolem1 (S30), ColdBac (S30), Cyonal (S30), DarkCrystalFlame (S30), ElGavinoSupremo (S30), Emerric (S30), Greeples (S30), Jakekub (S30), jamertxn (S30), KatyLawson (S30), KirbyMD (S30), Nikikula (S30), Ninjajaja (S30), Regifloat (S30), TastyBaconZ (S30), ToucanTom (S30), Phoebe (S31), Bobbytheturtle (S32), Flohp (S32), Guardaxion (S32), tagggz (S32)
 
 ---
 ### Debutants
@@ -842,7 +842,7 @@
 
 **S9 (4):** dans1988, Learning, Raydur, SidGarcia
 
-**S10 (5):** ColdFusion5, iiQuakezz, JakeAladarSmith, xXSwiftArrowzXx, Zarky
+**S10 (5):** ColdFusion5, iiQuakezz, JakeAladarSmith, SwiftDandy, Zarky
 
 **S11 (1):** dnnyys
 

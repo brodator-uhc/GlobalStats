@@ -22,7 +22,7 @@
 
 **S1:** BrickMeistr (0), Natural44 (0)
 
-**S2:** Lunarashi (0), SuperSniperPRO (0), TheDeluxStone (0)
+**S2:** Lunarashi (0), SuperSniperPRO (0), thedeluxstone (0)
 
 **S3:** Kaismartypants (0)
 
@@ -139,7 +139,7 @@
 ---
 ### Kills
 
-**1st - xTranslucenTx (18):** Ajc786 (S1), GmacLad (S2), YaojaDzn (S2), xBitFusion (S2), Gabemessi (S2), zhselchau1998 (S2), Natural44 (S2), Kaismartypants (S2), TheDeluxStone (S2), SuperSniperPRO (S2), RegulatorAsh (S4), Gambino (S4), NessStarStorm (S4), tmb0 (S7), NessStarStorm (S7), Meven (S7), Zyphalopagus (S7), Natural44 (S7)
+**1st - xTranslucenTx (18):** Ajc786 (S1), GmacLad (S2), YaojaDzn (S2), xBitFusion (S2), Gabemessi (S2), zhselchau1998 (S2), Natural44 (S2), Kaismartypants (S2), thedeluxstone (S2), SuperSniperPRO (S2), RegulatorAsh (S4), Gambino (S4), NessStarStorm (S4), tmb0 (S7), NessStarStorm (S7), Meven (S7), Zyphalopagus (S7), Natural44 (S7)
 
 **2nd - Natural44 (6):** ProXPainter (S2), pizzaisland (S2), Kaismartypants (S4), LordSuma (S4), YepItsJustDirt (S7), CristianPvP (S7)
 
@@ -198,7 +198,7 @@
 ---
 ### PvE Deaths
 
-**Fall (6):** AirCannon1187 (S1), Kilr0y42 (S1), SlowATSV (S2), Jasonvac (S2), YaojaDzn (S4), TheDeluxStone (S4)
+**Fall (6):** AirCannon1187 (S1), Kilr0y42 (S1), SlowATSV (S2), Jasonvac (S2), YaojaDzn (S4), thedeluxstone (S4)
 
 **Burning (4):** Natural44 (S3), GmacLad (S3), LordSuma (S5), StandingFuture (S6)
 
@@ -229,7 +229,7 @@
 
 **3 Seasons (6):** Gambino (S1-S2,S4), Lunarashi (S2-S4), YepItsJustDirt (S3-S4,S7), ChristinaAnne (S4-S6), Fygedew (S4-S6), Apex_Twinkie (S5-S7)
 
-**2 Seasons (16):** TheJavaHacker (S1,S3), zhselchau1998 (S1-S2), GmacLad (S2-S3), SuperSniperPRO (S2,S5), TheDeluxStone (S2,S4), HeyImHungry (S4-S5), LordSuma (S4-S5), Meven (S4,S7), Big_Z60 (S5-S6), Evader22 (S5-S6), JahMuis (S5-S6), JSpruce (S5,S7), StandingFuture (S5-S6), Xeru__ (S5,S7), Zyphalopagus (S5,S7), Jinko42 (S6-S7)
+**2 Seasons (16):** TheJavaHacker (S1,S3), zhselchau1998 (S1-S2), GmacLad (S2-S3), SuperSniperPRO (S2,S5), thedeluxstone (S2,S4), HeyImHungry (S4-S5), LordSuma (S4-S5), Meven (S4,S7), Big_Z60 (S5-S6), Evader22 (S5-S6), JahMuis (S5-S6), JSpruce (S5,S7), StandingFuture (S5-S6), Xeru__ (S5,S7), Zyphalopagus (S5,S7), Jinko42 (S6-S7)
 
 **1 Season (34):** AirCannon1187 (S1), Ajc786 (S1), BrickMeistr (S1), CalicoTeam (S1), Cepheid99 (S1), Deniere (S1), Kilr0y42 (S1), ryanpower10 (S1), Chaotically (S2), FlightVapeHacker (S2), Gabemessi (S2), Jasonvac (S2), MardenSleepover (S2), ProXPainter (S2), SlowATSV (S2), thechickenleader (S2), Thiis_Random (S2), Flacce (S4), RegulatorAsh (S4), GamesToJump (S5), NetherrRush (S5), Organized (S5), StupidMonkey (S5), Topdog (S5), TrentxS (S5), Bidus (S6), Egth (S6), KingChrom (S6), LightningS7 (S6), OverlordMike (S6), Supah_Matt (S6), CristianPvP (S7), MrJokkii (S7), tmb0 (S7)
 
@@ -238,7 +238,7 @@
 
 **S1 (16):** AirCannon1187, Ajc786, BrickMeistr, CalicoTeam, Cepheid99, Deniere, Gambino, Kilr0y42, Natural44, pizzaisland, ryanpower10, TheJavaHacker, xBitFusion, xTranslucenTx, YaojaDzn, zhselchau1998
 
-**S2 (14):** Chaotically, FlightVapeHacker, Gabemessi, GmacLad, Jasonvac, Kaismartypants, Lunarashi, MardenSleepover, ProXPainter, SlowATSV, SuperSniperPRO, thechickenleader, TheDeluxStone, Thiis_Random
+**S2 (14):** Chaotically, FlightVapeHacker, Gabemessi, GmacLad, Jasonvac, Kaismartypants, Lunarashi, MardenSleepover, ProXPainter, SlowATSV, SuperSniperPRO, thechickenleader, thedeluxstone, Thiis_Random
 
 **S3 (1):** YepItsJustDirt
 

@@ -197,7 +197,7 @@
 
 **5th - BoltsInCharge (11):** Mei_Playz (S6), Scarletlilith (S6), Jqmalll (S6), QuartzIsCanon (S8), SilverShelby (S8), ShootingGoats (S8), ItsJustRob (S8), QueenxPetty (S8), Nuclearsugar (S8), cherryblawsom (S8), Kaismartypants (S8)
 
-**6th - brinniex (9):** Roxeens (S1), LipGlossica (S1), Cookie_for_life (S1), Erdql (S2), QueenxPetty (S2), ItsOliXD (S2), HeyItsVincey (S2), Lucid_snipez1 (S2), TheSlimeBrother (S2)
+**6th - brinniex (9):** RubyRoxeens (S1), LipGlossica (S1), Cookie_for_life (S1), Erdql (S2), QueenxPetty (S2), ItsOliXD (S2), HeyItsVincey (S2), Lucid_snipez1 (S2), TheSlimeBrother (S2)
 
 **6th - CAMKART100 (9):** Hamishhhh (S5), Jqmalll (S5), ItsShqky (S7), Catsimc (S7), Winexe (S8), Westcraft00 (S8), AirInAirOut (S10), be_yonce (S10), HeartRaelyn (S10)
 
@@ -253,7 +253,7 @@
 
 **32nd - AdriftTie800 (1):** Erdql (S4)
 
-**32nd - Aesolic (1):** Roxeens (S3)
+**32nd - Aesolic (1):** RubyRoxeens (S3)
 
 **32nd - AmarisCCrap (1):** Calliwags (S6)
 
@@ -297,7 +297,7 @@
 
 **32nd - RioTsumiki (1):** iyvenus (S2)
 
-**32nd - Roxeens (1):** CelestialAngel0 (S4)
+**32nd - RubyRoxeens (1):** CelestialAngel0 (S4)
 
 **32nd - RuneTactics (1):** SilverShelby (S6)
 
@@ -318,7 +318,7 @@
 
 **Left (4):** iEyeconic (S1), PumpkinFella (S1), LipGlossica (S3), codynn (S6)
 
-**Explosion (3):** Aesolic (S4), GrandSlamBlocker (S4), Roxeens (S4)
+**Explosion (3):** Aesolic (S4), GrandSlamBlocker (S4), RubyRoxeens (S4)
 
 **Lava (3):** BuildingBard300 (S2), iyvenus (S3), AUD_ODD (S5)
 
@@ -351,7 +351,7 @@
 
 **4 Seasons (5):** Lucid_snipez1 (S1-S2,S5,S8), Aesolic (S3-S6), SilverShelby (S4,S6-S8), BoltsInCharge (S6-S8,S10), ShootingGoats (S7-S10)
 
-**3 Seasons (14):** Kaddyn (S1,S3,S5), LipGlossica (S1,S3,S5), Roxeens (S1,S3-S4), HeyItsJBug (S2,S4-S5), MichaelPlayMC (S3,S9-S10), Hikaio (S4,S6-S7), Jqmalll (S5-S6,S8), SNebulas (S5-S7), AirInAirOut (S6-S7,S10), Jkisthebest (S6-S7,S9), zoeywithawhy (S7-S9), broccoliar (S8-S10), IronWolfPlays (S8-S10), SwishMahBish (S8-S10)
+**3 Seasons (14):** Kaddyn (S1,S3,S5), LipGlossica (S1,S3,S5), RubyRoxeens (S1,S3-S4), HeyItsJBug (S2,S4-S5), MichaelPlayMC (S3,S9-S10), Hikaio (S4,S6-S7), Jqmalll (S5-S6,S8), SNebulas (S5-S7), AirInAirOut (S6-S7,S10), Jkisthebest (S6-S7,S9), zoeywithawhy (S7-S9), broccoliar (S8-S10), IronWolfPlays (S8-S10), SwishMahBish (S8-S10)
 
 **2 Seasons (24):** brinniex (S1-S2), BuildingBard300 (S2-S3), MetalicShard (S2,S4), thnead (S2,S9), AdonisGaming (S3-S4), EzradoesE (S3-S4), nug17 (S3-S4), GrandSlamBlocker (S4,S8), MrEzzo (S4,S6), NotLucca (S4-S5), WishyNathan (S4,S6), ValerieBliss (S5,S9), be_yonce (S6,S10), CommanderK22_ (S6,S9), RuneTactics (S6-S7), Sten_Stone (S6-S7), RoseCuycuy (S7-S8), TAGMLive (S7,S9), ChainingVermin2 (S8,S10), ItsJustRob (S8-S9), Westcraft00 (S8-S9), JampoJohn (S9-S10), LuBun (S9-S10), noktime (S9-S10)
 
@@ -360,7 +360,7 @@
 ---
 ### Debutants
 
-**S1 (17):** alfiehallam, brinniex, BrookePlayzz, Cookie_for_life, GamerDucki, Hamishhhh, iEyeconic, IICapi, iyvenus, Kaddyn, LipGlossica, Lucid_snipez1, LukiePlayzz, PumpkinFella, quafwi, QueenxPetty, Roxeens
+**S1 (17):** alfiehallam, brinniex, BrookePlayzz, Cookie_for_life, GamerDucki, Hamishhhh, iEyeconic, IICapi, iyvenus, Kaddyn, LipGlossica, Lucid_snipez1, LukiePlayzz, PumpkinFella, quafwi, QueenxPetty, RubyRoxeens
 
 **S2 (9):** BuildingBard300, Erdql, HeyItsJBug, HeyItsVincey, ItsOliXD, MetalicShard, RioTsumiki, TheSlimeBrother, thnead
 

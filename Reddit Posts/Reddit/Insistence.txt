@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: Karliffu (4), lilygant (2)**
+**S1: catgirlharmony (2), Karliffu (4)**
 
 **S2: m4ku (5), vynil (4), Zahkari (4)**, *Yveltql (0)*
 
@@ -72,7 +72,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Karliffu (4), lilygant (2)
+**S1:** Karliffu (4), catgirlharmony (2)
 
 **S2:** m4ku (5), vynil (4), Yveltql (0), Zahkari (4)
 
@@ -193,7 +193,7 @@
 
 **3rd - vynil (13):** JosephCFC18 (S1), alexnv (S2), Karliffu (S2), Jhnova (S2), Pelycosaur (S2), TacoDab (S6), Jayzize (S10), IsaacMT (S10), Codwhy (S10), Djmandude (S10), Thermql (S10), Yoshi687 (S10), GetNicked (S10)
 
-**4th - Yoshi687 (11):** Vetmire (S2), Brodator (S3), Vetmire (S3), Jayzize (S5), MajorDH (S5), Zahkari (S5), lilygant (S6), strategy (S6), tescobagforlife (S7), Randehh (S7), alexnv (S7)
+**4th - Yoshi687 (11):** Vetmire (S2), Brodator (S3), Vetmire (S3), Jayzize (S5), MajorDH (S5), Zahkari (S5), catgirlharmony (S6), strategy (S6), tescobagforlife (S7), Randehh (S7), alexnv (S7)
 
 **5th - tescobagforlife (10):** ERHDude (S1), qam022 (S1), Fra49 (S2), RiseGR (S4), JamestheDouglas (S4), Yveltql (S4), brinkwhy (S4), alexnv (S4), TorinFBF (S8), Slooshyy (S9)
 
@@ -249,13 +249,13 @@
 
 **30th - Captinn (2):** _Dieter (S8), ArcticSeagull (S8)
 
+**30th - catgirlharmony (2):** JamestheDouglas (S1), Thermql (S1)
+
 **30th - Coward (2):** alexnv (S5), IsaacMT (S7)
 
 **30th - Davidsid (2):** Randehh (S1), Bofishkix (S4)
 
 **30th - IsaacMT (2):** JamestheDouglas (S3), SoupestGlobe (S7)
-
-**30th - lilygant (2):** JamestheDouglas (S1), Thermql (S1)
 
 **36th - ArcticSeagull (1):** JosephCFC18 (S8)
 
@@ -321,14 +321,14 @@
 
 **3 Seasons (6):** RiseGR (S1,S3-S4), m4ku (S2-S4), TacoDab (S3,S6,S10), Coward (S5,S7,S9), Kelawesome (S7-S9), Captureee (S8-S10)
 
-**2 Seasons (11):** lilygant (S1,S6), xCand (S1,S8), SummerBqsh (S4,S10), MajorDH (S5,S9), _carn (S6,S10), Psykl0ne (S6-S7), SoupestGlobe (S7-S8), _Dieter (S8,S10), ArcticSeagull (S8-S9), GetNicked (S8,S10), MaxCringe (S8-S9)
+**2 Seasons (11):** catgirlharmony (S1,S6), xCand (S1,S8), SummerBqsh (S4,S10), MajorDH (S5,S9), _carn (S6,S10), Psykl0ne (S6-S7), SoupestGlobe (S7-S8), _Dieter (S8,S10), ArcticSeagull (S8-S9), GetNicked (S8,S10), MaxCringe (S8-S9)
 
 **1 Season (19):** 123SteveBob (S1), AJEvolved (S1), ERHDude (S1), Jhnova (S2), TheSheepMasters (S2), TonyEatWorld (S2), CallumPace (S3), Daffz (S3), Zizo__ (S3), Caydone (S5), nFang (S5), ShyGus (S5), Walker_Zombie (S6), Captinn (S8), Hecticity (S8), Kaddyn (S9), Djmandude (S10), Flcnt (S10), QuQuel (S10)
 
 ---
 ### Debutants
 
-**S1 (18):** 123SteveBob, AJEvolved, alexnv, Davidsid, ERHDude, JamestheDouglas, JosephCFC18, Karliffu, lilygant, Ozzyowo, qam022, Randehh, RiseGR, tescobagforlife, Thermql, vynil, xCand, Yveltql
+**S1 (18):** 123SteveBob, AJEvolved, alexnv, catgirlharmony, Davidsid, ERHDude, JamestheDouglas, JosephCFC18, Karliffu, Ozzyowo, qam022, Randehh, RiseGR, tescobagforlife, Thermql, vynil, xCand, Yveltql
 
 **S2 (16):** Bofishkix, brinkwhy, Fra49, Jhnova, m4ku, MaxEvasion, Pelycosaur, ScottPirie, Slooshyy, strategy, TheSheepMasters, TonyEatWorld, TorinFBF, Vetmire, Yoshi687, Zahkari
 

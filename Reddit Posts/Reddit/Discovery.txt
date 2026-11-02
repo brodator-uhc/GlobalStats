@@ -7,7 +7,7 @@
 
 **S2: xPhinehas (1)**
 
-**S3: Jep (4), MBeaar (3)**, *RwDragon (0), TheRealJJBall (0)*
+**S3: Jep (4), MBeaar (3)**, *RwDragon (0), TherealJJBall (0)*
 
 **S4: Jep (7)**
 
@@ -40,7 +40,7 @@
 
 **S2:** N/A
 
-**S3:** RwDragon (0), Jep (4), MBeaar (3), TheRealJJBall (0)
+**S3:** RwDragon (0), Jep (4), MBeaar (3), TherealJJBall (0)
 
 **S4:** N/A
 
@@ -53,7 +53,7 @@
 
 **S3:** Infiniti_x (0:5:36)
 
-**S4:** TheRealJJBall (0:0:17)
+**S4:** TherealJJBall (0:0:17)
 
 ---
 ### Ironman
@@ -84,14 +84,14 @@
 
 **S2:** dosh596 (Incipiens)
 
-**S3:** TheRealJJBall (Skeleton)
+**S3:** TherealJJBall (Skeleton)
 
 **S4:** FazedMC (Jep)
 
 ---
 ### Kills
 
-**1st - Jep (11):** bigfoot_ (S3), BlewXwReid (S3), Frostbreath (S3), CallumPace (S3), FazedMC (S4), RwDragon (S4), _Bogo (S4), LimitDTW (S4), BlewXwReid (S4), TheRealJJBall (S4), TheSonicJoey (S4)
+**1st - Jep (11):** bigfoot_ (S3), BlewXwReid (S3), Frostbreath (S3), CallumPace (S3), FazedMC (S4), RwDragon (S4), _Bogo (S4), LimitDTW (S4), BlewXwReid (S4), TherealJJBall (S4), TheSonicJoey (S4)
 
 **2nd - FazedMC (7):** BlewXwReid (S1), Frostbreath (S1), Farmertom (S2), GRLH (S2), MBeaar (S2), _Bogo (S2), _JJL (S2)
 
@@ -127,12 +127,12 @@
 
 **14th - oDogLFC (1):** xPhinehas (S4)
 
-**14th - poempedoempoex (1):** lolmcgeeksFTW (S1)
+**14th - poempedoempoex (1):** TheBestOtaku (S1)
 
 ---
 ### PvE Deaths
 
-**Skeleton (1):** TheRealJJBall (S3)
+**Skeleton (1):** TherealJJBall (S3)
 
 **Zombie (1):** BJPlays (S3)
 
@@ -143,18 +143,18 @@
 
 **3 Seasons (7):** _Bogo (S1-S2,S4), BlewXwReid (S1,S3-S4), DaPenguin19 (S1-S3), Infiniti_x (S1-S3), Odennn (S1-S2,S4), xPhinehas (S1-S2,S4), GRLH (S2-S4)
 
-**2 Seasons (12):** _JJL (S1-S2), dosh596 (S1-S2), poempedoempoex (S1,S4), MBeaar (S2-S3), SnakeMedia (S2-S3), TheSonicJoey (S2,S4), Jep (S3-S4), lottebunny (S3-S4), oDogLFC (S3-S4), RwDragon (S3-S4), TheRealJJBall (S3-S4), Yveltql (S3-S4)
+**2 Seasons (12):** _JJL (S1-S2), dosh596 (S1-S2), poempedoempoex (S1,S4), MBeaar (S2-S3), SnakeMedia (S2-S3), TheSonicJoey (S2,S4), Jep (S3-S4), lottebunny (S3-S4), oDogLFC (S3-S4), RwDragon (S3-S4), TherealJJBall (S3-S4), Yveltql (S3-S4)
 
-**1 Season (15):** BlueHybrid (S1), Glock_ (S1), lolmcgeeksFTW (S1), numdegased (S1), Skymeagle (S1), TheRCPanda (S1), Farmertom (S2), Incipiens (S2), bigfoot_ (S3), BJPlays (S3), CallumPace (S3), Cryptic (S3), KaBoom (S3), GeeSam (S4), HoneyFromHell (S4)
+**1 Season (15):** BlueHybrid (S1), Glock_ (S1), numdegased (S1), Skymeagle (S1), TheBestOtaku (S1), TheRCPanda (S1), Farmertom (S2), Incipiens (S2), bigfoot_ (S3), BJPlays (S3), CallumPace (S3), Cryptic (S3), KaBoom (S3), GeeSam (S4), HoneyFromHell (S4)
 
 ---
 ### Debutants
 
-**S1 (18):** _Bogo, _JJL, BlewXwReid, BlueHybrid, DaPenguin19, dosh596, FazedMC, Frostbreath, Glock_, Infiniti_x, LimitDTW, lolmcgeeksFTW, numdegased, Odennn, poempedoempoex, Skymeagle, TheRCPanda, xPhinehas
+**S1 (18):** _Bogo, _JJL, BlewXwReid, BlueHybrid, DaPenguin19, dosh596, FazedMC, Frostbreath, Glock_, Infiniti_x, LimitDTW, numdegased, Odennn, poempedoempoex, Skymeagle, TheBestOtaku, TheRCPanda, xPhinehas
 
 **S2 (6):** Farmertom, GRLH, Incipiens, MBeaar, SnakeMedia, TheSonicJoey
 
-**S3 (11):** bigfoot_, BJPlays, CallumPace, Cryptic, Jep, KaBoom, lottebunny, oDogLFC, RwDragon, TheRealJJBall, Yveltql
+**S3 (11):** bigfoot_, BJPlays, CallumPace, Cryptic, Jep, KaBoom, lottebunny, oDogLFC, RwDragon, TherealJJBall, Yveltql
 
 **S4 (2):** GeeSam, HoneyFromHell
 

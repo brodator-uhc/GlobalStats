@@ -40,7 +40,7 @@
 
 **S7:** JamestheDouglas (3), VIBEEY (0)
 
-**S8:** caaity (0), JaeHasNoMaidens (2), SulyYT (0)
+**S8:** caaity (0), commitstaxfraud (2), SulyYT (0)
 
 **S9:** Malten (0), xJC (1)
 
@@ -172,7 +172,7 @@
 
 **S4:** ACommonKiwi (Strobez)
 
-**S5:** JaeHasNoMaidens (Fall)
+**S5:** commitstaxfraud (Fall)
 
 **S6:** Dragon_Vapes (Creeper)
 
@@ -193,7 +193,7 @@
 
 **2nd - xJC (8):** Strobez (S1), MetrohYT (S1), yuhFazz (S1), Malten (S3), Kqvn (S6), HeyImAqua (S6), clearurbad (S8), DeadpoolUHC (S9)
 
-**4th - DevoyTTV (5):** JamestheDouglas (S8), ADinoPlayingMC (S8), BlackPants (S8), JaeHasNoMaidens (S8), MarinePlays (S10)
+**4th - DevoyTTV (5):** JamestheDouglas (S8), ADinoPlayingMC (S8), BlackPants (S8), commitstaxfraud (S8), MarinePlays (S10)
 
 **5th - ADinoPlayingMC (4):** Austyn_ (S9), BigJedo (S10), Malten (S10), JamestheDouglas (S10)
 
@@ -223,7 +223,7 @@
 
 **9th - Zenger (3):** SaraBumbleBee (S1), Alpacity (S1), dogbite111 (S2)
 
-**19th - JaeHasNoMaidens (2):** ImChile (S8), caaity (S8)
+**19th - commitstaxfraud (2):** ImChile (S8), caaity (S8)
 
 **19th - PinkFusi0n (2):** gamer__girl34 (S1), Zenger (S1)
 
@@ -272,7 +272,7 @@
 
 **Creeper (10):** BanjoYT (S2), ArodYT (S3), FlashingsMC (S5), Dragon_Vapes (S6), caaity (S6), Sneaky26 (S7), Malten (S7), JoshC2 (S9), Malten (S9), YoloPlayz_ (S9)
 
-**Fall (8):** xJC (S2), FireGamerFTW (S3), Malten (S4), DevoyTTV (S4), JaeHasNoMaidens (S5), DevoyTTV (S5), HeyItsZinc (S6), JoshC2 (S8)
+**Fall (8):** xJC (S2), FireGamerFTW (S3), Malten (S4), DevoyTTV (S4), commitstaxfraud (S5), DevoyTTV (S5), HeyItsZinc (S6), JoshC2 (S8)
 
 **Lava (6):** TallGrass (S1), Ceddyy (S1), gamer__girl34 (S2), xZenoz (S5), JamestheDouglas (S6), SaraBumbleBee (S7)
 
@@ -303,7 +303,7 @@
 
 **3 Seasons (8):** Cat6376 (S1,S3-S4), Strobez (S1,S4,S7), stupidsylvia (S3-S4,S10), FlareFusion (S4-S6), Hedidit (S4-S5,S9), Kqvn (S6-S8), ADinoPlayingMC (S8-S10), ImChile (S8-S10)
 
-**2 Seasons (13):** AgentNobody (S1,S5), Alpacity (S1,S4), gamer__girl34 (S1-S2), yuhFazz (S1,S5), BanjoYT (S2,S4), dogbite111 (S2-S3), RizinYT (S3,S6), SummerBqsh (S4-S5), HeyImAqua (S5-S6), JaeHasNoMaidens (S5,S8), JoshC2 (S8-S9), Austyn_ (S9-S10), DeadpoolUHC (S9-S10)
+**2 Seasons (13):** AgentNobody (S1,S5), Alpacity (S1,S4), gamer__girl34 (S1-S2), yuhFazz (S1,S5), BanjoYT (S2,S4), dogbite111 (S2-S3), RizinYT (S3,S6), SummerBqsh (S4-S5), commitstaxfraud (S5,S8), HeyImAqua (S5-S6), JoshC2 (S8-S9), Austyn_ (S9-S10), DeadpoolUHC (S9-S10)
 
 **1 Season (43):** Ceddyy (S1), joepaz (S1), MetrohYT (S1), PinkFusi0n (S1), seewasp (S1), TallGrass (S1), FallenFateYT (S2), Gqmbit (S2), kingcraftdude (S2), KingOfDaTrash (S2), R2Droid2 (S2), The_Wild_Senpai (S2), ArodYT (S3), FireGamerFTW (S3), Zoytz0 (S3), ACommonKiwi (S4), AlexIsAGodAtPVP (S4), CelestialReira (S4), Flipsta (S4), Khochie (S4), Scythro (S4), YoWaddles (S4), FlashingsMC (S5), iShadow (S5), Kathyy_ (S5), Oddless (S5), TianaReese (S5), urr (S5), xZenoz (S5), Dragon_Vapes (S6), HeyItsZinc (S6), PolarUHC (S6), A1infinite (S7), JustZinc (S7), BlackPants (S8), clearurbad (S8), Moonlitess (S8), SulyYT (S8), Frisky_Savage (S9), GraceC2_ (S9), YoloPlayz_ (S9), BigJedo (S10), ItsShqky (S10)
 
@@ -318,7 +318,7 @@
 
 **S4 (12):** ACommonKiwi, AlexIsAGodAtPVP, CelestialReira, FlareFusion, Flipsta, Hedidit, Khochie, MarinePlays, Scythro, Sneaky26, SummerBqsh, YoWaddles
 
-**S5 (9):** FlashingsMC, HeyImAqua, iShadow, JaeHasNoMaidens, Kathyy_, Oddless, TianaReese, urr, xZenoz
+**S5 (9):** commitstaxfraud, FlashingsMC, HeyImAqua, iShadow, Kathyy_, Oddless, TianaReese, urr, xZenoz
 
 **S6 (4):** Dragon_Vapes, HeyItsZinc, Kqvn, PolarUHC
 

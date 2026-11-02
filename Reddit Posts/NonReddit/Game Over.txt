@@ -59,7 +59,7 @@
 
 **S2:** Karliffu
 
-**S3:** Hendysaurus
+**S3:** hendy53
 
 **S4:** _Fost_
 
@@ -85,7 +85,7 @@
 
 **S2:** DevoyTTV (nohyperr)
 
-**S3:** TayUHC (Hendysaurus)
+**S3:** TayUHC (hendy53)
 
 **S4:** Plushy33 (MineKG)
 
@@ -171,7 +171,7 @@
 
 **21st - strategy (1):** Pelycosaur (S5)
 
-**21st - TayUHC (1):** Hendysaurus (S3)
+**21st - TayUHC (1):** hendy53 (S3)
 
 **21st - Vetmire (1):** Caffeindiazepine (S5)
 
@@ -209,7 +209,7 @@
 
 **2 Seasons (11):** AdonisGaming (S1-S2), Fourbitplayer (S1-S2), nohyperr (S1-S2), Pacman_2022 (S1-S2), Dymes (S2,S4), MineKG (S2,S4), _Fost_ (S3-S4), ArcticSeagull (S3-S4), Zcin (S3,S5), BigJedo (S4-S5), Rebelghost (S4-S5)
 
-**1 Season (38):** CelestialReira (S1), Dargxn (S1), eliexists (S1), ghostblurr (S1), Jaysonn (S1), Pacman3033 (S1), WishyNathan (S1), CodeJoshua (S2), DevoyTTV (S2), Karliffu (S2), mmist (S2), MrSurvivalist (S2), NickPlaysGames15 (S2), violetwoah (S2), _Dieter (S3), Hendysaurus (S3), SiahStone (S3), TayUHC (S3), xDiversity (S3), coldified (S4), DatGuyAdam (S4), GeniRCT (S4), Krbreb (S4), NicholasCYA (S4), Alisa_Muffins (S5), brinkwhy (S5), Caffeindiazepine (S5), CHAINGE (S5), David63 (S5), Dcrpy (S5), DragonGlory (S5), emi1iano (S5), Espik (S5), Gumpey (S5), JamestheDouglas (S5), strategy (S5), SummerBqsh (S5), TitaniumDino25 (S5)
+**1 Season (38):** CelestialReira (S1), Dargxn (S1), eliexists (S1), ghostblurr (S1), Jaysonn (S1), Pacman3033 (S1), WishyNathan (S1), CodeJoshua (S2), DevoyTTV (S2), Karliffu (S2), mmist (S2), MrSurvivalist (S2), NickPlaysGames15 (S2), violetwoah (S2), _Dieter (S3), hendy53 (S3), SiahStone (S3), TayUHC (S3), xDiversity (S3), coldified (S4), DatGuyAdam (S4), GeniRCT (S4), Krbreb (S4), NicholasCYA (S4), Alisa_Muffins (S5), brinkwhy (S5), Caffeindiazepine (S5), CHAINGE (S5), David63 (S5), Dcrpy (S5), DragonGlory (S5), emi1iano (S5), Espik (S5), Gumpey (S5), JamestheDouglas (S5), strategy (S5), SummerBqsh (S5), TitaniumDino25 (S5)
 
 ---
 ### Debutants
@@ -218,7 +218,7 @@
 
 **S2 (12):** CodeJoshua, DevoyTTV, Dymes, Glarza, Karliffu, MineKG, mmist, MrSurvivalist, NickPlaysGames15, Retrofied, Slooshyy, violetwoah
 
-**S3 (12):** _Dieter, _Fost_, ArcticSeagull, Bofishkix, Captinn, Evzenitable, Hendysaurus, Mikemino321, SiahStone, TayUHC, xDiversity, Zcin
+**S3 (12):** _Dieter, _Fost_, ArcticSeagull, Bofishkix, Captinn, Evzenitable, hendy53, Mikemino321, SiahStone, TayUHC, xDiversity, Zcin
 
 **S4 (7):** BigJedo, coldified, DatGuyAdam, GeniRCT, Krbreb, NicholasCYA, Rebelghost
 

@@ -7,7 +7,7 @@
 
 **S2: PwincessVanessa (4)**, *AdorableActress (0)*
 
-**S3: korzieeTV (2), snoepke (2)**, *kawaiibunri (6)*
+**S3: korzieeTV (2), snoepke (2)**, *evuhlynx (6)*
 
 **S4: ShadowJCS (8)**, *CarolBlazing (2)*
 
@@ -29,7 +29,7 @@
 
 **S2:** PwincessVanessa (4)
 
-**S3:** kawaiibunri (6)
+**S3:** evuhlynx (6)
 
 **S4:** ShadowJCS (8)
 
@@ -40,7 +40,7 @@
 
 **S2:** AdorableActress (0), PwincessVanessa (4)
 
-**S3:** kawaiibunri (6), korzieeTV (2), snoepke (2)
+**S3:** evuhlynx (6), korzieeTV (2), snoepke (2)
 
 **S4:** CarolBlazing (2), ShadowJCS (8)
 
@@ -73,7 +73,7 @@
 
 **S2:** BLANK101 (Squarbie)
 
-**S3:** kawaiibunri (VERSALIENS)
+**S3:** evuhlynx (VERSALIENS)
 
 **S4:** ShadowJCS (snoepke)
 
@@ -84,18 +84,18 @@
 
 **S2:** poetechie (Drowning)
 
-**S3:** VERSALIENS (kawaiibunri)
+**S3:** VERSALIENS (evuhlynx)
 
 **S4:** snoepke (ShadowJCS)
 
 ---
 ### Kills
 
-**1st - PwincessVanessa (8):** ishen (S1), BLANK101 (S1), BLANK101 (S2), kawaiibunri (S2), gemjars (S2), ToeKun (S2), CarolBlazing (S3), kawaiibunri (S3)
+**1st - PwincessVanessa (8):** ishen (S1), BLANK101 (S1), BLANK101 (S2), evuhlynx (S2), gemjars (S2), ToeKun (S2), CarolBlazing (S3), evuhlynx (S3)
 
-**1st - ShadowJCS (8):** snoepke (S4), Trashpandius (S4), poetechie (S4), gemjars (S4), dolphinman_rl (S4), UnluckyFelis (S4), brinniex (S4), korzieeTV (S4)
+**1st - ShadowJCS (8):** snoepke (S4), TrashyPandius (S4), poetechie (S4), gemjars (S4), dolphinman_rl (S4), UnluckyFelis (S4), brinniex (S4), korzieeTV (S4)
 
-**3rd - kawaiibunri (6):** VERSALIENS (S3), zeshie_ (S3), PrinceSix (S3), dolphinman_rl (S3), Aristootle_ (S3), Flcnt (S3)
+**3rd - evuhlynx (6):** VERSALIENS (S3), zeshie_ (S3), PrinceSix (S3), dolphinman_rl (S3), Aristootle_ (S3), Flcnt (S3)
 
 **4th - BLANK101 (4):** TehBaconBrawlerZ (S1), Squarbie (S2), UnluckyFelis (S2), snoepke (S2)
 
@@ -141,19 +141,19 @@
 
 **3 Seasons (4):** UnluckyFelis (S1-S2,S4), zeshie_ (S1-S3), gemjars (S2-S4), snoepke (S2-S4)
 
-**2 Seasons (10):** AdorableActress (S1-S2), BLANK101 (S1-S2), Squarbie (S1-S2), kawaiibunri (S2-S3), PrinceSix (S2-S3), Aristootle_ (S3-S4), brinniex (S3-S4), CarolBlazing (S3-S4), dolphinman_rl (S3-S4), korzieeTV (S3-S4)
+**2 Seasons (10):** AdorableActress (S1-S2), BLANK101 (S1-S2), Squarbie (S1-S2), evuhlynx (S2-S3), PrinceSix (S2-S3), Aristootle_ (S3-S4), brinniex (S3-S4), CarolBlazing (S3-S4), dolphinman_rl (S3-S4), korzieeTV (S3-S4)
 
-**1 Season (17):** AshalsDream (S1), bbyrealm (S1), ishen (S1), SaruiiSK (S1), TehBaconBrawlerZ (S1), wyldevin (S1), AshleyMashley (S2), InProper (S2), ToeKun (S2), Flcnt (S3), JahnDough (S3), Tumbie (S3), VERSALIENS (S3), C970 (S4), HeyItsJBug (S4), ShadowJCS (S4), Trashpandius (S4)
+**1 Season (17):** AshalsDream (S1), bbyrealm (S1), ishen (S1), SaruiiSK (S1), TehBaconBrawlerZ (S1), wyldevin (S1), AshleyMashley (S2), InProper (S2), ToeKun (S2), Flcnt (S3), JahnDough (S3), Tumbie (S3), VERSALIENS (S3), C970 (S4), HeyItsJBug (S4), ShadowJCS (S4), TrashyPandius (S4)
 
 ---
 ### Debutants
 
 **S1 (13):** AdorableActress, AshalsDream, bbyrealm, BLANK101, ishen, poetechie, PwincessVanessa, SaruiiSK, Squarbie, TehBaconBrawlerZ, UnluckyFelis, wyldevin, zeshie_
 
-**S2 (7):** AshleyMashley, gemjars, InProper, kawaiibunri, PrinceSix, snoepke, ToeKun
+**S2 (7):** AshleyMashley, evuhlynx, gemjars, InProper, PrinceSix, snoepke, ToeKun
 
 **S3 (9):** Aristootle_, brinniex, CarolBlazing, dolphinman_rl, Flcnt, JahnDough, korzieeTV, Tumbie, VERSALIENS
 
-**S4 (4):** C970, HeyItsJBug, ShadowJCS, Trashpandius
+**S4 (4):** C970, HeyItsJBug, ShadowJCS, TrashyPandius
 
 ---

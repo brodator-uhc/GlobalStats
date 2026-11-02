@@ -13,7 +13,7 @@
 
 **S5: flxnwolf (0), starwebs1 (2)**
 
-**S6: Parinfinity (5)**, *Mat_HD (0), Space_Face87 (1)*
+**S6: Parinfinity (5)**, *DBone87 (1), Mat_HD (0)*
 
 **S7: ToucanTom (4)**
 
@@ -57,6 +57,8 @@
 
 **S27: Flouzemaker (0), Greeples (1), ProGirlGamer (1), TheSlimeBrother (2)**
 
+**S28: Brodator (4), ShootingGoats (1), TheSlimeBrother (2)**
+
 ---
 ### Runner Ups
 
@@ -72,7 +74,7 @@
 
 **S6:** __Yoyo (1), starwebs1 (2), ToucanTom (0)
 
-**S7:** gumballmatt123 (0)
+**S7:** GumballMatt_ (0)
 
 **S8:** darkhaven13 (0), flxnwolf (0)
 
@@ -113,6 +115,8 @@
 **S26:** Brodator (2), Klobb (2), MarcC5M (0)
 
 **S27:** Brodator (3), Ninetals38 (0), ShootingGoats (0), wibbol (0)
+
+**S28:** brodioh (0), CommanderK22_ (0), Ninetals38 (0)
 
 ---
 ### Most Kills
@@ -171,6 +175,8 @@
 
 **S27:** InsertDotJpeg (4)
 
+**S28:** Brodator (4)
+
 ---
 ### Most Kills (Team)
 
@@ -184,7 +190,7 @@
 
 **S5:** Long_Journey (1), Parinfinity (1) & starwebs1 (2), flxnwolf (0)
 
-**S6:** Space_Face87 (1), Parinfinity (5), Mat_HD (0)
+**S6:** DBone87 (1), Parinfinity (5), Mat_HD (0)
 
 **S7:** N/A
 
@@ -228,6 +234,8 @@
 
 **S27:** ColdBac (2), DogOfKrondor (0), InsertDotJpeg (4), Randehh (3)
 
+**S28:** TheSlimeBrother (2), ShootingGoats (1), Brodator (4)
+
 ---
 ### First Damage
 
@@ -235,7 +243,7 @@
 
 **S2:** lightmaster1 (0:4:39)
 
-**S3:** Space_Face87 (0:2:24)
+**S3:** DBone87 (0:2:24)
 
 **S4:** __Yoyo (0:5:27)
 
@@ -285,6 +293,8 @@
 
 **S27:** wibbol (0:1:10)
 
+**S28:** Pehnk (0:0:28)
+
 ---
 ### Ironman
 
@@ -300,7 +310,7 @@
 
 **S6:** Parinfinity (1:9:17)
 
-**S7:** gumballmatt123 (2:5:30)
+**S7:** GumballMatt_ (2:5:30)
 
 **S8:** Long_Journey (1:26:7)
 
@@ -342,6 +352,8 @@
 
 **S27:** Brodator (1:42:53)
 
+**S28:** DogOfKrondor (1:32:55)
+
 ---
 ### First Blood
 
@@ -355,11 +367,11 @@
 
 **S5:** Parinfinity (Jack_Birding)
 
-**S6:** Space_Face87 (Long_Journey)
+**S6:** DBone87 (Long_Journey)
 
 **S7:** Parinfinity (Azilym)
 
-**S8:** dRawry (Space_Face87)
+**S8:** dRawry (DBone87)
 
 **S9:** Kidfo (ToucanTom)
 
@@ -399,6 +411,8 @@
 
 **S27:** ChainingVermin2 (wibbol)
 
+**S28:** _Fost_ (DogOfKrondor)
+
 ---
 ### First Death
 
@@ -408,7 +422,7 @@
 
 **S3:** bigmishap (Lava)
 
-**S4:** Space_Face87 (Lava)
+**S4:** DBone87 (Lava)
 
 **S5:** __Scott (Creeper)
 
@@ -456,18 +470,20 @@
 
 **S27:** wibbol (ChainingVermin2)
 
+**S28:** ChainingVermin2 (Explosion)
+
 ---
 ### Kills
 
-**1st - Brodator (21):** Nikikula (S20), Franz (S20), Arich (S20), CodeJoshua (S20), starlxghtmoon (S22), SummerBqsh (S22), 5kylord (S22), TheBP (S22), Charrlottie (S22), bluu31 (S22), Ullti (S22), thaunking (S22), Fra49 (S23), Nikikula (S23), CodeJoshua (S24), DancersTalon (S24), Ullti (S26), Flouzemaker (S26), Nikikula (S27), Mjora (S27), ChainingVermin2 (S27)
+**1st - Brodator (25):** Nikikula (S20), Franz (S20), Arich (S20), CodeJoshua (S20), starlxghtmoon (S22), SummerBqsh (S22), 5kylord (S22), TheBP (S22), Charrlottie (S22), bluu31 (S22), Ullti (S22), thaunking (S22), Fra49 (S23), Nikikula (S23), CodeJoshua (S24), DancersTalon (S24), Ullti (S26), Flouzemaker (S26), Nikikula (S27), Mjora (S27), ChainingVermin2 (S27), SpyroJ (S28), CommanderK22_ (S28), Applepie78 (S28), _Fost_ (S28)
 
-**2nd - Parinfinity (17):** timmyofpark (S4), darkhaven13 (S4), Long_Journey (S4), RedValour (S4), DrzaPlays (S4), Lickety_Split (S4), flxnwolf (S4), robfred2011 (S4), Jack_Birding (S5), Jack_Birding (S6), __Scott (S6), ToucanTom (S6), starwebs1 (S6), __Yoyo (S6), Azilym (S7), __Scott (S7), dRawry (S7)
+**2nd - Parinfinity (17):** timmyofpark (S4), darkhaven13 (S4), Long_Journey (S4), RedValour (S4), Drza (S4), Lickety_Split (S4), flxnwolf (S4), robfred2011 (S4), Jack_Birding (S5), Jack_Birding (S6), __Scott (S6), ToucanTom (S6), starwebs1 (S6), __Yoyo (S6), Azilym (S7), __Scott (S7), dRawry (S7)
 
-**3rd - dRawry (13):** Space_Face87 (S8), Just_Gerald (S8), starwebs1 (S8), flxnwolf (S8), starwebs1 (S9), Rivbr (S10), Long_Journey (S13), truefaster (S14), DjTalica (S14), TheBP (S15), Sluggyg (S16), bobjomac (S17), TommySuX (S17)
+**3rd - dRawry (13):** DBone87 (S8), Just_Gerald (S8), starwebs1 (S8), flxnwolf (S8), starwebs1 (S9), Rivbr (S10), Long_Journey (S13), truefaster (S14), DjTalica (S14), TheBP (S15), Sluggyg (S16), bobjomac (S17), TommySuX (S17)
 
 **3rd - Greeples (13):** TheSonicJoey (S15), Nikikula (S16), bobjomac (S16), ToxLock (S17), _Frankie (S17), Flouzemaker (S17), Nikikula (S17), bobjomac (S18), chloesad (S18), dRawry (S18), nFang (S18), ElGavinoSupremo (S18), Ninetals38 (S27)
 
-**3rd - ToucanTom (13):** TheSouthpark2012 (S1), Parinfinity (S4), Space_Face87 (S5), darkhaven13 (S7), Parinfinity (S7), starwebs1 (S7), gumballmatt123 (S7), thaunking (S10), _Frankie (S15), Sluggyg (S17), Long_Journey (S18), TheSonicJoey (S19), H_L_llama (S20)
+**3rd - ToucanTom (13):** TheSouthpark2012 (S1), Parinfinity (S4), DBone87 (S5), darkhaven13 (S7), Parinfinity (S7), starwebs1 (S7), GumballMatt_ (S7), thaunking (S10), _Frankie (S15), Sluggyg (S17), Long_Journey (S18), TheSonicJoey (S19), H_L_llama (S20)
 
 **3rd - WackoFlipper (13):** Nikikula (S19), TheBP (S19), Fra49 (S19), Arich (S19), Notrom (S20), Greeples (S20), bluu31 (S20), 5kylord (S20), Long_Journey (S21), MarcC5M (S22), H_L_llama (S22), wibbol (S22), MeadowMoos (S22)
 
@@ -475,25 +491,25 @@
 
 **7th - thaunking (11):** DjTalica (S9), PMC_Sanji (S10), JasKnightWing (S10), Just_Gerald (S11), DKeri (S11), ToucanTom (S11), BZ_STEVE (S12), Azilym (S12), Evader22 (S13), PMC_Sanji (S13), flameorb (S22)
 
-**9th - Flouzemaker (9):** Long_Journey (S14), bobjomac (S15), Long_Journey (S15), ToucanTom (S16), Arich (S16), ElGavinoSupremo (S17), Brodator (S19), Long_Journey (S19), CodeJoshua (S23)
+**7th - TheSlimeBrother (11):** Flouzemaker (S22), Greeples (S22), ElGavinoSupremo (S23), Flouzemaker (S23), Greeples (S26), ToucanTom (S26), VeniiiD (S26), Randehh (S27), ColdBac (S27), brodioh (S28), 5kylord (S28)
 
-**9th - TheSlimeBrother (9):** Flouzemaker (S22), Greeples (S22), ElGavinoSupremo (S23), Flouzemaker (S23), Greeples (S26), ToucanTom (S26), VeniiiD (S26), Randehh (S27), ColdBac (S27)
+**10th - 5kylord (10):** flxnwolf (S10), TalonIII (S12), PMC_Sanji (S12), KirbyMD (S12), dRawry (S12), ToucanTom (S12), SammyR2D2 (S19), ToucanTom (S19), Greeples (S28), buttergolem1 (S28)
 
-**9th - TommySuX (9):** SidGarcia (S14), starwebs1 (S14), bobjomac (S14), _Frankie (S14), Greeples (S14), rippersteveM5 (S14), PMC_Sanji (S14), dRawry (S14), ToucanTom (S17)
+**11th - Flouzemaker (9):** Long_Journey (S14), bobjomac (S15), Long_Journey (S15), ToucanTom (S16), Arich (S16), ElGavinoSupremo (S17), Brodator (S19), Long_Journey (S19), CodeJoshua (S23)
 
-**12th - 5kylord (8):** flxnwolf (S10), TalonIII (S12), PMC_Sanji (S12), KirbyMD (S12), dRawry (S12), ToucanTom (S12), SammyR2D2 (S19), ToucanTom (S19)
+**11th - TommySuX (9):** SidGarcia (S14), starwebs1 (S14), bobjomac (S14), _Frankie (S14), Greeples (S14), rippersteveM5 (S14), PMC_Sanji (S14), dRawry (S14), ToucanTom (S17)
 
-**12th - ChainingVermin2 (8):** Zevulpes (S26), SiahStone (S26), InsertDotJpeg (S26), Ninetals38 (S26), Nikikula (S26), Klobb (S26), wibbol (S27), ShootingGoats (S27)
+**13th - ChainingVermin2 (8):** Zevulpes (S26), SiahStone (S26), InsertDotJpeg (S26), Ninetals38 (S26), Nikikula (S26), Klobb (S26), wibbol (S27), ShootingGoats (S27)
 
-**12th - Nikikula (8):** ToucanTom (S18), Fra49 (S18), ColdBac (S20), Greeples (S23), MarcC5M (S24), Fra49 (S24), Brodator (S24), ShootingGoats (S26)
+**13th - Nikikula (8):** ToucanTom (S18), Fra49 (S18), ColdBac (S20), Greeples (S23), MarcC5M (S24), Fra49 (S24), Brodator (S24), ShootingGoats (S26)
 
-**12th - Randehh (8):** InsertDotJpeg (S25), LordLaelaps (S25), ColdBac (S25), powermc (S25), ShootingGoats (S25), Charrlottie (S27), Karliffu (S27), ElGavinoSupremo (S27)
+**13th - Randehh (8):** InsertDotJpeg (S25), LordLaelaps (S25), ColdBac (S25), powermc (S25), ShootingGoats (S25), Charrlottie (S27), Karliffu (S27), ElGavinoSupremo (S27)
 
 **16th - _Frankie (7):** VeniiiD (S14), Flouzemaker (S14), TalonIII (S15), dRawry (S15), thaunking (S15), starwebs1 (S15), Long_Journey (S17)
 
 **16th - starwebs1 (7):** Long_Journey (S5), ToucanTom (S5), flxnwolf (S6), robfred2011 (S6), bobjomac (S12), Greeples (S13), Pehnk (S13)
 
-**18th - Arich (6):** Greeples (S16), Long_Journey (S16), bluu31 (S17), 5kylord (S17), SammyR2D2 (S17), Space_Face87 (S20)
+**18th - Arich (6):** Greeples (S16), Long_Journey (S16), bluu31 (S17), 5kylord (S17), SammyR2D2 (S17), DBone87 (S20)
 
 **18th - ColdBac (6):** TheBP (S20), Arich (S21), Greeples (S21), Nikikula (S25), TehBaconBrawlerZ (S27), Ullti (S27)
 
@@ -511,41 +527,41 @@
 
 **24th - rippersteveM5 (5):** dRawry (S13), 5kylord (S13), thaunking (S13), TheBP (S13), TheBP (S14)
 
-**27th - __Scott (4):** Space_Face87 (S6), Long_Journey (S7), __Yoyo (S7), Space_Face87 (S7)
+**24th - ShootingGoats (5):** CodeJoshua (S25), Flouzemaker (S25), TastyBaconZ (S25), Randehh (S25), Ninetals38 (S28)
 
-**27th - DjTalica (4):** Long_Journey (S8), darkhaven13 (S8), flxnwolf (S9), PMC_Sanji (S9)
+**28th - __Scott (4):** DBone87 (S6), Long_Journey (S7), __Yoyo (S7), DBone87 (S7)
 
-**27th - Fra49 (4):** Brodator (S21), MarcC5M (S21), ToucanTom (S24), ColdBac (S26)
+**28th - buttergolem1 (4):** Fra49 (S25), Greeples (S25), DancersTalon (S25), Nikikula (S28)
 
-**27th - Lickety_Split (4):** ToucanTom (S2), lightmaster1 (S2), flxnwolf (S2), starwebs1 (S3)
+**28th - DjTalica (4):** Long_Journey (S8), darkhaven13 (S8), flxnwolf (S9), PMC_Sanji (S9)
 
-**27th - MooM_ (4):** TheBP (S12), Professer_TNT (S12), Grubbae (S12), Just_Gerald (S13)
+**28th - Fra49 (4):** Brodator (S21), MarcC5M (S21), ToucanTom (S24), ColdBac (S26)
 
-**27th - PMC_Sanji (4):** Pehnk (S9), starwebs1 (S10), DjTalica (S13), MooM_ (S15)
+**28th - Lickety_Split (4):** ToucanTom (S2), lightmaster1 (S2), flxnwolf (S2), starwebs1 (S3)
 
-**27th - ShootingGoats (4):** CodeJoshua (S25), Flouzemaker (S25), TastyBaconZ (S25), Randehh (S25)
+**28th - MooM_ (4):** TheBP (S12), Professer_TNT (S12), Grubbae (S12), Just_Gerald (S13)
 
-**27th - WitzIpedia (4):** ToucanTom (S3), darkhaven13 (S3), Long_Journey (S3), Lickety_Split (S3)
+**28th - Pehnk (4):** DKeri (S10), dRawry (S10), bobjomac (S10), Randehh (S28)
 
-**35th - buttergolem1 (3):** Fra49 (S25), Greeples (S25), DancersTalon (S25)
+**28th - PMC_Sanji (4):** Pehnk (S9), starwebs1 (S10), DjTalica (S13), MooM_ (S15)
 
-**35th - gartbak (3):** bobjomac (S22), 4EyedSlime (S22), Ninetals38 (S22)
+**28th - WitzIpedia (4):** ToucanTom (S3), darkhaven13 (S3), Long_Journey (S3), Lickety_Split (S3)
 
-**35th - Karliffu (3):** ElGavinoSupremo (S26), Brodator (S26), InsertDotJpeg (S27)
+**37th - gartbak (3):** bobjomac (S22), 4EyedSlime (S22), Ninetals38 (S22)
 
-**35th - MarcC5M (3):** TommySuX (S18), WackoFlipper (S21), starlxghtmoon (S24)
+**37th - Karliffu (3):** ElGavinoSupremo (S26), Brodator (S26), InsertDotJpeg (S27)
 
-**35th - Pehnk (3):** DKeri (S10), dRawry (S10), bobjomac (S10)
+**37th - MarcC5M (3):** TommySuX (S18), WackoFlipper (S21), starlxghtmoon (S24)
 
-**35th - Phyrrus (3):** Klobb (S23), starlxghtmoon (S23), TheSlimeBrother (S23)
+**37th - Phyrrus (3):** Klobb (S23), starlxghtmoon (S23), TheSlimeBrother (S23)
 
-**35th - Sluggyg (3):** bluu31 (S16), ToucanTom (S21), TheBP (S21)
+**37th - Sluggyg (3):** bluu31 (S16), ToucanTom (S21), TheBP (S21)
 
-**35th - TastyBaconZ (3):** MarcC5M (S18), WackoFlipper (S22), gartbak (S22)
+**37th - TastyBaconZ (3):** MarcC5M (S18), WackoFlipper (S22), gartbak (S22)
 
-**35th - wibbol (3):** flameorb (S21), Fra49 (S21), Sluggyg (S21)
+**37th - wibbol (3):** flameorb (S21), Fra49 (S21), Sluggyg (S21)
 
-**44th - __Yoyo (2):** gumballmatt123 (S4), Lickety_Split (S6)
+**44th - __Yoyo (2):** GumballMatt_ (S4), Lickety_Split (S6)
 
 **44th - bluu31 (2):** PMC_Sanji (S16), ElGavinoSupremo (S22)
 
@@ -563,33 +579,37 @@
 
 **44th - powermc (2):** SoupestGlobe (S25), MarcC5M (S26)
 
-**44th - RedValour (2):** Space_Face87 (S3), flxnwolf (S3)
+**44th - RedValour (2):** DBone87 (S3), flxnwolf (S3)
 
 **44th - Rohcket (2):** TastyBaconZ (S21), ColdBac (S21)
 
 **44th - SammyR2D2 (2):** rippersteveM5 (S17), flameorb (S19)
 
+**44th - SpyroJ (2):** Rohcket (S24), DancersTalon (S28)
+
 **44th - timmyofpark (2):** KarmasApprentice (S4), __Yoyo (S4)
 
-**57th - ElGavinoSupremo (1):** 4EyedSlime (S23)
+**58th - _Fost_ (1):** DogOfKrondor (S28)
 
-**57th - Grubbae (1):** TommySuX (S12)
+**58th - Applepie78 (1):** Pehnk (S28)
 
-**57th - gumballmatt123 (1):** starwebs1 (S4)
+**58th - DBone87 (1):** Long_Journey (S6)
 
-**57th - Just_Gerald (1):** ToucanTom (S15)
+**58th - ElGavinoSupremo (1):** 4EyedSlime (S23)
 
-**57th - Long_Journey (1):** Parinfinity (S5)
+**58th - Grubbae (1):** TommySuX (S12)
 
-**57th - ProGirlGamer (1):** Brodator (S27)
+**58th - GumballMatt_ (1):** starwebs1 (S4)
 
-**57th - Space_Face87 (1):** Long_Journey (S6)
+**58th - Just_Gerald (1):** ToucanTom (S15)
 
-**57th - SpyroJ (1):** Rohcket (S24)
+**58th - Long_Journey (1):** Parinfinity (S5)
 
-**57th - starlxghtmoon (1):** ElGavinoSupremo (S21)
+**58th - ProGirlGamer (1):** Brodator (S27)
 
-**57th - Zevulpes (1):** TehBaconBrawlerZ (S26)
+**58th - starlxghtmoon (1):** ElGavinoSupremo (S21)
+
+**58th - Zevulpes (1):** TehBaconBrawlerZ (S26)
 
 ---
 ### PvE Deaths
@@ -598,11 +618,11 @@
 
 **Fall (7):** lightmaster1 (S1), Long_Journey (S2), Mat_HD (S6), Just_Gerald (S10), Charrlottie (S19), Nikikula (S21), TheSlimeBrother (S26)
 
-**Zombie (7):** BatBlade (S1), RedValour (S1), Just_Gerald (S12), Ullti (S21), DogOfKrondor (S23), DogOfKrondor (S25), Ullti (S25)
+**Zombie (7):** BATBlade (S1), RedValour (S1), Just_Gerald (S12), Ullti (S21), DogOfKrondor (S23), DogOfKrondor (S25), Ullti (S25)
 
 **Skeleton (5):** DlN0SAUR (S1), DlN0SAUR (S2), TheBP (S16), TheBP (S23), pandaelf (S23)
 
-**Lava (3):** bigmishap (S3), Space_Face87 (S4), Just_Gerald (S14)
+**Lava (3):** bigmishap (S3), DBone87 (S4), Just_Gerald (S14)
 
 **Blaze (2):** __Yoyo (S5), flxnwolf (S7)
 
@@ -611,6 +631,8 @@
 **Left (2):** xIsaacG (S9), thaunking (S14)
 
 **Spider (2):** ToucanTom (S1), Lickety_Split (S2)
+
+**Explosion (1):** ChainingVermin2 (S28)
 
 **Suffocation (1):** Long_Journey (S9)
 
@@ -622,6 +644,8 @@
 
 ---
 ### Participation
+
+**28 Seasons (0):** 
 
 **27 Seasons (0):** 
 
@@ -649,44 +673,44 @@
 
 **15 Seasons (0):** 
 
-**14 Seasons (0):** 
+**14 Seasons (1):** Greeples (S13-S18,S20-S23,S25-S28)
 
-**13 Seasons (2):** dRawry (S7-S18,S21), Greeples (S13-S18,S20-S23,S25-S27)
+**13 Seasons (1):** dRawry (S7-S18,S21)
 
-**12 Seasons (2):** starwebs1 (S3-S10,S12-S15), Flouzemaker (S14-S19,S21-S23,S25-S27)
+**12 Seasons (3):** starwebs1 (S3-S10,S12-S15), Flouzemaker (S14-S19,S21-S23,S25-S27), Nikikula (S16-S21,S23-S28)
 
-**11 Seasons (2):** TheBP (S11-S16,S19-S23), Nikikula (S16-S21,S23-S27)
+**11 Seasons (2):** 5kylord (S10-S13,S15-S17,S19-S20,S22,S28), TheBP (S11-S16,S19-S23)
 
-**10 Seasons (2):** flxnwolf (S1-S10), 5kylord (S10-S13,S15-S17,S19-S20,S22)
+**10 Seasons (2):** flxnwolf (S1-S10), Brodator (S19-S28)
 
-**9 Seasons (1):** Brodator (S19-S27)
+**9 Seasons (0):** 
 
 **8 Seasons (5):** Just_Gerald (S8,S10-S16), PMC_Sanji (S9-S16), thaunking (S9-S15,S22), bobjomac (S10,S12,S14-S18,S22), ElGavinoSupremo (S17-S18,S21-S23,S25-S27)
 
-**7 Seasons (3):** Space_Face87 (S3-S8,S20), Fra49 (S18-S19,S21,S23-S26), CodeJoshua (S20-S21,S23-S27)
+**7 Seasons (4):** DBone87 (S3-S8,S20), Fra49 (S18-S19,S21,S23-S26), CodeJoshua (S20-S21,S23-S27), TheSlimeBrother (S21-S23,S25-S28)
 
-**6 Seasons (5):** Lickety_Split (S2-S4,S6,S8-S9), MarcC5M (S9,S18,S21-S22,S24,S26), ColdBac (S20-S21,S23,S25-S27), TheSlimeBrother (S21-S23,S25-S27), Ullti (S21-S22,S24-S27)
+**6 Seasons (5):** Lickety_Split (S2-S4,S6,S8-S9), MarcC5M (S9,S18,S21-S22,S24,S26), ColdBac (S20-S21,S23,S25-S27), Ullti (S21-S22,S24-S27), Ninetals38 (S22-S23,S25-S28)
 
-**5 Seasons (6):** TommySuX (S12,S14-S15,S17-S18), bluu31 (S15-S17,S20,S22), Arich (S16-S17,S19-S21), flameorb (S18-S22), starlxghtmoon (S21-S24,S27), Ninetals38 (S22-S23,S25-S27)
+**5 Seasons (6):** TommySuX (S12,S14-S15,S17-S18), bluu31 (S15-S17,S20,S22), Arich (S16-S17,S19-S21), flameorb (S18-S22), starlxghtmoon (S21-S24,S27), DogOfKrondor (S23,S25-S28)
 
-**4 Seasons (11):** RedValour (S1-S4), darkhaven13 (S3-S4,S7-S8), __Yoyo (S4-S7), Parinfinity (S4-S7), DjTalica (S8-S9,S13-S14), MooM_ (S12-S15), Sluggyg (S16-S17,S21,S24), TastyBaconZ (S18,S21-S22,S25), Charrlottie (S19,S22-S23,S27), WackoFlipper (S19-S22), DogOfKrondor (S23,S25-S27)
+**4 Seasons (13):** RedValour (S1-S4), darkhaven13 (S3-S4,S7-S8), __Yoyo (S4-S7), Parinfinity (S4-S7), DjTalica (S8-S9,S13-S14), Pehnk (S9-S10,S13,S28), MooM_ (S12-S15), Sluggyg (S16-S17,S21,S24), TastyBaconZ (S18,S21-S22,S25), Charrlottie (S19,S22-S23,S27), WackoFlipper (S19-S22), Randehh (S25-S28), ShootingGoats (S25-S28)
 
-**3 Seasons (13):** robfred2011 (S4-S6), __Scott (S5-S7), Pehnk (S9-S10,S13), Franz (S11-S12,S20), rippersteveM5 (S13-S14,S17), _Frankie (S14-S15,S17), VeniiiD (S14-S15,S26), TheSonicJoey (S15,S19,S26), H_L_llama (S20-S22), wibbol (S21-S22,S27), InsertDotJpeg (S25-S27), Randehh (S25-S27), ShootingGoats (S25-S27)
+**3 Seasons (13):** robfred2011 (S4-S6), __Scott (S5-S7), Franz (S11-S12,S20), rippersteveM5 (S13-S14,S17), _Frankie (S14-S15,S17), VeniiiD (S14-S15,S26), TheSonicJoey (S15,S19,S26), H_L_llama (S20-S22), wibbol (S21-S22,S27), DancersTalon (S24-S25,S28), SpyroJ (S24,S27-S28), InsertDotJpeg (S25-S27), ChainingVermin2 (S26-S28)
 
-**2 Seasons (24):** DlN0SAUR (S1-S2), lightmaster1 (S1-S2), TheSouthpark2012 (S1-S2), gumballmatt123 (S4,S7), Jack_Birding (S5-S6), Azilym (S7,S12), Jillamy (S8-S9), Kidfo (S9-S10), DKeri (S10-S11), Evader22 (S10,S13), TalonIII (S12,S15), chloesad (S15,S18), SammyR2D2 (S17,S19), Rohcket (S21,S24), 4EyedSlime (S22-S23), Klobb (S23,S26), Phyrrus (S23,S26), DancersTalon (S24-S25), SpyroJ (S24,S27), powermc (S25-S26), SiahStone (S25-S26), ChainingVermin2 (S26-S27), Karliffu (S26-S27), TehBaconBrawlerZ (S26-S27)
+**2 Seasons (22):** DlN0SAUR (S1-S2), lightmaster1 (S1-S2), TheSouthpark2012 (S1-S2), GumballMatt_ (S4,S7), Jack_Birding (S5-S6), Azilym (S7,S12), Jillamy (S8-S9), Kidfo (S9-S10), DKeri (S10-S11), Evader22 (S10,S13), TalonIII (S12,S15), chloesad (S15,S18), SammyR2D2 (S17,S19), Rohcket (S21,S24), 4EyedSlime (S22-S23), Klobb (S23,S26), Phyrrus (S23,S26), buttergolem1 (S25,S28), powermc (S25-S26), SiahStone (S25-S26), Karliffu (S26-S27), TehBaconBrawlerZ (S26-S27)
 
-**1 Season (35):** BatBlade (S1), bigmishap (S3), WitzIpedia (S3), DrzaPlays (S4), KarmasApprentice (S4), timmyofpark (S4), Mat_HD (S6), dangers93 (S9), xIsaacG (S9), JasKnightWing (S10), Rivbr (S10), BZ_STEVE (S12), Grubbae (S12), Kieranborn (S12), KirbyMD (S12), Professer_TNT (S12), SidGarcia (S14), truefaster (S14), JamestheDouglas (S17), ToxLock (S17), nFang (S18), Notrom (S20), gartbak (S22), MeadowMoos (S22), SummerBqsh (S22), pandaelf (S23), buttergolem1 (S25), egl_ (S25), LordLaelaps (S25), SoupestGlobe (S25), Sten_Stone (S25), Zevulpes (S26), 78ford (S27), Mjora (S27), ProGirlGamer (S27)
+**1 Season (38):** BATBlade (S1), bigmishap (S3), WitzIpedia (S3), Drza (S4), KarmasApprentice (S4), timmyofpark (S4), Mat_HD (S6), dangers93 (S9), xIsaacG (S9), JasKnightWing (S10), Rivbr (S10), BZ_STEVE (S12), Grubbae (S12), Kieranborn (S12), KirbyMD (S12), Professer_TNT (S12), SidGarcia (S14), truefaster (S14), JamestheDouglas (S17), ToxLock (S17), nFang (S18), Notrom (S20), gartbak (S22), MeadowMoos (S22), SummerBqsh (S22), pandaelf (S23), egl_ (S25), LordLaelaps (S25), SoupestGlobe (S25), Sten_Stone (S25), Zevulpes (S26), 78ford (S27), Mjora (S27), ProGirlGamer (S27), _Fost_ (S28), Applepie78 (S28), brodioh (S28), CommanderK22_ (S28)
 
 ---
 ### Debutants
 
-**S1 (8):** BatBlade, DlN0SAUR, flxnwolf, lightmaster1, Long_Journey, RedValour, TheSouthpark2012, ToucanTom
+**S1 (8):** BATBlade, DlN0SAUR, flxnwolf, lightmaster1, Long_Journey, RedValour, TheSouthpark2012, ToucanTom
 
 **S2 (1):** Lickety_Split
 
-**S3 (5):** bigmishap, darkhaven13, Space_Face87, starwebs1, WitzIpedia
+**S3 (5):** bigmishap, darkhaven13, DBone87, starwebs1, WitzIpedia
 
-**S4 (7):** __Yoyo, DrzaPlays, gumballmatt123, KarmasApprentice, Parinfinity, robfred2011, timmyofpark
+**S4 (7):** __Yoyo, Drza, GumballMatt_, KarmasApprentice, Parinfinity, robfred2011, timmyofpark
 
 **S5 (2):** __Scott, Jack_Birding
 
@@ -733,5 +757,7 @@
 **S26 (4):** ChainingVermin2, Karliffu, TehBaconBrawlerZ, Zevulpes
 
 **S27 (3):** 78ford, Mjora, ProGirlGamer
+
+**S28 (4):** _Fost_, Applepie78, brodioh, CommanderK22_
 
 ---

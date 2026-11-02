@@ -193,7 +193,7 @@
 
 **S13:** cherryblawsom (0:0:54)
 
-**S14:** ohh_lia (0:2:52)
+**S14:** puppygirlmaple (0:2:52)
 
 **S15:** _Dieter (0:2:39)
 
@@ -285,7 +285,7 @@
 
 **S18:** CipherKai (Psykl0ne)
 
-**S19:** ohh_lia (Fensua)
+**S19:** puppygirlmaple (Fensua)
 
 ---
 ### First Death
@@ -379,7 +379,7 @@
 
 **20th - Jayzize (9):** chloesad (S3), Greeples (S5), Fra49 (S9), illuminaja (S10), ShyGus (S10), sigilyph (S10), Emerric (S10), vynil (S10), YellowVitt (S12)
 
-**20th - swishduck (9):** AnUncreativeCat (S2), BardMain2 (S11), ThePeridotKnight (S12), ohh_lia (S14), Phoraxe (S18), lottebunny (S18), cherryblawsom (S18), Westcraft00 (S18), automavic (S18)
+**20th - swishduck (9):** AnUncreativeCat (S2), BardMain2 (S11), ThePeridotKnight (S12), puppygirlmaple (S14), Phoraxe (S18), lottebunny (S18), cherryblawsom (S18), Westcraft00 (S18), automavic (S18)
 
 **26th - Bradzi (8):** Apex_Twinkie (S7), chloesad (S7), AJSteel (S7), floobel (S7), Micale (S7), qam022 (S8), Sluggyg (S9), Bobbytheturtle (S9)
 
@@ -399,7 +399,7 @@
 
 **28th - zCent (7):** vynil (S4), ShyGus (S4), Fcrm (S18), Austronomical (S18), brocktober (S18), DJoee (S18), Greeples (S18)
 
-**35th - commitstaxfraud (6):** Tootikins (S3), ohh_lia (S11), centraleric (S14), tagggz (S14), automavic (S15), pigghetti (S17)
+**35th - commitstaxfraud (6):** Tootikins (S3), puppygirlmaple (S11), centraleric (S14), tagggz (S14), automavic (S15), pigghetti (S17)
 
 **35th - Normoh (6):** OG_Ash (S7), tilargo (S7), tagggz (S7), Fcrm (S10), Phoraxe (S10), MercuryParadox (S14)
 
@@ -429,7 +429,7 @@
 
 **45th - Fra49 (4):** ThePeridotKnight (S10), commitstaxfraud (S10), ThePeridotKnight (S11), cherryblawsom (S16)
 
-**45th - Hecticity (4):** Zevulpes (S12), Bobbytheturtle (S19), ItsColinn (S19), ohh_lia (S19)
+**45th - Hecticity (4):** Zevulpes (S12), Bobbytheturtle (S19), ItsColinn (S19), puppygirlmaple (S19)
 
 **45th - TheRealHagrid (4):** Zachf01 (S9), Austronomical (S10), Bacan (S10), lottebunny (S17)
 
@@ -473,7 +473,7 @@
 
 **65th - nsket (2):** MercuryParadox (S13), Chasmic (S13)
 
-**65th - ohh_lia (2):** Fensua (S19), Austronomical (S19)
+**65th - puppygirlmaple (2):** Fensua (S19), Austronomical (S19)
 
 **65th - Rasguer (2):** ShyGus (S8), Micale (S8)
 
@@ -524,7 +524,7 @@
 
 **Creeper (4):** Rawkeyy (S2), commitstaxfraud (S7), MercuryParadox (S12), Fcrm (S12)
 
-**Dripstone (2):** ohh_lia (S12), Gorgerous (S17)
+**Dripstone (2):** puppygirlmaple (S12), Gorgerous (S17)
 
 **Enderman (2):** Austronomical (S15), swishduck (S16)
 
@@ -569,7 +569,7 @@
 
 **5 Seasons (10):** CHANGA (S1,S6,S13-S14,S19), LegoBeast (S1,S3,S8-S9,S11), sigilyph (S1,S7-S10), Tootikins (S3-S7), warriorcat (S5-S6,S12-S14), Zachf01 (S5,S7-S9,S15), ElGavinoSupremo (S6-S8,S10,S13), Jakekub (S6-S7,S9-S10,S18), ThePeridotKnight (S6-S7,S10-S12), Spacepod_ (S7-S11)
 
-**4 Seasons (12):** thebbers (S1,S4-S6), Cyndic (S2-S4,S9), rippersteveM5 (S2,S6,S8,S12), jommyappleseed (S5,S10-S12), xCand (S6,S8,S14,S16), flameorb (S8-S10,S14), BardMain2 (S9,S11-S12,S14), Emerric (S9-S11,S14), LoafOZ (S10,S13,S15,S17), ohh_lia (S11-S12,S14,S19), Omertosa (S12-S15), nsket (S13,S15,S17-S18)
+**4 Seasons (12):** thebbers (S1,S4-S6), Cyndic (S2-S4,S9), rippersteveM5 (S2,S6,S8,S12), jommyappleseed (S5,S10-S12), xCand (S6,S8,S14,S16), flameorb (S8-S10,S14), BardMain2 (S9,S11-S12,S14), Emerric (S9-S11,S14), LoafOZ (S10,S13,S15,S17), puppygirlmaple (S11-S12,S14,S19), Omertosa (S12-S15), nsket (S13,S15,S17-S18)
 
 **3 Seasons (13):** CH0CK (S1,S4,S12), PenguinBagels (S1,S5,S8), Topspinpiggles (S1-S2,S8), Rawkeyy (S2,S5,S10), AvaCos (S3-S5), Hecticity (S3,S12,S19), friigiid (S4,S13,S17), jamertxn (S4-S5,S13), daltcn (S7-S9), Tharve (S9-S10,S17), ToontownOnline (S11-S12,S14), Gorgerous (S15,S17-S18), brocktober (S17-S19)
 
@@ -600,7 +600,7 @@
 
 **S10 (6):** CipherKai, Fcrm, illuminaja, ItsColinn, LoafOZ, NTBama
 
-**S11 (8):** 6BU, kirbey, MarExists, nFang, ohh_lia, pigghetti, ToontownOnline, WackoFlipper
+**S11 (8):** 6BU, kirbey, MarExists, nFang, pigghetti, puppygirlmaple, ToontownOnline, WackoFlipper
 
 **S12 (7):** brodioh, centraleric, lottebunny, miles1baseball, Omertosa, Sorvent, Zevulpes
 

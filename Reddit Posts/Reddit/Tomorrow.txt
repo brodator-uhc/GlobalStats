@@ -86,7 +86,7 @@
 
 **S7:** Applepie78 (0), broccoliar (5), Gorgerous (0), centraleric (3), JaqOnCraq (2), Lucarrio (4)
 
-**S8:** CodeJoshua (4), lilygant (4), natsuvi (0), TehBaconBrawlerZ (5)
+**S8:** CodeJoshua (4), catgirlharmony (4), natsuvi (0), TehBaconBrawlerZ (5)
 
 **S9:** aalaan (0), AHSOKATANOSTAN (0), AirInAirOut (0), Andronify (1), Brodator (0), ChainingVermin2 (1), cherryblawsom (0), commitstaxfraud (1), DogOfKrondor (0), YellowVitt (0), Espik (0), Greeples (0), Kelawesome (2), Lighte (1), MajorWoof (0), Plushy33 (1), Queequa (0), SharkeyJaws (0), ShootingGoats (1), SiahStone (1), TonyEatWorld (0), TalonBX (0), wizarde (1), BoltsInCharge (2) & 5kylord (1), Br8dy_ (0), CrowJRC (1), Maxwellfifty (3), Sharkbob94349 (7)
 
@@ -155,7 +155,7 @@
 
 **S7:** TehBaconBrawlerZ (zoeywithawhy)
 
-**S8:** lilygant (Guardaxion)
+**S8:** catgirlharmony (Guardaxion)
 
 **S9:** Sharkbob94349 (AHSOKATANOSTAN)
 
@@ -187,7 +187,7 @@
 ---
 ### Kills
 
-**1st - SpaceFenix (21):** ChainingVermin2 (S1), CodeJoshua (S1), JaqOnCraq (S1), SharkeyJaws (S1), DogOfKrondor (S2), TehBaconBrawlerZ (S2), SharkeyJaws (S3), ItsGinger (S3), Greeples (S3), Greeples (S4), 123SteveBob (S4), natsuvi (S4), Scringus (S6), SiahStone (S7), kirbey (S8), AmbientDan (S8), SiahStone (S8), ChainingVermin2 (S8), CAMKART100 (S8), CodeJoshua (S8), lilygant (S8)
+**1st - SpaceFenix (21):** ChainingVermin2 (S1), CodeJoshua (S1), JaqOnCraq (S1), SharkeyJaws (S1), DogOfKrondor (S2), TehBaconBrawlerZ (S2), SharkeyJaws (S3), ItsGinger (S3), Greeples (S3), Greeples (S4), 123SteveBob (S4), natsuvi (S4), Scringus (S6), SiahStone (S7), kirbey (S8), AmbientDan (S8), SiahStone (S8), ChainingVermin2 (S8), CAMKART100 (S8), CodeJoshua (S8), catgirlharmony (S8)
 
 **2nd - ChainingVermin2 (19):** lexicuhl (S1), MercuryParadox (S2), jakeyx3 (S3), ShyGus (S3), Randehh (S3), natsuvi (S3), Flcnt (S3), CommanderK22_ (S3), GuyGojo (S4), ColdBac (S4), pigghetti (S5), MercuryParadox (S5), SiahStone (S5), brinkwhy (S5), IyaIsMad (S5), EndestroyerEpic (S8), fruitlogic (S9), jojoistoasted (S10), ShootingGoats (S10)
 
@@ -203,7 +203,7 @@
 
 **8th - AsianCheatCode (13):** Gorgerous (S7), Lucarrio (S7), CrowJRC (S7), _ChrisMS (S7), Greeples (S9), Brodator (S9), 5kylord (S9), DogOfKrondor (S10), EndestroyerEpic (S10), Caydone (S10), brinkwhy (S10), ChainingVermin2 (S10), ItzBeeZ (S10)
 
-**9th - acadiangel (12):** SiahStone (S1), WinnerSkye (S2), Scringus (S2), JaqOnCraq (S2), ohh_lia (S2), CAMKART100 (S4), zoeywithawhy (S4), Boomblade60 (S4), DevoyTTV (S7), Flcnt (S8), zoeywithawhy (S8), JaqOnCraq (S8)
+**9th - acadiangel (12):** SiahStone (S1), WinnerSkye (S2), Scringus (S2), JaqOnCraq (S2), puppygirlmaple (S2), CAMKART100 (S4), zoeywithawhy (S4), Boomblade60 (S4), DevoyTTV (S7), Flcnt (S8), zoeywithawhy (S8), JaqOnCraq (S8)
 
 **10th - cherryblawsom (10):** ShootingGoats (S2), IyaIsMad (S2), GuyGojo (S2), CodeJoshua (S4), ChainingVermin2 (S4), Charrlottie (S7), Greeples (S7), acadiangel (S7), zoeywithawhy (S10), DevoyTTV (S10)
 
@@ -235,11 +235,11 @@
 
 **24th - brinkwhy (4):** Plushy33 (S6), Karliffu (S6), Maxwellfifty (S9), Buzzy_Bee_120 (S10)
 
+**24th - catgirlharmony (4):** Guardaxion (S8), OhMatias (S8), Markedbooboy (S8), Scringus (S8)
+
 **24th - EndestroyerEpic (4):** YellowVitt (S8), Exstreme (S8), MajorWoof (S10), TehBaconBrawlerZ (S10)
 
 **24th - Kaimaxon (4):** jakeyx3 (S1), Boomblade60 (S1), Codwhy (S1), Flouzemaker (S1)
-
-**24th - lilygant (4):** Guardaxion (S8), OhMatias (S8), Markedbooboy (S8), Scringus (S8)
 
 **28th - AirInAirOut (3):** broccoliar (S7), Applepie78 (S7), centraleric (S7)
 
@@ -267,11 +267,11 @@
 
 **37th - Buzzy_Bee_120 (2):** SiahStone (S9), fruitlogic (S10)
 
-**37th - CHAINGE (2):** ohh_lia (S8), Ninetals38 (S8)
+**37th - CHAINGE (2):** puppygirlmaple (S8), Ninetals38 (S8)
 
 **37th - chloesad (2):** wizarde (S3), GuyGojo (S5)
 
-**37th - Digitale (2):** Scringus (S3), lilygant (S3)
+**37th - Digitale (2):** Scringus (S3), catgirlharmony (S3)
 
 **37th - grantfaker (2):** JustNolan (S10), AsianCheatCode (S10)
 
@@ -383,7 +383,7 @@
 
 **3 Seasons (18):** Flouzemaker (S1,S6,S10), Kaimaxon (S1-S2,S6), kirbey (S2-S3,S8), Markedbooboy (S2,S4,S8), MCmattFTW (S2-S3,S6), WinnerSkye (S2-S3,S7), chloesad (S3,S5,S8), Gorgerous (S3-S4,S7), Karliffu (S3,S5-S6), ShyGus (S3-S4,S7), wizarde (S3,S8-S9), Charrlottie (S5,S7,S9), Ullti (S5,S9-S10), 4EyedSlime (S6-S8), Vetmire (S6-S8), EndestroyerEpic (S7-S8,S10), YellowVitt (S7-S9), _Fost_ (S8-S10)
 
-**2 Seasons (23):** FortuneInfinity (S1,S3), jakeyx3 (S1,S3), Kaddyn (S1-S2), ohh_lia (S2,S8), Daltun (S3,S7), Espik (S3,S9), Flcnt (S3,S8), lilygant (S3,S8), Randehh (S3,S6), CHAINGE (S5,S8), Ryfri (S5-S6), MaxEvasion (S6-S7), Plushy33 (S6,S9), AirInAirOut (S7,S9), centraleric (S7-S8), ACommonKiwi (S9-S10), Buzzy_Bee_120 (S9-S10), fruitlogic (S9-S10), ItzBeeZ (S9-S10), JustNolan (S9-S10), MajorWoof (S9-S10), Queequa (S9-S10), Sharkbob94349 (S9-S10)
+**2 Seasons (23):** FortuneInfinity (S1,S3), jakeyx3 (S1,S3), Kaddyn (S1-S2), puppygirlmaple (S2,S8), catgirlharmony (S3,S8), Daltun (S3,S7), Espik (S3,S9), Flcnt (S3,S8), Randehh (S3,S6), CHAINGE (S5,S8), Ryfri (S5-S6), MaxEvasion (S6-S7), Plushy33 (S6,S9), AirInAirOut (S7,S9), centraleric (S7-S8), ACommonKiwi (S9-S10), Buzzy_Bee_120 (S9-S10), fruitlogic (S9-S10), ItzBeeZ (S9-S10), JustNolan (S9-S10), MajorWoof (S9-S10), Queequa (S9-S10), Sharkbob94349 (S9-S10)
 
 **1 Season (37):** DarrenBGP (S1), lexicuhl (S1), MarcC5M (S1), TheSlimeBrother (S1), Blackbelt244 (S2), SilverShelby (S2), Digitale (S3), ItsGinger (S3), PresidentFleb (S5), _ChrisMS (S7), AmbientDan (S8), azoof (S8), chugmitchell (S8), evuhlynx (S8), Exstreme (S8), Guardaxion (S8), Mcjess30 (S8), Ninetals38 (S8), OhMatias (S8), powermc (S8), 5kylord (S9), aalaan (S9), AHSOKATANOSTAN (S9), BoltsInCharge (S9), Br8dy_ (S9), commitstaxfraud (S9), Kelawesome (S9), Lighte (S9), lottebunny (S9), TalonBX (S9), TonyEatWorld (S9), grantfaker (S10), InsertDotJpeg (S10), jojoistoasted (S10), KilerKontrantion (S10), ProGirlGamer (S10), yingapore (S10)
 
@@ -392,9 +392,9 @@
 
 **S1 (36):** 123SteveBob, acadiangel, Boomblade60, broccoliar, CAMKART100, ChainingVermin2, cherryblawsom, CodeJoshua, Codwhy, ColdBac, CommanderK22_, DarrenBGP, DogOfKrondor, Flouzemaker, FortuneInfinity, Greeples, GuyGojo, IyaIsMad, jakeyx3, JaqOnCraq, Kaddyn, Kaimaxon, lexicuhl, Lucarrio, MarcC5M, MercuryParadox, natsuvi, Normoh, SharkeyJaws, ShootingGoats, SiahStone, SpaceFenix, TehBaconBrawlerZ, TheSlimeBrother, Westcraft00, zoeywithawhy
 
-**S2 (9):** Andronify, Blackbelt244, kirbey, Markedbooboy, MCmattFTW, ohh_lia, Scringus, SilverShelby, WinnerSkye
+**S2 (9):** Andronify, Blackbelt244, kirbey, Markedbooboy, MCmattFTW, puppygirlmaple, Scringus, SilverShelby, WinnerSkye
 
-**S3 (17):** ArcticSeagull, Brodator, Caydone, chloesad, Daltun, DevoyTTV, Digitale, Espik, Flcnt, Gorgerous, ItsGinger, Karliffu, lilygant, Maxwellfifty, Randehh, ShyGus, wizarde
+**S3 (17):** ArcticSeagull, Brodator, catgirlharmony, Caydone, chloesad, Daltun, DevoyTTV, Digitale, Espik, Flcnt, Gorgerous, ItsGinger, Karliffu, Maxwellfifty, Randehh, ShyGus, wizarde
 
 **S4 (2):** brinkwhy, pigghetti
 

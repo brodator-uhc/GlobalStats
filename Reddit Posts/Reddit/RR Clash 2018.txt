@@ -21,7 +21,7 @@
 
 **S9: bigfoot_ (1), BJPlays (0), brodioh (2), DjTalica (0), orcau (3), Zevulpes (0)**
 
-**S10: Do_You_Minecraft (1), lottebunny (0), Microus (1), TheKevGuy (1)**, *c1n (1), DarrenBGP (2)*
+**S10: Do_You_Minecraft (1), lottebunny (0), Microus (1), TheKevJawn (1)**, *c1n (1), DarrenBGP (2)*
 
 **S11: Bobbytheturtle (3), cappyrappy (0), Fortwerth (1), KOKeowner (1), Nate2gamer (0), scriblur (1)**, *ThePeridotKnight (1)*
 
@@ -114,7 +114,7 @@
 
 **S9:** BJPlays (0), DjTalica (0), Zevulpes (0), bigfoot_ (1), brodioh (2), orcau (3)
 
-**S10:** Microus (1), DarrenBGP (2), c1n (1), TheKevGuy (1), lottebunny (0), Do_You_Minecraft (1)
+**S10:** Microus (1), DarrenBGP (2), c1n (1), TheKevJawn (1), lottebunny (0), Do_You_Minecraft (1)
 
 **S11:** Bobbytheturtle (3), ThePeridotKnight (1), Fortwerth (1), KOKeowner (1), cappyrappy (0), Nate2gamer (0), scriblur (1)
 
@@ -339,7 +339,7 @@
 
 **25th - T0n35 (1):** IonJ (S3)
 
-**25th - TheKevGuy (1):** MercuryParadox (S10)
+**25th - TheKevJawn (1):** MercuryParadox (S10)
 
 **25th - ThePeridotKnight (1):** tagggz (S11)
 
@@ -381,7 +381,7 @@
 
 **2 Seasons (29):** 5kylord (S1,S9), dRawry (S1,S9), TheBP (S1,S9), BJPlays (S2,S9), FazedMC (S2,S4), TommySuX (S2,S14), Daffz (S3,S10), DianaB (S3,S5), lexicuhl (S3,S10), OblivionTU (S3,S14), Purpdan (S3,S14), TheSonicJoey (S4,S8), bjr201111 (S5,S12), Edviin_ (S5,S12), LongaVita (S5,S12), VeniiiD (S5,S8), KOKeowner (S6,S11), sirples (S6,S12), ThePeridotKnight (S6,S11), AvaCos (S7,S12), Jinko42 (S7,S14), ColdBac (S8,S14), CraftCrank (S8,S11), LegoBeast (S8,S11), PhenomCloud (S8,S11), c1n (S10,S13), Cyndic (S10-S11), Nate2gamer (S11,S14), scriblur (S11,S14)
 
-**1 Season (67):** CMattznes (S1), Costanza (S1), Fairyjuice (S1), Kiinako_ (S1), Mop19 (S1), nihontiger (S1), PMC_Sanji (S1), thaunking (S1), ToucanTom (S1), Apex_Twinkie (S2), Hannilala (S2), LordLaelaps (S2), Phoebe (S2), chloesad (S3), HUNTERKUN (S3), IonJ (S3), Lach (S3), T0n35 (S3), Tragik (S3), vinny212 (S3), friigiid (S4), KatyLawson (S4), Mathyy (S4), Maxwellfifty (S4), ShyGus (S4), BBR_ (S5), dnnyys (S5), Gabey (S5), jamertxn (S5), Kassiie (S5), Timonscholte (S5), Bradzi (S6), CountryCutie (S6), Emerric (S6), GeeSam (S6), Jayzize (S6), miles1baseball (S6), MistaUnicorn (S6), 4D_Pixel (S7), Chippytoothy (S7), DaPenguin19 (S7), Kakintse (S7), liflaf (S7), Qenis (S7), SmooveManeuver (S7), Arod_ (S8), CedGhoss (S8), Frostbreath (S8), hammer_fan (S8), Verxity (S8), VeryNice (S8), bigfoot_ (S9), Long_Journey (S9), MooM_ (S9), starwebs1 (S9), Zevulpes (S9), BSBrent (S10), lottebunny (S10), MercuryParadox (S10), Rasguer (S10), TheKevGuy (S10), cappyrappy (S11), Evader22 (S11), Livin423 (S11), tagggz (S11), BurningT (S12), tuxpeng (S13)
+**1 Season (67):** CMattznes (S1), Costanza (S1), Fairyjuice (S1), Kiinako_ (S1), Mop19 (S1), nihontiger (S1), PMC_Sanji (S1), thaunking (S1), ToucanTom (S1), Apex_Twinkie (S2), Hannilala (S2), LordLaelaps (S2), Phoebe (S2), chloesad (S3), HUNTERKUN (S3), IonJ (S3), Lach (S3), T0n35 (S3), Tragik (S3), vinny212 (S3), friigiid (S4), KatyLawson (S4), Mathyy (S4), Maxwellfifty (S4), ShyGus (S4), BBR_ (S5), dnnyys (S5), Gabey (S5), jamertxn (S5), Kassiie (S5), Timonscholte (S5), Bradzi (S6), CountryCutie (S6), Emerric (S6), GeeSam (S6), Jayzize (S6), miles1baseball (S6), MistaUnicorn (S6), 4D_Pixel (S7), Chippytoothy (S7), DaPenguin19 (S7), Kakintse (S7), liflaf (S7), Qenis (S7), SmooveManeuver (S7), Arod_ (S8), CedGhoss (S8), Frostbreath (S8), hammer_fan (S8), Verxity (S8), VeryNice (S8), bigfoot_ (S9), Long_Journey (S9), MooM_ (S9), starwebs1 (S9), Zevulpes (S9), BSBrent (S10), lottebunny (S10), MercuryParadox (S10), Rasguer (S10), TheKevJawn (S10), cappyrappy (S11), Evader22 (S11), Livin423 (S11), tagggz (S11), BurningT (S12), tuxpeng (S13)
 
 ---
 ### Debutants
@@ -404,7 +404,7 @@
 
 **S9 (5):** bigfoot_, Long_Journey, MooM_, starwebs1, Zevulpes
 
-**S10 (7):** BSBrent, c1n, Cyndic, lottebunny, MercuryParadox, Rasguer, TheKevGuy
+**S10 (7):** BSBrent, c1n, Cyndic, lottebunny, MercuryParadox, Rasguer, TheKevJawn
 
 **S11 (6):** cappyrappy, Evader22, Livin423, Nate2gamer, scriblur, tagggz
 

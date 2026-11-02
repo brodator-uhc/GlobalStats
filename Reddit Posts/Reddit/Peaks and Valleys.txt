@@ -502,9 +502,9 @@
 
 **Skeleton (5):** WackoFlipper (S1), DancersTalon (S5), Codwhy (S7), Klickacat (S18), TorinFBF (S18)
 
-**Void (4):** AirInAirOut (S14), TehBaconBrawlerZ (S15), MCmattFTW (S17), Dj8ninja (S19)
-
 **Creeper (3):** KatyLawson (S1), Codwhy (S3), Greeples (S14)
+
+**World Border (3):** AirInAirOut (S14), MCmattFTW (S17), Dj8ninja (S19)
 
 **Lava (2):** Gorgerous (S12), CAMKART100 (S14)
 
@@ -521,6 +521,8 @@
 **Iron Golem (1):** Nikikula (S11)
 
 **Magma (1):** Paxtona (S12)
+
+**Void (1):** TehBaconBrawlerZ (S15)
 
 **Warden (1):** Guardaxion (S18)
 

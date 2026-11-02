@@ -5,95 +5,137 @@
 
 **S1: Bored_yes (4), MaloxFilou (5)**, *Cliquegauche (3)*
 
+**S2: _Salamix (4), ElFuZzion (3), JulDragonne (2)**
+
 ---
 ### Runner Ups
 
 **S1:** Mathkiler (0), Nadyys (2), Teoad (0)
+
+**S2:** AmethysteEnSueur (4), paye_peur (2), SunChine (0)
 
 ---
 ### Most Kills
 
 **S1:** MaloxFilou (5)
 
+**S2:** _Salamix, AmethysteEnSueur (4)
+
 ---
 ### Most Kills (Team)
 
 **S1:** Cliquegauche (3), Bored_yes (4), MaloxFilou (5)
+
+**S2:** JulDragonne (2), _Salamix (4), ElFuZzion (3)
 
 ---
 ### First Damage
 
 **S1:*
 
+**S2:*
+
 ---
 ### Ironman
 
 **S1:*
+
+**S2:*
 
 ---
 ### First Blood
 
 **S1:** MaloxFilou (ShaoVG)
 
+**S2:** zVlaash (Sfqkeur_)
+
 ---
 ### First Death
 
 **S1:** Kamgoat (Fall)
+
+**S2:** Osqze (Spider)
 
 ---
 ### Kills
 
 **1st - MaloxFilou (5):** ShaoVG (S1), Gabu (S1), Auri_Cat (S1), Treyyyl_ (S1), DarkGiant24 (S1)
 
+**2nd - _Salamix (4):** Treyyyl_ (S2), FloLeFifrelin (S2), AmethysteEnSueur (S2), paye_peur (S2)
+
+**2nd - AmethysteEnSueur (4):** Kqzuno (S2), Lakeo_ (S2), Chasmic (S2), Redemoles (S2)
+
 **2nd - Bored_yes (4):** Este314 (S1), Teoad (S1), Thimmy74 (S1), Nadyys (S1)
 
-**3rd - Cliquegauche (3):** Astora (S1), FloLeFifrelin (S1), AccAnanaS (S1)
+**2nd - FloLeFifrelin (4):** Tata_Mymy (S1), SCC_Leon (S1), MiniDyl (S2), SunChine (S2)
 
-**3rd - Treyyyl_ (3):** Yousat (S1), Leykuro (S1), xAkiraria (S1)
+**2nd - Treyyyl_ (4):** Yousat (S1), Leykuro (S1), xAkiraria (S1), Osqze (S2)
 
-**5th - FloLeFifrelin (2):** Tata_Mymy (S1), SCC_Leon (S1)
+**7th - Cliquegauche (3):** Astora (S1), FloLeFifrelin (S1), AccAnanaS (S1)
 
-**5th - Nadyys (2):** Cliquegauche (S1), UltimateAce (S1)
+**7th - ElFuZzion (3):** zVlaash (S2), Mach1nB1dul3 (S2), cozotidg (S2)
 
-**5th - Thimmy74 (2):** Pouletdesbiesses (S1), Pikace (S1)
+**9th - JulDragonne (2):** SKYDRIF (S2), banana08_ (S2)
 
-**8th - DarkGiant24 (1):** Naosu (S1)
+**9th - Nadyys (2):** Cliquegauche (S1), UltimateAce (S1)
 
-**8th - Este314 (1):** Ino_14 (S1)
+**9th - paye_peur (2):** Mr_Xoloth (S2), Flouzemaker (S2)
 
-**8th - Naosu (1):** Azzogh (S1)
+**9th - Thimmy74 (2):** Pouletdesbiesses (S1), Pikace (S1)
 
-**8th - Pikace (1):** Staaix (S1)
+**9th - zVlaash (2):** Sfqkeur_ (S2), Soroyale_ (S2)
 
-**8th - SCC_Leon (1):** HipGame (S1)
+**14th - Chasmic (1):** Mrfox4 (S2)
 
-**8th - UltimateAce (1):** Mathkiler (S1)
+**14th - DarkGiant24 (1):** Naosu (S1)
+
+**14th - Este314 (1):** Ino_14 (S1)
+
+**14th - Naosu (1):** Azzogh (S1)
+
+**14th - Pikace (1):** Staaix (S1)
+
+**14th - Redemoles (1):** Brodator (S2)
+
+**14th - SCC_Leon (1):** HipGame (S1)
+
+**14th - UltimateAce (1):** Mathkiler (S1)
 
 ---
 ### PvE Deaths
 
-**Fall (3):** Kamgoat (S1), ShaoVG (S1), MaloxFilou (S1)
+**Fall (10):** Kamgoat (S1), ShaoVG (S1), MaloxFilou (S1), Gwaum (S2), pamina_off (S2), _Salamix (S2), Mach1nB1dul3 (S2), Soroyale_ (S2), pamina_off (S2), cliquegauchetv (S2)
 
-**Skeleton (3):** Bored_yes (S1), Tata_Mymy (S1), Azzogh (S1)
+**Skeleton (8):** Bored_yes (S1), Tata_Mymy (S1), Azzogh (S1), banana08_ (S2), Kqzuno (S2), Gwaum (S2), JulDragonne (S2), kxgaya (S2)
 
-**Creeper (1):** AccAnanaS (S1)
+**Creeper (3):** AccAnanaS (S1), AmethysteEnSueur (S2), SKYDRIF (S2)
+
+**Lava (3):** Ino_14 (S1), kxgaya (S2), ElFuZzion (S2)
+
+**Suffocation (2):** Pouletdesbiesses (S1), Matomix_ (S2)
+
+**Burning (1):** Matomix_ (S2)
 
 **Drowning (1):** Kamgoat (S1)
 
-**Lava (1):** Ino_14 (S1)
+**Spider (1):** Osqze (S2)
 
-**Suffocation (1):** Pouletdesbiesses (S1)
+**Warden (1):** MiniDyl (S2)
 
 **Zombie (1):** Pikace (S1)
 
 ---
 ### Participation
 
-**1 Season (30):** AccAnanaS (S1), Astora (S1), Auri_Cat (S1), Azzogh (S1), Bored_yes (S1), Cliquegauche (S1), DarkGiant24 (S1), Este314 (S1), FloLeFifrelin (S1), Gabu (S1), HipGame (S1), Ino_14 (S1), Kamgoat (S1), Leykuro (S1), MaloxFilou (S1), Mathkiler (S1), Nadyys (S1), Naosu (S1), Pikace (S1), Pouletdesbiesses (S1), SCC_Leon (S1), ShaoVG (S1), Staaix (S1), Tata_Mymy (S1), Teoad (S1), Thimmy74 (S1), Treyyyl_ (S1), UltimateAce (S1), xAkiraria (S1), Yousat (S1)
+**2 Seasons (2):** FloLeFifrelin (S1-S2), Treyyyl_ (S1-S2)
+
+**1 Season (56):** AccAnanaS (S1), Astora (S1), Auri_Cat (S1), Azzogh (S1), Bored_yes (S1), Cliquegauche (S1), DarkGiant24 (S1), Este314 (S1), Gabu (S1), HipGame (S1), Ino_14 (S1), Kamgoat (S1), Leykuro (S1), MaloxFilou (S1), Mathkiler (S1), Nadyys (S1), Naosu (S1), Pikace (S1), Pouletdesbiesses (S1), SCC_Leon (S1), ShaoVG (S1), Staaix (S1), Tata_Mymy (S1), Teoad (S1), Thimmy74 (S1), UltimateAce (S1), xAkiraria (S1), Yousat (S1), _Salamix (S2), AmethysteEnSueur (S2), banana08_ (S2), Brodator (S2), Chasmic (S2), cliquegauchetv (S2), cozotidg (S2), ElFuZzion (S2), Flouzemaker (S2), Gwaum (S2), JulDragonne (S2), Kqzuno (S2), kxgaya (S2), Lakeo_ (S2), Mach1nB1dul3 (S2), Matomix_ (S2), MiniDyl (S2), Mr_Xoloth (S2), Mrfox4 (S2), Osqze (S2), pamina_off (S2), paye_peur (S2), Redemoles (S2), Sfqkeur_ (S2), SKYDRIF (S2), Soroyale_ (S2), SunChine (S2), zVlaash (S2)
 
 ---
 ### Debutants
 
 **S1 (30):** AccAnanaS, Astora, Auri_Cat, Azzogh, Bored_yes, Cliquegauche, DarkGiant24, Este314, FloLeFifrelin, Gabu, HipGame, Ino_14, Kamgoat, Leykuro, MaloxFilou, Mathkiler, Nadyys, Naosu, Pikace, Pouletdesbiesses, SCC_Leon, ShaoVG, Staaix, Tata_Mymy, Teoad, Thimmy74, Treyyyl_, UltimateAce, xAkiraria, Yousat
+
+**S2 (28):** _Salamix, AmethysteEnSueur, banana08_, Brodator, Chasmic, cliquegauchetv, cozotidg, ElFuZzion, Flouzemaker, Gwaum, JulDragonne, Kqzuno, kxgaya, Lakeo_, Mach1nB1dul3, Matomix_, MiniDyl, Mr_Xoloth, Mrfox4, Osqze, pamina_off, paye_peur, Redemoles, Sfqkeur_, SKYDRIF, Soroyale_, SunChine, zVlaash
 
 ---

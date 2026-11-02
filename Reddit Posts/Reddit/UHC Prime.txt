@@ -70,7 +70,7 @@
 
 **S5:** lexicuhl (1), lottebunny (4) & automavic (2), Maxwellfifty (3)
 
-**S6:** bjr201111 (6), Fra49 (2), Maxwellfifty (4), SiahStone (1), TheKevGuy (1)
+**S6:** bjr201111 (6), Fra49 (2), Maxwellfifty (4), SiahStone (1), TheKevJawn (1)
 
 **S7:** Gorgerous (3), pigghetti (2), TheRealHagrid (0)
 
@@ -177,7 +177,7 @@
 
 **9th - Gorgerous (6):** ColdBac (S5), Ixolock (S5), cherryblawsom (S5), lexicuhl (S7), chloesad (S7), Vulkarr (S7)
 
-**12th - buttergolem1 (5):** wibbol (S3), powermc (S3), DJoee (S3), Aybel (S4), TheKevGuy (S6)
+**12th - buttergolem1 (5):** wibbol (S3), powermc (S3), DJoee (S3), Aybel (S4), TheKevJawn (S6)
 
 **12th - Fra49 (5):** 6BU (S1), Ixolock (S1), ToontownOnline (S2), PresidentFleb (S6), ColdBac (S6)
 
@@ -263,7 +263,7 @@
 
 **38th - SpoiderEyes (1):** automavic (S8)
 
-**38th - TheKevGuy (1):** buttergolem1 (S6)
+**38th - TheKevJawn (1):** buttergolem1 (S6)
 
 **38th - Vulkarr (1):** Dj8ninja (S7)
 
@@ -303,7 +303,7 @@
 
 **2 Seasons (22):** azoof (S1,S7), BatMan_1814 (S1,S6), centraleric (S1,S6), ToontownOnline (S1-S2), Flohp (S2,S4), ShyGus (S2,S4), MarcC5M (S3,S6), SharkeyJaws (S3,S6), WackoFlipper (S3,S6), brodioh (S4-S5), dw0w (S4-S5), Exee (S4-S5), automavic (S5,S8), TheSlimeBrother (S5,S8), Evader22 (S6-S7), MaxEvasion (S6-S7), Plushy33 (S6,S8), Vulkarr (S6-S7), Chrisanthemum (S7-S8), Greeples (S7-S8), Klickacat (S7-S8), ProGirlGamer (S7-S8)
 
-**1 Season (43):** 3Dspoders (S1), fruitberries (S1), Havenhand (S1), LightningS7 (S1), MeadowMoos (S1), Micale (S1), nsket (S1), SD_UHC (S1), TommySuX (S1), Fourbitplayer (S2), GetNicked (S2), Livin423 (S2), Zahkari (S2), I_is_cheesecake (S3), Fazz2 (S4), WillBrisk (S4), DKPMatt (S6), Flouzemaker (S6), Jahrod (S6), jommyappleseed (S6), KOKeowner (S6), PresidentFleb (S6), silh (S6), tagggz (S6), tbhjosh (S6), TheKevGuy (S6), VeniiiD (S6), chloesad (S7), JustKerp (S7), LordLaelaps (S7), PhenomCloud (S7), Ratchet6859 (S7), Br8dy_ (S8), Iplayball (S8), jojoistoasted (S8), MuchoLinguine (S8), plumjuice (S8), Queequa (S8), Sfqkeur_ (S8), ShootingGoats (S8), SpoiderEyes (S8), Westcraft00 (S8), zoeywithawhy (S8)
+**1 Season (43):** 3Dspoders (S1), fruitberries (S1), Havenhand (S1), LightningS7 (S1), MeadowMoos (S1), Micale (S1), nsket (S1), SD_UHC (S1), TommySuX (S1), Fourbitplayer (S2), GetNicked (S2), Livin423 (S2), Zahkari (S2), I_is_cheesecake (S3), Fazz2 (S4), WillBrisk (S4), DKPMatt (S6), Flouzemaker (S6), Jahrod (S6), jommyappleseed (S6), KOKeowner (S6), PresidentFleb (S6), silh (S6), tagggz (S6), tbhjosh (S6), TheKevJawn (S6), VeniiiD (S6), chloesad (S7), JustKerp (S7), LordLaelaps (S7), PhenomCloud (S7), Ratchet6859 (S7), Br8dy_ (S8), Iplayball (S8), jojoistoasted (S8), MuchoLinguine (S8), plumjuice (S8), Queequa (S8), Sfqkeur_ (S8), ShootingGoats (S8), SpoiderEyes (S8), Westcraft00 (S8), zoeywithawhy (S8)
 
 ---
 ### Debutants
@@ -318,7 +318,7 @@
 
 **S5 (3):** automavic, Chasmic, TheSlimeBrother
 
-**S6 (16):** CrowJRC, DKPMatt, Evader22, Flouzemaker, Jahrod, jommyappleseed, KOKeowner, MaxEvasion, Plushy33, PresidentFleb, silh, tagggz, tbhjosh, TheKevGuy, VeniiiD, Vulkarr
+**S6 (16):** CrowJRC, DKPMatt, Evader22, Flouzemaker, Jahrod, jommyappleseed, KOKeowner, MaxEvasion, Plushy33, PresidentFleb, silh, tagggz, tbhjosh, TheKevJawn, VeniiiD, Vulkarr
 
 **S7 (9):** chloesad, Chrisanthemum, Greeples, JustKerp, Klickacat, LordLaelaps, PhenomCloud, ProGirlGamer, Ratchet6859
 

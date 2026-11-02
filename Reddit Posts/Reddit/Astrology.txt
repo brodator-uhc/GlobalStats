@@ -221,7 +221,7 @@
 
 **1st - 4EyedSlime (23):** Itch33 (S2), aalaan (S2), DancersTalon (S3), SiahStone (S3), Ullti (S3), Bofishkix (S3), Fancyyy (S5), Bofishkix (S6), Ullti (S6), LucaSingapore (S6), rippersteveM5 (S6), Brodator (S6), Jhnova (S6), Harryb2k (S6), Harryb2k (S7), Itch33 (S7), Codwhy (S7), FrostBros (S7), MaxEvasion (S7), Dj8ninja (S7), Bradzi (S7), LordLaelaps (S7), LordLaelaps (S12)
 
-**2nd - Brodator (19):** Zevulpes (S5), WaXmAn24 (S5), Pelycosaur (S5), AJEvolved (S5), aalaan (S5), Broseph (S6), Pelycosaur (S6), Ninetals38 (S8), Jordtim (S8), aalaan (S8), Qeeshh (S8), TheSheepMasters (S8), _Fost_ (S8), LordLaelaps (S8), DogOfKrondor (S8), DogOfKrondor (S9), ohh_lia (S11), Ninetals38 (S11), Andronify (S12)
+**2nd - Brodator (19):** Zevulpes (S5), WaXmAn24 (S5), Pelycosaur (S5), AJEvolved (S5), aalaan (S5), Broseph (S6), Pelycosaur (S6), Ninetals38 (S8), Jordtim (S8), aalaan (S8), Qeeshh (S8), TheSheepMasters (S8), _Fost_ (S8), LordLaelaps (S8), DogOfKrondor (S8), DogOfKrondor (S9), puppygirlmaple (S11), Ninetals38 (S11), Andronify (S12)
 
 **3rd - Harryb2k (16):** DevoyTTV (S1), TonyEatWorld (S1), SummerBqsh (S1), Digdude (S3), Jhnova (S4), Fancyyy (S4), InsertDotJpeg (S4), Bradzi (S4), Bofishkix (S4), Yodrux (S4), strategy (S5), Yodrux (S5), Abdalain (S5), Topspinpiggles (S5), Drafty_ (S8), ItsShqky (S8)
 
@@ -395,7 +395,7 @@
 
 **2 Seasons (14):** Singlish (S1,S3), TonyEatWorld (S1,S12), 123SteveBob (S2-S3), AJEvolved (S2,S5), warriorcat (S3-S4), wibbol (S3,S5), JamestheDouglas (S4-S5), commitstaxfraud (S7,S12), ShimamuraUzuki (S7,S9), dw0w (S9-S10), mqson (S9-S10), Andronify (S11-S12), Exee (S11-S12), MercuryParadox (S11-S12)
 
-**1 Season (24):** Awticon (S1), Hacn35 (S1), Harmen (S1), HeyImHungry (S2), Psykl0ne (S3), Hoookey (S4), ShinyCrafter (S4), WaXmAn24 (S5), Zevulpes (S5), ghostblurr (S7), nFang (S7), Sluggyg (S7), Elphelt (S9), Fazz2 (S9), CodeJoshua (S10), Flcnt (S10), SoulvG (S10), Zylen (S10), Klobb (S11), MinimanTurtle (S11), ohh_lia (S11), Potsie (S11), centraleric (S12), Kaddyn (S12)
+**1 Season (24):** Awticon (S1), Hacn35 (S1), Harmen (S1), HeyImHungry (S2), Psykl0ne (S3), Hoookey (S4), ShinyCrafter (S4), WaXmAn24 (S5), Zevulpes (S5), ghostblurr (S7), nFang (S7), Sluggyg (S7), Elphelt (S9), Fazz2 (S9), CodeJoshua (S10), Flcnt (S10), SoulvG (S10), Zylen (S10), Klobb (S11), MinimanTurtle (S11), Potsie (S11), puppygirlmaple (S11), centraleric (S12), Kaddyn (S12)
 
 ---
 ### Debutants
@@ -420,7 +420,7 @@
 
 **S10 (5):** CodeJoshua, Flcnt, Fra49, SoulvG, Zylen
 
-**S11 (7):** Andronify, Exee, Klobb, MercuryParadox, MinimanTurtle, ohh_lia, Potsie
+**S11 (7):** Andronify, Exee, Klobb, MercuryParadox, MinimanTurtle, Potsie, puppygirlmaple
 
 **S12 (2):** centraleric, Kaddyn
 

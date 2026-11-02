@@ -8,7 +8,7 @@ using StatsAnalyzer;
 // If 5 calculates trivia stats
 int Statfunction = 4;
 // Player to analyze for the stats sheet
-String playerStats = "Brodator";
+String playerStats = "Flcnt";
 // Select the stat doc for global stats
 // 1 for reddit
 // 2 for non-reddit
@@ -29,7 +29,7 @@ if (Statfunction == 1)
 
     using var roundsDocument = new XLWorkbook(roundsListDoc);
     var roundList = roundsDocument.Worksheet(1);
-    var rosterList = roundsDocument.Worksheet(5);
+    var rosterList = roundsDocument.Worksheet(6);
 
     //Calculate the global gaps between 2 season of 1 roudn
     RoundGapsCalculator.CalculateRoundGaps(roundsGapList, roundList, rosterList);
@@ -60,7 +60,7 @@ else if (Statfunction == 2)
     var playerList = playersDocument.Worksheet(1);
 
     using var roundsDocument = new XLWorkbook(roundsListDoc);
-    var rosterList = roundsDocument.Worksheet(5);
+    var rosterList = roundsDocument.Worksheet(6);
 
     //Calculate the global gaps between 2 season played of any round
     GlobalGapsCalculator.CalculateGlobalGaps(globalGapList, playerList, rosterList);
@@ -89,7 +89,7 @@ else if (Statfunction == 3)
     }
 
     using var roundsDocument = new XLWorkbook(roundsListDoc);
-    var rosterList = roundsDocument.Worksheet(5);
+    var rosterList = roundsDocument.Worksheet(6);
 
     using var statsDocument = new XLWorkbook(statsListDoc);
 
@@ -148,6 +148,7 @@ else if (Statfunction == 4)
     //Variables for the rounds list
     List<RoundList> roundList = [];
     List<PveCausesList> pveCausesList = [];
+    List<MethodList> methodList = [];
     List<GamemodesList> gamemodesList = [];
     List<TeamTypeList> teamTypeList = [];
     List<RostersList> rostersList = [];
@@ -287,7 +288,7 @@ else if (Statfunction == 4)
 
             //Loops through all the kiler cells
             IXLRange killerRange = roundPage.Range(firstDataRow, firstDataColumn + 2, firstDataRow + (seasonInfo.SeasonSize - 1), firstDataColumn + 2);
-            KillsAnalyzer.GetKills(globalStatsList, redditPosts, killsList, firstBloodList, pveDeathList, pveCausesList, seasonInfo, killboard, seasonNumberPost, killerRange);
+            KillsAnalyzer.GetKills(globalStatsList, redditPosts, killsList, firstBloodList, pveDeathList, pveCausesList, methodList, seasonInfo, killboard, seasonNumberPost, killerRange);
 
             //Gets top frags for the season
             //Skips rounds with 0 kills.
@@ -320,7 +321,7 @@ else if (Statfunction == 4)
     GlobalStats.UpdateKDRs(globalStatsList);
 
     //Takes all the lists and adds them to new docs to save
-    DataExporter.SaveRoundList(roundList, pveCausesList, gamemodesList, teamTypeList, rostersList, rostersListNR, postFolder);
+    DataExporter.SaveRoundList(roundList, pveCausesList, methodList, gamemodesList, teamTypeList, rostersList, rostersListNR, postFolder);
     DataExporter.SaveRoundDebut(roundDebutsList, roundDebutsListNR, postFolder);
     DataExporter.SaveGlobalStats(globalStatsList, killRecordsList, postFolder);
     DataExporter.SaveCompiledStats(killsList, teamsList, firstDamageList, ironmanList, pveDeathList, firstDeathList, firstBloodList, topFragList, runnerUpList, aliveList, winList, postFolder);

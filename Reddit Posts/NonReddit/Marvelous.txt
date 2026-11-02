@@ -61,7 +61,7 @@
 
 **S4:** Sawnic (Bl0ckF0rce)
 
-**S5:** JaeHasNoMaidens (DaMobFTW)
+**S5:** commitstaxfraud (DaMobFTW)
 
 ---
 ### First Death
@@ -75,15 +75,15 @@
 ---
 ### Kills
 
-**1st - AHSOKATANOSTAN (5):** SuicidalYoshi (S5), JaeHasNoMaidens (S5), IzunaLoli (S5), MCmattFTW (S5), Master_Saber (S5)
+**1st - AHSOKATANOSTAN (5):** SuicidalYoshi (S5), commitstaxfraud (S5), IzunaLoli (S5), MCmattFTW (S5), Master_Saber (S5)
 
 **2nd - DaMobFTW (4):** Sluggyg (S3), JakeDaCrae (S4), xMelee (S4), TonyEatWorld (S4)
 
-**2nd - Sawnic (4):** Bl0ckF0rce (S4), MrBeachinYT (S4), JaeHasNoMaidens (S4), Ryfri (S4)
+**2nd - Sawnic (4):** Bl0ckF0rce (S4), MrBeachinYT (S4), commitstaxfraud (S4), Ryfri (S4)
+
+**4th - commitstaxfraud (3):** DaMobFTW (S5), Bluests (S5), CHANGA (S5)
 
 **4th - Eternql (3):** xDrqined (S3), FIREMONSTR (S3), Ethqn (S3)
-
-**4th - JaeHasNoMaidens (3):** DaMobFTW (S5), Bluests (S5), CHANGA (S5)
 
 **4th - Ryfri (3):** Vorpeo (S4), BardMain2 (S4), Fout (S4)
 
@@ -125,7 +125,7 @@
 
 **3 Seasons (2):** DaMobFTW (S3-S5), Sluggyg (S3-S5)
 
-**2 Seasons (4):** lilygant (S3,S5), TonyEatWorld (S3-S4), BardMain2 (S4-S5), JaeHasNoMaidens (S4-S5)
+**2 Seasons (4):** lilygant (S3,S5), TonyEatWorld (S3-S4), BardMain2 (S4-S5), commitstaxfraud (S4-S5)
 
 **1 Season (33):** DAT_PACO (S3), Eternql (S3), Ethqn (S3), EzFoMeh (S3), FIREMONSTR (S3), NoThoughtz (S3), Petialuca (S3), xDrqined (S3), Bl0ckF0rce (S4), BlackGarrett (S4), Fout (S4), ItsChristiannn (S4), JakeDaCrae (S4), MrBeachinYT (S4), Ryfri (S4), Sawnic (S4), Vorpeo (S4), xMelee (S4), AHSOKATANOSTAN (S5), Bluests (S5), Broseph (S5), CHANGA (S5), frogsella (S5), guccibulletvest (S5), IzunaLoli (S5), Master_Saber (S5), MCmattFTW (S5), MinecrafNinja (S5), MrLazeo101 (S5), PoofessorP (S5), RodItOut (S5), Shayce (S5), SuicidalYoshi (S5)
 
@@ -134,7 +134,7 @@
 
 **S3 (12):** DaMobFTW, DAT_PACO, Eternql, Ethqn, EzFoMeh, FIREMONSTR, lilygant, NoThoughtz, Petialuca, Sluggyg, TonyEatWorld, xDrqined
 
-**S4 (12):** BardMain2, Bl0ckF0rce, BlackGarrett, Fout, ItsChristiannn, JaeHasNoMaidens, JakeDaCrae, MrBeachinYT, Ryfri, Sawnic, Vorpeo, xMelee
+**S4 (12):** BardMain2, Bl0ckF0rce, BlackGarrett, commitstaxfraud, Fout, ItsChristiannn, JakeDaCrae, MrBeachinYT, Ryfri, Sawnic, Vorpeo, xMelee
 
 **S5 (15):** AHSOKATANOSTAN, Bluests, Broseph, CHANGA, frogsella, guccibulletvest, IzunaLoli, Master_Saber, MCmattFTW, MinecrafNinja, MrLazeo101, PoofessorP, RodItOut, Shayce, SuicidalYoshi
 

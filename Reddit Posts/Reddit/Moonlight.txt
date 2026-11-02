@@ -123,7 +123,7 @@
 ---
 ### Kills
 
-**1st - Fcrm (25):** _1mmortal_ (S1), ScaryPumpkinFace (S1), grantfaker (S2), DogOfKrondor (S2), OneMoreWeek (S2), IrishandProud (S2), MineKG (S2), boyyoo (S2), kabobaa (S2), HeyItsJBug (S3), Clemjo (S3), kabobaa (S3), ScaryPumpkinFace (S3), DevoyTTV (S3), Pgy (S3), AirInAirOut (S3), Broseph (S4), Ryfri (S4), Fearx_ (S5), DogOfKrondor (S5), MrMasterball (S5), m4ku (S5), EndestroyerEpic (S6), JampoJohn (S6), Ryfri (S6)
+**1st - Fcrm (25):** _1mmortal_ (S1), ScaryPumpkinFace (S1), grantfaker (S2), DogOfKrondor (S2), Fhqntom_ (S2), IrishandProud (S2), MineKG (S2), boyyoo (S2), kabobaa (S2), HeyItsJBug (S3), Clemjo (S3), kabobaa (S3), ScaryPumpkinFace (S3), DevoyTTV (S3), Pgy (S3), AirInAirOut (S3), Broseph (S4), Ryfri (S4), Fearx_ (S5), DogOfKrondor (S5), MrMasterball (S5), m4ku (S5), EndestroyerEpic (S6), JampoJohn (S6), Ryfri (S6)
 
 **2nd - evuhlynx (12):** Stravilight (S4), ItsShqky (S4), ImChile (S4), HUQTER (S4), RomeoG0401 (S4), Fearx_ (S4), noktime (S4), BigJedo (S5), King_Aiden (S5), RomeoG0401 (S5), BEANJEE (S5), GuyNamedKreo (S5)
 
@@ -135,7 +135,7 @@
 
 **6th - DevoyTTV (6):** broccoliar (S2), ItsShqky (S3), ArcticSeagull (S3), broccoliar (S3), grantfaker (S6), ItzBeeZ (S6)
 
-**6th - gmailol (6):** Bobbytheturtle (S6), vDyre (S6), omchris (S6), Bulbexe (S6), OneMoreWeek (S6), HUQTER (S6)
+**6th - gmailol (6):** Bobbytheturtle (S6), vDyre (S6), omchris (S6), Bulbexe (S6), Fhqntom_ (S6), HUQTER (S6)
 
 **6th - ItsShqky (6):** zoeywithawhy (S2), MichaelPlayMC (S3), broccoliar (S4), SpaceFenix (S5), Sharkbob94349 (S6), DevoyTTV (S6)
 
@@ -179,7 +179,7 @@
 
 **23rd - Ninetals38 (2):** DogOfKrondor (S1), zoeywithawhy (S5)
 
-**23rd - omchris (2):** OneMoreWeek (S4), BEANJEE (S6)
+**23rd - omchris (2):** Fhqntom_ (S4), BEANJEE (S6)
 
 **23rd - Pgy (2):** ArcticSeagull (S4), EndestroyerEpic (S4)
 
@@ -197,9 +197,11 @@
 
 **33rd - EndestroyerEpic (1):** broccoliar (S5)
 
-**33rd - EroseMC (1):** OneMoreWeek (S5)
+**33rd - EroseMC (1):** Fhqntom_ (S5)
 
 **33rd - Evzenitable (1):** Ninetals38 (S1)
+
+**33rd - Fhqntom_ (1):** Pgy (S6)
 
 **33rd - FroztiSnowman (1):** DogOfKrondor (S6)
 
@@ -210,8 +212,6 @@
 **33rd - MichaelPlayMC (1):** SuperToads64 (S5)
 
 **33rd - Moonlitess (1):** EroseMC (S5)
-
-**33rd - OneMoreWeek (1):** Pgy (S6)
 
 **33rd - RomeoG0401 (1):** EndestroyerEpic (S5)
 
@@ -241,7 +241,7 @@
 
 **5 Seasons (2):** DogOfKrondor (S1-S2,S4-S6), ScaryPumpkinFace (S1-S4,S6)
 
-**4 Seasons (6):** IrishandProud (S1-S2,S5-S6), broccoliar (S2-S5), DevoyTTV (S2-S3,S5-S6), GuyNamedKreo (S2-S3,S5-S6), OneMoreWeek (S2,S4-S6), vDyre (S2-S4,S6)
+**4 Seasons (6):** IrishandProud (S1-S2,S5-S6), broccoliar (S2-S5), DevoyTTV (S2-S3,S5-S6), Fhqntom_ (S2,S4-S6), GuyNamedKreo (S2-S3,S5-S6), vDyre (S2-S4,S6)
 
 **3 Seasons (13):** Kaismartypants (S1-S2,S6), Blind4ndD34f (S2-S3,S5), LightingMC (S2-S3,S5), ShootingGoats (S2,S4-S5), Stravilight (S2,S4-S5), BEANJEE (S3,S5-S6), EroseMC (S3,S5-S6), Pgy (S3-S4,S6), CAMKART100 (S4-S6), EndestroyerEpic (S4-S6), Fearx_ (S4-S6), Karliffu (S4-S6), RomeoG0401 (S4-S6)
 
@@ -254,7 +254,7 @@
 
 **S1 (17):** _1mmortal_, boyyoo, DogOfKrondor, Dreamfall, Evzenitable, Fcrm, grantfaker, IrishandProud, ItsShqky, JampoJohn, JustStefqn, kabobaa, Kaismartypants, MichaelPlayMC, Ninetals38, rae0vr, ScaryPumpkinFace
 
-**S2 (13):** AirInAirOut, Blind4ndD34f, BoltsInCharge, broccoliar, DevoyTTV, GuyNamedKreo, LightingMC, MineKG, OneMoreWeek, ShootingGoats, Stravilight, vDyre, zoeywithawhy
+**S2 (13):** AirInAirOut, Blind4ndD34f, BoltsInCharge, broccoliar, DevoyTTV, Fhqntom_, GuyNamedKreo, LightingMC, MineKG, ShootingGoats, Stravilight, vDyre, zoeywithawhy
 
 **S3 (8):** ArcticSeagull, BEANJEE, Clemjo, EroseMC, gasosaurus518, HeyItsJBug, Pgy, Random_Penguin72
 

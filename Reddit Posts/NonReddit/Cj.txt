@@ -85,7 +85,7 @@
 
 **S2:** broccoliar (poWpaH)
 
-**S3:** emi1iano (Hendysaurus)
+**S3:** emi1iano (hendy53)
 
 **S4:** ZebraPantz (Evzenitable)
 
@@ -96,9 +96,9 @@
 
 **S1:** Cqson (egl_)
 
-**S2:** Hendysaurus (Creeper)
+**S2:** hendy53 (Creeper)
 
-**S3:** Hendysaurus (emi1iano)
+**S3:** hendy53 (emi1iano)
 
 **S4:** CodeJoshua (Burning)
 
@@ -115,13 +115,13 @@
 
 **3rd - wizarde (6):** egl_ (S1), Greatwarrior_ (S1), MangoPlayz (S5), ArcticSeagull (S5), Stravilight (S5), Qmos (S5)
 
-**5th - loyaltea (5):** Cat6376 (S1), Moonlitess (S1), Cqson (S3), kawaiibunri (S5), brinniex (S5)
+**5th - loyaltea (5):** Cat6376 (S1), Moonlitess (S1), Cqson (S3), evuhlynx (S5), brinniex (S5)
 
-**6th - _Txchno_ (4):** Hendysaurus (S1), broccoliar (S1), Zcin (S1), ImChile (S1)
+**6th - _Txchno_ (4):** hendy53 (S1), broccoliar (S1), Zcin (S1), ImChile (S1)
 
 **6th - broccoliar (4):** AvyleZ (S1), poWpaH (S2), brinkwhy (S5), BigJedo (S5)
 
-**6th - emi1iano (4):** broccoliar (S2), Hendysaurus (S3), Caydone (S3), ZebraPantz (S4)
+**6th - emi1iano (4):** broccoliar (S2), hendy53 (S3), Caydone (S3), ZebraPantz (S4)
 
 **6th - ImChile (4):** Plushy33 (S1), TitaniumDino25 (S1), loyaltea (S1), BlackPants (S1)
 
@@ -139,7 +139,7 @@
 
 **14th - Greatwarrior_ (2):** CodeJoshua (S3), BlackPants (S3)
 
-**14th - Hendysaurus (2):** JaqOnCraq (S1), David63 (S1)
+**14th - hendy53 (2):** JaqOnCraq (S1), David63 (S1)
 
 **14th - poWpaH (2):** Stravilight (S3), FrostBros (S3)
 
@@ -159,9 +159,9 @@
 
 **20th - egl_ (1):** Cqson (S1)
 
-**20th - Kaismartypants (1):** Moonlitess (S4)
+**20th - evuhlynx (1):** poWpaH (S5)
 
-**20th - kawaiibunri (1):** poWpaH (S5)
+**20th - Kaismartypants (1):** Moonlitess (S4)
 
 **20th - Moonlitess (1):** Zcin (S2)
 
@@ -174,7 +174,7 @@
 
 **Burning (2):** CodeJoshua (S4), Stravilight (S4)
 
-**Creeper (1):** Hendysaurus (S2)
+**Creeper (1):** hendy53 (S2)
 
 ---
 ### Participation
@@ -183,16 +183,16 @@
 
 **4 Seasons (2):** Moonlitess (S1-S4), Evzenitable (S2-S5)
 
-**3 Seasons (11):** _Txchno_ (S1-S3), AvyleZ (S1-S2,S4), BlackPants (S1-S3), broccoliar (S1-S2,S5), Hendysaurus (S1-S3), loyaltea (S1,S3,S5), emi1iano (S2-S4), poWpaH (S2-S3,S5), FrostBros (S3-S5), ItsShqky (S3-S5), Stravilight (S3-S5)
+**3 Seasons (11):** _Txchno_ (S1-S3), AvyleZ (S1-S2,S4), BlackPants (S1-S3), broccoliar (S1-S2,S5), hendy53 (S1-S3), loyaltea (S1,S3,S5), emi1iano (S2-S4), poWpaH (S2-S3,S5), FrostBros (S3-S5), ItsShqky (S3-S5), Stravilight (S3-S5)
 
 **2 Seasons (11):** ArcticSeagull (S1,S5), Cqson (S1,S3), JaqOnCraq (S1-S2), wizarde (S1,S5), Zcin (S1-S2), kirbey (S2-S3), CodeJoshua (S3-S4), OddishThoughts (S3,S5), Blarkslol (S4-S5), PwincessVanessa (S4-S5), Qmos (S4-S5)
 
-**1 Season (27):** BreakfastBacon (S1), Cat6376 (S1), CHAINGE (S1), David63 (S1), egl_ (S1), ImChile (S1), Lsnce (S1), natsuvi (S1), ohh_lia (S1), Plushy33 (S1), PresidentFleb (S1), TitaniumDino25 (S1), coldified (S2), Caydone (S3), OCTAMAN (S3), Kaismartypants (S4), Vetmire (S4), ZebraPantz (S4), _1mmortal_ (S5), Bofishkix (S5), brinkwhy (S5), brinniex (S5), Dcrpy (S5), Flcnt (S5), kawaiibunri (S5), MangoPlayz (S5), skyzfy (S5)
+**1 Season (27):** BreakfastBacon (S1), Cat6376 (S1), CHAINGE (S1), David63 (S1), egl_ (S1), ImChile (S1), Lsnce (S1), natsuvi (S1), ohh_lia (S1), Plushy33 (S1), PresidentFleb (S1), TitaniumDino25 (S1), coldified (S2), Caydone (S3), OCTAMAN (S3), Kaismartypants (S4), Vetmire (S4), ZebraPantz (S4), _1mmortal_ (S5), Bofishkix (S5), brinkwhy (S5), brinniex (S5), Dcrpy (S5), evuhlynx (S5), Flcnt (S5), MangoPlayz (S5), skyzfy (S5)
 
 ---
 ### Debutants
 
-**S1 (26):** _Txchno_, ArcticSeagull, AvyleZ, BigJedo, BlackPants, BreakfastBacon, broccoliar, Cat6376, CHAINGE, Cqson, David63, egl_, Greatwarrior_, Hendysaurus, ImChile, JaqOnCraq, loyaltea, Lsnce, Moonlitess, natsuvi, ohh_lia, Plushy33, PresidentFleb, TitaniumDino25, wizarde, Zcin
+**S1 (26):** _Txchno_, ArcticSeagull, AvyleZ, BigJedo, BlackPants, BreakfastBacon, broccoliar, Cat6376, CHAINGE, Cqson, David63, egl_, Greatwarrior_, hendy53, ImChile, JaqOnCraq, loyaltea, Lsnce, Moonlitess, natsuvi, ohh_lia, Plushy33, PresidentFleb, TitaniumDino25, wizarde, Zcin
 
 **S2 (5):** coldified, emi1iano, Evzenitable, kirbey, poWpaH
 
@@ -200,6 +200,6 @@
 
 **S4 (6):** Blarkslol, Kaismartypants, PwincessVanessa, Qmos, Vetmire, ZebraPantz
 
-**S5 (9):** _1mmortal_, Bofishkix, brinkwhy, brinniex, Dcrpy, Flcnt, kawaiibunri, MangoPlayz, skyzfy
+**S5 (9):** _1mmortal_, Bofishkix, brinkwhy, brinniex, Dcrpy, evuhlynx, Flcnt, MangoPlayz, skyzfy
 
 ---

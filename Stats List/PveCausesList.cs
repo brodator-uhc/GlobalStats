@@ -28,8 +28,11 @@ namespace StatsAnalyzer
                 case String m when m.Contains("ground") || m.Contains("doomed") || m.Contains("fell") && !m.Contains("world"):
                 pveDeath = "Fall";
                 break;
-                case String m when m.Contains("world"):
+                case String m when m.Contains("the world"):
                 pveDeath = "Void";
+                break;
+                case String m when m.Contains("this world"):
+                pveDeath = "World Border";
                 break;
                 case String m when m.Contains("drowned"):
                 pveDeath = "Drowning";

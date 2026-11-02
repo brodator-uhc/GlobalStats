@@ -66,7 +66,7 @@
 
 **S12b:** CommanderK22_ (0), Nuclearsugar (0), skyzfy (5), SpaceFenix (0)
 
-**S13:** _carn (4), BoltsInCharge (0), Dj8ninja (0), ohh_lia (0), ShootingGoats (0)
+**S13:** _carn (4), BoltsInCharge (0), Dj8ninja (0), puppygirlmaple (0), ShootingGoats (0)
 
 **S14:** Fcrm (4), Ginzburg (2), Glarza (0), PupperKun (3)
 
@@ -198,7 +198,7 @@
 
 **S5:** ColdBac (0:56:23)
 
-**S6:** ohh_lia (1:14:42)
+**S6:** puppygirlmaple (1:14:42)
 
 **S7:** cherryblawsom (1:11:22)
 
@@ -317,7 +317,7 @@
 
 **9th - alexnv (17):** Glarza (S5), wizarde (S5), ShmeckleBoy (S9), m4ku (S11), Fearx_ (S12a), Kaddyn (S12a), zCent (S12a), Cloversss (S12b), evuhlynx (S12b), CAMKART100 (S14), benidk (S16), CHANGA (S16), TehBaconBrawlerZ (S16), nsket (S16), Sharkbob94349 (S16), kabobaa (S16), ChrisCD (S16)
 
-**9th - CodeJoshua (17):** Dj8ninja (S1), ohh_lia (S2), Drkrai (S2), Lighte (S2), natsuvi (S2), strategy (S9), Gorgerous (S9), Fcrm (S9), DJoee (S9), Stravilight (S9), PupperKun (S9), ArcticSeagull (S12b), stupidsylvia (S12b), _1mmortal_ (S15), JampoJohn (S15), kabobaa (S15), Omertosa (S16)
+**9th - CodeJoshua (17):** Dj8ninja (S1), puppygirlmaple (S2), Drkrai (S2), Lighte (S2), natsuvi (S2), strategy (S9), Gorgerous (S9), Fcrm (S9), DJoee (S9), Stravilight (S9), PupperKun (S9), ArcticSeagull (S12b), stupidsylvia (S12b), _1mmortal_ (S15), JampoJohn (S15), kabobaa (S15), Omertosa (S16)
 
 **9th - PupperKun (17):** _carn (S7), Kelawesome (S7), cherryblawsom (S7), MercuryParadox (S7), JaqOnCraq (S8), 4EyedSlime (S8), cherryblawsom (S8), Fra49 (S9), poWpaH (S11), JustNolan (S11), grantfaker (S14), Zenithu (S14), LightingMC (S14), TacoDab (S15), zCent (S15), alexnv (S15), dahii (S15)
 
@@ -341,7 +341,7 @@
 
 **21st - natsuvi (12):** Drake132667596 (S2), MaxEvasion (S2), ColdBac (S2), strategy (S3), Bobbytheturtle (S4), Kaddyn (S5), Omertosa (S5), strategy (S6), ArcticSeagull (S11), ShootingGoats (S11), CipherKai (S12a), noktime (S13)
 
-**21st - SOAKLE (12):** stupidsylvia (S8), Bobbytheturtle (S8), ColdBac (S8), ohh_lia (S11), stupidsylvia (S11), Fra49 (S11), CommanderK22_ (S12a), ethodog (S12b), MercuryParadox (S12b), goompah (S12b), CommanderK22_ (S13), DarrenBGP (S15)
+**21st - SOAKLE (12):** stupidsylvia (S8), Bobbytheturtle (S8), ColdBac (S8), puppygirlmaple (S11), stupidsylvia (S11), Fra49 (S11), CommanderK22_ (S12a), ethodog (S12b), MercuryParadox (S12b), goompah (S12b), CommanderK22_ (S13), DarrenBGP (S15)
 
 **23rd - ColdBac (11):** benidk (S2), JaqOnCraq (S3), Lighte (S3), Lucarrio (S4), ToontownOnline (S5), gartbak (S5), TehBaconBrawlerZ (S6), fruitlogic (S6), JaqOnCraq (S6), benidk (S6), MercuryParadox (S8)
 
@@ -351,7 +351,7 @@
 
 **26th - _shi (10):** CHAINGE (S10), Lighte (S10), Broseph (S10), wizarde (S11), Psykl0ne (S11), broccoliar (S14), acadiangel (S14), alexnv (S14), PupperKun (S14), kendawg_g (S14)
 
-**26th - checog (10):** alexnv (S7), ohh_lia (S7), SAYNAR (S7), PupperKun (S7), Cloversss (S7), wizarde (S7), skebrown (S16), omchris (S16), SpyroJ (S16), brinkwhy (S16)
+**26th - checog (10):** alexnv (S7), puppygirlmaple (S7), SAYNAR (S7), PupperKun (S7), Cloversss (S7), wizarde (S7), skebrown (S16), omchris (S16), SpyroJ (S16), brinkwhy (S16)
 
 **28th - ChrisCD (9):** Stravilight (S13), CipherKai (S16), Kaismartypants (S16), SPEEDYDIGS (S16), DevoyTTV (S16), CodeJoshua (S16), CommanderK22_ (S16), sgouche (S16), skyzfy (S16)
 
@@ -371,7 +371,7 @@
 
 **36th - _Dieter (7):** Normoh (S1), zac083 (S1), Drake132667596 (S1), Arich (S1), SpaceFenix (S8), evuhlynx (S11), ChainingVermin2 (S11)
 
-**36th - broccoliar (7):** JustNolan (S10), Normoh (S11), SpyroJ (S12b), Bobbytheturtle (S12b), SpyroJ (S13), turicake (S13), ohh_lia (S13)
+**36th - broccoliar (7):** JustNolan (S10), Normoh (S11), SpyroJ (S12b), Bobbytheturtle (S12b), SpyroJ (S13), turicake (S13), puppygirlmaple (S13)
 
 **36th - Broseph (7):** Rebelghost (S1), wizarde (S1), poWpaH (S14), ChrisCD (S15), _carn (S15), Fra49 (S15), eBrand0 (S15)
 
@@ -383,7 +383,7 @@
 
 **36th - Kelawesome (7):** Gorgerous (S1), Rebelghost (S2), Brodator (S2), DripGodDavid (S5), lexicuhl (S5), Livin423 (S7), LightingMC (S7)
 
-**43rd - Captureee (6):** DripGodDavid (S6), flameh (S6), Demomaker (S6), MercuryParadox (S6), Brodator (S6), ohh_lia (S6)
+**43rd - Captureee (6):** DripGodDavid (S6), flameh (S6), Demomaker (S6), MercuryParadox (S6), Brodator (S6), puppygirlmaple (S6)
 
 **43rd - flameh (6):** vynil (S12a), skyzfy (S12a), Ninetals38 (S12a), Gorgerous (S12a), PresidentFleb (S13), broccoliar (S13)
 
@@ -421,7 +421,7 @@
 
 **54th - Gleoss (4):** vynil (S13), Kaismartypants (S13), CipherKai (S13), AuroreIkuyo (S13)
 
-**54th - kabobaa (4):** ScaryPumpkinFace (S15), ohh_lia (S16), trashtro (S16), Ryfri (S16)
+**54th - kabobaa (4):** ScaryPumpkinFace (S15), puppygirlmaple (S16), trashtro (S16), Ryfri (S16)
 
 **54th - Kaddyn (4):** Broseph (S2), ItsMeAR10 (S5), Andronify (S5), Cloversss (S5)
 
@@ -443,7 +443,7 @@
 
 **71st - CommanderK22_ (3):** DripGodDavid (S15), boyyoo (S16), Dj8ninja (S16)
 
-**71st - ERHDude (3):** Fcrm (S3), stupidsylvia (S3), ohh_lia (S3)
+**71st - ERHDude (3):** Fcrm (S3), stupidsylvia (S3), puppygirlmaple (S3)
 
 **71st - fruitlogic (3):** PresidentFleb (S6), DJoee (S6), cherryblawsom (S6)
 
@@ -543,7 +543,7 @@
 
 **106th - ogrechugbo (1):** nsket (S14)
 
-**106th - ohh_lia (1):** Dj8ninja (S7)
+**106th - puppygirlmaple (1):** Dj8ninja (S7)
 
 **106th - Rebelghost (1):** PresidentFleb (S1)
 
@@ -566,7 +566,7 @@
 
 **Creeper (4):** ToontownOnline (S2), CHAINGE (S7), Charrlottie (S9), MajorWoof (S12b)
 
-**Lava (4):** Psykl0ne (S12a), nsket (S12a), Ninetals38 (S12b), ohh_lia (S12b)
+**Lava (4):** Psykl0ne (S12a), nsket (S12a), Ninetals38 (S12b), puppygirlmaple (S12b)
 
 **Explosion (1):** BardMain2 (S7)
 
@@ -593,7 +593,7 @@
 
 **9 Seasons (9):** _Dieter (S1,S3-S4,S7-S9,S11,S14-S15), Broseph (S1-S2,S10,S12a-S16), CodeJoshua (S1-S2,S8-S9,S12a-S13,S15-S16), Glarza (S1,S3,S5,S7,S9,S11-S12b,S14), Fra49 (S2-S4,S9,S11,S12b-S13,S15-S16), stupidsylvia (S3,S6-S11,S12b,S14), 4EyedSlime (S6,S8-S10,S12a-S13,S15-S16), dahii (S6,S8-S11,S12b-S13,S15-S16), CommanderK22_ (S8-S9,S11-S16)
 
-**8 Seasons (7):** Normoh (S1-S3,S6,S9-S11,S13), ohh_lia (S2-S3,S6-S7,S11,S12b-S13,S16), SpaceFenix (S3,S5,S7-S8,S10-S11,S12b,S15), Karliffu (S4-S6,S12a-S14,S16), Cloversss (S5-S8,S12a-S13,S15), SpyroJ (S7-S11,S12b-S13,S16), evuhlynx (S8,S10-S13,S15-S16)
+**8 Seasons (7):** Normoh (S1-S3,S6,S9-S11,S13), puppygirlmaple (S2-S3,S6-S7,S11,S12b-S13,S16), SpaceFenix (S3,S5,S7-S8,S10-S11,S12b,S15), Karliffu (S4-S6,S12a-S14,S16), Cloversss (S5-S8,S12a-S13,S15), SpyroJ (S7-S11,S12b-S13,S16), evuhlynx (S8,S10-S13,S15-S16)
 
 **7 Seasons (11):** Dj8ninja (S1,S3,S5,S7,S13,S15-S16), PresidentFleb (S1-S2,S5-S6,S12a-S13), Ryfri (S1-S2,S11-S12b,S15-S16), MercuryParadox (S4,S6-S8,S10-S11,S12b), vynil (S4,S7,S11-S12a,S13-S14,S16), acadiangel (S7-S10,S12a-S12b,S14), BoltsInCharge (S7-S11,S13-S14), DevoyTTV (S7,S9,S12a,S13-S16), Nuclearsugar (S7,S10,S12b-S16), SOAKLE (S8-S9,S11-S13,S15), skyzfy (S11-S16)
 
@@ -614,7 +614,7 @@
 
 **S1 (36):** _ChrisMS, _Dieter, aalaan, ArcticSeagull, Arich, AsianCheatCode, azoof, benidk, Brodator, Broseph, Charrlottie, CodeJoshua, Dj8ninja, DJoee, Drake132667596, Eluniel, Fcrm, Flcnt, Glarza, Gorgerous, HigmanFreud, JaqOnCraq, Jordtim, Kaismartypants, Kelawesome, Lucarrio, MaxEvasion, Normoh, PresidentFleb, Rebelghost, Ryfri, Sten_Stone, strategy, Stravilight, wizarde, zac083
 
-**S2 (21):** _carn, Aybel, BardMain2, CipherKai, Codwhy, ColdBac, DripGodDavid, Drkrai, Fra49, Kaddyn, lexicuhl, Lighte, natsuvi, ohh_lia, pigghetti, Psykl0ne, Randehh, swishduck, ThePeridotKnight, ToontownOnline, WackoFlipper
+**S2 (21):** _carn, Aybel, BardMain2, CipherKai, Codwhy, ColdBac, DripGodDavid, Drkrai, Fra49, Kaddyn, lexicuhl, Lighte, natsuvi, pigghetti, Psykl0ne, puppygirlmaple, Randehh, swishduck, ThePeridotKnight, ToontownOnline, WackoFlipper
 
 **S3 (12):** Alacan, Bobbytheturtle, CHAINGE, ERHDude, jommyappleseed, nsket, OnlyHalf, SpaceFenix, stupidsylvia, tagggz, xDiversity, zCent
 

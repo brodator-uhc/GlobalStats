@@ -187,13 +187,13 @@
 ---
 ### Kills
 
-**1st - Austronomical (30):** lexicuhl (S2), Jayzize (S2), WillBrisk (S3), TheSonicJoey (S3), TalonBX (S3), Potsie (S3), MajorWoof (S3), oDogLFC (S3), Flouzemaker (S3), lexicuhl (S3), DrJamezz (S4), TalonBX (S4), Cyonal (S4), jommyappleseed (S4), chloesad (S4), Jayzize (S4), Maxwellfifty (S5), 78ford (S5), Flouzemaker (S5), TGMB1 (S5), TheKevGuy (S6), AmbientDan (S6), TheKevGuy (S7), Broseph (S7), illuminaja (S7), ColdBac (S8), Psykl0ne (S8), wibbol (S10), BSBrent (S10), tilargo (S10)
+**1st - Austronomical (30):** lexicuhl (S2), Jayzize (S2), WillBrisk (S3), TheSonicJoey (S3), TalonBX (S3), Potsie (S3), MajorWoof (S3), oDogLFC (S3), Flouzemaker (S3), lexicuhl (S3), DrJamezz (S4), TalonBX (S4), Cyonal (S4), jommyappleseed (S4), chloesad (S4), Jayzize (S4), Maxwellfifty (S5), 78ford (S5), Flouzemaker (S5), TGMB1 (S5), TheKevJawn (S6), AmbientDan (S6), TheKevJawn (S7), Broseph (S7), illuminaja (S7), ColdBac (S8), Psykl0ne (S8), wibbol (S10), BSBrent (S10), tilargo (S10)
 
 **2nd - Maxwellfifty (15):** ShyGus (S5), Daffz (S5), QuilJ1 (S6), TheSonicJoey (S6), ColdBac (S6), DrJamezz (S6), Cyonal (S6), warriorcat (S7), Austronomical (S7), buttergolem1 (S7), commitstaxfraud (S8), vynil (S8), 78ford (S8), JmcLFA (S8), buttergolem1 (S8)
 
 **3rd - ShyGus (12):** SiahStone (S4), Cyonal (S5), Broseph (S6), jommyappleseed (S6), 78ford (S6), JmcLFA (S6), Psykl0ne (S7), BSBrent (S8), jommyappleseed (S9), YellowVitt (S9), ElGavinoSupremo (S9), ElGavinoSupremo (S10)
 
-**4th - vynil (11):** Austronomical (S8), Sluggyg (S9), wibbol (S9), lexicuhl (S9), JoshC2 (S9), TheKevGuy (S10), Kaismartypants (S10), Daffz (S10), Fensua (S10), Canman (S10), illuminaja (S10)
+**4th - vynil (11):** Austronomical (S8), Sluggyg (S9), wibbol (S9), lexicuhl (S9), JoshC2 (S9), TheKevJawn (S10), Kaismartypants (S10), Daffz (S10), Fensua (S10), Canman (S10), illuminaja (S10)
 
 **5th - Chasmic (10):** Kaismartypants (S7), Flouzemaker (S7), JmcLFA (S7), Jayzize (S7), Vawqer (S8), Fensua (S8), Sluggyg (S8), Microus (S9), Jayzize (S9), MajorWoof (S10)
 
@@ -237,7 +237,7 @@
 
 **24th - Canman (3):** Pelycosaur (S10), chloesad (S10), buttergolem1 (S10)
 
-**24th - Daffz (3):** TheKevGuy (S5), buttergolem1 (S5), Potsie (S5)
+**24th - Daffz (3):** TheKevJawn (S5), buttergolem1 (S5), Potsie (S5)
 
 **24th - Emerric (3):** ShyGus (S9), GeeSam (S10), Jayzize (S10)
 
@@ -263,7 +263,7 @@
 
 **31st - Regifloat (2):** LordLaelaps (S1), SiahStone (S1)
 
-**31st - TheKevGuy (2):** frogsella (S5), Canman (S6)
+**31st - TheKevJawn (2):** frogsella (S5), Canman (S6)
 
 **31st - Wilsonkong (2):** _mrcool (S1), AmbientDan (S1)
 
@@ -329,7 +329,7 @@
 
 **5 Seasons (9):** Lucityy (S1-S5), WillBrisk (S1-S3,S6,S10), warriorcat (S2,S7-S10), TheSonicJoey (S3,S6-S8,S10), Fensua (S5-S8,S10), Maxwellfifty (S5-S8,S10), vynil (S5-S6,S8-S10), Chasmic (S6-S10), Psykl0ne (S6-S10)
 
-**4 Seasons (7):** commitstaxfraud (S4,S6,S8,S10), frogsella (S4-S6,S10), JmcLFA (S5-S8), JoshC2 (S5-S7,S9), Microus (S5-S6,S9-S10), TheKevGuy (S5-S7,S10), Kaismartypants (S7-S10)
+**4 Seasons (7):** commitstaxfraud (S4,S6,S8,S10), frogsella (S4-S6,S10), JmcLFA (S5-S8), JoshC2 (S5-S7,S9), Microus (S5-S6,S9-S10), TheKevJawn (S5-S7,S10), Kaismartypants (S7-S10)
 
 **3 Seasons (10):** Chipzzy (S1-S3), GeeSam (S2,S9-S10), Pehnk (S2-S3,S9), Cyonal (S4-S6), jommyappleseed (S4,S6,S9), Daffz (S5,S9-S10), ColdBac (S6,S8,S10), illuminaja (S7,S9-S10), BSBrent (S8-S10), wibbol (S8-S10)
 
@@ -348,7 +348,7 @@
 
 **S4 (7):** commitstaxfraud, Cyonal, frogsella, jommyappleseed, QuilJ1, RwDragon, ShyGus
 
-**S5 (11):** Daffz, Fensua, JmcLFA, JoshC2, Maxwellfifty, Microus, MistaUnicorn, MrCanada, TheKevGuy, TommySuX, vynil
+**S5 (11):** Daffz, Fensua, JmcLFA, JoshC2, Maxwellfifty, Microus, MistaUnicorn, MrCanada, TheKevJawn, TommySuX, vynil
 
 **S6 (4):** Canman, Chasmic, ColdBac, Psykl0ne
 

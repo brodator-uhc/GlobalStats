@@ -43,7 +43,7 @@
 ---
 ### Kills
 
-**1st - Brokean_ (4):** TitoForever_xD (S1), ItsWinttr (S1), TinchoPlay (S1), MarkiLokuras (S1)
+**1st - Brokean_ (4):** TitoForever (S1), ItsWinttr (S1), TinchoPlay (S1), MarkiLokuras (S1)
 
 **2nd - eliazOne (3):** BlancoLive (S1), WestCOL (S1), NewMati (S1)
 
@@ -57,7 +57,7 @@
 
 **6th - TinchoPlay (1):** santidead (S1)
 
-**6th - TitoForever_xD (1):** ZMCNikolai (S1)
+**6th - TitoForever (1):** ZMCNikolai (S1)
 
 **6th - WestCOL (1):** Hasvik (S1)
 
@@ -66,7 +66,7 @@
 ---
 ### PvE Deaths
 
-**Drowning (1):** Sundayi (S1)
+**Drowning (1):** Sundai (S1)
 
 **Fall (1):** TON11 (S1)
 
@@ -75,11 +75,11 @@
 ---
 ### Participation
 
-**1 Season (24):** BlancoLive (S1), Brokean_ (S1), DivineXevion (S1), eliazOne (S1), HalfDumb (S1), Hasvik (S1), ItsWinttr (S1), jdegoederen (S1), MarkiLokuras (S1), MisterBenjaHD (S1), Mqnu (S1), NewMati (S1), reb_hi (S1), santidead (S1), Strykerss (S1), SuchNuclear_ (S1), Sundayi (S1), TinchoPlay (S1), TitoForever_xD (S1), TON11 (S1), uhcmyth (S1), WestCOL (S1), xArmando (S1), ZMCNikolai (S1)
+**1 Season (24):** BlancoLive (S1), Brokean_ (S1), DivineXevion (S1), eliazOne (S1), HalfDumb (S1), Hasvik (S1), ItsWinttr (S1), jdegoederen (S1), MarkiLokuras (S1), MisterBenjaHD (S1), Mqnu (S1), NewMati (S1), reb_hi (S1), santidead (S1), Strykerss (S1), SuchNuclear_ (S1), Sundai (S1), TinchoPlay (S1), TitoForever (S1), TON11 (S1), uhcmyth (S1), WestCOL (S1), xArmando (S1), ZMCNikolai (S1)
 
 ---
 ### Debutants
 
-**S1 (24):** BlancoLive, Brokean_, DivineXevion, eliazOne, HalfDumb, Hasvik, ItsWinttr, jdegoederen, MarkiLokuras, MisterBenjaHD, Mqnu, NewMati, reb_hi, santidead, Strykerss, SuchNuclear_, Sundayi, TinchoPlay, TitoForever_xD, TON11, uhcmyth, WestCOL, xArmando, ZMCNikolai
+**S1 (24):** BlancoLive, Brokean_, DivineXevion, eliazOne, HalfDumb, Hasvik, ItsWinttr, jdegoederen, MarkiLokuras, MisterBenjaHD, Mqnu, NewMati, reb_hi, santidead, Strykerss, SuchNuclear_, Sundai, TinchoPlay, TitoForever, TON11, uhcmyth, WestCOL, xArmando, ZMCNikolai
 
 ---

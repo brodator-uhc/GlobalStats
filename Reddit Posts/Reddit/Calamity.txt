@@ -617,7 +617,7 @@
 
 **6th - Kaismartypants (24):** emi1iano (S8), Zebobo10 (S10), Flqmey (S10), Rohcket (S10), JaqOnCraq (S12), TehBaconBrawlerZ (S16), Glarza (S19), Mr_Litty (S26), stupidsylvia (S27), lasdarling (S28), OddishThoughts (S29), qFern (S33), Flohp (S33), egl_ (S34), CHAINGE (S34), dsjaks (S34), goompah (S34), Cheetah_16 (S34), Randehh (S34), ScaryPumpkinFace (S36), CAMKART100 (S36), lasdarling (S36), Glarza (S36), bayweafs (S36)
 
-**8th - sr8611 (23):** natsuvi (S2), ItsShqky (S3), Sivocho (S6), DarkityDark (S6), djavon (S6), MoonOreos (S6), natsuvi (S7), BreakfastBacon (S7), fosillyhuman (S8), commitstaxfraud (S8), ShyGus (S9), commitstaxfraud (S9), Kaismartypants (S22), Blarkslol (S22), Fra49 (S22), Glarza (S22), SterlingOwell (S22), lazys (S23), Cqson (S23), CHAINGE (S25), Grunge_daddi3 (S27), LlamaBoss373 (S31), Jewelified (S31)
+**8th - sr8611 (23):** natsuvi (S2), ItsShqky (S3), Sivocho (S6), DarkityDark (S6), djavon (S6), MoonOreos (S6), natsuvi (S7), BreakfastBacon (S7), SpringOpaline (S8), commitstaxfraud (S8), ShyGus (S9), commitstaxfraud (S9), Kaismartypants (S22), Blarkslol (S22), Fra49 (S22), Glarza (S22), SterlingOwell (S22), lazys (S23), Cqson (S23), CHAINGE (S25), Grunge_daddi3 (S27), LlamaBoss373 (S31), Jewelified (S31)
 
 **9th - MaxEvasion (22):** Cqson (S8), Suleiman_II (S8), ghost_ttv (S9), Blarkslol (S9), ChinDog (S11), ghost_ttv (S11), Plushy33 (S11), SiahStone (S11), Codwhy (S11), David63 (S12), emi1iano (S12), AdonisGaming (S13), kirbey (S14), ItsShqky (S15), silent_spriicket (S15), Gorgerous (S18), Jahrod (S20), Fra49 (S20), Rogue_Batman (S20), ZebraPantz (S20), Gorgerous (S21), ZebraPantz (S21)
 
@@ -991,7 +991,7 @@
 
 **2 Seasons (33):** Mace33 (S2,S8), advy (S4,S10), DarkityDark (S4,S6), W3de (S4,S23), Fourbitplayer (S5,S9), IHeartMushrooms (S5,S7), Kolportiroas (S5,S20), MainAgate5 (S6-S7), Mcjess30 (S6-S7), Rougero (S6,S8), TayUHC (S6,S10), Bulbexe (S7,S10), Dinochord (S7-S8), kaitlyn16_ (S7-S8), Espik (S9,S30), Vetmire (S9-S10), Yveltql (S10,S12), hazel_doe (S12-S13), GraceC2_ (S16,S30), jommyappleseed (S17-S18), SoupestGlobe (S18,S21), centraleric (S20-S21), lexicuhl (S20-S21), TalonBX (S20-S21), Nalgo (S22,S33), pufferfish_lite (S22,S25), Hrray (S23-S24), CrashDummy420 (S25,S27), cherryblawsom (S26,S30), Grunge_daddi3 (S26-S27), 8sk8 (S30,S32), SnowyTurnip (S30,S32), Duke_of_Seattle (S32,S35)
 
-**1 Season (44):** DakotaB15 (S3), CynicalCor (S4), BOR1S (S5), djavon (S6), OceanManV2 (S6), fosillyhuman (S8), SALPOL (S9), Pelycosaur (S10), PenguinBagels (S10), Sluggyg (S12), LoafOZ (S14), strategy (S14), Austronomical (S15), Dawncy (S16), Klickacat (S22), SterlingOwell (S22), lazys (S23), EdgarGroundnut23 (S24), bensacche (S26), 5ARx (S28), mysistersbrother (S28), zoeywithawhy (S29), biigboi (S30), BraydenB11 (S30), Eisber64 (S30), linnyflower (S30), morlnsk (S30), SKURTL3 (S30), Snoae (S30), Aprillious (S31), _Kreddit_ (S32), aNameless (S34), Koppitent (S34), MrkyMoo22 (S34), Hyperdrone56 (S35), MrHook1010101010 (S35), omghaha (S35), Swaggereggy (S35), Verdical (S35), BoltsInCharge (S36), CAMKART100 (S36), K0REDRAG0N (S36), Lucarrio (S36), SAYNAR (S36)
+**1 Season (44):** DakotaB15 (S3), CynicalCor (S4), BOR1S (S5), djavon (S6), OceanManV2 (S6), SpringOpaline (S8), SALPOL (S9), Pelycosaur (S10), PenguinBagels (S10), Sluggyg (S12), LoafOZ (S14), strategy (S14), Austronomical (S15), Dawncy (S16), Klickacat (S22), SterlingOwell (S22), lazys (S23), EdgarGroundnut23 (S24), bensacche (S26), 5ARx (S28), mysistersbrother (S28), zoeywithawhy (S29), biigboi (S30), BraydenB11 (S30), Eisber64 (S30), linnyflower (S30), morlnsk (S30), SKURTL3 (S30), Snoae (S30), Aprillious (S31), _Kreddit_ (S32), aNameless (S34), Koppitent (S34), MrkyMoo22 (S34), Hyperdrone56 (S35), MrHook1010101010 (S35), omghaha (S35), Swaggereggy (S35), Verdical (S35), BoltsInCharge (S36), CAMKART100 (S36), K0REDRAG0N (S36), Lucarrio (S36), SAYNAR (S36)
 
 ---
 ### Debutants
@@ -1010,7 +1010,7 @@
 
 **S7 (5):** Broseph, Bulbexe, Dinochord, kaitlyn16_, SoggyHotdogMaker
 
-**S8 (3):** fosillyhuman, Hxmmy, MaxEvasion
+**S8 (3):** Hxmmy, MaxEvasion, SpringOpaline
 
 **S9 (13):** Blarkslol, Brodator, Codwhy, Espik, Ghosteyy, Jewelified, Karasu994, PresidentFleb, Rohcket, SALPOL, ShyGus, Vetmire, WackoFlipper
 

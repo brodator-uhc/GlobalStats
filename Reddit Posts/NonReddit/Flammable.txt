@@ -113,7 +113,7 @@
 
 **3rd - brinkwhy (6):** kirbey (S4), GeniRCT (S4), HeroGolem5 (S4), Zcin (S4), Pelycosaur (S4), ItsShqky (S4)
 
-**3rd - Dreamfall (6):** Caydone (S1), Blarkslol (S1), ItsShqky (S2), Hendysaurus (S2), broccoliar (S4), KineticYT (S4)
+**3rd - Dreamfall (6):** Caydone (S1), Blarkslol (S1), ItsShqky (S2), hendy53 (S2), broccoliar (S4), KineticYT (S4)
 
 **5th - Captinn (5):** brinkwhy (S4), Blarkslol (S4), Kaddyn (S5), Zcin (S5), Blarkslol (S5)
 
@@ -177,14 +177,14 @@
 
 **2 Seasons (10):** brinkwhy (S1,S4), Senkhi (S1,S3), egl_ (S2-S3), _Txchno_ (S3-S4), MichaelPlayMC (S3,S5), violetwoah (S3-S4), _1mmortal_ (S4-S5), Captinn (S4-S5), TayUHC (S4-S5), Zcin (S4-S5)
 
-**1 Season (23):** Caydone (S1), Delighted2MeetU (S1), PresidentFleb (S1), Tigsz (S1), Dcrpy (S2), Hendysaurus (S2), Karliffu (S2), Krbreb (S3), loyaltea (S3), MineKG (S3), MrSurvivalist (S3), Vetmire (S3), _Fost_ (S4), GeniRCT (S4), HeroGolem5 (S4), KineticYT (S4), kirbey (S4), Kyi (S4), CodeJoshua (S5), emi1iano (S5), ItzIgglesPiggles (S5), Julse (S5), Kaddyn (S5)
+**1 Season (23):** Caydone (S1), Delighted2MeetU (S1), PresidentFleb (S1), Tigsz (S1), Dcrpy (S2), hendy53 (S2), Karliffu (S2), Krbreb (S3), loyaltea (S3), MineKG (S3), MrSurvivalist (S3), Vetmire (S3), _Fost_ (S4), GeniRCT (S4), HeroGolem5 (S4), KineticYT (S4), kirbey (S4), Kyi (S4), CodeJoshua (S5), emi1iano (S5), ItzIgglesPiggles (S5), Julse (S5), Kaddyn (S5)
 
 ---
 ### Debutants
 
 **S1 (15):** ArcticSeagull, Blarkslol, Bofishkix, brinkwhy, Caydone, Cubic44, Delighted2MeetU, Dreamfall, Evzenitable, Glarza, NickPlaysGames15, Pelycosaur, PresidentFleb, Senkhi, Tigsz
 
-**S2 (6):** Dcrpy, egl_, Hendysaurus, ItsShqky, Karliffu, Retrofied
+**S2 (6):** Dcrpy, egl_, hendy53, ItsShqky, Karliffu, Retrofied
 
 **S3 (10):** _Txchno_, broccoliar, Krbreb, loyaltea, MichaelPlayMC, MineKG, MrSurvivalist, Rebelghost, Vetmire, violetwoah
 

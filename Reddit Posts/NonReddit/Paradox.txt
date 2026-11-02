@@ -46,7 +46,7 @@
 
 **S2:** EmnossGoalz (0), FlawlessAerial (1), ImYolo_ (0), xCold (1)
 
-**S3:** strategy (0), TwistedGoose (0)
+**S3:** shrekisgoat (0), strategy (0)
 
 **S4:** PotteryTNT (2)
 
@@ -66,7 +66,7 @@
 
 **S12:** ADinoPlayingMC (2)
 
-**S13:** Dredex (2), Glarza (2), Hendysaurus (2)
+**S13:** Dredex (2), Glarza (2), hendy53 (2)
 
 **S14:** ArcticSeagull (0), Nyxana (3), TayUHC (0), Zcin (2)
 
@@ -144,7 +144,7 @@
 
 **S12:** N/A
 
-**S13:** Dredex (2), Glarza (2), Hendysaurus (2)
+**S13:** Dredex (2), Glarza (2), hendy53 (2)
 
 **S14:** Dawncy (0), Rebelghost (0), _Dieter (0), Vetmire (8)
 
@@ -383,7 +383,7 @@
 
 **31st - Bulbexe (3):** Bofishkix (S16), Bohe (S16), kirbey (S16)
 
-**31st - cchloe (3):** _Fost_ (S13), Glarza (S13), Hendysaurus (S13)
+**31st - cchloe (3):** _Fost_ (S13), Glarza (S13), hendy53 (S13)
 
 **31st - DeadlyFoxx (3):** Cellcia (S3), AgentNick1440 (S3), ItsShqky (S4)
 
@@ -415,7 +415,7 @@
 
 **31st - Rebelghost (3):** Nyxana (S12), brinniex (S18), MichaelPlayMC (S18)
 
-**31st - Sneaky26 (3):** strategy (S3), NykoUzumaki (S3), TwistedGoose (S3)
+**31st - Sneaky26 (3):** strategy (S3), NykoUzumaki (S3), shrekisgoat (S3)
 
 **31st - whalelike (3):** ItsShqky (S6), Blarkslol (S6), Cosmico (S6)
 
@@ -439,7 +439,7 @@
 
 **54th - Flcnt (2):** Blarkslol (S17), St0rmplayz (S17)
 
-**54th - Hendysaurus (2):** Frisky_Savage (S13), egl_ (S13)
+**54th - hendy53 (2):** Frisky_Savage (S13), egl_ (S13)
 
 **54th - JaqOnCraq (2):** broccoliar (S18), Rebelghost (S18)
 
@@ -524,7 +524,7 @@
 
 **Ender Dragon (2):** DevoyTTV (S10), Stravilight (S10)
 
-**Skeleton (2):** HigmanFreud (S3), Hendysaurus (S14)
+**Skeleton (2):** HigmanFreud (S3), hendy53 (S14)
 
 **Anvil (1):** Dawncy (S15)
 
@@ -571,9 +571,9 @@
 
 **3 Seasons (15):** AyeeSammy (S1-S2,S4), ImChile (S1,S5,S15), ElioGeoFreeze32 (S6,S9-S10), SlicedOranges (S7,S9,S18), JaqOnCraq (S8-S9,S18), Jwillnot (S8-S10), Onozo (S8-S9,S11), Retrofied (S8,S14-S15), Dargxn (S10-S12), Dredex (S10,S12-S13), Zcin (S14-S16), Captinn (S15-S17), GeniRCT (S15-S17), PwincessVanessa (S15-S16,S18), Flcnt (S16-S18)
 
-**2 Seasons (35):** BaconIV (S1-S2), EmnossGoalz (S1-S2), stupidsylvia (S1,S15), FlawlessAerial (S2,S15), AmericanBanter (S3-S4), DeadlyFoxx (S3-S4), Frisky_Savage (S3,S13), NykoUzumaki (S3,S17), BreakfastBacon (S6,S15), Cosmico (S6,S8), jemjosh (S7-S8), LATlA (S7,S18), natsuvi (S7-S8), Zemi__ (S7-S8), alexnv (S8-S9), Dragon1ce (S8-S9), Karliffu (S8-S9), The_Guardian_Tim (S8,S15), UbiquityHD (S9-S10), _Dieter (S11,S14), softpinks (S11-S12), egl_ (S12-S13), Glarza (S12-S13), Hendysaurus (S13-S14), CHAINGE (S14-S15), coldified (S15-S16), Erdql (S15,S17), Fxther (S15,S17), ItzIgglesPiggles (S15-S16), St0rmplayz (S15,S17), emi1iano (S16-S17), Julse (S16,S18), MangoPlayz (S16,S18), Charrlottie (S17-S18), TehBaconBrawlerZ (S17-S18)
+**2 Seasons (35):** BaconIV (S1-S2), EmnossGoalz (S1-S2), stupidsylvia (S1,S15), FlawlessAerial (S2,S15), AmericanBanter (S3-S4), DeadlyFoxx (S3-S4), Frisky_Savage (S3,S13), NykoUzumaki (S3,S17), BreakfastBacon (S6,S15), Cosmico (S6,S8), jemjosh (S7-S8), LATlA (S7,S18), natsuvi (S7-S8), Zemi__ (S7-S8), alexnv (S8-S9), Dragon1ce (S8-S9), Karliffu (S8-S9), The_Guardian_Tim (S8,S15), UbiquityHD (S9-S10), _Dieter (S11,S14), softpinks (S11-S12), egl_ (S12-S13), Glarza (S12-S13), hendy53 (S13-S14), CHAINGE (S14-S15), coldified (S15-S16), Erdql (S15,S17), Fxther (S15,S17), ItzIgglesPiggles (S15-S16), St0rmplayz (S15,S17), emi1iano (S16-S17), Julse (S16,S18), MangoPlayz (S16,S18), Charrlottie (S17-S18), TehBaconBrawlerZ (S17-S18)
 
-**1 Season (89):** AustynUHC (S1), DarkType_ (S1), DiarWolfe (S1), dontbow (S1), Dorsi (S1), drewxd (S1), FalseMoon (S1), Heddit (S1), ItsMarine (S1), Nykonax (S1), OkayEvan (S1), Platys (S1), Strobez (S1), ThisIsHab (S1), xSemiCollin (S1), Zoroh (S1), CrimsonTyler (S2), HDOP (S2), HeyImAqua (S2), ImYolo_ (S2), MemeClient (S2), Sc1z (S2), xCold (S2), 4EyedSlime (S3), AgentNick1440 (S3), BlackPants (S3), Cellcia (S3), HigmanFreud (S3), Sneaky26 (S3), strategy (S3), TwistedGoose (S3), Adirton (S4), itsBearie (S4), OoftAlex (S4), Perzano (S4), 1XD (S5), Fractable (S5), Jorgeeay (S5), NicholasCYA (S5), Dymes (S6), whalelike (S6), Kaizain (S7), Crilex (S8), jsr_ (S8), Quidify (S8), TacoDab (S8), TorinFBF (S8), AiroKun (S9), BoltsInCharge (S9), ghostblurr (S9), MKnight (S9), RiseGR (S9), solnyki (S9), TrueFour (S9), Zyaf (S9), DaddyFireball (S10), KineticYT (S10), PatTheBecky (S10), PresidentFleb (S10), xUzumaki (S10), YellowSkarmory (S10), AlkuranZak (S11), Aquatn (S11), Caydone (S11), Delighted2MeetU (S11), PotaTomas (S12), Baeleb (S13), cchloe (S13), JamestheDouglas (S13), Psykl0ne (S13), Wispah (S13), SiahStone (S14), Djmandude (S15), Macroo_Wave (S15), Bulbexe (S16), kirbey (S16), nFang (S16), xDiversity (S17), _1mmortal_ (S18), brinniex (S18), Cinnamiinii (S18), CloseYourLegs (S18), Codwhy (S18), Isaiah_Gregory (S18), Jaceon02 (S18), Kaddyn (S18), MaxEvasion (S18), T1mT0m (S18), ToeKun (S18)
+**1 Season (89):** AustynUHC (S1), DarkType_ (S1), DiarWolfe (S1), dontbow (S1), Dorsi (S1), drewxd (S1), FalseMoon (S1), Heddit (S1), ItsMarine (S1), Nykonax (S1), OkayEvan (S1), Platys (S1), Strobez (S1), ThisIsHab (S1), xSemiCollin (S1), Zoroh (S1), CrimsonTyler (S2), HDOP (S2), HeyImAqua (S2), ImYolo_ (S2), MemeClient (S2), Sc1z (S2), xCold (S2), 4EyedSlime (S3), AgentNick1440 (S3), BlackPants (S3), Cellcia (S3), HigmanFreud (S3), shrekisgoat (S3), Sneaky26 (S3), strategy (S3), Adirton (S4), itsBearie (S4), OoftAlex (S4), Perzano (S4), 1XD (S5), Fractable (S5), Jorgeeay (S5), NicholasCYA (S5), Dymes (S6), whalelike (S6), Kaizain (S7), Crilex (S8), jsr_ (S8), Quidify (S8), TacoDab (S8), TorinFBF (S8), AiroKun (S9), BoltsInCharge (S9), ghostblurr (S9), MKnight (S9), RiseGR (S9), solnyki (S9), TrueFour (S9), Zyaf (S9), DaddyFireball (S10), KineticYT (S10), PatTheBecky (S10), PresidentFleb (S10), xUzumaki (S10), YellowSkarmory (S10), AlkuranZak (S11), Aquatn (S11), Caydone (S11), Delighted2MeetU (S11), PotaTomas (S12), Baeleb (S13), cchloe (S13), JamestheDouglas (S13), Psykl0ne (S13), Wispah (S13), SiahStone (S14), Djmandude (S15), Macroo_Wave (S15), Bulbexe (S16), kirbey (S16), nFang (S16), xDiversity (S17), _1mmortal_ (S18), brinniex (S18), Cinnamiinii (S18), CloseYourLegs (S18), Codwhy (S18), Isaiah_Gregory (S18), Jaceon02 (S18), Kaddyn (S18), MaxEvasion (S18), T1mT0m (S18), ToeKun (S18)
 
 ---
 ### Debutants
@@ -582,7 +582,7 @@
 
 **S2 (8):** CrimsonTyler, FlawlessAerial, HDOP, HeyImAqua, ImYolo_, MemeClient, Sc1z, xCold
 
-**S3 (15):** 4EyedSlime, AgentNick1440, AmericanBanter, BlackPants, Cellcia, Crafters, DakotaB15, DeadlyFoxx, Frisky_Savage, Greatwarrior_, HigmanFreud, NykoUzumaki, Sneaky26, strategy, TwistedGoose
+**S3 (15):** 4EyedSlime, AgentNick1440, AmericanBanter, BlackPants, Cellcia, Crafters, DakotaB15, DeadlyFoxx, Frisky_Savage, Greatwarrior_, HigmanFreud, NykoUzumaki, shrekisgoat, Sneaky26, strategy
 
 **S4 (9):** Adirton, Bohe, CodeJoshua, itsBearie, nohyperr, OoftAlex, Perzano, Plushy33, TheLuckyAsian
 
@@ -602,7 +602,7 @@
 
 **S12 (4):** egl_, Glarza, MichaelPlayMC, PotaTomas
 
-**S13 (8):** _Fost_, Baeleb, broccoliar, cchloe, Hendysaurus, JamestheDouglas, Psykl0ne, Wispah
+**S13 (8):** _Fost_, Baeleb, broccoliar, cchloe, hendy53, JamestheDouglas, Psykl0ne, Wispah
 
 **S14 (4):** CHAINGE, SiahStone, Vetmire, Zcin
 

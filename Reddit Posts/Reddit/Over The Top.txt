@@ -11,7 +11,7 @@
 
 **S4: PoofessorP (3)**, *Bornyo (1), SmoothieGod (0)*
 
-**S5: Ahzora (2), centraleric (3), IceshardEleven (1), PauloSSB (7)**
+**S5: ahzora (2), centraleric (3), IceshardEleven (1), PauloSSB (7)**
 
 **S6: Anorable (0), EyeBlack (0), Kaismartypants (0)**, *Pwep (0)*
 
@@ -60,7 +60,7 @@
 ---
 ### Most Kills (Team)
 
-**S1:** Broseph (0), DrJamezz (2), IzunaLoli (2), SiahStone (0)
+**S1:** Broseph (0), DrJamezz (2), IzunE_ (2), SiahStone (0)
 
 **S2:** ItsNickb (7), Professer_TNT (1)
 
@@ -68,7 +68,7 @@
 
 **S4:** Broseph (1), Professer_TNT (0), Zakkeagle (5)
 
-**S5:** Ahzora (2), PauloSSB (7), centraleric (3), IceshardEleven (1)
+**S5:** ahzora (2), PauloSSB (7), centraleric (3), IceshardEleven (1)
 
 **S6:** Broseph (0), PokeCraft4615 (0), Zakkeagle (4), brinkwhy (2)
 
@@ -161,11 +161,11 @@
 
 **3rd - ItsNickb (7):** Mincrooft (S2), Bornyo (S2), PauloSSB (S2), Spongey (S2), SiahStone (S2), Kaismartypants (S2), IceshardEleven (S2)
 
-**3rd - PauloSSB (7):** AmbientDan (S5), Wolfaye (S5), Fleeky (S5), Dj8ninja (S5), EyeBlack (S5), Broseph (S5), ConBeanJones (S5)
+**3rd - PauloSSB (7):** AmbientDan (S5), Wolfaye (S5), Jasur80 (S5), Dj8ninja (S5), EyeBlack (S5), Broseph (S5), ConBeanJones (S5)
 
 **5th - centraleric (6):** ConBeanJones (S2), 319phoenix (S2), CapSTVN (S2), Sassybunion (S5), PokeCraft4615 (S5), SiahStone (S5)
 
-**5th - GoldenNs (6):** IzunaLoli (S3), Professer_TNT (S3), WillBrisk (S3), Coward (S3), Spongey (S3), TheRealHagrid (S3)
+**5th - GoldenNs (6):** IzunE_ (S3), Professer_TNT (S3), WillBrisk (S3), Coward (S3), Spongey (S3), TheRealHagrid (S3)
 
 **5th - MajorWoof (6):** Keelando (S8), Canman (S8), xMisha (S8), SpaceFenix (S8), commitstaxfraud (S8), Kaismartypants (S8)
 
@@ -175,7 +175,7 @@
 
 **9th - Bornyo (5):** Broseph (S3), Kaismartypants (S3), Coward (S4), Krimm (S8), 343Kento (S8)
 
-**9th - Coward (5):** Mincrooft (S3), Pwep (S4), BardMain2 (S4), Ahzora (S4), PokeCraft4615 (S6)
+**9th - Coward (5):** Mincrooft (S3), Pwep (S4), BardMain2 (S4), ahzora (S4), PokeCraft4615 (S6)
 
 **9th - Kaismartypants (5):** Dj8ninja (S1), centraleric (S1), GoldenNs (S3), Bornyo (S4), Professer_TNT (S8)
 
@@ -187,7 +187,7 @@
 
 **14th - ERHDude (4):** Zakkeagle (S7), aalaan (S7), Anorable (S7), Eroe (S8)
 
-**14th - IzunaLoli (4):** Bornyo (S1), GoldenNs (S1), YaojaDzn (S3), Dj8ninja (S3)
+**14th - IzunE_ (4):** Bornyo (S1), GoldenNs (S1), YaojaDzn (S3), Dj8ninja (S3)
 
 **14th - PoofessorP (4):** Kaismartypants (S4), Sassybunion (S4), 319phoenix (S4), aalaan (S5)
 
@@ -199,7 +199,7 @@
 
 **19th - WillBrisk (3):** Zakkeagle (S4), MrLazeo101 (S4), Mincrooft (S5)
 
-**23rd - Ahzora (2):** PoofessorP (S5), WillBrisk (S5)
+**23rd - ahzora (2):** PoofessorP (S5), WillBrisk (S5)
 
 **23rd - automavic (2):** Broseph (S1), SiahStone (S1)
 
@@ -209,7 +209,7 @@
 
 **23rd - commitstaxfraud (2):** Kaismartypants (S5), Topspinpiggles (S5)
 
-**23rd - DrJamezz (2):** IzunaLoli (S1), ChristinaAnne (S1)
+**23rd - DrJamezz (2):** IzunE_ (S1), ChristinaAnne (S1)
 
 **23rd - FrostBros (2):** aalaan (S8), Zakkeagle (S8)
 
@@ -237,9 +237,9 @@
 
 **36th - Dj8ninja (1):** Krimm (S6)
 
-**36th - Fleeky (1):** InsertDotJpeg (S7)
-
 **36th - frogsella (1):** Sluggyg (S5)
+
+**36th - Jasur80 (1):** InsertDotJpeg (S7)
 
 **36th - Keelando (1):** PokeCraft4615 (S8)
 
@@ -251,7 +251,7 @@
 
 **36th - Ryfri (1):** SiahStone (S8)
 
-**36th - SmolHatChild (1):** Fleeky (S7)
+**36th - SmolHatChild (1):** Jasur80 (S7)
 
 **36th - SpaceFenix (1):** ElGavinoSupremo (S8)
 
@@ -301,22 +301,22 @@
 
 **3 Seasons (15):** Bandias (S1,S5,S8), 319phoenix (S2-S4), CapSTVN (S2,S4-S5), Mincrooft (S2-S3,S5), PauloSSB (S2,S4-S5), commitstaxfraud (S3,S5,S8), Coward (S3-S4,S6), PoofessorP (S3-S5), TheRealHagrid (S3-S5), BardMain2 (S4,S6,S8), Pwep (S4-S6), Flouzemaker (S5,S7-S8), PokeCraft4615 (S5-S6,S8), xMisha (S5,S7-S8), Anorable (S6-S8)
 
-**2 Seasons (14):** GoldenNs (S1,S3), IzunaLoli (S1,S3), Andyboyonalert (S2,S5), Topspinpiggles (S2,S5), 78ford (S4,S8), Ahzora (S4-S5), Sassybunion (S4-S5), Fleeky (S5,S7), Mop19 (S5,S8), 343Kento (S6,S8), Keelando (S6,S8), Bofishkix (S7-S8), ERHDude (S7-S8), SpaceFenix (S7-S8)
+**2 Seasons (14):** GoldenNs (S1,S3), IzunE_ (S1,S3), Andyboyonalert (S2,S5), Topspinpiggles (S2,S5), 78ford (S4,S8), ahzora (S4-S5), Sassybunion (S4-S5), Jasur80 (S5,S7), Mop19 (S5,S8), 343Kento (S6,S8), Keelando (S6,S8), Bofishkix (S7-S8), ERHDude (S7-S8), SpaceFenix (S7-S8)
 
 **1 Season (39):** automavic (S1), ChristinaAnne (S1), DrJamezz (S1), iQuick_ (S1), PikaCreeper (S1), BrokenPic (S2), ItsNickb (S2), Andrew512 (S3), YaojaDzn (S3), MercuryParadox (S4), MrLazeo101 (S4), SmoothieGod (S4), AmbientDan (S5), Bradzi (S5), frogsella (S5), guugs (S5), Regifloat (S5), TommySuX (S5), Wolfaye (S5), brinkwhy (S6), Harryb2k (S7), Prisma (S7), SmolHatChild (S7), Canman (S8), CHAINGE (S8), Chipzzy (S8), ElGavinoSupremo (S8), Eroe (S8), FrostBros (S8), JRjoos (S8), lexicuhl (S8), MajorDH (S8), MajorWoof (S8), pigghetti (S8), qwertyuiopthepie (S8), Ryfri (S8), ShyGus (S8), Ullti (S8), vynil (S8)
 
 ---
 ### Debutants
 
-**S1 (16):** automavic, Bandias, Bornyo, Broseph, centraleric, ChristinaAnne, Dj8ninja, DrJamezz, GoldenNs, IceshardEleven, iQuick_, IzunaLoli, Kaismartypants, Krimm, PikaCreeper, SiahStone
+**S1 (16):** automavic, Bandias, Bornyo, Broseph, centraleric, ChristinaAnne, Dj8ninja, DrJamezz, GoldenNs, IceshardEleven, iQuick_, IzunE_, Kaismartypants, Krimm, PikaCreeper, SiahStone
 
 **S2 (13):** 319phoenix, Andyboyonalert, BrokenPic, CapSTVN, ConBeanJones, ItsNickb, Mincrooft, PauloSSB, Professer_TNT, Sluggyg, Spongey, Topspinpiggles, WillBrisk
 
 **S3 (9):** Andrew512, commitstaxfraud, Coward, EyeBlack, InsertDotJpeg, PoofessorP, TheRealHagrid, YaojaDzn, Zakkeagle
 
-**S4 (8):** 78ford, Ahzora, BardMain2, MercuryParadox, MrLazeo101, Pwep, Sassybunion, SmoothieGod
+**S4 (8):** 78ford, ahzora, BardMain2, MercuryParadox, MrLazeo101, Pwep, Sassybunion, SmoothieGod
 
-**S5 (13):** aalaan, AmbientDan, Bradzi, Fleeky, Flouzemaker, frogsella, guugs, Mop19, PokeCraft4615, Regifloat, TommySuX, Wolfaye, xMisha
+**S5 (13):** aalaan, AmbientDan, Bradzi, Flouzemaker, frogsella, guugs, Jasur80, Mop19, PokeCraft4615, Regifloat, TommySuX, Wolfaye, xMisha
 
 **S6 (4):** 343Kento, Anorable, brinkwhy, Keelando
 

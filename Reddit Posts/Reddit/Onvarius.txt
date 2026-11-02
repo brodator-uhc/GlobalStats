@@ -45,14 +45,14 @@
 ---
 ### First Blood
 
-**S1:** Laternic (PokeGames)
+**S1:** Laternic (Pokay)
 
 **S2:** PartyAnimal (ItsFluffy)
 
 ---
 ### First Death
 
-**S1:** PokeGames (Laternic)
+**S1:** Pokay (Laternic)
 
 **S2:** ItsFluffy (PartyAnimal)
 
@@ -67,7 +67,7 @@
 
 **2nd - Zakkeagle (4):** ArticRecon12 (S1), Etticey (S1), 20thPrestigeNoob (S1), Kelawesome (S1)
 
-**5th - Laternic (3):** PokeGames (S1), Zakkeagle (S1), MrHaloGen (S1)
+**5th - Laternic (3):** Pokay (S1), Zakkeagle (S1), MrHaloGen (S1)
 
 **6th - NukedNukem (2):** Slothbeans (S2), Punching_Pixel (S2)
 
@@ -94,20 +94,20 @@
 
 **Burning (1):** 00Jace (S1)
 
-**Skeleton (1):** RatherBeGaming (S2)
+**Skeleton (1):** RatherBGamin (S2)
 
 ---
 ### Participation
 
 **2 Seasons (4):** NukedNukem (S1-S2), Slothbeans (S1-S2), TheBaldOfficial (S1-S2), Union (S1-S2)
 
-**1 Season (28):** 00Jace (S1), 20thPrestigeNoob (S1), Abdalain (S1), Anogoraz (S1), ArticRecon12 (S1), Etticey (S1), jvgamepro (S1), Kelawesome (S1), Laternic (S1), Megahero (S1), MrHaloGen (S1), PokeGames (S1), Spleggified (S1), Zakkeagle (S1), AJMONEY99 (S2), andrewbaseball99 (S2), Bilboo (S2), Dylan_SF (S2), GhostGunner (S2), ItsFluffy (S2), mattgj (S2), oDogLFC (S2), OverReactive (S2), PartyAnimal (S2), Punching_Pixel (S2), RatherBeGaming (S2), SRGamingLucas (S2), Xenox (S2)
+**1 Season (28):** 00Jace (S1), 20thPrestigeNoob (S1), Abdalain (S1), Anogoraz (S1), ArticRecon12 (S1), Etticey (S1), jvgamepro (S1), Kelawesome (S1), Laternic (S1), Megahero (S1), MrHaloGen (S1), Pokay (S1), Spleggified (S1), Zakkeagle (S1), AJMONEY99 (S2), andrewbaseball99 (S2), Bilboo (S2), Dylan_SF (S2), GhostGunner (S2), ItsFluffy (S2), mattgj (S2), oDogLFC (S2), OverReactive (S2), PartyAnimal (S2), Punching_Pixel (S2), RatherBGamin (S2), SRGamingLucas (S2), Xenox (S2)
 
 ---
 ### Debutants
 
-**S1 (18):** 00Jace, 20thPrestigeNoob, Abdalain, Anogoraz, ArticRecon12, Etticey, jvgamepro, Kelawesome, Laternic, Megahero, MrHaloGen, NukedNukem, PokeGames, Slothbeans, Spleggified, TheBaldOfficial, Union, Zakkeagle
+**S1 (18):** 00Jace, 20thPrestigeNoob, Abdalain, Anogoraz, ArticRecon12, Etticey, jvgamepro, Kelawesome, Laternic, Megahero, MrHaloGen, NukedNukem, Pokay, Slothbeans, Spleggified, TheBaldOfficial, Union, Zakkeagle
 
-**S2 (14):** AJMONEY99, andrewbaseball99, Bilboo, Dylan_SF, GhostGunner, ItsFluffy, mattgj, oDogLFC, OverReactive, PartyAnimal, Punching_Pixel, RatherBeGaming, SRGamingLucas, Xenox
+**S2 (14):** AJMONEY99, andrewbaseball99, Bilboo, Dylan_SF, GhostGunner, ItsFluffy, mattgj, oDogLFC, OverReactive, PartyAnimal, Punching_Pixel, RatherBGamin, SRGamingLucas, Xenox
 
 ---

@@ -5,71 +5,105 @@
 
 **S1: Zoroh (6)**
 
+**S2: Zoroh (4)**, *jemthelonley (0), redgamer12886 (0)*
+
 ---
 ### Runner Ups
 
 **S1:** PoofaPoofa (1)
+
+**S2:** collowollo (4), PoofaPoofa (0), TheBakery47 (1)
 
 ---
 ### Most Kills
 
 **S1:** Zoroh (6)
 
+**S2:** collowollo, Zoroh (4)
+
 ---
 ### Most Kills (Team)
 
 **S1:** N/A
+
+**S2:** PoofaPoofa (0), TheBakery47 (1), collowollo (4)
 
 ---
 ### First Damage
 
 **S1:** Pomkoo
 
+**S2:** HDOP (0:2:26)
+
 ---
 ### Ironman
 
 **S1:** Gr3ninja (1:1:30)
+
+**S2:** SonOfLars17 (1:17:40)
 
 ---
 ### First Blood
 
 **S1:** racer59 (redgamer12886)
 
+**S2:** HDOP (animeconfusion)
+
 ---
 ### First Death
 
 **S1:** redgamer12886 (racer59)
 
+**S2:** xAthena10xx (Suffocation)
+
 ---
 ### Kills
 
-**1st - Zoroh (6):** racer59 (S1), collowollo (S1), regrow (S1), FlawlessAerial (S1), HDOP (S1), PoofaPoofa (S1)
+**1st - Zoroh (10):** racer59 (S1), collowollo (S1), regrow (S1), FlawlessAerial (S1), HDOP (S1), PoofaPoofa (S1), Sky3_e (S2), TheBakery47 (S2), FlawlessAerial (S2), collowollo (S2)
 
-**2nd - HDOP (4):** TheBakery47 (S1), SonOfLars17 (S1), markbom (S1), Koryyy (S1)
+**2nd - HDOP (6):** TheBakery47 (S1), SonOfLars17 (S1), markbom (S1), Koryyy (S1), animeconfusion (S2), NefarialPhantom (S2)
 
-**3rd - FlawlessAerial (2):** SaylerSomething (S1), BossDrobot (S1)
+**3rd - collowollo (4):** SonOfLars17 (S2), Pomkoo (S2), HDOP (S2), Gr3ninja (S2)
 
-**3rd - Koryyy (2):** Pomkoo (S1), Gr3ninja (S1)
+**3rd - FlawlessAerial (4):** SaylerSomething (S1), BossDrobot (S1), AllegroWasTaken (S2), gavinwhit18 (S2)
 
-**5th - Gr3ninja (1):** saraisdumb_ (S1)
+**5th - Duhstroyer (3):** CheeseJay (S2), Dustman123 (S2), Szko (S2)
 
-**5th - markbom (1):** CheeseJay (S1)
+**5th - Koryyy (3):** Pomkoo (S1), Gr3ninja (S1), PoofaPoofa (S2)
 
-**5th - PoofaPoofa (1):** animeconfusion (S1)
+**7th - Gr3ninja (2):** saraisdumb_ (S1), Duhstroyer (S2)
 
-**5th - racer59 (1):** redgamer12886 (S1)
+**8th - markbom (1):** CheeseJay (S1)
+
+**8th - PoofaPoofa (1):** animeconfusion (S1)
+
+**8th - racer59 (1):** redgamer12886 (S1)
+
+**8th - Sky3_e (1):** redgamer12886 (S2)
+
+**8th - Szko (1):** SaylerSomething (S2)
+
+**8th - TheBakery47 (1):** Koryyy (S2)
 
 ---
 ### PvE Deaths
 
+**Fall (2):** saraisdumb_ (S2), jemthelonley (S2)
+
+**Suffocation (1):** xAthena10xx (S2)
+
 ---
 ### Participation
 
-**1 Season (19):** animeconfusion (S1), BossDrobot (S1), CheeseJay (S1), collowollo (S1), FlawlessAerial (S1), Gr3ninja (S1), HDOP (S1), Koryyy (S1), markbom (S1), Pomkoo (S1), PoofaPoofa (S1), racer59 (S1), redgamer12886 (S1), regrow (S1), saraisdumb_ (S1), SaylerSomething (S1), SonOfLars17 (S1), TheBakery47 (S1), Zoroh (S1)
+**2 Seasons (15):** animeconfusion (S1-S2), CheeseJay (S1-S2), collowollo (S1-S2), FlawlessAerial (S1-S2), Gr3ninja (S1-S2), HDOP (S1-S2), Koryyy (S1-S2), Pomkoo (S1-S2), PoofaPoofa (S1-S2), redgamer12886 (S1-S2), saraisdumb_ (S1-S2), SaylerSomething (S1-S2), SonOfLars17 (S1-S2), TheBakery47 (S1-S2), Zoroh (S1-S2)
+
+**1 Season (13):** BossDrobot (S1), markbom (S1), racer59 (S1), regrow (S1), AllegroWasTaken (S2), Duhstroyer (S2), Dustman123 (S2), gavinwhit18 (S2), jemthelonley (S2), NefarialPhantom (S2), Sky3_e (S2), Szko (S2), xAthena10xx (S2)
 
 ---
 ### Debutants
 
 **S1 (19):** animeconfusion, BossDrobot, CheeseJay, collowollo, FlawlessAerial, Gr3ninja, HDOP, Koryyy, markbom, Pomkoo, PoofaPoofa, racer59, redgamer12886, regrow, saraisdumb_, SaylerSomething, SonOfLars17, TheBakery47, Zoroh
+
+**S2 (9):** AllegroWasTaken, Duhstroyer, Dustman123, gavinwhit18, jemthelonley, NefarialPhantom, Sky3_e, Szko, xAthena10xx
 
 ---

@@ -167,7 +167,7 @@
 
 **6th - 5hup (7):** Hecticity (S4), BSBrent (S4), RoachGlue (S5), daltcn (S5), OnlyCosmia (S6), Bacan (S7), Potsie (S7)
 
-**6th - flameorb (7):** orcau (S1), Flouzemaker (S1), RedAjayDaBunny (S1), jommyappleseed (S5), 5hup (S5), chloesad (S6), awau (S7)
+**6th - flameorb (7):** orcau (S1), Flouzemaker (S1), RedAjay (S1), jommyappleseed (S5), 5hup (S5), chloesad (S6), awau (S7)
 
 **6th - I_is_cheesecake (7):** YellowVitt (S3), tagggz (S3), Lefo_ (S3), ScottPirie (S4), ThePeridotKnight (S4), Flouzemaker (S5), flameorb (S6)
 
@@ -287,12 +287,12 @@
 
 **2 Seasons (15):** Bacan (S1,S7), Daffz (S1-S2), NTBama (S1,S5), QuilJ1 (S1-S2), m4ku (S4,S8), ThePeridotKnight (S4,S7), 5kylord (S5,S8), BushieHalf (S5,S8), daltcn (S5-S6), Rawkeyy (S5,S8), CHAINGE (S6-S7), Omertosa (S6-S7), brodioh (S7-S8), Flohp (S7-S8), jvevo (S7-S8)
 
-**1 Season (37):** blazerr (S1), Cyonal (S1), EnergyPulse (S1), Frozeno_ (S1), RedAjayDaBunny (S1), CruelFives (S2), floobel (S2), Kieranborn (S3), Lefo_ (S3), LegoBeast (S3), guccibulletvest (S5), Micale (S5), brocktober (S6), neonpoop (S6), awau (S7), lampbro (S7), Applepie78 (S8), Bobbytheturtle (S8), Canman (S8), ChrisCD (S8), dahii (S8), DareDevilDawson (S8), DJoee (S8), dw0w (S8), friigiid (S8), frogsella (S8), GARTYY (S8), Gorgerous (S8), MaxCringe (S8), MercuryParadox (S8), Nintendoshi (S8), NotMyLights (S8), nsket (S8), PresidentFleb (S8), Purpdan (S8), SiahStone (S8), spittoon (S8)
+**1 Season (37):** blazerr (S1), Cyonal (S1), EnergyPulse (S1), Frozeno_ (S1), RedAjay (S1), CruelFives (S2), floobel (S2), Kieranborn (S3), Lefo_ (S3), LegoBeast (S3), guccibulletvest (S5), Micale (S5), brocktober (S6), neonpoop (S6), awau (S7), lampbro (S7), Applepie78 (S8), Bobbytheturtle (S8), Canman (S8), ChrisCD (S8), dahii (S8), DareDevilDawson (S8), DJoee (S8), dw0w (S8), friigiid (S8), frogsella (S8), GARTYY (S8), Gorgerous (S8), MaxCringe (S8), MercuryParadox (S8), Nintendoshi (S8), NotMyLights (S8), nsket (S8), PresidentFleb (S8), Purpdan (S8), SiahStone (S8), spittoon (S8)
 
 ---
 ### Debutants
 
-**S1 (24):** 78ford, Bacan, blazerr, BSBrent, Cyonal, Daffz, EnergyPulse, flameorb, Flouzemaker, Frozeno_, fruitberries, jommyappleseed, Neeve_, NTBama, orcau, QuilJ1, RedAjayDaBunny, ShAydenelley, Spacepod_, tagggz, TheSonicJoey, warriorcat, wibbol, YellowVitt
+**S1 (24):** 78ford, Bacan, blazerr, BSBrent, Cyonal, Daffz, EnergyPulse, flameorb, Flouzemaker, Frozeno_, fruitberries, jommyappleseed, Neeve_, NTBama, orcau, QuilJ1, RedAjay, ShAydenelley, Spacepod_, tagggz, TheSonicJoey, warriorcat, wibbol, YellowVitt
 
 **S2 (6):** ColdBac, CruelFives, floobel, Hecticity, OnlyCosmia, ScottPirie
 

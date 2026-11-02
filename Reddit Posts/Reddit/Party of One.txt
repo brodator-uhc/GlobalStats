@@ -502,8 +502,6 @@
 
 **Suffocation (2):** Espik (S11), kirbey (S15)
 
-**Void (2):** BreakSalad (S11), aalaan (S18b)
-
 **Armor Stand (1):** Fourbitplayer (S11)
 
 **Bed (1):** Jordtim (S9)
@@ -518,9 +516,13 @@
 
 **Vindicator (1):** Nyxbee (S14)
 
+**Void (1):** BreakSalad (S11)
+
 **Wither Skeleton (1):** TaylorLive (S13)
 
 **Wolf (1):** buttergolem1 (S10)
+
+**World Border (1):** aalaan (S18b)
 
 ---
 ### Participation

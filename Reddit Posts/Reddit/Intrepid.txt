@@ -9,6 +9,8 @@
 
 **S3: Broseph (4), TheSlimeBrother (1)**
 
+**S4: ItzBeeZ (2), Sharkbob94349 (8)**, *noktime (0), Westcraft00 (0)*
+
 ---
 ### Runner Ups
 
@@ -17,6 +19,8 @@
 **S2:** alexnv (0), Broseph (0), Psykl0ne (1)
 
 **S3:** alexnv (2), Dj8ninja (0)
+
+**S4:** benidk (2), Brodator (0), DripGodDavid (1), Fra49 (0)
 
 ---
 ### Most Kills
@@ -27,6 +31,8 @@
 
 **S3:** Broseph, JustNolan (4)
 
+**S4:** Sharkbob94349 (8)
+
 ---
 ### Most Kills (Team)
 
@@ -35,6 +41,8 @@
 **S2:** Dj8ninja (1), nsket (1), OOGAABOOGA3 (2)
 
 **S3:** Broseph (4), TheSlimeBrother (1)
+
+**S4:** ItzBeeZ (2), noktime (0), Sharkbob94349 (8), Westcraft00 (0)
 
 ---
 ### First Damage
@@ -45,6 +53,8 @@
 
 **S3:** commitstaxfraud (0:2:19)
 
+**S4:** commitstaxfraud (0:10:9)
+
 ---
 ### Ironman
 
@@ -53,6 +63,8 @@
 **S2:** nsket (0:35:3)
 
 **S3:** noktime (0:35:23)
+
+**S4:** Brodator (0:45:30)
 
 ---
 ### First Blood
@@ -63,6 +75,8 @@
 
 **S3:** JustNolan (Psykl0ne)
 
+**S4:** DripGodDavid (Karliffu)
+
 ---
 ### First Death
 
@@ -72,72 +86,90 @@
 
 **S3:** grantfaker (Blaze)
 
+**S4:** Karliffu (DripGodDavid)
+
 ---
 ### Kills
 
-**1st - Broseph (7):** Fra49 (S1), grantfaker (S1), CommanderK22_ (S1), DevoyTTV (S3), Lighte (S3), dahii (S3), alexnv (S3)
+**1st - Sharkbob94349 (9):** Lynxo (S3), evuhlynx (S4), TheSlimeBrother (S4), Broseph (S4), DripGodDavid (S4), Lynxo (S4), commitstaxfraud (S4), benidk (S4), Brodator (S4)
 
-**1st - JustNolan (7):** EndestroyerEpic (S2), YellowVitt (S2), Broseph (S2), Psykl0ne (S3), ScaryPumpkinFace (S3), ShootingGoats (S3), Sharkbob94349 (S3)
+**2nd - Broseph (7):** Fra49 (S1), grantfaker (S1), CommanderK22_ (S1), DevoyTTV (S3), Lighte (S3), dahii (S3), alexnv (S3)
 
-**3rd - alexnv (3):** Broseph (S1), broccoliar (S3), Fra49 (S3)
+**2nd - JustNolan (7):** EndestroyerEpic (S2), YellowVitt (S2), Broseph (S2), Psykl0ne (S3), ScaryPumpkinFace (S3), ShootingGoats (S3), Sharkbob94349 (S3)
 
-**3rd - broccoliar (3):** alexnv (S1), CodeJoshua (S2), Dj8ninja (S3)
+**4th - alexnv (4):** Broseph (S1), broccoliar (S3), Fra49 (S3), Psykl0ne (S4)
 
-**3rd - TheSlimeBrother (3):** Klickacat (S1), Bobbytheturtle (S1), JustNolan (S3)
+**5th - broccoliar (3):** alexnv (S1), CodeJoshua (S2), Dj8ninja (S3)
 
-**3rd - YellowVitt (3):** TheSlimeBrother (S2), Karliffu (S3), OOGAABOOGA3 (S3)
+**5th - TheSlimeBrother (3):** Klickacat (S1), Bobbytheturtle (S1), JustNolan (S3)
 
-**7th - Bobbytheturtle (2):** YellowVitt (S1), DripGodDavid (S1)
+**5th - YellowVitt (3):** TheSlimeBrother (S2), Karliffu (S3), OOGAABOOGA3 (S3)
 
-**7th - OOGAABOOGA3 (2):** JustNolan (S2), Psykl0ne (S2)
+**8th - benidk (2):** Westcraft00 (S4), alexnv (S4)
 
-**9th - Brodator (1):** Karliffu (S1)
+**8th - Bobbytheturtle (2):** YellowVitt (S1), DripGodDavid (S1)
 
-**9th - Dj8ninja (1):** Westcraft00 (S2)
+**8th - DripGodDavid (2):** Brodator (S1), Karliffu (S4)
 
-**9th - DripGodDavid (1):** Brodator (S1)
+**8th - ItzBeeZ (2):** ShootingGoats (S4), YellowVitt (S4)
 
-**9th - Klickacat (1):** Psykl0ne (S1)
+**8th - OOGAABOOGA3 (2):** JustNolan (S2), Psykl0ne (S2)
 
-**9th - nsket (1):** Karliffu (S2)
+**13th - Brodator (1):** Karliffu (S1)
 
-**9th - Psykl0ne (1):** nsket (S2)
+**13th - commitstaxfraud (1):** Gorgerous (S4)
 
-**9th - Sharkbob94349 (1):** Lynxo (S3)
+**13th - Dj8ninja (1):** Westcraft00 (S2)
 
-**9th - ShootingGoats (1):** YellowVitt (S3)
+**13th - evuhlynx (1):** noktime (S4)
+
+**13th - Klickacat (1):** Psykl0ne (S1)
+
+**13th - Lynxo (1):** broccoliar (S4)
+
+**13th - nsket (1):** Karliffu (S2)
+
+**13th - Psykl0ne (1):** nsket (S2)
+
+**13th - ShootingGoats (1):** YellowVitt (S3)
 
 ---
 ### PvE Deaths
 
 **The Killer Bunny (11):** Brodator (S2), wizarde (S2), dahii (S2), Br8dy_ (S2), DJoee (S2), CAMKART100 (S2), SpaceFenix (S2), Rohcket (S2), DripGodDavid (S2), broccoliar (S2), alexnv (S2)
 
-**Blaze (3):** grantfaker (S3), Kaimaxon (S3), Flcnt (S3)
+**Fall (4):** Kaimaxon (S1), commitstaxfraud (S3), Dj8ninja (S4), Fra49 (S4)
 
-**Fall (2):** Kaimaxon (S1), commitstaxfraud (S3)
+**Blaze (3):** grantfaker (S3), Kaimaxon (S3), Flcnt (S3)
 
 **Lava (2):** noktime (S3), Brodator (S3)
 
 **Skeleton (2):** Westcraft00 (S1), Bobbytheturtle (S2)
 
+**Witch (2):** grantfaker (S2), Flcnt (S4)
+
+**Bogged (1):** OOGAABOOGA3 (S4)
+
 **Creeper (1):** benidk (S3)
+
+**Dripstone (1):** flameh (S4)
 
 **Silverfish (1):** CAMKART100 (S3)
 
 **Spider (1):** ShootingGoats (S2)
-
-**Witch (1):** grantfaker (S2)
 
 **Zombie (1):** Fra49 (S2)
 
 ---
 ### Participation
 
-**3 Seasons (10):** alexnv (S1-S3), broccoliar (S1-S3), Brodator (S1-S3), Broseph (S1-S3), Fra49 (S1-S3), grantfaker (S1-S3), Karliffu (S1-S3), Psykl0ne (S1-S3), TheSlimeBrother (S1-S3), YellowVitt (S1-S3)
+**4 Seasons (9):** alexnv (S1-S4), broccoliar (S1-S4), Brodator (S1-S4), Broseph (S1-S4), Fra49 (S1-S4), Karliffu (S1-S4), Psykl0ne (S1-S4), TheSlimeBrother (S1-S4), YellowVitt (S1-S4)
 
-**2 Seasons (10):** Bobbytheturtle (S1-S2), DripGodDavid (S1-S2), Kaimaxon (S1,S3), Westcraft00 (S1-S2), CAMKART100 (S2-S3), dahii (S2-S3), Dj8ninja (S2-S3), JustNolan (S2-S3), OOGAABOOGA3 (S2-S3), ShootingGoats (S2-S3)
+**3 Seasons (6):** DripGodDavid (S1-S2,S4), grantfaker (S1-S3), Westcraft00 (S1-S2,S4), Dj8ninja (S2-S4), OOGAABOOGA3 (S2-S4), ShootingGoats (S2-S4)
 
-**1 Season (19):** CommanderK22_ (S1), Klickacat (S1), Br8dy_ (S2), CodeJoshua (S2), DJoee (S2), EndestroyerEpic (S2), nsket (S2), Rohcket (S2), SpaceFenix (S2), wizarde (S2), benidk (S3), commitstaxfraud (S3), DevoyTTV (S3), Flcnt (S3), Lighte (S3), Lynxo (S3), noktime (S3), ScaryPumpkinFace (S3), Sharkbob94349 (S3)
+**2 Seasons (11):** Bobbytheturtle (S1-S2), Kaimaxon (S1,S3), CAMKART100 (S2-S3), dahii (S2-S3), JustNolan (S2-S3), benidk (S3-S4), commitstaxfraud (S3-S4), Flcnt (S3-S4), Lynxo (S3-S4), noktime (S3-S4), Sharkbob94349 (S3-S4)
+
+**1 Season (17):** CommanderK22_ (S1), Klickacat (S1), Br8dy_ (S2), CodeJoshua (S2), DJoee (S2), EndestroyerEpic (S2), nsket (S2), Rohcket (S2), SpaceFenix (S2), wizarde (S2), DevoyTTV (S3), Lighte (S3), ScaryPumpkinFace (S3), evuhlynx (S4), flameh (S4), Gorgerous (S4), ItzBeeZ (S4)
 
 ---
 ### Debutants
@@ -147,5 +179,7 @@
 **S2 (14):** Br8dy_, CAMKART100, CodeJoshua, dahii, Dj8ninja, DJoee, EndestroyerEpic, JustNolan, nsket, OOGAABOOGA3, Rohcket, ShootingGoats, SpaceFenix, wizarde
 
 **S3 (9):** benidk, commitstaxfraud, DevoyTTV, Flcnt, Lighte, Lynxo, noktime, ScaryPumpkinFace, Sharkbob94349
+
+**S4 (4):** evuhlynx, flameh, Gorgerous, ItzBeeZ
 
 ---

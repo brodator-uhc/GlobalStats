@@ -7,7 +7,7 @@
 
 **S2: SSiafs (9)**
 
-**S3: BreakSalad (0), ScOpE_H3ad (6), SergeantGnome (3)**
+**S3: BreakSalad (0), Scope_H3ad (6), SergeantGnome (3)**
 
 **S4: ShutUpBrick (6)**, *Kit10s (1), Maddognils (1), Sneegsnag (0)*
 
@@ -57,7 +57,7 @@
 
 **S2:** SSiafs (9)
 
-**S3:** ScOpE_H3ad (6)
+**S3:** Scope_H3ad (6)
 
 **S4:** ShutUpBrick (6)
 
@@ -82,7 +82,7 @@
 
 **S2:** N/A
 
-**S3:** BreakSalad (0), ScOpE_H3ad (6), SergeantGnome (3)
+**S3:** BreakSalad (0), Scope_H3ad (6), SergeantGnome (3)
 
 **S4:** Sneegsnag (0), Maddognils (1), Kit10s (1), ShutUpBrick (6)
 
@@ -205,9 +205,9 @@
 
 **1st - ShutUpBrick (15):** dans1988 (S4), TicedUp (S4), JakeAladarSmith (S4), Neoscys (S4), Bagpipehero (S4), GeistBuster7 (S4), Havenhand (S5), Sneegsnag (S8), Bagpipehero (S9), MrTeamRaven (S9), Zenniker (S10), KOKeowner (S10), SidGarcia (S10), Dida (S10), Zarky (S10)
 
-**2nd - SSiafs (14):** Fairyjuice (S2), Heralen (S2), ScOpE_H3ad (S2), TicedUp (S2), preamblee (S2), GeistBuster7 (S2), TheSonicJoey (S2), Mop19 (S2), BloodStinger745 (S2), WintherMaw (S8), Zenniker (S8), TheBestGinger13 (S8), Heralen (S8), iiQuakezz (S8)
+**2nd - SSiafs (14):** Fairyjuice (S2), Heralen (S2), Scope_H3ad (S2), TicedUp (S2), preamblee (S2), GeistBuster7 (S2), TheSonicJoey (S2), Mop19 (S2), BloodStinger745 (S2), WintherMaw (S8), Zenniker (S8), TheBestGinger13 (S8), Heralen (S8), iiQuakezz (S8)
 
-**3rd - Krenzinator (12):** ScOpE_H3ad (S4), CMattznes (S4), SergeantGnome (S4), TicedUp (S5), dans1988 (S6), TicedUp (S6), TheSonicJoey (S6), Costanza (S6), Bagpipehero (S6), txjhawk (S6), Fairyjuice (S6), TheBestGinger13 (S6)
+**3rd - Krenzinator (12):** Scope_H3ad (S4), CMattznes (S4), SergeantGnome (S4), TicedUp (S5), dans1988 (S6), TicedUp (S6), TheSonicJoey (S6), Costanza (S6), Bagpipehero (S6), txjhawk (S6), Fairyjuice (S6), TheBestGinger13 (S6)
 
 **4th - TheBestGinger13 (11):** dans1988 (S1), SergeantGnome (S1), MarcC5M (S6), Maddognils (S6), Costanza (S7), Sneegsnag (S7), firefoxvulpix (S7), BreakSalad (S7), Raydur (S7), Maddognils (S7), TicedUp (S8)
 
@@ -223,7 +223,7 @@
 
 **10th - Fairyjuice (6):** CMattznes (S2), Pippiter (S3), firefoxvulpix (S6), WintherMaw (S7), TommySuX (S8), TheSonicJoey (S8)
 
-**10th - ScOpE_H3ad (6):** Sneegsnag (S3), Kit10s (S3), Krenzinator (S3), JakeAladarSmith (S3), Hollymatman (S3), Zarky (S3)
+**10th - Scope_H3ad (6):** Sneegsnag (S3), Kit10s (S3), Krenzinator (S3), JakeAladarSmith (S3), Hollymatman (S3), Zarky (S3)
 
 **10th - xNestorio (6):** Dylarno (S9), Kurtit (S9), ShutUpBrick (S9), WintherMaw (S10), Tylarzz (S10), TicedUp (S10)
 
@@ -339,7 +339,7 @@
 
 **4 Seasons (8):** Raydur (S1,S3,S7,S11), GeistBuster7 (S2-S4,S6), MarcC5M (S2,S5-S7), SidGarcia (S3,S8,S10-S11), Bagpipehero (S4-S6,S9), Neoscys (S4-S7), Learning (S5,S7-S8,S10), WintherMaw (S7-S10)
 
-**3 Seasons (8):** Mop19 (S1-S2,S7), SergeantGnome (S1,S3-S4), ScOpE_H3ad (S2-S4), Kit10s (S3-S5), txjhawk (S4-S6), MrTeamRaven (S7-S9), upriserryker (S7-S9), Zenniker (S8,S10-S11)
+**3 Seasons (8):** Mop19 (S1-S2,S7), SergeantGnome (S1,S3-S4), Scope_H3ad (S2-S4), Kit10s (S3-S5), txjhawk (S4-S6), MrTeamRaven (S7-S9), upriserryker (S7-S9), Zenniker (S8,S10-S11)
 
 **2 Seasons (10):** BloodStinger745 (S1-S2), iiQuakezz (S1,S8), Eli7777777 (S3,S5), Shortgamer (S3,S5), Kurtit (S8-S9), OddBaller (S9-S10), xNestorio (S9-S10), beastboyrolf (S10-S11), Dida (S10-S11), KOKeowner (S10-S11)
 
@@ -350,7 +350,7 @@
 
 **S1 (16):** BloodStinger745, BreakSalad, Costanza, dans1988, Fairyjuice, Heralen, iiQuakezz, JakeAladarSmith, joeykin, Mop19, Raydur, SergeantGnome, TheBestGinger13, TheSonicJoey, TicedUp, Zarky
 
-**S2 (7):** CMattznes, GeistBuster7, MarcC5M, preamblee, ScOpE_H3ad, Sneegsnag, SSiafs
+**S2 (7):** CMattznes, GeistBuster7, MarcC5M, preamblee, Scope_H3ad, Sneegsnag, SSiafs
 
 **S3 (8):** Eli7777777, Havenhand, Hollymatman, Kit10s, Krenzinator, Pippiter, Shortgamer, SidGarcia
 

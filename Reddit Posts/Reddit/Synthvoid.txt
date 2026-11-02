@@ -11,6 +11,8 @@
 
 **S4: brinkwhy (4), Vetmire (6)**, *brayuhn (0), DarrenBGP (0)*
 
+**S5: _1mmortal_ (2), brinkwhy (2), ItsShqky (0), ItzBeeZ (0), Klickacat (0), m4ku (5), MaxEvasion (1), MuchoLinguine (0), omchris (2), zoeywithawhy (0)**, *Keelando (1), MercuryParadox (0), ShootingGoats (0), SpaceFenix (0)*
+
 ---
 ### Runner Ups
 
@@ -21,6 +23,8 @@
 **S3:** MercuryParadox (0), omchris (5)
 
 **S4:** cherryblawsom (0), Klickacat (0), Louiwe (2), Queequa (0)
+
+**S5:** 5kylord (0), AHSOKATANOSTAN (0), broccoliar (0), cherryblawsom (0), FroztiSnowman (0), Geroot (0), Kaismartypants (0), MichaelPlayMC (0), ScaryPumpkinFace (0), Sharkbob94349 (0), SmolHatChild (1), Ullti (0), Vetmire (2), Westcraft00 (1)
 
 ---
 ### Most Kills
@@ -33,6 +37,8 @@
 
 **S4:** Vetmire (6)
 
+**S5:** m4ku (5)
+
 ---
 ### Most Kills (Team)
 
@@ -43,6 +49,8 @@
 **S3:** SpaceFenix (2), wizarde (6)
 
 **S4:** brayuhn (0), brinkwhy (4), DarrenBGP (0), Vetmire (6)
+
+**S5:** _1mmortal_ (2), brinkwhy (2), ItsShqky (0), ItzBeeZ (0), Keelando (1), Klickacat (0), m4ku (5), MaxEvasion (1), MercuryParadox (0), MuchoLinguine (0), omchris (2), ShootingGoats (0), SpaceFenix (0), zoeywithawhy (0)
 
 ---
 ### First Damage
@@ -55,6 +63,8 @@
 
 **S4:** ItsShqky (0:3:12)
 
+**S5:** Sharkbob94349 (0:7:34)
+
 ---
 ### Ironman
 
@@ -65,6 +75,8 @@
 **S3:** ItsShqky (1:32:32)
 
 **S4:** Westcraft00 (1:39:35)
+
+**S5:** MercuryParadox (1:57:20)
 
 ---
 ### First Blood
@@ -77,6 +89,8 @@
 
 **S4:** Rebelghost (CAMKART100)
 
+**S5:** _1mmortal_ (MichaelPlayMC)
+
 ---
 ### First Death
 
@@ -88,77 +102,83 @@
 
 **S4:** MercuryParadox (Lava)
 
+**S5:** ScaryPumpkinFace (Creeper)
+
 ---
 ### Kills
 
+**1st - _1mmortal_ (10):** CommanderK22_ (S1), lasdarling (S1), Vetmire (S1), Greeples (S2), Blarkslol (S2), DJoee (S2), Kaismartypants (S2), 5kylord (S3), MichaelPlayMC (S5), Kaismartypants (S5)
+
+**1st - Vetmire (10):** CodeJoshua (S1), broccoliar (S3), MaxEvasion (S4), Blarkslol (S4), fruitlogic (S4), omchris (S4), _1mmortal_ (S4), CodeJoshua (S4), ShootingGoats (S5), SpaceFenix (S5)
+
 **1st - wizarde (10):** broccoliar (S2), _1mmortal_ (S3), cherryblawsom (S3), Vetmire (S3), MercuryParadox (S3), DevoyTTV (S3), omchris (S3), Keelando (S4), m4ku (S4), grantfaker (S4)
 
-**2nd - _1mmortal_ (8):** CommanderK22_ (S1), lasdarling (S1), Vetmire (S1), Greeples (S2), Blarkslol (S2), DJoee (S2), Kaismartypants (S2), 5kylord (S3)
+**4th - omchris (9):** Broseph (S2), ItzBeeZ (S3), Klickacat (S3), Greeples (S3), fruitlogic (S3), Nuclearsugar (S3), broccoliar (S4), SmolHatChild (S5), cherryblawsom (S5)
 
-**2nd - Vetmire (8):** CodeJoshua (S1), broccoliar (S3), MaxEvasion (S4), Blarkslol (S4), fruitlogic (S4), omchris (S4), _1mmortal_ (S4), CodeJoshua (S4)
+**5th - m4ku (7):** Klickacat (S4), pierce981 (S4), Ullti (S5), broccoliar (S5), Sharkbob94349 (S5), 5kylord (S5), Geroot (S5)
 
-**4th - omchris (7):** Broseph (S2), ItzBeeZ (S3), Klickacat (S3), Greeples (S3), fruitlogic (S3), Nuclearsugar (S3), broccoliar (S4)
+**6th - brinkwhy (6):** SpaceFenix (S4), ItsShqky (S4), wizarde (S4), Louiwe (S4), Westcraft00 (S5), AHSOKATANOSTAN (S5)
 
-**5th - poWpaH (6):** ChainingVermin2 (S1), ShootingGoats (S1), Geroot (S1), broccoliar (S1), fruitlogic (S1), Nuclearsugar (S1)
+**6th - poWpaH (6):** ChainingVermin2 (S1), ShootingGoats (S1), Geroot (S1), broccoliar (S1), fruitlogic (S1), Nuclearsugar (S1)
 
-**6th - broccoliar (5):** ItsShqky (S1), grantfaker (S1), Br8dy_ (S2), _1mmortal_ (S2), Caydone (S2)
+**8th - broccoliar (5):** ItsShqky (S1), grantfaker (S1), Br8dy_ (S2), _1mmortal_ (S2), Caydone (S2)
 
-**6th - CodeJoshua (5):** jsr_ (S2), 5kylord (S2), ChainingVermin2 (S2), Queequa (S4), lasdarling (S4)
+**8th - CodeJoshua (5):** jsr_ (S2), 5kylord (S2), ChainingVermin2 (S2), Queequa (S4), lasdarling (S4)
 
-**8th - brinkwhy (4):** SpaceFenix (S4), ItsShqky (S4), wizarde (S4), Louiwe (S4)
+**8th - MaxEvasion (5):** SoupestGlobe (S2), Ryfri (S2), ItzBeeZ (S2), DarrenBGP (S4), Vetmire (S5)
 
-**8th - MaxEvasion (4):** SoupestGlobe (S2), Ryfri (S2), ItzBeeZ (S2), DarrenBGP (S4)
+**11th - DevoyTTV (3):** ItsShqky (S3), ShootingGoats (S3), brinkwhy (S3)
 
-**10th - DevoyTTV (3):** ItsShqky (S3), ShootingGoats (S3), brinkwhy (S3)
+**11th - SpaceFenix (3):** Br8dy_ (S3), ChainingVermin2 (S3), ItzBeeZ (S4)
 
-**10th - SpaceFenix (3):** Br8dy_ (S3), ChainingVermin2 (S3), ItzBeeZ (S4)
+**13th - 5kylord (2):** JustNolan (S2), Westcraft00 (S2)
 
-**12th - 5kylord (2):** JustNolan (S2), Westcraft00 (S2)
+**13th - BoltsInCharge (2):** DarrenBGP (S1), m4ku (S2)
 
-**12th - BoltsInCharge (2):** DarrenBGP (S1), m4ku (S2)
+**13th - Broseph (2):** Nuclearsugar (S2), grantfaker (S2)
 
-**12th - Broseph (2):** Nuclearsugar (S2), grantfaker (S2)
+**13th - ChainingVermin2 (2):** CAMKART100 (S2), MichaelPlayMC (S3)
 
-**12th - ChainingVermin2 (2):** CAMKART100 (S2), MichaelPlayMC (S3)
+**13th - CommanderK22_ (2):** Stravilight (S1), Blarkslol (S1)
 
-**12th - CommanderK22_ (2):** Stravilight (S1), Blarkslol (S1)
+**13th - DarrenBGP (2):** MercuryParadox (S2), EndestroyerEpic (S2)
 
-**12th - DarrenBGP (2):** MercuryParadox (S2), EndestroyerEpic (S2)
+**13th - EndestroyerEpic (2):** omchris (S2), cherryblawsom (S4)
 
-**12th - EndestroyerEpic (2):** omchris (S2), cherryblawsom (S4)
+**13th - fruitlogic (2):** EndestroyerEpic (S3), TalonBX (S4)
 
-**12th - fruitlogic (2):** EndestroyerEpic (S3), TalonBX (S4)
+**13th - ItsShqky (2):** Ryfri (S1), CAMKART100 (S3)
 
-**12th - ItsShqky (2):** Ryfri (S1), CAMKART100 (S3)
+**13th - Louiwe (2):** MichaelPlayMC (S4), EndestroyerEpic (S4)
 
-**12th - Louiwe (2):** MichaelPlayMC (S4), EndestroyerEpic (S4)
+**13th - Westcraft00 (2):** Klickacat (S2), MercuryParadox (S5)
 
-**12th - m4ku (2):** Klickacat (S4), pierce981 (S4)
+**24th - Caydone (1):** strategy (S2)
 
-**23rd - Caydone (1):** strategy (S2)
+**24th - DJoee (1):** Sharkbob94349 (S2)
 
-**23rd - DJoee (1):** Sharkbob94349 (S2)
+**24th - JustNolan (1):** CommanderK22_ (S2)
 
-**23rd - JustNolan (1):** CommanderK22_ (S2)
+**24th - Keelando (1):** FroztiSnowman (S5)
 
-**23rd - lasdarling (1):** Westcraft00 (S4)
+**24th - lasdarling (1):** Westcraft00 (S4)
 
-**23rd - MercuryParadox (1):** BoltsInCharge (S2)
+**24th - MercuryParadox (1):** BoltsInCharge (S2)
 
-**23rd - MichaelPlayMC (1):** Rebelghost (S4)
+**24th - MichaelPlayMC (1):** Rebelghost (S4)
 
-**23rd - Rebelghost (1):** CAMKART100 (S4)
+**24th - Rebelghost (1):** CAMKART100 (S4)
 
-**23rd - ShootingGoats (1):** MaxEvasion (S2)
+**24th - ShootingGoats (1):** MaxEvasion (S2)
 
-**23rd - Stravilight (1):** BoltsInCharge (S1)
+**24th - SmolHatChild (1):** Keelando (S5)
 
-**23rd - Westcraft00 (1):** Klickacat (S2)
+**24th - Stravilight (1):** BoltsInCharge (S1)
 
 ---
 ### PvE Deaths
 
-**Creeper (2):** ArcticSeagull (S1), CodeJoshua (S3)
+**Creeper (3):** ArcticSeagull (S1), CodeJoshua (S3), ScaryPumpkinFace (S5)
 
 **Fall (2):** Kaismartypants (S3), Nuclearsugar (S4)
 
@@ -169,13 +189,15 @@
 ---
 ### Participation
 
-**4 Seasons (5):** _1mmortal_ (S1-S4), broccoliar (S1-S4), CodeJoshua (S1-S4), Nuclearsugar (S1-S4), Vetmire (S1-S4)
+**5 Seasons (3):** _1mmortal_ (S1-S5), broccoliar (S1-S5), Vetmire (S1-S5)
 
-**3 Seasons (14):** Blarkslol (S1-S2,S4), ChainingVermin2 (S1-S3), DarrenBGP (S1-S2,S4), fruitlogic (S1,S3-S4), grantfaker (S1-S2,S4), ItsShqky (S1,S3-S4), ShootingGoats (S1-S3), CAMKART100 (S2-S4), EndestroyerEpic (S2-S4), ItzBeeZ (S2-S4), Klickacat (S2-S4), MercuryParadox (S2-S4), omchris (S2-S4), wizarde (S2-S4)
+**4 Seasons (8):** CodeJoshua (S1-S4), ItsShqky (S1,S3-S5), Nuclearsugar (S1-S4), ShootingGoats (S1-S3,S5), ItzBeeZ (S2-S5), Klickacat (S2-S5), MercuryParadox (S2-S5), omchris (S2-S5)
 
-**2 Seasons (16):** BoltsInCharge (S1-S2), CommanderK22_ (S1-S2), lasdarling (S1,S4), Ryfri (S1-S2), Stravilight (S1,S3), 5kylord (S2-S3), Br8dy_ (S2-S3), Greeples (S2-S3), Kaismartypants (S2-S3), m4ku (S2,S4), MaxEvasion (S2,S4), Westcraft00 (S2,S4), brinkwhy (S3-S4), cherryblawsom (S3-S4), MichaelPlayMC (S3-S4), SpaceFenix (S3-S4)
+**3 Seasons (17):** Blarkslol (S1-S2,S4), ChainingVermin2 (S1-S3), DarrenBGP (S1-S2,S4), fruitlogic (S1,S3-S4), grantfaker (S1-S2,S4), 5kylord (S2-S3,S5), CAMKART100 (S2-S4), EndestroyerEpic (S2-S4), Kaismartypants (S2-S3,S5), m4ku (S2,S4-S5), MaxEvasion (S2,S4-S5), Westcraft00 (S2,S4-S5), wizarde (S2-S4), brinkwhy (S3-S5), cherryblawsom (S3-S5), MichaelPlayMC (S3-S5), SpaceFenix (S3-S5)
 
-**1 Season (19):** ArcticSeagull (S1), Geroot (S1), poWpaH (S1), Broseph (S2), Caydone (S2), DJoee (S2), jsr_ (S2), JustNolan (S2), Sharkbob94349 (S2), SoupestGlobe (S2), strategy (S2), DevoyTTV (S3), brayuhn (S4), Keelando (S4), Louiwe (S4), pierce981 (S4), Queequa (S4), Rebelghost (S4), TalonBX (S4)
+**2 Seasons (10):** BoltsInCharge (S1-S2), CommanderK22_ (S1-S2), Geroot (S1,S5), lasdarling (S1,S4), Ryfri (S1-S2), Stravilight (S1,S3), Br8dy_ (S2-S3), Greeples (S2-S3), Sharkbob94349 (S2,S5), Keelando (S4-S5)
+
+**1 Season (23):** ArcticSeagull (S1), poWpaH (S1), Broseph (S2), Caydone (S2), DJoee (S2), jsr_ (S2), JustNolan (S2), SoupestGlobe (S2), strategy (S2), DevoyTTV (S3), brayuhn (S4), Louiwe (S4), pierce981 (S4), Queequa (S4), Rebelghost (S4), TalonBX (S4), AHSOKATANOSTAN (S5), FroztiSnowman (S5), MuchoLinguine (S5), ScaryPumpkinFace (S5), SmolHatChild (S5), Ullti (S5), zoeywithawhy (S5)
 
 ---
 ### Debutants
@@ -187,5 +209,7 @@
 **S3 (5):** brinkwhy, cherryblawsom, DevoyTTV, MichaelPlayMC, SpaceFenix
 
 **S4 (7):** brayuhn, Keelando, Louiwe, pierce981, Queequa, Rebelghost, TalonBX
+
+**S5 (7):** AHSOKATANOSTAN, FroztiSnowman, MuchoLinguine, ScaryPumpkinFace, SmolHatChild, Ullti, zoeywithawhy
 
 ---

@@ -14,7 +14,7 @@
 
 **S1:** Aioda (0), Blacxican (1), collowollo (0), ixb (1), jigsaws (0), Mininglover24 (0), ToxicGapple (0)
 
-**S2:** Blazar (1), braidenOW (0), brinkwhy (1), DukieJr (0), Hedidit (1), heroninja112 (0), JaicePyro (0), JohnzRIP (0), JoshC2 (0), Raiders74 (0), TheSheepMasters (0), TwistedGoose (0), xSemiCollin (0)
+**S2:** Blazar (1), braidenOW (0), brinkwhy (1), DukieJr (0), Hedidit (1), heroninja112 (0), JaicePyro (0), JohnzRIP (0), JoshC2 (0), Raiders74 (0), shrekisgoat (0), TheSheepMasters (0), xSemiCollin (0)
 
 **S3:** BangAri (0), CheeriosJunesYT (0), DallasMavericks (1), Fleetato (0), Glitch_mode (1)
 
@@ -97,7 +97,7 @@
 
 **7th - Djmandude (1):** ixb (S1)
 
-**7th - FrowardSnake (1):** TwistedGoose (S2)
+**7th - FrowardSnake (1):** shrekisgoat (S2)
 
 **7th - Glitch_mode (1):** HeyImHungry (S3)
 
@@ -131,14 +131,14 @@
 
 **2 Seasons (1):** HeyImHungry (S1,S3)
 
-**1 Season (45):** Aioda (S1), Blacxican (S1), collowollo (S1), Djmandude (S1), dnkin (S1), ItsStrqfe (S1), ixb (S1), jigsaws (S1), Krimm (S1), Mininglover24 (S1), PolarUHC (S1), SergeantM (S1), ToxicGapple (S1), Blazar (S2), braidenOW (S2), brinkwhy (S2), DeadpoolUHC (S2), Dragon_Vapes (S2), DukieJr (S2), FrowardSnake (S2), Hedidit (S2), heroninja112 (S2), JaicePyro (S2), JamestheDouglas (S2), JohnzRIP (S2), JoshC2 (S2), Kqvn (S2), Raiders74 (S2), RizinYT (S2), Sneaky26 (S2), TheSheepMasters (S2), ToggleXD (S2), TwistedGoose (S2), VIBEEY (S2), xHorizonn (S2), xSemiCollin (S2), BangAri (S3), CheeriosJunesYT (S3), DallasMavericks (S3), Fleetato (S3), Glitch_mode (S3), I3eCynical (S3), Shiny_2864 (S3), Staxes (S3), WolfeXCIX (S3)
+**1 Season (45):** Aioda (S1), Blacxican (S1), collowollo (S1), Djmandude (S1), dnkin (S1), ItsStrqfe (S1), ixb (S1), jigsaws (S1), Krimm (S1), Mininglover24 (S1), PolarUHC (S1), SergeantM (S1), ToxicGapple (S1), Blazar (S2), braidenOW (S2), brinkwhy (S2), DeadpoolUHC (S2), Dragon_Vapes (S2), DukieJr (S2), FrowardSnake (S2), Hedidit (S2), heroninja112 (S2), JaicePyro (S2), JamestheDouglas (S2), JohnzRIP (S2), JoshC2 (S2), Kqvn (S2), Raiders74 (S2), RizinYT (S2), shrekisgoat (S2), Sneaky26 (S2), TheSheepMasters (S2), ToggleXD (S2), VIBEEY (S2), xHorizonn (S2), xSemiCollin (S2), BangAri (S3), CheeriosJunesYT (S3), DallasMavericks (S3), Fleetato (S3), Glitch_mode (S3), I3eCynical (S3), Shiny_2864 (S3), Staxes (S3), WolfeXCIX (S3)
 
 ---
 ### Debutants
 
 **S1 (14):** Aioda, Blacxican, collowollo, Djmandude, dnkin, HeyImHungry, ItsStrqfe, ixb, jigsaws, Krimm, Mininglover24, PolarUHC, SergeantM, ToxicGapple
 
-**S2 (23):** Blazar, braidenOW, brinkwhy, DeadpoolUHC, Dragon_Vapes, DukieJr, FrowardSnake, Hedidit, heroninja112, JaicePyro, JamestheDouglas, JohnzRIP, JoshC2, Kqvn, Raiders74, RizinYT, Sneaky26, TheSheepMasters, ToggleXD, TwistedGoose, VIBEEY, xHorizonn, xSemiCollin
+**S2 (23):** Blazar, braidenOW, brinkwhy, DeadpoolUHC, Dragon_Vapes, DukieJr, FrowardSnake, Hedidit, heroninja112, JaicePyro, JamestheDouglas, JohnzRIP, JoshC2, Kqvn, Raiders74, RizinYT, shrekisgoat, Sneaky26, TheSheepMasters, ToggleXD, VIBEEY, xHorizonn, xSemiCollin
 
 **S3 (9):** BangAri, CheeriosJunesYT, DallasMavericks, Fleetato, Glitch_mode, I3eCynical, Shiny_2864, Staxes, WolfeXCIX
 

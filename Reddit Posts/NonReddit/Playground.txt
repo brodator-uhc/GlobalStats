@@ -173,7 +173,7 @@
 
 **8th - Pelycosaur (5):** Dragon1ce (S3), NickPlaysGames15 (S5), TayUHC (S7), ItzIgglesPiggles (S7), broccoliar (S8)
 
-**10th - Bofishkix (4):** Dargxn (S3), TayUHC (S5), JaeHasNoMaidens (S8), natsuvi (S8)
+**10th - Bofishkix (4):** Dargxn (S3), TayUHC (S5), commitstaxfraud (S8), natsuvi (S8)
 
 **10th - Kizunq (4):** KineticYT (S2), arslab (S2), Camern (S2), TrueFour (S2)
 
@@ -209,6 +209,8 @@
 
 **27th - Captinn (1):** ArcticSeagull (S6)
 
+**27th - commitstaxfraud (1):** Captinn (S8)
+
 **27th - Delighted2MeetU (1):** NickPlaysGames15 (S4)
 
 **27th - Evzenitable (1):** Codwhy (S8)
@@ -218,8 +220,6 @@
 **27th - Glarza (1):** MrSurvivalist (S4)
 
 **27th - ItsShqky (1):** DragonGlory (S4)
-
-**27th - JaeHasNoMaidens (1):** Captinn (S8)
 
 **27th - Kaddyn (1):** Zcin (S8)
 
@@ -265,7 +265,7 @@
 
 **2 Seasons (7):** Stravilight (S2,S4), AdonisGaming (S3,S5), Glarza (S4,S8), Karliffu (S5-S6), PwincessVanessa (S5-S6), ItzIgglesPiggles (S7-S8), TehBaconBrawlerZ (S7-S8)
 
-**1 Season (48):** Dioxid (S1), FellOnMyHead (S1), kaiiote (S1), KatusoMc (S1), RuggedFlame (S1), stardark (S1), valthefurry (S1), xJurassicRaptor (S1), Zyrx (S1), _NyKo (S2), arslab (S2), Brennnan (S2), Camern (S2), ghostblurr (S2), Ginzburg (S2), KineticYT (S2), Kizunq (S2), LunarWhiteWolf (S2), MKnight (S2), TrueFour (S2), Zyaf (S2), Dragon1ce (S3), itsBearie (S3), MidnightKile (S3), The_Guardian_Tim (S3), CipherKai (S4), Delighted2MeetU (S4), Kaizain (S4), xRaltz (S4), Crafters (S5), DevoyTTV (S5), PresidentFleb (S5), Cubic44 (S6), egl_ (S6), TheSheepMasters (S6), Julse (S7), Plushy33 (S7), Rebelghost (S7), brinniex (S8), Charlottie (S8), Codwhy (S8), Fourbitplayer (S8), JaeHasNoMaidens (S8), Kaddyn (S8), MaxEvasion (S8), natsuvi (S8), Rougero (S8), TitaniumDino25 (S8)
+**1 Season (48):** Dioxid (S1), FellOnMyHead (S1), kaiiote (S1), KatusoMc (S1), RuggedFlame (S1), stardark (S1), valthefurry (S1), xJurassicRaptor (S1), Zyrx (S1), _NyKo (S2), arslab (S2), Brennnan (S2), Camern (S2), ghostblurr (S2), Ginzburg (S2), KineticYT (S2), Kizunq (S2), LunarWhiteWolf (S2), MKnight (S2), TrueFour (S2), Zyaf (S2), Dragon1ce (S3), itsBearie (S3), MidnightKile (S3), The_Guardian_Tim (S3), CipherKai (S4), Delighted2MeetU (S4), Kaizain (S4), xRaltz (S4), Crafters (S5), DevoyTTV (S5), PresidentFleb (S5), Cubic44 (S6), egl_ (S6), TheSheepMasters (S6), Julse (S7), Plushy33 (S7), Rebelghost (S7), brinniex (S8), Charlottie (S8), Codwhy (S8), commitstaxfraud (S8), Fourbitplayer (S8), Kaddyn (S8), MaxEvasion (S8), natsuvi (S8), Rougero (S8), TitaniumDino25 (S8)
 
 ---
 ### Debutants
@@ -284,6 +284,6 @@
 
 **S7 (5):** ItzIgglesPiggles, Julse, Plushy33, Rebelghost, TehBaconBrawlerZ
 
-**S8 (10):** brinniex, Charlottie, Codwhy, Fourbitplayer, JaeHasNoMaidens, Kaddyn, MaxEvasion, natsuvi, Rougero, TitaniumDino25
+**S8 (10):** brinniex, Charlottie, Codwhy, commitstaxfraud, Fourbitplayer, Kaddyn, MaxEvasion, natsuvi, Rougero, TitaniumDino25
 
 ---

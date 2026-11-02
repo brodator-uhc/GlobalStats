@@ -11,6 +11,8 @@
 
 **S4: ItzBeeZ (4)**, *MichaelPlayMC (0)*
 
+**S5: grantfaker (8)**, *MuchoLinguine (0), Queequa (0)*
+
 ---
 ### Runner Ups
 
@@ -21,6 +23,8 @@
 **S3:** _Fost_ (0), broccoliar (0), Mafiat (0), Stravilight (0)
 
 **S4:** BoltsInCharge (4), Slooshyy (0)
+
+**S5:** brinkwhy (0), JampoJohn (3), MichaelPlayMC (1)
 
 ---
 ### Most Kills
@@ -33,6 +37,8 @@
 
 **S4:** BoltsInCharge, ItzBeeZ (4)
 
+**S5:** grantfaker (8)
+
 ---
 ### Most Kills (Team)
 
@@ -43,6 +49,8 @@
 **S3:** Cubic44 (3), DevoyTTV (3), MichaelPlayMC (1), St0rmplayz (3)
 
 **S4:** BoltsInCharge (4), Slooshyy (0) & BEANJEE (3), JampoJohn (1) & ItzBeeZ (4), MichaelPlayMC (0)
+
+**S5:** grantfaker (8), MuchoLinguine (0), Queequa (0)
 
 ---
 ### First Damage
@@ -55,6 +63,8 @@
 
 **S4:** Rebelghost (0:0:50)
 
+**S5:** broccoliar (0:10:43)
+
 ---
 ### Ironman
 
@@ -65,6 +75,8 @@
 **S3:** Cubic44 (1:24:29)
 
 **S4:** boyyoo (0:58:5)
+
+**S5:** Queequa (1:29:31)
 
 ---
 ### First Blood
@@ -77,6 +89,8 @@
 
 **S4:** ItzBeeZ (Slooshyy)
 
+**S5:** grantfaker (ArcticSeagull)
+
 ---
 ### First Death
 
@@ -88,92 +102,102 @@
 
 **S4:** Slooshyy (ItzBeeZ)
 
+**S5:** ArcticSeagull (grantfaker)
+
 ---
 ### Kills
 
-**1st - broccoliar (9):** ArcticSeagull (S1), Charrlottie (S1), TheSlimeBrother (S1), boyyoo (S1), ImChile (S1), AirInAirOut (S1), MichaelPlayMC (S2), Westcraft00 (S2), CodeJoshua (S2)
+**1st - broccoliar (11):** ArcticSeagull (S1), Charrlottie (S1), TheSlimeBrother (S1), boyyoo (S1), ImChile (S1), AirInAirOut (S1), MichaelPlayMC (S2), Westcraft00 (S2), CodeJoshua (S2), Markedbooboy (S5), ScaryPumpkinFace (S5)
 
-**2nd - boyyoo (8):** Greeples (S1), TehBaconBrawlerZ (S1), Andronify (S1), Rebelghost (S1), Cubic44 (S1), ShootingGoats (S1), noktime (S3), Slooshyy (S3)
+**2nd - BoltsInCharge (9):** TheSlimeBrother (S3), MichaelPlayMC (S4), brinkwhy (S4), grantfaker (S4), BEANJEE (S4), ItzBeeZ (S5), ShootingGoats (S5), broccoliar (S5), WackoFlipper (S5)
 
-**3rd - brinkwhy (7):** AirInAirOut (S2), ShootingGoats (S2), SpoiderEyes (S2), ItzBeeZ (S2), broccoliar (S2), Br8dy_ (S3), ScaryPumpkinFace (S4)
+**3rd - boyyoo (8):** Greeples (S1), TehBaconBrawlerZ (S1), Andronify (S1), Rebelghost (S1), Cubic44 (S1), ShootingGoats (S1), noktime (S3), Slooshyy (S3)
 
-**4th - BoltsInCharge (5):** TheSlimeBrother (S3), MichaelPlayMC (S4), brinkwhy (S4), grantfaker (S4), BEANJEE (S4)
+**3rd - grantfaker (8):** ArcticSeagull (S5), St0rmplayz (S5), noktime (S5), TheSlimeBrother (S5), brinkwhy (S5), BoltsInCharge (S5), MichaelPlayMC (S5), JampoJohn (S5)
 
-**4th - ImChile (5):** ScaryPumpkinFace (S1), AvyleZ (S1), brinkwhy (S3), _Fost_ (S3), NickPlaysGames15 (S3)
+**5th - brinkwhy (7):** AirInAirOut (S2), ShootingGoats (S2), SpoiderEyes (S2), ItzBeeZ (S2), broccoliar (S2), Br8dy_ (S3), ScaryPumpkinFace (S4)
 
-**4th - ItzBeeZ (5):** JampoJohn (S2), Slooshyy (S4), boyyoo (S4), JampoJohn (S4), BoltsInCharge (S4)
+**6th - BEANJEE (5):** DevoyTTV (S3), ShootingGoats (S4), Rebelghost (S4), Markedbooboy (S4), Greeples (S5)
 
-**7th - BEANJEE (4):** DevoyTTV (S3), ShootingGoats (S4), Rebelghost (S4), Markedbooboy (S4)
+**6th - ImChile (5):** ScaryPumpkinFace (S1), AvyleZ (S1), brinkwhy (S3), _Fost_ (S3), NickPlaysGames15 (S3)
 
-**7th - CodeJoshua (4):** DogOfKrondor (S2), Cubic44 (S2), BoltsInCharge (S3), boyyoo (S3)
+**6th - ItzBeeZ (5):** JampoJohn (S2), Slooshyy (S4), boyyoo (S4), JampoJohn (S4), BoltsInCharge (S4)
 
-**7th - Cubic44 (4):** St0rmplayz (S1), Mafiat (S3), Stravilight (S3), Zebobo10 (S3)
+**9th - CodeJoshua (4):** DogOfKrondor (S2), Cubic44 (S2), BoltsInCharge (S3), boyyoo (S3)
 
-**7th - noktime (4):** zoeywithawhy (S2), ScaryPumpkinFace (S2), Rebelghost (S2), Stravilight (S2)
+**9th - Cubic44 (4):** St0rmplayz (S1), Mafiat (S3), Stravilight (S3), Zebobo10 (S3)
 
-**7th - ShootingGoats (4):** JampoJohn (S1), Karliffu (S1), _Fost_ (S1), ImChile (S2)
+**9th - JampoJohn (4):** MangoPlayz (S4), boyyoo (S5), BEANJEE (S5), AUD_ODD (S5)
 
-**7th - Zebobo10 (4):** DogOfKrondor (S3), Sharkbob94349 (S3), grantfaker (S3), MichaelPlayMC (S3)
+**9th - noktime (4):** zoeywithawhy (S2), ScaryPumpkinFace (S2), Rebelghost (S2), Stravilight (S2)
 
-**13th - DevoyTTV (3):** Djmandude (S3), SpoiderEyes (S3), BEANJEE (S3)
+**9th - ShootingGoats (4):** JampoJohn (S1), Karliffu (S1), _Fost_ (S1), ImChile (S2)
 
-**13th - Djmandude (3):** Westcraft00 (S1), Sharkbob94349 (S2), noktime (S2)
+**9th - St0rmplayz (4):** ImChile (S3), TehBaconBrawlerZ (S3), broccoliar (S3), Queequa (S5)
 
-**13th - Greeples (3):** Rebelghost (S3), DevoyTTV (S4), zoeywithawhy (S4)
+**9th - TehBaconBrawlerZ (4):** MangoPlayz (S1), Charrlottie (S3), Sharkbob94349 (S5), Charrlottie (S5)
 
-**13th - Markedbooboy (3):** MichaelPlayMC (S1), Zebobo10 (S1), DogOfKrondor (S4)
+**9th - Zebobo10 (4):** DogOfKrondor (S3), Sharkbob94349 (S3), grantfaker (S3), MichaelPlayMC (S3)
 
-**13th - Rebelghost (3):** DogOfKrondor (S1), NickPlaysGames15 (S2), JampoJohn (S3)
+**17th - DevoyTTV (3):** Djmandude (S3), SpoiderEyes (S3), BEANJEE (S3)
 
-**13th - St0rmplayz (3):** ImChile (S3), TehBaconBrawlerZ (S3), broccoliar (S3)
+**17th - Djmandude (3):** Westcraft00 (S1), Sharkbob94349 (S2), noktime (S2)
 
-**19th - _Fost_ (2):** Br8dy_ (S1), Djmandude (S1)
+**17th - Greeples (3):** Rebelghost (S3), DevoyTTV (S4), zoeywithawhy (S4)
 
-**19th - AirInAirOut (2):** Nuclearsugar (S1), Markedbooboy (S1)
+**17th - Markedbooboy (3):** MichaelPlayMC (S1), Zebobo10 (S1), DogOfKrondor (S4)
 
-**19th - NickPlaysGames15 (2):** CharizOVO (S2), Greeples (S3)
+**17th - Rebelghost (3):** DogOfKrondor (S1), NickPlaysGames15 (S2), JampoJohn (S3)
 
-**19th - SpoiderEyes (2):** boyyoo (S2), Br8dy_ (S2)
+**22nd - _Fost_ (2):** Br8dy_ (S1), Djmandude (S1)
 
-**19th - TehBaconBrawlerZ (2):** MangoPlayz (S1), Charrlottie (S3)
+**22nd - AirInAirOut (2):** Nuclearsugar (S1), Markedbooboy (S1)
 
-**24th - Charrlottie (1):** Sharkbob94349 (S4)
+**22nd - MichaelPlayMC (2):** CodeJoshua (S3), CodeJoshua (S5)
 
-**24th - DogOfKrondor (1):** AirInAirOut (S3)
+**22nd - NickPlaysGames15 (2):** CharizOVO (S2), Greeples (S3)
 
-**24th - JampoJohn (1):** MangoPlayz (S4)
+**22nd - ScaryPumpkinFace (2):** Charrlottie (S4), Stravilight (S5)
 
-**24th - Karliffu (1):** PitSolitayrh (S1)
+**22nd - SpoiderEyes (2):** boyyoo (S2), Br8dy_ (S2)
 
-**24th - kirbey (1):** Mafiat (S1)
+**22nd - TheSlimeBrother (2):** SpoiderEyes (S1), MuchoLinguine (S5)
 
-**24th - MichaelPlayMC (1):** CodeJoshua (S3)
+**22nd - WackoFlipper (2):** MercuryParadox (S5), TehBaconBrawlerZ (S5)
 
-**24th - Nuclearsugar (1):** brinkwhy (S1)
+**30th - Charrlottie (1):** Sharkbob94349 (S4)
 
-**24th - ScaryPumpkinFace (1):** Charrlottie (S4)
+**30th - DogOfKrondor (1):** AirInAirOut (S3)
 
-**24th - TheSlimeBrother (1):** SpoiderEyes (S1)
+**30th - Karliffu (1):** PitSolitayrh (S1)
 
-**24th - zoeywithawhy (1):** Greeples (S4)
+**30th - kirbey (1):** Mafiat (S1)
+
+**30th - Nuclearsugar (1):** brinkwhy (S1)
+
+**30th - zoeywithawhy (1):** Greeples (S4)
 
 ---
 ### PvE Deaths
 
-**Fall (1):** kirbey (S1)
+**Fall (2):** kirbey (S1), Slooshyy (S5)
 
-**Lava (1):** Andronify (S3)
+**Lava (2):** Andronify (S3), SpoiderEyes (S5)
+
+**Zombie (1):** DogOfKrondor (S5)
 
 ---
 ### Participation
 
-**4 Seasons (6):** boyyoo (S1-S4), brinkwhy (S1-S4), DogOfKrondor (S1-S4), JampoJohn (S1-S4), MichaelPlayMC (S1-S4), Rebelghost (S1-S4)
+**5 Seasons (5):** boyyoo (S1-S5), brinkwhy (S1-S5), DogOfKrondor (S1-S5), JampoJohn (S1-S5), MichaelPlayMC (S1-S5)
 
-**3 Seasons (12):** AirInAirOut (S1-S3), Br8dy_ (S1-S3), broccoliar (S1-S3), Charrlottie (S1,S3-S4), Cubic44 (S1-S3), Djmandude (S1-S3), Greeples (S1,S3-S4), ImChile (S1-S3), ScaryPumpkinFace (S1-S2,S4), ShootingGoats (S1-S2,S4), SpoiderEyes (S1-S3), Sharkbob94349 (S2-S4)
+**4 Seasons (8):** broccoliar (S1-S3,S5), Charrlottie (S1,S3-S5), Greeples (S1,S3-S5), Rebelghost (S1-S4), ScaryPumpkinFace (S1-S2,S4-S5), ShootingGoats (S1-S2,S4-S5), SpoiderEyes (S1-S3,S5), Sharkbob94349 (S2-S5)
 
-**2 Seasons (21):** _Fost_ (S1,S3), Andronify (S1,S3), Mafiat (S1,S3), MangoPlayz (S1,S4), Markedbooboy (S1,S4), St0rmplayz (S1,S3), TehBaconBrawlerZ (S1,S3), TheSlimeBrother (S1,S3), Westcraft00 (S1-S2), Zebobo10 (S1,S3), CodeJoshua (S2-S3), ItzBeeZ (S2,S4), NickPlaysGames15 (S2-S3), noktime (S2-S3), Stravilight (S2-S3), zoeywithawhy (S2,S4), BEANJEE (S3-S4), BoltsInCharge (S3-S4), DevoyTTV (S3-S4), grantfaker (S3-S4), Slooshyy (S3-S4)
+**3 Seasons (17):** AirInAirOut (S1-S3), Br8dy_ (S1-S3), Cubic44 (S1-S3), Djmandude (S1-S3), ImChile (S1-S3), Markedbooboy (S1,S4-S5), St0rmplayz (S1,S3,S5), TehBaconBrawlerZ (S1,S3,S5), TheSlimeBrother (S1,S3,S5), CodeJoshua (S2-S3,S5), ItzBeeZ (S2,S4-S5), noktime (S2-S3,S5), Stravilight (S2-S3,S5), BEANJEE (S3-S5), BoltsInCharge (S3-S5), grantfaker (S3-S5), Slooshyy (S3-S5)
 
-**1 Season (7):** ArcticSeagull (S1), AvyleZ (S1), Karliffu (S1), kirbey (S1), Nuclearsugar (S1), PitSolitayrh (S1), CharizOVO (S2)
+**2 Seasons (10):** _Fost_ (S1,S3), Andronify (S1,S3), ArcticSeagull (S1,S5), Mafiat (S1,S3), MangoPlayz (S1,S4), Westcraft00 (S1-S2), Zebobo10 (S1,S3), NickPlaysGames15 (S2-S3), zoeywithawhy (S2,S4), DevoyTTV (S3-S4)
+
+**1 Season (11):** AvyleZ (S1), Karliffu (S1), kirbey (S1), Nuclearsugar (S1), PitSolitayrh (S1), CharizOVO (S2), AUD_ODD (S5), MercuryParadox (S5), MuchoLinguine (S5), Queequa (S5), WackoFlipper (S5)
 
 ---
 ### Debutants
@@ -185,5 +209,7 @@
 **S3 (5):** BEANJEE, BoltsInCharge, DevoyTTV, grantfaker, Slooshyy
 
 **S4 (0):** 
+
+**S5 (5):** AUD_ODD, MercuryParadox, MuchoLinguine, Queequa, WackoFlipper
 
 ---

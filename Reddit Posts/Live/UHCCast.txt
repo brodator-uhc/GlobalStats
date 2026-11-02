@@ -21,19 +21,19 @@
 
 **S9: _Fost_ (3), TayUHC (2)**, *Hrray (0), MELTINGBUDER (0)*
 
-**S10: probablyaj (1)**, *kawaiibunri (1)*
+**S10: probablyaj (1)**, *evuhlynx (1)*
 
 **S11: _Fost_ (4)**, *AshleyMashley (0), ItsTovelina (0)*
 
 **S12: Pelycosaur (9)**, *broccoliar (3), RuneTactics (0), Stravilight (0)*
 
-**S13: ghostblurr (7), Gorgerous (13)**, *BarelyPink (2), Captinn (5), Pikkl3 (1)*
+**S13: ghostblurr (7), Gorgerous (13)**, *Captinn (5), JustYeti (2), Pikkl3 (1)*
 
 **S14: _Fost_ (7)**, *Mafiat (0)*
 
-**S15: CodeJoshua (3), KennyTee (3)**, *kawaiibunri (1), Zapnic (1)*
+**S15: CodeJoshua (3), KennyTee (3)**, *evuhlynx (1), Zapnic (1)*
 
-**S16: Evpark (1), Hrray (3), poWpaH (8), TaylorLive (2), TehBaconBrawlerZ (1)**, *Klickacat (0), PrincexPetty (0)*
+**S16: Evpark (1), Hrray (3), poWpaH (8), TaylorLive (2), TehBaconBrawlerZ (1)**, *Klickacat (0), RioTsumiki (0)*
 
 **S17: AUD_ODD (0), Captinn (7), ItsTovelina (0)**
 
@@ -64,21 +64,21 @@
 
 **S8:** Pelycosaur (4)
 
-**S9:** Charrlottie (0), ItsShqky (3), Kaddyn (0), kawaiibunri (0)
+**S9:** Charrlottie (0), evuhlynx (0), ItsShqky (3), Kaddyn (0)
 
 **S10:** poWpaH (8), SergeantM (0)
 
 **S11:** Flcnt (0), odile (0), TeknoDemon (0), Zapnic (0)
 
-**S12:** Charrlottie (0), Cqson (3), kawaiibunri (2), MaxEvasion (1)
+**S12:** Charrlottie (0), Cqson (3), evuhlynx (2), MaxEvasion (1)
 
-**S13:** Kermitts (0), MangoPlayz (0), Stravilight (1), superjimyeah (0)
+**S13:** Kermitts (0), MangoPlayz (0), Stravilight (1), Superjimyeah (0)
 
 **S14:** ItsTovelina (0), TheSlimeBrother (2)
 
 **S15:** AshleyMashley (2), Captinn (4), Markedbooboy (1), SiahStone (3)
 
-**S16:** CherriTart (0), Cinnamiinii (1), HalfLechuga (1), Jewelified (0), kawaiibunri (0), LostInTheSkiez (0), mcd573 (0)
+**S16:** CherriTart (0), Cinnamiinii (1), evuhlynx (0), HalfLechuga (1), Jewelified (0), KaeBTW (0), mcd573 (0)
 
 **S17:** lazys (2), marzenex (1), Stravilight (0)
 
@@ -162,13 +162,13 @@
 
 **S12:** broccoliar (3), RuneTactics (0), Pelycosaur (9), Stravilight (0)
 
-**S13:** Pikkl3 (1), Gorgerous (13), BarelyPink (2), Captinn (5), ghostblurr (7)
+**S13:** Pikkl3 (1), Gorgerous (13), JustYeti (2), Captinn (5), ghostblurr (7)
 
 **S14:** _Fost_ (7), Mafiat (0)
 
 **S15:** AshleyMashley (2), Captinn (4), Markedbooboy (1), SiahStone (3)
 
-**S16:** poWpaH (8), Evpark (1), Hrray (3), Klickacat (0), PrincexPetty (0), TaylorLive (2), TehBaconBrawlerZ (1)
+**S16:** poWpaH (8), Evpark (1), Hrray (3), Klickacat (0), RioTsumiki (0), TaylorLive (2), TehBaconBrawlerZ (1)
 
 **S17:** AUD_ODD (0), Captinn (7), ItsTovelina (0)
 
@@ -203,7 +203,7 @@
 
 **S10:** poWpaH (0:0:21)
 
-**S11:** kawaiibunri (0:0:29)
+**S11:** evuhlynx (0:0:29)
 
 **S12:** broccoliar (0:0:24)
 
@@ -303,7 +303,7 @@
 
 **S15:** SiahStone (ItsShqky)
 
-**S16:** ArcticSeagull (kawaiibunri)
+**S16:** ArcticSeagull (evuhlynx)
 
 **S17:** Bree_dable (Laqqy)
 
@@ -313,7 +313,7 @@
 
 **S20:** Flcnt (ArcticSeagull)
 
-**S21:** kawaiibunri (TehBaconBrawlerZ)
+**S21:** evuhlynx (TehBaconBrawlerZ)
 
 ---
 ### First Death
@@ -336,7 +336,7 @@
 
 **S9:** epicfries (Cave Spider)
 
-**S10:** PrincexPetty (Fall)
+**S10:** RioTsumiki (Fall)
 
 **S11:** TeknoDemon (Lava)
 
@@ -358,44 +358,44 @@
 
 **S20:** Emboar (Creeper)
 
-**S21:** TehBaconBrawlerZ (kawaiibunri)
+**S21:** TehBaconBrawlerZ (evuhlynx)
 
 ---
 ### Kills
 
 **1st - poWpaH (33):** AshleyMashley (S4), Bofishkix (S6), MarExists (S6), Flcnt (S6), ItsShqky (S6), Kaddyn (S7), Aaerons (S7), CodeJoshua (S9), SergeantM (S9), ArcticSeagull (S9), Captinn (S9), Pelycosaur (S9), SergeantM (S10), Zapnic (S10), Kaddyn (S10), Brandonious (S10), ArcticSeagull (S10), TehBaconBrawlerZ (S10), TheSlimeBrother (S10), AshleyMashley (S10), ItsTovelina (S11), Flcnt (S16), goompah (S16), NotXtra_ (S16), OhMatias (S16), BlockWizard99 (S16), QueenxPetty (S16), Bree_dable (S16), Jewelified (S16), Zapnic (S17), turicake (S18), olivieh (S18), noktime (S21)
 
-**2nd - Pelycosaur (29):** ArcticSeagull (S3), TehBaconBrawlerZ (S3), _Fost_ (S3), MangoPlayz (S4), TayUHC (S4), ExoticForce (S4), ItsShqky (S5), AshleyMashley (S5), edtoast_46 (S6), Cinnamiinii (S6), Zapnic (S7), KennyTee (S7), ArcticSeagull (S7), ItsShqky (S7), TheSlimeBrother (S7), SergeantM (S8), Kyi (S8), MangoPlayz (S8), TheSlimeBrother (S8), Canuk_Head (S9), ItsShqky (S12), Kaddyn (S12), Captinn (S12), AshleyMashley (S12), WinnerSkye (S12), Zapnic (S12), _Fost_ (S12), kawaiibunri (S12), Cqson (S12)
+**2nd - Pelycosaur (29):** ArcticSeagull (S3), TehBaconBrawlerZ (S3), _Fost_ (S3), MangoPlayz (S4), TayUHC (S4), ExoticForce (S4), ItsShqky (S5), AshleyMashley (S5), edtoast_46 (S6), Cinnamiinii (S6), Zapnic (S7), KennyTee (S7), ArcticSeagull (S7), ItsShqky (S7), TheSlimeBrother (S7), SergeantM (S8), Kyi (S8), MangoPlayz (S8), TheSlimeBrother (S8), Canuk_Head (S9), ItsShqky (S12), Kaddyn (S12), Captinn (S12), AshleyMashley (S12), WinnerSkye (S12), Zapnic (S12), _Fost_ (S12), evuhlynx (S12), Cqson (S12)
 
 **3rd - _Fost_ (23):** Flcnt (S3), ItsShqky (S3), Bofishkix (S3), Aaerons (S3), Charrlottie (S9), ItsShqky (S9), Kaddyn (S9), operloaf (S11), MELTINGBUDER (S11), Cqson (S11), Zapnic (S11), ItsTovelina (S12), RuneTactics (S12), broccoliar (S12), Charrlottie (S13), Tunaisheree (S14), Klickacat (S14), Crazyblue19 (S14), xDiversity (S14), CodeJoshua (S14), TehBaconBrawlerZ (S14), TheSlimeBrother (S14), SiahStone (S15)
 
-**4th - MaxEvasion (22):** Lsnce (S2), FragDempsey (S2), Plushy33 (S2), _Fost_ (S2), Cubic44 (S5), Cqson (S6), Charrlottie (S6), TeknoDemon (S6), FragDempsey (S6), Bulbexe (S6), CeolTun (S11), QueenxPetty (S11), Shashank_ (S11), kawaiibunri (S11), ArcticSeagull (S12), AshRiolu100985 (S19), Zapnic (S19), WinnerSkye (S19), korzieeTV (S20), fruitlogic (S20), BuildingBard300 (S20), TehBaconBrawlerZ (S20)
+**4th - MaxEvasion (22):** Lsnce (S2), FragDempsey (S2), Plushy33 (S2), _Fost_ (S2), Cubic44 (S5), Cqson (S6), Charrlottie (S6), TeknoDemon (S6), FragDempsey (S6), Bulbexe (S6), CeolTun (S11), QueenxPetty (S11), Shashank_ (S11), evuhlynx (S11), ArcticSeagull (S12), AshRiolu100985 (S19), Zapnic (S19), WinnerSkye (S19), korzieeTV (S20), fruitlogic (S20), BuildingBard300 (S20), TehBaconBrawlerZ (S20)
 
-**5th - Captinn (21):** ArcticSeagull (S13), Hrray (S13), ItsPinex (S13), Zapnic (S13), Julse (S13), Gorgerous (S14), operloaf (S15), TheSlimeBrother (S15), TehBaconBrawlerZ (S15), Zapnic (S15), Cinnamiinii (S16), HalfLechuga (S16), PrincexPetty (S16), Th3Skeleton (S17), Charrlottie (S17), Klickacat (S17), NotXtra_ (S17), poWpaH (S17), Nyxbee (S17), lazys (S17), Stravilight (S18)
+**5th - Captinn (21):** ArcticSeagull (S13), Hrray (S13), ItsPinex (S13), Zapnic (S13), Julse (S13), Gorgerous (S14), operloaf (S15), TheSlimeBrother (S15), TehBaconBrawlerZ (S15), Zapnic (S15), Cinnamiinii (S16), HalfLechuga (S16), RioTsumiki (S16), Th3Skeleton (S17), Charrlottie (S17), Klickacat (S17), NotXtra_ (S17), poWpaH (S17), Nyxbee (S17), lazys (S17), Stravilight (S18)
 
 **6th - Cqson (19):** ultralights (S5), Kaddyn (S6), opachi69 (S6), ghostblurr (S11), Charrlottie (S11), poWpaH (S11), silvaasaur (S11), Kaddyn (S11), odile (S11), Flcnt (S11), AshleyMashley (S11), CodeJoshua (S12), Codwhy (S12), TehBaconBrawlerZ (S12), korzieeTV (S14), OhMatias (S14), BLANK101 (S14), Brandonious (S14), ArcticSeagull (S14)
 
-**7th - Gorgerous (18):** Cqson (S13), p0tt2y (S13), ItsEth (S13), CaffeinatedBrew (S13), marzenex (S13), wackklo (S13), FragDempsey (S13), KendraSoup (S13), Mafiat (S13), MangoPlayz (S13), _Fost_ (S13), GamingStarr (S13), Stravilight (S13), mcd573 (S16), _Fost_ (S16), AUD_ODD (S19), kawaiibunri (S19), Stravilight (S21)
+**7th - Gorgerous (18):** Cqson (S13), p0tt2y (S13), ItsEth (S13), CaffeinatedBrew (S13), marzenex (S13), wackklo (S13), FragDempsey (S13), KendraSoup (S13), Mafiat (S13), MangoPlayz (S13), _Fost_ (S13), GamingStarr (S13), Stravilight (S13), mcd573 (S16), _Fost_ (S16), AUD_ODD (S19), evuhlynx (S19), Stravilight (S21)
 
 **8th - Kaddyn (17):** rac92 (S6), TayUHC (S8), RuneTactics (S8), flameorb (S8), AdorableActress (S10), Stravilight (S10), Charrlottie (S10), GamingStarr (S10), Brandonious (S11), Stravilight (S12), pianocatslol (S14), Mafiat (S14), Cqson (S14), MaxEvasion (S18), AUD_ODD (S18), Markedbooboy (S18), poWpaH (S18)
 
-**8th - Stravilight (17):** hashtagmat (S4), SinthetikBlue (S6), probablyaj (S6), operloaf (S6), MaxEvasion (S6), CodeJoshua (S6), MangoPlayz (S6), MarExists (S7), RuneTactics (S7), Flcnt (S7), MangoPlayz (S10), Captinn (S13), KendraSoup (S15), kawaiibunri (S15), nug17 (S19), lasdarling (S19), Demomaker (S21)
+**8th - Stravilight (17):** hashtagmat (S4), SinthetikBlue (S6), probablyaj (S6), operloaf (S6), MaxEvasion (S6), CodeJoshua (S6), MangoPlayz (S6), MarExists (S7), RuneTactics (S7), Flcnt (S7), MangoPlayz (S10), Captinn (S13), KendraSoup (S15), evuhlynx (S15), nug17 (S19), lasdarling (S19), Demomaker (S21)
 
-**10th - Flcnt (16):** ultralights (S2), Zapnic (S5), GamingStarr (S7), WinnerSkye (S7), SergeantM (S7), MaxEvasion (S7), probablyaj (S7), TeknoDemon (S7), Zapnic (S8), MangoPlayz (S14), kawaiibunri (S14), Pan05_ (S15), Captinn (S18), broccoliar (S18), ItsShqky (S18), ArcticSeagull (S20)
+**10th - Flcnt (16):** ultralights (S2), Zapnic (S5), GamingStarr (S7), WinnerSkye (S7), SergeantM (S7), MaxEvasion (S7), probablyaj (S7), TeknoDemon (S7), Zapnic (S8), MangoPlayz (S14), evuhlynx (S14), Pan05_ (S15), Captinn (S18), broccoliar (S18), ItsShqky (S18), ArcticSeagull (S20)
 
-**11th - TehBaconBrawlerZ (15):** MrEzzo (S1), Flcnt (S2), Cinnamiinii (S4), Aaerons (S10), Cinnamiinii (S13), Jewelified (S14), Kaddyn (S14), Mafiat (S15), MangoPlayz (S15), Zapnic (S16), nug17 (S17), MaxEvasion (S19), kawaiibunri (S20), K0REDRAG0N (S20), MaxEvasion (S20)
+**11th - TehBaconBrawlerZ (15):** MrEzzo (S1), Flcnt (S2), Cinnamiinii (S4), Aaerons (S10), Cinnamiinii (S13), Jewelified (S14), Kaddyn (S14), Mafiat (S15), MangoPlayz (S15), Zapnic (S16), nug17 (S17), MaxEvasion (S19), evuhlynx (S20), K0REDRAG0N (S20), MaxEvasion (S20)
 
-**12th - ArcticSeagull (14):** Twait_Waffle (S1), GamingStarr (S4), Flcnt (S4), KennyTee (S6), ultralights (S8), Rougero (S8), Lsnce (S8), Bree_dable (S9), Cinnamiinii (S10), WinnerSkye (S10), TheSlimeBrother (S11), Stravilight (S14), kawaiibunri (S16), SpaceFenix (S17)
+**12th - ArcticSeagull (14):** Twait_Waffle (S1), GamingStarr (S4), Flcnt (S4), KennyTee (S6), ultralights (S8), Rougero (S8), Lsnce (S8), Bree_dable (S9), Cinnamiinii (S10), WinnerSkye (S10), TheSlimeBrother (S11), Stravilight (S14), evuhlynx (S16), SpaceFenix (S17)
+
+**13th - evuhlynx (13):** HiGHOFFLiNES (S10), Cinnamiinii (S11), MaxEvasion (S11), Bree_dable (S12), TayUHC (S12), ItsShqky (S14), broccoliar (S14), AWhivenGuy (S15), broccoliar (S19), TehBaconBrawlerZ (S21), JoshC2 (S21), Gorgerous (S21), WinnerSkye (S21)
 
 **13th - ItsShqky (13):** Cqson (S3), Stravilight (S3), Zcin (S6), RuneTactics (S6), Pelycosaur (S6), ghostblurr (S6), SockTycooon (S7), ButterflyDad (S7), MELTINGBUDER (S8), Stravilight (S8), AshleyMashley (S9), Hrray (S9), MELTINGBUDER (S9)
 
-**13th - kawaiibunri (13):** HiGHOFFLiNES (S10), Cinnamiinii (S11), MaxEvasion (S11), Bree_dable (S12), TayUHC (S12), ItsShqky (S14), broccoliar (S14), AWhivenGuy (S15), broccoliar (S19), TehBaconBrawlerZ (S21), JoshC2 (S21), Gorgerous (S21), WinnerSkye (S21)
+**13th - MangoPlayz (13):** LinusStudios (S4), xDiversity (S4), MainAgate5 (S4), Bofishkix (S5), TeknoDemon (S8), probablyaj (S8), ItsShqky (S8), Flcnt (S15), AshleyMashley (S18), Dactus_ (S18), Flcnt (S18), fruitlogic (S19), CodeJoshua (S19)
 
-**13th - MangoPlayz (13):** linusstudios (S4), xDiversity (S4), MainAgate5 (S4), Bofishkix (S5), TeknoDemon (S8), probablyaj (S8), ItsShqky (S8), Flcnt (S15), AshleyMashley (S18), Dactus_ (S18), Flcnt (S18), fruitlogic (S19), CodeJoshua (S19)
+**16th - ghostblurr (11):** Kaddyn (S13), Pan05_ (S13), NotXtra_ (S13), Superjimyeah (S13), Codwhy (S13), TehBaconBrawlerZ (S13), ItsTovelina (S13), spleep (S14), Flcnt (S14), Captinn (S14), HalfLechuga (S20)
 
-**16th - ghostblurr (11):** Kaddyn (S13), Pan05_ (S13), NotXtra_ (S13), superjimyeah (S13), Codwhy (S13), TehBaconBrawlerZ (S13), ItsTovelina (S13), spleep (S14), Flcnt (S14), Captinn (S14), HalfLechuga (S20)
-
-**16th - KennyTee (11):** TehBaconBrawlerZ (S5), MainAgate5 (S5), Pelycosaur (S5), Charrlottie (S7), Markedbooboy (S15), SamOn1ine (S15), _Fost_ (S15), HalfLechuga (S17), Hrray (S17), WinnerSkye (S17), AshleyMashley (S19)
+**16th - KennyTee (11):** TehBaconBrawlerZ (S5), MainAgate5 (S5), Pelycosaur (S5), Charrlottie (S7), Markedbooboy (S15), _JustAlyssa (S15), _Fost_ (S15), HalfLechuga (S17), Hrray (S17), WinnerSkye (S17), AshleyMashley (S19)
 
 **16th - xDiversity (11):** probablyaj (S4), TehBaconBrawlerZ (S4), TayUHC (S5), RuneTactics (S5), Stravilight (S5), WinnerSkye (S5), KennyTee (S5), Flcnt (S5), opachi69 (S5), Cqson (S5), Rebelghost (S5)
 
@@ -407,11 +407,11 @@
 
 **20th - SpaceFenix (8):** Stravilight (S17), marzenex (S17), epicfries (S17), Zapnic (S20), nug17 (S20), goompah (S20), Nyxbee (S20), RuneTactics (S20)
 
-**23rd - AshleyMashley (6):** MaxEvasion (S5), poWpaH (S6), QueenxPetty (S10), kawaiibunri (S10), NotXtra_ (S15), Bree_dable (S15)
+**23rd - AshleyMashley (6):** MaxEvasion (S5), poWpaH (S6), QueenxPetty (S10), evuhlynx (S10), NotXtra_ (S15), Bree_dable (S15)
 
 **23rd - lazys (6):** Gorgerous (S17), TehBaconBrawlerZ (S17), Dactus_ (S19), KennyTee (S19), TehBaconBrawlerZ (S19), Gorgerous (S19)
 
-**25th - fruitlogic (5):** TehBaconBrawlerZ (S18), Zapnic (S18), BuildingBard300 (S19), Flcnt (S19), kawaiibunri (S21)
+**25th - fruitlogic (5):** TehBaconBrawlerZ (S18), Zapnic (S18), BuildingBard300 (S19), Flcnt (S19), evuhlynx (S21)
 
 **25th - Kyi (5):** ghostblurr (S7), dumbhaela (S7), Cqson (S7), FragDempsey (S7), MrEzzo (S7)
 
@@ -421,7 +421,7 @@
 
 **25th - MainAgate5 (5):** Charrlottie (S2), TayUHC (S3), ButterflyDad (S3), Bofishkix (S4), RuneTactics (S4)
 
-**25th - TayUHC (5):** Bofishkix (S2), probablyaj (S2), Pikkl3 (S2), kawaiibunri (S9), poWpaH (S9)
+**25th - TayUHC (5):** Bofishkix (S2), probablyaj (S2), Pikkl3 (S2), evuhlynx (S9), poWpaH (S9)
 
 **31st - broccoliar (4):** ghostblurr (S12), ImShortStack (S12), Charrlottie (S12), Zapnic (S14)
 
@@ -433,7 +433,7 @@
 
 **31st - natsuvi (4):** BuildingBard300 (S21), Zapnic (S21), lasdarling (S21), ItsShqky (S21)
 
-**31st - Rebelghost (4):** PrincexPetty (S2), Aaerons (S2), Charrlottie (S5), operloaf (S5)
+**31st - Rebelghost (4):** RioTsumiki (S2), Aaerons (S2), Charrlottie (S5), operloaf (S5)
 
 **31st - ultralights (4):** Stravilight (S2), edtoast_46 (S5), WishyNathan (S7), TayUHC (S7)
 
@@ -447,9 +447,9 @@
 
 **39th - Codwhy (3):** KermitakaDanny (S9), Zapnic (S9), MaxEvasion (S12)
 
-**39th - Dactus_ (3):** ItsTovelina (S18), LostInTheSkiez (S19), C970 (S19)
+**39th - Dactus_ (3):** ItsTovelina (S18), KaeBTW (S19), C970 (S19)
 
-**39th - Hrray (3):** Captinn (S16), AshleyMashley (S16), LostInTheSkiez (S16)
+**39th - Hrray (3):** Captinn (S16), AshleyMashley (S16), KaeBTW (S16)
 
 **39th - MrEzzo (3):** ButterflyDad (S1), GamingStarr (S1), Zcin (S1)
 
@@ -458,8 +458,6 @@
 **39th - SergeantM (3):** edtoast_46 (S7), Kyi (S7), TheSlimeBrother (S9)
 
 **39th - SiahStone (3):** ItsShqky (S15), QueenxPetty (S15), kmaxi (S15)
-
-**49th - BarelyPink (2):** Bree_dable (S13), AshleyMashley (S13)
 
 **49th - Bofishkix (2):** Kaddyn (S4), MangoPlayz (S5)
 
@@ -473,11 +471,13 @@
 
 **49th - HalfLechuga (2):** Cinnamiinii (S14), ArcticSeagull (S16)
 
+**49th - JustYeti (2):** Bree_dable (S13), AshleyMashley (S13)
+
 **49th - Markedbooboy (2):** Charrlottie (S15), KoshiLovesCoffee (S18)
 
 **49th - OhMatias (2):** nug17 (S16), broccoliar (S16)
 
-**49th - olivieh (2):** Charrlottie (S18), BarelyPink (S18)
+**49th - olivieh (2):** Charrlottie (S18), JustYeti (S18)
 
 **49th - PrinceSix (2):** Kermitts (S13), Zevulpes (S13)
 
@@ -491,7 +491,7 @@
 
 **49th - WishyNathan (2):** Retrofied (S1), ArcticSeagull (S6)
 
-**65th - Aristootle_ (1):** kawaiibunri (S18)
+**65th - Aristootle_ (1):** evuhlynx (S18)
 
 **65th - Cubic44 (1):** ItsShqky (S4)
 
@@ -507,7 +507,7 @@
 
 **65th - K0REDRAG0N (1):** ghostblurr (S20)
 
-**65th - KendraSoup (1):** BarelyPink (S13)
+**65th - KendraSoup (1):** JustYeti (S13)
 
 **65th - Mafiat (1):** ItsShqky (S13)
 
@@ -538,15 +538,15 @@
 ---
 ### PvE Deaths
 
-**Creeper (14):** Cinnamiinii (S3), TeknoDemon (S3), ArcticSeagull (S5), ghostblurr (S5), KermitakaDanny (S6), Retrofied (S7), kawaiibunri (S13), Pikkl3 (S13), Pelycosaur (S13), AshRiolu100985 (S16), kawaiibunri (S17), Emboar (S20), WinnerSkye (S20), Jervy_Ras (S20)
+**Creeper (14):** Cinnamiinii (S3), TeknoDemon (S3), ArcticSeagull (S5), ghostblurr (S5), KermitakaDanny (S6), Retrofied (S7), evuhlynx (S13), Pikkl3 (S13), Pelycosaur (S13), AshRiolu100985 (S16), evuhlynx (S17), Emboar (S20), WinnerSkye (S20), Jervy_Ras (S20)
 
-**Fall (14):** TayUHC (S2), Cqson (S4), rac92 (S4), Charrlottie (S4), TeknoDemon (S4), MELTINGBUDER (S7), p0tt2y (S7), PrincexPetty (S10), dumbhaela (S11), Jalapinecone (S18), Nyxbee (S18), nug17 (S18), poWpaH (S19), KaeBTW (S20)
+**Fall (14):** TayUHC (S2), Cqson (S4), rac92 (S4), Charrlottie (S4), TeknoDemon (S4), MELTINGBUDER (S7), p0tt2y (S7), RioTsumiki (S10), dumbhaela (S11), Jalapinecone (S18), Nyxbee (S18), nug17 (S18), poWpaH (S19), KaeBTW (S20)
 
 **Lava (4):** WinnerSkye (S3), TeknoDemon (S11), TehBaconBrawlerZ (S11), GamingStarr (S18)
 
 **Bats (3):** Stravilight (S16), Klickacat (S16), MangoPlayz (S16)
 
-**Burning (3):** SockTycooon (S3), PrincexPetty (S9), CherriTart (S17)
+**Burning (3):** SockTycooon (S3), RioTsumiki (S9), CherriTart (S17)
 
 **Skeleton (3):** edtoast_46 (S3), Erdql (S3), Flcnt (S20)
 
@@ -583,7 +583,7 @@
 
 **14 Seasons (0):** 
 
-**13 Seasons (2):** ItsShqky (S3-S9,S12-S15,S18,S21), kawaiibunri (S9-S21)
+**13 Seasons (2):** ItsShqky (S3-S9,S12-S15,S18,S21), evuhlynx (S9-S21)
 
 **12 Seasons (2):** AshleyMashley (S4-S6,S9-S13,S15-S16,S18-S19), poWpaH (S4,S6-S11,S16-S19,S21)
 
@@ -601,24 +601,24 @@
 
 **5 Seasons (4):** Bofishkix (S2-S6), edtoast_46 (S3-S7), Codwhy (S7,S9,S12-S13,S20), nug17 (S16-S20)
 
-**4 Seasons (17):** ButterflyDad (S1,S3,S7,S10), Zcin (S1-S3,S6), Aaerons (S2-S3,S7,S10), FragDempsey (S2,S6-S7,S13), Lsnce (S2-S3,S7-S8), MainAgate5 (S2-S5), PrincexPetty (S2,S9-S10,S16), ultralights (S2,S5,S7-S8), MELTINGBUDER (S7-S9,S11), SergeantM (S7-S10), Hrray (S9,S13,S16-S17), Brandonious (S10-S11,S14,S20), QueenxPetty (S10-S11,S15-S16), NotXtra_ (S13,S15-S17), HalfLechuga (S14,S16-S17,S20), Klickacat (S14-S17), fruitlogic (S18-S21)
+**4 Seasons (17):** ButterflyDad (S1,S3,S7,S10), Zcin (S1-S3,S6), Aaerons (S2-S3,S7,S10), FragDempsey (S2,S6-S7,S13), Lsnce (S2-S3,S7-S8), MainAgate5 (S2-S5), RioTsumiki (S2,S9-S10,S16), ultralights (S2,S5,S7-S8), MELTINGBUDER (S7-S9,S11), SergeantM (S7-S10), Hrray (S9,S13,S16-S17), Brandonious (S10-S11,S14,S20), QueenxPetty (S10-S11,S15-S16), NotXtra_ (S13,S15-S17), HalfLechuga (S14,S16-S17,S20), Klickacat (S14-S17), fruitlogic (S18-S21)
 
-**3 Seasons (15):** WishyNathan (S1,S6-S7), hashtagmat (S2-S4), Rougero (S2,S6,S8), opachi69 (S3,S5-S6), xDiversity (S4-S5,S14), MarExists (S5-S7), p0tt2y (S5,S7,S13), KermitakaDanny (S6,S9,S13), Mafiat (S13-S15), korzieeTV (S14,S18,S20), turicake (S16-S18), AUD_ODD (S17-S19), Nyxbee (S17-S18,S20), lasdarling (S18-S19,S21), BuildingBard300 (S19-S21)
+**3 Seasons (16):** WishyNathan (S1,S6-S7), hashtagmat (S2-S4), Rougero (S2,S6,S8), opachi69 (S3,S5-S6), xDiversity (S4-S5,S14), MarExists (S5-S7), p0tt2y (S5,S7,S13), KermitakaDanny (S6,S9,S13), Mafiat (S13-S15), korzieeTV (S14,S18,S20), KaeBTW (S16,S19-S20), turicake (S16-S18), AUD_ODD (S17-S19), Nyxbee (S17-S18,S20), lasdarling (S18-S19,S21), BuildingBard300 (S19-S21)
 
-**2 Seasons (36):** ItzIgglesPiggles (S1-S2), MrEzzo (S1,S7), Retrofied (S1,S7), Canuk_Head (S2,S9), Erdql (S2-S3), Pikkl3 (S2,S13), Plushy33 (S2,S4), Rebelghost (S2,S5), SockTycooon (S3,S7), Cubic44 (S4-S5), rac92 (S4,S6), ElGavinoSupremo (S6,S14), SinthetikBlue (S6-S7), dumbhaela (S7,S11), flameorb (S7-S8), Kyi (S7-S8), epicfries (S9,S17), JoshC2 (S10,S21), BarelyPink (S13,S18), BlueSenpai_ (S13-S14), KendraSoup (S13,S15), marzenex (S13,S17), Pan05_ (S13,S15), PrinceSix (S13-S14), Jewelified (S14,S16), OhMatias (S14,S16), Tunaisheree (S14,S16), Markedbooboy (S15,S18), AshRiolu100985 (S16,S19), CherriTart (S16-S17), goompah (S16,S20), LostInTheSkiez (S16,S19), Laqqy (S17,S21), lazys (S17,S19), SpaceFenix (S17,S20), Dactus_ (S18-S19)
+**2 Seasons (35):** ItzIgglesPiggles (S1-S2), MrEzzo (S1,S7), Retrofied (S1,S7), Canuk_Head (S2,S9), Erdql (S2-S3), Pikkl3 (S2,S13), Plushy33 (S2,S4), Rebelghost (S2,S5), SockTycooon (S3,S7), Cubic44 (S4-S5), rac92 (S4,S6), ElGavinoSupremo (S6,S14), SinthetikBlue (S6-S7), dumbhaela (S7,S11), flameorb (S7-S8), Kyi (S7-S8), epicfries (S9,S17), JoshC2 (S10,S21), BlueSenpai_ (S13-S14), JustYeti (S13,S18), KendraSoup (S13,S15), marzenex (S13,S17), Pan05_ (S13,S15), PrinceSix (S13-S14), Jewelified (S14,S16), OhMatias (S14,S16), Tunaisheree (S14,S16), Markedbooboy (S15,S18), AshRiolu100985 (S16,S19), CherriTart (S16-S17), goompah (S16,S20), Laqqy (S17,S21), lazys (S17,S19), SpaceFenix (S17,S20), Dactus_ (S18-S19)
 
-**1 Season (50):** Twait_Waffle (S1), ExoticForce (S4), linusstudios (S4), Bulbexe (S6), Pandune (S7), AdorableActress (S10), HiGHOFFLiNES (S10), CeolTun (S11), odile (S11), Shashank_ (S11), silvaasaur (S11), ImShortStack (S12), CaffeinatedBrew (S13), Floxxui (S13), ItsEth (S13), ItsPinex (S13), Julse (S13), Kermitts (S13), NikoAnimation (S13), superjimyeah (S13), TitaniumDino25 (S13), wackklo (S13), Zevulpes (S13), BLANK101 (S14), Crazyblue19 (S14), pianocatslol (S14), spleep (S14), AWhivenGuy (S15), kmaxi (S15), SamOn1ine (S15), SiahStone (S15), BlockWizard99 (S16), Evpark (S16), mcd573 (S16), TaylorLive (S16), HumanRice (S17), Th3Skeleton (S17), Aristootle_ (S18), Jalapinecone (S18), KoshiLovesCoffee (S18), olivieh (S18), PerkyBix (S18), C970 (S19), Emboar (S20), Jervy_Ras (S20), K0REDRAG0N (S20), KaeBTW (S20), Demomaker (S21), natsuvi (S21), noktime (S21)
+**1 Season (49):** Twait_Waffle (S1), ExoticForce (S4), LinusStudios (S4), Bulbexe (S6), Pandune (S7), AdorableActress (S10), HiGHOFFLiNES (S10), CeolTun (S11), odile (S11), Shashank_ (S11), silvaasaur (S11), ImShortStack (S12), CaffeinatedBrew (S13), Floxxui (S13), ItsEth (S13), ItsPinex (S13), Julse (S13), Kermitts (S13), NikoAnimation (S13), Superjimyeah (S13), TitaniumDino25 (S13), wackklo (S13), Zevulpes (S13), BLANK101 (S14), Crazyblue19 (S14), pianocatslol (S14), spleep (S14), _JustAlyssa (S15), AWhivenGuy (S15), kmaxi (S15), SiahStone (S15), BlockWizard99 (S16), Evpark (S16), mcd573 (S16), TaylorLive (S16), HumanRice (S17), Th3Skeleton (S17), Aristootle_ (S18), Jalapinecone (S18), KoshiLovesCoffee (S18), olivieh (S18), PerkyBix (S18), C970 (S19), Emboar (S20), Jervy_Ras (S20), K0REDRAG0N (S20), Demomaker (S21), natsuvi (S21), noktime (S21)
 
 ---
 ### Debutants
 
 **S1 (11):** ArcticSeagull, Bree_dable, ButterflyDad, GamingStarr, ItzIgglesPiggles, MrEzzo, Retrofied, TehBaconBrawlerZ, Twait_Waffle, WishyNathan, Zcin
 
-**S2 (23):** _Fost_, Aaerons, Bofishkix, Canuk_Head, Charrlottie, CodeJoshua, Cqson, Erdql, Flcnt, FragDempsey, hashtagmat, Lsnce, MainAgate5, MaxEvasion, Pikkl3, Plushy33, PrincexPetty, probablyaj, Rebelghost, Rougero, Stravilight, TayUHC, ultralights
+**S2 (23):** _Fost_, Aaerons, Bofishkix, Canuk_Head, Charrlottie, CodeJoshua, Cqson, Erdql, Flcnt, FragDempsey, hashtagmat, Lsnce, MainAgate5, MaxEvasion, Pikkl3, Plushy33, probablyaj, Rebelghost, RioTsumiki, Rougero, Stravilight, TayUHC, ultralights
 
 **S3 (8):** Cinnamiinii, edtoast_46, ItsShqky, opachi69, Pelycosaur, SockTycooon, TeknoDemon, WinnerSkye
 
-**S4 (10):** AshleyMashley, Cubic44, ExoticForce, Kaddyn, linusstudios, MangoPlayz, poWpaH, rac92, RuneTactics, xDiversity
+**S4 (10):** AshleyMashley, Cubic44, ExoticForce, Kaddyn, LinusStudios, MangoPlayz, poWpaH, rac92, RuneTactics, xDiversity
 
 **S5 (6):** ghostblurr, KennyTee, MarExists, operloaf, p0tt2y, Zapnic
 
@@ -628,7 +628,7 @@
 
 **S8 (0):** 
 
-**S9 (4):** Captinn, epicfries, Hrray, kawaiibunri
+**S9 (4):** Captinn, epicfries, evuhlynx, Hrray
 
 **S10 (5):** AdorableActress, Brandonious, HiGHOFFLiNES, JoshC2, QueenxPetty
 
@@ -636,13 +636,13 @@
 
 **S12 (2):** broccoliar, ImShortStack
 
-**S13 (20):** BarelyPink, BlueSenpai_, CaffeinatedBrew, Floxxui, Gorgerous, ItsEth, ItsPinex, Julse, KendraSoup, Kermitts, Mafiat, marzenex, NikoAnimation, NotXtra_, Pan05_, PrinceSix, superjimyeah, TitaniumDino25, wackklo, Zevulpes
+**S13 (20):** BlueSenpai_, CaffeinatedBrew, Floxxui, Gorgerous, ItsEth, ItsPinex, Julse, JustYeti, KendraSoup, Kermitts, Mafiat, marzenex, NikoAnimation, NotXtra_, Pan05_, PrinceSix, Superjimyeah, TitaniumDino25, wackklo, Zevulpes
 
 **S14 (10):** BLANK101, Crazyblue19, HalfLechuga, Jewelified, Klickacat, korzieeTV, OhMatias, pianocatslol, spleep, Tunaisheree
 
-**S15 (5):** AWhivenGuy, kmaxi, Markedbooboy, SamOn1ine, SiahStone
+**S15 (5):** _JustAlyssa, AWhivenGuy, kmaxi, Markedbooboy, SiahStone
 
-**S16 (10):** AshRiolu100985, BlockWizard99, CherriTart, Evpark, goompah, LostInTheSkiez, mcd573, nug17, TaylorLive, turicake
+**S16 (10):** AshRiolu100985, BlockWizard99, CherriTart, Evpark, goompah, KaeBTW, mcd573, nug17, TaylorLive, turicake
 
 **S17 (7):** AUD_ODD, HumanRice, Laqqy, lazys, Nyxbee, SpaceFenix, Th3Skeleton
 
@@ -650,7 +650,7 @@
 
 **S19 (2):** BuildingBard300, C970
 
-**S20 (4):** Emboar, Jervy_Ras, K0REDRAG0N, KaeBTW
+**S20 (3):** Emboar, Jervy_Ras, K0REDRAG0N
 
 **S21 (3):** Demomaker, natsuvi, noktime
 

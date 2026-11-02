@@ -209,7 +209,7 @@
 
 **8th - WackoFlipper (10):** omchris (S2), Austronomical (S4), Smeshi (S6), Phoraxe (S6), JustNolan (S6), TheRealHagrid (S6), Klickacat (S7), azoof (S7), discoczibi (S8), Bobbytheturtle (S10)
 
-**12th - DKPMatt (9):** dontbow (S2), RedSky (S2), dahii (S2), BSBrent (S2), Drake132667596 (S2), Cyndic (S2), TheKevGuy (S3), pigghetti (S5), Fra49 (S5)
+**12th - DKPMatt (9):** dontbow (S2), RedSky (S2), dahii (S2), BSBrent (S2), Drake132667596 (S2), Cyndic (S2), TheKevJawn (S3), pigghetti (S5), Fra49 (S5)
 
 **12th - Hecticity (9):** Livin423 (S2), PotaTomas (S2), BlackGarrett (S2), tmb0 (S2), Bacan (S4), Livin423 (S4), omchris (S10), zCent (S10), dahii (S10)
 
@@ -355,7 +355,7 @@
 
 **2 Seasons (14):** dontbow (S1-S2), ThwipThwip (S1,S3), Tootikins (S1,S3), Zcka (S1-S2), thelarsi97 (S2-S3), jvevo (S4,S6), SmearBear (S5-S6), TommySuX (S5-S6), Smeshi (S6-S7), 016Nojr (S7-S8), branman (S7,S9), ChrisCD (S9-S10), fruitlogic (S9-S10), SpyroJ (S9-S10)
 
-**1 Season (30):** FireDragonzMC (S1), Hoookey (S1), tmb0 (S2), Evader22 (S3), TheKevGuy (S3), kloosman (S4), Nie200 (S4), beachbug (S5), CameraLagg (S5), ChocoTaco622 (S7), Kelawesome (S7), Nyzian (S7), SoulvG (S7), 5hup (S8), Arich (S8), Mightyzark (S8), Ratchet6859 (S8), Ethab1 (S9), Bobbytheturtle (S10), Dj8ninja (S10), DJoee (S10), Jakekub (S10), Pooliox (S10), Rohcket (S10), Ryfri (S10), SiahStone (S10), tagggz (S10), TorinFBF (S10), zac083 (S10), zCent (S10)
+**1 Season (30):** FireDragonzMC (S1), Hoookey (S1), tmb0 (S2), Evader22 (S3), TheKevJawn (S3), kloosman (S4), Nie200 (S4), beachbug (S5), CameraLagg (S5), ChocoTaco622 (S7), Kelawesome (S7), Nyzian (S7), SoulvG (S7), 5hup (S8), Arich (S8), Mightyzark (S8), Ratchet6859 (S8), Ethab1 (S9), Bobbytheturtle (S10), Dj8ninja (S10), DJoee (S10), Jakekub (S10), Pooliox (S10), Rohcket (S10), Ryfri (S10), SiahStone (S10), tagggz (S10), TorinFBF (S10), zac083 (S10), zCent (S10)
 
 ---
 ### Debutants
@@ -364,7 +364,7 @@
 
 **S2 (12):** Cyndic, DKPMatt, Fygedew, Hecticity, JustNolan, omchris, PotaTomas, RabidChipmunk, ShyGus, thelarsi97, tmb0, WackoFlipper
 
-**S3 (6):** ElGavinoSupremo, Evader22, Flacce, Haama_, Ninjajaja, TheKevGuy
+**S3 (6):** ElGavinoSupremo, Evader22, Flacce, Haama_, Ninjajaja, TheKevJawn
 
 **S4 (11):** Austronomical, c1n, CrowJRC, jvevo, kloosman, Lighte, Nie200, pigghetti, TaylorLive, TheRealHagrid, xMisha
 

@@ -63,7 +63,7 @@
 ---
 ### First Damage
 
-**S1:** kawaiibunri
+**S1:** evuhlynx
 
 **S2:** BuildingBard300
 
@@ -97,7 +97,7 @@
 
 **S2:** _carn (Zenithu)
 
-**S3:** kawaiibunri (RomeoG0401)
+**S3:** evuhlynx (RomeoG0401)
 
 **S4:** skyzfy (HigmanFreud)
 
@@ -112,7 +112,7 @@
 
 **S2:** Zenithu (_carn)
 
-**S3:** RomeoG0401 (kawaiibunri)
+**S3:** RomeoG0401 (evuhlynx)
 
 **S4:** zohhhh (Drowning)
 
@@ -123,19 +123,19 @@
 ---
 ### Kills
 
-**1st - strategy (13):** MichaelPlayMC (S1), BuildingBard300 (S1), ArcticSeagull (S1), Stravilight (S1), lazys (S1), Fcrm (S1), oGav1n (S2), kawaiibunri (S3), SOAKLE (S3), AvyleZ (S3), broccoliar (S3), ScaryPumpkinFace (S3), RuneTactics (S3)
+**1st - strategy (13):** MichaelPlayMC (S1), BuildingBard300 (S1), ArcticSeagull (S1), Stravilight (S1), lazys (S1), Fcrm (S1), oGav1n (S2), evuhlynx (S3), SOAKLE (S3), AvyleZ (S3), broccoliar (S3), ScaryPumpkinFace (S3), RuneTactics (S3)
 
 **2nd - skyzfy (12):** HigmanFreud (S4), HUQTER (S4), Vetmire (S4), MisaSama (S4), RollRealQuick (S4), Bulbexe (S5), BandaiNamco (S5), CommanderK22_ (S5), SOAKLE (S6), HUQTER (S6), m4ku (S6), sgouche (S6)
 
 **3rd - _carn (7):** RomeoG0401 (S1), ItsNitroTiger (S1), Wavesea (S1), Flcnt (S1), MangoPlayz (S1), Zenithu (S2), Spongey (S2)
 
-**3rd - Fcrm (7):** broccoliar (S1), CodeJoshua (S1), xDiversity (S1), Bulbexe (S2), CipherKai (S2), Accgothackedhelp (S2), broccoliar (S2)
+**3rd - Fcrm (7):** broccoliar (S1), CodeJoshua (S1), xDiversity (S1), Bulbexe (S2), CipherKai (S2), MrrMe (S2), broccoliar (S2)
 
 **5th - carterwarterbear (6):** AshRiolu100985 (S5), Codwhy (S5), BuildingBard300 (S5), SAYNAR (S5), skyzfy (S5), RomeoG0401 (S5)
 
 **5th - onstep (6):** HUQTER (S5), CAMKART100 (S5), carterwarterbear (S5), RollRealQuick (S6), BuildingBard300 (S6), willif (S6)
 
-**7th - benidk (4):** Kxnani (S5), sgouche (S5), OneMoreWeek (S5), Kaismartypants (S5)
+**7th - benidk (4):** Kxnani (S5), sgouche (S5), Fhqntom_ (S5), Kaismartypants (S5)
 
 **7th - PotatoPlayer_ (4):** Silquey (S6), Batusko (S6), xDsaltyAF (S6), onstep (S6)
 
@@ -161,19 +161,19 @@
 
 **18th - Bulbexe (2):** Ryfri (S2), Hdud (S5)
 
+**18th - evuhlynx (2):** JackCas (S1), RomeoG0401 (S3)
+
 **18th - fruitlogic (2):** Kaismartypants (S4), CurdledDrip (S4)
 
 **18th - jasondoa (2):** InProper (S4), BEANJEE (S4)
 
 **18th - Kaddyn (2):** Awre_ (S2), GrassPiece (S2)
 
-**18th - kawaiibunri (2):** JackCas (S1), RomeoG0401 (S3)
-
-**18th - Spongey (2):** kawaiibunri (S2), Wavesea (S2)
+**18th - Spongey (2):** evuhlynx (S2), Wavesea (S2)
 
 **18th - TheNintendoBustr (2):** RomeoG0401 (S2), JackCas (S2)
 
-**18th - xDiversity (2):** sgouche (S1), kawaiibunri (S1)
+**18th - xDiversity (2):** sgouche (S1), evuhlynx (S1)
 
 **27th - bayweafs (1):** CommanderK22_ (S3)
 
@@ -243,24 +243,24 @@
 
 **4 Seasons (3):** broccoliar (S1-S4), Kaismartypants (S2-S5), SOAKLE (S2-S3,S5-S6)
 
-**3 Seasons (8):** kawaiibunri (S1-S3), sgouche (S1,S5-S6), strategy (S1-S3), BEANJEE (S4-S6), Hdud (S4-S6), HUQTER (S4-S6), ItsLittleT (S4-S6), skyzfy (S4-S6)
+**3 Seasons (8):** evuhlynx (S1-S3), sgouche (S1,S5-S6), strategy (S1-S3), BEANJEE (S4-S6), Hdud (S4-S6), HUQTER (S4-S6), ItsLittleT (S4-S6), skyzfy (S4-S6)
 
 **2 Seasons (23):** _carn (S1-S2), CodeJoshua (S1-S2), Fcrm (S1-S2), Flcnt (S1,S3), ItsNitroTiger (S1-S2), JackCas (S1-S2), lazys (S1-S2), MichaelPlayMC (S1,S4), Ryfri (S1-S2), TheNintendoBustr (S1-S2), Wavesea (S1-S2), Weeble (S1-S2), Bulbexe (S2,S5), Kaddyn (S2,S5), CommanderK22_ (S3,S5), ItsShqky (S3,S5), ScaryPumpkinFace (S3,S5), jasondoa (S4-S5), MisaSama (S4-S5), RollRealQuick (S4,S6), CAMKART100 (S5-S6), LightingMC (S5-S6), onstep (S5-S6)
 
-**1 Season (48):** ArcticSeagull (S1), Dcrpy (S1), MangoPlayz (S1), poWpaH (S1), xDiversity (S1), Accgothackedhelp (S2), Awre_ (S2), Bornyo (S2), CipherKai (S2), GrassPiece (S2), h0nesty (S2), Krbreb (S2), oGav1n (S2), Prisma (S2), Spongey (S2), Zenithu (S2), AvyleZ (S3), bayweafs (S3), RuneTactics (S3), CurdledDrip (S4), fruitlogic (S4), HigmanFreud (S4), InProper (S4), lasdarling (S4), Vetmire (S4), zohhhh (S4), AshRiolu100985 (S5), BandaiNamco (S5), benidk (S5), carterwarterbear (S5), Codwhy (S5), Kxnani (S5), OneMoreWeek (S5), SAYNAR (S5), Agentad (S6), Batusko (S6), Colozi (S6), Cookie_for_life (S6), Demomaker (S6), HalfLechuga (S6), Hamishhhh (S6), JampoJohn (S6), m4ku (S6), PotatoPlayer_ (S6), Silquey (S6), willif (S6), Xaturne_ (S6), xDsaltyAF (S6)
+**1 Season (48):** ArcticSeagull (S1), Dcrpy (S1), MangoPlayz (S1), poWpaH (S1), xDiversity (S1), Awre_ (S2), Bornyo (S2), CipherKai (S2), GrassPiece (S2), h0nesty (S2), Krbreb (S2), MrrMe (S2), oGav1n (S2), Prisma (S2), Spongey (S2), Zenithu (S2), AvyleZ (S3), bayweafs (S3), RuneTactics (S3), CurdledDrip (S4), fruitlogic (S4), HigmanFreud (S4), InProper (S4), lasdarling (S4), Vetmire (S4), zohhhh (S4), AshRiolu100985 (S5), BandaiNamco (S5), benidk (S5), carterwarterbear (S5), Codwhy (S5), Fhqntom_ (S5), Kxnani (S5), SAYNAR (S5), Agentad (S6), Batusko (S6), Colozi (S6), Cookie_for_life (S6), Demomaker (S6), HalfLechuga (S6), Hamishhhh (S6), JampoJohn (S6), m4ku (S6), PotatoPlayer_ (S6), Silquey (S6), willif (S6), Xaturne_ (S6), xDsaltyAF (S6)
 
 ---
 ### Debutants
 
-**S1 (24):** _carn, ArcticSeagull, broccoliar, BuildingBard300, CodeJoshua, Dcrpy, Fcrm, Flcnt, ItsNitroTiger, JackCas, kawaiibunri, lazys, MangoPlayz, MichaelPlayMC, poWpaH, RomeoG0401, Ryfri, sgouche, strategy, Stravilight, TheNintendoBustr, Wavesea, Weeble, xDiversity
+**S1 (24):** _carn, ArcticSeagull, broccoliar, BuildingBard300, CodeJoshua, Dcrpy, evuhlynx, Fcrm, Flcnt, ItsNitroTiger, JackCas, lazys, MangoPlayz, MichaelPlayMC, poWpaH, RomeoG0401, Ryfri, sgouche, strategy, Stravilight, TheNintendoBustr, Wavesea, Weeble, xDiversity
 
-**S2 (15):** Accgothackedhelp, Awre_, Bornyo, Bulbexe, CipherKai, GrassPiece, h0nesty, Kaddyn, Kaismartypants, Krbreb, oGav1n, Prisma, SOAKLE, Spongey, Zenithu
+**S2 (15):** Awre_, Bornyo, Bulbexe, CipherKai, GrassPiece, h0nesty, Kaddyn, Kaismartypants, Krbreb, MrrMe, oGav1n, Prisma, SOAKLE, Spongey, Zenithu
 
 **S3 (6):** AvyleZ, bayweafs, CommanderK22_, ItsShqky, RuneTactics, ScaryPumpkinFace
 
 **S4 (15):** BEANJEE, CurdledDrip, fruitlogic, Hdud, HigmanFreud, HUQTER, InProper, ItsLittleT, jasondoa, lasdarling, MisaSama, RollRealQuick, skyzfy, Vetmire, zohhhh
 
-**S5 (11):** AshRiolu100985, BandaiNamco, benidk, CAMKART100, carterwarterbear, Codwhy, Kxnani, LightingMC, OneMoreWeek, onstep, SAYNAR
+**S5 (11):** AshRiolu100985, BandaiNamco, benidk, CAMKART100, carterwarterbear, Codwhy, Fhqntom_, Kxnani, LightingMC, onstep, SAYNAR
 
 **S6 (14):** Agentad, Batusko, Colozi, Cookie_for_life, Demomaker, HalfLechuga, Hamishhhh, JampoJohn, m4ku, PotatoPlayer_, Silquey, willif, Xaturne_, xDsaltyAF
 

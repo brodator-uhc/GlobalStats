@@ -227,7 +227,7 @@
 
 **11th - xDiversity (8):** Flcnt (S3), StoneZey (S5), ArcticSeagull (S5), Charrlottie (S5), broccoliar (S6), St0rmplayz (S7), ArcticSeagull (S7), Bulbexe (S7)
 
-**13th - Dredex (7):** emi1iano (S1), silvaasaur (S1), adamowo (S1), darkexe (S1), xWestPlayzMC (S1), AvyleZ (S1), ShelbyPlays (S1)
+**13th - Dredex (7):** emi1iano (S1), silvaasaur (S1), adamowo (S1), darkexe (S1), xWestOfficial (S1), AvyleZ (S1), ShelbyPlays (S1)
 
 **13th - Flcnt (7):** Dredex (S4), ArcticSeagull (S4), StoneZey (S4), ItsShqky (S6), Superjimyeah (S7), Lsnce (S11), poWpaH (S11)
 
@@ -265,11 +265,11 @@
 
 **27th - TheSlimeBrother (3):** silvaasaur (S8), Normoh (S8), StoneZey (S9)
 
-**27th - xWestPlayzMC (3):** StoneZey (S1), poWpaH (S3), xDiversity (S3)
+**27th - xWestOfficial (3):** StoneZey (S1), poWpaH (S3), xDiversity (S3)
 
 **33rd - Blind4ndD34f (2):** Dcrpy (S3), Ghaast (S3)
 
-**33rd - coldified (2):** Bulbexe (S3), xWestPlayzMC (S3)
+**33rd - coldified (2):** Bulbexe (S3), xWestOfficial (S3)
 
 **33rd - Julse (2):** Forgot_N (S6), Qmos (S6)
 
@@ -321,7 +321,7 @@
 
 **41st - RuneTactics (1):** TehBaconBrawlerZ (S7)
 
-**41st - silvaasaur (1):** xWestPlayzMC (S2)
+**41st - silvaasaur (1):** xWestOfficial (S2)
 
 **41st - Superjimyeah (1):** poWpaH (S7)
 
@@ -369,7 +369,7 @@
 
 **4 Seasons (7):** ADinoPlayingMC (S2-S5), Blarkslol (S2,S5,S7,S11), TehBaconBrawlerZ (S3-S4,S7-S8), zeesue (S3,S5,S7,S11), Bofishkix (S4-S7), DevoyTTV (S4,S8-S9,S11), CodeJoshua (S8-S11)
 
-**3 Seasons (13):** xWestPlayzMC (S1-S3), kirbey (S2,S7-S8), AdonisGaming (S3-S4,S6), LightingMC (S3,S5-S6), PitSolitayrh (S3,S5-S6), ImChile (S4,S6-S7), Jaceon02 (S5-S6,S10), Qmos (S5-S6,S10), RuneTactics (S5-S7), IdkKiller (S6-S7,S10), evuhlynx (S8-S10), Karliffu (S8-S10), TheSlimeBrother (S8-S10)
+**3 Seasons (13):** xWestOfficial (S1-S3), kirbey (S2,S7-S8), AdonisGaming (S3-S4,S6), LightingMC (S3,S5-S6), PitSolitayrh (S3,S5-S6), ImChile (S4,S6-S7), Jaceon02 (S5-S6,S10), Qmos (S5-S6,S10), RuneTactics (S5-S7), IdkKiller (S6-S7,S10), evuhlynx (S8-S10), Karliffu (S8-S10), TheSlimeBrother (S8-S10)
 
 **2 Seasons (23):** adamowo (S1-S2), darkexe (S1-S2), Dredex (S1,S4), emi1iano (S1,S4), coldified (S2-S3), ItzIgglesPiggles (S2,S5), KingFl1p (S2-S3), hendy53 (S4,S6), Moonlitess (S4-S5), Yesnobody (S4-S5), brinniex (S5,S7), HenryPlays (S5,S9), OCTAMAN (S5-S6), TitaniumDino25 (S5-S6), Forgot_N (S6-S7), Superjimyeah (S7-S8), Normoh (S8-S9), _carn (S9-S10), Tunaisheree (S9,S11), UbiquityHD (S9-S10), zac083 (S9,S11), Kaismartypants (S10-S11), Rebelghost (S10-S11)
 
@@ -378,7 +378,7 @@
 ---
 ### Debutants
 
-**S1 (12):** adamowo, AvyleZ, darkexe, Dredex, emi1iano, KyusJ, MangoPlayz, Plushy33, ShelbyPlays, silvaasaur, StoneZey, xWestPlayzMC
+**S1 (12):** adamowo, AvyleZ, darkexe, Dredex, emi1iano, KyusJ, MangoPlayz, Plushy33, ShelbyPlays, silvaasaur, StoneZey, xWestOfficial
 
 **S2 (17):** ADinoPlayingMC, ArcticSeagull, Blarkslol, broccoliar, Bulbexe, Captinn, coldified, Dcrpy, ImSaltyy_PC, ItsShqky, ItzIgglesPiggles, KingFl1p, kirbey, poWpaH, ScoobySnaxOG, Stravilight, Zcin
 

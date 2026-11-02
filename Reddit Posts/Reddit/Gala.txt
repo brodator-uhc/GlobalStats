@@ -30,7 +30,7 @@
 
 **S1:** Harryb2k (1), LordLaelaps (0)
 
-**S2:** Ben1_1 (0), Digdude (0), TheKevGuy (2), Topspinpiggles (0)
+**S2:** Ben1_1 (0), Digdude (0), TheKevJawn (2), Topspinpiggles (0)
 
 **S3:** ElementalYT (3), Gabey (0), Jordtim (0), Topspinpiggles (0)
 
@@ -159,7 +159,7 @@
 
 **S3:** ElementalYT (ShyGus)
 
-**S4:** TheKevGuy (Jordtim)
+**S4:** TheKevJawn (Jordtim)
 
 **S5:** ItzBliz (tuxpeng)
 
@@ -217,7 +217,7 @@
 
 **7th - Digdude (8):** InsertDotJpeg (S1), BJPlays (S3), Tanceo (S3), tuxpeng (S4), Singlish (S4), Snusty (S4), rippersteveM5 (S4), rippersteveM5 (S5)
 
-**8th - Maxwellfifty (7):** Tanceo (S2), Digdude (S2), brodioh (S2), TheKevGuy (S2), Topspinpiggles (S2), jvevo (S6), lasdarling (S8)
+**8th - Maxwellfifty (7):** Tanceo (S2), Digdude (S2), brodioh (S2), TheKevJawn (S2), Topspinpiggles (S2), jvevo (S6), lasdarling (S8)
 
 **8th - ShyGus (7):** Bradzi (S5), sorlite (S5), ShimamuraUzuki (S5), Lighte (S7), BardMain2 (S8), jommyappleseed (S9), BardMain2 (S9)
 
@@ -225,7 +225,7 @@
 
 **10th - Awticon (6):** jommyappleseed (S7), Biwitch (S7), brodioh (S7), DjTalica (S7), PresidentFleb (S7), flameorb (S7)
 
-**10th - Bradzi (6):** Singlish (S1), LordLaelaps (S1), Omertosa (S3), TheKevGuy (S4), Omertosa (S4), jvevo (S4)
+**10th - Bradzi (6):** Singlish (S1), LordLaelaps (S1), Omertosa (S3), TheKevJawn (S4), Omertosa (S4), jvevo (S4)
 
 **10th - CHAINGE (6):** BardMain2 (S7), WillBrisk (S7), tagggz (S7), I_is_cheesecake (S7), Applepie78 (S7), kirbey (S8)
 
@@ -275,7 +275,7 @@
 
 **25th - RobertBadlose (3):** friigiid (S9), Omertosa (S9), tagggz (S9)
 
-**25th - TheKevGuy (3):** Entity_Error (S2), Cryptic (S2), Jordtim (S4)
+**25th - TheKevJawn (3):** Entity_Error (S2), Cryptic (S2), Jordtim (S4)
 
 **25th - Zamario (3):** Topspinpiggles (S4), Omertosa (S6), brodioh (S6)
 
@@ -370,7 +370,7 @@
 
 **Left (1):** 5hup (S6)
 
-**Skeleton (1):** TheKevGuy (S6)
+**Skeleton (1):** TheKevJawn (S6)
 
 **Wither Skeleton (1):** Creeper2Danknee (S2)
 
@@ -393,7 +393,7 @@
 
 **4 Seasons (11):** Maxwellfifty (S2,S6-S8), WaXmAn24 (S5,S7-S8,S10), dw0w (S7-S9,S11), Fazz2 (S7-S10), flameorb (S7-S10), jommyappleseed (S7-S10), Macdde (S7-S10), PresidentFleb (S7-S10), tagggz (S7-S10), Bobbytheturtle (S8-S11), nsket (S8-S11)
 
-**3 Seasons (20):** Entity_Error (S1-S2,S4), Harryb2k (S1,S3,S7), LordLaelaps (S1-S3), Tanceo (S1-S3), TheKevGuy (S2,S4,S6), BJPlays (S3,S5,S8), rippersteveM5 (S4-S6), tuxpeng (S4-S6), Zamario (S4-S6), friigiid (S6,S9-S10), Awticon (S7-S9), frogsella (S7-S8,S11), Gorgerous (S7-S9), Lighte (S7,S9-S10), WackoFlipper (S7-S8,S10), WillBrisk (S7-S8,S10), DJoee (S8-S10), lexicuhl (S8-S10), benidk (S9-S11), vynil (S9-S11)
+**3 Seasons (20):** Entity_Error (S1-S2,S4), Harryb2k (S1,S3,S7), LordLaelaps (S1-S3), Tanceo (S1-S3), TheKevJawn (S2,S4,S6), BJPlays (S3,S5,S8), rippersteveM5 (S4-S6), tuxpeng (S4-S6), Zamario (S4-S6), friigiid (S6,S9-S10), Awticon (S7-S9), frogsella (S7-S8,S11), Gorgerous (S7-S9), Lighte (S7,S9-S10), WackoFlipper (S7-S8,S10), WillBrisk (S7-S8,S10), DJoee (S8-S10), lexicuhl (S8-S10), benidk (S9-S11), vynil (S9-S11)
 
 **2 Seasons (28):** ElementalYT (S2-S3), lsperlo (S2,S6), PaperVinnie (S2,S8), Gabey (S3-S4), ItzBliz (S4-S5), ShimamuraUzuki (S4-S5), Emerric (S5-S6), M19Simpson (S5-S6), gnty (S6-S7), automavic (S7,S9), Biwitch (S7-S8), CHAINGE (S7-S8), ColdBac (S7,S9), lampbro (S7-S8), Nintendoshi (S7-S8), OnlyCosmia (S7,S9), orcau (S7-S8), Pie212_123 (S7-S8), Purpdan (S7-S8), ScaryPumpkinFace (S7,S9), TalonBX (S7-S8), AvaCos (S8,S10), awau (S8,S10), Flohp (S8-S9), kirbey (S8,S10), Potsie (S8,S10), _carn (S10-S11), Aybel (S10-S11)
 
@@ -404,7 +404,7 @@
 
 **S1 (12):** Bradzi, Digdude, Entity_Error, Harryb2k, InsertDotJpeg, Jordtim, jvevo, LordLaelaps, Omertosa, Singlish, Tanceo, Topspinpiggles
 
-**S2 (10):** Ben1_1, brodioh, Creeper2Danknee, Cryptic, Dylan_SF, ElementalYT, lsperlo, Maxwellfifty, PaperVinnie, TheKevGuy
+**S2 (10):** Ben1_1, brodioh, Creeper2Danknee, Cryptic, Dylan_SF, ElementalYT, lsperlo, Maxwellfifty, PaperVinnie, TheKevJawn
 
 **S3 (7):** BJPlays, DaPenguin19, Gabey, GoodOldBanter, I_is_cheesecake, ShAydenelley, ShyGus
 

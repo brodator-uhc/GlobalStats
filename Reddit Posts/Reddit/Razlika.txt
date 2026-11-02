@@ -7,7 +7,7 @@
 
 **S2: Brodator (1), Dawncy (4)**, *Plushy33 (0)*
 
-**S3: Stormy_A (3)**, *DevoyTTV (1), ohh_lia (2)*
+**S3: Stormy_A (3)**, *DevoyTTV (1), puppygirlmaple (2)*
 
 **S4: Pelycosaur (5)**
 
@@ -46,7 +46,7 @@
 
 **S2:** Plushy33 (0), Brodator (1), Dawncy (4)
 
-**S3:** ohh_lia (2), Stormy_A (3), DevoyTTV (1)
+**S3:** puppygirlmaple (2), Stormy_A (3), DevoyTTV (1)
 
 **S4:** N/A
 
@@ -109,11 +109,11 @@
 
 **1st - Stormy_A (8):** FrostBros (S1), JRjoos (S1), lexicuhl (S1), Prisma (S1), Anorable (S1), Chasmic (S3), Plushy33 (S3), _Fost_ (S3)
 
-**2nd - Pelycosaur (6):** JoshC2 (S2), Brodator (S4), DevoyTTV (S4), natsuvi (S4), ohh_lia (S4), Glarza (S4)
+**2nd - Pelycosaur (6):** JoshC2 (S2), Brodator (S4), DevoyTTV (S4), natsuvi (S4), puppygirlmaple (S4), Glarza (S4)
 
 **3rd - _ChrisMS (5):** FrostBros (S3), Centrios (S3), Kelawesome (S3), Stravilight (S5), SiahStone (S5)
 
-**3rd - natsuvi (5):** 4EyedSlime (S3), DevoyTTV (S3), ohh_lia (S3), aalaan (S4), FrostBros (S4)
+**3rd - natsuvi (5):** 4EyedSlime (S3), DevoyTTV (S3), puppygirlmaple (S3), aalaan (S4), FrostBros (S4)
 
 **5th - _Fost_ (4):** Pelycosaur (S2), FrostBros (S5), DevoyTTV (S5), Glarza (S5)
 
@@ -141,7 +141,7 @@
 
 **14th - JRjoos (2):** Plushy33 (S1), JoshC2 (S1)
 
-**14th - ohh_lia (2):** Brodator (S3), natsuvi (S3)
+**14th - puppygirlmaple (2):** Brodator (S3), natsuvi (S3)
 
 **19th - Brodator (1):** Chasmic (S2)
 
@@ -163,7 +163,7 @@
 
 **3 Seasons (3):** Stormy_A (S1,S3-S4), Pelycosaur (S2,S4-S5), aalaan (S3-S5)
 
-**2 Seasons (12):** Anorable (S1-S2), Prisma (S1-S2), SiahStone (S1,S5), Codwhy (S2,S4), Dawncy (S2,S4), _ChrisMS (S3,S5), 4EyedSlime (S3-S4), MaxEvasion (S3,S5), natsuvi (S3-S4), ohh_lia (S3-S4), Glarza (S4-S5), Stravilight (S4-S5)
+**2 Seasons (12):** Anorable (S1-S2), Prisma (S1-S2), SiahStone (S1,S5), Codwhy (S2,S4), Dawncy (S2,S4), _ChrisMS (S3,S5), 4EyedSlime (S3-S4), MaxEvasion (S3,S5), natsuvi (S3-S4), puppygirlmaple (S3-S4), Glarza (S4-S5), Stravilight (S4-S5)
 
 **1 Season (15):** Dj8ninja (S1), JRjoos (S1), kalleina (S1), lexicuhl (S1), MajorDH (S1), strategy (S1), Brocko (S2), egl_ (S2), SmolHatChild (S2), Centrios (S3), CocoBenja (S3), Djmandude (S3), Kelawesome (S3), Bofishkix (S4), Chrominize (S4)
 
@@ -174,7 +174,7 @@
 
 **S2 (9):** _Fost_, Brocko, Brodator, Codwhy, Dawncy, DevoyTTV, egl_, Pelycosaur, SmolHatChild
 
-**S3 (10):** _ChrisMS, 4EyedSlime, aalaan, Centrios, CocoBenja, Djmandude, Kelawesome, MaxEvasion, natsuvi, ohh_lia
+**S3 (10):** _ChrisMS, 4EyedSlime, aalaan, Centrios, CocoBenja, Djmandude, Kelawesome, MaxEvasion, natsuvi, puppygirlmaple
 
 **S4 (4):** Bofishkix, Chrominize, Glarza, Stravilight
 

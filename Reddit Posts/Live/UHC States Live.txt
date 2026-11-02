@@ -147,7 +147,7 @@
 
 **S3:** MassiveMetroid (floood)
 
-**S4:** colbay (HealthyKaden)
+**S4:** colbay (Healthy__Kaden)
 
 **S5:** Centrios (briquan)
 
@@ -187,7 +187,7 @@
 ---
 ### Kills
 
-**1st - Greninja (25):** Xentian (S1), Divina (S2), Javyrojo (S3), Codwhy (S3), wizarde (S3), monymc (S3), Ncah (S5), DiarWolfe (S5), gmailol (S5), swishduck (S5), Kelawesome (S5), gmailol (S6), ColdBac (S6), Normoh (S6), vishs (S6), Codwhy (S6), krustydavid (S8), violetwoah (S9), Reflectant (S9), iFear (S9), ItsColinn (S9), Brocko (S9), citall (S9), Fxther (S9), brinkwhy (S9)
+**1st - Greninja (25):** Egth (S1), Divina (S2), Javyrojo (S3), Codwhy (S3), wizarde (S3), monymc (S3), Ncah (S5), DiarWolfe (S5), gmailol (S5), swishduck (S5), Kelawesome (S5), gmailol (S6), ColdBac (S6), Normoh (S6), vishs (S6), Codwhy (S6), krustydavid (S8), violetwow (S9), Reflectant (S9), iFear (S9), ItsColinn (S9), Brocko (S9), citall (S9), Fxther (S9), brinkwhy (S9)
 
 **2nd - Spikemc (17):** syndu (S1), GhostGunner (S1), NoHealing (S1), briquan (S1), briquan (S1), mekolame (S1), Heartedd (S3), A1infinite (S3), ZXLTRXN (S4), jigsaws (S4), DakotaB15 (S7), Arich (S7), BigJedo (S7), Caydone (S8), citall (S8), brinkwhy (S8), Pie212_123 (S9)
 
@@ -195,9 +195,9 @@
 
 **3rd - tuxster (15):** 4EyedSlime (S5), Centrios (S5), Phoraxe (S5), nsket (S5), Greninja (S5), brinkwhy (S5), ItsColinn (S5), DevoyTTV (S5), HigmanFreud (S5), Fxther (S10), Stravilight (S10), zeesue (S10), _Fost_ (S10), _Gamenight888_ (S10), acadiangel (S10)
 
-**5th - ItsColinn (14):** SmolHatChild (S5), Ryfri (S6), acadiangel (S6), OblivionTU (S6), CipherKai (S6), BigJedo (S6), DiarWolfe (S6), drobot5000 (S7), Cubic44 (S7), Normoh (S8), HeyItsJBug (S8), Coward (S8), Lqser (S9), Highs (S9)
+**5th - ItsColinn (14):** SmolHatChild (S5), Ryfri (S6), acadiangel (S6), OblivionTU (S6), CipherKai (S6), BigJedo (S6), DiarWolfe (S6), drobot5000 (S7), Cubic44 (S7), Normoh (S8), HeyItsJBug (S8), Coward (S8), ReDoFPS (S9), Highs (S9)
 
-**6th - Leftu (12):** Vinny212 (S2), MercuryParadox (S2), DarkPaladinUHC (S2), Wyntre (S2), xFade (S2), centraleric (S2), Chqllenged (S2), Japple (S2), FireBreathMan (S2), honestlyhunter (S3), _mrcool (S3), AHSOKATANOSTAN (S3)
+**6th - Leftu (12):** vinny212 (S2), MercuryParadox (S2), DarkPaladinUHC (S2), Wyntre (S2), xFade (S2), centraleric (S2), Chqllenged (S2), Japple (S2), FireBreathMan (S2), honestlyhunter (S3), _mrcool (S3), AHSOKATANOSTAN (S3)
 
 **7th - ajunn (11):** Javyrojo (S2), Spikemc (S2), Meltoy (S2), brinkwhy (S2), vishs (S3), citall (S3), CapitalLeens (S3), Spikemc (S3), ToontownOnline (S8), ohh_lia (S8), Wiiz (S8)
 
@@ -209,9 +209,9 @@
 
 **10th - sweatgod (10):** lunardig (S9), JKJK (S9), _ChrisMS (S9), olivieh (S9), jigsaws (S9), SOAKLE (S9), HUQTER (S9), Spikemc (S9), CipherKai (S9), HigmanFreud (S9)
 
-**10th - vishs (10):** MannyDM (S4), gmailol (S4), Austronomical (S4), Divina (S4), FireSuks (S4), CipherKai (S4), PoofessorP (S6), Javyrojo (S8), xandur (S8), violetwoah (S8)
+**10th - vishs (10):** MannyDM (S4), gmailol (S4), Austronomical (S4), Divina (S4), FireSuks (S4), CipherKai (S4), PoofessorP (S6), Javyrojo (S8), xandur (S8), violetwow (S8)
 
-**13th - colbay (9):** HealthyKaden (S4), NTBama (S4), ZXLTRXN (S8), Qndres (S8), Greninja (S8), Hydrqmi (S8), BigJedo (S8), chugin (S9), Heartedd (S9)
+**13th - colbay (9):** Healthy__Kaden (S4), NTBama (S4), ZXLTRXN (S8), Qndres (S8), Greninja (S8), Hydrqmi (S8), BigJedo (S8), chugin (S9), Heartedd (S9)
 
 **13th - lqllipop (9):** DoughnutDoctor (S2), brinkwhy (S3), Leftu (S3), NFSatchu (S3), vetr0h (S3), Jaysonn (S3), sleepingxd (S6), Bofishkix (S9), Kelawesome (S9)
 
@@ -251,7 +251,7 @@
 
 **30th - Charky (4):** Greninja (S3), dontbow (S3), rb0928 (S3), lqllipop (S3)
 
-**30th - citall (4):** PresidentFleb (S9), CloseYourLegs (S9), PowerFour (S9), colbay (S9)
+**30th - citall (4):** PresidentFleb (S9), CloseYourLegs (S9), Haydcn (S9), colbay (S9)
 
 **30th - FREESTRIKER (4):** honestlyhunter (S5), colbay (S5), DraqonZ (S5), Brocko (S5)
 
@@ -279,7 +279,7 @@
 
 **37th - NTBama (3):** Jaysonn (S4), SeeLion (S6), krustydavid (S6)
 
-**37th - Pikachu (3):** BENYN (S1), bongslikeshlongs (S1), AttackZach_ (S1)
+**37th - Pikachu (3):** BENYN (S1), anghie (S1), AttackZach_ (S1)
 
 **37th - PupperKun (3):** acadiangel (S7), ClosedIT (S7), jigsaws (S7)
 
@@ -291,7 +291,7 @@
 
 **37th - Turqified (3):** Vetmire (S10), Lsnce (S10), Greatwarrior_ (S10)
 
-**37th - zfiascoz (3):** Quig (S1), ZOEEY (S1), FrostBros (S1)
+**37th - zfiascoz (3):** Quig (S1), zoeey (S1), FrostBros (S1)
 
 **54th - 4EyedSlime (2):** rodfather (S7), CipherKai (S7)
 
@@ -299,7 +299,7 @@
 
 **54th - AHSOKATANOSTAN (2):** milkteaboards (S2), MannyDM (S2)
 
-**54th - andrewbaseball99 (2):** Xentian (S2), SmooveManuever (S2)
+**54th - andrewbaseball99 (2):** Egth (S2), SmooveManeuver (S2)
 
 **54th - Arich (2):** 2Pacoh (S7), automavic (S10)
 
@@ -333,9 +333,9 @@
 
 **71st - A1infinite (1):** CloseYourLegs (S3)
 
-**71st - Bluests (1):** Gleoss (S6)
+**71st - anghie (1):** RetroSlime (S1)
 
-**71st - bongslikeshlongs (1):** RetroSlime (S1)
+**71st - Bluests (1):** Gleoss (S6)
 
 **71st - Brocko (1):** GoldenNs (S9)
 
@@ -401,7 +401,7 @@
 
 **71st - sleepingxd (1):** InnerArtsTV (S6)
 
-**71st - SmooveManuever (1):** PoofessorP (S2)
+**71st - SmooveManeuver (1):** PoofessorP (S2)
 
 **71st - SquishyRevamp (1):** xandur (S3)
 
@@ -453,20 +453,20 @@
 
 **3 Seasons (24):** ColdBac (S1,S6-S7), Fictional (S1-S2,S7), FrostBros (S1,S6-S7), Jaysonn (S1,S3-S4), PoofessorP (S1-S2,S6), Potsie (S1,S7-S8), syndu (S1,S3-S4), ajunn (S2-S3,S8), Javyrojo (S2-S3,S8), citall (S3,S8-S9), Coward (S3,S8-S9), dontbow (S3-S4,S6), Heartedd (S3,S8-S9), Austronomical (S4-S6), Caydone (S4,S6,S8), DiarWolfe (S4-S6), gmailol (S4-S6), Stephybo (S4,S6-S7), xShatter (S4-S6), DevoyTTV (S5-S7), Qndres (S5,S7-S8), HeyItsJBug (S6-S8), jemjosh (S7-S9), Zebobo10 (S7-S8,S10)
 
-**2 Seasons (46):** A1infinite (S1,S3), briquan (S1,S5), DCGUnKnown (S1-S2), illuminaja (S1,S3), NFSatchu (S1,S3), OblivionTU (S1,S6), Orewo (S1,S3), PauloSSB (S1,S4), Spacepod_ (S1,S7), Xentian (S1-S2), AHSOKATANOSTAN (S2-S3), Chqllenged (S2,S7), Divina (S2,S4), FireBreathMan (S2-S3), Leftu (S2-S3), Meltoy (S2-S3), MercuryParadox (S2,S4), NotMyLights (S2-S3), xandur (S3,S8), DraqonZ (S4-S5), ERHDude (S4,S7), itsLuxray (S4-S5), NTBama (S4,S6), Squegi (S4,S8), ZXLTRXN (S4,S8), 4EyedSlime (S5,S7), omchris (S5,S7), Stravilight (S5,S10), tuxster (S5,S10), AbsolutelyAlpha (S6-S7), automavic (S6,S10), ben_noodle (S6-S7), drewxd (S6-S7), Evader22 (S6,S8), Glarza (S6-S7), Highs (S6,S9), _ChrisMS (S7,S9), Arich (S7,S10), Pehnk (S7-S8), ToontownOnline (S7-S8), Wiiz (S7-S8), Zoroh (S7-S8), olivieh (S8-S9), violetwoah (S8-S9), Enroh (S9-S10), Vetmire (S9-S10)
+**2 Seasons (47):** A1infinite (S1,S3), briquan (S1,S5), DCGUnKnown (S1-S2), Egth (S1-S2), illuminaja (S1,S3), NFSatchu (S1,S3), OblivionTU (S1,S6), Orewo (S1,S3), PauloSSB (S1,S4), Spacepod_ (S1,S7), AHSOKATANOSTAN (S2-S3), Chqllenged (S2,S7), Divina (S2,S4), FireBreathMan (S2-S3), Leftu (S2-S3), Meltoy (S2-S3), MercuryParadox (S2,S4), NotMyLights (S2-S3), xandur (S3,S8), DraqonZ (S4-S5), ERHDude (S4,S7), itsLuxray (S4-S5), NTBama (S4,S6), Squegi (S4,S8), ZXLTRXN (S4,S8), 4EyedSlime (S5,S7), omchris (S5,S7), Stravilight (S5,S10), tuxster (S5,S10), AbsolutelyAlpha (S6-S7), automavic (S6,S10), ben_noodle (S6-S7), drewxd (S6-S7), Evader22 (S6,S8), Glarza (S6-S7), Highs (S6,S9), _ChrisMS (S7,S9), Arich (S7,S10), Pehnk (S7-S8), ToontownOnline (S7-S8), Wiiz (S7-S8), Zoroh (S7-S8), olivieh (S8-S9), violetwow (S8-S9), Enroh (S9-S10), ReDoFPS (S9-S10), Vetmire (S9-S10)
 
-**1 Season (118):** ab3d (S1), AttackZach_ (S1), AwesomeARD (S1), BENYN (S1), bongslikeshlongs (S1), Chippytoothy (S1), DianaB (S1), GhostGunner (S1), hannahxxrose (S1), NoHealing (S1), Pikachu (S1), Quig (S1), resetin (S1), RetroSlime (S1), Slothbeans (S1), suddens (S1), vSlime (S1), whudafxup (S1), zfiascoz (S1), ZOEEY (S1), Zudoia (S1), andrewbaseball99 (S2), centraleric (S2), DarkPaladinUHC (S2), DoughnutDoctor (S2), Japple (S2), SmooveManuever (S2), Vinny212 (S2), Wyntre (S2), xFade (S2), _mrcool (S3), Alihsoccer (S3), BestRun (S3), CapitalLeens (S3), Charky (S3), chrisgames2k (S3), cpsmod (S3), floood (S3), frogsella (S3), Girnn (S3), GodShots (S3), guccibulletvest (S3), ItsChristiannn (S3), MassiveMetroid (S3), monymc (S3), rb0928 (S3), Robbing (S3), SquishyRevamp (S3), uhcmyth (S3), vetr0h (S3), wizarde (S3), yuhFazz (S3), DoomedCow (S4), FireSuks (S4), HealthyKaden (S4), K0DAKZACK (S4), skebrown (S4), Sorvent (S4), cycless (S5), FREESTRIKER (S5), Kurdie (S5), MajorDH (S5), MyAurora (S5), Ncah (S5), swishduck (S5), trillibytes (S5), BigDaddyFlapjack (S6), Bluests (S6), Dreamsters (S6), InnerArtsTV (S6), jabberwocky99705 (S6), KELCOS (S6), natsuvi (S6), Nyzian (S6), SeeLion (S6), sleepingxd (S6), Alacan (S7), ClosedIT (S7), cnner (S7), Cubic44 (S7), drobot5000 (S7), JohnzRIP (S7), LilHydro (S7), Plushy33 (S7), PupperKun (S7), rodfather (S7), Zaniac0 (S7), Hydrqmi (S8), Markedbooboy (S8), chugin (S9), GoldenNs (S9), harrydagawd (S9), HUQTER (S9), JKJK (S9), Lqser (S9), lunardig (S9), OnlyCosmia (S9), Pie212_123 (S9), Pinnkey (S9), PowerFour (S9), PresidentFleb (S9), Reflectant (S9), SOAKLE (S9), sweatgod (S9), TonyRods (S9), _Gamenight888_ (S10), Bulbexe (S10), CodeJoshua (S10), Dredex (S10), Evzenitable (S10), Greatwarrior_ (S10), loyaltea (S10), Lsnce (S10), Rebelghost (S10), ReDoFPS (S10), TehBaconBrawlerZ (S10), Turqified (S10), zeesue (S10)
+**1 Season (116):** ab3d (S1), anghie (S1), AttackZach_ (S1), AwesomeARD (S1), BENYN (S1), Chippytoothy (S1), DianaB (S1), GhostGunner (S1), hannahxxrose (S1), NoHealing (S1), Pikachu (S1), Quig (S1), resetin (S1), RetroSlime (S1), Slothbeans (S1), suddens (S1), vSlime (S1), whudafxup (S1), zfiascoz (S1), zoeey (S1), Zudoia (S1), andrewbaseball99 (S2), centraleric (S2), DarkPaladinUHC (S2), DoughnutDoctor (S2), Japple (S2), SmooveManeuver (S2), vinny212 (S2), Wyntre (S2), xFade (S2), _mrcool (S3), Alihsoccer (S3), BestRun (S3), CapitalLeens (S3), Charky (S3), chrisgames2k (S3), cpsmod (S3), floood (S3), frogsella (S3), Girnn (S3), GodShots (S3), guccibulletvest (S3), ItsChristiannn (S3), MassiveMetroid (S3), monymc (S3), rb0928 (S3), Robbing (S3), SquishyRevamp (S3), uhcmyth (S3), vetr0h (S3), wizarde (S3), yuhFazz (S3), DoomedCow (S4), FireSuks (S4), Healthy__Kaden (S4), K0DAKZACK (S4), skebrown (S4), Sorvent (S4), cycless (S5), FREESTRIKER (S5), Kurdie (S5), MajorDH (S5), MyAurora (S5), Ncah (S5), swishduck (S5), trillibytes (S5), BigDaddyFlapjack (S6), Bluests (S6), Dreamsters (S6), InnerArtsTV (S6), jabberwocky99705 (S6), KELCOS (S6), natsuvi (S6), Nyzian (S6), SeeLion (S6), sleepingxd (S6), Alacan (S7), ClosedIT (S7), cnner (S7), Cubic44 (S7), drobot5000 (S7), JohnzRIP (S7), LilHydro (S7), Plushy33 (S7), PupperKun (S7), rodfather (S7), Zaniac0 (S7), Hydrqmi (S8), Markedbooboy (S8), chugin (S9), GoldenNs (S9), harrydagawd (S9), Haydcn (S9), HUQTER (S9), JKJK (S9), lunardig (S9), OnlyCosmia (S9), Pie212_123 (S9), Pinnkey (S9), PresidentFleb (S9), Reflectant (S9), SOAKLE (S9), sweatgod (S9), TonyRods (S9), _Gamenight888_ (S10), Bulbexe (S10), CodeJoshua (S10), Dredex (S10), Evzenitable (S10), Greatwarrior_ (S10), loyaltea (S10), Lsnce (S10), Rebelghost (S10), TehBaconBrawlerZ (S10), Turqified (S10), zeesue (S10)
 
 ---
 ### Debutants
 
-**S1 (45):** A1infinite, ab3d, AttackZach_, AwesomeARD, BENYN, bongslikeshlongs, brinkwhy, briquan, Chippytoothy, ColdBac, DCGUnKnown, DianaB, Fictional, FrostBros, GhostGunner, Greninja, hannahxxrose, illuminaja, ItsColinn, Jaysonn, mekolame, NFSatchu, NoHealing, OblivionTU, Orewo, PauloSSB, Phoraxe, Pikachu, PoofessorP, Potsie, Quig, resetin, RetroSlime, Ryfri, Slothbeans, Spacepod_, Spikemc, suddens, syndu, vSlime, whudafxup, Xentian, zfiascoz, ZOEEY, Zudoia
+**S1 (45):** A1infinite, ab3d, anghie, AttackZach_, AwesomeARD, BENYN, brinkwhy, briquan, Chippytoothy, ColdBac, DCGUnKnown, DianaB, Egth, Fictional, FrostBros, GhostGunner, Greninja, hannahxxrose, illuminaja, ItsColinn, Jaysonn, mekolame, NFSatchu, NoHealing, OblivionTU, Orewo, PauloSSB, Phoraxe, Pikachu, PoofessorP, Potsie, Quig, resetin, RetroSlime, Ryfri, Slothbeans, Spacepod_, Spikemc, suddens, syndu, vSlime, whudafxup, zfiascoz, zoeey, Zudoia
 
-**S2 (23):** AHSOKATANOSTAN, ajunn, andrewbaseball99, centraleric, Chqllenged, Codwhy, DarkPaladinUHC, Divina, DoughnutDoctor, FireBreathMan, Japple, Javyrojo, Leftu, lqllipop, MannyDM, Meltoy, MercuryParadox, milkteaboards, NotMyLights, SmooveManuever, Vinny212, Wyntre, xFade
+**S2 (23):** AHSOKATANOSTAN, ajunn, andrewbaseball99, centraleric, Chqllenged, Codwhy, DarkPaladinUHC, Divina, DoughnutDoctor, FireBreathMan, Japple, Javyrojo, Leftu, lqllipop, MannyDM, Meltoy, MercuryParadox, milkteaboards, NotMyLights, SmooveManeuver, vinny212, Wyntre, xFade
 
 **S3 (33):** _mrcool, Alihsoccer, BestRun, CapitalLeens, Centrios, Charky, chrisgames2k, citall, CloseYourLegs, Coward, cpsmod, dontbow, floood, frogsella, Girnn, GodShots, guccibulletvest, Heartedd, honestlyhunter, iFear, ItsChristiannn, Kaismartypants, MassiveMetroid, monymc, rb0928, Robbing, SquishyRevamp, uhcmyth, vetr0h, vishs, wizarde, xandur, yuhFazz
 
-**S4 (28):** acadiangel, Austronomical, Bofishkix, Caydone, CipherKai, colbay, DiarWolfe, DoomedCow, DraqonZ, ERHDude, FireSuks, Gleoss, gmailol, HealthyKaden, HigmanFreud, itsLuxray, jigsaws, K0DAKZACK, krustydavid, Normoh, NTBama, skebrown, SmolHatChild, Sorvent, Squegi, Stephybo, xShatter, ZXLTRXN
+**S4 (28):** acadiangel, Austronomical, Bofishkix, Caydone, CipherKai, colbay, DiarWolfe, DoomedCow, DraqonZ, ERHDude, FireSuks, Gleoss, gmailol, Healthy__Kaden, HigmanFreud, itsLuxray, jigsaws, K0DAKZACK, krustydavid, Normoh, NTBama, skebrown, SmolHatChild, Sorvent, Squegi, Stephybo, xShatter, ZXLTRXN
 
 **S5 (19):** 4EyedSlime, Brocko, Broseph, cycless, DevoyTTV, FREESTRIKER, Kelawesome, Kurdie, MajorDH, MyAurora, Ncah, nsket, ohh_lia, omchris, Qndres, Stravilight, swishduck, trillibytes, tuxster
 
@@ -474,10 +474,10 @@
 
 **S7 (20):** _ChrisMS, Alacan, Arich, ClosedIT, cnner, Cubic44, drobot5000, Fxther, jemjosh, JohnzRIP, LilHydro, Pehnk, Plushy33, PupperKun, rodfather, ToontownOnline, Wiiz, Zaniac0, Zebobo10, Zoroh
 
-**S8 (4):** Hydrqmi, Markedbooboy, olivieh, violetwoah
+**S8 (4):** Hydrqmi, Markedbooboy, olivieh, violetwow
 
-**S9 (18):** chugin, Enroh, GoldenNs, harrydagawd, HUQTER, JKJK, Lqser, lunardig, OnlyCosmia, Pie212_123, Pinnkey, PowerFour, PresidentFleb, Reflectant, SOAKLE, sweatgod, TonyRods, Vetmire
+**S9 (18):** chugin, Enroh, GoldenNs, harrydagawd, Haydcn, HUQTER, JKJK, lunardig, OnlyCosmia, Pie212_123, Pinnkey, PresidentFleb, ReDoFPS, Reflectant, SOAKLE, sweatgod, TonyRods, Vetmire
 
-**S10 (13):** _Gamenight888_, Bulbexe, CodeJoshua, Dredex, Evzenitable, Greatwarrior_, loyaltea, Lsnce, Rebelghost, ReDoFPS, TehBaconBrawlerZ, Turqified, zeesue
+**S10 (12):** _Gamenight888_, Bulbexe, CodeJoshua, Dredex, Evzenitable, Greatwarrior_, loyaltea, Lsnce, Rebelghost, TehBaconBrawlerZ, Turqified, zeesue
 
 ---

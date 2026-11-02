@@ -104,7 +104,7 @@
 
 **S10:** hazel_doe (3), Big_Z60 (2)
 
-**S11:** ColdBac (0), jommyappleseed (1), BardMain2 (2), SpaceFenix (1), zac083 (2) & ohh_lia (0), Broseph (0), DJoee (2), Potsie (3), SiahStone (1)
+**S11:** ColdBac (0), jommyappleseed (1), BardMain2 (2), SpaceFenix (1), zac083 (2) & puppygirlmaple (0), Broseph (0), DJoee (2), Potsie (3), SiahStone (1)
 
 **S12:** Dj8ninja (2), Kelawesome (4), PresidentFleb (2)
 
@@ -293,7 +293,7 @@
 
 **32nd - JustNolan (3):** FrostBros (S10), Prisma (S10), hazel_doe (S10)
 
-**32nd - MaxEvasion (3):** Flcnt (S11), ohh_lia (S11), ohh_lia (S12)
+**32nd - MaxEvasion (3):** Flcnt (S11), puppygirlmaple (S11), puppygirlmaple (S12)
 
 **32nd - PresidentFleb (3):** Greeples (S11), GoldenNs (S12), BatMan_1814 (S12)
 
@@ -347,13 +347,13 @@
 
 **51st - MercuryParadox (1):** spoocS_ (S3)
 
-**51st - ohh_lia (1):** MaxEvasion (S12)
-
 **51st - omchris (1):** 4EyedSlime (S12)
 
 **51st - Paxtona (1):** Pelycosaur (S7)
 
 **51st - PenguinBagels (1):** _mrcool (S5)
+
+**51st - puppygirlmaple (1):** MaxEvasion (S12)
 
 **51st - Rebelghost (1):** Dj8ninja (S9)
 
@@ -419,7 +419,7 @@
 
 **3 Seasons (15):** Professer_TNT (S1-S3), ConBeanJones (S2,S4-S5), Ejecko (S2,S4,S7), GoldenNs (S2,S10,S12), SummerBqsh (S5-S7), SmolHatChild (S6-S8), warriorcat (S6-S8), Arich (S7,S9,S12), Greeples (S7,S9,S11), Spacepod_ (S8-S9,S12), _Fost_ (S9-S10,S12), DevoyTTV (S9-S11), Kelawesome (S9-S10,S12), Chasmic (S10-S12), PresidentFleb (S10-S12)
 
-**2 Seasons (25):** Heracross (S1-S2), JahMuis (S1-S2), Starflash (S1-S2), Mincrooft (S2,S5), Ryfri (S2,S11), Psykl0ne (S3,S5), spoocS_ (S3,S5), Abdalain (S4,S6), Anorable (S4-S5), Flufayy (S4,S6), Thermql (S4,S7), PenguinBagels (S5,S7), commitstaxfraud (S6,S9), Paxtona (S6-S7), vynil (S6,S12), eliexists (S7,S9), wowjennawow (S7,S10), Daltun (S8-S9), ERHDude (S9-S10), cherryblawsom (S10,S12), Charrlottie (S11-S12), ColdBac (S11-S12), DJoee (S11-S12), Flcnt (S11-S12), ohh_lia (S11-S12)
+**2 Seasons (25):** Heracross (S1-S2), JahMuis (S1-S2), Starflash (S1-S2), Mincrooft (S2,S5), Ryfri (S2,S11), Psykl0ne (S3,S5), spoocS_ (S3,S5), Abdalain (S4,S6), Anorable (S4-S5), Flufayy (S4,S6), Thermql (S4,S7), PenguinBagels (S5,S7), commitstaxfraud (S6,S9), Paxtona (S6-S7), vynil (S6,S12), eliexists (S7,S9), wowjennawow (S7,S10), Daltun (S8-S9), ERHDude (S9-S10), cherryblawsom (S10,S12), Charrlottie (S11-S12), ColdBac (S11-S12), DJoee (S11-S12), Flcnt (S11-S12), puppygirlmaple (S11-S12)
 
 **1 Season (30):** 319phoenix (S1), DyeItTight (S1), GRLH (S1), honestlyhunter (S1), sigilyph (S1), Topspinpiggles (S1), chloesad (S3), MercuryParadox (S3), JoshC2 (S4), WillBrisk (S4), WackoFlipper (S5), _shi (S6), Dee957 (S6), Jpgesus (S6), BBR_ (S7), Honiahaka (S7), wibbol (S8), Distantshooter (S9), Rebelghost (S9), Harryb2k (S10), JustNolan (S10), strategy (S10), tagggz (S10), Cyndic (S11), InsertDotJpeg (S11), SoupestGlobe (S11), DeluxeSniper (S12), Livin423 (S12), omchris (S12), Rohcket (S12)
 
@@ -446,7 +446,7 @@
 
 **S10 (7):** Chasmic, cherryblawsom, Harryb2k, JustNolan, PresidentFleb, strategy, tagggz
 
-**S11 (8):** Charrlottie, ColdBac, Cyndic, DJoee, Flcnt, InsertDotJpeg, ohh_lia, SoupestGlobe
+**S11 (8):** Charrlottie, ColdBac, Cyndic, DJoee, Flcnt, InsertDotJpeg, puppygirlmaple, SoupestGlobe
 
 **S12 (4):** DeluxeSniper, Livin423, omchris, Rohcket
 

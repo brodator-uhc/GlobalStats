@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - xSemiCollin (8):** PrattBN (S1), DarkType (S1), Green_WolfMC (S1), TwistedGoose (S2), Blazar (S2), OddishThoughts (S3), yuhFazz (S4), Ferialan (S4)
+**1st - xSemiCollin (8):** PrattBN (S1), DarkType (S1), Green_WolfMC (S1), shrekisgoat (S2), Blazar (S2), OddishThoughts (S3), yuhFazz (S4), Ferialan (S4)
 
 **2nd - JohnzRIP (5):** HeyImAqua (S1), OddishThoughts (S1), ADinoPlayingMC (S3), Sneaky26 (S3), DukieJr (S3)
 
@@ -99,7 +99,7 @@
 
 **4th - ADinoPlayingMC (3):** CheeseJay (S4), xSemiCollin (S4), Moonlitess (S4)
 
-**4th - TwistedGoose (3):** JohnzRIP (S2), PrattBN (S3), BigJedo (S3)
+**4th - shrekisgoat (3):** JohnzRIP (S2), PrattBN (S3), BigJedo (S3)
 
 **6th - Blazar (2):** Kqvn (S1), JoshC2 (S1)
 
@@ -107,7 +107,7 @@
 
 **6th - DarkType (2):** Mattzia (S1), Qrhan (S1)
 
-**6th - DukieJr (2):** JamestheDouglas (S2), TwistedGoose (S3)
+**6th - DukieJr (2):** JamestheDouglas (S2), shrekisgoat (S3)
 
 **6th - HeyImAqua (2):** Kqvn (S2), Mattzia (S2)
 
@@ -123,7 +123,7 @@
 
 **16th - BigJedo (1):** xSemiCollin (S3)
 
-**16th - Mattzia (1):** TwistedGoose (S1)
+**16th - Mattzia (1):** shrekisgoat (S1)
 
 ---
 ### PvE Deaths
@@ -141,7 +141,7 @@
 
 **4 Seasons (3):** JohnzRIP (S1-S4), PrattBN (S1-S4), xSemiCollin (S1-S4)
 
-**3 Seasons (5):** Blazar (S1-S3), JoshC2 (S1-S3), OddishThoughts (S1,S3-S4), TwistedGoose (S1-S3), BlackPants (S2-S4)
+**3 Seasons (5):** Blazar (S1-S3), JoshC2 (S1-S3), OddishThoughts (S1,S3-S4), shrekisgoat (S1-S3), BlackPants (S2-S4)
 
 **2 Seasons (7):** CheeseJay (S1,S4), HeyImAqua (S1-S2), Kqvn (S1-S2), Mattzia (S1-S2), Qrhan (S1-S2), DukieJr (S2-S3), ADinoPlayingMC (S3-S4)
 
@@ -150,7 +150,7 @@
 ---
 ### Debutants
 
-**S1 (16):** Blazar, CheeseJay, DarkType, Green_WolfMC, HeyImAqua, ItsStrqfe, JohnzRIP, JoshC2, Kqvn, Mattzia, OddishThoughts, PrattBN, Pudding_Man999, Qrhan, TwistedGoose, xSemiCollin
+**S1 (16):** Blazar, CheeseJay, DarkType, Green_WolfMC, HeyImAqua, ItsStrqfe, JohnzRIP, JoshC2, Kqvn, Mattzia, OddishThoughts, PrattBN, Pudding_Man999, Qrhan, shrekisgoat, xSemiCollin
 
 **S2 (8):** BlackPants, collowollo, DukieJr, iRainBear, JamestheDouglas, ToggleXD, xNKS, Zqccy
 

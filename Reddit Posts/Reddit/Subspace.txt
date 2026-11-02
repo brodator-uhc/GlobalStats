@@ -34,7 +34,7 @@
 
 **S4:** broccoliar (2), Geroot (0), Qmos (0)
 
-**S5:** Broseph (1), ohh_lia (2), Psykl0ne (2), vynil (4)
+**S5:** Broseph (1), Psykl0ne (2), puppygirlmaple (2), vynil (4)
 
 **S6:** Geroot (2), Kaismartypants (0), Stravilight (1), Ullti (1), Vetmire (2)
 
@@ -267,7 +267,7 @@
 
 **33rd - Pelycosaur (3):** ArcticSeagull (S2), Stravilight (S2), Captinn (S2)
 
-**33rd - Psykl0ne (3):** ohh_lia (S5), natsuvi (S5), bayweafs (S6)
+**33rd - Psykl0ne (3):** puppygirlmaple (S5), natsuvi (S5), bayweafs (S6)
 
 **42nd - ArcticSeagull (2):** Captinn (S1), Geroot (S4)
 
@@ -285,7 +285,7 @@
 
 **42nd - Mikemino321 (2):** wizarde (S7), DJoee (S7)
 
-**42nd - ohh_lia (2):** MichaelPlayMC (S5), xDiversity (S5)
+**42nd - puppygirlmaple (2):** MichaelPlayMC (S5), xDiversity (S5)
 
 **42nd - Ryfri (2):** Kaddyn (S9), JampoJohn (S9)
 
@@ -357,7 +357,7 @@
 
 **2 Seasons (14):** Fra49 (S1,S9), Pelycosaur (S1-S2), TayUHC (S1-S2), TehBaconBrawlerZ (S2-S3), MangoPlayz (S3,S5), xDiversity (S4-S5), vynil (S5,S7), bayweafs (S6,S8), Spongey (S6,S10), DogOfKrondor (S7-S8), ShootingGoats (S8,S10), grantfaker (S9-S10), Greeples (S9-S10), Ryfri (S9-S10)
 
-**1 Season (32):** GamingStarr (S1), Rebelghost (S1), RuneTactics (S1), Vastelle (S2), AWhivenGuy (S3), David63 (S3), TastyBaconZ (S3), _Fost_ (S4), InsertDotJpeg (S4), kirbey (S4), Qmos (S4), DezzerLad (S5), Dj8ninja (S5), ItsColinn (S5), MarcusDoesMC (S5), ohh_lia (S5), Superjimyeah (S5), Eluniel (S6), Potsie (S7), cherryblawsom (S8), Ninetals38 (S8), Sharkbob94349 (S8), ChainingVermin2 (S9), Charrlottie (S9), IyaIsMad (S9), JampoJohn (S9), brinkwhy (S10), HeyItsJBug (S10), ImChile (S10), Moonlitess (S10), rae0vr (S10), ScaryPumpkinFace (S10)
+**1 Season (32):** GamingStarr (S1), Rebelghost (S1), RuneTactics (S1), Vastelle (S2), AWhivenGuy (S3), David63 (S3), TastyBaconZ (S3), _Fost_ (S4), InsertDotJpeg (S4), kirbey (S4), Qmos (S4), DezzerLad (S5), Dj8ninja (S5), ItsColinn (S5), MarcusDoesMC (S5), puppygirlmaple (S5), Superjimyeah (S5), Eluniel (S6), Potsie (S7), cherryblawsom (S8), Ninetals38 (S8), Sharkbob94349 (S8), ChainingVermin2 (S9), Charrlottie (S9), IyaIsMad (S9), JampoJohn (S9), brinkwhy (S10), HeyItsJBug (S10), ImChile (S10), Moonlitess (S10), rae0vr (S10), ScaryPumpkinFace (S10)
 
 ---
 ### Debutants
@@ -370,7 +370,7 @@
 
 **S4 (11):** _Fost_, broccoliar, ColdBac, Fcrm, Geroot, InsertDotJpeg, kirbey, lasdarling, MercuryParadox, Qmos, xDiversity
 
-**S5 (11):** AshRiolu100985, DezzerLad, Dj8ninja, ItsColinn, JaqOnCraq, MarcusDoesMC, MichaelPlayMC, ohh_lia, Psykl0ne, Superjimyeah, vynil
+**S5 (11):** AshRiolu100985, DezzerLad, Dj8ninja, ItsColinn, JaqOnCraq, MarcusDoesMC, MichaelPlayMC, Psykl0ne, puppygirlmaple, Superjimyeah, vynil
 
 **S6 (10):** _1mmortal_, bayweafs, benidk, BuildingBard300, CAMKART100, CommanderK22_, DevoyTTV, Eluniel, Evzenitable, Spongey
 

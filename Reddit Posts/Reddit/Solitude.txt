@@ -251,7 +251,7 @@
 ---
 ### Kills
 
-**1st - alexnv (19):** ArcticSeagull (S1), PresidentFleb (S1), Dawncy (S1), xRaltz (S1), ArcticSeagull (S2), broccoliar (S3), TayUHC (S3), violetwoah (S3), Mikemino321 (S9), aalaan (S10), MaxEvasion (S10), 4EyedSlime (S11), commitstaxfraud (S11), natsuvi (S11), Glarza (S11), Dawncy (S13), Markedbooboy (S14), natsuvi (S14), Fcrm (S14)
+**1st - alexnv (19):** ArcticSeagull (S1), PresidentFleb (S1), Dawncy (S1), xRaltz (S1), ArcticSeagull (S2), broccoliar (S3), TayUHC (S3), violetwow (S3), Mikemino321 (S9), aalaan (S10), MaxEvasion (S10), 4EyedSlime (S11), commitstaxfraud (S11), natsuvi (S11), Glarza (S11), Dawncy (S13), Markedbooboy (S14), natsuvi (S14), Fcrm (S14)
 
 **2nd - broccoliar (16):** Markedbooboy (S1), Pelycosaur (S1), ghostblurr (S2), commitstaxfraud (S5), Glarza (S6), 4EyedSlime (S7), Pelycosaur (S7), natsuvi (S7), AdonisGaming (S8), Blarkslol (S10), Brodator (S10), Stravilight (S10), JaqOnCraq (S10), stupidsylvia (S12), 4EyedSlime (S13), TehBaconBrawlerZ (S13)
 
@@ -259,15 +259,15 @@
 
 **3rd - Stravilight (14):** CodeJoshua (S6), MaxEvasion (S9), MangoPlayz (S9), Captinn (S9), SiahStone (S9), JaqOnCraq (S9), Zebobo10 (S9), Dawncy (S10), kirbey (S10), _Fost_ (S10), Zebobo10 (S13), Biwitch (S13), Charrlottie (S13), wizarde (S14)
 
-**5th - Karliffu (13):** FrozenBenny (S1), Crafters (S1), alexnv (S1), UbiquityHD (S1), DevoyTTV (S1), alexnv (S2), violetwoah (S2), poWpaH (S2), JamestheDouglas (S2), NickPlaysGames15 (S4), Vetmire (S4), Dawncy (S7), PresidentFleb (S9)
+**5th - Karliffu (13):** FrozenBenny (S1), Crafters (S1), alexnv (S1), UbiquityHD (S1), DevoyTTV (S1), alexnv (S2), violetwow (S2), poWpaH (S2), JamestheDouglas (S2), NickPlaysGames15 (S4), Vetmire (S4), Dawncy (S7), PresidentFleb (S9)
 
-**5th - natsuvi (13):** Vetmire (S2), Dawncy (S2), NickPlaysGames15 (S2), Caydone (S2), Plushy33 (S5), Vetmire (S5), Zebobo10 (S7), _Dieter (S7), commitstaxfraud (S7), ohh_lia (S11), commitstaxfraud (S12), Blarkslol (S12), SmolHatChild (S13)
+**5th - natsuvi (13):** Vetmire (S2), Dawncy (S2), NickPlaysGames15 (S2), Caydone (S2), Plushy33 (S5), Vetmire (S5), Zebobo10 (S7), _Dieter (S7), commitstaxfraud (S7), puppygirlmaple (S11), commitstaxfraud (S12), Blarkslol (S12), SmolHatChild (S13)
 
 **5th - Zebobo10 (13):** poWpaH (S5), broccoliar (S5), Brodator (S6), Vetmire (S6), PresidentFleb (S7), ItsShqky (S8), ArcticSeagull (S8), TayUHC (S8), Evzenitable (S12), Glarza (S13), broccoliar (S14), 4EyedSlime (S14), Rebelghost (S14)
 
 **8th - Caydone (12):** Fra49 (S2), Geroot (S2), Karliffu (S2), Crafters (S2), MichaelPlayMC (S5), natsuvi (S5), Bofishkix (S5), _ChrisMS (S5), ItsShqky (S11), SmolHatChild (S11), JaqOnCraq (S11), Fxther (S13)
 
-**8th - Vetmire (12):** FrozenBenny (S4), violetwoah (S6), Dawncy (S6), PresidentFleb (S6), NickPlaysGames15 (S7), JaqOnCraq (S7), Codwhy (S8), JaqOnCraq (S8), Dawncy (S11), Greeples (S12), Markedbooboy (S12), Rohcket (S13)
+**8th - Vetmire (12):** FrozenBenny (S4), violetwow (S6), Dawncy (S6), PresidentFleb (S6), NickPlaysGames15 (S7), JaqOnCraq (S7), Codwhy (S8), JaqOnCraq (S8), Dawncy (S11), Greeples (S12), Markedbooboy (S12), Rohcket (S13)
 
 **10th - _Fost_ (9):** ArcticSeagull (S3), NickPlaysGames15 (S3), commitstaxfraud (S3), egl_ (S3), Fxther (S4), UbiquityHD (S4), SergeantM (S6), Glarza (S9), Fxther (S9)
 
@@ -309,13 +309,13 @@
 
 **24th - TayUHC (4):** nFang (S3), Codwhy (S4), _ChrisMS (S8), aalaan (S8)
 
-**24th - violetwoah (4):** Crafters (S3), ItsShqky (S4), AdonisGaming (S6), ArcticSeagull (S6)
+**24th - violetwow (4):** Crafters (S3), ItsShqky (S4), AdonisGaming (S6), ArcticSeagull (S6)
 
 **24th - Zcin (4):** ArcticSeagull (S4), _Fost_ (S4), Karliffu (S7), Glarza (S7)
 
 **32nd - CodeJoshua (3):** Stravilight (S6), MaxEvasion (S7), Stravilight (S7)
 
-**32nd - Codwhy (3):** SergeantM (S4), Dawncy (S4), violetwoah (S4)
+**32nd - Codwhy (3):** SergeantM (S4), Dawncy (S4), violetwow (S4)
 
 **32nd - Dawncy (3):** PresidentFleb (S4), NickPlaysGames15 (S9), alexnv (S13)
 
@@ -374,7 +374,7 @@
 ---
 ### PvE Deaths
 
-**Fall (5):** violetwoah (S1), Rebelghost (S6), FrozenBenny (S7), AdonisGaming (S9), MichaelPlayMC (S13)
+**Fall (5):** violetwow (S1), Rebelghost (S6), FrozenBenny (S7), AdonisGaming (S9), MichaelPlayMC (S13)
 
 **Zombie (3):** Slooshyy (S5), Karliffu (S5), PresidentFleb (S5)
 
@@ -384,7 +384,7 @@
 
 **Silverfish (2):** Codwhy (S5), alexnv (S5)
 
-**Creeper (1):** violetwoah (S5)
+**Creeper (1):** violetwow (S5)
 
 **Skeleton (1):** Karliffu (S11)
 
@@ -409,7 +409,7 @@
 
 **7 Seasons (1):** natsuvi (S2,S5,S7,S11-S14)
 
-**6 Seasons (7):** Pelycosaur (S1,S4-S7,S9), violetwoah (S1-S6), Bofishkix (S2,S4-S8), Fxther (S3-S4,S6,S8-S9,S13), MichaelPlayMC (S4-S7,S9,S13), AdonisGaming (S6-S10,S14), 4EyedSlime (S7-S9,S11,S13-S14)
+**6 Seasons (7):** Pelycosaur (S1,S4-S7,S9), violetwow (S1-S6), Bofishkix (S2,S4-S8), Fxther (S3-S4,S6,S8-S9,S13), MichaelPlayMC (S4-S7,S9,S13), AdonisGaming (S6-S10,S14), 4EyedSlime (S7-S9,S11,S13-S14)
 
 **5 Seasons (6):** poWpaH (S2,S5,S7-S9), TayUHC (S3-S5,S8-S9), Evzenitable (S4,S6-S7,S12-S13), aalaan (S7-S8,S10-S11,S13), Captinn (S7-S11), MaxEvasion (S7-S11)
 
@@ -419,12 +419,12 @@
 
 **2 Seasons (14):** UbiquityHD (S1,S4), xRaltz (S1,S4), Geroot (S2,S8), Plushy33 (S3,S5), Slooshyy (S3,S5), SergeantM (S4,S6), Zcin (S4,S7), MangoPlayz (S9-S10), kirbey (S10-S11), _1mmortal_ (S12,S14), SpaceFenix (S12,S14), 78ford (S13-S14), Flcnt (S13-S14), wizarde (S13-S14)
 
-**1 Season (18):** DevoyTTV (S1), Nyxana (S1), Fra49 (S2), JamestheDouglas (S2), egl_ (S3), nFang (S3), Fourbitplayer (S10), ohh_lia (S11), stupidsylvia (S12), TheSlimeBrother (S12), Biwitch (S13), Bulbexe (S13), CHAINGE (S13), Normoh (S13), Rohcket (S13), AirInAirOut (S14), Fcrm (S14), ZebraPantz (S14)
+**1 Season (18):** DevoyTTV (S1), Nyxana (S1), Fra49 (S2), JamestheDouglas (S2), egl_ (S3), nFang (S3), Fourbitplayer (S10), puppygirlmaple (S11), stupidsylvia (S12), TheSlimeBrother (S12), Biwitch (S13), Bulbexe (S13), CHAINGE (S13), Normoh (S13), Rohcket (S13), AirInAirOut (S14), Fcrm (S14), ZebraPantz (S14)
 
 ---
 ### Debutants
 
-**S1 (20):** alexnv, ArcticSeagull, broccoliar, CodeJoshua, Crafters, Dawncy, DevoyTTV, FrozenBenny, ghostblurr, Indago, Karliffu, Markedbooboy, NickPlaysGames15, Nyxana, Pelycosaur, PresidentFleb, Rebelghost, UbiquityHD, violetwoah, xRaltz
+**S1 (20):** alexnv, ArcticSeagull, broccoliar, CodeJoshua, Crafters, Dawncy, DevoyTTV, FrozenBenny, ghostblurr, Indago, Karliffu, Markedbooboy, NickPlaysGames15, Nyxana, Pelycosaur, PresidentFleb, Rebelghost, UbiquityHD, violetwow, xRaltz
 
 **S2 (9):** Bofishkix, Caydone, Fra49, Geroot, ItsShqky, JamestheDouglas, natsuvi, poWpaH, Vetmire
 
@@ -444,7 +444,7 @@
 
 **S10 (3):** Blarkslol, Fourbitplayer, kirbey
 
-**S11 (4):** Charrlottie, ohh_lia, SmolHatChild, TehBaconBrawlerZ
+**S11 (4):** Charrlottie, puppygirlmaple, SmolHatChild, TehBaconBrawlerZ
 
 **S12 (5):** _1mmortal_, Greeples, SpaceFenix, stupidsylvia, TheSlimeBrother
 

@@ -5,7 +5,7 @@
 
 **S1: ChessmanTroy (6)**, *Izzyxox_ (0)*
 
-**S2: xDiversity (4)**, *fosillyhuman (0), TehBaconBrawlerZ (0)*
+**S2: xDiversity (4)**, *SpringOpaline (0), TehBaconBrawlerZ (0)*
 
 **S3: broccoliar (5)**
 
@@ -108,7 +108,7 @@
 ---
 ### Ironman
 
-**S1:** Tylerplaysgames (0:59:24)
+**S1:** Tylerplaysgamess (0:59:24)
 
 **S2:** Bofishkix (1:31:58)
 
@@ -152,7 +152,7 @@
 
 **S1:** Erdql (Lava)
 
-**S2:** fosillyhuman (Fall)
+**S2:** SpringOpaline (Fall)
 
 **S3:** xoHue (HeyItsJBug)
 
@@ -193,7 +193,7 @@
 
 **9th - MaxEvasion (5):** Broseph (S5), Charrlottie (S5), CodeJoshua (S6), Stravilight (S6), broccoliar (S6)
 
-**9th - Quinnton (5):** BarelyPink (S2), broccoliar (S2), Aaerons (S2), xoHue (S2), GeorginaMarie95 (S2)
+**9th - Quinnton (5):** JustYeti (S2), broccoliar (S2), Aaerons (S2), xoHue (S2), GeorginaMarie95 (S2)
 
 **13th - azoof (4):** ArcticSeagull (S7), Charrlottie (S7), MaxEvasion (S7), AsianCheatCode (S7)
 
@@ -213,7 +213,7 @@
 
 **20th - AsianCheatCode (3):** _ChrisMS (S7), CodeJoshua (S7), Bornyo (S7)
 
-**20th - Bofishkix (3):** Tylerplaysgames (S1), Jes3e (S1), QueenxPetty (S2)
+**20th - Bofishkix (3):** Tylerplaysgamess (S1), Jes3e (S1), QueenxPetty (S2)
 
 **20th - Bornyo (3):** Brodator (S8), Biwitch (S8), Phyrrus (S8)
 
@@ -253,8 +253,6 @@
 
 **39th - ArcticSeagull (1):** MangoPlayz (S6)
 
-**39th - BarelyPink (1):** Jes3e (S2)
-
 **39th - Biwitch (1):** DJoee (S7)
 
 **39th - Brodator (1):** broccoliar (S8)
@@ -278,6 +276,8 @@
 **39th - Jes3e (1):** DMR_Games (S2)
 
 **39th - Jordtim (1):** ethodog (S5)
+
+**39th - JustYeti (1):** Jes3e (S2)
 
 **39th - Kaismartypants (1):** Kaddyn (S8)
 
@@ -306,9 +306,9 @@
 
 **Lava (3):** Erdql (S1), Calliwags (S3), Brodator (S7)
 
-**Fall (2):** fosillyhuman (S2), strategy (S7)
+**Fall (2):** SpringOpaline (S2), strategy (S7)
 
-**Burning (1):** BarelyPink (S3)
+**Burning (1):** JustYeti (S3)
 
 **Explosion (1):** Stravilight (S9)
 
@@ -335,16 +335,16 @@
 
 **3 Seasons (19):** Erdql (S1-S3), HeyItsJBug (S1,S3-S4), Jes3e (S1-S3), lippylee (S1-S3), Pelycosaur (S1-S2,S4), xoHue (S1-S3), xRaltz (S1,S3,S5), poWpaH (S2-S4), QueenxPetty (S2-S4), xDiversity (S2-S4), Flcnt (S3,S5-S6), Captinn (S4-S6), evuhlynx (S4,S6,S8), _ChrisMS (S5,S7,S9), Gorgerous (S5-S6,S9), Jahrod (S5-S7), MaxEvasion (S5-S7), _1mmortal_ (S7-S9), AsianCheatCode (S7-S9)
 
-**2 Seasons (34):** Bofishkix (S1-S2), DMR_Games (S1-S2), Izzyxox_ (S1,S3), Quinnton (S1-S2), _Fost_ (S2,S7), BarelyPink (S2-S3), cocoflourish (S2-S3), emi1iano (S2-S3), ItsJustPanda (S2-S3), TayUHC (S2-S3), brinniex (S3-S4), mycemie (S3-S4), Codwhy (S4,S8), Kaddyn (S4,S8), Blarkslol (S5-S6), Bulbexe (S5-S6), CHAINGE (S5-S6), Greeples (S5,S7), Jordtim (S5-S6), lexicuhl (S5,S8), azoof (S6-S7), TheSlimeBrother (S6-S7), Biwitch (S7-S8), Bornyo (S7-S8), Brodator (S7-S8), Caydone (S7-S8), DJoee (S7,S9), Kaismartypants (S7-S8), natsuvi (S7-S8), Phyrrus (S7-S8), Psykl0ne (S7,S9), strategy (S7,S9), JaqOnCraq (S8-S9), Normoh (S8-S9)
+**2 Seasons (34):** Bofishkix (S1-S2), DMR_Games (S1-S2), Izzyxox_ (S1,S3), Quinnton (S1-S2), _Fost_ (S2,S7), cocoflourish (S2-S3), emi1iano (S2-S3), ItsJustPanda (S2-S3), JustYeti (S2-S3), TayUHC (S2-S3), brinniex (S3-S4), mycemie (S3-S4), Codwhy (S4,S8), Kaddyn (S4,S8), Blarkslol (S5-S6), Bulbexe (S5-S6), CHAINGE (S5-S6), Greeples (S5,S7), Jordtim (S5-S6), lexicuhl (S5,S8), azoof (S6-S7), TheSlimeBrother (S6-S7), Biwitch (S7-S8), Bornyo (S7-S8), Brodator (S7-S8), Caydone (S7-S8), DJoee (S7,S9), Kaismartypants (S7-S8), natsuvi (S7-S8), Phyrrus (S7-S8), Psykl0ne (S7,S9), strategy (S7,S9), JaqOnCraq (S8-S9), Normoh (S8-S9)
 
-**1 Season (44):** Aglz (S1), ChessmanTroy (S1), DylanOk (S1), Ethsans (S1), IEddieWedi (S1), Tylerplaysgames (S1), Aaerons (S2), CalebD52 (S2), fosillyhuman (S2), GeorginaMarie95 (S2), hashtagmat (S2), NemeTheMeme (S2), Rebelghost (S2), Zcin (S2), Calliwags (S3), AdonisGaming (S4), Cqson (S4), Dawncy (S4), Jaceon02 (S4), RuneTactics (S4), T1mT0m (S4), ToeKun (S4), Broseph (S5), ethodog (S5), SiahStone (S5), Zevulpes (S5), flameorb (S6), TalonBX (S6), 78ford (S7), Dj8ninja (S8), _carn (S9), BoltsInCharge (S9), CAMKART100 (S9), ChainingVermin2 (S9), cherryblawsom (S9), dahii (S9), Fcrm (S9), lasdarling (S9), MarcC5M (S9), noktime (S9), SpaceFenix (S9), stupidsylvia (S9), Westcraft00 (S9), wizarde (S9)
+**1 Season (44):** Aglz (S1), ChessmanTroy (S1), DylanOk (S1), Ethsans (S1), IEddieWedi (S1), Tylerplaysgamess (S1), Aaerons (S2), CalebD52 (S2), GeorginaMarie95 (S2), hashtagmat (S2), NemeTheMeme (S2), Rebelghost (S2), SpringOpaline (S2), Zcin (S2), Calliwags (S3), AdonisGaming (S4), Cqson (S4), Dawncy (S4), Jaceon02 (S4), RuneTactics (S4), T1mT0m (S4), ToeKun (S4), Broseph (S5), ethodog (S5), SiahStone (S5), Zevulpes (S5), flameorb (S6), TalonBX (S6), 78ford (S7), Dj8ninja (S8), _carn (S9), BoltsInCharge (S9), CAMKART100 (S9), ChainingVermin2 (S9), cherryblawsom (S9), dahii (S9), Fcrm (S9), lasdarling (S9), MarcC5M (S9), noktime (S9), SpaceFenix (S9), stupidsylvia (S9), Westcraft00 (S9), wizarde (S9)
 
 ---
 ### Debutants
 
-**S1 (18):** Aglz, Bofishkix, Charrlottie, ChessmanTroy, DMR_Games, DylanOk, Erdql, Ethsans, HeyItsJBug, IEddieWedi, Izzyxox_, Jes3e, lippylee, Pelycosaur, Quinnton, Tylerplaysgames, xoHue, xRaltz
+**S1 (18):** Aglz, Bofishkix, Charrlottie, ChessmanTroy, DMR_Games, DylanOk, Erdql, Ethsans, HeyItsJBug, IEddieWedi, Izzyxox_, Jes3e, lippylee, Pelycosaur, Quinnton, Tylerplaysgamess, xoHue, xRaltz
 
-**S2 (21):** _Fost_, Aaerons, ArcticSeagull, BarelyPink, broccoliar, CalebD52, cocoflourish, emi1iano, fosillyhuman, GeorginaMarie95, hashtagmat, ItsJustPanda, ItsShqky, NemeTheMeme, poWpaH, QueenxPetty, Rebelghost, TayUHC, TehBaconBrawlerZ, xDiversity, Zcin
+**S2 (21):** _Fost_, Aaerons, ArcticSeagull, broccoliar, CalebD52, cocoflourish, emi1iano, GeorginaMarie95, hashtagmat, ItsJustPanda, ItsShqky, JustYeti, NemeTheMeme, poWpaH, QueenxPetty, Rebelghost, SpringOpaline, TayUHC, TehBaconBrawlerZ, xDiversity, Zcin
 
 **S3 (6):** brinniex, Calliwags, Flcnt, MangoPlayz, mycemie, Stravilight
 

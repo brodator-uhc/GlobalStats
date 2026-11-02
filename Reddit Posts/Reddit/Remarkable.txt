@@ -16,7 +16,7 @@
 
 **S2:** Jakekub (0), TaylorLive (0)
 
-**S3:** TheKevGuy (8)
+**S3:** TheKevJawn (8)
 
 ---
 ### Most Kills
@@ -25,7 +25,7 @@
 
 **S2:** adadaddam (8)
 
-**S3:** TheKevGuy (8)
+**S3:** TheKevJawn (8)
 
 ---
 ### Most Kills (Team)
@@ -79,7 +79,7 @@
 
 **2nd - Shxffleh (8):** GeeSam (S1), 99spikester (S1), chickyc12 (S1), Jakekub (S1), Darth (S1), LittleArabMC (S1), DECTHEELITE (S1), KaBoom (S1)
 
-**2nd - TheKevGuy (8):** KaBoom (S3), GeeSam (S3), Hecticity (S3), Jakekub (S3), DareDevilDawson (S3), lottebunny (S3), xenon__54 (S3), Eluniel (S3)
+**2nd - TheKevJawn (8):** KaBoom (S3), GeeSam (S3), Hecticity (S3), Jakekub (S3), DareDevilDawson (S3), lottebunny (S3), xenon__54 (S3), Eluniel (S3)
 
 **4th - DareDevilDawson (4):** Maniacmagee (S3), c1n (S3), 99spikester (S3), Hoppy (S3)
 
@@ -101,9 +101,9 @@
 
 **8th - ScottPirie (2):** XFROSTXFIREX (S1), c1n (S2)
 
-**8th - TheGamerCool (2):** Eluniel (S1), TheKevGuy (S1)
+**8th - TheGamerCool (2):** Eluniel (S1), TheKevJawn (S1)
 
-**15th - Coolust (1):** TheKevGuy (S3)
+**15th - Coolust (1):** TheKevJawn (S3)
 
 **15th - Cybers_ (1):** PaperVinnie (S2)
 
@@ -115,7 +115,7 @@
 
 **15th - Jakekub (1):** Hecticity (S1)
 
-**15th - LittleArabMC (1):** TheKevGuy (S2)
+**15th - LittleArabMC (1):** TheKevJawn (S2)
 
 **15th - Pandana7 (1):** DareDevilDawson (S2)
 
@@ -135,7 +135,7 @@
 ---
 ### Participation
 
-**3 Seasons (10):** 99spikester (S1-S3), DareDevilDawson (S1-S3), GeeSam (S1-S3), Hecticity (S1-S3), Jakekub (S1-S3), KaBoom (S1-S3), lottebunny (S1-S3), poempedoempoex (S1-S3), ScottPirie (S1-S3), TheKevGuy (S1-S3)
+**3 Seasons (10):** 99spikester (S1-S3), DareDevilDawson (S1-S3), GeeSam (S1-S3), Hecticity (S1-S3), Jakekub (S1-S3), KaBoom (S1-S3), lottebunny (S1-S3), poempedoempoex (S1-S3), ScottPirie (S1-S3), TheKevJawn (S1-S3)
 
 **2 Seasons (10):** adadaddam (S1-S2), CelVeritas (S1,S3), chickyc12 (S1-S2), Eluniel (S1,S3), Jep (S1-S2), LittleArabMC (S1-S2), Pandana7 (S1-S2), xRyan98 (S1-S2), c1n (S2-S3), PaperVinnie (S2-S3)
 
@@ -144,7 +144,7 @@
 ---
 ### Debutants
 
-**S1 (27):** _AlmostSober, 99spikester, adadaddam, CelVeritas, chickyc12, DareDevilDawson, Darth, DECTHEELITE, Edviin_, Eluniel, GeeSam, GhostGuardHD, Hecticity, Jakekub, Jep, KaBoom, LittleArabMC, lottebunny, Pandana7, Pepit, poempedoempoex, ScottPirie, Shxffleh, TheGamerCool, TheKevGuy, XFROSTXFIREX, xRyan98
+**S1 (27):** _AlmostSober, 99spikester, adadaddam, CelVeritas, chickyc12, DareDevilDawson, Darth, DECTHEELITE, Edviin_, Eluniel, GeeSam, GhostGuardHD, Hecticity, Jakekub, Jep, KaBoom, LittleArabMC, lottebunny, Pandana7, Pepit, poempedoempoex, ScottPirie, Shxffleh, TheGamerCool, TheKevJawn, XFROSTXFIREX, xRyan98
 
 **S2 (10):** BlockBusterBen, c1n, Cybers_, GreenGecks, ItsLOLzy, Maj0r_Min3r_98, MrPolzerino, PaperVinnie, TaylorLive, ThwipThwip
 

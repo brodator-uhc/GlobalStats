@@ -127,7 +127,7 @@
 
 **18th - _Glen (3):** Yonny (S1), Invasionnn (S1), LeonTG (S1)
 
-**18th - Daffz (3):** Vinny212 (S1), BENYN (S1), 1eeg (S1)
+**18th - Daffz (3):** vinny212 (S1), BENYN (S1), 1eeg (S1)
 
 **18th - harrydagawd (3):** Bobbytheturtle (S3), SirJensen (S4), xShatter (S4)
 
@@ -139,7 +139,7 @@
 
 **18th - thaunking (3):** harrydagawd (S2), PLENT (S2), xJesterrr (S3)
 
-**18th - tuxster (3):** LegoBeast (S4), taperturtle (S4), Vinny212 (S4)
+**18th - tuxster (3):** LegoBeast (S4), taperturtle (S4), vinny212 (S4)
 
 **18th - Zeprix (3):** flameh (S2), Gabey (S2), Lefo_ (S3)
 
@@ -177,7 +177,7 @@
 
 **37th - tuxpeng (1):** Rasguer (S1)
 
-**37th - Vinny212 (1):** Zamario (S4)
+**37th - vinny212 (1):** Zamario (S4)
 
 **37th - xJesterrr (1):** xhockey (S4)
 
@@ -197,14 +197,14 @@
 
 **3 Seasons (28):** Daffz (S1-S3), Gps02 (S1-S2,S4), Spacepod_ (S1-S3), T0n35 (S1-S3), thaunking (S1-S3), Walshy (S1-S2,S4), Arod_ (S2-S4), AttackZach_ (S2-S4), brodioh (S2-S4), ColdBac (S2-S4), Coolust (S2-S4), CraftCrank (S2-S4), Cryptic (S2-S4), harrydagawd (S2-S4), Jinko42 (S2-S4), Lefo_ (S2-S4), LegoBeast (S2-S4), OblivionTU (S2-S4), omph (S2-S4), PLENT (S2-S4), Purpdan (S2-S4), Sheepies (S2-S4), SQAH (S2-S4), tuxster (S2-S4), xhockey (S2-S4), xJesterrr (S2-S4), Zamario (S2-S4), Zeprix (S2-S4)
 
-**2 Seasons (13):** sleepingxd (S1-S2), Vinny212 (S1,S4), briquan (S2,S4), Gabey (S2-S3), Ixolock (S2-S3), KempsOG (S2-S3), Leftu (S2,S4), Nyzian (S2,S4), sirples (S2-S3), taperturtle (S2,S4), Xert12 (S2,S4), Zcka (S2-S3), Bobbytheturtle (S3-S4)
+**2 Seasons (13):** sleepingxd (S1-S2), vinny212 (S1,S4), briquan (S2,S4), Gabey (S2-S3), Ixolock (S2-S3), KempsOG (S2-S3), Leftu (S2,S4), Nyzian (S2,S4), sirples (S2-S3), taperturtle (S2,S4), Xert12 (S2,S4), Zcka (S2-S3), Bobbytheturtle (S3-S4)
 
 **1 Season (36):** _Cleg (S1), _Glen (S1), galaxychickens (S1), I_is_cheesecake (S1), Invasionnn (S1), LeonTG (S1), MBeaar (S1), Rasguer (S1), Renegade_ (S1), Ryboh (S1), spoood (S1), tuxpeng (S1), Yonny (S1), zfiascoz (S1), AvaCos (S2), Elite_Squirrels (S2), flameh (S2), IonJ (S2), Paean (S2), PhenomCloud (S2), silh (S2), slowpr0 (S2), warriorcat (S2), Ethab1 (S3), Micale (S3), chimpgaming (S4), Crazy3210 (S4), hammer_fan (S4), KELCOS (S4), KOKeowner (S4), LightningS7 (S4), MINETWON (S4), SirJensen (S4), SkellyBot (S4), xShatter (S4), Zoroh (S4)
 
 ---
 ### Debutants
 
-**S1 (28):** _Cleg, _Glen, 1eeg, BENYN, Daffz, galaxychickens, Gps02, Hazzzard_, I_is_cheesecake, Invasionnn, Lach, LeonTG, MBeaar, Rasguer, Renegade_, Ryboh, SimplySam, sleepingxd, SmooveManeuver, Spacepod_, spoood, T0n35, thaunking, tuxpeng, Vinny212, Walshy, Yonny, zfiascoz
+**S1 (28):** _Cleg, _Glen, 1eeg, BENYN, Daffz, galaxychickens, Gps02, Hazzzard_, I_is_cheesecake, Invasionnn, Lach, LeonTG, MBeaar, Rasguer, Renegade_, Ryboh, SimplySam, sleepingxd, SmooveManeuver, Spacepod_, spoood, T0n35, thaunking, tuxpeng, vinny212, Walshy, Yonny, zfiascoz
 
 **S2 (41):** Arod_, AttackZach_, AvaCos, briquan, brodioh, ColdBac, Coolust, CraftCrank, Cryptic, Elite_Squirrels, flameh, Gabey, harrydagawd, IonJ, Ixolock, Jinko42, KempsOG, Lefo_, Leftu, LegoBeast, Nyzian, OblivionTU, omph, Paean, PhenomCloud, PLENT, Purpdan, Sheepies, silh, sirples, slowpr0, SQAH, taperturtle, tuxster, warriorcat, Xert12, xhockey, xJesterrr, Zamario, Zcka, Zeprix
 

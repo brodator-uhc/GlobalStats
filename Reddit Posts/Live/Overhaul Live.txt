@@ -84,7 +84,7 @@
 
 **S2:** CHAINGE (zCent)
 
-**S3:** kawaiibunri (Fall)
+**S3:** evuhlynx (Fall)
 
 **S4:** ArcticSeagull (HalfLechuga)
 
@@ -127,7 +127,7 @@
 
 **16th - Fcrm (2):** Stravilight (S2), SAYNAR (S3)
 
-**16th - PotatoPlayer_ (2):** skyzfy (S1), kawaiibunri (S1)
+**16th - PotatoPlayer_ (2):** skyzfy (S1), evuhlynx (S1)
 
 **16th - SAYNAR (2):** DJoee (S2), GrassPiece (S4)
 
@@ -156,7 +156,7 @@
 ---
 ### PvE Deaths
 
-**Fall (2):** kawaiibunri (S3), alexnv (S3)
+**Fall (2):** evuhlynx (S3), alexnv (S3)
 
 **Anvil (1):** broccoliar (S4)
 
@@ -167,14 +167,14 @@
 
 **3 Seasons (14):** _1mmortal_ (S1-S3), alexnv (S1-S3), benidk (S1-S2,S4), CurdledDrip (S1,S3-S4), dahii (S1-S3), GrassPiece (S1-S2,S4), onstep (S1-S2,S4), PupperKun (S1-S2,S4), skyzfy (S1-S2,S4), SOAKLE (S1-S3), zCent (S1-S2,S4), broccoliar (S2-S4), Cloversss (S2-S4), Kaismartypants (S2-S4)
 
-**2 Seasons (14):** _carn (S1-S2), checog (S1-S2), CommanderK22_ (S1,S4), DJoee (S1-S2), DumbThiccNick (S1-S2), Ginzburg (S1,S4), GodlySteal (S1,S4), kawaiibunri (S1,S3), PotatoPlayer_ (S1,S3), Ryfri (S1,S4), Spongey (S1-S2), strategy (S1,S3), ArcticSeagull (S3-S4), bayweafs (S3-S4)
+**2 Seasons (14):** _carn (S1-S2), checog (S1-S2), CommanderK22_ (S1,S4), DJoee (S1-S2), DumbThiccNick (S1-S2), evuhlynx (S1,S3), Ginzburg (S1,S4), GodlySteal (S1,S4), PotatoPlayer_ (S1,S3), Ryfri (S1,S4), Spongey (S1-S2), strategy (S1,S3), ArcticSeagull (S3-S4), bayweafs (S3-S4)
 
 **1 Season (24):** Cahmn (S1), Captureee (S1), carterwarterbear (S1), ScaryPumpkinFace (S1), zohhhh (S1), _pbo (S2), FishManIsPotato (S2), Flcnt (S2), Glarza (S2), Kaddyn (S2), RollRealQuick (S2), Stravilight (S2), swishduck (S2), _Dieter (S3), 5ize (S3), HUQTER (S3), SPEEDYDIGS (S3), BoltsInCharge (S4), Bornyo (S4), Colozi (S4), Fearx_ (S4), FroztiSnowman (S4), HalfLechuga (S4), ItsShqky (S4)
 
 ---
 ### Debutants
 
-**S1 (32):** _1mmortal_, _carn, alexnv, benidk, Cahmn, Captureee, carterwarterbear, CHAINGE, checog, CommanderK22_, CurdledDrip, dahii, DJoee, DumbThiccNick, Fcrm, Ginzburg, GodlySteal, GrassPiece, kawaiibunri, onstep, PotatoPlayer_, PupperKun, Ryfri, SAYNAR, ScaryPumpkinFace, sgouche, skyzfy, SOAKLE, Spongey, strategy, zCent, zohhhh
+**S1 (32):** _1mmortal_, _carn, alexnv, benidk, Cahmn, Captureee, carterwarterbear, CHAINGE, checog, CommanderK22_, CurdledDrip, dahii, DJoee, DumbThiccNick, evuhlynx, Fcrm, Ginzburg, GodlySteal, GrassPiece, onstep, PotatoPlayer_, PupperKun, Ryfri, SAYNAR, ScaryPumpkinFace, sgouche, skyzfy, SOAKLE, Spongey, strategy, zCent, zohhhh
 
 **S2 (11):** _pbo, broccoliar, Cloversss, FishManIsPotato, Flcnt, Glarza, Kaddyn, Kaismartypants, RollRealQuick, Stravilight, swishduck
 

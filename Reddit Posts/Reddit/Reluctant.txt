@@ -141,7 +141,7 @@
 
 **1st - _1mmortal_ (9):** TacoDab (S2a), ArcticSeagull (S3), NickPlaysGames15 (S3), kirbey (S4), TheSlimeBrother (S4), MaxEvasion (S5), _Dieter (S5), NickPlaysGames15 (S5), broccoliar (S6)
 
-**1st - ItzIgglesPiggles (9):** TacoDab (S1), CodeJoshua (S2a), Kaismartypants (S2a), Bofishkix (S2b), ohh_lia (S2b), ArcticSeagull (S2b), hashtagmat (S2b), PwincessVanessa (S2b), TehBaconBrawlerZ (S2b)
+**1st - ItzIgglesPiggles (9):** TacoDab (S1), CodeJoshua (S2a), Kaismartypants (S2a), Bofishkix (S2b), puppygirlmaple (S2b), ArcticSeagull (S2b), hashtagmat (S2b), PwincessVanessa (S2b), TehBaconBrawlerZ (S2b)
 
 **3rd - Captinn (8):** CodeJoshua (S1), _Fost_ (S1), Evzenitable (S1), MichaelPlayMC (S1), Vetmire (S1), ItzIgglesPiggles (S1), NickPlaysGames15 (S2a), brinkwhy (S4)
 
@@ -175,7 +175,7 @@
 
 **17th - MichaelPlayMC (3):** Zcin (S1), ArcticSeagull (S2a), Delighted2MeetU (S2b)
 
-**17th - RohanSmashBro (3):** Gorgerous (S4), ohh_lia (S4), Kaismartypants (S4)
+**17th - RohanSmashBro (3):** Gorgerous (S4), puppygirlmaple (S4), Kaismartypants (S4)
 
 **17th - TehBaconBrawlerZ (3):** ItsShqky (S3), Zcin (S3), lexicuhl (S3)
 
@@ -257,7 +257,7 @@
 
 **3 Seasons (7):** ItzIgglesPiggles (S1-S2b), PwincessVanessa (S1-S2b), 4EyedSlime (S2a,S4-S5), CHAINGE (S2a-S2b,S5), kirbey (S2a,S4-S5), MaxEvasion (S2a,S5-S6), Flcnt (S3-S4,S6)
 
-**2 Seasons (14):** _Fost_ (S1,S2b), TacoDab (S1-S2a), Vetmire (S1,S2b), Lsnce (S2a-S2b), ohh_lia (S2b,S4), Pelycosaur (S2b-S3), Greeples (S3-S4), Kiinako_ (S3,S6), poWpaH (S3,S6), Cqson (S4-S5), David63 (S4,S6), Rohcket (S4-S5), ZebraPantz (S4,S6), _Dieter (S5-S6)
+**2 Seasons (14):** _Fost_ (S1,S2b), TacoDab (S1-S2a), Vetmire (S1,S2b), Lsnce (S2a-S2b), Pelycosaur (S2b-S3), puppygirlmaple (S2b,S4), Greeples (S3-S4), Kiinako_ (S3,S6), poWpaH (S3,S6), Cqson (S4-S5), David63 (S4,S6), Rohcket (S4-S5), ZebraPantz (S4,S6), _Dieter (S5-S6)
 
 **1 Season (22):** Caffeindiazepine (S1), Jahrod (S1), St0rmplayz (S1), Geroot (S2a), lay1aa (S2a), SiahStone (S2a), Bohe (S2b), Delighted2MeetU (S2b), GeniRCT (S2b), hashtagmat (S2b), natsuvi (S2b), Plushy33 (S2b), TayUHC (S2b), Espik (S3), whitetimewolf (S3), 78ford (S4), Gorgerous (S4), RohanSmashBro (S4), xDiversity (S4), azoof (S6), ColdBac (S6), ItsColinn (S6)
 
@@ -268,7 +268,7 @@
 
 **S2a (12):** _1mmortal_, 4EyedSlime, CHAINGE, Geroot, ItsShqky, kirbey, lay1aa, Lsnce, MaxEvasion, NickPlaysGames15, SiahStone, TheSlimeBrother
 
-**S2b (9):** Bohe, Delighted2MeetU, GeniRCT, hashtagmat, natsuvi, ohh_lia, Pelycosaur, Plushy33, TayUHC
+**S2b (9):** Bohe, Delighted2MeetU, GeniRCT, hashtagmat, natsuvi, Pelycosaur, Plushy33, puppygirlmaple, TayUHC
 
 **S3 (8):** Espik, Flcnt, Greeples, Kiinako_, lexicuhl, poWpaH, whitetimewolf, zac083
 

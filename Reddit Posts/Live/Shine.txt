@@ -75,7 +75,7 @@
 ---
 ### Kills
 
-**1st - loyaltea (12):** _1mmortal_ (S1), BigJedo (S1), SOAKLE (S2), ADinoPlayingMC (S2), Inkiz (S2), _Gamenight888_ (S2), poWpaH (S3), brinniex (S3), _1mmortal_ (S3), Mastercrossbow (S3), Krbreb (S3), WoodFired (S3)
+**1st - loyaltea (12):** _1mmortal_ (S1), BigJedo (S1), SOAKLE (S2), ADinoPlayingMC (S2), Inkiz (S2), _Gamenight888_ (S2), poWpaH (S3), brinniex (S3), _1mmortal_ (S3), Alckz (S3), Krbreb (S3), WoodFired (S3)
 
 **2nd - toggleuhc (9):** slxps (S1), poWpaH (S1), m4ku (S1), _Gamenight888_ (S1), brinkwhy (S1), CipherKai (S1), KennyTee (S2), Retrowzz (S2), CoDrake (S2)
 
@@ -87,7 +87,7 @@
 
 **6th - benidk (3):** AvyleZ (S3), Dcrpy (S3), PwincessVanessa (S3)
 
-**6th - Hendysaurus (3):** zeesue (S1), violetwoah (S1), ImChile (S1)
+**6th - hendy53 (3):** zeesue (S1), violetwow (S1), ImChile (S1)
 
 **6th - Krbreb (3):** FishManIsPotato (S3), _Gamenight888_ (S3), Ortslive (S3)
 
@@ -99,7 +99,7 @@
 
 **12th - _1mmortal_ (2):** Lunar_Dragon1093 (S2), willif (S3)
 
-**12th - brinkwhy (2):** Hendysaurus (S1), samdave (S2)
+**12th - brinkwhy (2):** hendy53 (S1), samdave (S2)
 
 **12th - Inkiz (2):** scrup (S2), Dcrpy (S2)
 
@@ -139,7 +139,7 @@
 
 **22nd - St0rmplayz (1):** Theydra (S1)
 
-**22nd - violetwoah (1):** skyzfy (S1)
+**22nd - violetwow (1):** skyzfy (S1)
 
 **22nd - xCynesta (1):** Merch (S3)
 
@@ -148,7 +148,7 @@
 ---
 ### PvE Deaths
 
-**Creeper (4):** HUQTER (S2), Caceduopamso (S2), Tinydraco (S2), dyzidon (S3)
+**Creeper (4):** HUQTER (S2), Cacedoupamso (S2), Tinydraco (S2), dyzidon (S3)
 
 **Fall (1):** Flcnt (S1)
 
@@ -161,15 +161,15 @@
 
 **2 Seasons (16):** BigJedo (S1-S2), CipherKai (S1-S2), KennyTee (S1-S2), Lunar_Dragon1093 (S1-S2), m4ku (S1-S2), slxps (S1-S2), SOAKLE (S1-S2), zFate (S1-S2), brinniex (S2-S3), Bulbexe (S2-S3), Dcrpy (S2-S3), FishManIsPotato (S2-S3), HUQTER (S2-S3), Merch (S2-S3), Moonlitess (S2-S3), Stravilight (S2-S3)
 
-**1 Season (36):** DevoyTTV (S1), Flcnt (S1), Hendysaurus (S1), natsuvi (S1), St0rmplayz (S1), Theydra (S1), ultralights (S1), Valnius (S1), violetwoah (S1), zeesue (S1), ADinoPlayingMC (S2), AiroKun (S2), Archqrr (S2), Caceduopamso (S2), Cahnner (S2), CoDrake (S2), Flowtives (S2), Inkiz (S2), Kelawesome (S2), poolfloaty (S2), Retrowzz (S2), samdave (S2), scrup (S2), Senkhi (S2), strategy (S2), Tinydraco (S2), Upraise (S2), benidk (S3), dyzidon (S3), Krbreb (S3), Lynxo (S3), Mastercrossbow (S3), Ortslive (S3), willif (S3), WoodFired (S3), xCynesta (S3)
+**1 Season (36):** DevoyTTV (S1), Flcnt (S1), hendy53 (S1), natsuvi (S1), St0rmplayz (S1), Theydra (S1), ultralights (S1), Valnius (S1), violetwow (S1), zeesue (S1), ADinoPlayingMC (S2), AiroKun (S2), Archqrr (S2), Cacedoupamso (S2), Cahnner (S2), CoDrake (S2), Flowtives (S2), Inkiz (S2), Kelawesome (S2), poolfloaty (S2), Retrowzz (S2), samdave (S2), scrup (S2), Senkhi (S2), strategy (S2), Tinydraco (S2), Upraise (S2), Alckz (S3), benidk (S3), dyzidon (S3), Krbreb (S3), Lynxo (S3), Ortslive (S3), willif (S3), WoodFired (S3), xCynesta (S3)
 
 ---
 ### Debutants
 
-**S1 (28):** _1mmortal_, _Gamenight888_, AvyleZ, BigJedo, brinkwhy, CipherKai, DevoyTTV, Flcnt, Hendysaurus, ImChile, KennyTee, loyaltea, Lunar_Dragon1093, m4ku, natsuvi, poWpaH, PwincessVanessa, skyzfy, slxps, SOAKLE, St0rmplayz, Theydra, toggleuhc, ultralights, Valnius, violetwoah, zeesue, zFate
+**S1 (28):** _1mmortal_, _Gamenight888_, AvyleZ, BigJedo, brinkwhy, CipherKai, DevoyTTV, Flcnt, hendy53, ImChile, KennyTee, loyaltea, Lunar_Dragon1093, m4ku, natsuvi, poWpaH, PwincessVanessa, skyzfy, slxps, SOAKLE, St0rmplayz, Theydra, toggleuhc, ultralights, Valnius, violetwow, zeesue, zFate
 
-**S2 (25):** ADinoPlayingMC, AiroKun, Archqrr, brinniex, Bulbexe, Caceduopamso, Cahnner, CoDrake, Dcrpy, FishManIsPotato, Flowtives, HUQTER, Inkiz, Kelawesome, Merch, Moonlitess, poolfloaty, Retrowzz, samdave, scrup, Senkhi, strategy, Stravilight, Tinydraco, Upraise
+**S2 (25):** ADinoPlayingMC, AiroKun, Archqrr, brinniex, Bulbexe, Cacedoupamso, Cahnner, CoDrake, Dcrpy, FishManIsPotato, Flowtives, HUQTER, Inkiz, Kelawesome, Merch, Moonlitess, poolfloaty, Retrowzz, samdave, scrup, Senkhi, strategy, Stravilight, Tinydraco, Upraise
 
-**S3 (9):** benidk, dyzidon, Krbreb, Lynxo, Mastercrossbow, Ortslive, willif, WoodFired, xCynesta
+**S3 (9):** Alckz, benidk, dyzidon, Krbreb, Lynxo, Ortslive, willif, WoodFired, xCynesta
 
 ---

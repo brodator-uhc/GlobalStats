@@ -33,7 +33,7 @@
 ---
 ### First Blood
 
-**S2:** JroseFX (Centrios)
+**S2:** Jrose (Centrios)
 
 ---
 ### First Death
@@ -43,9 +43,9 @@
 ---
 ### Kills
 
-**1st - PauloSSB (7):** HornyChinchilla (S2), JasonGamesFTW (S2), Rebelghost (S2), ItsChristiannn (S2), Vorpeo (S2), brinkwhy (S2), ItsColinn (S2)
+**1st - PauloSSB (7):** HornyChinchilla (S2), JasonBPE (S2), Rebelghost (S2), ItsChristiannn (S2), Vorpeo (S2), brinkwhy (S2), ItsColinn (S2)
 
-**2nd - St0rmplayz (3):** JroseFX (S2), SergeantM (S2), Guzmeme (S2)
+**2nd - St0rmplayz (3):** Jrose (S2), SergeantM (S2), Guzmeme (S2)
 
 **3rd - DatGuyAdam (2):** TheZombeeFreek (S2), Kaismartypants (S2)
 
@@ -53,7 +53,7 @@
 
 **5th - frogsella (1):** St0rmplayz (S2)
 
-**5th - JroseFX (1):** Centrios (S2)
+**5th - Jrose (1):** Centrios (S2)
 
 ---
 ### PvE Deaths
@@ -63,11 +63,11 @@
 ---
 ### Participation
 
-**1 Season (20):** brinkwhy (S2), Centrios (S2), DatGuyAdam (S2), frogsella (S2), Guzmeme (S2), HornyChinchilla (S2), ItsChristiannn (S2), ItsColinn (S2), JasonGamesFTW (S2), JoshC2 (S2), JroseFX (S2), Kaismartypants (S2), MCmattFTW (S2), Normie (S2), PauloSSB (S2), Rebelghost (S2), SergeantM (S2), St0rmplayz (S2), TheZombeeFreek (S2), Vorpeo (S2)
+**1 Season (20):** brinkwhy (S2), Centrios (S2), DatGuyAdam (S2), frogsella (S2), Guzmeme (S2), HornyChinchilla (S2), ItsChristiannn (S2), ItsColinn (S2), JasonBPE (S2), JoshC2 (S2), Jrose (S2), Kaismartypants (S2), MCmattFTW (S2), Normie (S2), PauloSSB (S2), Rebelghost (S2), SergeantM (S2), St0rmplayz (S2), TheZombeeFreek (S2), Vorpeo (S2)
 
 ---
 ### Debutants
 
-**S2 (20):** brinkwhy, Centrios, DatGuyAdam, frogsella, Guzmeme, HornyChinchilla, ItsChristiannn, ItsColinn, JasonGamesFTW, JoshC2, JroseFX, Kaismartypants, MCmattFTW, Normie, PauloSSB, Rebelghost, SergeantM, St0rmplayz, TheZombeeFreek, Vorpeo
+**S2 (20):** brinkwhy, Centrios, DatGuyAdam, frogsella, Guzmeme, HornyChinchilla, ItsChristiannn, ItsColinn, JasonBPE, JoshC2, Jrose, Kaismartypants, MCmattFTW, Normie, PauloSSB, Rebelghost, SergeantM, St0rmplayz, TheZombeeFreek, Vorpeo
 
 ---

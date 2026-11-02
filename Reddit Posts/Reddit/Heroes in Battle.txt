@@ -17,13 +17,13 @@
 
 **S7: Archer_ (3), Mightyzark (4)**, *6dayna6 (0), Livin423 (0)*
 
-**S8: Livin423 (1), TheKevGuy (3)**, *Pencilguy37 (0), Zakkeagle (0)*
+**S8: Livin423 (1), TheKevJawn (3)**, *Pencilguy37 (0), Zakkeagle (0)*
 
 **S9: Zakkeagle (6)**
 
 **S10: Jakekub (3)**, *Arich (1)*
 
-**S11: Kidfo (3), TheKevGuy (2)**, *QuilJ1 (0)*
+**S11: Kidfo (3), TheKevJawn (2)**, *QuilJ1 (0)*
 
 **S12: Costanza (3), FDeath (1)**, *Arich (0), AvaCos (0)*
 
@@ -58,7 +58,7 @@
 
 **S11:** BushieHalf (1), xenon__54 (2), zachattack416 (0)
 
-**S12:** Eluniel (1), JerseyTheDevil (0), Sean081799 (0), TheKevGuy (3)
+**S12:** Eluniel (1), JerseyTheDevil (0), Sean081799 (0), TheKevJawn (3)
 
 **S13:** tilargo (2)
 
@@ -83,7 +83,7 @@
 
 **S7:** c1n, Mightyzark (4)
 
-**S8:** BJPlays, numdegased, TheKevGuy, Wilsonkong (3)
+**S8:** BJPlays, numdegased, TheKevJawn, Wilsonkong (3)
 
 **S9:** Zakkeagle (6)
 
@@ -91,7 +91,7 @@
 
 **S11:** jamietheelite, Kidfo (3)
 
-**S12:** BushieHalf, Costanza, slowpr0, TheKevGuy (3)
+**S12:** BushieHalf, Costanza, slowpr0, TheKevJawn (3)
 
 **S13:** AttackZach_ (4)
 
@@ -122,7 +122,7 @@
 
 **S10:** Arich (1), Jakekub (3) & Zakkeagle (3), upriserryker (1)
 
-**S11:** QuilJ1 (0), TheKevGuy (2), Kidfo (3)
+**S11:** QuilJ1 (0), TheKevJawn (2), Kidfo (3)
 
 **S12:** Edviin_ (0), AttackZach_ (0), slowpr0 (3), BushieHalf (3)
 
@@ -155,7 +155,7 @@
 
 **S10:** xenon__54 (0:6:24)
 
-**S11:** TheKevGuy (0:10:4)
+**S11:** TheKevJawn (0:10:4)
 
 **S12:** zachattack416 (0:10:23)
 
@@ -217,7 +217,7 @@
 
 **S8:** 6dayna6 (patpat44patrick)
 
-**S9:** TheKevGuy (numdegased)
+**S9:** TheKevJawn (numdegased)
 
 **S10:** Zakkeagle (Coolust)
 
@@ -267,15 +267,15 @@
 ---
 ### Kills
 
-**1st - Arich (12):** 4D_Pixel (S1), 4D_Pixel (S2), aggarnir (S4), Coolust (S5), Wilsonkong (S6), TheKevGuy (S10), Smeshi (S13), BlackGarrett (S13), jamertxn (S14), 6dayna6 (S14), FazedMC (S14), Wilsonkong (S15)
+**1st - Arich (12):** 4D_Pixel (S1), 4D_Pixel (S2), aggarnir (S4), Coolust (S5), Wilsonkong (S6), TheKevJawn (S10), Smeshi (S13), BlackGarrett (S13), jamertxn (S14), 6dayna6 (S14), FazedMC (S14), Wilsonkong (S15)
 
-**1st - TheKevGuy (12):** DrDreVit (S5), jordanleevan (S6), Norox_ (S8), Kiinako_ (S8), xenon__54 (S8), numdegased (S9), Arich (S10), Livin423 (S11), xenon__54 (S11), BushieHalf (S12), patpat44patrick (S12), floobel (S12)
+**1st - TheKevJawn (12):** DrDreVit (S5), jordanleevan (S6), Norox_ (S8), Kiinako_ (S8), xenon__54 (S8), numdegased (S9), Arich (S10), Livin423 (S11), xenon__54 (S11), BushieHalf (S12), patpat44patrick (S12), floobel (S12)
 
 **1st - Zakkeagle (12):** Pencilguy37 (S1), Crazy3210 (S1), GreenDoomsDay (S4), zachattack416 (S9), FDeath (S9), Archer_ (S9), BJPlays (S9), Kidfo (S9), ShockeryFlame (S9), Coolust (S10), slowpr0 (S10), xenon__54 (S10)
 
 **4th - zachattack416 (11):** Archer_ (S3), numdegased (S3), Coolust (S4), patpat44patrick (S7), xenon__54 (S7), Mightyzark (S8), Livin423 (S9), AttackZach_ (S12), tilargo (S14), Wilsonkong (S14), MBeaar (S14)
 
-**5th - Archer_ (10):** Arich (S1), zachattack416 (S2), blackbear612 (S2), upriserryker (S2), Bergasms (S5), numdegased (S6), zachattack416 (S7), Kidfo (S7), jordanleevan (S7), TheKevGuy (S9)
+**5th - Archer_ (10):** Arich (S1), zachattack416 (S2), blackbear612 (S2), upriserryker (S2), Bergasms (S5), numdegased (S6), zachattack416 (S7), Kidfo (S7), jordanleevan (S7), TheKevJawn (S9)
 
 **6th - Noir173 (9):** zachattack416 (S4), Kurtit (S4), GreenDoomsDay (S5), ChocoTaco622 (S5), Archer_ (S5), Livin423 (S5), Mightyzark (S5), Arich (S5), Jakekub (S5)
 
@@ -283,15 +283,15 @@
 
 **8th - AttackZach_ (8):** Stooof (S10), patpat44patrick (S10), MBeaar (S13), AJSteel (S13), Evader22 (S13), Kiinako_ (S13), TaylorLive (S14), 6dayna6 (S15)
 
-**8th - Coolust (8):** Norox_ (S6), Mightyzark (S6), Archer_ (S6), Zaenith (S6), TheKevGuy (S6), 6dayna6 (S6), Jakekub (S15), Edviin_ (S15)
+**8th - Coolust (8):** Norox_ (S6), Mightyzark (S6), Archer_ (S6), Zaenith (S6), TheKevJawn (S6), 6dayna6 (S6), Jakekub (S15), Edviin_ (S15)
 
 **8th - numdegased (8):** Zakkeagle (S2), Kakintse (S2), dragonpasa (S3), BJPlays (S6), Kakintse (S8), gnty (S8), Zakkeagle (S8), ChocoTaco622 (S10)
 
 **11th - c1n (7):** ShockeryFlame (S7), DrDreVit (S7), Jakekub (S7), numdegased (S7), Arich (S9), Pencilguy37 (S9), AttackZach_ (S9)
 
-**11th - DrDreVit (7):** dragonpasa (S1), Squattamelon (S4), xenon__54 (S5), TheKevGuy (S5), Wilsonkong (S7), Squattamelon (S7), numdegased (S8)
+**11th - DrDreVit (7):** dragonpasa (S1), Squattamelon (S4), xenon__54 (S5), TheKevJawn (S5), Wilsonkong (S7), Squattamelon (S7), numdegased (S8)
 
-**11th - Mightyzark (7):** ShockeryFlame (S3), Zydoxe (S3), 6dayna6 (S7), TheKevGuy (S7), Bergasms (S7), c1n (S7), 6dayna6 (S8)
+**11th - Mightyzark (7):** ShockeryFlame (S3), Zydoxe (S3), 6dayna6 (S7), TheKevJawn (S7), Bergasms (S7), c1n (S7), 6dayna6 (S8)
 
 **11th - Squattamelon (7):** ShockeryFlame (S2), Crazy3210 (S2), Zakkeagle (S3), MooshroomCrafter (S4), Arich (S4), Coolust (S7), thebbers (S15)
 
@@ -315,7 +315,7 @@
 
 **22nd - BushieHalf (4):** AttackZach_ (S11), zachattack416 (S12), Mightyzark (S12), Eluniel (S12)
 
-**22nd - Costanza (4):** Edviin_ (S12), QuilJ1 (S12), TheKevGuy (S12), numdegased (S15)
+**22nd - Costanza (4):** Edviin_ (S12), QuilJ1 (S12), TheKevJawn (S12), numdegased (S15)
 
 **22nd - HUNTERKUN (4):** Zakkeagle (S15), taperturtle (S15), Nyzian (S15), Arich (S15)
 
@@ -425,7 +425,7 @@
 
 **9 Seasons (1):** Squattamelon (S1-S5,S7-S8,S10,S15)
 
-**8 Seasons (4):** Archer_ (S1-S3,S5-S7,S9,S15), DrDreVit (S1-S2,S4-S8,S15), numdegased (S2-S3,S6-S10,S15), TheKevGuy (S5-S12)
+**8 Seasons (4):** Archer_ (S1-S3,S5-S7,S9,S15), DrDreVit (S1-S2,S4-S8,S15), numdegased (S2-S3,S6-S10,S15), TheKevJawn (S5-S12)
 
 **7 Seasons (3):** ShockeryFlame (S1-S3,S7-S9,S15), patpat44patrick (S4,S7-S10,S12,S15), AttackZach_ (S9-S15)
 
@@ -452,7 +452,7 @@
 
 **S4 (8):** aggarnir, Coolust, GreenDoomsDay, jordanleevan, Kurtit, Livin423, Noir173, patpat44patrick
 
-**S5 (4):** ChocoTaco622, Jakekub, TheKevGuy, xenon__54
+**S5 (4):** ChocoTaco622, Jakekub, TheKevJawn, xenon__54
 
 **S6 (7):** 6dayna6, BJPlays, gnty, Norox_, tooooobin, Wilsonkong, Zaenith
 

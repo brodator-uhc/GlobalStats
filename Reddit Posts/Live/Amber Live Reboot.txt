@@ -21,6 +21,10 @@
 
 **S9: boyyoo (1), HeyItsJBug (3)**
 
+**S10a: _1mmortal_ (3)**, *HeyItsJBug (0), Woobis (0)*
+
+**S10b: _1mmortal_ (5)**
+
 ---
 ### Runner Ups
 
@@ -41,6 +45,10 @@
 **S8:** EndestroyerEpic (1), Ninetals38 (1)
 
 **S9:** eBrand0 (0), EndestroyerEpic (1)
+
+**S10a:** CodeJoshua (1), EroseMC (2), zoeywithawhy (1)
+
+**S10b:** Kaismartypants (1)
 
 ---
 ### Most Kills
@@ -63,6 +71,10 @@
 
 **S9:** CAMKART100 (4)
 
+**S10a:** _1mmortal_ (3)
+
+**S10b:** _1mmortal_ (5)
+
 ---
 ### Most Kills (Team)
 
@@ -84,6 +96,10 @@
 
 **S9:** CAMKART100 (4), RuneTactics (2)
 
+**S10a:** CodeJoshua (1), EroseMC (2), zoeywithawhy (1) & CAMKART100 (2), Ninetals38 (2), Zenithu (0)
+
+**S10b:** N/A
+
 ---
 ### First Damage
 
@@ -93,7 +109,7 @@
 
 **S3:*
 
-**S4:** mhuggins5
+**S4:** ItsDracoV
 
 **S5:** Westcraft00
 
@@ -104,6 +120,10 @@
 **S8:** MichaelPlayMC
 
 **S9:*
+
+**S10a:*
+
+**S10b:*
 
 ---
 ### Ironman
@@ -126,6 +146,10 @@
 
 **S9:*
 
+**S10a:*
+
+**S10b:*
+
 ---
 ### First Blood
 
@@ -139,13 +163,17 @@
 
 **S5:** Ninetals38 (_1mmortal_)
 
-**S6:** JampoJohn (ImDracoV)
+**S6:** JampoJohn (ItsDracoV)
 
 **S7:** CodeJoshua (zoeywithawhy)
 
 **S8:** boyyoo (CommanderK22_)
 
 **S9:** CAMKART100 (Scringus)
+
+**S10a:** zoeywithawhy (HeyItsJBug)
+
+**S10b:** Kaismartypants (SergeantM)
 
 ---
 ### First Death
@@ -156,11 +184,11 @@
 
 **S3:** SergeantM (JampoJohn)
 
-**S4:** mhuggins5 (Lava)
+**S4:** ItsDracoV (Lava)
 
-**S5:** ImDracoV (Left)
+**S5:** ItsDracoV (Left)
 
-**S6:** ImDracoV (JampoJohn)
+**S6:** ItsDracoV (JampoJohn)
 
 **S7:** ttvcash_khai (Creeper)
 
@@ -168,73 +196,79 @@
 
 **S9:** LipGlossica (Enderman)
 
+**S10a:** HeyItsJBug (zoeywithawhy)
+
+**S10b:** SergeantM (Kaismartypants)
+
 ---
 ### Kills
 
-**1st - AirInAirOut (15):** _1mmortal_ (S2), CodeJoshua (S2), CAMKART100 (S2), Plushy33 (S2), mhuggins5 (S3), RuneTactics (S3), JDwb (S3), ness8282 (S3), Kaismartypants (S4), Plushy33 (S4), EroseMC (S6), CommanderK22_ (S6), HeyItsJBug (S7), CAMKART100 (S7), ShootingGoats (S7)
+**1st - AirInAirOut (15):** _1mmortal_ (S2), CodeJoshua (S2), CAMKART100 (S2), Plushy33 (S2), ItsDracoV (S3), RuneTactics (S3), JDwb (S3), ness8282 (S3), Kaismartypants (S4), Plushy33 (S4), EroseMC (S6), CommanderK22_ (S6), HeyItsJBug (S7), CAMKART100 (S7), ShootingGoats (S7)
 
-**2nd - CAMKART100 (12):** SergeantM (S2), AdonisGaming (S3), CodeJoshua (S3), SNebulas (S3), MichaelPlayMC (S6), HeyItsJBug (S6), Kaismartypants (S7), RedDragonStar1 (S8), Scringus (S9), RedDragonStar1 (S9), ScaryPumpkinFace (S9), JampoJohn (S9)
+**1st - CodeJoshua (15):** JampoJohn (S1), MichaelPlayMC (S1), ItsDracoV (S1), SergeantM (S1), HeyItsJBug (S1), SilverShelby (S2), AdonisGaming (S2), CAMKART100 (S4), zoeywithawhy (S7), ttvcash_khai (S8), Woobis (S9), ShootingGoats (S9), Ninetals38 (S10a), ShootingGoats (S10b), HeyItsJBug (S10b)
 
-**2nd - CodeJoshua (12):** JampoJohn (S1), MichaelPlayMC (S1), mhuggins5 (S1), SergeantM (S1), HeyItsJBug (S1), SilverShelby (S2), AdonisGaming (S2), CAMKART100 (S4), zoeywithawhy (S7), ttvcash_khai (S8), Woobis (S9), ShootingGoats (S9)
+**3rd - CAMKART100 (14):** SergeantM (S2), AdonisGaming (S3), CodeJoshua (S3), SNebulas (S3), MichaelPlayMC (S6), HeyItsJBug (S6), Kaismartypants (S7), RedDragonStar1 (S8), Scringus (S9), RedDragonStar1 (S9), ScaryPumpkinFace (S9), JampoJohn (S9), kabobaa (S10a), zoeywithawhy (S10a)
 
-**4th - Plushy33 (10):** mhuggins5 (S2), BuildingBard300 (S2), HeyItsJBug (S2), KineticYT (S2), AirInAirOut (S2), HeyItsJBug (S4), MichaelPlayMC (S4), ShootingGoats (S4), ness8282 (S4), AirInAirOut (S4)
+**4th - kabobaa (11):** ItsDracoV (S7), MichaelPlayMC (S7), EroseMC (S7), EndestroyerEpic (S7), CommanderK22_ (S7), Westcraft00 (S8), zoeywithawhy (S8), SergeantM (S10a), ShootingGoats (S10a), EroseMC (S10b), RedDragonStar1 (S10b)
 
-**5th - kabobaa (7):** ImDracoV (S7), MichaelPlayMC (S7), EroseMC (S7), EndestroyerEpic (S7), CommanderK22_ (S7), Westcraft00 (S8), zoeywithawhy (S8)
+**5th - _1mmortal_ (10):** ness8282 (S2), Ninetals38 (S4), EndestroyerEpic (S10a), CAMKART100 (S10a), CodeJoshua (S10a), CAMKART100 (S10b), JampoJohn (S10b), kabobaa (S10b), ItzBeeZ (S10b), Kaismartypants (S10b)
 
-**5th - ShootingGoats (7):** Ninetals38 (S3), JampoJohn (S5), SergeantM (S7), Westcraft00 (S7), CodeJoshua (S8), EroseMC (S9), Kaimaxon (S9)
+**5th - Plushy33 (10):** ItsDracoV (S2), BuildingBard300 (S2), HeyItsJBug (S2), KineticYT (S2), AirInAirOut (S2), HeyItsJBug (S4), MichaelPlayMC (S4), ShootingGoats (S4), ness8282 (S4), AirInAirOut (S4)
 
-**7th - boyyoo (6):** Stravilight (S7), CommanderK22_ (S8), CAMKART100 (S8), Br8dy_ (S8), Ryfri (S8), ACommonKiwi (S9)
+**7th - ItzBeeZ (8):** Kaismartypants (S8), EroseMC (S8), kabobaa (S8), CAMKART100 (S9), RuneTactics (S9), LightingMC (S10b), boyyoo (S10b), CodeJoshua (S10b)
 
-**7th - EndestroyerEpic (6):** Kaimaxon (S5), HeyItsVincey (S6), Kaismartypants (S6), AirInAirOut (S6), ItzBeeZ (S8), Stravilight (S9)
+**8th - EndestroyerEpic (7):** Kaimaxon (S5), HeyItsVincey (S6), Kaismartypants (S6), AirInAirOut (S6), ItzBeeZ (S8), Stravilight (S9), EroseMC (S10a)
 
-**7th - HeyItsJBug (6):** ness8282 (S1), zoeywithawhy (S5), SergeantM (S6), eBrand0 (S9), ItzBeeZ (S9), EndestroyerEpic (S9)
+**8th - ShootingGoats (7):** Ninetals38 (S3), JampoJohn (S5), SergeantM (S7), Westcraft00 (S7), CodeJoshua (S8), EroseMC (S9), Kaimaxon (S9)
 
-**10th - ItzBeeZ (5):** Kaismartypants (S8), EroseMC (S8), kabobaa (S8), CAMKART100 (S9), RuneTactics (S9)
+**10th - boyyoo (6):** Stravilight (S7), CommanderK22_ (S8), CAMKART100 (S8), Br8dy_ (S8), Ryfri (S8), ACommonKiwi (S9)
 
-**10th - Kaismartypants (5):** SilverShelby (S4), Ninetals38 (S5), HeyItsJBug (S5), CommanderK22_ (S5), KineticYT (S6)
+**10th - HeyItsJBug (6):** ness8282 (S1), zoeywithawhy (S5), SergeantM (S6), eBrand0 (S9), ItzBeeZ (S9), EndestroyerEpic (S9)
 
-**12th - CommanderK22_ (4):** Ninetals38 (S6), JampoJohn (S6), Ninetals38 (S7), CodeJoshua (S7)
+**10th - Kaismartypants (6):** SilverShelby (S4), Ninetals38 (S5), HeyItsJBug (S5), CommanderK22_ (S5), KineticYT (S6), SergeantM (S10b)
 
-**12th - JampoJohn (4):** MichaelPlayMC (S2), SergeantM (S3), ShootingGoats (S5), ImDracoV (S6)
+**13th - CommanderK22_ (4):** Ninetals38 (S6), JampoJohn (S6), Ninetals38 (S7), CodeJoshua (S7)
 
-**12th - SergeantM (4):** CVizion (S1), EndestroyerEpic (S8), MichaelPlayMC (S8), Ninetals38 (S8)
+**13th - EroseMC (4):** ItsDracoV (S8), Woobis (S8), Woobis (S10a), Zenithu (S10a)
 
-**12th - SNebulas (4):** JampoJohn (S3), MichaelPlayMC (S3), ShootingGoats (S3), BuildingBard300 (S3)
+**13th - JampoJohn (4):** MichaelPlayMC (S2), SergeantM (S3), ShootingGoats (S5), ItsDracoV (S6)
 
-**16th - MichaelPlayMC (3):** KineticYT (S1), AdonisGaming (S1), _1mmortal_ (S4)
+**13th - Ninetals38 (4):** _1mmortal_ (S5), SergeantM (S8), MichaelPlayMC (S10a), JampoJohn (S10a)
 
-**16th - RuneTactics (3):** BuildingBard300 (S1), MichaelPlayMC (S9), Kaismartypants (S9)
+**13th - SergeantM (4):** CVizion (S1), EndestroyerEpic (S8), MichaelPlayMC (S8), Ninetals38 (S8)
 
-**18th - _1mmortal_ (2):** ness8282 (S2), Ninetals38 (S4)
+**13th - SNebulas (4):** JampoJohn (S3), MichaelPlayMC (S3), ShootingGoats (S3), BuildingBard300 (S3)
 
-**18th - EroseMC (2):** ImDracoV (S8), Woobis (S8)
+**19th - MichaelPlayMC (3):** KineticYT (S1), AdonisGaming (S1), _1mmortal_ (S4)
 
-**18th - ness8282 (2):** SergeantM (S4), AdonisGaming (S4)
+**19th - RuneTactics (3):** BuildingBard300 (S1), MichaelPlayMC (S9), Kaismartypants (S9)
 
-**18th - Ninetals38 (2):** _1mmortal_ (S5), SergeantM (S8)
+**21st - ness8282 (2):** SergeantM (S4), AdonisGaming (S4)
 
-**18th - Stravilight (2):** zoeywithawhy (S9), CodeJoshua (S9)
+**21st - Stravilight (2):** zoeywithawhy (S9), CodeJoshua (S9)
 
-**18th - Westcraft00 (2):** RuneTactics (S4), Kaismartypants (S5)
+**21st - Westcraft00 (2):** RuneTactics (S4), Kaismartypants (S5)
 
-**24th - ACommonKiwi (1):** SergeantM (S9)
+**21st - zoeywithawhy (2):** ShootingGoats (S8), HeyItsJBug (S10a)
 
-**24th - HeyItsVincey (1):** CAMKART100 (S6)
+**25th - ACommonKiwi (1):** SergeantM (S9)
 
-**24th - ImDracoV (1):** JampoJohn (S7)
+**25th - HeyItsVincey (1):** CAMKART100 (S6)
 
-**24th - Kaimaxon (1):** SergeantM (S5)
+**25th - ItsDracoV (1):** JampoJohn (S7)
 
-**24th - KineticYT (1):** JampoJohn (S2)
+**25th - Kaimaxon (1):** SergeantM (S5)
 
-**24th - Woobis (1):** grantfaker (S9)
+**25th - KineticYT (1):** JampoJohn (S2)
 
-**24th - zoeywithawhy (1):** ShootingGoats (S8)
+**25th - LightingMC (1):** MichaelPlayMC (S10b)
+
+**25th - Woobis (1):** grantfaker (S9)
 
 ---
 ### PvE Deaths
 
-**Lava (4):** mhuggins5 (S4), zoeywithawhy (S4), HeyItsJBug (S8), Ninetals38 (S9)
+**Lava (4):** ItsDracoV (S4), zoeywithawhy (S4), HeyItsJBug (S8), Ninetals38 (S9)
 
 **Giant (2):** MichaelPlayMC (S5), RuneTactics (S5)
 
@@ -246,35 +280,43 @@
 
 **Enderman (1):** LipGlossica (S9)
 
-**Left (1):** ImDracoV (S5)
+**Fall (1):** ScaryPumpkinFace (S10b)
+
+**Left (1):** ItsDracoV (S5)
+
+**Suffocation (1):** ChealyisOnline (S10b)
 
 **Zombie (1):** boyyoo (S8)
 
 ---
 ### Participation
 
-**9 Seasons (2):** MichaelPlayMC (S1-S9), SergeantM (S1-S9)
+**11 Seasons (2):** MichaelPlayMC (S1-S10b), SergeantM (S1-S10b)
 
-**8 Seasons (2):** HeyItsJBug (S1-S2,S4-S9), CAMKART100 (S2-S9)
+**10 Seasons (2):** HeyItsJBug (S1-S2,S4-S10b), CAMKART100 (S2-S10b)
 
-**7 Seasons (3):** CodeJoshua (S1-S4,S7-S9), JampoJohn (S1-S3,S5-S7,S9), Ninetals38 (S3-S9)
+**9 Seasons (2):** CodeJoshua (S1-S4,S7-S10b), JampoJohn (S1-S3,S5-S7,S9-S10b)
 
-**6 Seasons (2):** ShootingGoats (S3-S5,S7-S9), Kaismartypants (S4-S9)
+**8 Seasons (3):** ItsDracoV (S1-S8), Ninetals38 (S3-S10a), ShootingGoats (S3-S5,S7-S10b)
 
-**5 Seasons (4):** RuneTactics (S1,S3-S5,S9), AirInAirOut (S2-S4,S6-S7), zoeywithawhy (S4-S5,S7-S9), EndestroyerEpic (S5-S9)
+**7 Seasons (1):** Kaismartypants (S4-S9,S10b)
 
-**4 Seasons (7):** AdonisGaming (S1-S4), mhuggins5 (S1-S4), ness8282 (S1-S4), Westcraft00 (S4-S5,S7-S8), CommanderK22_ (S5-S8), ImDracoV (S5-S8), EroseMC (S6-S9)
+**6 Seasons (3):** zoeywithawhy (S4-S5,S7-S10a), EndestroyerEpic (S5-S10a), EroseMC (S6-S10b)
 
-**3 Seasons (5):** BuildingBard300 (S1-S3), KineticYT (S1-S2,S6), _1mmortal_ (S2,S4-S5), SilverShelby (S2-S4), boyyoo (S7-S9)
+**5 Seasons (3):** RuneTactics (S1,S3-S5,S9), _1mmortal_ (S2,S4-S5,S10a-S10b), AirInAirOut (S2-S4,S6-S7)
 
-**2 Seasons (8):** Plushy33 (S2,S4), Kaimaxon (S5,S9), kabobaa (S7-S8), Stravilight (S7,S9), ttvcash_khai (S7-S8), ItzBeeZ (S8-S9), RedDragonStar1 (S8-S9), Woobis (S8-S9)
+**4 Seasons (6):** AdonisGaming (S1-S4), ness8282 (S1-S4), Westcraft00 (S4-S5,S7-S8), CommanderK22_ (S5-S8), boyyoo (S7-S9,S10b), kabobaa (S7-S8,S10a-S10b)
 
-**1 Season (12):** CVizion (S1), JDwb (S3), SNebulas (S3), HeyItsVincey (S6), Br8dy_ (S8), Ryfri (S8), ACommonKiwi (S9), eBrand0 (S9), grantfaker (S9), LipGlossica (S9), ScaryPumpkinFace (S9), Scringus (S9)
+**3 Seasons (6):** BuildingBard300 (S1-S3), KineticYT (S1-S2,S6), SilverShelby (S2-S4), ItzBeeZ (S8-S9,S10b), RedDragonStar1 (S8-S9,S10b), Woobis (S8-S10a)
+
+**2 Seasons (5):** Plushy33 (S2,S4), Kaimaxon (S5,S9), Stravilight (S7,S9), ttvcash_khai (S7-S8), ScaryPumpkinFace (S9,S10b)
+
+**1 Season (14):** CVizion (S1), JDwb (S3), SNebulas (S3), HeyItsVincey (S6), Br8dy_ (S8), Ryfri (S8), ACommonKiwi (S9), eBrand0 (S9), grantfaker (S9), LipGlossica (S9), Scringus (S9), Zenithu (S10a), ChealyisOnline (S10b), LightingMC (S10b)
 
 ---
 ### Debutants
 
-**S1 (12):** AdonisGaming, BuildingBard300, CodeJoshua, CVizion, HeyItsJBug, JampoJohn, KineticYT, mhuggins5, MichaelPlayMC, ness8282, RuneTactics, SergeantM
+**S1 (12):** AdonisGaming, BuildingBard300, CodeJoshua, CVizion, HeyItsJBug, ItsDracoV, JampoJohn, KineticYT, MichaelPlayMC, ness8282, RuneTactics, SergeantM
 
 **S2 (5):** _1mmortal_, AirInAirOut, CAMKART100, Plushy33, SilverShelby
 
@@ -282,7 +324,7 @@
 
 **S4 (3):** Kaismartypants, Westcraft00, zoeywithawhy
 
-**S5 (4):** CommanderK22_, EndestroyerEpic, ImDracoV, Kaimaxon
+**S5 (3):** CommanderK22_, EndestroyerEpic, Kaimaxon
 
 **S6 (2):** EroseMC, HeyItsVincey
 
@@ -291,5 +333,9 @@
 **S8 (5):** Br8dy_, ItzBeeZ, RedDragonStar1, Ryfri, Woobis
 
 **S9 (6):** ACommonKiwi, eBrand0, grantfaker, LipGlossica, ScaryPumpkinFace, Scringus
+
+**S10a (1):** Zenithu
+
+**S10b (2):** ChealyisOnline, LightingMC
 
 ---

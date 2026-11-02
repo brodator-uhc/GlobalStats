@@ -95,11 +95,11 @@
 
 **7th - UbiquityHD (3):** MineKG (S1), Djmandude (S1), Captinn (S1)
 
+**11th - commitstaxfraud (2):** Dawncy (S3), _Fost_ (S3)
+
 **11th - Dawncy (2):** GeniRCT (S3), PedroLeGamer (S3)
 
 **11th - Flufayy (2):** GeniRCT (S2), TayUHC (S2)
-
-**11th - JaeHasNoMaidens (2):** Dawncy (S3), _Fost_ (S3)
 
 **11th - MajorWoof (2):** Captinn (S2), broccoliar (S2)
 
@@ -107,7 +107,7 @@
 
 **16th - _Fost_ (1):** MajorWoof (S2)
 
-**16th - broccoliar (1):** JaeHasNoMaidens (S3)
+**16th - broccoliar (1):** commitstaxfraud (S3)
 
 **16th - Crafters (1):** violetwoah (S1)
 
@@ -135,7 +135,7 @@
 
 **2 Seasons (8):** OddishThoughts (S1-S2), TitaniumDino25 (S1,S3), _Fost_ (S2-S3), broccoliar (S2-S3), CHAINGE (S2-S3), GeniRCT (S2-S3), Rebelghost (S2-S3), Vetmire (S2-S3)
 
-**1 Season (27):** AdonisGaming (S1), Crafters (S1), Djmandude (S1), Fcrm (S1), Jorgeeay (S1), MineKG (S1), PwincessVanessa (S1), Retrofied (S1), UbiquityHD (S1), violetwoah (S1), CodeJoshua (S2), Flufayy (S2), ItzIgglesPiggles (S2), Kaismartypants (S2), kirbey (S2), MajorWoof (S2), NickPlaysGames15 (S2), Blarkslol (S3), Codwhy (S3), David63 (S3), Dawncy (S3), JaeHasNoMaidens (S3), MaxEvasion (S3), p0tt2y (S3), PedroLeGamer (S3), RuneTactics (S3), TehBaconBrawlerZ (S3)
+**1 Season (27):** AdonisGaming (S1), Crafters (S1), Djmandude (S1), Fcrm (S1), Jorgeeay (S1), MineKG (S1), PwincessVanessa (S1), Retrofied (S1), UbiquityHD (S1), violetwoah (S1), CodeJoshua (S2), Flufayy (S2), ItzIgglesPiggles (S2), Kaismartypants (S2), kirbey (S2), MajorWoof (S2), NickPlaysGames15 (S2), Blarkslol (S3), Codwhy (S3), commitstaxfraud (S3), David63 (S3), Dawncy (S3), MaxEvasion (S3), p0tt2y (S3), PedroLeGamer (S3), RuneTactics (S3), TehBaconBrawlerZ (S3)
 
 ---
 ### Debutants
@@ -144,6 +144,6 @@
 
 **S2 (13):** _Fost_, broccoliar, CHAINGE, CodeJoshua, Flufayy, GeniRCT, ItzIgglesPiggles, Kaismartypants, kirbey, MajorWoof, NickPlaysGames15, Rebelghost, Vetmire
 
-**S3 (10):** Blarkslol, Codwhy, David63, Dawncy, JaeHasNoMaidens, MaxEvasion, p0tt2y, PedroLeGamer, RuneTactics, TehBaconBrawlerZ
+**S3 (10):** Blarkslol, Codwhy, commitstaxfraud, David63, Dawncy, MaxEvasion, p0tt2y, PedroLeGamer, RuneTactics, TehBaconBrawlerZ
 
 ---

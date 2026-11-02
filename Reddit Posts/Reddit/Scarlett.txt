@@ -61,7 +61,7 @@
 
 **S2:** ConBeanJones (Reconnnnn)
 
-**S3:** IzunaLoli (wizarde)
+**S3:** IzunE_ (wizarde)
 
 ---
 ### First Death
@@ -70,7 +70,7 @@
 
 **S2:** DJblak (Lava)
 
-**S3:** wizarde (IzunaLoli)
+**S3:** wizarde (IzunE_)
 
 ---
 ### Kills
@@ -79,7 +79,7 @@
 
 **2nd - Austronomical (5):** wizarde (S2), MrLazeo101 (S2), IceshardEleven (S2), Archybooty (S3), IceshardEleven (S3)
 
-**3rd - Ryfri (4):** DJblak (S3), IzunaLoli (S3), MercuryParadox (S3), Conorz (S3)
+**3rd - Ryfri (4):** DJblak (S3), IzunE_ (S3), MercuryParadox (S3), Conorz (S3)
 
 **4th - Aaron_Playz (2):** ItsColinn (S1), MinecrafNinja (S1)
 
@@ -99,7 +99,7 @@
 
 **8th - Conorz (1):** Aaron_Playz (S1)
 
-**8th - IzunaLoli (1):** wizarde (S3)
+**8th - IzunE_ (1):** wizarde (S3)
 
 **8th - MCmattFTW (1):** Austronomical (S3)
 
@@ -131,7 +131,7 @@
 
 **2 Seasons (7):** Conorz (S1,S3), ItsColinn (S1-S2), lqndslide (S1-S2), Austronomical (S2-S3), cherryblawsom (S2-S3), Eternql (S2-S3), MrLazeo101 (S2-S3)
 
-**1 Season (17):** Aaron_Playz (S1), Centrios (S1), Stormy_A (S1), Tripps702 (S1), BlackGarrett (S2), ConBeanJones (S2), Reconnnnn (S2), Topspinpiggles (S2), YABOYPJ (S2), Archybooty (S3), ChainingVermin2 (S3), IzunaLoli (S3), MCmattFTW (S3), MercuryParadox (S3), Ryfri (S3), SiahStone (S3), Zahkari (S3)
+**1 Season (17):** Aaron_Playz (S1), Centrios (S1), Stormy_A (S1), Tripps702 (S1), BlackGarrett (S2), ConBeanJones (S2), Reconnnnn (S2), Topspinpiggles (S2), YABOYPJ (S2), Archybooty (S3), ChainingVermin2 (S3), IzunE_ (S3), MCmattFTW (S3), MercuryParadox (S3), Ryfri (S3), SiahStone (S3), Zahkari (S3)
 
 ---
 ### Debutants
@@ -140,6 +140,6 @@
 
 **S2 (9):** Austronomical, BlackGarrett, cherryblawsom, ConBeanJones, Eternql, MrLazeo101, Reconnnnn, Topspinpiggles, YABOYPJ
 
-**S3 (8):** Archybooty, ChainingVermin2, IzunaLoli, MCmattFTW, MercuryParadox, Ryfri, SiahStone, Zahkari
+**S3 (8):** Archybooty, ChainingVermin2, IzunE_, MCmattFTW, MercuryParadox, Ryfri, SiahStone, Zahkari
 
 ---

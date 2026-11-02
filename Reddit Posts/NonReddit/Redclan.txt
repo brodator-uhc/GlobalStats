@@ -5,7 +5,7 @@
 
 **S1: JoshC2 (1)**, *Mineclash11 (1)*
 
-**S2: TwistedGoose (6)**
+**S2: shrekisgoat (6)**
 
 **S3: DukieJr (3)**, *Blazar (1)*
 
@@ -59,7 +59,7 @@
 
 **S1:** SuperTiger77 (2)
 
-**S2:** TwistedGoose (6)
+**S2:** shrekisgoat (6)
 
 **S3:** DarkType (5)
 
@@ -223,7 +223,7 @@
 
 **2nd - FlawlessAerial (9):** gmailol (S5), Alekii (S5), CallMeBqse (S5), ObeseProdigy (S5), Sideline55 (S5), Oh_No_Potato (S10), collowollo (S10), krustycrab (S10), DisarmingVoice (S10)
 
-**2nd - TwistedGoose (9):** HeyImAqua (S2), Cyndaquilll (S2), Slaybate (S2), StupidAsian (S2), ToggleXD (S2), JohnzRIP (S2), DarkType (S3), Cat6376 (S11), Kaismartypants (S11)
+**2nd - shrekisgoat (9):** HeyImAqua (S2), Cyndaquilll (S2), Slaybate (S2), StupidAsian (S2), ToggleXD (S2), JohnzRIP (S2), DarkType (S3), Cat6376 (S11), Kaismartypants (S11)
 
 **4th - DatGuyAdam (8):** CheeseJay (S2), Cyndaquilll (S3), xSemiCollin (S4), Sneaky26 (S4), Swirley (S6), Djmandude (S6), AlolanJames (S9), gmailol (S12)
 
@@ -253,11 +253,11 @@
 
 **17th - Blazar (3):** HeyImAqua (S3), Blacxican (S6), JimboSucc (S6)
 
-**17th - BlockPlacer32 (3):** Stxtic (S3), Qrhan (S3), TwistedGoose (S3)
+**17th - BlockPlacer32 (3):** Stxtic (S3), Qrhan (S3), shrekisgoat (S3)
 
-**17th - JamestheDouglas (3):** Master_Saber (S4), TwistedGoose (S4), DatGuyAdam (S4)
+**17th - JamestheDouglas (3):** Master_Saber (S4), shrekisgoat (S4), DatGuyAdam (S4)
 
-**17th - JustLethal (3):** Tapwib (S11), Thermql (S11), TwistedGoose (S11)
+**17th - JustLethal (3):** Tapwib (S11), Thermql (S11), shrekisgoat (S11)
 
 **17th - LoreGame (3):** Bosotos (S4), Blazar (S4), yuhFazz (S4)
 
@@ -385,7 +385,7 @@
 
 **5 Seasons (1):** ToggleXD (S2-S5,S8)
 
-**4 Seasons (6):** TwistedGoose (S2-S4,S11), Zqccy (S2-S5), brinkwhy (S4-S6,S12), charanda (S4,S6-S7,S9), SummerBqsh (S4-S7), gmailol (S5-S6,S10,S12)
+**4 Seasons (6):** shrekisgoat (S2-S4,S11), Zqccy (S2-S5), brinkwhy (S4-S6,S12), charanda (S4,S6-S7,S9), SummerBqsh (S4-S7), gmailol (S5-S6,S10,S12)
 
 **3 Seasons (14):** chrisgames2k (S2,S7-S8), HeyImAqua (S2-S3,S5), yuhFazz (S2,S4,S10), DukieJr (S3,S5,S8), BaconIV (S4,S7-S8), collowollo (S5-S6,S10), Djmandude (S5-S6,S9), FlawlessAerial (S5-S6,S10), Kaismartypants (S5,S10-S11), SwiftnessXVI (S5-S6,S10), zacksarmy (S5,S9-S10), Brocko (S6,S10-S11), dnkin (S8-S10), Jorgeeay (S8-S9,S12)
 
@@ -398,7 +398,7 @@
 
 **S1 (9):** 101Lives, JoshC2, LunaLeoLightning, MasterHero5149, Mineclash11, Nigrify, SuperTiger77, XxFrozen_FlamexX, xXSilver_LoveXx
 
-**S2 (22):** AVLTG, CheeseJay, chrisgames2k, Cyndaquilll, DarkType, DatGuyAdam, Green_WolfMC, HeyImAqua, JohnzRIP, Mattzia, nh177O13, PrattBN, ScribLord_, Slaybate, St0rmplayz, StupidAsian, ToggleXD, TwistedGoose, xNKS, xSemiCollin, yuhFazz, Zqccy
+**S2 (22):** AVLTG, CheeseJay, chrisgames2k, Cyndaquilll, DarkType, DatGuyAdam, Green_WolfMC, HeyImAqua, JohnzRIP, Mattzia, nh177O13, PrattBN, ScribLord_, shrekisgoat, Slaybate, St0rmplayz, StupidAsian, ToggleXD, xNKS, xSemiCollin, yuhFazz, Zqccy
 
 **S3 (11):** Blazar, BlockPlacer32, CrimsonTW, DukieJr, Kqvn, PowerOfTheOcean, Qrhan, sdog1000, Sneaky26, Stxtic, TonyMaster21
 

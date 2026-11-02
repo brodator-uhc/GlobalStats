@@ -81,7 +81,7 @@
 
 **S5:** ZABScool (0:0:50)
 
-**S6:** Oddmast (0:4:44)
+**S6:** oddmast (0:4:44)
 
 **S7:** stingswitch (0:2:42)
 
@@ -139,7 +139,7 @@
 ---
 ### Kills
 
-**1st - Blaikie (17):** crazylike99 (S2), Gilzor (S2), stewlacher54 (S2), iDanzah (S2), urnbob (S5), chessmill (S6), Timewinder (S6), magnus917 (S6), Oddmast (S6), iiQuakezz (S6), Cristian23761 (S6), _Frankie (S6), Gilzor (S6), GrantyG_CFC (S7), Fairyjuice (S7), stingswitch (S7), Maddognils (S7)
+**1st - Blaikie (17):** crazylike99 (S2), Gilzor (S2), stewlacher54 (S2), iDanzah (S2), urnbob (S5), chessmill (S6), Timewinder (S6), magnus917 (S6), oddmast (S6), iiQuakezz (S6), Cristian23761 (S6), _Frankie (S6), Gilzor (S6), GrantyG_CFC (S7), Fairyjuice (S7), stingswitch (S7), Maddognils (S7)
 
 **2nd - Gilzor (9):** iDanzah (S1), billycohen (S3), stewlacher54 (S3), _Frankie (S3), ACFilms (S3), chessmill (S5), Maddognils (S5), Theodorus2 (S5), LadyMinecrafters (S6)
 
@@ -241,7 +241,7 @@
 
 **2 Seasons (9):** crazylike99 (S1-S2), Kalner (S1,S3), stewlacher54 (S2-S3), chessmill (S5-S6), Cristian23761 (S5-S6), LadyMinecrafters (S5-S6), llvllax (S5-S6), Fairyjuice (S6-S7), iiQuakezz (S6-S7)
 
-**1 Season (38):** inzpyrd (S1), RealPesto (S1), sickboy2212 (S1), ACFilms (S3), PmsProxy (S3), Riscoloco (S3), TarkhisG (S3), AgentBaron (S4), baseballthymes (S4), CheetoFactor (S4), Chelblit (S4), Gypsy_Hunter12 (S4), MarcC5M (S4), Rexonite (S4), SoftPotatisify (S4), xRaz0r (S4), Falkenbur (S5), JunkieVomit (S5), ramdrop (S5), Theodorus2 (S5), Ahpuck (S6), jimmyslavia (S6), Oddmast (S6), Ragnorh8ts (S6), TheBestGinger13 (S6), Timewinder (S6), YouRedstone (S6), CrimsonKingLP (S7), DeeJayCFC (S7), GeoLP (S7), GrantyG_CFC (S7), Naecoo (S7), OfficerCurry (S7), Oyubook (S7), Pizzadudes7 (S7), Reapism (S7), stingswitch (S7), tchic777 (S7)
+**1 Season (38):** inzpyrd (S1), RealPesto (S1), sickboy2212 (S1), ACFilms (S3), PmsProxy (S3), Riscoloco (S3), TarkhisG (S3), AgentBaron (S4), baseballthymes (S4), CheetoFactor (S4), Chelblit (S4), Gypsy_Hunter12 (S4), MarcC5M (S4), Rexonite (S4), SoftPotatisify (S4), xRaz0r (S4), Falkenbur (S5), JunkieVomit (S5), ramdrop (S5), Theodorus2 (S5), Ahpuck (S6), jimmyslavia (S6), oddmast (S6), Ragnorh8ts (S6), TheBestGinger13 (S6), Timewinder (S6), YouRedstone (S6), CrimsonKingLP (S7), DeeJayCFC (S7), GeoLP (S7), GrantyG_CFC (S7), Naecoo (S7), OfficerCurry (S7), Oyubook (S7), Pizzadudes7 (S7), Reapism (S7), stingswitch (S7), tchic777 (S7)
 
 ---
 ### Debutants
@@ -256,7 +256,7 @@
 
 **S5 (8):** chessmill, Cristian23761, Falkenbur, JunkieVomit, LadyMinecrafters, llvllax, ramdrop, Theodorus2
 
-**S6 (9):** Ahpuck, Fairyjuice, iiQuakezz, jimmyslavia, Oddmast, Ragnorh8ts, TheBestGinger13, Timewinder, YouRedstone
+**S6 (9):** Ahpuck, Fairyjuice, iiQuakezz, jimmyslavia, oddmast, Ragnorh8ts, TheBestGinger13, Timewinder, YouRedstone
 
 **S7 (11):** CrimsonKingLP, DeeJayCFC, GeoLP, GrantyG_CFC, Naecoo, OfficerCurry, Oyubook, Pizzadudes7, Reapism, stingswitch, tchic777
 

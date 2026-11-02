@@ -61,7 +61,7 @@
 
 **S2:** ImChile (TehBaconBrawlerZ)
 
-**S3:** Moonlitess (Hendysaurus)
+**S3:** Moonlitess (hendy53)
 
 ---
 ### First Death
@@ -70,14 +70,14 @@
 
 **S2:** hashtagmat (Burning)
 
-**S3:** Hendysaurus (Moonlitess)
+**S3:** hendy53 (Moonlitess)
 
 ---
 ### Kills
 
 **1st - _Txchno_ (5):** Zunair (S1), Moonlitess (S2), ADinoPlayingMC (S2), MainAgate5 (S3), PotteryTNT (S3)
 
-**1st - Moonlitess (5):** BlackPants (S1), BigJedo (S1), Pelycosaur (S2), Hendysaurus (S3), MangoPlayz (S3)
+**1st - Moonlitess (5):** BlackPants (S1), BigJedo (S1), Pelycosaur (S2), hendy53 (S3), MangoPlayz (S3)
 
 **3rd - BigJedo (4):** Tawvo (S2), xXMaximusMC (S2), Jaysonn (S2), AvyleZ (S2)
 
@@ -101,7 +101,7 @@
 
 **8th - MainAgate5 (2):** Flcnt (S3), ADinoPlayingMC (S3)
 
-**8th - Nyzian (2):** poWpaH (S1), Hendysaurus (S1)
+**8th - Nyzian (2):** poWpaH (S1), hendy53 (S1)
 
 **8th - PwincessVanessa (2):** AvyleZ (S1), ADinoPlayingMC (S1)
 
@@ -124,7 +124,7 @@
 ---
 ### PvE Deaths
 
-**Burning (2):** hashtagmat (S2), kawaiibunri (S2)
+**Burning (2):** hashtagmat (S2), evuhlynx (S2)
 
 **Fall (2):** broccoliar (S2), ItsShqky (S2)
 
@@ -135,16 +135,16 @@
 
 **3 Seasons (6):** _Txchno_ (S1-S3), ADinoPlayingMC (S1-S3), BlackPants (S1-S3), kirbey (S1-S3), Moonlitess (S1-S3), xXMaximusMC (S1-S3)
 
-**2 Seasons (11):** AvyleZ (S1-S2), BigJedo (S1-S2), Blarkslol (S1-S2), broccoliar (S1-S2), egl_ (S1-S2), Hendysaurus (S1,S3), Portless (S1-S2), PwincessVanessa (S1-S2), Truzoi (S1-S2), MainAgate5 (S2-S3), TehBaconBrawlerZ (S2-S3)
+**2 Seasons (11):** AvyleZ (S1-S2), BigJedo (S1-S2), Blarkslol (S1-S2), broccoliar (S1-S2), egl_ (S1-S2), hendy53 (S1,S3), Portless (S1-S2), PwincessVanessa (S1-S2), Truzoi (S1-S2), MainAgate5 (S2-S3), TehBaconBrawlerZ (S2-S3)
 
-**1 Season (24):** Cristehn (S1), DevoyTTV (S1), Escharotic (S1), JamestheDouglas (S1), Nyzian (S1), poWpaH (S1), TaperTurtle (S1), Xert12 (S1), Zunair (S1), hashtagmat (S2), ImChile (S2), ItsShqky (S2), Jaysonn (S2), kawaiibunri (S2), OCTAMAN (S2), Pelycosaur (S2), Tawvo (S2), CheeseJay (S3), Cqson (S3), David63 (S3), Flcnt (S3), MangoPlayz (S3), PotteryTNT (S3), Stravilight (S3)
+**1 Season (24):** Cristehn (S1), DevoyTTV (S1), Escharotic (S1), JamestheDouglas (S1), Nyzian (S1), poWpaH (S1), TaperTurtle (S1), Xert12 (S1), Zunair (S1), evuhlynx (S2), hashtagmat (S2), ImChile (S2), ItsShqky (S2), Jaysonn (S2), OCTAMAN (S2), Pelycosaur (S2), Tawvo (S2), CheeseJay (S3), Cqson (S3), David63 (S3), Flcnt (S3), MangoPlayz (S3), PotteryTNT (S3), Stravilight (S3)
 
 ---
 ### Debutants
 
-**S1 (24):** _Txchno_, ADinoPlayingMC, AvyleZ, BigJedo, BlackPants, Blarkslol, broccoliar, Cristehn, DevoyTTV, egl_, Escharotic, Hendysaurus, JamestheDouglas, kirbey, Moonlitess, Nyzian, Portless, poWpaH, PwincessVanessa, TaperTurtle, Truzoi, Xert12, xXMaximusMC, Zunair
+**S1 (24):** _Txchno_, ADinoPlayingMC, AvyleZ, BigJedo, BlackPants, Blarkslol, broccoliar, Cristehn, DevoyTTV, egl_, Escharotic, hendy53, JamestheDouglas, kirbey, Moonlitess, Nyzian, Portless, poWpaH, PwincessVanessa, TaperTurtle, Truzoi, Xert12, xXMaximusMC, Zunair
 
-**S2 (10):** hashtagmat, ImChile, ItsShqky, Jaysonn, kawaiibunri, MainAgate5, OCTAMAN, Pelycosaur, Tawvo, TehBaconBrawlerZ
+**S2 (10):** evuhlynx, hashtagmat, ImChile, ItsShqky, Jaysonn, MainAgate5, OCTAMAN, Pelycosaur, Tawvo, TehBaconBrawlerZ
 
 **S3 (7):** CheeseJay, Cqson, David63, Flcnt, MangoPlayz, PotteryTNT, Stravilight
 

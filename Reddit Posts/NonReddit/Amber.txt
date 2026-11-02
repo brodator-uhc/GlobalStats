@@ -459,11 +459,11 @@
 
 **47th - Envified_ (1):** CharizOVO (S10)
 
+**47th - evuhlynx (1):** ArcticSeagull (S19)
+
 **47th - Flcnt (1):** MichaelPlayMC (S19)
 
 **47th - HeyImHungry (1):** brinkwhy (S1)
-
-**47th - kawaiibunri (1):** ArcticSeagull (S19)
 
 **47th - mhuggins5 (1):** _Fost_ (S15)
 
@@ -490,7 +490,7 @@
 
 **Drowning (2):** Slaybate (S5), zeesue (S20)
 
-**Ender Dragon (2):** MangoPlayz (S19), kawaiibunri (S19)
+**Ender Dragon (2):** MangoPlayz (S19), evuhlynx (S19)
 
 **Left (2):** JustLethal (S3), RuneTactics (S19)
 
@@ -539,7 +539,7 @@
 
 **2 Seasons (22):** chrisgames2k (S1,S6), HeyImHungry (S1,S7), GodlyGoomys (S2,S4), Slaybate (S4-S5), Drkrai (S6-S7), Fancyyy (S7-S8), PleaseTry (S7-S8), BoltsInCharge (S10-S11), CharizOVO (S10-S11), DevoyTTV (S10-S11), natsuvi (S10-S11), PotteryTNT (S10,S14), Frisky_Savage (S11-S12), SandyyChan (S11-S12), Karliffu (S12-S13), Rebelghost (S13,S16), Mastercrossbow (S15-S16), DavidAdams (S16-S17), Vetmire (S16,S18), Captinn (S18-S19), Julse (S18-S19), Kaddyn (S19-S20)
 
-**1 Season (47):** NinjaBatHat (S1), DatBoiMudkip (S2), Sneaky26 (S2), Erikku_Blade (S3), IyaIsMad (S4), Jaxx (S4), LilycoveCity (S4), Sharkzol (S4), SuchAqua (S4), yistv2 (S4), Brocko (S5), Crafters (S5), GeckoG33k (S5), Icecreeper30 (S5), orangeman2000 (S7), _ChaosKaz_ (S8), acadiangel (S9), nsket (S9), strategy (S9), 123SteveBob (S10), Envified_ (S10), ItsColinn (S10), ZebraPantz (S10), Caydone (S12), ghostblurr (S12), CipherKai (S13), Dargxn (S13), MineKG (S13), egl_ (S14), Blarkslol (S15), Evzenitable (S15), iiLynnell (S16), Krbreb (S16), Charrlottie (S17), HeyItsJBug (S17), _shi (S18), TayUHC (S18), Cinnamiinii (S19), Flcnt (S19), kawaiibunri (S19), MangoPlayz (S19), RuneTactics (S19), Stravilight (S19), ToeKun (S19), BloodBlack (S20), Zebobo10 (S20), zeesue (S20)
+**1 Season (47):** NinjaBatHat (S1), DatBoiMudkip (S2), Sneaky26 (S2), Erikku_Blade (S3), IyaIsMad (S4), Jaxx (S4), LilycoveCity (S4), Sharkzol (S4), SuchAqua (S4), yistv2 (S4), Brocko (S5), Crafters (S5), GeckoG33k (S5), Icecreeper30 (S5), orangeman2000 (S7), _ChaosKaz_ (S8), acadiangel (S9), nsket (S9), strategy (S9), 123SteveBob (S10), Envified_ (S10), ItsColinn (S10), ZebraPantz (S10), Caydone (S12), ghostblurr (S12), CipherKai (S13), Dargxn (S13), MineKG (S13), egl_ (S14), Blarkslol (S15), Evzenitable (S15), iiLynnell (S16), Krbreb (S16), Charrlottie (S17), HeyItsJBug (S17), _shi (S18), TayUHC (S18), Cinnamiinii (S19), evuhlynx (S19), Flcnt (S19), MangoPlayz (S19), RuneTactics (S19), Stravilight (S19), ToeKun (S19), BloodBlack (S20), Zebobo10 (S20), zeesue (S20)
 
 ---
 ### Debutants
@@ -580,7 +580,7 @@
 
 **S18 (4):** _shi, Captinn, Julse, TayUHC
 
-**S19 (8):** Cinnamiinii, Flcnt, Kaddyn, kawaiibunri, MangoPlayz, RuneTactics, Stravilight, ToeKun
+**S19 (8):** Cinnamiinii, evuhlynx, Flcnt, Kaddyn, MangoPlayz, RuneTactics, Stravilight, ToeKun
 
 **S20 (3):** BloodBlack, Zebobo10, zeesue
 

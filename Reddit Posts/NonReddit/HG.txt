@@ -20,13 +20,13 @@
 
 **S1:** TheSlimeBrother (2)
 
-**S2:** JaeHasNoMaidens (1), TheSlimeBrother (0)
+**S2:** commitstaxfraud (1), TheSlimeBrother (0)
 
 **S3:** Dqwg (3)
 
 **S4:** BardMain2 (0), Bluests (1), PoofessorP (0)
 
-**S5:** JaeHasNoMaidens (1), Sluggyg (0), Supersun_ (1), TheSlimeBrother (0)
+**S5:** commitstaxfraud (1), Sluggyg (0), Supersun_ (1), TheSlimeBrother (0)
 
 **S6:** BlissfulHate (1), PedroLeGamer (0)
 
@@ -78,7 +78,7 @@
 ---
 ### Ironman
 
-**S1:** JaeHasNoMaidens
+**S1:** commitstaxfraud
 
 **S2:** MercuryParadox
 
@@ -125,11 +125,11 @@
 
 **1st - Zoos (9):** Rebelghost (S1), PenguinIV (S1), zephyr (S1), ItsStreet (S1), Supersun_ (S1), Dqwg (S1), TheSlimeBrother (S1), RedAjay (S5), LiquidCookies (S6)
 
-**2nd - Silveryo (8):** Fayon (S3), JaeHasNoMaidens (S3), Davidsid (S5), PoofessorP (S6), ThisIsHab (S6), zephyr (S6), Impqct (S6), BlissfulHate (S6)
+**2nd - Silveryo (8):** Fayon (S3), commitstaxfraud (S3), Davidsid (S5), PoofessorP (S6), ThisIsHab (S6), zephyr (S6), Impqct (S6), BlissfulHate (S6)
 
-**3rd - Abandoned (5):** AlolanJames (S5), TheSlimeBrother (S5), JaeHasNoMaidens (S5), Supersun_ (S5), Sluggyg (S5)
+**3rd - Abandoned (5):** AlolanJames (S5), TheSlimeBrother (S5), commitstaxfraud (S5), Supersun_ (S5), Sluggyg (S5)
 
-**3rd - PauloSSB (5):** xCindeR_ (S4), JaeHasNoMaidens (S4), Rebelghost (S4), ItsChristiannn (S4), TheSlimeBrother (S4)
+**3rd - PauloSSB (5):** xCindeR_ (S4), commitstaxfraud (S4), Rebelghost (S4), ItsChristiannn (S4), TheSlimeBrother (S4)
 
 **5th - Dqwg (4):** PedroLeGamer (S1), Supersun_ (S3), Silveryo (S3), TheSlimeBrother (S3)
 
@@ -139,21 +139,21 @@
 
 **7th - ItsPqnda (3):** MCmattFTW (S3), BardMain2 (S3), DaMobFTW (S3)
 
-**7th - jackoss (3):** lilygant (S2), MercuryParadox (S2), JaeHasNoMaidens (S2)
+**7th - jackoss (3):** lilygant (S2), MercuryParadox (S2), commitstaxfraud (S2)
 
 **7th - lilygant (3):** PenguinIV (S2), Rebelghost (S2), TheSlimeBrother (S2)
 
-**7th - Rebelghost (3):** Supersun_ (S2), ItsPqnda (S3), JaeHasNoMaidens (S6)
+**7th - Rebelghost (3):** Supersun_ (S2), ItsPqnda (S3), commitstaxfraud (S6)
 
 **7th - tbhjosh (3):** Jorgeeay (S5), Rebelghost (S5), Silveryo (S5)
 
-**7th - TheSlimeBrother (3):** JaeHasNoMaidens (S1), NinjeticDev15 (S1), PedroLeGamer (S6)
+**7th - TheSlimeBrother (3):** commitstaxfraud (S1), NinjeticDev15 (S1), PedroLeGamer (S6)
+
+**14th - commitstaxfraud (2):** BlameBlue (S2), cynnamon (S5)
 
 **14th - IceshardEleven (2):** Centrios (S6), xCindeR_ (S6)
 
 **14th - Impqct (2):** Rebelghost (S6), Master_Saber (S6)
-
-**14th - JaeHasNoMaidens (2):** BlameBlue (S2), cynnamon (S5)
 
 **14th - MCmattFTW (2):** Abandoned (S4), Supersun_ (S4)
 
@@ -199,7 +199,7 @@
 ---
 ### Participation
 
-**6 Seasons (4):** JaeHasNoMaidens (S1-S6), Rebelghost (S1-S6), Supersun_ (S1-S6), TheSlimeBrother (S1-S6)
+**6 Seasons (4):** commitstaxfraud (S1-S6), Rebelghost (S1-S6), Supersun_ (S1-S6), TheSlimeBrother (S1-S6)
 
 **5 Seasons (0):** 
 
@@ -214,7 +214,7 @@
 ---
 ### Debutants
 
-**S1 (12):** Dqwg, Fuid, ItsStreet, JaeHasNoMaidens, NinjeticDev15, PedroLeGamer, PenguinIV, Rebelghost, Supersun_, TheSlimeBrother, zephyr, Zoos
+**S1 (12):** commitstaxfraud, Dqwg, Fuid, ItsStreet, NinjeticDev15, PedroLeGamer, PenguinIV, Rebelghost, Supersun_, TheSlimeBrother, zephyr, Zoos
 
 **S2 (6):** BlameBlue, Dommadude, jackoss, lilygant, MercuryParadox, YouLikeMyName
 

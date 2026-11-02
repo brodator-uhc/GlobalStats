@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: mhuggins5 (1)**, *SergeantM (0)*
+**S1: ItsDracoV (1)**, *SergeantM (0)*
 
 **S2: Dredex (4)**, *GeckoG33k (0)*
 
@@ -81,7 +81,7 @@
 
 **S5:** Rebelghost (0:0:21)
 
-**S6:** mhuggins5 (0:2:13)
+**S6:** ItsDracoV (0:2:13)
 
 **S7:** PwincessVanessa (0:0:2)
 
@@ -117,7 +117,7 @@
 
 **S6:** ItsShqky (ArcherXZY)
 
-**S7:** Krbreb (mhuggins5)
+**S7:** Krbreb (ItsDracoV)
 
 ---
 ### First Death
@@ -139,7 +139,7 @@
 ---
 ### Kills
 
-**1st - xCynesta (11):** love_gem4164 (S5), ArcticSeagull (S5), _1mmortal_ (S5), _Fost_ (S5), mhuggins5 (S5), Vetmire (S5), Charrlottie (S6), TehBaconBrawlerZ (S6), brinkwhy (S6), Mastercrossbow (S6), _1mmortal_ (S6)
+**1st - xCynesta (11):** love_gem4164 (S5), ArcticSeagull (S5), _1mmortal_ (S5), _Fost_ (S5), ItsDracoV (S5), Vetmire (S5), Charrlottie (S6), TehBaconBrawlerZ (S6), brinkwhy (S6), Alckz (S6), _1mmortal_ (S6)
 
 **2nd - _1mmortal_ (7):** SergeantM (S4), xPingWinMan (S4), Rebelghost (S5), MangoPlayz (S6), xPingWinMan (S6), TehBaconBrawlerZ (S7), PwincessVanessa (S7)
 
@@ -155,7 +155,7 @@
 
 **7th - Flowtives (3):** ArcticSeagull (S6), Rougero (S6), TayUHC (S6)
 
-**7th - Krbreb (3):** xCynesta (S4), mhuggins5 (S7), RuneTactics (S7)
+**7th - Krbreb (3):** xCynesta (S4), ItsDracoV (S7), RuneTactics (S7)
 
 **7th - Nyxana (3):** xPingWinMan (S3), Delighted2MeetU (S3), ArcticSeagull (S3)
 
@@ -167,11 +167,11 @@
 
 **7th - Vetmire (3):** Alisa_Muffins (S5), ItzIgglesPiggles (S5), TayUHC (S5)
 
+**15th - Alckz (2):** Bofishkix (S6), edtoast_46 (S6)
+
 **15th - ArcticSeagull (2):** JamestheDouglas (S3), Evzenitable (S3)
 
 **15th - ItsShqky (2):** xPingWinMan (S2), ArcherXZY (S6)
-
-**15th - Mastercrossbow (2):** Bofishkix (S6), edtoast_46 (S6)
 
 **15th - SergeantM (2):** Woobis (S2), ArcticSeagull (S4)
 
@@ -181,9 +181,9 @@
 
 **19th - Dargxn (1):** Slooshyy (S1)
 
-**19th - Kaddyn (1):** Bofishkix (S7)
+**19th - ItsDracoV (1):** NickPlaysGames15 (S1)
 
-**19th - mhuggins5 (1):** NickPlaysGames15 (S1)
+**19th - Kaddyn (1):** Bofishkix (S7)
 
 **19th - PresidentFleb (1):** ParkourMania (S1)
 
@@ -194,7 +194,7 @@
 ---
 ### PvE Deaths
 
-**Fall (4):** TayUHC (S1), AdonisGaming (S1), ItsShqky (S5), mhuggins5 (S6)
+**Fall (4):** TayUHC (S1), AdonisGaming (S1), ItsShqky (S5), ItsDracoV (S6)
 
 **Left (2):** PresidentFleb (S2), Retrofied (S4)
 
@@ -217,18 +217,18 @@
 
 **5 Seasons (1):** TayUHC (S1-S3,S5-S6)
 
-**4 Seasons (2):** mhuggins5 (S1,S5-S7), _1mmortal_ (S4-S7)
+**4 Seasons (2):** ItsDracoV (S1,S5-S7), _1mmortal_ (S4-S7)
 
 **3 Seasons (8):** AdonisGaming (S1-S2,S5), brinkwhy (S1,S6-S7), Bofishkix (S2,S6-S7), Dredex (S2-S3,S6), ItsShqky (S2,S5-S6), HeyItsJBug (S4,S6-S7), Krbreb (S4,S6-S7), xCynesta (S4-S6)
 
 **2 Seasons (6):** NickPlaysGames15 (S1-S2), PresidentFleb (S1-S2), Woobis (S2,S5), _Fost_ (S3,S5), love_gem4164 (S5-S6), TehBaconBrawlerZ (S6-S7)
 
-**1 Season (33):** braidenOW (S1), Dargxn (S1), ParkourMania (S1), Slooshyy (S1), Blarkslol (S2), GeckoG33k (S2), Delighted2MeetU (S3), Evzenitable (S3), JamestheDouglas (S3), Nyxana (S3), Retrofied (S4), Alisa_Muffins (S5), Dragon1ce (S5), ItzIgglesPiggles (S5), Rebelghost (S5), Vetmire (S5), ArcherXZY (S6), Charrlottie (S6), edtoast_46 (S6), Flowtives (S6), MangoPlayz (S6), Mastercrossbow (S6), opachi69 (S6), Rougero (S6), TeknoDemon (S6), AlkuranZak (S7), CommanderK22_ (S7), Dubs101 (S7), Kaddyn (S7), PwincessVanessa (S7), RuneTactics (S7), Shinrai_ (S7), St0rmplayz (S7)
+**1 Season (33):** braidenOW (S1), Dargxn (S1), ParkourMania (S1), Slooshyy (S1), Blarkslol (S2), GeckoG33k (S2), Delighted2MeetU (S3), Evzenitable (S3), JamestheDouglas (S3), Nyxana (S3), Retrofied (S4), Alisa_Muffins (S5), Dragon1ce (S5), ItzIgglesPiggles (S5), Rebelghost (S5), Vetmire (S5), Alckz (S6), ArcherXZY (S6), Charrlottie (S6), edtoast_46 (S6), Flowtives (S6), MangoPlayz (S6), opachi69 (S6), Rougero (S6), TeknoDemon (S6), AlkuranZak (S7), CommanderK22_ (S7), Dubs101 (S7), Kaddyn (S7), PwincessVanessa (S7), RuneTactics (S7), Shinrai_ (S7), St0rmplayz (S7)
 
 ---
 ### Debutants
 
-**S1 (12):** AdonisGaming, ArcticSeagull, braidenOW, brinkwhy, Dargxn, mhuggins5, NickPlaysGames15, ParkourMania, PresidentFleb, SergeantM, Slooshyy, TayUHC
+**S1 (12):** AdonisGaming, ArcticSeagull, braidenOW, brinkwhy, Dargxn, ItsDracoV, NickPlaysGames15, ParkourMania, PresidentFleb, SergeantM, Slooshyy, TayUHC
 
 **S2 (7):** Blarkslol, Bofishkix, Dredex, GeckoG33k, ItsShqky, Woobis, xPingWinMan
 
@@ -238,7 +238,7 @@
 
 **S5 (6):** Alisa_Muffins, Dragon1ce, ItzIgglesPiggles, love_gem4164, Rebelghost, Vetmire
 
-**S6 (10):** ArcherXZY, Charrlottie, edtoast_46, Flowtives, MangoPlayz, Mastercrossbow, opachi69, Rougero, TehBaconBrawlerZ, TeknoDemon
+**S6 (10):** Alckz, ArcherXZY, Charrlottie, edtoast_46, Flowtives, MangoPlayz, opachi69, Rougero, TehBaconBrawlerZ, TeknoDemon
 
 **S7 (8):** AlkuranZak, CommanderK22_, Dubs101, Kaddyn, PwincessVanessa, RuneTactics, Shinrai_, St0rmplayz
 

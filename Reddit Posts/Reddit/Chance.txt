@@ -8,7 +8,7 @@
 ---
 ### Runner Ups
 
-**S1:** painterwanabe (0), Shu_MCSG (0)
+**S1:** painterwanabe (0), ShuMCSG (0)
 
 ---
 ### Most Kills
@@ -43,7 +43,7 @@
 ---
 ### Kills
 
-**1st - LightingMC (4):** 123SteveBob (S1), Stravilight (S1), Shu_MCSG (S1), painterwanabe (S1)
+**1st - LightingMC (4):** 123SteveBob (S1), Stravilight (S1), ShuMCSG (S1), painterwanabe (S1)
 
 **2nd - _Dieter (3):** CurdledDrip (S1), GodlySteal (S1), flameh (S1)
 
@@ -79,11 +79,11 @@
 ---
 ### Participation
 
-**1 Season (30):** _carn (S1), _Dieter (S1), _pbo (S1), 123SteveBob (S1), AvyleZ (S1), bayweafs (S1), benidk (S1), BoltsInCharge (S1), broccoliar (S1), CurdledDrip (S1), dahii (S1), evuhlynx (S1), Fcrm (S1), flameh (S1), gartbak (S1), Ginzburg (S1), GodlySteal (S1), IdkKiller (S1), Kaismartypants (S1), LightingMC (S1), MCBR (S1), natsuvi (S1), noktime (S1), painterwanabe (S1), RuneTactics (S1), sgouche (S1), Shu_MCSG (S1), strategy (S1), Stravilight (S1), turicake (S1)
+**1 Season (30):** _carn (S1), _Dieter (S1), _pbo (S1), 123SteveBob (S1), AvyleZ (S1), bayweafs (S1), benidk (S1), BoltsInCharge (S1), broccoliar (S1), CurdledDrip (S1), dahii (S1), evuhlynx (S1), Fcrm (S1), flameh (S1), gartbak (S1), Ginzburg (S1), GodlySteal (S1), IdkKiller (S1), Kaismartypants (S1), LightingMC (S1), MCBR (S1), natsuvi (S1), noktime (S1), painterwanabe (S1), RuneTactics (S1), sgouche (S1), ShuMCSG (S1), strategy (S1), Stravilight (S1), turicake (S1)
 
 ---
 ### Debutants
 
-**S1 (30):** _carn, _Dieter, _pbo, 123SteveBob, AvyleZ, bayweafs, benidk, BoltsInCharge, broccoliar, CurdledDrip, dahii, evuhlynx, Fcrm, flameh, gartbak, Ginzburg, GodlySteal, IdkKiller, Kaismartypants, LightingMC, MCBR, natsuvi, noktime, painterwanabe, RuneTactics, sgouche, Shu_MCSG, strategy, Stravilight, turicake
+**S1 (30):** _carn, _Dieter, _pbo, 123SteveBob, AvyleZ, bayweafs, benidk, BoltsInCharge, broccoliar, CurdledDrip, dahii, evuhlynx, Fcrm, flameh, gartbak, Ginzburg, GodlySteal, IdkKiller, Kaismartypants, LightingMC, MCBR, natsuvi, noktime, painterwanabe, RuneTactics, sgouche, ShuMCSG, strategy, Stravilight, turicake
 
 ---

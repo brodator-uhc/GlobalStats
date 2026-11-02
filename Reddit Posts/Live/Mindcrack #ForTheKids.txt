@@ -3,7 +3,7 @@
 ---
 ### Winners
 
-**S1: PauseUnpause (2)**, *Antvenom (0), Coestar (0), Guude (0)*
+**S1: PauseUnpause (2)**, *AntVenom (0), Coestar (0), Guude (0)*
 
 **S2: kurtmac (4)**, *Pakratt0013 (0), SethBling (1), SuperMCGamer (1)*
 
@@ -19,11 +19,11 @@
 
 **S8: Arkas (1), Guude (2)**, *SethBling (0), VintageBeef (1)*
 
-**S9: Antvenom (1), Guude (4), kurtmac (3)**, *VintageBeef (2)*
+**S9: AntVenom (1), Guude (4), kurtmac (3)**, *VintageBeef (2)*
 
 **S10: Arkas (2), Guude (3)**
 
-**S11: Antvenom (4)**, *Coestar (2), Darkosto (1)*
+**S11: AntVenom (4)**, *Coestar (2), Darkosto (1)*
 
 **S12: Aureylian (0), kurtmac (1), Nebris (4)**
 
@@ -244,7 +244,7 @@
 
 **S8:** kurtmac (5), Pakratt0013 (1), DireDwarf (1), ConeDodger (0)
 
-**S9:** Guude (4), VintageBeef (2), kurtmac (3), Antvenom (1)
+**S9:** Guude (4), VintageBeef (2), kurtmac (3), AntVenom (1)
 
 **S10:** Guude (3), Arkas (2)
 
@@ -485,7 +485,7 @@
 
 **S16:** Coestar (Pakratt0013)
 
-**S17:** Coestar (stacyplays)
+**S17:** Coestar (StacyPlays)
 
 **S18:** Pakratt0013 (Coestar)
 
@@ -603,15 +603,15 @@
 ---
 ### Kills
 
-**1st - Coestar (44):** Arkas (S5), Sevadus (S5), Nebris (S11), Pakratt0013 (S11), ConeDodger (S12), W92Baj (S12), Phedran (S13), Breon (S13), Pakratt0013 (S16), Sevadus (S16), Pakratt0013 (S16), HonneyPlay (S16), DahlDantill (S16), Nebris (S16), stacyplays (S17), Sevadus (S17), W92Baj (S17), ConeDodger (S17), pliSkiNAKE (S17), W92Baj (S19), SethBling (S19), W92Baj (S19), ConeDodger (S19), MochiBabs (S19), Pyrao (S19), HCJustin (S19), Soccermvp13 (S21), Breon (S21), kingster18 (S21), PauseUnpause (S21), Pakratt0013 (S22), Sapphyrei (S24), Mookake (S26), ConeDodger (S26), Breon (S26), OMGchad (S26), Guude (S27), DireDwarf (S32), HonneyPlay (S32), Pakratt0013 (S33), kurtmac (S33), Joey_Fatone (S35), puhsqueenie (S35), ryuski (S36)
+**1st - Coestar (44):** Arkas (S5), Sevadus (S5), Nebris (S11), Pakratt0013 (S11), ConeDodger (S12), W92Baj (S12), Phedran (S13), Breon (S13), Pakratt0013 (S16), Sevadus (S16), Pakratt0013 (S16), HonneyPlay (S16), DahlDantill (S16), Nebris (S16), StacyPlays (S17), Sevadus (S17), W92Baj (S17), ConeDodger (S17), pliSkiNAKE (S17), W92Baj (S19), SethBling (S19), W92Baj (S19), ConeDodger (S19), MochiBabs (S19), Pyrao (S19), HCJustin (S19), Soccermvp13 (S21), Breon (S21), kingster18 (S21), PauseUnpause (S21), Pakratt0013 (S22), Sapphyrei (S24), Mookake (S26), ConeDodger (S26), Breon (S26), OMGchad (S26), Guude (S27), DireDwarf (S32), HonneyPlay (S32), Pakratt0013 (S33), kurtmac (S33), Joey_Fatone (S35), puhsqueenie (S35), ryuski (S36)
 
-**2nd - Arkas (39):** Pakratt0013 (S2), SethBling (S2), Pakratt0013 (S4), Docm77 (S4), Guude (S4), DireDwarf (S4), Mhykol (S6), ConeDodger (S8), HCJustin (S10), Zisteau (S10), HCJustin (S11), Aureylian (S11), VintageBeef (S11), Sevadus (S11), Coestar (S11), DireDwarf (S11), Coestar (S12), Antvenom (S12), DireDwarf (S12), HonneyPlay (S12), Pakratt0013 (S12), ryuski (S14), Phedran (S14), W92Baj (S15), Pyrao (S15), Guude (S16), PauseUnpause (S16), Sapphyrei (S18), Soccermvp13 (S18), PauseUnpause (S18), PauseUnpause (S19), VintageBeef (S19), Soccermvp13 (S26), PauseUnpause (S26), PauseUnpause (S26), W92Baj (S26), Aureylian (S26), Mookake (S29), ryuski (S33)
+**2nd - Arkas (39):** Pakratt0013 (S2), SethBling (S2), Pakratt0013 (S4), Docm77 (S4), Guude (S4), DireDwarf (S4), Mhykol (S6), ConeDodger (S8), HCJustin (S10), Zisteau (S10), HCJustin (S11), Aureylian (S11), VintageBeef (S11), Sevadus (S11), Coestar (S11), DireDwarf (S11), Coestar (S12), AntVenom (S12), DireDwarf (S12), HonneyPlay (S12), Pakratt0013 (S12), ryuski (S14), Phedran (S14), W92Baj (S15), Pyrao (S15), Guude (S16), PauseUnpause (S16), Sapphyrei (S18), Soccermvp13 (S18), PauseUnpause (S18), PauseUnpause (S19), VintageBeef (S19), Soccermvp13 (S26), PauseUnpause (S26), PauseUnpause (S26), W92Baj (S26), Aureylian (S26), Mookake (S29), ryuski (S33)
 
 **3rd - Nebris (35):** Sevadus (S3), Zisteau (S3), Pyrao (S3), Millbee (S5), DireDwarf (S5), PauseUnpause (S5), JSano19 (S5), Mhykol (S5), DireDwarf (S6), Coestar (S6), JSano19 (S7), Sevadus (S7), kurtmac (S10), Arkas (S12), Guude (S12), JSano19 (S12), ConeDodger (S12), Coestar (S13), Sevadus (S14), ConeDodger (S15), Phedran (S16), Arkas (S16), DireDwarf (S21), HonneyPlay (S21), Coestar (S22), Breon (S23), OMGchad (S23), SethBling (S24), Darkosto (S24), Sevadus (S24), Soccermvp13 (S24), AvidyaZEN (S29), Guude (S29), ryuski (S30), SethBling (S31)
 
 **4th - Guude (34):** SuperMCGamer (S2), Aureylian (S2), Docm77 (S6), DireDwarf (S8), kurtmac (S8), Mhykol (S9), Pyrao (S9), W92Baj (S9), iskall85 (S9), Pakratt0013 (S10), W92Baj (S10), Phedran (S10), Mhykol (S11), ryuski (S12), AvidyaZEN (S16), Breon (S16), DireDwarf (S16), Coestar (S17), PauseUnpause (S17), DahlDantill (S17), MochiBabs (S18), kingster18 (S18), Pyrao (S18), Breon (S19), pliSkiNAKE (S20), PauseUnpause (S20), kurtmac (S22), Sevadus (S26), Soccermvp13 (S29), Nebris (S29), Joey_Fatone (S31), DireDwarf (S32), chiblee (S33), JSano19 (S35)
 
-**5th - PauseUnpause (32):** CaptainSparklez (S1), AnderZEL (S1), AvidyaZEN (S3), W92Baj (S3), Antvenom (S8), Pakratt0013 (S16), LUBA_DO (S17), HonneyPlay (S17), DireDwarf (S17), pliSkiNAKE (S18), kurtmac (S18), Aureylian (S19), DahlDantill (S19), ryuski (S19), JSano19 (S19), Guude (S20), W92Baj (S20), MochiBabs (S20), kingster18 (S20), ConeDodger (S20), kurtmac (S21), AmethystRaindrop (S24), Pyrao (S26), Pakratt0013 (S26), pliSkiNAKE (S29), Sevadus (S29), ryuski (S29), Pakratt0013 (S29), SethBling (S29), ryuski (S32), Breon (S32), Pakratt0013 (S32)
+**5th - PauseUnpause (32):** CaptainSparklez (S1), AnderZEL (S1), AvidyaZEN (S3), W92Baj (S3), AntVenom (S8), Pakratt0013 (S16), LUBA_DO (S17), HonneyPlay (S17), DireDwarf (S17), pliSkiNAKE (S18), kurtmac (S18), Aureylian (S19), DahlDantill (S19), ryuski (S19), JSano19 (S19), Guude (S20), W92Baj (S20), MochiBabs (S20), kingster18 (S20), ConeDodger (S20), kurtmac (S21), AmethystRaindrop (S24), Pyrao (S26), Pakratt0013 (S26), pliSkiNAKE (S29), Sevadus (S29), ryuski (S29), Pakratt0013 (S29), SethBling (S29), ryuski (S32), Breon (S32), Pakratt0013 (S32)
 
 **6th - kurtmac (29):** Aureylian (S1), Arkas (S2), VintageBeef (S2), Guude (S2), JSano19 (S2), Pyrao (S7), SethBling (S7), Pakratt0013 (S7), Nebris (S7), Coestar (S8), Docm77 (S8), PauseUnpause (S8), HCJustin (S8), SethBling (S8), HCJustin (S9), SethBling (S9), Docm77 (S9), Sevadus (S10), Breon (S12), AvidyaZEN (S13), JSano19 (S15), HonneyPlay (S16), ryuski (S18), HCJustin (S20), AmethystRaindrop (S23), AvidyaZEN (S30), Sevadus (S30), Breon (S33), pliSkiNAKE (S34)
 
@@ -619,7 +619,7 @@
 
 **8th - Pakratt0013 (26):** AnderZEL (S8), Darkosto (S11), SethBling (S13), kurtmac (S13), JSano19 (S13), Arkas (S14), Mhykol (S14), HonneyPlay (S14), Guude (S17), Coestar (S18), SuperMCGamer (S18), DireDwarf (S18), HCJustin (S18), MochiBabs (S21), Coestar (S21), Darkosto (S21), HonneyPlay (S26), Sapphyrei (S26), Breon (S29), ryuski (S31), puhsqueenie (S33), Coestar (S34), ryuski (S34), kingster18 (S34), Breon (S34), kurtmac (S34)
 
-**9th - Soccermvp13 (22):** stacyplays (S14), HonneyPlay (S15), SethBling (S22), Nebris (S22), ryuski (S22), Breon (S22), chiblee (S22), OMGchad (S23), Mhykol (S23), Nebris (S23), Breon (S23), Coestar (S24), kingster18 (S24), Nebris (S24), Coestar (S26), Mookake (S27), Joey_Fatone (S29), JSano19 (S29), stevetheclimber (S31), darkphan (S36), CaptainQ (S36), Phedran (S36)
+**9th - Soccermvp13 (22):** StacyPlays (S14), HonneyPlay (S15), SethBling (S22), Nebris (S22), ryuski (S22), Breon (S22), chiblee (S22), OMGchad (S23), Mhykol (S23), Nebris (S23), Breon (S23), Coestar (S24), kingster18 (S24), Nebris (S24), Coestar (S26), Mookake (S27), Joey_Fatone (S29), JSano19 (S29), stevetheclimber (S31), darkphan (S36), CaptainQ (S36), Phedran (S36)
 
 **10th - Breon (20):** kurtmac (S11), Phedran (S11), Mhykol (S12), Sapphyrei (S15), Phedran (S19), DireDwarf (S19), Guude (S22), HCJustin (S23), kurtmac (S23), Pakratt0013 (S24), Phedran (S26), Guude (S26), ryuski (S28), AvidyaZEN (S28), JSano19 (S28), SethBling (S30), HCJustin (S30), ryuski (S34), W92Baj (S34), Coestar (S34)
 
@@ -635,7 +635,7 @@
 
 **16th - Joey_Fatone (13):** Mookake (S28), Pakratt0013 (S28), Arkas (S30), AmethystRaindrop (S30), Breon (S31), kingster18 (S31), Pakratt0013 (S31), ryuski (S35), Pakratt0013 (S35), Pakratt0013 (S36), Kendrisite (S36), kurtmac (S36), W92Baj (S36)
 
-**17th - CaptainSparklez (12):** SuperMCGamer (S1), kurtmac (S1), DireDwarf (S1), SethBling (S1), Sevadus (S1), Guude (S1), Antvenom (S1), VintageBeef (S3), kurtmac (S3), SuperMCGamer (S3), W92Baj (S6), Pakratt0013 (S6)
+**17th - CaptainSparklez (12):** SuperMCGamer (S1), kurtmac (S1), DireDwarf (S1), SethBling (S1), Sevadus (S1), Guude (S1), AntVenom (S1), VintageBeef (S3), kurtmac (S3), SuperMCGamer (S3), W92Baj (S6), Pakratt0013 (S6)
 
 **17th - ConeDodger (12):** Pakratt0013 (S13), PauseUnpause (S13), Nebris (S13), SethBling (S18), Sapphyrei (S20), pliSkiNAKE (S30), Aureylian (S30), Soccermvp13 (S33), Coestar (S33), Arkas (S33), HCJustin (S33), Soccermvp13 (S36)
 
@@ -657,7 +657,7 @@
 
 **26th - Graser10 (7):** kurtmac (S14), ConeDodger (S14), Guude (S14), ChefAndy (S14), W92Baj (S14), JSano19 (S14), Aureylian (S14)
 
-**28th - Antvenom (6):** AnderZEL (S9), ryuski (S11), Breon (S11), Guude (S11), Arkas (S11), Darkosto (S12)
+**28th - AntVenom (6):** AnderZEL (S9), ryuski (S11), Breon (S11), Guude (S11), Arkas (S11), Darkosto (S12)
 
 **28th - Sigils (6):** SethBling (S14), Soccermvp13 (S14), Coestar (S14), Arkas (S25), Phedran (S25), Trentskiii (S25)
 
@@ -704,7 +704,7 @@
 ---
 ### PvE Deaths
 
-**Wither (35):** W92Baj (S4), Guude (S5), Pyrao (S5), Pakratt0013 (S5), kurtmac (S5), DireDwarf (S7), W92Baj (S7), DireDwarf (S15), ConeDodger (S18), HCJustin (S18), Arkas (S18), OMGchad (S19), Antvenom (S19), pliSkiNAKE (S25), OMGchad (S25), SethBling (S25), Rab400 (S30), Joey_Fatone (S30), HonneyPlay (S31), AmethystRaindrop (S31), Guude (S31), W92Baj (S31), HonneyPlay (S31), Soccermvp13 (S31), W92Baj (S32), W92Baj (S32), Phedran (S32), ConeDodger (S32), JSano19 (S35), Guude (S35), SethBling (S35), JSano19 (S35), Coestar (S35), pliSkiNAKE (S35), kingster18 (S35)
+**Wither (35):** W92Baj (S4), Guude (S5), Pyrao (S5), Pakratt0013 (S5), kurtmac (S5), DireDwarf (S7), W92Baj (S7), DireDwarf (S15), ConeDodger (S18), HCJustin (S18), Arkas (S18), OMGchad (S19), AntVenom (S19), pliSkiNAKE (S25), OMGchad (S25), SethBling (S25), Rab400 (S30), Joey_Fatone (S30), HonneyPlay (S31), AmethystRaindrop (S31), Guude (S31), W92Baj (S31), HonneyPlay (S31), Soccermvp13 (S31), W92Baj (S32), W92Baj (S32), Phedran (S32), ConeDodger (S32), JSano19 (S35), Guude (S35), SethBling (S35), JSano19 (S35), Coestar (S35), pliSkiNAKE (S35), kingster18 (S35)
 
 **Creeper (33):** AnderZEL (S8), Coestar (S8), Docm77 (S9), DireDwarf (S10), SethBling (S10), Coestar (S10), PauseUnpause (S11), ConeDodger (S11), Sevadus (S12), W92Baj (S13), JSano19 (S14), Docm77 (S14), MochiBabs (S14), ChefAndy (S14), Docm77 (S15), Arkas (S16), W92Baj (S17), W92Baj (S18), DahlDantill (S19), Arkas (S20), Mhykol (S22), Coestar (S25), Pyrao (S26), puhsqueenie (S28), Guude (S28), Aureylian (S30), Pakratt0013 (S30), Pakratt0013 (S31), OMGchad (S32), Breon (S33), SethBling (S35), JSano19 (S35), CaptainQ (S36)
 
@@ -819,7 +819,7 @@
 
 **7 Seasons (1):** AmethystRaindrop (S23-S25,S28,S30-S31,S36)
 
-**6 Seasons (6):** Antvenom (S1,S8-S9,S11-S12,S19), SuperMCGamer (S1-S3,S13-S14,S18), MochiBabs (S11,S14,S18-S21), DahlDantill (S14-S19), Trentskiii (S22,S25,S27,S29-S31), Joey_Fatone (S28-S31,S35-S36)
+**6 Seasons (6):** AntVenom (S1,S8-S9,S11-S12,S19), SuperMCGamer (S1-S3,S13-S14,S18), MochiBabs (S11,S14,S18-S21), DahlDantill (S14-S19), Trentskiii (S22,S25,S27,S29-S31), Joey_Fatone (S28-S31,S35-S36)
 
 **5 Seasons (0):** 
 
@@ -827,14 +827,14 @@
 
 **3 Seasons (5):** AnderZEL (S1,S8-S9), Millbee (S1,S5-S6), puhsqueenie (S28,S33,S35), Rab400 (S28-S30), biggiantcircles (S30-S31,S35)
 
-**2 Seasons (6):** Sigils (S14,S25), stacyplays (S14,S17), chiblee (S22,S33), McLaffyTaffy (S22-S23), Nilba (S28,S30), stevetheclimber (S30-S31)
+**2 Seasons (6):** Sigils (S14,S25), StacyPlays (S14,S17), chiblee (S22,S33), McLaffyTaffy (S22-S23), Nilba (S28,S30), stevetheclimber (S30-S31)
 
 **1 Season (20):** BlameTC (S1), BlueBayou (S1), brentcopeland (S1), GreatScottLP (S1), JustVan (S1), Searge (S1), SuperJohan2000 (S1), SynHD (S1), thejims (S1), iskall85 (S9), ChefAndy (S14), Graser10 (S14), LUBA_DO (S17), Orepros (S21), JOEYGRACEFFA (S25), H_L_llama (S27), CaptainQ (S36), darkphan (S36), Kendrisite (S36), WholesaleVirus (S36)
 
 ---
 ### Debutants
 
-**S1 (28):** AnderZEL, Antvenom, Arkas, Aureylian, BlameTC, BlueBayou, brentcopeland, CaptainSparklez, Coestar, DireDwarf, Docm77, GreatScottLP, Guude, JustVan, kurtmac, Millbee, Nebris, Pakratt0013, PauseUnpause, Pyrao, Searge, SethBling, Sevadus, SuperJohan2000, SuperMCGamer, SynHD, thejims, W92Baj
+**S1 (28):** AnderZEL, AntVenom, Arkas, Aureylian, BlameTC, BlueBayou, brentcopeland, CaptainSparklez, Coestar, DireDwarf, Docm77, GreatScottLP, Guude, JustVan, kurtmac, Millbee, Nebris, Pakratt0013, PauseUnpause, Pyrao, Searge, SethBling, Sevadus, SuperJohan2000, SuperMCGamer, SynHD, thejims, W92Baj
 
 **S2 (5):** AvidyaZEN, JSano19, Mhykol, VintageBeef, Zisteau
 
@@ -860,7 +860,7 @@
 
 **S13 (0):** 
 
-**S14 (8):** ChefAndy, DahlDantill, Graser10, Mookake, Sapphyrei, Sigils, Soccermvp13, stacyplays
+**S14 (8):** ChefAndy, DahlDantill, Graser10, Mookake, Sapphyrei, Sigils, Soccermvp13, StacyPlays
 
 **S15 (0):** 
 

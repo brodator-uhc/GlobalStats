@@ -48,7 +48,7 @@
 
 **S3:** MaxEvasion (2), GamerNthn (4) & ColdBac (5), fruitlogic (1)
 
-**S4:** Charrlottie (0), ohh_lia (4), ItsColinn (5)
+**S4:** Charrlottie (0), puppygirlmaple (4), ItsColinn (5)
 
 **S5:** Do_You_Minecraft (0), cherryblawsom (3), powermc (0), AsianCheatCode (3) & Jordtim (0), TehBaconBrawlerZ (3), TheRealHagrid (1), wizarde (2)
 
@@ -113,7 +113,7 @@
 
 **3rd - Austronomical (6):** azoof (S1), Ryfri (S1), Glarza (S1), ethodog (S5), Kaismartypants (S5), zCent (S5)
 
-**3rd - CipherKai (6):** ohh_lia (S1), TheRealHagrid (S1), Clemjo (S1), powermc (S1), ItsColinn (S1), SpaceFenix (S1)
+**3rd - CipherKai (6):** puppygirlmaple (S1), TheRealHagrid (S1), Clemjo (S1), powermc (S1), ItsColinn (S1), SpaceFenix (S1)
 
 **3rd - ethodog (6):** AsianCheatCode (S1), PresidentFleb (S2), _Dieter (S2), strategy (S2), ItsColinn (S2), SpaceFenix (S2)
 
@@ -123,9 +123,9 @@
 
 **7th - MercuryParadox (5):** natsuvi (S4), Bacan (S4), _pbo (S4), ItsColinn (S4), pigghetti (S4)
 
-**7th - ohh_lia (5):** Cyndic (S1), Ninetals38 (S4), OOGAABOOGA3 (S4), WackoFlipper (S4), PresidentFleb (S4)
+**7th - puppygirlmaple (5):** Cyndic (S1), Ninetals38 (S4), OOGAABOOGA3 (S4), WackoFlipper (S4), PresidentFleb (S4)
 
-**10th - cherryblawsom (4):** ohh_lia (S4), Potsie (S5), lexicuhl (S5), DJoee (S5)
+**10th - cherryblawsom (4):** puppygirlmaple (S4), Potsie (S5), lexicuhl (S5), DJoee (S5)
 
 **10th - GamerNthn (4):** vynil (S3), Arich (S3), lexicuhl (S3), SpyroJ (S3)
 
@@ -133,7 +133,7 @@
 
 **10th - Ryfri (4):** PresidentFleb (S1), MaxEvasion (S4), Aybel (S4), Brodator (S5)
 
-**10th - SpaceFenix (4):** Austronomical (S1), lexicuhl (S2), ohh_lia (S2), Kelawesome (S2)
+**10th - SpaceFenix (4):** Austronomical (S1), lexicuhl (S2), puppygirlmaple (S2), Kelawesome (S2)
 
 **15th - AsianCheatCode (3):** MercuryParadox (S5), Eluniel (S5), natsuvi (S5)
 
@@ -211,7 +211,7 @@
 
 **4 Seasons (6):** ItsColinn (S1-S4), Jordtim (S1-S3,S5), Kaismartypants (S1-S2,S4-S5), Ryfri (S1-S2,S4-S5), wizarde (S1-S3,S5), lexicuhl (S2-S5)
 
-**3 Seasons (12):** Glarza (S1-S3), MaxEvasion (S1,S3-S4), ohh_lia (S1-S2,S4), OOGAABOOGA3 (S1,S3-S4), PresidentFleb (S1-S2,S4), strategy (S1-S3), WackoFlipper (S1,S3-S4), cherryblawsom (S2,S4-S5), Kelawesome (S2-S4), Spongey (S2,S4-S5), fruitlogic (S3-S5), SpyroJ (S3-S5)
+**3 Seasons (12):** Glarza (S1-S3), MaxEvasion (S1,S3-S4), OOGAABOOGA3 (S1,S3-S4), PresidentFleb (S1-S2,S4), puppygirlmaple (S1-S2,S4), strategy (S1-S3), WackoFlipper (S1,S3-S4), cherryblawsom (S2,S4-S5), Kelawesome (S2-S4), Spongey (S2,S4-S5), fruitlogic (S3-S5), SpyroJ (S3-S5)
 
 **2 Seasons (25):** _Dieter (S1-S2), _Fost_ (S1,S5), AsianCheatCode (S1,S5), Austronomical (S1,S5), CHAINGE (S1-S2), Eluniel (S1,S5), kirbey (S1-S2), olivieh (S1-S2), pigghetti (S1,S4), powermc (S1,S5), SpaceFenix (S1-S2), TheRealHagrid (S1,S5), Arich (S2-S3), Biwitch (S2,S4), GamerNthn (S2-S3), Gorgerous (S2-S3), Klickacat (S2-S3), Livin423 (S2-S3), Phoraxe (S2,S5), ArcticSeagull (S3-S4), ColdBac (S3,S5), MercuryParadox (S4-S5), natsuvi (S4-S5), Ninetals38 (S4-S5), Randehh (S4-S5)
 
@@ -220,7 +220,7 @@
 ---
 ### Debutants
 
-**S1 (33):** _Dieter, _Fost_, AsianCheatCode, Austronomical, azoof, CHAINGE, Charrlottie, CipherKai, Clemjo, Cyndic, Eluniel, ethodog, Glarza, ItsColinn, Jordtim, JustNolan, Kaismartypants, kirbey, MaxEvasion, ohh_lia, olivieh, omchris, OOGAABOOGA3, pigghetti, powermc, PresidentFleb, Ryfri, SpaceFenix, strategy, TheRealHagrid, Vetmire, WackoFlipper, wizarde
+**S1 (33):** _Dieter, _Fost_, AsianCheatCode, Austronomical, azoof, CHAINGE, Charrlottie, CipherKai, Clemjo, Cyndic, Eluniel, ethodog, Glarza, ItsColinn, Jordtim, JustNolan, Kaismartypants, kirbey, MaxEvasion, olivieh, omchris, OOGAABOOGA3, pigghetti, powermc, PresidentFleb, puppygirlmaple, Ryfri, SpaceFenix, strategy, TheRealHagrid, Vetmire, WackoFlipper, wizarde
 
 **S2 (14):** Arich, Biwitch, CHANGA, cherryblawsom, GamerNthn, Gorgerous, Kelawesome, Klickacat, lexicuhl, Livin423, MajorWoof, Phoraxe, SiahStone, Spongey
 

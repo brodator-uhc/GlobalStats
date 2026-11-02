@@ -109,13 +109,13 @@
 
 **14th - EndestroyerEpic (1):** ShootingGoats (S3)
 
+**14th - Fhqntom_ (1):** MichaelPlayMC (S3)
+
 **14th - Markedbooboy (1):** DevoyTTV (S2)
 
 **14th - Ninetals38 (1):** ItsShqky (S3)
 
-**14th - Nyxana (1):** OneMoreWeek (S3)
-
-**14th - OneMoreWeek (1):** MichaelPlayMC (S3)
+**14th - Nyxana (1):** Fhqntom_ (S3)
 
 **14th - RohanSmashBro (1):** ItsShqky (S1)
 
@@ -141,7 +141,7 @@
 
 **2 Seasons (13):** _1mmortal_ (S1-S2), bayweafs (S1-S2), broccoliar (S1-S2), BuildingBard300 (S1-S2), CodeJoshua (S1-S2), CommanderK22_ (S1-S2), DevoyTTV (S1-S2), MineKG (S1-S2), Vetmire (S1-S2), Evzenitable (S2-S3), Ninetals38 (S2-S3), Nyxana (S2-S3), ShootingGoats (S2-S3)
 
-**1 Season (29):** _Fost_ (S1), Brodator (S1), CAMKART100 (S1), MercuryParadox (S1), rae0vr (S1), RohanSmashBro (S1), RuneTactics (S1), ChainingVermin2 (S2), cherryblawsom (S2), ColdBac (S2), Geroot (S2), Greeples (S2), GuyNamedKreo (S2), JampoJohn (S2), Kaismartypants (S2), Markedbooboy (S2), omchris (S2), poWpaH (S2), Sharkbob94349 (S2), boyyoo (S3), EndestroyerEpic (S3), EroseMC (S3), Fcrm (S3), kabobaa (S3), OneMoreWeek (S3), Pgy (S3), ScaryPumpkinFace (S3), vDyre (S3), zoeywithawhy (S3)
+**1 Season (29):** _Fost_ (S1), Brodator (S1), CAMKART100 (S1), MercuryParadox (S1), rae0vr (S1), RohanSmashBro (S1), RuneTactics (S1), ChainingVermin2 (S2), cherryblawsom (S2), ColdBac (S2), Geroot (S2), Greeples (S2), GuyNamedKreo (S2), JampoJohn (S2), Kaismartypants (S2), Markedbooboy (S2), omchris (S2), poWpaH (S2), Sharkbob94349 (S2), boyyoo (S3), EndestroyerEpic (S3), EroseMC (S3), Fcrm (S3), Fhqntom_ (S3), kabobaa (S3), Pgy (S3), ScaryPumpkinFace (S3), vDyre (S3), zoeywithawhy (S3)
 
 ---
 ### Debutants
@@ -150,6 +150,6 @@
 
 **S2 (16):** ChainingVermin2, cherryblawsom, ColdBac, Evzenitable, Geroot, Greeples, GuyNamedKreo, JampoJohn, Kaismartypants, Markedbooboy, Ninetals38, Nyxana, omchris, poWpaH, Sharkbob94349, ShootingGoats
 
-**S3 (10):** boyyoo, EndestroyerEpic, EroseMC, Fcrm, kabobaa, OneMoreWeek, Pgy, ScaryPumpkinFace, vDyre, zoeywithawhy
+**S3 (10):** boyyoo, EndestroyerEpic, EroseMC, Fcrm, Fhqntom_, kabobaa, Pgy, ScaryPumpkinFace, vDyre, zoeywithawhy
 
 ---

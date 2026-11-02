@@ -18,7 +18,7 @@
 
 **S2:** YaojaDzn (1)
 
-**S3:** CelticCraft (1), Kappy242 (2), ML1Slayer (1), sharpeblade (1)
+**S3:** Kappy242 (2), ML1Slayer (1), sharpeblade (1), Swishes (1)
 
 **S4:** JCC139 (1), MrJokkii (1)
 
@@ -40,7 +40,7 @@
 
 **S2:** N/A
 
-**S3:** CelticCraft (1), Kappy242 (2), ML1Slayer (1), sharpeblade (1)
+**S3:** Swishes (1), Kappy242 (2), ML1Slayer (1), sharpeblade (1)
 
 **S4:** LightningS7 (3), mcmkw (0)
 
@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - mcmkw (6):** ML1Slayer (S2), DoctorCurruption (S2), sharpeblade (S2), YaojaDzn (S2), Kappy242 (S3), ML1Slayer (S3)
+**1st - mcmkw (6):** ML1Slayer (S2), Bricka (S2), sharpeblade (S2), YaojaDzn (S2), Kappy242 (S3), ML1Slayer (S3)
 
 **2nd - _Xythe_ (4):** FireMonkey1020 (S3), Evader22 (S3), Codie__ (S4), tmb0 (S4)
 
@@ -105,23 +105,23 @@
 
 **7th - Evader22 (2):** ThatOneLukaz (S3), Professer_TNT (S3)
 
-**7th - ML1Slayer (2):** CelticCraft (S1), YaojaDzn (S3)
+**7th - ML1Slayer (2):** Swishes (S1), YaojaDzn (S3)
 
-**7th - MrJokkii (2):** CelticCraft (S3), mcmkw (S4)
+**7th - MrJokkii (2):** Swishes (S3), mcmkw (S4)
 
 **7th - sharpeblade (2):** FearTheThunder (S1), Groom__ (S3)
 
-**11th - CelticCraft (1):** _Xythe_ (S3)
+**11th - Bricka (1):** _JJL (S2)
 
 **11th - Codie__ (1):** Mldouble07 (S4)
-
-**11th - DoctorCurruption (1):** _JJL (S2)
 
 **11th - Groom__ (1):** MineGurls (S3)
 
 **11th - JCC139 (1):** Dannythecool123 (S4)
 
-**11th - YaojaDzn (1):** IzunaLoli (S2)
+**11th - Swishes (1):** _Xythe_ (S3)
+
+**11th - YaojaDzn (1):** IzunE_ (S2)
 
 ---
 ### PvE Deaths
@@ -149,16 +149,16 @@
 
 **3 Seasons (4):** JahMuis (S1-S2,S4), MrJokkii (S1,S3-S4), sharpeblade (S1-S3), mcmkw (S2-S4)
 
-**2 Seasons (5):** CelticCraft (S1,S3), Codie__ (S1,S4), FireMonkey1020 (S2-S3), YaojaDzn (S2-S3), _Xythe_ (S3-S4)
+**2 Seasons (5):** Codie__ (S1,S4), Swishes (S1,S3), FireMonkey1020 (S2-S3), YaojaDzn (S2-S3), _Xythe_ (S3-S4)
 
-**1 Season (18):** FearTheThunder (S1), gunsgoboom (S1), HeroicEST (S1), _JJL (S2), DoctorCurruption (S2), IzunaLoli (S2), _Efficiency (S3), DBoss (S3), Evader22 (S3), Groom__ (S3), Kevintra2727 (S3), MineGurls (S3), Professer_TNT (S3), Supah_Matt (S3), ThatOneLukaz (S3), JCC139 (S4), LightningS7 (S4), Mldouble07 (S4)
+**1 Season (18):** FearTheThunder (S1), gunsgoboom (S1), HeroicEST (S1), _JJL (S2), Bricka (S2), IzunE_ (S2), _Efficiency (S3), DBoss (S3), Evader22 (S3), Groom__ (S3), Kevintra2727 (S3), MineGurls (S3), Professer_TNT (S3), Supah_Matt (S3), ThatOneLukaz (S3), JCC139 (S4), LightningS7 (S4), Mldouble07 (S4)
 
 ---
 ### Debutants
 
-**S1 (12):** CelticCraft, Codie__, Dannythecool123, FearTheThunder, gunsgoboom, HeroicEST, JahMuis, Kappy242, ML1Slayer, MrJokkii, sharpeblade, tmb0
+**S1 (12):** Codie__, Dannythecool123, FearTheThunder, gunsgoboom, HeroicEST, JahMuis, Kappy242, ML1Slayer, MrJokkii, sharpeblade, Swishes, tmb0
 
-**S2 (6):** _JJL, DoctorCurruption, FireMonkey1020, IzunaLoli, mcmkw, YaojaDzn
+**S2 (6):** _JJL, Bricka, FireMonkey1020, IzunE_, mcmkw, YaojaDzn
 
 **S3 (10):** _Efficiency, _Xythe_, DBoss, Evader22, Groom__, Kevintra2727, MineGurls, Professer_TNT, Supah_Matt, ThatOneLukaz
 

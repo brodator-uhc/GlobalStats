@@ -16,7 +16,7 @@
 
 **S1:** centraleric (2), CHAINGE (1), chloesad (0), Eluniel (1)
 
-**S2:** ArcticSeagull (0), MajorWoof (4), ohh_lia (0)
+**S2:** ArcticSeagull (0), MajorWoof (4), puppygirlmaple (0)
 
 **S3:** GetNicked (2), vynil (2)
 
@@ -75,7 +75,7 @@
 
 **S3:** Kelawesome (TheRealHagrid)
 
-**S4:** ohh_lia (ERHDude)
+**S4:** puppygirlmaple (ERHDude)
 
 ---
 ### First Death
@@ -101,7 +101,7 @@
 
 **3rd - WackoFlipper (6):** 5kylord (S1), discoczibi (S1), Jordtim (S1), Kelawesome (S1), pigghetti (S1), Rohcket (S3)
 
-**6th - lexicuhl (5):** SpyroJ (S4), ColdBac (S4), ohh_lia (S4), BBCRadio1 (S4), vynil (S4)
+**6th - lexicuhl (5):** SpyroJ (S4), ColdBac (S4), puppygirlmaple (S4), BBCRadio1 (S4), vynil (S4)
 
 **7th - ERHDude (4):** Eluniel (S3), MaxEvasion (S3), Kiinako_ (S3), vynil (S3)
 
@@ -137,9 +137,9 @@
 
 **17th - lasdarling (1):** Fcrm (S3)
 
-**17th - ohh_lia (1):** ERHDude (S4)
-
 **17th - Prisma (1):** Gorgerous (S3)
+
+**17th - puppygirlmaple (1):** ERHDude (S4)
 
 **17th - Rohcket (1):** Brodator (S2)
 
@@ -148,9 +148,9 @@
 ---
 ### PvE Deaths
 
-**Wither Skeleton (5):** Randehh (S1), Codwhy (S1), ohh_lia (S3), CrowJRC (S4), SiahStone (S4)
+**Wither Skeleton (5):** Randehh (S1), Codwhy (S1), puppygirlmaple (S3), CrowJRC (S4), SiahStone (S4)
 
-**Skeleton (4):** ArcticSeagull (S2), Eluniel (S2), ohh_lia (S2), 4EyedSlime (S4)
+**Skeleton (4):** ArcticSeagull (S2), Eluniel (S2), puppygirlmaple (S2), 4EyedSlime (S4)
 
 **Zombie (4):** awesomemacD (S1), MBeaar (S1), PresidentFleb (S3), Randehh (S3)
 
@@ -169,7 +169,7 @@
 
 **4 Seasons (8):** Brodator (S1-S4), Eluniel (S1-S4), Fcrm (S1-S4), GetNicked (S1-S4), Kelawesome (S1-S4), Kiinako_ (S1-S4), pigghetti (S1-S4), WackoFlipper (S1-S4)
 
-**3 Seasons (9):** 5kylord (S1-S3), ArcticSeagull (S1-S3), Captinn (S1-S3), Gorgerous (S1-S3), MaxEvasion (S1-S3), Randehh (S1-S3), Rohcket (S1-S3), FrostBros (S2-S4), ohh_lia (S2-S4)
+**3 Seasons (9):** 5kylord (S1-S3), ArcticSeagull (S1-S3), Captinn (S1-S3), Gorgerous (S1-S3), MaxEvasion (S1-S3), Randehh (S1-S3), Rohcket (S1-S3), FrostBros (S2-S4), puppygirlmaple (S2-S4)
 
 **2 Seasons (14):** awesomemacD (S1-S2), Codwhy (S1-S2), discoczibi (S1-S2), IsaacMT (S1-S2), Jordtim (S1-S2), lasdarling (S2-S3), MajorWoof (S2,S4), ColdBac (S3-S4), DJoee (S3-S4), ERHDude (S3-S4), Prisma (S3-S4), SiahStone (S3-S4), TheRealHagrid (S3-S4), vynil (S3-S4)
 
@@ -180,7 +180,7 @@
 
 **S1 (28):** 5kylord, ArcticSeagull, awesomemacD, Brodator, CallumPace, Captinn, centraleric, CHAINGE, chloesad, Codwhy, discoczibi, Eluniel, Fcrm, GetNicked, Gorgerous, IsaacMT, Jordtim, Kelawesome, Kiinako_, Krenzinator, MaxEvasion, MBeaar, pigghetti, Randehh, Rohcket, typhlo0o, WackoFlipper, Zizo__
 
-**S2 (10):** flameorb, FrostBros, lasdarling, MajorWoof, ohh_lia, QuilJ1, R3gaMav, Ratchet6859, spoood, XFROSTXFIREX
+**S2 (10):** flameorb, FrostBros, lasdarling, MajorWoof, puppygirlmaple, QuilJ1, R3gaMav, Ratchet6859, spoood, XFROSTXFIREX
 
 **S3 (10):** 20Below, ColdBac, Cyndic, DJoee, ERHDude, PresidentFleb, Prisma, SiahStone, TheRealHagrid, vynil
 

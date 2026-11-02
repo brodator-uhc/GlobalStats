@@ -47,7 +47,7 @@
 
 **S1:** GeniRCT (Joshok)
 
-**S2:** Shizko_F (Natasha_White23)
+**S2:** Evxn101 (Natasha_White23)
 
 ---
 ### First Death
@@ -59,9 +59,9 @@
 ---
 ### Kills
 
-**1st - GeniRCT (7):** Joshok (S1), TehBaconBrawlerZ (S1), xRaltz (S1), ProsperoIruma (S1), Erdql (S1), Hendysaurus (S1), David63 (S1)
+**1st - GeniRCT (7):** Joshok (S1), TehBaconBrawlerZ (S1), xRaltz (S1), RioTsumiki (S1), Erdql (S1), hendy53 (S1), David63 (S1)
 
-**2nd - Erdql (6):** Natasha_White23 (S1), ChuKyuu (S1), Shizko_F (S2), ChuKyuu (S2), MatthewDiamandis (S2), Charrlottie (S2)
+**2nd - Erdql (6):** Natasha_White23 (S1), ChuKyuu (S1), Evxn101 (S2), ChuKyuu (S2), MatthewDiamandis (S2), Charrlottie (S2)
 
 **3rd - PwincessVanessa (5):** Flcnt (S1), Dcrpy (S1), WolfieLiam (S2), QueenxPetty (S2), Jqmalll (S2)
 
@@ -71,24 +71,24 @@
 
 **5th - Dcrpy (2):** emi1iano (S1), QueenxPetty (S1)
 
-**7th - AlfieIsDumb (1):** RenMini (S1)
+**7th - AlfieIsDumb (1):** AmarisCCrap (S1)
+
+**7th - be_yonce (1):** Erdql (S2)
 
 **7th - emi1iano (1):** AlfieIsDumb (S1)
 
+**7th - Evxn101 (1):** Natasha_White23 (S2)
+
 **7th - gcbbyy (1):** Jes3e (S1)
 
-**7th - IEddieWedi (1):** Razzelle (S2)
-
-**7th - Razzelle (1):** Erdql (S2)
-
-**7th - Shizko_F (1):** Natasha_White23 (S2)
+**7th - IEddieWedi (1):** be_yonce (S2)
 
 ---
 ### PvE Deaths
 
-**Fall (3):** bebeflynn (S1), Flpz (S1), Shizko_F (S1)
+**Fall (3):** notjustin_ (S1), flopsuh (S1), Evxn101 (S1)
 
-**Creeper (1):** Colle_VAs (S1)
+**Creeper (1):** malsmochii (S1)
 
 **Fire (1):** Sharkxox (S1)
 
@@ -97,15 +97,15 @@
 ---
 ### Participation
 
-**2 Seasons (7):** ChuKyuu (S1-S2), Erdql (S1-S2), Jqmalll (S1-S2), Natasha_White23 (S1-S2), PwincessVanessa (S1-S2), QueenxPetty (S1-S2), Shizko_F (S1-S2)
+**2 Seasons (7):** ChuKyuu (S1-S2), Erdql (S1-S2), Evxn101 (S1-S2), Jqmalll (S1-S2), Natasha_White23 (S1-S2), PwincessVanessa (S1-S2), QueenxPetty (S1-S2)
 
-**1 Season (26):** AlfieIsDumb (S1), bebeflynn (S1), Colle_VAs (S1), David63 (S1), Dcrpy (S1), emi1iano (S1), Flcnt (S1), Flpz (S1), gcbbyy (S1), GeniRCT (S1), Hendysaurus (S1), Jes3e (S1), Joshok (S1), mycemie (S1), ProsperoIruma (S1), RenMini (S1), Sharkxox (S1), TehBaconBrawlerZ (S1), xRaltz (S1), Aaerons (S2), Charrlottie (S2), eukoalalyptus (S2), IEddieWedi (S2), MatthewDiamandis (S2), Razzelle (S2), WolfieLiam (S2)
+**1 Season (26):** AlfieIsDumb (S1), AmarisCCrap (S1), David63 (S1), Dcrpy (S1), emi1iano (S1), Flcnt (S1), flopsuh (S1), gcbbyy (S1), GeniRCT (S1), hendy53 (S1), Jes3e (S1), Joshok (S1), malsmochii (S1), mycemie (S1), notjustin_ (S1), RioTsumiki (S1), Sharkxox (S1), TehBaconBrawlerZ (S1), xRaltz (S1), Aaerons (S2), be_yonce (S2), Charrlottie (S2), eukoalalyptus (S2), IEddieWedi (S2), MatthewDiamandis (S2), WolfieLiam (S2)
 
 ---
 ### Debutants
 
-**S1 (26):** AlfieIsDumb, bebeflynn, ChuKyuu, Colle_VAs, David63, Dcrpy, emi1iano, Erdql, Flcnt, Flpz, gcbbyy, GeniRCT, Hendysaurus, Jes3e, Joshok, Jqmalll, mycemie, Natasha_White23, ProsperoIruma, PwincessVanessa, QueenxPetty, RenMini, Sharkxox, Shizko_F, TehBaconBrawlerZ, xRaltz
+**S1 (26):** AlfieIsDumb, AmarisCCrap, ChuKyuu, David63, Dcrpy, emi1iano, Erdql, Evxn101, Flcnt, flopsuh, gcbbyy, GeniRCT, hendy53, Jes3e, Joshok, Jqmalll, malsmochii, mycemie, Natasha_White23, notjustin_, PwincessVanessa, QueenxPetty, RioTsumiki, Sharkxox, TehBaconBrawlerZ, xRaltz
 
-**S2 (7):** Aaerons, Charrlottie, eukoalalyptus, IEddieWedi, MatthewDiamandis, Razzelle, WolfieLiam
+**S2 (7):** Aaerons, be_yonce, Charrlottie, eukoalalyptus, IEddieWedi, MatthewDiamandis, WolfieLiam
 
 ---

@@ -41,7 +41,7 @@
 
 **S1:** Bofishkix (0:0:24)
 
-**S2:** Hendysaurus (0:0:52)
+**S2:** hendy53 (0:0:52)
 
 **S3:** ArcticSeagull
 
@@ -68,7 +68,7 @@
 
 **S1:** xRaltz (ExtinguishYT)
 
-**S2:** Hendysaurus (Explosion)
+**S2:** hendy53 (Explosion)
 
 **S3:** JamDoggie (egl_)
 
@@ -112,7 +112,7 @@
 
 **Blaze (1):** Slooshyy (S1)
 
-**Explosion (1):** Hendysaurus (S2)
+**Explosion (1):** hendy53 (S2)
 
 **Fall (1):** T1mT0m (S2)
 
@@ -125,14 +125,14 @@
 
 **2 Seasons (2):** Slooshyy (S1-S2), AdonisGaming (S2-S3)
 
-**1 Season (34):** 123SteveBob (S1), AiroKun (S1), Andronify (S1), AtomicBelch (S1), Bofishkix (S1), brinkwhy (S1), ExtinguishYT (S1), Jorgeeay (S1), Karliffu (S1), mickae (S1), MineKG (S1), natsuvi (S1), SandyyChan (S1), SeaHqwk (S1), Thermql (S1), xRaltz (S1), ZebraPantz (S1), broccoliar (S2), Hendysaurus (S2), Plushy33 (S2), Senkhi (S2), T1mT0m (S2), Woex (S2), Blarkslol (S3), Captinn (S3), egl_ (S3), HeyItsJBug (S3), iiLynnell (S3), JamDoggie (S3), KingmegaB (S3), love_gem4164 (S3), TayUHC (S3), Woobis (S3), Zcin (S3)
+**1 Season (34):** 123SteveBob (S1), AiroKun (S1), Andronify (S1), AtomicBelch (S1), Bofishkix (S1), brinkwhy (S1), ExtinguishYT (S1), Jorgeeay (S1), Karliffu (S1), mickae (S1), MineKG (S1), natsuvi (S1), SandyyChan (S1), SeaHqwk (S1), Thermql (S1), xRaltz (S1), ZebraPantz (S1), broccoliar (S2), hendy53 (S2), Plushy33 (S2), Senkhi (S2), T1mT0m (S2), Woex (S2), Blarkslol (S3), Captinn (S3), egl_ (S3), HeyItsJBug (S3), iiLynnell (S3), JamDoggie (S3), KingmegaB (S3), love_gem4164 (S3), TayUHC (S3), Woobis (S3), Zcin (S3)
 
 ---
 ### Debutants
 
 **S1 (20):** 123SteveBob, AiroKun, Andronify, ArcticSeagull, AtomicBelch, Bofishkix, brinkwhy, ExtinguishYT, Jorgeeay, Karliffu, mickae, MineKG, natsuvi, SandyyChan, SeaHqwk, SergeantM, Slooshyy, Thermql, xRaltz, ZebraPantz
 
-**S2 (7):** AdonisGaming, broccoliar, Hendysaurus, Plushy33, Senkhi, T1mT0m, Woex
+**S2 (7):** AdonisGaming, broccoliar, hendy53, Plushy33, Senkhi, T1mT0m, Woex
 
 **S3 (11):** Blarkslol, Captinn, egl_, HeyItsJBug, iiLynnell, JamDoggie, KingmegaB, love_gem4164, TayUHC, Woobis, Zcin
 

@@ -5,85 +5,119 @@
 
 **S1: strategy (3)**, *Aybel (3)*
 
+**S2: Brodator (4), CommanderK22_ (1), omchris (2)**
+
 ---
 ### Runner Ups
 
 **S1:** Blarkslol (1), lexicuhl (1)
+
+**S2:** lasdarling (1)
 
 ---
 ### Most Kills
 
 **S1:** bayweafs, CHAINGE (4)
 
+**S2:** Brodator (4)
+
 ---
 ### Most Kills (Team)
 
 **S1:** bayweafs (4), CHAINGE (4)
+
+**S2:** Brodator (4), CommanderK22_ (1), omchris (2)
 
 ---
 ### First Damage
 
 **S1:** Fcrm (0:10:35)
 
+**S2:** SmolHatChild (0:20:34)
+
 ---
 ### Ironman
 
 **S1:** Blarkslol (1:5:16)
+
+**S2:** Brodator (1:34:21)
 
 ---
 ### First Blood
 
 **S1:** Kaddyn (Greeples)
 
+**S2:** fruitlogic (ShootingGoats)
+
 ---
 ### First Death
 
 **S1:** Greeples (Kaddyn)
 
+**S2:** ShootingGoats (fruitlogic)
+
 ---
 ### Kills
 
-**1st - bayweafs (4):** Kaddyn (S1), Brodator (S1), Biwitch (S1), Aybel (S1)
+**1st - Brodator (5):** _Dieter (S1), CAMKART100 (S2), CrowJRC (S2), TalonBX (S2), lasdarling (S2)
 
-**1st - CHAINGE (4):** SpyroJ (S1), morlnsk (S1), ZenonX_ (S1), fruitlogic (S1)
+**2nd - bayweafs (4):** Kaddyn (S1), Brodator (S1), Biwitch (S1), Aybel (S1)
 
-**3rd - Aybel (3):** Glarza (S1), CHAINGE (S1), bayweafs (S1)
+**2nd - CHAINGE (4):** SpyroJ (S1), morlnsk (S1), ZenonX_ (S1), fruitlogic (S1)
 
-**3rd - hazel_doe (3):** Stravilight (S1), Fcrm (S1), Broseph (S1)
+**4th - Aybel (3):** Glarza (S1), CHAINGE (S1), bayweafs (S1)
 
-**3rd - Kaddyn (3):** Greeples (S1), CodeJoshua (S1), ArcticSeagull (S1)
+**4th - fruitlogic (3):** wizarde (S1), Drkrai (S1), ShootingGoats (S2)
 
-**3rd - strategy (3):** Flcnt (S1), RuneTactics (S1), Blarkslol (S1)
+**4th - hazel_doe (3):** Stravilight (S1), Fcrm (S1), Broseph (S1)
 
-**7th - Flcnt (2):** azoof (S1), ItsColinn (S1)
+**4th - Kaddyn (3):** Greeples (S1), CodeJoshua (S1), ArcticSeagull (S1)
 
-**7th - fruitlogic (2):** wizarde (S1), Drkrai (S1)
+**4th - strategy (3):** Flcnt (S1), RuneTactics (S1), Blarkslol (S1)
 
-**9th - ArcticSeagull (1):** jimmyjegs (S1)
+**9th - Flcnt (2):** azoof (S1), ItsColinn (S1)
 
-**9th - azoof (1):** tagggz (S1)
+**9th - lasdarling (2):** lexicuhl (S1), fruitlogic (S2)
 
-**9th - Blarkslol (1):** lasdarling (S1)
+**9th - omchris (2):** Ninetals38 (S2), SpaceFenix (S2)
 
-**9th - Brodator (1):** _Dieter (S1)
+**12th - ArcticSeagull (1):** jimmyjegs (S1)
 
-**9th - Broseph (1):** Captinn (S1)
+**12th - azoof (1):** tagggz (S1)
 
-**9th - DJoee (1):** flameorb (S1)
+**12th - Blarkslol (1):** lasdarling (S1)
 
-**9th - Fcrm (1):** DJoee (S1)
+**12th - Broseph (1):** Captinn (S1)
 
-**9th - Glarza (1):** hazel_doe (S1)
+**12th - CommanderK22_ (1):** yingapore (S2)
 
-**9th - jimmyjegs (1):** xDiversity (S1)
+**12th - CrowJRC (1):** Greeples (S2)
 
-**9th - lasdarling (1):** lexicuhl (S1)
+**12th - DJoee (1):** flameorb (S1)
 
-**9th - lexicuhl (1):** Klobb (S1)
+**12th - Fcrm (1):** DJoee (S1)
 
-**9th - tagggz (1):** Jalapinecone (S1)
+**12th - Glarza (1):** hazel_doe (S1)
 
-**9th - xDiversity (1):** omnikrxn (S1)
+**12th - Greeples (1):** Vulkarr (S2)
+
+**12th - jimmyjegs (1):** xDiversity (S1)
+
+**12th - lexicuhl (1):** Klobb (S1)
+
+**12th - ScaryPumpkinFace (1):** Kaimaxon (S2)
+
+**12th - SmolHatChild (1):** grantfaker (S2)
+
+**12th - SpaceFenix (1):** AirInAirOut (S2)
+
+**12th - tagggz (1):** Jalapinecone (S1)
+
+**12th - TalonBX (1):** SmolHatChild (S2)
+
+**12th - xDiversity (1):** omnikrxn (S1)
+
+**12th - yingapore (1):** ScaryPumpkinFace (S2)
 
 ---
 ### PvE Deaths
@@ -91,11 +125,15 @@
 ---
 ### Participation
 
-**1 Season (38):** _Dieter (S1), ArcticSeagull (S1), Aybel (S1), azoof (S1), bayweafs (S1), Biwitch (S1), Blarkslol (S1), Brodator (S1), Broseph (S1), Captinn (S1), CHAINGE (S1), CodeJoshua (S1), DJoee (S1), Drkrai (S1), Fcrm (S1), flameorb (S1), Flcnt (S1), fruitlogic (S1), Glarza (S1), Greeples (S1), hazel_doe (S1), ItsColinn (S1), Jalapinecone (S1), jimmyjegs (S1), Kaddyn (S1), Klobb (S1), lasdarling (S1), lexicuhl (S1), morlnsk (S1), omnikrxn (S1), RuneTactics (S1), SpyroJ (S1), strategy (S1), Stravilight (S1), tagggz (S1), wizarde (S1), xDiversity (S1), ZenonX_ (S1)
+**2 Seasons (4):** Brodator (S1-S2), fruitlogic (S1-S2), Greeples (S1-S2), lasdarling (S1-S2)
+
+**1 Season (49):** _Dieter (S1), ArcticSeagull (S1), Aybel (S1), azoof (S1), bayweafs (S1), Biwitch (S1), Blarkslol (S1), Broseph (S1), Captinn (S1), CHAINGE (S1), CodeJoshua (S1), DJoee (S1), Drkrai (S1), Fcrm (S1), flameorb (S1), Flcnt (S1), Glarza (S1), hazel_doe (S1), ItsColinn (S1), Jalapinecone (S1), jimmyjegs (S1), Kaddyn (S1), Klobb (S1), lexicuhl (S1), morlnsk (S1), omnikrxn (S1), RuneTactics (S1), SpyroJ (S1), strategy (S1), Stravilight (S1), tagggz (S1), wizarde (S1), xDiversity (S1), ZenonX_ (S1), AirInAirOut (S2), CAMKART100 (S2), CommanderK22_ (S2), CrowJRC (S2), grantfaker (S2), Kaimaxon (S2), Ninetals38 (S2), omchris (S2), ScaryPumpkinFace (S2), ShootingGoats (S2), SmolHatChild (S2), SpaceFenix (S2), TalonBX (S2), Vulkarr (S2), yingapore (S2)
 
 ---
 ### Debutants
 
 **S1 (38):** _Dieter, ArcticSeagull, Aybel, azoof, bayweafs, Biwitch, Blarkslol, Brodator, Broseph, Captinn, CHAINGE, CodeJoshua, DJoee, Drkrai, Fcrm, flameorb, Flcnt, fruitlogic, Glarza, Greeples, hazel_doe, ItsColinn, Jalapinecone, jimmyjegs, Kaddyn, Klobb, lasdarling, lexicuhl, morlnsk, omnikrxn, RuneTactics, SpyroJ, strategy, Stravilight, tagggz, wizarde, xDiversity, ZenonX_
+
+**S2 (15):** AirInAirOut, CAMKART100, CommanderK22_, CrowJRC, grantfaker, Kaimaxon, Ninetals38, omchris, ScaryPumpkinFace, ShootingGoats, SmolHatChild, SpaceFenix, TalonBX, Vulkarr, yingapore
 
 ---

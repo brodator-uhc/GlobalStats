@@ -5,7 +5,7 @@
 
 **S1: DakotaB15 (2)**, *SoitsSara (0)*
 
-**S2: kawaiibunri (7)**
+**S2: evuhlynx (7)**
 
 **S3: Kaddyn (4)**, *AshleyMashley (0), SoitsSara (0)*
 
@@ -24,7 +24,7 @@
 ---
 ### Runner Ups
 
-**S1:** kawaiibunri (2), MatthewDiamandis (1)
+**S1:** evuhlynx (2), MatthewDiamandis (1)
 
 **S2:** _Fost_ (0), LovelyAngwl (0)
 
@@ -45,9 +45,9 @@
 ---
 ### Most Kills
 
-**S1:** Dactus_, DakotaB15, kawaiibunri (2)
+**S1:** Dactus_, DakotaB15, evuhlynx (2)
 
-**S2:** kawaiibunri (7)
+**S2:** evuhlynx (7)
 
 **S3:** Kaddyn (4)
 
@@ -66,9 +66,9 @@
 ---
 ### Most Kills (Team)
 
-**S1:** MatthewDiamandis (1), kawaiibunri (2)
+**S1:** MatthewDiamandis (1), evuhlynx (2)
 
-**S2:** kawaiibunri (7)
+**S2:** evuhlynx (7)
 
 **S3:** AshleyMashley (0), Kaddyn (4), SoitsSara (0)
 
@@ -164,16 +164,16 @@
 
 **S7:** itzcandyplays (Zombie)
 
-**S8:** kawaiibunri (Void)
+**S8:** evuhlynx (Void)
 
 **S9:** itzcandyplays (Endermite)
 
 ---
 ### Kills
 
-**1st - kawaiibunri (11):** _Fost_ (S1), SoitsSara (S1), DakotaB15 (S2), Zombeanie (S2), GrandSlamBlocker (S2), TheSonicJoey (S2), AshleyMashley (S2), _Fost_ (S2), TehBaconBrawlerZ (S2), _Fost_ (S3), Zombeanie (S3)
+**1st - evuhlynx (11):** _Fost_ (S1), SoitsSara (S1), DakotaB15 (S2), Zombeanie (S2), GrandSlamBlocker (S2), TheSonicJoey (S2), AshleyMashley (S2), _Fost_ (S2), TehBaconBrawlerZ (S2), _Fost_ (S3), Zombeanie (S3)
 
-**2nd - DakotaB15 (10):** ButterflyDad (S1), Dactus_ (S1), Kaimaxon (S3), kawaiibunri (S3), AshleyMashley (S3), Kaddyn (S4), Expired_Poptarts (S6), itzcandyplays (S6), Cooksie (S6), Charmsie (S6)
+**2nd - DakotaB15 (10):** ButterflyDad (S1), Dactus_ (S1), Kaimaxon (S3), evuhlynx (S3), AshleyMashley (S3), Kaddyn (S4), Expired_Poptarts (S6), itzcandyplays (S6), Cooksie (S6), Charmsie (S6)
 
 **3rd - BarelyPink (7):** SoitsSara (S3), Flcnt (S5), Boopsie (S5), lemondani (S5), SaltyLemonYT (S5), Charmsie (S5), GrandSlamBlocker (S5)
 
@@ -193,7 +193,7 @@
 
 **10th - MatthewDiamandis (3):** BoardArtist (S1), MuRkYrULEz (S7), AshleyMashley (S7)
 
-**12th - Dactus_ (2):** AshleyMashley (S1), kawaiibunri (S1)
+**12th - Dactus_ (2):** AshleyMashley (S1), evuhlynx (S1)
 
 **12th - Erdql (2):** AshleyMashley (S5), Spritumn (S5)
 
@@ -226,7 +226,7 @@
 
 **Suffocation (2):** WinterSpeed_ (S1), Outoftheblue77 (S8)
 
-**Void (2):** kawaiibunri (S8), TehBaconBrawlerZ (S8)
+**Void (2):** evuhlynx (S8), TehBaconBrawlerZ (S8)
 
 **Zombie (2):** BoardArtist (S2), itzcandyplays (S7)
 
@@ -257,7 +257,7 @@
 
 **5 Seasons (3):** itzcandyplays (S2-S3,S6-S7,S9), Kaimaxon (S2-S3,S6,S8-S9), MainAgate5 (S3,S5-S6,S8-S9)
 
-**4 Seasons (4):** kawaiibunri (S1-S3,S8), MatthewDiamandis (S1,S4,S7-S8), lemondani (S3-S6), Spritumn (S4-S6,S8)
+**4 Seasons (4):** evuhlynx (S1-S3,S8), MatthewDiamandis (S1,S4,S7-S8), lemondani (S3-S6), Spritumn (S4-S6,S8)
 
 **3 Seasons (5):** _Fost_ (S1-S3), LovelyAngwl (S1-S2,S4), SoitsSara (S1,S3,S9), Kaddyn (S3-S4,S6), Outoftheblue77 (S6,S8-S9)
 
@@ -268,7 +268,7 @@
 ---
 ### Debutants
 
-**S1 (14):** _Fost_, _hallow__, AshleyMashley, BoardArtist, ButterflyDad, Dactus_, DakotaB15, GrandSlamBlocker, httpraex, kawaiibunri, LovelyAngwl, MatthewDiamandis, SoitsSara, WinterSpeed_
+**S1 (14):** _Fost_, _hallow__, AshleyMashley, BoardArtist, ButterflyDad, Dactus_, DakotaB15, evuhlynx, GrandSlamBlocker, httpraex, LovelyAngwl, MatthewDiamandis, SoitsSara, WinterSpeed_
 
 **S2 (7):** Erdql, Flcnt, itzcandyplays, Kaimaxon, TehBaconBrawlerZ, TheSonicJoey, Zombeanie
 

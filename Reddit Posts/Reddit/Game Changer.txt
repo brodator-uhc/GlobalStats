@@ -113,7 +113,7 @@
 
 **2nd - I_is_cheesecake (8):** _pbo (S2), Jordtim (S2), ChrisCD (S2), Thimburrr (S2), Applepie78 (S2), zCent (S2), Keelando (S2), lexicuhl (S2)
 
-**2nd - Thimburrr (8):** pigghetti (S5), PotaTomas (S5), ThePeridotKnight (S5), Hecticity (S5), ohh_lia (S5), I_is_cheesecake (S5), ScaryPumpkinFace (S5), LoganHam1313 (S5)
+**2nd - Thimburrr (8):** pigghetti (S5), PotaTomas (S5), ThePeridotKnight (S5), Hecticity (S5), puppygirlmaple (S5), I_is_cheesecake (S5), ScaryPumpkinFace (S5), LoganHam1313 (S5)
 
 **5th - Austronomical (7):** ToontownOnline (S1), 5hup (S1), lottebunny (S1), Erferno (S1), TheSonicJoey (S3), aalaan (S3), Keelando (S3)
 
@@ -207,7 +207,7 @@
 
 **2 Seasons (19):** _ChrisMS (S1-S2), 5hup (S1-S2), Awticon (S1-S2), Bacan (S1,S4), Biwitch (S1-S2), CHANGA (S1-S2), DJoee (S1-S2), LeonTG (S1,S4), lexicuhl (S1-S2), Applepie78 (S2,S4), MarcC5M (S2,S5), Omertosa (S2,S4), Thimburrr (S2,S5), automavic (S3-S4), ColdBac (S3,S5), pigghetti (S3,S5), LoganHam1313 (S4-S5), Nikikula (S4-S5), YellowVitt (S4-S5)
 
-**1 Season (21):** clefairy (S1), Erferno (S1), ToontownOnline (S1), _Dieter (S2), _pbo (S2), brodioh (S2), Ninjajaja (S2), azoof (S3), TheSonicJoey (S3), Digitale (S4), Sean081799 (S4), SPEEDYDIGS (S4), strategy (S4), Caydone (S5), DECTHEELITE (S5), Havenhand (S5), Kaismartypants (S5), ohh_lia (S5), PotaTomas (S5), SiahStone (S5), theencomputers (S5)
+**1 Season (21):** clefairy (S1), Erferno (S1), ToontownOnline (S1), _Dieter (S2), _pbo (S2), brodioh (S2), Ninjajaja (S2), azoof (S3), TheSonicJoey (S3), Digitale (S4), Sean081799 (S4), SPEEDYDIGS (S4), strategy (S4), Caydone (S5), DECTHEELITE (S5), Havenhand (S5), Kaismartypants (S5), PotaTomas (S5), puppygirlmaple (S5), SiahStone (S5), theencomputers (S5)
 
 ---
 ### Debutants
@@ -220,6 +220,6 @@
 
 **S4 (7):** Digitale, LoganHam1313, Nikikula, Sean081799, SPEEDYDIGS, strategy, YellowVitt
 
-**S5 (8):** Caydone, DECTHEELITE, Havenhand, Kaismartypants, ohh_lia, PotaTomas, SiahStone, theencomputers
+**S5 (8):** Caydone, DECTHEELITE, Havenhand, Kaismartypants, PotaTomas, puppygirlmaple, SiahStone, theencomputers
 
 ---

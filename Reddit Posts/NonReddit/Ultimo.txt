@@ -96,7 +96,7 @@
 
 **S6:** N/A
 
-**S7:** Glarza (1), DevoyTTV (5), loyaltea (0) & egl_ (2), Hendysaurus (3), Stravilight (1)
+**S7:** Glarza (1), DevoyTTV (5), loyaltea (0) & egl_ (2), hendy53 (3), Stravilight (1)
 
 **S8:** Cubic44 (4), DragonGlory (1)
 
@@ -127,7 +127,7 @@
 
 **S8:** _shi
 
-**S9:** Hendysaurus
+**S9:** hendy53
 
 **S10:*
 
@@ -179,11 +179,11 @@
 
 **S7:** Aybel (ItsJustPanda)
 
-**S8:** Krbreb (Hendysaurus)
+**S8:** Krbreb (hendy53)
 
 **S9:** DevoyTTV (Blarkslol)
 
-**S10:** TayUHC (Hendysaurus)
+**S10:** TayUHC (hendy53)
 
 **S11:** poWpaH (Plushy33)
 
@@ -206,7 +206,7 @@
 
 **S7:** downkey (Fall)
 
-**S8:** Hendysaurus (Krbreb)
+**S8:** hendy53 (Krbreb)
 
 **S9:** GeniRCT (Lava)
 
@@ -229,15 +229,15 @@
 
 **5th - jemjosh (9):** Stravilight (S1), MichaelPlayMC (S3), AdonisGaming (S3), MineKG (S4), MichaelPlayMC (S4), Cosmico (S4), MrSurvivalist (S4), MrSurvivalist (S5), Cosmico (S5)
 
-**6th - Fcrm (8):** Blind4ndD34f (S10), ArcticSeagull (S10), Bofishkix (S11), kawaiibunri (S12), coldified (S12), Bulbexe (S12), Kaddyn (S12), StoneZey (S12)
+**6th - Fcrm (8):** Blind4ndD34f (S10), ArcticSeagull (S10), Bofishkix (S11), evuhlynx (S12), coldified (S12), Bulbexe (S12), Kaddyn (S12), StoneZey (S12)
 
-**7th - broccoliar (7):** Hendysaurus (S7), DeadlyFoxx (S9), Hendysaurus (S9), Cubic44 (S9), MrEzzo (S9), _Txchno_ (S10), Bofishkix (S10)
+**7th - broccoliar (7):** hendy53 (S7), DeadlyFoxx (S9), hendy53 (S9), Cubic44 (S9), MrEzzo (S9), _Txchno_ (S10), Bofishkix (S10)
 
 **7th - egl_ (7):** Retrofied (S7), AdonisGaming (S7), MangoPlayz (S11), xDiversity (S11), Fcrm (S11), Zcin (S11), Krbreb (S11)
 
 **7th - GeniRCT (7):** Moonlitess (S10), Zcin (S10), _Dieter (S10), ItzIgglesPiggles (S10), Fcrm (S10), poWpaH (S10), Blarkslol (S10)
 
-**7th - Krbreb (7):** Hendysaurus (S8), DragonGlory (S8), Captinn (S11), loyaltea (S11), coldified (S11), Pelycosaur (S11), ImChile (S12)
+**7th - Krbreb (7):** hendy53 (S8), DragonGlory (S8), Captinn (S11), loyaltea (S11), coldified (S11), Pelycosaur (S11), ImChile (S12)
 
 **11th - Aybel (6):** ItsJustPanda (S7), violetwoah (S7), _Fost_ (S7), Dredex (S7), GamingStarr (S7), TayUHC (S10)
 
@@ -251,11 +251,11 @@
 
 **11th - poWpaH (6):** ImChile (S10), brinkwhy (S10), Plushy33 (S11), Lsnce (S12), downkey (S12), ADinoPlayingMC (S12)
 
-**17th - PwincessVanessa (5):** Caydone (S8), CHAINGE (S8), kawaiibunri (S11), Bulbexe (S11), poWpaH (S12)
+**17th - PwincessVanessa (5):** Caydone (S8), CHAINGE (S8), evuhlynx (S11), Bulbexe (S11), poWpaH (S12)
 
 **17th - Zcin (5):** Stravilight (S9), BigJedo (S9), Evzenitable (S10), Charlottie (S11), Flcnt (S11)
 
-**19th - Hendysaurus (4):** Bofishkix (S7), TayUHC (S7), _Txchno_ (S7), violetwoah (S9)
+**19th - hendy53 (4):** Bofishkix (S7), TayUHC (S7), _Txchno_ (S7), violetwoah (S9)
 
 **19th - loyaltea (4):** TayUHC (S11), ItzIgglesPiggles (S11), BreakfastBacon (S12), AshleyMashley (S12)
 
@@ -265,7 +265,7 @@
 
 **23rd - coldified (3):** poWpaH (S11), broccoliar (S11), CloudCharles (S12)
 
-**23rd - Flcnt (3):** Vetmire (S11), Hendysaurus (S12), AdonisGaming (S12)
+**23rd - Flcnt (3):** Vetmire (S11), hendy53 (S12), AdonisGaming (S12)
 
 **23rd - ItzIgglesPiggles (3):** xLulu_24 (S9), ItsJustPanda (S9), Pelycosaur (S10)
 
@@ -341,7 +341,7 @@
 
 **46th - StoneZey (1):** brinniex (S12)
 
-**46th - TayUHC (1):** Hendysaurus (S10)
+**46th - TayUHC (1):** hendy53 (S10)
 
 **46th - TheFabio178 (1):** OrangeDZN (S1)
 
@@ -385,13 +385,13 @@
 
 **6 Seasons (4):** downkey (S3,S5-S7,S10,S12), Bofishkix (S6-S8,S10-S12), Evzenitable (S6,S8-S12), broccoliar (S7-S12)
 
-**5 Seasons (5):** Retrofied (S3-S4,S7-S9), loyaltea (S5-S7,S11-S12), ArcticSeagull (S7-S8,S10-S12), Hendysaurus (S7-S10,S12), PwincessVanessa (S7-S9,S11-S12)
+**5 Seasons (5):** Retrofied (S3-S4,S7-S9), loyaltea (S5-S7,S11-S12), ArcticSeagull (S7-S8,S10-S12), hendy53 (S7-S10,S12), PwincessVanessa (S7-S9,S11-S12)
 
 **4 Seasons (12):** Cosmico (S1,S3-S5), jemjosh (S1,S3-S5), TheLuckyAsian (S1-S2,S4,S12), SlicedOranges (S2-S3,S5,S12), AdonisGaming (S3,S5,S7,S12), DevoyTTV (S4,S7-S9), _Txchno_ (S7-S10), Cubic44 (S7-S9,S11), GamingStarr (S7-S9,S12), Krbreb (S8-S9,S11-S12), Pelycosaur (S8-S11), Captinn (S9-S12)
 
 **3 Seasons (16):** Zyaf (S2-S4), MineKG (S4,S8,S10), MrSurvivalist (S4-S6), Blind4ndD34f (S5,S10,S12), Dredex (S5,S7-S8), Dargxn (S6-S8), violetwoah (S6-S7,S9), _Fost_ (S7-S9), egl_ (S7,S9,S11), TayUHC (S7,S10-S11), Vetmire (S8-S9,S11), ItzIgglesPiggles (S9-S11), Zcin (S9-S11), Fcrm (S10-S12), poWpaH (S10-S12), xDiversity (S10-S12)
 
-**2 Seasons (28):** TheFabio178 (S1-S2), LATlA (S2,S4), MichaelPlayMC (S3-S4), PotteryTNT (S3,S5), Trenzey (S4-S5), CodeJoshua (S5,S11), CipherKai (S6,S12), Aybel (S7,S10), Glarza (S7-S8), ItsJustPanda (S7,S9), MrEzzo (S7,S9), _shi (S8-S9), AshleyMashley (S8,S12), DakotaB15 (S8-S9), MatthewDiamandis (S8-S9), BigJedo (S9-S10), GeniRCT (S9-S10), kirbey (S9,S12), brinkwhy (S10,S12), ImChile (S10,S12), brinniex (S11-S12), Bulbexe (S11-S12), Charlottie (S11-S12), coldified (S11-S12), Flcnt (S11-S12), kawaiibunri (S11-S12), MangoPlayz (S11-S12), TehBaconBrawlerZ (S11-S12)
+**2 Seasons (28):** TheFabio178 (S1-S2), LATlA (S2,S4), MichaelPlayMC (S3-S4), PotteryTNT (S3,S5), Trenzey (S4-S5), CodeJoshua (S5,S11), CipherKai (S6,S12), Aybel (S7,S10), Glarza (S7-S8), ItsJustPanda (S7,S9), MrEzzo (S7,S9), _shi (S8-S9), AshleyMashley (S8,S12), DakotaB15 (S8-S9), MatthewDiamandis (S8-S9), BigJedo (S9-S10), GeniRCT (S9-S10), kirbey (S9,S12), brinkwhy (S10,S12), ImChile (S10,S12), brinniex (S11-S12), Bulbexe (S11-S12), Charlottie (S11-S12), coldified (S11-S12), evuhlynx (S11-S12), Flcnt (S11-S12), MangoPlayz (S11-S12), TehBaconBrawlerZ (S11-S12)
 
 **1 Season (44):** Araise (S1), OrangeDZN (S1), karrla (S2), lezy (S2), cocoflourish (S3), hotsauce2000 (S3), Evxn101 (S4), onstep (S4), whalelike (S4), AlkuranZak (S5), Derpay (S5), Dizzayy (S5), Haydcn (S5), KineticYT (S5), Markedbooboy (S5), Mohala (S5), yistv2 (S5), _british (S6), Flowtives (S6), Hqlfs (S6), Karliffu (S6), PresidentFleb (S6), SuperJockey (S6), Laqqy (S7), Caydone (S8), CHAINGE (S8), Dcrpy (S8), DragonGlory (S8), Klanke (S8), DeadlyFoxx (S9), xLulu_24 (S9), _Dieter (S10), Erdql (S10), Moonlitess (S10), SiahStone (S10), Codwhy (S11), Plushy33 (S11), ADinoPlayingMC (S12), AvyleZ (S12), BreakfastBacon (S12), Cqson (S12), Kaddyn (S12), Lsnce (S12), StoneZey (S12)
 
@@ -410,7 +410,7 @@
 
 **S6 (11):** _british, Bofishkix, CipherKai, Dargxn, Evzenitable, Flowtives, Hqlfs, Karliffu, PresidentFleb, SuperJockey, violetwoah
 
-**S7 (15):** _Fost_, _Txchno_, ArcticSeagull, Aybel, broccoliar, Cubic44, egl_, GamingStarr, Glarza, Hendysaurus, ItsJustPanda, Laqqy, MrEzzo, PwincessVanessa, TayUHC
+**S7 (15):** _Fost_, _Txchno_, ArcticSeagull, Aybel, broccoliar, Cubic44, egl_, GamingStarr, Glarza, hendy53, ItsJustPanda, Laqqy, MrEzzo, PwincessVanessa, TayUHC
 
 **S8 (12):** _shi, AshleyMashley, Caydone, CHAINGE, DakotaB15, Dcrpy, DragonGlory, Klanke, Krbreb, MatthewDiamandis, Pelycosaur, Vetmire
 
@@ -418,7 +418,7 @@
 
 **S10 (9):** _Dieter, brinkwhy, Erdql, Fcrm, ImChile, Moonlitess, poWpaH, SiahStone, xDiversity
 
-**S11 (10):** brinniex, Bulbexe, Charlottie, Codwhy, coldified, Flcnt, kawaiibunri, MangoPlayz, Plushy33, TehBaconBrawlerZ
+**S11 (10):** brinniex, Bulbexe, Charlottie, Codwhy, coldified, evuhlynx, Flcnt, MangoPlayz, Plushy33, TehBaconBrawlerZ
 
 **S12 (7):** ADinoPlayingMC, AvyleZ, BreakfastBacon, Cqson, Kaddyn, Lsnce, StoneZey
 

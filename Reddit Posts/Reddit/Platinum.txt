@@ -135,7 +135,7 @@
 
 **6th - Kaddyn (9):** Bluests (S2), MercuryParadox (S2), acadiangel (S2), pigghetti (S2), 5kylord (S4), Westcraft00 (S4), ShootingGoats (S4), stupidsylvia (S4), TheRealHagrid (S4)
 
-**6th - wizarde (9):** SpaceFenix (S1), AirInAirOut (S2), Westcraft00 (S2), Espik (S3), acadiangel (S5), pigghetti (S5), TheRealHagrid (S5), ShootingGoats (S6), ohh_lia (S6)
+**6th - wizarde (9):** SpaceFenix (S1), AirInAirOut (S2), Westcraft00 (S2), Espik (S3), acadiangel (S5), pigghetti (S5), TheRealHagrid (S5), ShootingGoats (S6), puppygirlmaple (S6)
 
 **8th - cherryblawsom (7):** Gorgerous (S2), Greeples (S4), WinnerSkye (S5), Daltun (S5), AirInAirOut (S5), CodeJoshua (S5), brinkwhy (S5)
 
@@ -149,7 +149,7 @@
 
 **12th - Aybel (5):** Haroun_ (S3), CodeJoshua (S3), Dee957 (S3), IyaIsMad (S3), acadiangel (S3)
 
-**12th - TheRealHagrid (5):** cherryblawsom (S1), IceshardEleven (S1), 123SteveBob (S4), ohh_lia (S4), Kaimaxon (S5)
+**12th - TheRealHagrid (5):** cherryblawsom (S1), IceshardEleven (S1), 123SteveBob (S4), puppygirlmaple (S4), Kaimaxon (S5)
 
 **15th - CrowJRC (4):** GuyGojo (S6), allen_ (S6), ChainingVermin2 (S6), Boomblade60 (S6)
 
@@ -229,13 +229,13 @@
 
 **38th - Normoh (1):** Maxwellfifty (S6)
 
-**38th - ohh_lia (1):** pigghetti (S6)
-
 **38th - Potsie (1):** FortuneInfinity (S3)
 
 **38th - PresidentFleb (1):** ChainingVermin2 (S3)
 
 **38th - ProGirlGamer (1):** Applepie78 (S6)
+
+**38th - puppygirlmaple (1):** pigghetti (S6)
 
 **38th - Randehh (1):** SiahStone (S1)
 
@@ -279,7 +279,7 @@
 
 **3 Seasons (17):** Dj8ninja (S1-S2,S6), ethodog (S1,S3,S5), lexicuhl (S1-S2,S6), Randehh (S1,S3-S4), Rohcket (S1,S5-S6), SiahStone (S1-S2,S6), broccoliar (S2,S4,S6), ColdBac (S2,S5-S6), IyaIsMad (S2-S3,S5), Kaddyn (S2-S4), 5kylord (S3-S4,S6), MajorWoof (S3,S5-S6), 4EyedSlime (S4-S6), Applepie78 (S4-S6), GuyGojo (S4-S6), Kaimaxon (S4-S6), ShootingGoats (S4-S6)
 
-**2 Seasons (21):** AmbientDan (S1,S3), Bizzlebub (S1,S5), AHSOKATANOSTAN (S2,S6), Bluests (S2-S3), Haroun_ (S2-S3), lottebunny (S2,S6), Andronify (S3-S4), ArcticSeagull (S3,S6), Dee957 (S3,S6), jakeyx3 (S3,S5), PresidentFleb (S3,S5), TheSlimeBrother (S3,S5), 123SteveBob (S4-S5), Charrlottie (S4,S6), MCmattFTW (S4-S5), Normoh (S4,S6), ohh_lia (S4,S6), CAMKART100 (S5-S6), ItsGinger (S5-S6), Sharkbob94349 (S5-S6), TehBaconBrawlerZ (S5-S6)
+**2 Seasons (21):** AmbientDan (S1,S3), Bizzlebub (S1,S5), AHSOKATANOSTAN (S2,S6), Bluests (S2-S3), Haroun_ (S2-S3), lottebunny (S2,S6), Andronify (S3-S4), ArcticSeagull (S3,S6), Dee957 (S3,S6), jakeyx3 (S3,S5), PresidentFleb (S3,S5), TheSlimeBrother (S3,S5), 123SteveBob (S4-S5), Charrlottie (S4,S6), MCmattFTW (S4-S5), Normoh (S4,S6), puppygirlmaple (S4,S6), CAMKART100 (S5-S6), ItsGinger (S5-S6), Sharkbob94349 (S5-S6), TehBaconBrawlerZ (S5-S6)
 
 **1 Season (47):** DJblak (S1), Flouzemaker (S1), IceshardEleven (S1), illuminaja (S1), Psykl0ne (S1), chloesad (S2), DarkShard (S2), Aybel (S3), DrSliced (S3), FortuneInfinity (S3), PatrickTN_ (S3), Potsie (S3), ShyGus (S3), Tripps702 (S3), azoof (S5), BOOMBLADE (S5), brinkwhy (S5), CHAINGE (S5), chugmitchell (S5), Daltun (S5), Jayzize (S5), kirbey (S5), Ryfri (S5), tbhjosh (S5), WinnerSkye (S5), zoeywithawhy (S5), _Fost_ (S6), allen_ (S6), AsianCheatCode (S6), Austronomical (S6), Blackbelt244 (S6), Brodator (S6), Canman (S6), Caydone (S6), CrowJRC (S6), DogOfKrondor (S6), Iplayball (S6), ItzBeeZ (S6), Karliffu (S6), MaxEvasion (S6), nyaaia (S6), pierce981 (S6), ProGirlGamer (S6), Queequa (S6), TalonBX (S6), TonyEatWorld (S6), YellowVitt (S6)
 
@@ -292,7 +292,7 @@
 
 **S3 (15):** 5kylord, Andronify, ArcticSeagull, Aybel, Dee957, DrSliced, FortuneInfinity, jakeyx3, MajorWoof, PatrickTN_, Potsie, PresidentFleb, ShyGus, TheSlimeBrother, Tripps702
 
-**S4 (10):** 123SteveBob, 4EyedSlime, Applepie78, Charrlottie, GuyGojo, Kaimaxon, MCmattFTW, Normoh, ohh_lia, ShootingGoats
+**S4 (10):** 123SteveBob, 4EyedSlime, Applepie78, Charrlottie, GuyGojo, Kaimaxon, MCmattFTW, Normoh, puppygirlmaple, ShootingGoats
 
 **S5 (16):** azoof, BOOMBLADE, brinkwhy, CAMKART100, CHAINGE, chugmitchell, Daltun, ItsGinger, Jayzize, kirbey, Ryfri, Sharkbob94349, tbhjosh, TehBaconBrawlerZ, WinnerSkye, zoeywithawhy
 

@@ -22,7 +22,7 @@
 
 **S2:** DakotaB15 (6), DoggyGamingMC (0), Pelycosaur (3)
 
-**S3:** DakotaB15 (3), iEverything (0), OofItsMel (0) & DonfuerSoldier (2), DerpIsTooDerpy (4), ItsFlynn (0)
+**S3:** DakotaB15 (3), iEverything (0), ItsPhea (0) & DonfuerSoldier (2), DerpIsTooDerpy (4), ItsFlynn (0)
 
 **S4:** _Fost_ (0)
 
@@ -131,7 +131,7 @@
 
 **4th - Blarkslol (4):** HeyItsVincey (S4), ItsFlynn (S4), _Fost_ (S4), PwincessVanessa (S5)
 
-**4th - DerpIsTooDerpy (4):** DoggyGamingMC (S3), IAmRedXD (S3), OofItsMel (S3), DakotaB15 (S3)
+**4th - DerpIsTooDerpy (4):** DoggyGamingMC (S3), IAmRedXD (S3), ItsPhea (S3), DakotaB15 (S3)
 
 **6th - PwincessVanessa (3):** AshleyMashley (S6), SandyyChan (S6), ItsShqky (S6)
 
@@ -193,7 +193,7 @@
 
 **2 Seasons (10):** AdonisGaming (S1-S2), dilEmmaGames (S1-S2), LouisWhiteWolf (S1-S2), DoggyGamingMC (S2-S3), HeyItsVincey (S2,S4), ItsFlynn (S3-S4), Blarkslol (S4-S5), Erdql (S5-S6), ItsShqky (S5-S6), PwincessVanessa (S5-S6)
 
-**1 Season (35):** ArcadeCreeper (S1), CIR3N (S1), gehruld (S1), Mikamo (S1), PasqualaBear13 (S1), RocketChampion (S1), SoitsSara (S1), unseenshadow13 (S1), Aqua54 (S2), Basel_2003 (S2), BigMarioFan_YT (S2), CelestialReira (S2), iPaigeNicole (S2), Jorgeeay (S2), MuttBear (S2), somethingtruly (S2), TehBaconBrawlerZ (S2), DerpIsTooDerpy (S3), DonfuerSoldier (S3), IAmRedXD (S3), IceColdKills (S3), iEverything (S3), Lilliexx (S3), LovelyAngwl (S3), Lucbearexe (S3), Mousea (S3), OofItsMel (S3), SarBearExe (S3), _Fost_ (S4), HeyItsJBug (S4), kirbey (S4), AmarisCCrap (S5), egl_ (S5), MatthewDiamandis (S5), WishyNathan (S5)
+**1 Season (35):** ArcadeCreeper (S1), CIR3N (S1), gehruld (S1), Mikamo (S1), PasqualaBear13 (S1), RocketChampion (S1), SoitsSara (S1), unseenshadow13 (S1), Aqua54 (S2), Basel_2003 (S2), BigMarioFan_YT (S2), CelestialReira (S2), iPaigeNicole (S2), Jorgeeay (S2), MuttBear (S2), somethingtruly (S2), TehBaconBrawlerZ (S2), DerpIsTooDerpy (S3), DonfuerSoldier (S3), IAmRedXD (S3), IceColdKills (S3), iEverything (S3), ItsPhea (S3), Lilliexx (S3), LovelyAngwl (S3), Lucbearexe (S3), Mousea (S3), SarBearExe (S3), _Fost_ (S4), HeyItsJBug (S4), kirbey (S4), AmarisCCrap (S5), egl_ (S5), MatthewDiamandis (S5), WishyNathan (S5)
 
 ---
 ### Debutants
@@ -202,7 +202,7 @@
 
 **S2 (12):** Aqua54, AshleyMashley, Basel_2003, BigMarioFan_YT, CelestialReira, DoggyGamingMC, HeyItsVincey, iPaigeNicole, Jorgeeay, MuttBear, somethingtruly, TehBaconBrawlerZ
 
-**S3 (12):** DerpIsTooDerpy, DonfuerSoldier, IAmRedXD, IceColdKills, iEverything, ItsFlynn, Lilliexx, LovelyAngwl, Lucbearexe, Mousea, OofItsMel, SarBearExe
+**S3 (12):** DerpIsTooDerpy, DonfuerSoldier, IAmRedXD, IceColdKills, iEverything, ItsFlynn, ItsPhea, Lilliexx, LovelyAngwl, Lucbearexe, Mousea, SarBearExe
 
 **S4 (5):** _Fost_, Blarkslol, Bofishkix, HeyItsJBug, kirbey
 

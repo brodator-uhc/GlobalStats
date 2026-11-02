@@ -91,7 +91,7 @@
 ---
 ### Kills
 
-**1st - Purpdan (14):** KingOfAllDogz (S1), Ethab1 (S2), DiamondHunterDB2 (S2), tooooobin (S2), Zenyx (S2), obrier (S3), zfiascoz (S3), zachattack416 (S3), Aspire3630 (S3), iSluff (S3), TheKevGuy (S4), bjr201111 (S4), Walshy (S4), Egth (S4)
+**1st - Purpdan (14):** KingOfAllDogz (S1), Ethab1 (S2), DiamondHunterDB2 (S2), tooooobin (S2), Zenyx (S2), obrier (S3), zfiascoz (S3), zachattack416 (S3), Aspire3630 (S3), iSluff (S3), TheKevJawn (S4), bjr201111 (S4), Walshy (S4), Egth (S4)
 
 **2nd - DiamondHunterDB2 (8):** Ninjajaja (S1), Squibly_ (S1), zfiascoz (S1), iSluff (S1), Purpdan (S1), Egth (S2), path (S2), rockonhi5 (S2)
 
@@ -103,7 +103,7 @@
 
 **6th - _ICEMAN (4):** iSluff (S2), Romestamo (S3), rockonhi5 (S3), Jpgesus (S3)
 
-**6th - OblivionTU (4):** TheKevGuy (S3), Hannilala (S3), silh (S3), Purpdan (S4)
+**6th - OblivionTU (4):** TheKevJawn (S3), Hannilala (S3), silh (S3), Purpdan (S4)
 
 **6th - Squibly_ (4):** Aspire3630 (S1), Oboh (S1), BryceASF (S1), xJesterrr (S2)
 
@@ -129,7 +129,7 @@
 
 **13th - ShyGus (2):** madmerrick (S3), Megahero (S3)
 
-**13th - TheKevGuy (2):** tuxpeng (S3), Kidfo (S4)
+**13th - TheKevJawn (2):** tuxpeng (S3), Kidfo (S4)
 
 **21st - 1eeg (1):** Zenyx (S4)
 
@@ -175,7 +175,7 @@
 
 **3 Seasons (9):** Aspire3630 (S1-S3), Jpgesus (S1,S3-S4), Ninjajaja (S1-S3), Egth (S2-S4), Megahero (S2-S4), silh (S2-S4), sleepingxd (S2-S4), Vozae (S2-S4), xJesterrr (S2-S4)
 
-**2 Seasons (19):** 1eeg (S1,S4), DiamondHunterDB2 (S1-S2), Oboh (S1,S3), Squibly_ (S1-S2), zSillen (S1,S4), _ICEMAN (S2-S3), c1n (S2,S4), obrier (S2-S3), path (S2-S3), Rofling (S2-S3), Zenyx (S2,S4), Kidfo (S3-S4), OblivionTU (S3-S4), Romestamo (S3-S4), ShyGus (S3-S4), TheKevGuy (S3-S4), tuxpeng (S3-S4), Walshy (S3-S4), zachattack416 (S3-S4)
+**2 Seasons (19):** 1eeg (S1,S4), DiamondHunterDB2 (S1-S2), Oboh (S1,S3), Squibly_ (S1-S2), zSillen (S1,S4), _ICEMAN (S2-S3), c1n (S2,S4), obrier (S2-S3), path (S2-S3), Rofling (S2-S3), Zenyx (S2,S4), Kidfo (S3-S4), OblivionTU (S3-S4), Romestamo (S3-S4), ShyGus (S3-S4), TheKevJawn (S3-S4), tuxpeng (S3-S4), Walshy (S3-S4), zachattack416 (S3-S4)
 
 **1 Season (20):** BryceASF (S1), flyingninjas (S1), KingOfAllDogz (S1), Livenator (S1), MINETWON (S1), sugarl0af (S1), troyroxursox (S1), DomoDomo (S2), Ethab1 (S2), tooooobin (S2), CapsOviTheGreat (S3), Hannilala (S3), madmerrick (S3), MoneyMonkey (S3), TheFuglyDuckling (S3), Haama_ (S4), Joeylinks (S4), sirples (S4), Trevstacks (S4), WackoFlipper (S4)
 
@@ -186,7 +186,7 @@
 
 **S2 (15):** _ICEMAN, c1n, DomoDomo, Egth, Ethab1, Megahero, obrier, path, Rofling, silh, sleepingxd, tooooobin, Vozae, xJesterrr, Zenyx
 
-**S3 (13):** CapsOviTheGreat, Hannilala, Kidfo, madmerrick, MoneyMonkey, OblivionTU, Romestamo, ShyGus, TheFuglyDuckling, TheKevGuy, tuxpeng, Walshy, zachattack416
+**S3 (13):** CapsOviTheGreat, Hannilala, Kidfo, madmerrick, MoneyMonkey, OblivionTU, Romestamo, ShyGus, TheFuglyDuckling, TheKevJawn, tuxpeng, Walshy, zachattack416
 
 **S4 (5):** Haama_, Joeylinks, sirples, Trevstacks, WackoFlipper
 

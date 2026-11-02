@@ -213,6 +213,12 @@
 
 **S105: ShootingGoats (4)**, *CAMKART100 (0)*
 
+**S106: CAMKART100 (3)**, *RatGirlGwen (0)*
+
+**S107: cherryblawsom (3)**, *SakanaKaizen (0)*
+
+**S108: CAMKART100 (0), cherryblawsom (0), ShootingGoats (0)**, *Compieuter (0)*
+
 ---
 ### Runner Ups
 
@@ -425,6 +431,12 @@
 **S104:** cherryblawsom (1), Guardaxion (0), ShootingGoats (0)
 
 **S105:** JDwb (0), jloose128 (0)
+
+**S106:** Brodator (4), Compieuter (1)
+
+**S107:** JDwb (1), jloose128 (0)
+
+**S108:** Brodator (0), FellUmbra (0), Guardaxion (0), Implode (0), JDwb (0), jloose128 (0), SakanaKaizen (0), Soccermvp13 (0)
 
 ---
 ### Most Kills
@@ -639,6 +651,10 @@
 
 **S105:** ShootingGoats (4)
 
+**S106:** Brodator (4)
+
+**S107:** cherryblawsom (3)
+
 ---
 ### Most Kills (Team)
 
@@ -851,6 +867,12 @@
 **S104:** bucksnort2 (0), FellUmbra (0), jloose128 (2) & Brodator (2), JDwb (0), SakanaKaizen (0)
 
 **S105:** CAMKART100 (0), ShootingGoats (4)
+
+**S106:** Brodator (4), Compieuter (1)
+
+**S107:** cherryblawsom (3), SakanaKaizen (0)
+
+**S108:** FellUmbra (0), JDwb (0), jloose128 (0), Soccermvp13 (0) & CAMKART100 (0), cherryblawsom (0), Compieuter (0), ShootingGoats (0) & Brodator (0), Guardaxion (0), Implode (0), SakanaKaizen (0)
 
 ---
 ### First Damage
@@ -1065,6 +1087,12 @@
 
 **S105:** rippersteveM5
 
+**S106:** Guardaxion
+
+**S107:** cherryblawsom
+
+**S108:** Soccermvp13
+
 ---
 ### Ironman
 
@@ -1277,6 +1305,12 @@
 **S104:** JDwb
 
 **S105:** Compieuter
+
+**S106:** RatGirlGwen
+
+**S107:** Guardaxion
+
+**S108:** JDwb
 
 ---
 ### First Blood
@@ -1491,6 +1525,10 @@
 
 **S105:** cherryblawsom (JDwb)
 
+**S106:** ShootingGoats (JDwb)
+
+**S107:** ShootingGoats (FellUmbra)
+
 ---
 ### First Death
 
@@ -1704,10 +1742,16 @@
 
 **S105:** bucksnort2 (Zombie)
 
+**S106:** bucksnort2 (Creeper)
+
+**S107:** SakanaKaizen (Bogged)
+
+**S108:** Compieuter (Lava)
+
 ---
 ### Kills
 
-**1st - FellUmbra (57):** Nola_1986 (S50), Guardaxion (S50), Implode (S52), Blackbelt244 (S55), Compieuter (S55), Blackbelt244 (S57), Compieuter (S58), Soccermvp13 (S58), jloose128 (S58), beandird97 (S59), bucksnort2 (S60), SirChi (S60), SirChi (S61), Compieuter (S61), Bekerson (S65), beandird97 (S65), Soccermvp13 (S65), Bekerson (S69), JDwb (S69), Labtec901 (S70), Soccermvp13 (S70), RatGirlGwen (S70), jloose128 (S71), Blackbelt244 (S71), Bekerson (S76), Blackbelt244 (S76), jloose128 (S76), JDwb (S76), Soccermvp13 (S76), jloose128 (S78), Blackbelt244 (S78), Soccermvp13 (S78), Blackbelt244 (S79), JDwb (S79), Compieuter (S80), jloose128 (S80), Compieuter (S85), QuilJ1 (S86), Guardaxion (S86), Compieuter (S86), Bekerson (S88), ShootingGoats (S89), Compieuter (S89), QuilJ1 (S90), bucksnort2 (S90), Brighteyes890 (S90), Guardaxion (S90), Blackbelt244 (S92), JDwb (S92), Compieuter (S93), Guardaxion (S94), SakanaKaizen (S94), JDwb (S96), JDwb (S97), bucksnort2 (S97), Compieuter (S97), cherryblawsom (S102)
+**1st - FellUmbra (58):** Nola_1986 (S50), Guardaxion (S50), Implode (S52), Blackbelt244 (S55), Compieuter (S55), Blackbelt244 (S57), Compieuter (S58), Soccermvp13 (S58), jloose128 (S58), beandird97 (S59), bucksnort2 (S60), SirChi (S60), SirChi (S61), Compieuter (S61), Bekerson (S65), beandird97 (S65), Soccermvp13 (S65), Bekerson (S69), JDwb (S69), Labtec901 (S70), Soccermvp13 (S70), RatGirlGwen (S70), jloose128 (S71), Blackbelt244 (S71), Bekerson (S76), Blackbelt244 (S76), jloose128 (S76), JDwb (S76), Soccermvp13 (S76), jloose128 (S78), Blackbelt244 (S78), Soccermvp13 (S78), Blackbelt244 (S79), JDwb (S79), Compieuter (S80), jloose128 (S80), Compieuter (S85), QuilJ1 (S86), Guardaxion (S86), Compieuter (S86), Bekerson (S88), ShootingGoats (S89), Compieuter (S89), QuilJ1 (S90), bucksnort2 (S90), Brighteyes890 (S90), Guardaxion (S90), Blackbelt244 (S92), JDwb (S92), Compieuter (S93), Guardaxion (S94), SakanaKaizen (S94), JDwb (S96), JDwb (S97), bucksnort2 (S97), Compieuter (S97), cherryblawsom (S102), Compieuter (S106)
 
 **2nd - Soccermvp13 (54):** emilythecool (S6), Carrots4U (S8), whitebear240 (S9), Bekerson (S11), RatGirlGwen (S23), gamebuster12 (S29), SirChi (S29), AngelicWraith (S29), hungryninja18 (S31), Guardaxion (S31), Nola_1986 (S34), gamebuster12 (S34), ChaosKittyXJ9 (S36), lcePops (S36), Guardaxion (S37), sinubux (S37), Guardaxion (S38), jloose128 (S38), Skypost4ever (S38), Nola_1986 (S38), RatGirlGwen (S38), SirChi (S38), SirChi (S39), jloose128 (S39), Nola_1986 (S39), jloose128 (S40), Guardaxion (S43), SirChi (S43), jloose128 (S43), emilythecool (S47), Compieuter (S49), Guardaxion (S54), jloose128 (S54), Labtec901 (S58), Blackbelt244 (S58), Guardaxion (S58), RatGirlGwen (S58), FellUmbra (S64), Labtec901 (S67), FellUmbra (S72), Bekerson (S73), Guardaxion (S73), bucksnort2 (S73), jloose128 (S73), SakanaKaizen (S74), Compieuter (S74), JDwb (S77), Bekerson (S77), FellUmbra (S77), Blackbelt244 (S77), SakanaKaizen (S78), JDwb (S78), Compieuter (S78), Carrots4U (S78)
 
@@ -1717,37 +1761,37 @@
 
 **5th - jloose128 (43):** Soccermvp13 (S22), Soccermvp13 (S28), gamebuster12 (S31), emilythecool (S31), Ally_Cakes (S31), ctess_seph (S31), Soccermvp13 (S31), beandird97 (S33), Bekerson (S34), RatGirlGwen (S34), lcePops (S45), Nola_1986 (S47), RatGirlGwen (S47), FluffPandas (S47), Soccermvp13 (S47), Blackbelt244 (S49), Nola_1986 (S49), Guardaxion (S49), C413B7 (S50), Soccermvp13 (S51), Nola_1986 (S51), Compieuter (S51), Brighteyes890 (S53), C413B7 (S53), Bekerson (S54), Guardaxion (S55), Soccermvp13 (S55), lcePops (S58), Guardaxion (S60), RatGirlGwen (S60), Nola_1986 (S60), CheeseLiker (S63), Blackbelt244 (S64), Guardaxion (S65), Compieuter (S65), MacheteMcGoo (S68), FellUmbra (S74), TommySuX (S83), QuilJ1 (S94), Guardaxion (S101), SakanaKaizen (S103), JDwb (S104), Guardaxion (S104)
 
-**6th - Compieuter (39):** SirChi (S33), Nola_1986 (S35), Skypost4ever (S41), Bekerson (S41), Soccermvp13 (S41), RatGirlGwen (S42), SirChi (S42), Guardaxion (S42), Nola_1986 (S42), Brighteyes890 (S42), jloose128 (S48), lcePops (S49), bucksnort2 (S51), C413B7 (S57), jloose128 (S57), RatGirlGwen (S57), jloose128 (S61), Bekerson (S62), Brighteyes890 (S62), Blackbelt244 (S63), Soccermvp13 (S64), jloose128 (S64), Labtec901 (S65), FellUmbra (S65), SakanaKaizen (S71), Soccermvp13 (S71), Guardaxion (S71), Soccermvp13 (S75), jloose128 (S77), Implode (S83), SakanaKaizen (S88), ShootingGoats (S88), Guardaxion (S89), Bekerson (S90), jloose128 (S97), SiahStone (S97), SakanaKaizen (S99), ShootingGoats (S99), FellUmbra (S103)
+**6th - Compieuter (40):** SirChi (S33), Nola_1986 (S35), Skypost4ever (S41), Bekerson (S41), Soccermvp13 (S41), RatGirlGwen (S42), SirChi (S42), Guardaxion (S42), Nola_1986 (S42), Brighteyes890 (S42), jloose128 (S48), lcePops (S49), bucksnort2 (S51), C413B7 (S57), jloose128 (S57), RatGirlGwen (S57), jloose128 (S61), Bekerson (S62), Brighteyes890 (S62), Blackbelt244 (S63), Soccermvp13 (S64), jloose128 (S64), Labtec901 (S65), FellUmbra (S65), SakanaKaizen (S71), Soccermvp13 (S71), Guardaxion (S71), Soccermvp13 (S75), jloose128 (S77), Implode (S83), SakanaKaizen (S88), ShootingGoats (S88), Guardaxion (S89), Bekerson (S90), jloose128 (S97), SiahStone (S97), SakanaKaizen (S99), ShootingGoats (S99), FellUmbra (S103), SakanaKaizen (S106)
 
 **7th - Carrots4U (28):** Guardaxion (S7), Skypost4ever (S8), Guardaxion (S11), Soccermvp13 (S11), whitebear240 (S11), Skypost4ever (S12), RatGirlGwen (S12), Guardaxion (S23), Bekerson (S23), SirChi (S23), Nola_1986 (S24), Guardaxion (S29), Soccermvp13 (S30), hungryninja18 (S32), AngelicWraith (S32), Compieuter (S33), pg805 (S33), Bekerson (S33), Soccermvp13 (S33), Brighteyes890 (S33), Guardaxion (S33), Brighteyes890 (S34), AngelicWraith (S34), Guardaxion (S35), Guardaxion (S36), Compieuter (S53), Bekerson (S53), Bekerson (S70)
 
-**8th - Guardaxion (27):** whitebear240 (S3), pg805 (S3), RatGirlGwen (S3), GrimsReaperLP (S3), pg805 (S6), RatGirlGwen (S7), AngelicWraith (S21), Bekerson (S28), emilythecool (S28), AngelicWraith (S28), SirChi (S28), Labtec901 (S29), jloose128 (S29), Bekerson (S31), Carrots4U (S34), RatGirlGwen (S37), Bekerson (S49), gamebuster12 (S49), Brighteyes890 (S49), Compieuter (S52), Labtec901 (S52), Brighteyes890 (S54), jloose128 (S84), Bekerson (S95), fruitlogic (S100), KillerBanana987 (S100), Blackbelt244 (S100)
+**7th - Guardaxion (28):** whitebear240 (S3), pg805 (S3), RatGirlGwen (S3), GrimsReaperLP (S3), pg805 (S6), RatGirlGwen (S7), AngelicWraith (S21), Bekerson (S28), emilythecool (S28), AngelicWraith (S28), SirChi (S28), Labtec901 (S29), jloose128 (S29), Bekerson (S31), Carrots4U (S34), RatGirlGwen (S37), Bekerson (S49), gamebuster12 (S49), Brighteyes890 (S49), Compieuter (S52), Labtec901 (S52), Brighteyes890 (S54), jloose128 (S84), Bekerson (S95), fruitlogic (S100), KillerBanana987 (S100), Blackbelt244 (S100), ShootingGoats (S107)
 
 **9th - hungryninja18 (25):** Soccermvp13 (S12), beandird97 (S12), ChipperCraft (S12), jloose128 (S23), pg805 (S24), Carrots4U (S24), TheZephyrStorm (S24), SirChi (S24), sinubux (S25), CheeseLiker (S25), emilythecool (S27), Carrots4U (S28), ageofdunedeath (S28), RatGirlGwen (S28), Nola_1986 (S28), KillerBanana987 (S28), Carrots4U (S30), Ally_Cakes (S30), RatGirlGwen (S30), gamebuster12 (S30), Brighteyes890 (S32), SirChi (S32), jloose128 (S32), beandird97 (S32), Skypost4ever (S52)
 
-**10th - Brighteyes890 (22):** Bekerson (S1), Carrots4U (S1), jloose128 (S33), Compieuter (S34), RatGirlGwen (S35), jloose128 (S35), Bekerson (S35), Compieuter (S35), MacheteMcGoo (S40), TheZephyrStorm (S42), Bekerson (S43), Soccermvp13 (S48), Guardaxion (S48), emilythecool (S49), SirChi (S49), AngelicWraith (S49), Soccermvp13 (S49), lcePops (S50), Labtec901 (S51), Guardaxion (S51), SirChi (S53), Labtec901 (S53)
+**10th - ShootingGoats (24):** Bekerson (S87), jloose128 (S87), Compieuter (S87), Blackbelt244 (S87), Guardaxion (S88), jloose128 (S88), FellUmbra (S88), jloose128 (S89), JDwb (S95), SakanaKaizen (S95), Compieuter (S95), rippersteveM5 (S95), jloose128 (S95), jloose128 (S96), Compieuter (S98), JDwb (S98), Brodator (S103), FellUmbra (S105), Bekerson (S105), fruitlogic (S105), jloose128 (S105), JDwb (S106), Guardaxion (S106), FellUmbra (S107)
 
-**11th - ShootingGoats (21):** Bekerson (S87), jloose128 (S87), Compieuter (S87), Blackbelt244 (S87), Guardaxion (S88), jloose128 (S88), FellUmbra (S88), jloose128 (S89), JDwb (S95), SakanaKaizen (S95), Compieuter (S95), rippersteveM5 (S95), jloose128 (S95), jloose128 (S96), Compieuter (S98), JDwb (S98), Brodator (S103), FellUmbra (S105), Bekerson (S105), fruitlogic (S105), jloose128 (S105)
+**11th - Brighteyes890 (22):** Bekerson (S1), Carrots4U (S1), jloose128 (S33), Compieuter (S34), RatGirlGwen (S35), jloose128 (S35), Bekerson (S35), Compieuter (S35), MacheteMcGoo (S40), TheZephyrStorm (S42), Bekerson (S43), Soccermvp13 (S48), Guardaxion (S48), emilythecool (S49), SirChi (S49), AngelicWraith (S49), Soccermvp13 (S49), lcePops (S50), Labtec901 (S51), Guardaxion (S51), SirChi (S53), Labtec901 (S53)
 
 **12th - beandird97 (20):** Bekerson (S2), TenkenNoSoujiro (S2), PsiMasterPsi (S2), ChipperCraft (S3), emilythecool (S5), whitebear240 (S5), Soccermvp13 (S9), Bekerson (S10), Guardaxion (S17), RatGirlGwen (S17), AngelicWraith (S18), KillerBanana987 (S19), sinubux (S19), CaptainObnoxious (S20), RatGirlGwen (S27), Skypost4ever (S31), Nola_1986 (S32), Guardaxion (S91), jloose128 (S91), Compieuter (S99)
 
 **13th - SirChi (19):** CaptainObnoxious (S19), Skypost4ever (S26), gamebuster12 (S27), Soccermvp13 (S35), RatGirlGwen (S36), RatGirlGwen (S41), Compieuter (S41), jloose128 (S41), pg805 (S44), Carrots4U (S44), Compieuter (S47), Brighteyes890 (S47), Bekerson (S50), Soccermvp13 (S54), Compieuter (S57), Blackbelt244 (S60), Skypost4ever (S70), CheeseLiker (S70), SakanaKaizen (S70)
 
+**14th - Brodator (17):** Bekerson (S100), QuilJ1 (S100), AngelicWraith (S100), beandird97 (S100), bucksnort2 (S101), ShootingGoats (S101), jloose128 (S102), JDwb (S103), jloose128 (S103), bucksnort2 (S103), cherryblawsom (S104), FellUmbra (S104), ShootingGoats (S106), FellUmbra (S106), Blackbelt244 (S106), RatGirlGwen (S106), Queequa (S107)
+
+**14th - JDwb (17):** Bekerson (S72), Blackbelt244 (S72), SakanaKaizen (S72), jloose128 (S72), Soccermvp13 (S72), bucksnort2 (S80), jloose128 (S82), Guardaxion (S84), SakanaKaizen (S84), SakanaKaizen (S86), jloose128 (S86), beandird97 (S92), SakanaKaizen (S92), RatGirlGwen (S92), jloose128 (S94), Brodator (S101), Guardaxion (S107)
+
 **14th - RatGirlGwen (17):** CaptainObnoxious (S6), Soccermvp13 (S10), Soccermvp13 (S14), KillerBanana987 (S20), SirChi (S20), Sharkvyle (S25), Bekerson (S26), Guardaxion (S26), Bekerson (S29), KillerBanana987 (S30), AngelicWraith (S30), Skypost4ever (S30), jloose128 (S36), Carrots4U (S36), Brighteyes890 (S41), Nola_1986 (S41), FellUmbra (S68)
 
 **14th - Skypost4ever (17):** PsiMasterPsi (S3), whitebear240 (S14), pg805 (S21), Guardaxion (S24), Soccermvp13 (S24), hungryninja18 (S24), Ally_Cakes (S26), Guardaxion (S27), Implode (S30), Guardaxion (S30), Labtec901 (S37), pg805 (S40), Soccermvp13 (S40), Guardaxion (S41), Labtec901 (S50), RatGirlGwen (S50), JDwb (S71)
 
-**16th - JDwb (16):** Bekerson (S72), Blackbelt244 (S72), SakanaKaizen (S72), jloose128 (S72), Soccermvp13 (S72), bucksnort2 (S80), jloose128 (S82), Guardaxion (S84), SakanaKaizen (S84), SakanaKaizen (S86), jloose128 (S86), beandird97 (S92), SakanaKaizen (S92), RatGirlGwen (S92), jloose128 (S94), Brodator (S101)
+**18th - KillerBanana987 (16):** joshrpg (S18), Bekerson (S20), beandird97 (S20), Guardaxion (S20), SirChi (S21), Implode (S21), CheeseLiker (S21), RatGirlGwen (S26), jloose128 (S26), SirChi (S26), Soccermvp13 (S26), pg805 (S26), SirChi (S30), AngelicWraith (S31), beandird97 (S31), bucksnort2 (S31)
 
-**16th - KillerBanana987 (16):** joshrpg (S18), Bekerson (S20), beandird97 (S20), Guardaxion (S20), SirChi (S21), Implode (S21), CheeseLiker (S21), RatGirlGwen (S26), jloose128 (S26), SirChi (S26), Soccermvp13 (S26), pg805 (S26), SirChi (S30), AngelicWraith (S31), beandird97 (S31), bucksnort2 (S31)
+**19th - cherryblawsom (15):** Compieuter (S100), ShootingGoats (S100), Guardaxion (S100), Bekerson (S101), Compieuter (S101), jloose128 (S101), JDwb (S101), beandird97 (S101), ShootingGoats (S102), Compieuter (S102), CAMKART100 (S104), JDwb (S105), Brodator (S107), JDwb (S107), jloose128 (S107)
 
-**18th - Labtec901 (15):** Soccermvp13 (S37), Compieuter (S45), FluffPandas (S45), bucksnort2 (S45), FluffPandas (S46), jloose128 (S46), SirChi (S48), Brighteyes890 (S52), SirChi (S52), C413B7 (S56), jloose128 (S56), Blackbelt244 (S56), Bekerson (S57), Bekerson (S59), SirChi (S59)
+**19th - Labtec901 (15):** Soccermvp13 (S37), Compieuter (S45), FluffPandas (S45), bucksnort2 (S45), FluffPandas (S46), jloose128 (S46), SirChi (S48), Brighteyes890 (S52), SirChi (S52), C413B7 (S56), jloose128 (S56), Blackbelt244 (S56), Bekerson (S57), Bekerson (S59), SirChi (S59)
 
-**19th - AngelicWraith (12):** emilythecool (S21), gamebuster12 (S28), pg805 (S28), emilythecool (S32), Soccermvp13 (S32), gamebuster12 (S39), Nola_1986 (S46), SirChi (S46), Compieuter (S46), Compieuter (S50), jloose128 (S50), SirChi (S50)
-
-**19th - Brodator (12):** Bekerson (S100), QuilJ1 (S100), AngelicWraith (S100), beandird97 (S100), bucksnort2 (S101), ShootingGoats (S101), jloose128 (S102), JDwb (S103), jloose128 (S103), bucksnort2 (S103), cherryblawsom (S104), FellUmbra (S104)
-
-**19th - cherryblawsom (12):** Compieuter (S100), ShootingGoats (S100), Guardaxion (S100), Bekerson (S101), Compieuter (S101), jloose128 (S101), JDwb (S101), beandird97 (S101), ShootingGoats (S102), Compieuter (S102), CAMKART100 (S104), JDwb (S105)
+**21st - AngelicWraith (12):** emilythecool (S21), gamebuster12 (S28), pg805 (S28), emilythecool (S32), Soccermvp13 (S32), gamebuster12 (S39), Nola_1986 (S46), SirChi (S46), Compieuter (S46), Compieuter (S50), jloose128 (S50), SirChi (S50)
 
 **22nd - pg805 (10):** CheeseLiker (S4), Bekerson (S4), beandird97 (S4), jloose128 (S24), gamebuster12 (S33), Compieuter (S40), Labtec901 (S44), lcePops (S44), RatGirlGwen (S44), Bekerson (S44)
 
@@ -1767,32 +1811,34 @@
 
 **29th - whitebear240 (4):** CheeseLiker (S8), hungryninja18 (S14), Bekerson (S14), Skypost4ever (S16)
 
+**31st - CAMKART100 (3):** jloose128 (S106), cherryblawsom (S106), Brodator (S106)
+
 **31st - Nola_1986 (3):** Soccermvp13 (S42), Implode (S44), Brighteyes890 (S50)
 
 **31st - sinubux (3):** Soccermvp13 (S16), SirChi (S19), beandird97 (S37)
 
-**33rd - Ally_Cakes (2):** hungryninja18 (S26), AngelicWraith (S26)
+**34th - Ally_Cakes (2):** hungryninja18 (S26), AngelicWraith (S26)
 
-**33rd - emilythecool (2):** RatGirlGwen (S13), Nola_1986 (S20)
+**34th - emilythecool (2):** RatGirlGwen (S13), Nola_1986 (S20)
 
-**33rd - SiahStone (2):** Bekerson (S92), Soccermvp13 (S97)
+**34th - SiahStone (2):** Bekerson (S92), Soccermvp13 (S97)
 
-**33rd - TenkenNoSoujiro (2):** deathray6002 (S1), gee_no (S1)
+**34th - TenkenNoSoujiro (2):** deathray6002 (S1), gee_no (S1)
 
-**37th - ageofdunedeath (1):** SirChi (S25)
+**38th - ageofdunedeath (1):** SirChi (S25)
 
-**37th - C413B7 (1):** SirChi (S58)
+**38th - C413B7 (1):** SirChi (S58)
 
-**37th - ChipperCraft (1):** Bekerson (S12)
+**38th - ChipperCraft (1):** Bekerson (S12)
 
-**37th - GrimsReaperLP (1):** emilythecool (S3)
+**38th - GrimsReaperLP (1):** emilythecool (S3)
 
-**37th - Implode (1):** Soccermvp13 (S21)
+**38th - Implode (1):** Soccermvp13 (S21)
 
 ---
 ### PvE Deaths
 
-**Creeper (48):** ChipperCraft (S1), beandird97 (S8), Soccermvp13 (S13), whitebear240 (S15), joshrpg (S17), Guardaxion (S19), pg805 (S19), Nola_1986 (S22), Skypost4ever (S25), Guardaxion (S25), pg805 (S25), Nola_1986 (S30), artessa (S34), lcePops (S35), Skypost4ever (S39), Guardaxion (S40), Brighteyes890 (S40), AngelicWraith (S42), gamebuster12 (S42), Compieuter (S43), SirChi (S45), Soccermvp13 (S46), Guardaxion (S47), Labtec901 (S47), Nola_1986 (S48), Nola_1986 (S53), Soccermvp13 (S53), RatGirlGwen (S55), beandird97 (S58), SirChi (S62), jloose128 (S67), Bekerson (S71), Guardaxion (S75), SakanaKaizen (S77), SakanaKaizen (S79), Guardaxion (S80), Soccermvp13 (S81), Compieuter (S81), ShootingGoats (S85), JDwb (S89), Compieuter (S91), Bekerson (S91), Guardaxion (S92), jloose128 (S93), Guardaxion (S96), SakanaKaizen (S97), JDwb (S99), Bekerson (S102)
+**Creeper (50):** ChipperCraft (S1), beandird97 (S8), Soccermvp13 (S13), whitebear240 (S15), joshrpg (S17), Guardaxion (S19), pg805 (S19), Nola_1986 (S22), Skypost4ever (S25), Guardaxion (S25), pg805 (S25), Nola_1986 (S30), artessa (S34), lcePops (S35), Skypost4ever (S39), Guardaxion (S40), Brighteyes890 (S40), AngelicWraith (S42), gamebuster12 (S42), Compieuter (S43), SirChi (S45), Soccermvp13 (S46), Guardaxion (S47), Labtec901 (S47), Nola_1986 (S48), Nola_1986 (S53), Soccermvp13 (S53), RatGirlGwen (S55), beandird97 (S58), SirChi (S62), jloose128 (S67), Bekerson (S71), Guardaxion (S75), SakanaKaizen (S77), SakanaKaizen (S79), Guardaxion (S80), Soccermvp13 (S81), Compieuter (S81), ShootingGoats (S85), JDwb (S89), Compieuter (S91), Bekerson (S91), Guardaxion (S92), jloose128 (S93), Guardaxion (S96), SakanaKaizen (S97), JDwb (S99), Bekerson (S102), bucksnort2 (S106), fruitlogic (S106)
 
 **Skeleton (48):** pg805 (S1), ChipperCraft (S2), e1337geek (S2), Carrots4U (S2), Skypost4ever (S5), Carrots4U (S5), Soccermvp13 (S6), Guardaxion (S11), Pegunicent2 (S15), hungryninja18 (S15), Bekerson (S18), ChipperCraft (S19), emilythecool (S22), emilythecool (S25), AngelicWraith (S25), emilythecool (S29), emilythecool (S30), jloose128 (S30), Ally_Cakes (S32), pg805 (S34), ChaosKittyXJ9 (S35), AngelicWraith (S40), beandird97 (S42), Soccermvp13 (S57), Nola_1986 (S59), Nola_1986 (S61), Compieuter (S72), Compieuter (S79), Bekerson (S80), SakanaKaizen (S82), Guardaxion (S82), SakanaKaizen (S83), ShootingGoats (S83), Soccermvp13 (S83), Brighteyes890 (S83), Bekerson (S85), ShootingGoats (S91), FellUmbra (S91), RatGirlGwen (S93), Compieuter (S94), SakanaKaizen (S96), Compieuter (S96), FellUmbra (S96), Bekerson (S97), SakanaKaizen (S100), CAMKART100 (S103), Guardaxion (S103), bucksnort2 (S104)
 
@@ -1808,7 +1854,7 @@
 
 **Suffocation (14):** Brighteyes890 (S1), Guardaxion (S1), pg805 (S11), SirChi (S22), AngelicWraith (S27), beandird97 (S27), Carrots4U (S31), Soccermvp13 (S36), lcePops (S47), Soccermvp13 (S50), Blackbelt244 (S50), Compieuter (S60), ShootingGoats (S97), SakanaKaizen (S102)
 
-**Lava (11):** beandird97 (S6), AngelicWraith (S10), gamebuster12 (S26), Compieuter (S38), Brighteyes890 (S51), Brighteyes890 (S58), FellUmbra (S59), Bekerson (S64), Bekerson (S67), Bekerson (S74), ShootingGoats (S93)
+**Lava (12):** beandird97 (S6), AngelicWraith (S10), gamebuster12 (S26), Compieuter (S38), Brighteyes890 (S51), Brighteyes890 (S58), FellUmbra (S59), Bekerson (S64), Bekerson (S67), Bekerson (S74), ShootingGoats (S93), Compieuter (S108)
 
 **Wither Skeleton (9):** Bekerson (S17), Pegunicent2 (S18), SirChi (S35), FellUmbra (S56), Soccermvp13 (S62), Implode (S62), Guardaxion (S70), Guardaxion (S93), Compieuter (S104)
 
@@ -1830,6 +1876,8 @@
 
 **Piglin (2):** Bekerson (S37), beandird97 (S93)
 
+**Piglin Brute (2):** Bekerson (S58), CAMKART100 (S107)
+
 **Spider (2):** Nola_1986 (S27), Guardaxion (S56)
 
 **Zombie Villager (2):** Skypost4ever (S23), Nola_1986 (S54)
@@ -1838,18 +1886,24 @@
 
 **Bee (1):** FluffPandas (S44)
 
+**Bogged (1):** SakanaKaizen (S107)
+
 **Explosion (1):** Carrots4U (S11)
 
 **Husk (1):** bucksnort2 (S40)
 
 **Left (1):** Brighteyes890 (S56)
 
-**Piglin Brute (1):** Bekerson (S58)
-
 **Zombified Piglin (1):** Carrots4U (S14)
 
 ---
 ### Participation
+
+**108 Seasons (0):** 
+
+**107 Seasons (0):** 
+
+**106 Seasons (0):** 
 
 **105 Seasons (0):** 
 
@@ -1873,13 +1927,13 @@
 
 **95 Seasons (0):** 
 
-**94 Seasons (0):** 
+**94 Seasons (1):** Guardaxion (S1,S3-S7,S11,S13,S16-S38,S40-S45,S47-S52,S54-S60,S62-S78,S80,S82-S84,S86-S108)
 
 **93 Seasons (0):** 
 
 **92 Seasons (0):** 
 
-**91 Seasons (1):** Guardaxion (S1,S3-S7,S11,S13,S16-S38,S40-S45,S47-S52,S54-S60,S62-S78,S80,S82-S84,S86-S105)
+**91 Seasons (0):** 
 
 **90 Seasons (0):** 
 
@@ -1887,13 +1941,13 @@
 
 **88 Seasons (0):** 
 
-**87 Seasons (0):** 
+**87 Seasons (1):** jloose128 (S22-S108)
 
 **86 Seasons (0):** 
 
 **85 Seasons (0):** 
 
-**84 Seasons (1):** jloose128 (S22-S105)
+**84 Seasons (0):** 
 
 **83 Seasons (0):** 
 
@@ -1907,9 +1961,9 @@
 
 **78 Seasons (0):** 
 
-**77 Seasons (0):** 
+**77 Seasons (1):** Soccermvp13 (S1-S3,S5-S18,S20-S26,S28-S58,S61-S62,S64-S68,S70-S78,S80-S83,S97,S108)
 
-**76 Seasons (1):** Soccermvp13 (S1-S3,S5-S18,S20-S26,S28-S58,S61-S62,S64-S68,S70-S78,S80-S83,S97)
+**76 Seasons (0):** 
 
 **75 Seasons (0):** 
 
@@ -1923,11 +1977,11 @@
 
 **70 Seasons (0):** 
 
-**69 Seasons (0):** 
+**69 Seasons (1):** Compieuter (S33-S35,S37-S38,S40-S72,S74-S81,S83,S85-S91,S93-S106,S108)
 
 **68 Seasons (0):** 
 
-**67 Seasons (1):** Compieuter (S33-S35,S37-S38,S40-S72,S74-S81,S83,S85-S91,S93-S105)
+**67 Seasons (0):** 
 
 **66 Seasons (0):** 
 
@@ -1951,13 +2005,13 @@
 
 **56 Seasons (0):** 
 
-**55 Seasons (0):** 
+**55 Seasons (2):** RatGirlGwen (S3-S7,S10,S12-S18,S20-S31,S34-S39,S41-S42,S44-S45,S47,S49-S50,S52,S54-S55,S57-S58,S60,S62,S68-S72,S75,S90,S92-S93,S106), FellUmbra (S50-S52,S54-S81,S83,S85-S100,S102-S108)
 
-**54 Seasons (1):** RatGirlGwen (S3-S7,S10,S12-S18,S20-S31,S34-S39,S41-S42,S44-S45,S47,S49-S50,S52,S54-S55,S57-S58,S60,S62,S68-S72,S75,S90,S92-S93)
+**54 Seasons (0):** 
 
 **53 Seasons (0):** 
 
-**52 Seasons (1):** FellUmbra (S50-S52,S54-S81,S83,S85-S100,S102-S105)
+**52 Seasons (0):** 
 
 **51 Seasons (0):** 
 
@@ -1983,13 +2037,13 @@
 
 **40 Seasons (1):** beandird97 (S1-S6,S8-S10,S12-S13,S17-S21,S24,S27,S31-S33,S37,S39,S42,S44,S58-S59,S65,S68-S69,S74,S80,S87,S90-S93,S99-S101)
 
-**39 Seasons (0):** 
+**39 Seasons (2):** JDwb (S68-S80,S82-S99,S101-S108), SakanaKaizen (S70-S108)
 
 **38 Seasons (0):** 
 
 **37 Seasons (1):** Nola_1986 (S20-S25,S27-S32,S34-S39,S41-S42,S44-S55,S57,S59-S62)
 
-**36 Seasons (2):** JDwb (S68-S80,S82-S99,S101-S105), SakanaKaizen (S70-S105)
+**36 Seasons (0):** 
 
 **35 Seasons (0):** 
 
@@ -1997,9 +2051,9 @@
 
 **33 Seasons (0):** 
 
-**32 Seasons (0):** 
+**32 Seasons (1):** Blackbelt244 (S49-S50,S52,S54-S67,S69,S71-S72,S74-S79,S81,S83,S87,S92,S100,S106)
 
-**31 Seasons (2):** Brighteyes890 (S1,S18,S32-S35,S37,S40-S54,S56-S58,S60,S62,S67,S83,S86,S90), Blackbelt244 (S49-S50,S52,S54-S67,S69,S71-S72,S74-S79,S81,S83,S87,S92,S100)
+**31 Seasons (1):** Brighteyes890 (S1,S18,S32-S35,S37,S40-S54,S56-S58,S60,S62,S67,S83,S86,S90)
 
 **30 Seasons (0):** 
 
@@ -2013,19 +2067,19 @@
 
 **25 Seasons (0):** 
 
-**24 Seasons (0):** 
+**24 Seasons (1):** ShootingGoats (S83,S85,S87-S108)
 
 **23 Seasons (1):** emilythecool (S1,S3-S6,S13,S18,S20-S23,S25-S33,S40,S47,S49)
 
 **22 Seasons (1):** AngelicWraith (S10,S12,S18,S21,S25-S32,S34,S39-S40,S42,S46,S49-S50,S70-S71,S100)
 
-**21 Seasons (1):** ShootingGoats (S83,S85,S87-S105)
+**21 Seasons (0):** 
 
 **20 Seasons (2):** pg805 (S1-S4,S6,S11,S15,S18-S19,S21,S24-S26,S28,S33-S34,S37,S40,S44,S52), Labtec901 (S29,S31,S37,S44-S48,S50-S53,S56-S59,S65-S67,S70)
 
-**19 Seasons (0):** 
+**19 Seasons (1):** bucksnort2 (S31,S40,S45,S51,S60,S68,S73,S76-S77,S80,S83,S90,S94,S97,S101,S103-S106)
 
-**18 Seasons (1):** bucksnort2 (S31,S40,S45,S51,S60,S68,S73,S76-S77,S80,S83,S90,S94,S97,S101,S103-S105)
+**18 Seasons (0):** 
 
 **17 Seasons (0):** 
 
@@ -2039,27 +2093,27 @@
 
 **12 Seasons (0):** 
 
-**11 Seasons (0):** 
+**11 Seasons (1):** Implode (S16,S18,S21,S30,S35,S44,S52,S62,S70,S83,S108)
 
-**10 Seasons (1):** Implode (S16,S18,S21,S30,S35,S44,S52,S62,S70,S83)
+**10 Seasons (0):** 
 
-**9 Seasons (1):** KillerBanana987 (S18-S21,S26,S28,S30-S31,S100)
+**9 Seasons (2):** KillerBanana987 (S18-S21,S26,S28,S30-S31,S100), Brodator (S100-S108)
 
-**8 Seasons (1):** QuilJ1 (S80-S81,S85-S86,S90,S92,S94,S100)
+**8 Seasons (2):** QuilJ1 (S80-S81,S85-S86,S90,S92,S94,S100), cherryblawsom (S100-S102,S104-S108)
 
-**7 Seasons (2):** ChipperCraft (S1-S3,S12-S13,S18-S19), C413B7 (S50,S53,S56-S58,S61,S100)
+**7 Seasons (4):** ChipperCraft (S1-S3,S12-S13,S18-S19), C413B7 (S50,S53,S56-S58,S61,S100), fruitlogic (S98-S100,S102,S104-S106), CAMKART100 (S102-S108)
 
-**6 Seasons (3):** MacheteMcGoo (S10,S13,S21,S23,S40,S68), fruitlogic (S98-S100,S102,S104-S105), Brodator (S100-S105)
+**6 Seasons (1):** MacheteMcGoo (S10,S13,S21,S23,S40,S68)
 
-**5 Seasons (3):** Ally_Cakes (S26-S27,S30-S32), FluffPandas (S43-S47), cherryblawsom (S100-S102,S104-S105)
+**5 Seasons (2):** Ally_Cakes (S26-S27,S30-S32), FluffPandas (S43-S47)
 
-**4 Seasons (3):** CaptainObnoxious (S6,S10,S19-S20), sinubux (S16,S19,S25,S37), CAMKART100 (S102-S105)
+**4 Seasons (2):** CaptainObnoxious (S6,S10,S19-S20), sinubux (S16,S19,S25,S37)
 
 **3 Seasons (2):** ageofdunedeath (S10,S25,S28), joshrpg (S17-S18,S25)
 
 **2 Seasons (11):** e1337geek (S1-S2), TenkenNoSoujiro (S1-S2), zax9 (S1-S2), PsiMasterPsi (S2-S3), Pegunicent2 (S15,S18), TheZephyrStorm (S24,S42), ctess_seph (S27,S31), ChaosKittyXJ9 (S35-S36), TaylorLive (S80-S81), SiahStone (S92,S97), rippersteveM5 (S95,S105)
 
-**1 Season (12):** deathray6002 (S1), Duck2854 (S1), gee_no (S1), machakw21 (S1), OddSocksAgain (S2), PessimisticSnake (S2), GrimsReaperLP (S3), Chic0time (S14), Sharkvyle (S25), artessa (S34), Cadebert (S34), TommySuX (S83)
+**1 Season (13):** deathray6002 (S1), Duck2854 (S1), gee_no (S1), machakw21 (S1), OddSocksAgain (S2), PessimisticSnake (S2), GrimsReaperLP (S3), Chic0time (S14), Sharkvyle (S25), artessa (S34), Cadebert (S34), TommySuX (S83), Queequa (S107)
 
 ---
 ### Debutants
@@ -2273,5 +2327,11 @@
 **S104 (0):** 
 
 **S105 (0):** 
+
+**S106 (0):** 
+
+**S107 (1):** Queequa
+
+**S108 (0):** 
 
 ---

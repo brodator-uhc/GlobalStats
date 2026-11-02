@@ -7,7 +7,7 @@
 
 **S2: Scurry_ (7)**
 
-**S3: Jakekub (1)**, *cheesymonkey78 (0), epiccheese2 (0), TheKevGuy (2)*
+**S3: Jakekub (1)**, *cheesymonkey78 (0), epiccheese2 (0), TheKevJawn (2)*
 
 **S4: ScottPirie (3), zachattack416 (0)**, *Maxwellfifty (2)*
 
@@ -15,13 +15,15 @@
 
 **S6: Evader22 (2), Hecticity (6), VeryNice (0)**, *AttackZach_ (0)*
 
-**S7: Maxwellfifty (4), TheKevGuy (3)**, *zachattack416 (1)*
+**S7: Maxwellfifty (4), TheKevJawn (3)**, *zachattack416 (1)*
 
 **S8: 5hup (2), tuxpeng (5)**
 
 **S9: Maxwellfifty (6)**, *lexicuhl (0), numdegased (0), SiahStone (1)*
 
-**S10: cherryblawsom (3)**, *Do_You_Minecraft (0), TheKevGuy (1)*
+**S10: cherryblawsom (3)**, *Do_You_Minecraft (0), TheKevJawn (1)*
+
+**S11: chloesad (6)**, *centraleric (1), MercuryParadox (0)*
 
 ---
 ### Runner Ups
@@ -36,7 +38,7 @@
 
 **S5:** floobel (0), Joeylinks (2) & QuilJ1 (0), Eluniel (5)
 
-**S6:** Maxwellfifty (1), QuilJ1 (0), ShyGus (0), TheKevGuy (1)
+**S6:** Maxwellfifty (1), QuilJ1 (0), ShyGus (0), TheKevJawn (1)
 
 **S7:** 5hup (1), lottebunny (0), Omertosa (1)
 
@@ -45,6 +47,8 @@
 **S9:** brodioh (0), MercuryParadox (2), Nintendoshi (0), tagggz (4)
 
 **S10:** ChainingVermin2 (4), SharkeyJaws (0), TalonBX (2)
+
+**S11:** floobel (1), Gorgerous (0), ShyGus (1)
 
 ---
 ### Most Kills
@@ -69,6 +73,8 @@
 
 **S10:** ChainingVermin2, fruitlogic (4)
 
+**S11:** chloesad (6)
+
 ---
 ### Most Kills (Team)
 
@@ -84,13 +90,15 @@
 
 **S6:** Hecticity (6), VeryNice (0), Evader22 (2), AttackZach_ (0)
 
-**S7:** TheKevGuy (3), Maxwellfifty (4), zachattack416 (1)
+**S7:** TheKevJawn (3), Maxwellfifty (4), zachattack416 (1)
 
 **S8:** 5hup (2), tuxpeng (5)
 
 **S9:** lexicuhl (0), Maxwellfifty (6), numdegased (0), SiahStone (1)
 
 **S10:** ChainingVermin2 (4), SharkeyJaws (0), TalonBX (2)
+
+**S11:** centraleric (1), chloesad (6), MercuryParadox (0)
 
 ---
 ### First Damage
@@ -115,6 +123,8 @@
 
 **S10:** TheSonicJoey (0:3:59)
 
+**S11:** Boomblade60 (0:5:27)
+
 ---
 ### Ironman
 
@@ -124,7 +134,7 @@
 
 **S3:** ShyGus (1:26:8)
 
-**S4:** TheKevGuy (1:34:14)
+**S4:** TheKevJawn (1:34:14)
 
 **S5:** ShyGus (1:48:32)
 
@@ -137,6 +147,8 @@
 **S9:** MercuryParadox (0:55:48)
 
 **S10:** Jakekub (1:9:30)
+
+**S11:** fruitlogic (1:14:23)
 
 ---
 ### First Blood
@@ -161,6 +173,8 @@
 
 **S10:** fruitlogic (SiahStone)
 
+**S11:** centraleric (Gorgerous)
+
 ---
 ### First Death
 
@@ -184,20 +198,24 @@
 
 **S10:** TheSonicJoey (Zombie)
 
+**S11:** Gorgerous (centraleric)
+
 ---
 ### Kills
 
-**1st - Maxwellfifty (15):** Joeylinks (S4), MrCraftinator (S4), KatyLawson (S5), AttackZach_ (S6), Jordtim (S7), lottebunny (S7), 5hup (S7), Omertosa (S7), PaperVinnie (S8), Chasmic (S9), GeeSam (S9), TheKevGuy (S9), Nintendoshi (S9), fruitlogic (S9), MercuryParadox (S9)
+**1st - Maxwellfifty (15):** Joeylinks (S4), MrCraftinator (S4), KatyLawson (S5), AttackZach_ (S6), Jordtim (S7), lottebunny (S7), 5hup (S7), Omertosa (S7), PaperVinnie (S8), Chasmic (S9), GeeSam (S9), TheKevJawn (S9), Nintendoshi (S9), fruitlogic (S9), MercuryParadox (S9)
 
 **2nd - AttackZach_ (11):** Scurry_ (S1), elllzman619 (S1), epiccheese2 (S2), Pencilguy37 (S3), dashdude (S3), TheSonicJoey (S3), Megahero (S3), Kidfo (S4), Jakekub (S4), dashdude (S4), Maxwellfifty (S8)
 
-**2nd - TheKevGuy (11):** MarcoHan (S1), 20Below (S3), Mathyy (S3), Maxwellfifty (S4), Hecticity (S4), Vawqer (S6), Jakekub (S7), TheSonicJoey (S7), Chasmic (S7), numdegased (S9), lottebunny (S10)
+**2nd - TheKevJawn (11):** MarcoHan (S1), 20Below (S3), Mathyy (S3), Maxwellfifty (S4), Hecticity (S4), Vawqer (S6), Jakekub (S7), TheSonicJoey (S7), Chasmic (S7), numdegased (S9), lottebunny (S10)
 
 **4th - Hecticity (10):** numdegased (S5), MarcoHan (S5), Jordtim (S5), Maxwellfifty (S5), zachattack416 (S6), KatyLawson (S6), miles1baseball (S6), dkemelor (S6), Emerric (S6), Maxwellfifty (S6)
 
-**4th - Scurry_ (10):** Archer_ (S1), Jpgesus (S1), 20Below (S1), numdegased (S2), DrDreVit (S2), zachattack416 (S2), Mathyy (S2), Pencilguy37 (S2), TheKevGuy (S2), _Bunnies (S2)
+**4th - Scurry_ (10):** Archer_ (S1), Jpgesus (S1), 20Below (S1), numdegased (S2), DrDreVit (S2), zachattack416 (S2), Mathyy (S2), Pencilguy37 (S2), TheKevJawn (S2), _Bunnies (S2)
 
 **6th - fruitlogic (7):** TheSonicJoey (S9), lexicuhl (S9), tagggz (S9), SiahStone (S10), Greeples (S10), Chasmic (S10), lexicuhl (S10)
+
+**7th - chloesad (6):** automavic (S11), zachattack416 (S11), cherryblawsom (S11), lexicuhl (S11), floobel (S11), ShyGus (S11)
 
 **7th - dkemelor (6):** numdegased (S1), Archer_ (S2), PaperVinnie (S5), PaperVinnie (S6), cheesymonkey78 (S6), Bobbytheturtle (S8)
 
@@ -205,99 +223,111 @@
 
 **7th - TheSonicJoey (6):** dkemelor (S1), jordanleevan (S1), Solarois (S1), epiccheese2 (S3), AttackZach_ (S7), Vawqer (S7)
 
-**10th - Eluniel (5):** dkemelor (S5), Mathyy (S5), TheKevGuy (S5), KaBoom (S5), Joeylinks (S5)
+**11th - ChainingVermin2 (5):** AttackZach_ (S10), Do_You_Minecraft (S10), ColdBac (S10), MaxEvasion (S10), Brodator (S11)
 
-**10th - Jakekub (5):** MrPolzerino (S3), 20Below (S4), zachattack416 (S7), brodioh (S9), MarcC5M (S10)
+**11th - cherryblawsom (5):** automavic (S10), YellowVitt (S10), ChainingVermin2 (S10), ColdBac (S11), TalonBX (S11)
 
-**10th - tuxpeng (5):** I_is_cheesecake (S8), dkemelor (S8), GeeSam (S8), Emerric (S8), lottebunny (S8)
+**11th - Eluniel (5):** dkemelor (S5), Mathyy (S5), TheKevJawn (S5), KaBoom (S5), Joeylinks (S5)
 
-**13th - ChainingVermin2 (4):** AttackZach_ (S10), Do_You_Minecraft (S10), ColdBac (S10), MaxEvasion (S10)
+**11th - Jakekub (5):** MrPolzerino (S3), 20Below (S4), zachattack416 (S7), brodioh (S9), MarcC5M (S10)
 
-**13th - Mathyy (4):** WackoFlipper (S2), Norox_ (S2), KatyLawson (S3), floobel (S3)
+**11th - ShyGus (5):** TheSonicJoey (S4), AttackZach_ (S4), floobel (S4), Hecticity (S5), fruitlogic (S11)
 
-**13th - ShyGus (4):** TheSonicJoey (S4), AttackZach_ (S4), floobel (S4), Hecticity (S5)
+**11th - tuxpeng (5):** I_is_cheesecake (S8), dkemelor (S8), GeeSam (S8), Emerric (S8), lottebunny (S8)
 
-**13th - tagggz (4):** zachattack416 (S9), Hayzeaux (S9), QuilJ1 (S9), buttergolem1 (S9)
+**17th - automavic (4):** buttergolem1 (S10), TheKevJawn (S10), QuilJ1 (S11), Codwhy (S11)
 
-**13th - WackoFlipper (4):** TheSonicJoey (S1), epiccheese2 (S1), jordanleevan (S2), dkemelor (S2)
+**17th - Mathyy (4):** WackoFlipper (S2), Norox_ (S2), KatyLawson (S3), floobel (S3)
 
-**18th - 5hup (3):** jvevo (S7), Vawqer (S8), TheSonicJoey (S8)
+**17th - tagggz (4):** zachattack416 (S9), Hayzeaux (S9), QuilJ1 (S9), buttergolem1 (S9)
 
-**18th - cherryblawsom (3):** automavic (S10), YellowVitt (S10), ChainingVermin2 (S10)
+**17th - WackoFlipper (4):** TheSonicJoey (S1), epiccheese2 (S1), jordanleevan (S2), dkemelor (S2)
 
-**18th - jordanleevan (3):** c1n (S3), AttackZach_ (S3), ChocoTaco622 (S3)
+**21st - 5hup (3):** jvevo (S7), Vawqer (S8), TheSonicJoey (S8)
 
-**18th - KaBoom (3):** 20Below (S5), dashdude (S5), ShyGus (S5)
+**21st - Brodator (3):** Nikikula (S10), MaxEvasion (S11), Boomblade60 (S11)
 
-**18th - Maniacmagee (3):** miles1baseball (S3), KaBoom (S3), TheKevGuy (S3)
+**21st - floobel (3):** TheKevJawn (S4), AttackZach_ (S8), Greeples (S11)
 
-**18th - MaxEvasion (3):** zachattack416 (S10), TalonBX (S10), MercuryParadox (S10)
+**21st - jordanleevan (3):** c1n (S3), AttackZach_ (S3), ChocoTaco622 (S3)
 
-**18th - MercuryParadox (3):** Jakekub (S9), SiahStone (S9), Gorgerous (S10)
+**21st - KaBoom (3):** 20Below (S5), dashdude (S5), ShyGus (S5)
 
-**18th - ScottPirie (3):** MarcoHan (S4), _Bunnies (S4), ShyGus (S4)
+**21st - Maniacmagee (3):** miles1baseball (S3), KaBoom (S3), TheKevJawn (S3)
 
-**18th - zachattack416 (3):** WackoFlipper (S1), floobel (S5), KatyLawson (S7)
+**21st - MaxEvasion (3):** zachattack416 (S10), TalonBX (S10), MercuryParadox (S10)
 
-**27th - 20Below (2):** insanegguy (S4), MrPolzerino (S4)
+**21st - MercuryParadox (3):** Jakekub (S9), SiahStone (S9), Gorgerous (S10)
 
-**27th - automavic (2):** buttergolem1 (S10), TheKevGuy (S10)
+**21st - ScottPirie (3):** MarcoHan (S4), _Bunnies (S4), ShyGus (S4)
 
-**27th - Chasmic (2):** friigiid (S7), lottebunny (S9)
+**21st - TalonBX (3):** chloesad (S10), Brodator (S10), ChainingVermin2 (S11)
 
-**27th - ChocoTaco622 (2):** Jordtim (S1), jordanleevan (S3)
+**21st - zachattack416 (3):** WackoFlipper (S1), floobel (S5), KatyLawson (S7)
 
-**27th - epiccheese2 (2):** Tomochevski (S1), AttackZach_ (S2)
+**32nd - 20Below (2):** insanegguy (S4), MrPolzerino (S4)
 
-**27th - Evader22 (2):** TommySuX (S6), ShyGus (S6)
+**32nd - Chasmic (2):** friigiid (S7), lottebunny (S9)
 
-**27th - floobel (2):** TheKevGuy (S4), AttackZach_ (S8)
+**32nd - ChocoTaco622 (2):** Jordtim (S1), jordanleevan (S3)
 
-**27th - GeeSam (2):** miles1baseball (S8), Brodator (S9)
+**32nd - epiccheese2 (2):** Tomochevski (S1), AttackZach_ (S2)
 
-**27th - Joeylinks (2):** QuilJ1 (S5), Eluniel (S5)
+**32nd - Evader22 (2):** TommySuX (S6), ShyGus (S6)
 
-**27th - Jordtim (2):** TheKevGuy (S1), ChocoTaco622 (S1)
+**32nd - GeeSam (2):** miles1baseball (S8), Brodator (S9)
 
-**27th - lottebunny (2):** Chasmic (S8), ShyGus (S9)
+**32nd - Joeylinks (2):** QuilJ1 (S5), Eluniel (S5)
 
-**27th - Norox_ (2):** WirdDirectioner (S1), KatyLawson (S1)
+**32nd - Jordtim (2):** TheKevJawn (S1), ChocoTaco622 (S1)
 
-**27th - PaperVinnie (2):** TheKevGuy (S6), oDogLFC (S8)
+**32nd - lexicuhl (2):** Jakekub (S10), JerseyTheDevil (S11)
 
-**27th - TalonBX (2):** chloesad (S10), Brodator (S10)
+**32nd - lottebunny (2):** Chasmic (S8), ShyGus (S9)
 
-**27th - Vawqer (2):** QuilJ1 (S6), GeeSam (S7)
+**32nd - Norox_ (2):** WirdDirectioner (S1), KatyLawson (S1)
 
-**42nd - _Bunnies (1):** epiccheese2 (S4)
+**32nd - PaperVinnie (2):** TheKevJawn (S6), oDogLFC (S8)
 
-**42nd - Brodator (1):** Nikikula (S10)
+**32nd - Vawqer (2):** QuilJ1 (S6), GeeSam (S7)
 
-**42nd - cheesymonkey78 (1):** Mathyy (S6)
+**45th - _Bunnies (1):** epiccheese2 (S4)
 
-**42nd - ColdBac (1):** fruitlogic (S10)
+**45th - AmbientDan (1):** SiahStone (S11)
 
-**42nd - elllzman619 (1):** zachattack416 (S1)
+**45th - Boomblade60 (1):** AmbientDan (S11)
 
-**42nd - friigiid (1):** OnlyCosmia (S8)
+**45th - centraleric (1):** Gorgerous (S11)
 
-**42nd - I_is_cheesecake (1):** friigiid (S8)
+**45th - cheesymonkey78 (1):** Mathyy (S6)
 
-**42nd - lexicuhl (1):** Jakekub (S10)
+**45th - Codwhy (1):** Maxwellfifty (S11)
 
-**42nd - numdegased (1):** Norox_ (S1)
+**45th - ColdBac (1):** fruitlogic (S10)
 
-**42nd - Omertosa (1):** ShyGus (S7)
+**45th - elllzman619 (1):** zachattack416 (S1)
 
-**42nd - OnlyCosmia (1):** floobel (S8)
+**45th - friigiid (1):** OnlyCosmia (S8)
 
-**42nd - Pencilguy37 (1):** TheSonicJoey (S2)
+**45th - I_is_cheesecake (1):** friigiid (S8)
 
-**42nd - SiahStone (1):** wibbol (S9)
+**45th - illuminaja (1):** TheKevJawn (S11)
 
-**42nd - Tomochevski (1):** alfierobey (S3)
+**45th - numdegased (1):** Norox_ (S1)
 
-**42nd - wibbol (1):** VeniiiD (S9)
+**45th - Omertosa (1):** ShyGus (S7)
+
+**45th - OnlyCosmia (1):** floobel (S8)
+
+**45th - Pencilguy37 (1):** TheSonicJoey (S2)
+
+**45th - SiahStone (1):** wibbol (S9)
+
+**45th - TehBaconBrawlerZ (1):** illuminaja (S11)
+
+**45th - Tomochevski (1):** alfierobey (S3)
+
+**45th - wibbol (1):** VeniiiD (S9)
 
 ---
 ### PvE Deaths
@@ -305,6 +335,8 @@
 **Lava (3):** KatyLawson (S2), Arich (S6), KatyLawson (S8)
 
 **Burning (2):** 20Below (S2), adadaddam (S2)
+
+**Vindicator (2):** MercuryParadox (S11), centraleric (S11)
 
 **Zombie (2):** AttackZach_ (S5), TheSonicJoey (S10)
 
@@ -316,33 +348,37 @@
 
 **Skeleton (1):** PaperVinnie (S9)
 
+**Void (1):** TehBaconBrawlerZ (S11)
+
 ---
 ### Participation
 
-**10 Seasons (0):** 
+**11 Seasons (0):** 
 
-**9 Seasons (3):** AttackZach_ (S1-S8,S10), TheKevGuy (S1-S7,S9-S10), zachattack416 (S1-S7,S9-S10)
+**10 Seasons (2):** TheKevJawn (S1-S7,S9-S11), zachattack416 (S1-S7,S9-S11)
+
+**9 Seasons (1):** AttackZach_ (S1-S8,S10)
 
 **8 Seasons (1):** TheSonicJoey (S1-S4,S7-S10)
 
-**7 Seasons (1):** KatyLawson (S1-S3,S5-S8)
+**7 Seasons (3):** KatyLawson (S1-S3,S5-S8), ShyGus (S3-S7,S9,S11), Maxwellfifty (S4-S9,S11)
 
-**6 Seasons (4):** dkemelor (S1-S2,S4-S6,S8), Jakekub (S3-S4,S6-S7,S9-S10), ShyGus (S3-S7,S9), Maxwellfifty (S4-S9)
+**6 Seasons (2):** dkemelor (S1-S2,S4-S6,S8), Jakekub (S3-S4,S6-S7,S9-S10)
 
-**5 Seasons (1):** 20Below (S1-S5)
+**5 Seasons (2):** 20Below (S1-S5), floobel (S3-S5,S8,S11)
 
-**4 Seasons (7):** epiccheese2 (S1-S4), numdegased (S1-S2,S5,S9), Mathyy (S2-S3,S5-S6), floobel (S3-S5,S8), PaperVinnie (S5-S6,S8-S9), Chasmic (S7-S10), lottebunny (S7-S10)
+**4 Seasons (7):** epiccheese2 (S1-S4), numdegased (S1-S2,S5,S9), Mathyy (S2-S3,S5-S6), PaperVinnie (S5-S6,S8-S9), QuilJ1 (S5-S6,S9,S11), Chasmic (S7-S10), lottebunny (S7-S10)
 
-**3 Seasons (9):** jordanleevan (S1-S3), Jordtim (S1,S5,S7), MarcoHan (S1,S4-S5), dashdude (S3-S5), miles1baseball (S3,S6,S8), Hecticity (S4-S6), QuilJ1 (S5-S6,S9), Vawqer (S6-S8), GeeSam (S7-S9)
+**3 Seasons (13):** jordanleevan (S1-S3), Jordtim (S1,S5,S7), MarcoHan (S1,S4-S5), dashdude (S3-S5), miles1baseball (S3,S6,S8), Hecticity (S4-S6), Vawqer (S6-S8), GeeSam (S7-S9), Brodator (S9-S11), fruitlogic (S9-S11), lexicuhl (S9-S11), MercuryParadox (S9-S11), SiahStone (S9-S11)
 
-**2 Seasons (21):** Archer_ (S1-S2), ChocoTaco622 (S1,S3), Norox_ (S1-S2), Scurry_ (S1-S2), Tomochevski (S1,S3), WackoFlipper (S1-S2), _Bunnies (S2,S4), Pencilguy37 (S2-S3), cheesymonkey78 (S3,S6), KaBoom (S3,S5), MrPolzerino (S3-S4), Joeylinks (S4-S5), Emerric (S6,S8), 5hup (S7-S8), friigiid (S7-S8), Brodator (S9-S10), buttergolem1 (S9-S10), fruitlogic (S9-S10), lexicuhl (S9-S10), MercuryParadox (S9-S10), SiahStone (S9-S10)
+**2 Seasons (25):** Archer_ (S1-S2), ChocoTaco622 (S1,S3), Norox_ (S1-S2), Scurry_ (S1-S2), Tomochevski (S1,S3), WackoFlipper (S1-S2), _Bunnies (S2,S4), Pencilguy37 (S2-S3), cheesymonkey78 (S3,S6), KaBoom (S3,S5), MrPolzerino (S3-S4), Joeylinks (S4-S5), Emerric (S6,S8), 5hup (S7-S8), friigiid (S7-S8), buttergolem1 (S9-S10), automavic (S10-S11), ChainingVermin2 (S10-S11), cherryblawsom (S10-S11), chloesad (S10-S11), ColdBac (S10-S11), Gorgerous (S10-S11), Greeples (S10-S11), MaxEvasion (S10-S11), TalonBX (S10-S11)
 
-**1 Season (47):** elllzman619 (S1), Jpgesus (S1), Solarois (S1), WirdDirectioner (S1), adadaddam (S2), DrDreVit (S2), alfierobey (S3), c1n (S3), Maniacmagee (S3), Megahero (S3), insanegguy (S4), Kidfo (S4), MrCraftinator (S4), ScottPirie (S4), Eluniel (S5), Arich (S6), Evader22 (S6), TommySuX (S6), VeryNice (S6), jvevo (S7), LegoBeast (S7), Omertosa (S7), Bobbytheturtle (S8), I_is_cheesecake (S8), oDogLFC (S8), OnlyCosmia (S8), tuxpeng (S8), brodioh (S9), Hayzeaux (S9), Nintendoshi (S9), tagggz (S9), VeniiiD (S9), wibbol (S9), automavic (S10), ChainingVermin2 (S10), cherryblawsom (S10), chloesad (S10), ColdBac (S10), Do_You_Minecraft (S10), Gorgerous (S10), Greeples (S10), MarcC5M (S10), MaxEvasion (S10), Nikikula (S10), SharkeyJaws (S10), TalonBX (S10), YellowVitt (S10)
+**1 Season (45):** elllzman619 (S1), Jpgesus (S1), Solarois (S1), WirdDirectioner (S1), adadaddam (S2), DrDreVit (S2), alfierobey (S3), c1n (S3), Maniacmagee (S3), Megahero (S3), insanegguy (S4), Kidfo (S4), MrCraftinator (S4), ScottPirie (S4), Eluniel (S5), Arich (S6), Evader22 (S6), TommySuX (S6), VeryNice (S6), jvevo (S7), LegoBeast (S7), Omertosa (S7), Bobbytheturtle (S8), I_is_cheesecake (S8), oDogLFC (S8), OnlyCosmia (S8), tuxpeng (S8), brodioh (S9), Hayzeaux (S9), Nintendoshi (S9), tagggz (S9), VeniiiD (S9), wibbol (S9), Do_You_Minecraft (S10), MarcC5M (S10), Nikikula (S10), SharkeyJaws (S10), YellowVitt (S10), AmbientDan (S11), Boomblade60 (S11), centraleric (S11), Codwhy (S11), illuminaja (S11), JerseyTheDevil (S11), TehBaconBrawlerZ (S11)
 
 ---
 ### Debutants
 
-**S1 (22):** 20Below, Archer_, AttackZach_, ChocoTaco622, dkemelor, elllzman619, epiccheese2, jordanleevan, Jordtim, Jpgesus, KatyLawson, MarcoHan, Norox_, numdegased, Scurry_, Solarois, TheKevGuy, TheSonicJoey, Tomochevski, WackoFlipper, WirdDirectioner, zachattack416
+**S1 (22):** 20Below, Archer_, AttackZach_, ChocoTaco622, dkemelor, elllzman619, epiccheese2, jordanleevan, Jordtim, Jpgesus, KatyLawson, MarcoHan, Norox_, numdegased, Scurry_, Solarois, TheKevJawn, TheSonicJoey, Tomochevski, WackoFlipper, WirdDirectioner, zachattack416
 
 **S2 (5):** _Bunnies, adadaddam, DrDreVit, Mathyy, Pencilguy37
 
@@ -361,5 +397,7 @@
 **S9 (12):** Brodator, brodioh, buttergolem1, fruitlogic, Hayzeaux, lexicuhl, MercuryParadox, Nintendoshi, SiahStone, tagggz, VeniiiD, wibbol
 
 **S10 (14):** automavic, ChainingVermin2, cherryblawsom, chloesad, ColdBac, Do_You_Minecraft, Gorgerous, Greeples, MarcC5M, MaxEvasion, Nikikula, SharkeyJaws, TalonBX, YellowVitt
+
+**S11 (7):** AmbientDan, Boomblade60, centraleric, Codwhy, illuminaja, JerseyTheDevil, TehBaconBrawlerZ
 
 ---

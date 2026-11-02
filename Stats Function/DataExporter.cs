@@ -88,7 +88,7 @@ namespace StatsAnalyzer
             statsDoc.SaveAs("..\\..\\..\\Stats Sheet\\Player Stats.xlsx");
         }
 
-        public static void SaveRoundList(List<RoundList> roundLists, List<PveCausesList> pveCausesLists, List<GamemodesList> gamemodesLists, List<TeamTypeList> teamTypeLists, List<RostersList> rostersLists, List<RostersList> rostersListsNR, String postFolder)
+        public static void SaveRoundList(List<RoundList> roundLists, List<PveCausesList> pveCausesLists, List<MethodList> methodLists, List<GamemodesList> gamemodesLists, List<TeamTypeList> teamTypeLists, List<RostersList> rostersLists, List<RostersList> rostersListsNR, String postFolder)
         {
             var roundListDoc = new XLWorkbook();
 
@@ -102,6 +102,11 @@ namespace StatsAnalyzer
             var pveListSheet = roundListDoc.AddWorksheet("PvE List");
             pveListSheet.Cell(1, 1).InsertData(pveCausesLists);
             pveListSheet.Sort(2, XLSortOrder.Descending);
+
+            //Making Method List Page
+            var methodListSheet = roundListDoc.AddWorksheet("Method List");
+            methodListSheet.Cell(1, 1).InsertData(methodLists);
+            methodListSheet.Sort(2, XLSortOrder.Descending);
 
             //Making Gamemode List Page
             var gamemodeListSheet = roundListDoc.AddWorksheet("Gamemode List");

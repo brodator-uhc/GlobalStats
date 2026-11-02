@@ -19,14 +19,14 @@
 
 **S1:** SpaceFenix (4)
 
-**S2:** Regifloat, Slowth (2)
+**S2:** Regifloat, Slowths (2)
 
 ---
 ### Most Kills (Team)
 
 **S1:** Regifloat (2), SpaceFenix (4)
 
-**S2:** Regifloat (2), Gameslayer989 (1) & Slowth (2), RiseGR (1)
+**S2:** Regifloat (2), Gameslayer989 (1) & Slowths (2), RiseGR (1)
 
 ---
 ### First Damage
@@ -45,14 +45,14 @@
 ---
 ### First Blood
 
-**S1:** Slowth (Legendary100)
+**S1:** Slowths (Legendary100)
 
 **S2:** Gameslayer989 (StoneAgedGaming)
 
 ---
 ### First Death
 
-**S1:** Legendary100 (Slowth)
+**S1:** Legendary100 (Slowths)
 
 **S2:** SpaceFenix (Fall)
 
@@ -61,15 +61,15 @@
 
 **1st - Regifloat (4):** iRedx (S1), Starflash (S1), BZ_STEVE (S2), Starflash (S2)
 
-**1st - SpaceFenix (4):** Slowth (S1), Gameslayer989 (S1), BBR_ (S1), Balone (S1)
+**1st - SpaceFenix (4):** Slowths (S1), Gameslayer989 (S1), BBR_ (S1), Balone (S1)
 
-**3rd - Slowth (3):** Legendary100 (S1), Balone (S2), Legendary100 (S2)
+**3rd - Slowths (3):** Legendary100 (S1), Balone (S2), Legendary100 (S2)
 
 **4th - BZ_STEVE (1):** Gameslayer989 (S2)
 
 **4th - Gameslayer989 (1):** StoneAgedGaming (S2)
 
-**4th - Legendary100 (1):** Slowth (S2)
+**4th - Legendary100 (1):** Slowths (S2)
 
 **4th - RiseGR (1):** BBR_ (S2)
 
@@ -85,14 +85,14 @@
 ---
 ### Participation
 
-**2 Seasons (10):** Balone (S1-S2), BBR_ (S1-S2), BZ_STEVE (S1-S2), Gameslayer989 (S1-S2), Legendary100 (S1-S2), Regifloat (S1-S2), Slowth (S1-S2), SpaceFenix (S1-S2), Starflash (S1-S2), StoneAgedGaming (S1-S2)
+**2 Seasons (10):** Balone (S1-S2), BBR_ (S1-S2), BZ_STEVE (S1-S2), Gameslayer989 (S1-S2), Legendary100 (S1-S2), Regifloat (S1-S2), Slowths (S1-S2), SpaceFenix (S1-S2), Starflash (S1-S2), StoneAgedGaming (S1-S2)
 
 **1 Season (3):** iRedx (S1), MeIsJordan (S2), RiseGR (S2)
 
 ---
 ### Debutants
 
-**S1 (11):** Balone, BBR_, BZ_STEVE, Gameslayer989, iRedx, Legendary100, Regifloat, Slowth, SpaceFenix, Starflash, StoneAgedGaming
+**S1 (11):** Balone, BBR_, BZ_STEVE, Gameslayer989, iRedx, Legendary100, Regifloat, Slowths, SpaceFenix, Starflash, StoneAgedGaming
 
 **S2 (2):** MeIsJordan, RiseGR
 

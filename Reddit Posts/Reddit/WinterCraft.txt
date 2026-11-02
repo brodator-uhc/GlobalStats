@@ -45,6 +45,8 @@
 
 **S21: MadamGiggles (1)**, *Flouzemaker (0), Ninetals38 (1)*
 
+**S22: Ninetals38 (2), TehBaconBrawlerZ (2), trillibytes (1)**
+
 ---
 ### Runner Ups
 
@@ -89,6 +91,8 @@
 **S20:** CaptainRichy (0), Jalapinecone (3), Markedbooboy (2)
 
 **S21:** ClassicChad (0), ItsShqky (4), RoseCuycuy (0)
+
+**S22:** CAMKART100 (1), Eagris (0), MichaelPlayMC (0)
 
 ---
 ### Most Kills
@@ -135,6 +139,8 @@
 
 **S21:** ItsShqky (4)
 
+**S22:** Brodator (3)
+
 ---
 ### Most Kills (Team)
 
@@ -179,6 +185,8 @@
 **S20:** Flouzemaker (2), H_L_llama (1), ShootingGoats (2) & CaptainRichy (0), Jalapinecone (3), Markedbooboy (2)
 
 **S21:** Eagris (0), MichaelPlayMC (2), ShootingGoats (2) & ClassicChad (0), ItsShqky (4), RoseCuycuy (0)
+
+**S22:** Ninetals38 (2), TehBaconBrawlerZ (2), trillibytes (1)
 
 ---
 ### First Damage
@@ -225,6 +233,8 @@
 
 **S21:** DocElectric (0:7:53)
 
+**S22:** Flouzemaker (0:2:38)
+
 ---
 ### Ironman
 
@@ -269,6 +279,8 @@
 **S20:** Brodator (2:23:20)
 
 **S21:** MadamGiggles (2:0:59)
+
+**S22:** Ninetals38 (1:33:31)
 
 ---
 ### First Blood
@@ -315,6 +327,8 @@
 
 **S21:** ShootingGoats (Brodator)
 
+**S22:** TehBaconBrawlerZ (MichaelPlayMC)
+
 ---
 ### First Death
 
@@ -360,10 +374,12 @@
 
 **S21:** CAMKART100 (Burning)
 
+**S22:** Eagris (Spider)
+
 ---
 ### Kills
 
-**1st - Brodator (53):** Daslisal (S2), TastyBaconZ (S2), HappierUpHere (S2), 1ime (S2), Fnassau (S2), lizziekraft (S2), Flouzemaker (S2), DrJimJim (S2), Kayker (S2), MegaGran (S3), michkeline (S3), Ancient_Bunny (S3), Fnassau (S3), motherofmermaids (S4), HappierUpHere (S4), FullRunThrough (S4), Eagris (S4), TheCatMurgatroyd (S4), Sten_Stone (S4), CameronJacob00 (S4), ClassicChad (S5), nFang (S5), SofaSeven (S5), whitetimewolf (S5), Flouzemaker (S5), Banji3000 (S5), TastyBaconZ (S5), nFang (S6), FullRunThrough (S8), lizziekraft (S8), YouCanCallMeXo (S8), Eagris (S8), SleepyOwl101 (S9), Magnam_Indie (S9), ClassicChad (S10), ClassicChad (S11), EmIsThem (S11), Ancient_Bunny (S14), jimmyjegs (S14), Flouzemaker (S14), 798abc (S14), draylor09 (S15), TheCatMurgatroyd (S15), TastyBaconZ (S15), Markedbooboy (S16), Hamishhhh (S16), ClassicChad (S16), Trinan6918 (S16), DogOfKrondor (S17), Markedbooboy (S17), trillibytes (S17), BuildingBard300 (S17), Flouzemaker (S18)
+**1st - Brodator (56):** Daslisal (S2), TastyBaconZ (S2), HappierUpHere (S2), 1ime (S2), Fnassau (S2), lizziekraft (S2), Flouzemaker (S2), DrJimJim (S2), Kayker (S2), MegaGran (S3), michkeline (S3), Ancient_Bunny (S3), Fnassau (S3), motherofmermaids (S4), HappierUpHere (S4), FullRunThrough (S4), Eagris (S4), TheCatMurgatroyd (S4), Sten_Stone (S4), CameronJacob00 (S4), ClassicChad (S5), nFang (S5), SofaSeven (S5), whitetimewolf (S5), Flouzemaker (S5), Banji3000 (S5), TastyBaconZ (S5), nFang (S6), FullRunThrough (S8), lizziekraft (S8), YouCanCallMeXo (S8), Eagris (S8), SleepyOwl101 (S9), Magnam_Indie (S9), ClassicChad (S10), ClassicChad (S11), EmIsThem (S11), Ancient_Bunny (S14), jimmyjegs (S14), Flouzemaker (S14), 798abc (S14), draylor09 (S15), TheCatMurgatroyd (S15), TastyBaconZ (S15), Markedbooboy (S16), Hamishhhh (S16), ClassicChad (S16), Trinan6918 (S16), DogOfKrondor (S17), Markedbooboy (S17), trillibytes (S17), BuildingBard300 (S17), Flouzemaker (S18), ClassicChad (S22), ShootingGoats (S22), Greeples (S22)
 
 **2nd - Flouzemaker (28):** Lilyberry (S1), lizziekraft (S1), InterstellarFish (S1), SofaSeven (S2), motherofmermaids (S3), Banji3000 (S3), DrJimJim (S4), FalingDutchman (S4), trillibytes (S4), ghostblurr (S6), TastyBaconZ (S6), Magnam_Indie (S10), C8sun (S10), trillibytes (S11), ItsShqky (S12), Magnam_Indie (S13), SleepyOwl101 (S13), FullRunThrough (S13), omnikrxn (S13), MegaGran (S14), DogOfKrondor (S15), WackoFlipper (S15), H_L_llama (S15), Brodator (S18), Eagris (S19), Brodator (S19), Brodator (S20), Markedbooboy (S20)
 
@@ -407,93 +423,99 @@
 
 **18th - MaxEvasion (5):** Brodator (S12), trillibytes (S12), ZebraPantz (S12), Flouzemaker (S12), Magnam_Indie (S14)
 
-**23rd - Banji3000 (4):** ArrowsofCara (S3), Flouzemaker (S3), Eagris (S5), MadamGiggles (S15)
+**18th - trillibytes (5):** Ancient_Bunny (S5), ClassicChad (S7), RoseCuycuy (S16), TheCatMurgatroyd (S16), Brodator (S22)
 
-**23rd - CameronJacob00 (4):** Ancient_Bunny (S2), ArrowsofCara (S4), TastyBaconZ (S4), commitstaxfraud (S10)
+**24th - Banji3000 (4):** ArrowsofCara (S3), Flouzemaker (S3), Eagris (S5), MadamGiggles (S15)
 
-**23rd - commitstaxfraud (4):** Eagris (S9), Lilyberry (S9), trillibytes (S10), CameronJacob00 (S10)
+**24th - CameronJacob00 (4):** Ancient_Bunny (S2), ArrowsofCara (S4), TastyBaconZ (S4), commitstaxfraud (S10)
 
-**23rd - ShootingGoats (4):** DogOfKrondor (S20), Ninetals38 (S20), Brodator (S21), doctrzombie (S21)
+**24th - commitstaxfraud (4):** Eagris (S9), Lilyberry (S9), trillibytes (S10), CameronJacob00 (S10)
 
-**23rd - trillibytes (4):** Ancient_Bunny (S5), ClassicChad (S7), RoseCuycuy (S16), TheCatMurgatroyd (S16)
+**24th - Ninetals38 (4):** DocElectric (S20), MichaelPlayMC (S21), Klobb (S22), CAMKART100 (S22)
 
-**23rd - Trinan6918 (4):** whitetimewolf (S6), Codwhy (S8), SILSKY (S11), ClassicChad (S12)
+**24th - ShootingGoats (4):** DogOfKrondor (S20), Ninetals38 (S20), Brodator (S21), doctrzombie (S21)
 
-**23rd - Xzeaulor (4):** TinytheT_Rex (S14), H_L_llama (S14), Brodator (S14), whitetimewolf (S15)
+**24th - Trinan6918 (4):** whitetimewolf (S6), Codwhy (S8), SILSKY (S11), ClassicChad (S12)
 
-**23rd - Zeiyuri (4):** Eagris (S11), Brodator (S11), ClassicChad (S15), CaptainRichy (S15)
+**24th - Xzeaulor (4):** TinytheT_Rex (S14), H_L_llama (S14), Brodator (S14), whitetimewolf (S15)
 
-**31st - Ancient_Bunny (3):** Trinan6918 (S3), SleepyOwl101 (S10), Jahrod (S12)
+**24th - Zeiyuri (4):** Eagris (S11), Brodator (S11), ClassicChad (S15), CaptainRichy (S15)
 
-**31st - ClassicChad (3):** HappierUpHere (S6), Trinan6918 (S8), Angue (S8)
+**32nd - Ancient_Bunny (3):** Trinan6918 (S3), SleepyOwl101 (S10), Jahrod (S12)
 
-**31st - H_L_llama (3):** ClassicChad (S14), Jahrod (S15), Jalapinecone (S20)
+**32nd - ClassicChad (3):** HappierUpHere (S6), Trinan6918 (S8), Angue (S8)
 
-**31st - Jalapinecone (3):** Eagris (S20), TheCatMurgatroyd (S20), Greeples (S20)
+**32nd - H_L_llama (3):** ClassicChad (S14), Jahrod (S15), Jalapinecone (S20)
 
-**31st - MadamGiggles (3):** jimmyjegs (S17), Sten_Stone (S17), ItsShqky (S21)
+**32nd - Jalapinecone (3):** Eagris (S20), TheCatMurgatroyd (S20), Greeples (S20)
 
-**31st - OmniShade (3):** HappierUpHere (S1), CaptainRichy (S1), Flouzemaker (S1)
+**32nd - MadamGiggles (3):** jimmyjegs (S17), Sten_Stone (S17), ItsShqky (S21)
 
-**31st - TayUHC (3):** Codwhy (S5), SleepyOwl101 (S11), TheCatMurgatroyd (S11)
+**32nd - OmniShade (3):** HappierUpHere (S1), CaptainRichy (S1), Flouzemaker (S1)
 
-**38th - Angue (2):** Jahrod (S7), Jahrod (S8)
+**32nd - TayUHC (3):** Codwhy (S5), SleepyOwl101 (S11), TheCatMurgatroyd (S11)
 
-**38th - CaptainRichy (2):** ClassicChad (S4), ItsShqky (S15)
+**39th - Angue (2):** Jahrod (S7), Jahrod (S8)
 
-**38th - DrJimJim (2):** MegaGran (S2), BannedEnergy (S4)
+**39th - CaptainRichy (2):** ClassicChad (S4), ItsShqky (S15)
 
-**38th - EmIsThem (2):** Trinan6918 (S7), van98 (S8)
+**39th - DrJimJim (2):** MegaGran (S2), BannedEnergy (S4)
 
-**38th - FalingDutchman (2):** Hefaistros (S3), SoberBartender (S4)
+**39th - EmIsThem (2):** Trinan6918 (S7), van98 (S8)
 
-**38th - FullRunThrough (2):** lizziekraft (S4), YouCanCallMeXo (S10)
+**39th - FalingDutchman (2):** Hefaistros (S3), SoberBartender (S4)
 
-**38th - Lilyberry (2):** whitetimewolf (S8), DancingKoi (S9)
+**39th - FullRunThrough (2):** lizziekraft (S4), YouCanCallMeXo (S10)
 
-**38th - Ninetals38 (2):** DocElectric (S20), MichaelPlayMC (S21)
+**39th - Lilyberry (2):** whitetimewolf (S8), DancingKoi (S9)
 
-**38th - OrangeDugong (2):** trillibytes (S1), Magnam_Indie (S1)
+**39th - OrangeDugong (2):** trillibytes (S1), Magnam_Indie (S1)
 
-**38th - TheCatMurgatroyd (2):** trillibytes (S13), trillibytes (S15)
+**39th - TehBaconBrawlerZ (2):** MichaelPlayMC (S22), jimmyjegs (S22)
 
-**38th - van98 (2):** wickedreine (S7), Lilyberry (S8)
+**39th - TheCatMurgatroyd (2):** trillibytes (S13), trillibytes (S15)
 
-**38th - YouCanCallMeXo (2):** DogOfKrondor (S10), Flouzemaker (S10)
+**39th - van98 (2):** wickedreine (S7), Lilyberry (S8)
 
-**50th - BannedEnergy (1):** SofaSeven (S4)
+**39th - YouCanCallMeXo (2):** DogOfKrondor (S10), Flouzemaker (S10)
 
-**50th - DancingKoi (1):** ClassicChad (S9)
+**51st - BannedEnergy (1):** SofaSeven (S4)
 
-**50th - Daslisal (1):** MajesticTaco_ (S2)
+**51st - CAMKART100 (1):** Flouzemaker (S22)
 
-**50th - Fnassau (1):** CCRascal (S4)
+**51st - DancingKoi (1):** ClassicChad (S9)
 
-**50th - ghostblurr (1):** Brodator (S6)
+**51st - Daslisal (1):** MajesticTaco_ (S2)
 
-**50th - Hamishhhh (1):** whitetimewolf (S17)
+**51st - Fnassau (1):** CCRascal (S4)
 
-**50th - HappierUpHere (1):** SleepyOwl101 (S5)
+**51st - ghostblurr (1):** Brodator (S6)
 
-**50th - InterstellarFish (1):** CameronJacob00 (S1)
+**51st - Greeples (1):** JampoJohn (S22)
 
-**50th - Magnam_Indie (1):** TheRedHuldra (S1)
+**51st - Hamishhhh (1):** whitetimewolf (S17)
 
-**50th - MegaGran (1):** trillibytes (S14)
+**51st - HappierUpHere (1):** SleepyOwl101 (S5)
 
-**50th - motherofmermaids (1):** Brodator (S8)
+**51st - InterstellarFish (1):** CameronJacob00 (S1)
 
-**50th - nFang (1):** ZebraPantz (S9)
+**51st - Magnam_Indie (1):** TheRedHuldra (S1)
 
-**50th - SILSKY (1):** trillibytes (S3)
+**51st - MegaGran (1):** trillibytes (S14)
 
-**50th - TommySuX (1):** Eagris (S6)
+**51st - motherofmermaids (1):** Brodator (S8)
 
-**50th - TwistedStranger (1):** FullRunThrough (S10)
+**51st - nFang (1):** ZebraPantz (S9)
 
-**50th - whitetimewolf (1):** TheCatMurgatroyd (S5)
+**51st - SILSKY (1):** trillibytes (S3)
 
-**50th - Yatorin (1):** jimmyjegs (S15)
+**51st - TommySuX (1):** Eagris (S6)
+
+**51st - TwistedStranger (1):** FullRunThrough (S10)
+
+**51st - whitetimewolf (1):** TheCatMurgatroyd (S5)
+
+**51st - Yatorin (1):** jimmyjegs (S15)
 
 ---
 ### PvE Deaths
@@ -502,11 +524,13 @@
 
 **Skeleton (15):** boemboom (S1), FalingDutchman (S1), Wolfheart738 (S2), WriteEscape (S2), ClassicChad (S3), MegaGran (S4), TheCatMurgatroyd (S6), whitetimewolf (S7), TheCatMurgatroyd (S7), C8sun (S8), C8sun (S9), Brodator (S10), Angue (S10), BuildingBard300 (S19), DogOfKrondor (S19)
 
+**Fall (11):** Blugy (S1), CaptainRichy (S2), MartyBoy392 (S4), Brodator (S7), Angue (S9), TinytheT_Rex (S9), TheCatMurgatroyd (S19), jimmyjegs (S20), RoseCuycuy (S21), DocElectric (S22), doctrzombie (S22)
+
 **Zombie (11):** MinecraftBabe007 (S1), Banji3000 (S1), Hefaistros (S2), trillibytes (S2), TheCatMurgatroyd (S3), Kayker (S3), van98 (S6), TinytheT_Rex (S7), DogOfKrondor (S12), RoseCuycuy (S15), Eagris (S21)
 
-**Fall (9):** Blugy (S1), CaptainRichy (S2), MartyBoy392 (S4), Brodator (S7), Angue (S9), TinytheT_Rex (S9), TheCatMurgatroyd (S19), jimmyjegs (S20), RoseCuycuy (S21)
+**Burning (5):** Lazmark (S1), HappierUpHere (S3), Lazmark (S3), CAMKART100 (S21), RoseCuycuy (S22)
 
-**Burning (4):** Lazmark (S1), HappierUpHere (S3), Lazmark (S3), CAMKART100 (S21)
+**Lava (4):** Magnam_Indie (S6), DogOfKrondor (S11), ClassicChad (S20), ItsShqky (S22)
 
 **Left (4):** Tallone55 (S2), ghostblurr (S5), Bofishkix (S8), ClassicChad (S13)
 
@@ -516,13 +540,11 @@
 
 **Enderman (3):** CCRascal (S2), trillibytes (S8), RoseCuycuy (S13)
 
-**Lava (3):** Magnam_Indie (S6), DogOfKrondor (S11), ClassicChad (S20)
+**Spider (3):** ClassicChad (S2), Magnam_Indie (S2), Eagris (S22)
 
 **Suffocation (3):** TheCatMurgatroyd (S1), Kayker (S1), RoseCuycuy (S14)
 
 **Cave Spider (2):** Magnam_Indie (S3), ClassicChad (S21)
-
-**Spider (2):** ClassicChad (S2), Magnam_Indie (S2)
 
 **Witch (1):** Trinan6918 (S5)
 
@@ -531,15 +553,17 @@
 ---
 ### Participation
 
-**21 Seasons (2):** ClassicChad (S1-S21), trillibytes (S1-S21)
+**22 Seasons (2):** ClassicChad (S1-S22), trillibytes (S1-S22)
 
-**20 Seasons (1):** Brodator (S2-S21)
+**21 Seasons (1):** Brodator (S2-S22)
 
-**19 Seasons (1):** Flouzemaker (S1-S6,S9-S21)
+**20 Seasons (1):** Flouzemaker (S1-S6,S9-S22)
 
-**18 Seasons (0):** 
+**19 Seasons (0):** 
 
-**17 Seasons (1):** Eagris (S1,S3-S12,S15,S17-S21)
+**18 Seasons (1):** Eagris (S1,S3-S12,S15,S17-S22)
+
+**17 Seasons (0):** 
 
 **16 Seasons (0):** 
 
@@ -553,25 +577,25 @@
 
 **11 Seasons (2):** Ancient_Bunny (S2-S3,S5-S7,S9-S10,S12-S14,S16), TastyBaconZ (S2-S7,S9,S13,S15-S17)
 
-**10 Seasons (2):** CaptainRichy (S1-S5,S10-S11,S15-S16,S20), Trinan6918 (S3,S5-S8,S11-S13,S16-S17)
+**10 Seasons (3):** CaptainRichy (S1-S5,S10-S11,S15-S16,S20), Trinan6918 (S3,S5-S8,S11-S13,S16-S17), ItsShqky (S12-S17,S19-S22)
 
-**9 Seasons (1):** ItsShqky (S12-S17,S19-S21)
+**9 Seasons (0):** 
 
-**8 Seasons (1):** whitetimewolf (S5-S8,S10,S13,S15,S17)
+**8 Seasons (2):** whitetimewolf (S5-S8,S10,S13,S15,S17), RoseCuycuy (S13-S16,S18-S19,S21-S22)
 
-**7 Seasons (3):** Jahrod (S7-S10,S12,S15-S16), RoseCuycuy (S13-S16,S18-S19,S21), MadamGiggles (S15-S21)
+**7 Seasons (2):** Jahrod (S7-S10,S12,S15-S16), MadamGiggles (S15-S21)
 
-**6 Seasons (6):** CameronJacob00 (S1-S2,S4-S5,S10,S18), HappierUpHere (S1-S6), Lazmark (S1,S3-S5,S8-S9), SILSKY (S1,S3-S5,S11,S18), 1ime (S2-S7), ZebraPantz (S9-S14)
+**6 Seasons (7):** CameronJacob00 (S1-S2,S4-S5,S10,S18), HappierUpHere (S1-S6), Lazmark (S1,S3-S5,S8-S9), SILSKY (S1,S3-S5,S11,S18), 1ime (S2-S7), ZebraPantz (S9-S14), jimmyjegs (S14-S15,S17,S19-S20,S22)
 
-**5 Seasons (10):** Lilyberry (S1,S6-S9), lizziekraft (S1-S2,S4,S7-S8), MegaGran (S2-S4,S7,S14), SofaSeven (S2-S5,S7), FullRunThrough (S4,S8-S10,S13), nFang (S5-S7,S9-S10), SleepyOwl101 (S5,S9-S11,S13), C8sun (S6-S10), draylor09 (S7-S8,S15-S16,S18), jimmyjegs (S14-S15,S17,S19-S20)
+**5 Seasons (10):** Lilyberry (S1,S6-S9), lizziekraft (S1-S2,S4,S7-S8), MegaGran (S2-S4,S7,S14), SofaSeven (S2-S5,S7), FullRunThrough (S4,S8-S10,S13), nFang (S5-S7,S9-S10), SleepyOwl101 (S5,S9-S11,S13), C8sun (S6-S10), draylor09 (S7-S8,S15-S16,S18), MichaelPlayMC (S16,S18-S19,S21-S22)
 
-**4 Seasons (15):** Banji3000 (S1,S3,S5,S15), FalingDutchman (S1,S3-S4,S14), Kayker (S1-S3,S7), Keli_Jo (S1,S6-S8), motherofmermaids (S2-S4,S8), Tallone55 (S2,S6-S7,S10), Sten_Stone (S4,S9,S15,S17), Codwhy (S5-S6,S8-S9), Bofishkix (S6,S8-S9,S11), van98 (S6-S9), Angue (S7-S10), H_L_llama (S13-S15,S20), BuildingBard300 (S16-S19), Markedbooboy (S16-S17,S19-S20), MichaelPlayMC (S16,S18-S19,S21)
+**4 Seasons (14):** Banji3000 (S1,S3,S5,S15), FalingDutchman (S1,S3-S4,S14), Kayker (S1-S3,S7), Keli_Jo (S1,S6-S8), motherofmermaids (S2-S4,S8), Tallone55 (S2,S6-S7,S10), Sten_Stone (S4,S9,S15,S17), Codwhy (S5-S6,S8-S9), Bofishkix (S6,S8-S9,S11), van98 (S6-S9), Angue (S7-S10), H_L_llama (S13-S15,S20), BuildingBard300 (S16-S19), Markedbooboy (S16-S17,S19-S20)
 
-**3 Seasons (9):** Hefaistros (S1-S3), DrJimJim (S2-S4), Fnassau (S2-S4), wickedreine (S2,S4,S7), EmIsThem (S7-S8,S11), TinytheT_Rex (S7,S9,S14), YouCanCallMeXo (S7-S8,S10), Zeiyuri (S10-S11,S15), Xzeaulor (S14-S16)
+**3 Seasons (13):** Hefaistros (S1-S3), DrJimJim (S2-S4), Fnassau (S2-S4), wickedreine (S2,S4,S7), EmIsThem (S7-S8,S11), TinytheT_Rex (S7,S9,S14), YouCanCallMeXo (S7-S8,S10), Zeiyuri (S10-S11,S15), Klobb (S13-S14,S22), Xzeaulor (S14-S16), DocElectric (S20-S22), Ninetals38 (S20-S22), ShootingGoats (S20-S22)
 
-**2 Seasons (16):** TheRedHuldra (S1-S2), Wolfheart738 (S1-S2), CCRascal (S2,S4), ArrowsofCara (S3-S4), TheFuzzyMole (S3-S4), ghostblurr (S5-S6), TayUHC (S5,S11), commitstaxfraud (S9-S10), Glarza (S9,S12), MaxEvasion (S12,S14), 798abc (S13-S14), Klobb (S13-S14), Hamishhhh (S16-S17), DocElectric (S20-S21), Ninetals38 (S20-S21), ShootingGoats (S20-S21)
+**2 Seasons (16):** TheRedHuldra (S1-S2), Wolfheart738 (S1-S2), CCRascal (S2,S4), ArrowsofCara (S3-S4), TheFuzzyMole (S3-S4), ghostblurr (S5-S6), TayUHC (S5,S11), commitstaxfraud (S9-S10), Glarza (S9,S12), MaxEvasion (S12,S14), 798abc (S13-S14), Hamishhhh (S16-S17), Greeples (S20,S22), CAMKART100 (S21-S22), doctrzombie (S21-S22), JampoJohn (S21-S22)
 
-**1 Season (34):** Blugy (S1), boemboom (S1), InterstellarFish (S1), Ixtaccihuatl (S1), MinecraftBabe007 (S1), OmniShade (S1), OrangeDugong (S1), Daslisal (S2), MajesticTaco_ (S2), WriteEscape (S2), michkeline (S3), thatchitoguy777 (S3), the_digs (S3), BannedEnergy (S4), MartyBoy392 (S4), SoberBartender (S4), PedroLeGamer (S6), TommySuX (S6), neocrypter (S7), GReimer (S8), ButcherBunny666 (S9), DancingKoi (S9), TwistedStranger (S10), xXDigitalMonkXx (S12), omnikrxn (S13), sosillytoo1971 (S15), WackoFlipper (S15), Yatorin (S15), pigghetti (S18), Greeples (S20), Jalapinecone (S20), CAMKART100 (S21), doctrzombie (S21), JampoJohn (S21)
+**1 Season (31):** Blugy (S1), boemboom (S1), InterstellarFish (S1), Ixtaccihuatl (S1), MinecraftBabe007 (S1), OmniShade (S1), OrangeDugong (S1), Daslisal (S2), MajesticTaco_ (S2), WriteEscape (S2), michkeline (S3), thatchitoguy777 (S3), the_digs (S3), BannedEnergy (S4), MartyBoy392 (S4), SoberBartender (S4), PedroLeGamer (S6), TommySuX (S6), neocrypter (S7), GReimer (S8), ButcherBunny666 (S9), DancingKoi (S9), TwistedStranger (S10), xXDigitalMonkXx (S12), omnikrxn (S13), sosillytoo1971 (S15), WackoFlipper (S15), Yatorin (S15), pigghetti (S18), Jalapinecone (S20), TehBaconBrawlerZ (S22)
 
 ---
 ### Debutants
@@ -617,5 +641,7 @@
 **S20 (5):** DocElectric, Greeples, Jalapinecone, Ninetals38, ShootingGoats
 
 **S21 (3):** CAMKART100, doctrzombie, JampoJohn
+
+**S22 (1):** TehBaconBrawlerZ
 
 ---
