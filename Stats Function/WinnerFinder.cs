@@ -29,7 +29,13 @@ namespace StatsAnalyzer
             {
                 if (team.Contains(teamWinner))
                 {
-                    winnerInfo.WinningTeam = team;
+                    if (winnerInfo.WinningTeam == "")
+                    {
+                        winnerInfo.WinningTeam = team;
+                    } else
+                    {
+                        winnerInfo.SecondWinningTeam = team;
+                    }
 
                     //Splits the team string to get each player and gives them a win
                     String[] winnerSplit = team.Split(',');
